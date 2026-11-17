@@ -11,14 +11,14 @@ Este documento consolida o diagnóstico técnico completo da coleta (`crawler`),
 | **Concursos coletados em `./data/raw`** | 260 concursos | **260 concursos** | — |
 | **Pastas de Cargos (`metadata.json`) em `./data/raw`** | 1.554 cargos | **1.554 cargos** | — |
 | **Gabaritos Oficiais em `./data/raw` (`gabarito.pdf`)** | 1.535 PDFs (98,8%) | **1.547 PDFs (100% das provas objetivas)** | **+12 gabaritos oficiais recuperados** |
-| **Provas Objetivas processadas (`./data/processed/*.json`)** | 1.309 provas (220 concursos) | **1.498 provas (231 concursos)** | **+189 provas objetivas (+14,4%)** |
-| **Provas de 4 Alternativas (`A`–`D`) recuperadas** | 0 provas | **187 provas** (`cfc`, `dnit23`, `fbn12`, `dpgems21`) | **+187 provas** |
-| **Total de Questões Objetivas extraídas e validadas** | 80.031 questões | **99.522 questões** | **+19.491 questões reais (+24,4%)** |
-| **Questões com Gabarito Oficial pareado (`answer`)** | 76.999 (96,2%) | **99.522 (100,00%)** | **+22.523 questões gabaritadas** |
-| **Questões com Disciplina extraída (`discipline`)** | 0 (0,0%) | **80.496 questões (80,9%) em 1.344 provas (89,7%)** | **+80.496 questões classificadas** |
-| **Questões Anuladas identificadas (`annulled: true`)** | 1.215 questões | **1.683 questões** | **+468 anulações mapeadas** |
-| **Imagens / Gráficos recortados em 200 DPI (`images/`)** | 4.054 PNGs (3.827 vinculados) | **5.286 PNGs (5.115 vinculados às questões)** | **+1.232 imagens recortadas** |
-| **Provas com 100% das questões gabaritadas** | 1.209 de 1.309 (92,4%) | **1.498 de 1.498 (100,00%)** | **100% de cobertura oficial** |
+| **Provas Objetivas processadas (`./data/processed/*.json`)** | 1.309 provas (220 concursos) | **1.499 provas (231 concursos)** | **+190 provas objetivas (+14,5%)** |
+| **Provas de 4 Alternativas (`A`–`D`) e Certo/Errado (`C`/`E`)** | 0 provas | **187 provas (A–D) + 1 prova C/E (`mre_tipo-a`)** | **+188 provas recuperadas** |
+| **Total de Questões Objetivas extraídas e validadas** | 80.031 questões | **101.079 questões** | **+21.048 questões reais (+26,3%)** |
+| **Questões com Gabarito Oficial pareado (`answer`)** | 76.999 (96,2%) | **101.079 (100,00%)** | **+24.080 questões gabaritadas** |
+| **Questões com Disciplina extraída (`discipline`)** | 0 (0,0%) | **101.079 questões (100,00%)** | **+101.079 questões classificadas** |
+| **Questões Anuladas identificadas (`annulled: true`)** | 1.215 questões | **1.704 questões** | **+489 anulações mapeadas** |
+| **Imagens / Gráficos recortados em 200 DPI (`images/`)** | 4.054 PNGs (3.827 vinculados) | **5.313 PNGs (5.270 vinculados às questões)** | **+1.259 imagens recortadas** |
+| **Provas com 100% das questões gabaritadas** | 1.209 de 1.309 (92,4%) | **1.499 de 1.499 (100,00%)** | **100% de cobertura oficial** |
 | **Provas com gabarito parcial** | 42 provas (3,2%) | **0 provas (0,0%)** | **100% resolvido** |
 | **Provas sem gabarito extraído (`0%`)** | 58 provas (4,4%) | **0 provas (0,0%)** | **100% resolvido** |
 | **Buracos internos na sequência (`sequence gaps`)** | 7.293 questões em 744 provas | **697 questões em 213 provas (99,3% de retenção)** | **Redução de 90,4% nas perdas internas** |

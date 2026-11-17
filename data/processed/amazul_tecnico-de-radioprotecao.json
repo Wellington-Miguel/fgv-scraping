@@ -4,24 +4,1010 @@
   "concurso_title": "Concurso Público para a Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL",
   "cargo_title": "Técnico de Radioproteção",
   "exam_type": "Tipo 1",
-  "total_questions": 1,
+  "total_questions": 59,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
-      "statement": "(D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "discipline": "Língua Portuguesa",
+      "statement": "Sobre o texto, é correto afirmar que",
       "alternatives": {
-        "A": "120",
-        "B": "119",
-        "C": "96",
-        "D": "86",
-        "E": "24 16 (NMCB02_06) Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes? (A) 0,9% (B) 1,8% (C) 9,0% (D) 18% (E) 50% 17 (NMCB02_07) Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então (A) cada um dos dados da distribuição é maior que 7. (B) nenhum dos dados da distribuição é maior que 7. (C) algum dos dados da distribuição é maior que 7. (D) algum dos dados da distribuição é menor que 7. (E) todos os dados da distribuição são iguais a 7. 18 (NMCB02_08) O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de (A) 15%. (B) 30%. (C) 36%. (D) 64%. (E) 70%. 19 (NMCB02_09) No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A? (A) 0 (B) 1 (C) 2 (D) 3 (E) 4 20 (NMCB02_10) Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é (A) 2. (B) 5. (C) 7. (D) 10. (E) 17."
+        "A": "há uma perspectiva infeliz da insônia, observada sobretudo pela perturbação que assola o processo de escrita.",
+        "B": "a solidão e o nada adquirem aspectos tanto positivos quanto negativos a partir do ponto que se observa em relação aos períodos de vigília.",
+        "C": "embora relatada de maneira positiva, a conclusão a que chega o narrador é a de que a insônia amplia a angústia do isolamento.",
+        "D": "a insônia contribui para a motivação literária, considerando a ausência de sons e interrupções do desenvolvimento criativo.",
+        "E": "o ponto de vista negativo da insônia se ampara na dependência de medicamentos estimuladores de sono."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 2,
+      "discipline": "Língua Portuguesa",
+      "statement": "A presença dos sinais de interrogação no primeiro parágrafo indica",
+      "alternatives": {
+        "A": "um questionamento direto ao leitor.",
+        "B": "uma ironia sobre o tema.",
+        "C": "o ritmo e a entoação do texto.",
+        "D": "uma proposição reflexiva.",
+        "E": "uma reação de surpresa."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 3,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que se observa uma linguagem em sentido figurado.",
+      "alternatives": {
+        "A": "Ler? Jamais. Escrever? Jamais.",
+        "B": "Quase nenhum ruído.",
+        "C": "Então fico sentada na sala, sentindo.",
+        "D": "Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar.",
+        "E": "Até que, como o sol subindo, a casa vai acordando."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 4,
+      "discipline": "Língua Portuguesa",
+      "statement": "No trecho: “Sente-se uma coisa que só tem um nome: solidão”, a palavra em destaque apresenta referência",
+      "alternatives": {
+        "A": "catafórica.",
+        "B": "anafórica.",
+        "C": "dêitica.",
+        "D": "intertextual.",
+        "E": "reiterativa."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 5,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o elemento destacado funciona como complemento do verbo.",
+      "alternatives": {
+        "A": "Então fico sentada na sala.",
+        "B": "E sinto-me feliz por nada.",
+        "C": "E o telefone à mão.",
+        "D": "E nem posso pedir que me telefonem no meio da noite.",
+        "E": "O mar é meu."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "Observe a frase: “Então fico sentada na sala, sentindo” e julgue as sentenças a seguir: I. Não há sujeito expresso na oração. II. Não há sujeito porque ficar é um verbo de estado; portanto, impessoal. III. O sujeito se faz saber pela desinência do verbo. IV. Observa-se um caso de sujeito simples, com um só núcleo. Estão corretas",
+      "alternatives": {
+        "A": "I e III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e IV, apenas.",
+        "D": "I, II e III, apenas.",
+        "E": "III e IV, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 7,
+      "discipline": "Língua Portuguesa",
+      "statement": "O texto explora o uso de orações coordenadas assindéticas, que imprimem um ritmo acelerado à narrativa. Assinale a opção em que não se observa este uso.",
+      "alternatives": {
+        "A": "Passa-se um tempo, olha-se o relógio, quem sabe são cinco horas. Nem quatro chegaram. Quem estará acordado agora?",
+        "B": "E nem posso pedir que me telefonem no meio da noite, pois posso estar dormindo e não perdoar.",
+        "C": "Quase nenhum ruído. Só o das ondas do mar batendo na praia.",
+        "D": "O mar é meu, o sol é meu, a terra é minha.",
+        "E": "Ler? Jamais. Escrever? Jamais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 8,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção correta sobre a característica que classifica o texto como uma crônica.",
+      "alternatives": {
+        "A": "Privilegia-se o conteúdo narrado por meio de linguagem objetiva.",
+        "B": "Há ênfase na descrição do cenário e no detalhamento da narração.",
+        "C": "Destaca-se um ponto de vista, utilizando-se de argumentos comprováveis para defendê-lo.",
+        "D": "Nota-se uma apresentação de um tema social, a partir do apagamento de uma perspectiva individual sobre o assunto.",
+        "E": "Adota-se a subjetividade a fim de explorar um tema relacionado à condição humana."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o valor do elemento destacado está incorretamente explicado.",
+      "alternatives": {
+        "A": "Tomo café com gosto - modo.",
+        "B": "E nem posso pedir que me telefonem no meio da noite – tempo.",
+        "C": "E o telefone à mão – lugar.",
+        "D": "E o telefone mudo, sem aquele toque súbito que sobressalta – explicação.",
+        "E": "Tomar uma pílula para dormir – fim."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 10,
+      "discipline": "Língua Portuguesa",
+      "statement": "Os verbos no texto encontram-se majoritariamente no presente do indicativo, apontando para ações descritas com certo grau de verdade e concretude. No entanto, há usos que indicam outros sentidos, como",
+      "alternatives": {
+        "A": "o futuro do pretérito reforçando uma possibilidade, em “ninguém me perdoaria o vício”.",
+        "B": "o gerúndio indicando dúvida, em “então fico sentada na sala, sentindo”.",
+        "C": "o infinitivo ressaltando a ação acabada, em “de repente despertar no meio da noite e ter essa coisa rara: solidão”.",
+        "D": "o pretérito perfeito marcando um passado contínuo, em “nem quatro chegaram”.",
+        "E": "o futuro do presente assinalando simultaneidade, em “quem estará acordado agora?”."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 11,
+      "discipline": "Língua Portuguesa",
+      "statement": "Um número natural N deixa resto 1 na divisão por 2 se, e somente se, deixa resto",
+      "alternatives": {
+        "A": "0 ou 2, na divisão por 4.",
+        "B": "1 ou 3, na divisão por 4.",
+        "C": "2 ou 5, na divisão por 6.",
+        "D": "1 ou 3 na divisão por 6.",
+        "E": "2 ou 5, na divisão por 7."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 12,
+      "discipline": "Língua Portuguesa",
+      "statement": "Em março de 2025, o tempo médio de atendimento em um posto de serviços era de 2h 45min. Em abril, o tempo médio de atendimento foi reduzido em 30%. O tempo médio de atendimento em abril foi de",
+      "alternatives": {
+        "A": "1h 55min 30s.",
+        "B": "1h 50min 30s.",
+        "C": "49min 30s.",
+        "D": "2h 15min.",
+        "E": "1h 15min."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 13,
+      "discipline": "Língua Portuguesa",
+      "statement": "Considere as seguintes premissas: • Se apenas um entre João e Maria mora no bairro do Butantã, então o elefante é azul. • Se João não mora do bairro do Butantã, então a galinha é verde. • Se Maria mora no bairro do Butantã, então o cavalo é amarelo. • O elefante não é azul. Logo,",
+      "alternatives": {
+        "A": "nem Maria, nem João, moram no bairro do Butantã.",
+        "B": "ou a galinha é amarela, ou o cavalo é verde.",
+        "C": "Maria e João moram no bairro do Butantã.",
+        "D": "os três animais não possuem a mesma cor.",
+        "E": "a galinha é verde ou o cavalo é amarelo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": "Língua Portuguesa",
+      "statement": "1 (D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "alternatives": {
+        "A": "120",
+        "B": "119",
+        "C": "96",
+        "D": "86",
+        "E": "24"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": "Língua Portuguesa",
+      "statement": "Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes?",
+      "alternatives": {
+        "A": "0,9%",
+        "B": "1,8%",
+        "C": "9,0%",
+        "D": "18%",
+        "E": "50%"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 17,
+      "discipline": "Língua Portuguesa",
+      "statement": "Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então",
+      "alternatives": {
+        "A": "cada um dos dados da distribuição é maior que 7.",
+        "B": "nenhum dos dados da distribuição é maior que 7.",
+        "C": "algum dos dados da distribuição é maior que 7.",
+        "D": "algum dos dados da distribuição é menor que 7.",
+        "E": "todos os dados da distribuição são iguais a 7."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 18,
+      "discipline": "Língua Portuguesa",
+      "statement": "O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de",
+      "alternatives": {
+        "A": "15%.",
+        "B": "30%.",
+        "C": "36%.",
+        "D": "64%.",
+        "E": "70%."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-radioprotecao_q18.png",
+      "page_number": 5
+    },
+    {
+      "question_number": 19,
+      "discipline": "Língua Portuguesa",
+      "statement": "No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A?",
+      "alternatives": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": "Língua Portuguesa",
+      "statement": "Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é",
+      "alternatives": {
+        "A": "2.",
+        "B": "5.",
+        "C": "7.",
+        "D": "10.",
+        "E": "17."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 21,
+      "discipline": "Noções de Informática",
+      "statement": "Em um setor administrativo, uma impressora de rede, configurada para obter endereço IP automaticamente, deixa de funcionar repentinamente. Todos os computadores do setor continuam acessando a Internet normalmente, porém nenhum deles consegue enviar documentos para impressão – inclusive quando a tentativa é feita utilizando diretamente o endereço IP previamente configurado da impressora. Ao verificar o equipamento, constata-se que a impressora está ligada, conectada fisicamente à rede e sem falhas aparentes de hardware. Não há servidor de impressão intermediário, e a comunicação ocorre diretamente entre os computadores e a impressora na rede local. Nessa situação, o serviço de rede cuja indisponibilidade ou falha na concessão explica de forma direta a interrupção do funcionamento da impressora é o",
+      "alternatives": {
+        "A": "DHCP – Dynamic Host Configuration Protocol.",
+        "B": "DNS – Domain Name System.",
+        "C": "FTP – File Transfer Protocol.",
+        "D": "HTTP – Hypertext Transfer Protocol.",
+        "E": "NAT – Network Address Translation."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a navegação na Internet, por meio de navegadores, são utilizados identificadores textuais padronizados para localizar e acessar recursos disponibilizados em servidores, como páginas HTML, imagens e serviços Web. Esse identificador, que define onde o recurso está localizado e como pode ser acessado no contexto da Web, é denominado(a)",
+      "alternatives": {
+        "A": "mecanismo de busca empregado para localizar o recurso.",
+        "B": "navegador utilizado pelo usuário.",
+        "C": "protocolo de comunicação utilizado.",
+        "D": "serviço de hospedagem do recurso.",
+        "E": "URL (Uniform Resource Locator) associada ao recurso."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a organização de arquivos em um computador com o sistema operacional Windows versão 11 BR, um usuário seleciona um arquivo, pressiona a combinação de teclas SHIFT+DELETE e confirma a ação solicitada pelo sistema. Em seguida, ele não encontra mais o arquivo no diretório onde estava e tenta entender o que ocorreu. Nessa situação, a ação executada pelo sistema foi",
+      "alternatives": {
+        "A": "bloquear o arquivo para edição.",
+        "B": "criar automaticamente uma cópia do arquivo.",
+        "C": "excluir o arquivo permanentemente.",
+        "D": "mover o arquivo para a lixeira do Windows.",
+        "E": "transportar o arquivo para a pasta temporária c:\\windows\\temp."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 24,
+      "discipline": "Noções de Informática",
+      "statement": "Durante uma rotina corporativa, um colaborador percebeu que um determinado aplicativo, anteriormente funcional, passou a não conseguir mais estabelecer conexão com servidores específicos externos, embora outros aplicativos ainda consigam acessar normalmente a Internet. Após checagens iniciais, constatou-se que não havia falhas físicas no dispositivo, que a conexão com a rede seguia ativa e que as configurações do aplicativo estavam corretas. Ao registrar um chamado, foi informado pela equipe de suporte que a interrupção ocorreu devido à aplicação de uma nova política de segurança da informação, voltada ao controle de acessos externos por software específico. Considerando o contexto apresentado e somente as alternativas a seguir apresentadas, indique qual mecanismo adotado pela equipe de suporte mantém compatibilidade com o contexto descrito:",
+      "alternatives": {
+        "A": "Adoção de criptografia para garantir a confidencialidade das conexões com a Internet.",
+        "B": "Ativação de filtro antispam para proteger o sistema contra mensagens suspeitas recebidas por e-mail.",
+        "C": "Atualização do antivírus para bloquear automaticamente softwares com acesso externo.",
+        "D": "Implementação de regras de firewall para restringir comunicações por endereço, porta ou aplicação.",
+        "E": "Realização de backup dos dados para prevenir perdas decorrentes de falhas no acesso à rede."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 25,
+      "discipline": "Noções de Informática",
+      "statement": "Um usuário de um software de edição de planilhas eletrônicas precisa inserir, em uma determinada planilha, um valor exatamente no ponto onde se cruzam a sua terceira linha e sua segunda coluna. Nesse tipo de aplicativo, essa posição corresponde a uma",
+      "alternatives": {
+        "A": "anotação.",
+        "B": "célula.",
+        "C": "intervalo.",
+        "D": "link.",
+        "E": "pasta de trabalho."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 26,
+      "discipline": "Língua Inglesa",
+      "statement": "Based on the text, analyze the assertions below: I. Environmental crimes and disputes over land ownership have only recently become a problem. II. The three activities mentioned in the first paragraph are natural events. III. Startups and global teams are joining efforts to make protection technology more available. Choose the correct answer:",
+      "alternatives": {
+        "A": "Only I is correct.",
+        "B": "Only II is correct.",
+        "C": "Only III is correct.",
+        "D": "Only I and III are correct.",
+        "E": "All three assertions are correct."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 27,
+      "discipline": "Língua Inglesa",
+      "statement": "In “When suspicious activity is detected” (2nd paragraph), the verb is in the same voice as in:",
+      "alternatives": {
+        "A": "Machines can help humans in forest protection.",
+        "B": "Modern drones were used to monitor deforestation.",
+        "C": "The agencies are trying to protect the environment.",
+        "D": "Technology is providing data to help assess damage.",
+        "E": "Space agencies have launched satellites to track fires."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": "Língua Inglesa",
+      "statement": "The genitive case in “Brazil’s AI systems monitor changes” (2nd paragraph) also occurs in:",
+      "alternatives": {
+        "A": "The team’s finished their project ahead of schedule.",
+        "B": "The surveillance project’s moving along nicely.",
+        "C": "The community’s been helping the authorities.",
+        "D": "The group’s been working on this for months.",
+        "E": "The partners’ collaboration is seen essential."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 29,
+      "discipline": "Língua Inglesa",
+      "statement": "In “before they happen” (3rd paragraph), the pronoun is replacing:",
+      "alternatives": {
+        "A": "crimes.",
+        "B": "patrols.",
+        "C": "rangers.",
+        "D": "chances.",
+        "E": "patterns."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 30,
+      "discipline": "Língua Inglesa",
+      "statement": "“Like” in “like seasonal plant shifts” (4th paragraph) indicates a(n):",
+      "alternatives": {
+        "A": "preference.",
+        "B": "estimate.",
+        "C": "approval.",
+        "D": "addition.",
+        "E": "example."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 31,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico de radioproteção ao calibrar uma câmara de ionização no interior da sala de comando de raios X, observou o valor de 2,5x10-4 C.kg-1. Sabendo que essa grandeza representa a quantidade de carga de íons produzida por unidade de massa de ar, a grandeza física medida no interior da sala é caracterizada por",
+      "alternatives": {
+        "A": "dose absorvida.",
+        "B": "atividade.",
+        "C": "exposição.",
+        "D": "dose equivalente.",
+        "E": "kerma."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 32,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante o levantamento radiométrico de um ambiente hospitalar, o profissional de radioproteção precisou converter unidades antigas para o Sistema Internacional (SI). Analise as afirmativas a seguir: I. Uma exposição de 1 roentgen (R) é equivalente a 2,58 × 10⁻⁴ C/kg, unidade SI de exposição no ar; II. Uma atividade de 3,0 mCi (milicurie) equivale a aproximadamente 11,1 × 10⁷ Bq, considerando que 1 Ci = 3,7×1010 Bq; III. Uma dose absorvida de 100 rad corresponde a 1 Gy, sabendo que 1 Gy=100 rad, portanto, 1 rad = 0,01 Gy. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I e II, apenas.",
+        "B": "I e III, apenas.",
+        "C": "II e III, apenas.",
+        "D": "Todas as afirmativas estão corretas.",
+        "E": "Nenhuma afirmativa está correta."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 33,
+      "discipline": "Língua Inglesa",
+      "statement": "Ao realizar duas radiografias torácicas o técnico de radiologia observou que, mesmo mantendo parâmetros similares de exposição (kVp, mA e tempo), a imagem radiográfica de um paciente obeso apresentou contraste muito menor que a imagem de um paciente magro. Tentando solucionar o problema, o técnico, decide ajustar o feixe de radiação e verificar as condições do equipamento antes de repetir o exame. Com base na situação apresentada, analise as afirmativas a seguir: I. O aumento da espessura do paciente aumenta a atenuação do feixe de raios X, reduzindo o contraste da imagem; II. A verificação do colimador e do filtro é irrelevante para o contraste da imagem, pois esses componentes só interferem na dose, e não na qualidade da imagem; III. As imagens ficaram diferentes devido à variação da densidade corporal; deve-se aumentar kVp e mAs para o paciente obeso e diminuir para o magro. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 34,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico de radioproteção do setor de medicina nuclear, precisa checar a atividade de uma seringa contendo o radiofármaco TI-201 Cloreto(Tálio-201), que será administrado a um paciente para um exame de cintilografia de perfusão miocárdica. O dosímetro do setor exibe a leitura em milicurie (mCi), mas o relatório de controle de qualidade exige que o valor esteja em Becquerel (Bq), conforme o Sistema Internacional de Unidades (SI). O dosímetro mostra 8,0 mCi. O técnico deve converter esse valor para Becquerel antes de registrar. Dado que 1 Ci = 3,7 × 10¹⁰ Bq, o valor a ser registrado é",
+      "alternatives": {
+        "A": "2,96 × 10⁵ Bq.",
+        "B": "2,96 × 10⁷ Bq.",
+        "C": "2,96 × 10⁸ Bq.",
+        "D": "2,96 × 10⁹ Bq.",
+        "E": "2,96 × 10¹⁰ Bq."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 35,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico de Radioproteção em um levantamento radiométrico de rotina mediu para uma fonte de 137Cs uma taxa de exposição de 6,4 R/h a uma distância de 1,0 m. A taxa de exposição dessa fonte, em mR/h, a uma distância de 4 m é",
+      "alternatives": {
+        "A": "100.",
+        "B": "640.",
+        "C": "6400.",
+        "D": "400.",
+        "E": "4.000."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 36,
+      "discipline": "Língua Inglesa",
+      "statement": "Todo técnico de radioproteção, durante sua formação, é informado que as radiações são produzidas por processos de ajustes no núcleo ou nas camadas eletrônicas, ou por interação de partículas ou ondas eletromagnéticas com o núcleo ou com o átomo. A radiação resultante da ionização do meio por uma partícula carregada, com transferência significativa de energia a um elétron orbital, denomina-se",
+      "alternatives": {
+        "A": "fótons secundários.",
+        "B": "nêutrons de recuo.",
+        "C": "raios delta.",
+        "D": "raios X característico.",
+        "E": "elétrons de valência."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 37,
+      "discipline": "Língua Inglesa",
+      "statement": "Um profissional de proteção radiológica foi chamado para fazer uma avaliação de quatro fontes radioativas que emitem, respectivamente, partículas alfa (α), beta (β), gama (γ) e neutros (n). O chefe da Instalação deseja avaliar o comportamento de cada radiação ao atravessar diferentes tipos de barreiras. O Profissional coloca, na sequência, uma folha de papel, uma placa de alumínio, uma placa de plástico de Polietileno borado (5% a 10% B) e uma placa de chumbo entre as fontes e um detector. Após o teste, o detector só registra radiação ao usar a placa de chumbo como barreira. Com base no poder de penetração das radiações, é correto afirmar que a radiação detectada é",
+      "alternatives": {
+        "A": "alfa (α).",
+        "B": "beta (β).",
+        "C": "gama (γ).",
+        "D": "nêutron(n).",
+        "E": "raio X característico."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 38,
+      "discipline": "Língua Inglesa",
+      "statement": "Testes de blindagem da parte interna do primeiro submarino nuclear brasileiro estão sendo desenvolvidas no Complexo Naval de Itaguaí (CNI). Um técnico em radioproteção faz um levantamento radiométrico de uma estrutura interna usando o detector Geiger-Müller com objetivo de obter a taxa de contagem de uma fonte de radiação gama de alta energia. A intensidade inicial da radiação medida, sem qualquer blindagem, é de 1000 cpm (contagens por minuto). Ao inserir uma barreira de 0,2 cm de um material composto especial (equivalente a chumbo), a intensidade registrada cai para 250 cpm. Sabendo que ln(0,25)=-1,386, assinale a opção que apresenta corretamente o Coeficiente de Atenuação Linear () deste material para a radiação gama em questão.",
+      "alternatives": {
+        "A": "  3,46 cm-1.",
+        "B": "  6,93 cm-1.",
+        "C": "  0,10 cm-1.",
+        "D": "  5,36 cm-1.",
+        "E": "  5,00 cm-1."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 39,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante um teste no aparelho de raios x um técnico de radioproteção visualiza um espectro de raios X de 87 kVp obtido a partir de um alvo de Tugstênio, observam-se picos característicos denominados Kα e Kβ. (https://www.geocities.ws/tomografiademadeira/raiosx.html) Com base na Figura, analise as seguintes assertivas: I. O pico Kα é originado quando um elétron de uma camada L preenche uma vacância na camada K, liberando um fóton de energia característica do material do anodo. II. O pico Kβ resulta da transição de um elétron da camada M para a camada K, sendo, portanto, de energia maior que a radiação Kα. III. A intensidade do pico Kβ é normalmente maior que a do pico Kα, pois as transições eletrônicas a partir da camada M ocorrem com maior probabilidade. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e III, apenas.",
+        "D": "III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-radioprotecao_q39.png",
+      "page_number": 8
+    },
+    {
+      "question_number": 40,
+      "discipline": "Língua Inglesa",
+      "statement": "Dispositivos emissores de radiação ionizante que não dependem de energia elétrica para gerar fótons gamas ou partículas, caracterizados por serem fontes seladas são chamados",
+      "alternatives": {
+        "A": "medidores nucleares e irradiadores industriais.",
+        "B": "tubos geradores de nêutrons (TGN).",
+        "C": "aceleradores de partículas.",
+        "D": "câmaras gama.",
+        "E": "tomografias por emissão de pósitrons."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 41,
+      "discipline": "Língua Inglesa",
+      "statement": "Em relação a grandeza dose equivalente, analise as assertivas: I. Simbolizada por HT(τ). II. O fator wR reflete o dano biológico relativo de diferentes tipos de radiação. III. Para tipos de radiação ou energia não conhecidas na literatura, o valor de wR pode ser estimado a partir do valor médio do fator de qualidade da radiação Q, a uma profundidade de 10 mm na esfera ICRU. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I e III.",
+        "B": "I, apenas.",
+        "C": "II, apenas.",
+        "D": "III, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 42,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico de radioproteção chega a seguinte conclusão para iniciar uma prática. Sobre os cuidados de radioproteção, analise as afirmativas: I. Nas práticas ocorridas em campo a radiação externa pode ser controlada levando em consideração as três regras da radioproteção: tempo, distância e blindagem. II. O uso do dosímetro individual de corpo inteiro, é exigido para todos os Indivíduos Ocupacionalmente Expostos (IOEs), e ele deve ser posicionado na região de maior exposição, tipicamente na altura do tórax, fora de qualquer avental plumbífero utilizado. III. A dose acumulada por uma pessoa numa prática de campo onde a taxa de dose é constante implicaria que a dose aumenta quadraticamente com o tempo. IV. A dose de radiação ionizante recebida por um Indivíduo Ocupacionalmente Exposto (IOE) ao se afastar de uma fonte pontual é reduzida proporcionalmente à distância, seguindo o princípio da proporcionalidade linear (Lei do Inverso da Distância). Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I e II, apenas.",
+        "B": "II e III, apenas.",
+        "C": "III e IV, apenas.",
+        "D": "I, II e IV, apenas.",
+        "E": "II, III e IV, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 43,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico de radioproteção precisa realizar uma tarefa dentro de uma área controlada onde está instalada uma fonte de Césio-137 (137Cs), o local apresenta uma taxa de dose constante de 80Sv/h (microsieverts por hora). A dose acumulada pelo técnico durante essa atividade, sabendo que o tempo necessário para sua realização é de aproximadamente 30 minutos, é",
+      "alternatives": {
+        "A": "16 Sv.",
+        "B": "40,0 Sv.",
+        "C": "30,0 Sv.",
+        "D": "50,0 Sv.",
+        "E": "2400 Sv."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 44,
+      "discipline": "Língua Inglesa",
+      "statement": "A grandeza que quantifica a exposição do meio à radiação de fótons, essencial para a calibração de equipamentos de radioproteção com padrões de referência nacionais e internacionais, é denominada",
+      "alternatives": {
+        "A": "dose Absorvida.",
+        "B": "exposição.",
+        "C": "dose equivalente.",
+        "D": "fluência.",
+        "E": "kerma."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 45,
+      "discipline": "Língua Inglesa",
+      "statement": "Um trabalhador acabou inalando um gás contendo um radionuclídeo emissor alfa, comprometendo o tecido pulmonar. As informações disponíveis para avaliação dosimétrica são: Dose Absorvida no Pulmão Dpulmões = 0,5 mGy. Fator de Ponderação da Radiação para Partículas Alfa, wR=20. Fator de Ponderação Tecidual para o Pulmão wT= 0,12. Considerando o cenário, analise as afirmativas sobre o cálculo e a definição da Dose Efetiva (E): I. Dose Equivalente: Devido ao alto Fator de Ponderação da Radiação WR= 20 para as partículas alfa, a Dose Equivalente HPulmões recebida pelo órgão é de 10 mSv. II. Cálculo da Dose Efetiva: A Dose Efetiva total para esta exposição específica é de 1,2 mSv. III. Definição da Grandeza: A Dose Efetiva é classificada como uma grandeza de limitação de risco e é utilizada diretamente pelos laboratórios de metrologia para a calibração primária dos instrumentos que medem a Taxa de Dose no ambiente de trabalho. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e II, apenas.",
+        "D": "I, III, apenas.",
+        "E": "I, II, III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 46,
+      "discipline": "Língua Inglesa",
+      "statement": "Um profissional que atua em área controlada sofreu, de forma acidental, uma síndrome da radiação aguda (SAR) localizada em um dos braços, resultando em uma dose absorvida local de 5 Sv. Após quatro dias, a região exposta passou a apresentar vermelhidão, que evoluiu para inchaço e, posteriormente, queda de cabelo temporária. Com base na classificação dos efeitos biológicos da radiação ionizante, analise as afirmativas a seguir e assinale (V) para verdadeira ou (F) para falsa. ( ) Tratam-se de efeitos estocásticos, cuja ocorrência é probabilística, sem dose limiar, e cuja severidade depende da dose recebida. ( ) Tratam-se de efeitos determinísticos, que se manifestam apenas acima de uma dose limiar, sendo a gravidade proporcional à dose absorvida. ( ) São efeitos estocásticos, associados a riscos tardios, como a indução de câncer. ( ) São efeitos determinísticos, que só se manifestam acima de uma dose limiar, e cuja gravidade diminui com o aumento da dose absorvida. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternatives": {
+        "A": "V – V – F – F.",
+        "B": "F – V – V – F.",
+        "C": "V – F – V – F.",
+        "D": "F – V – F – V.",
+        "E": "F – V – F – F."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 47,
+      "discipline": "Língua Inglesa",
+      "statement": "A Figura a seguir representa a correlação linear entre dose e efeito, mesmo para baixos valores de dose. (Radioproteção e Dosimetria: Fundamentos. Rio de Janeiro: IRD/CNEN.) Na região de baixas doses, há incertezas experimentais significativas, o que leva ao uso de diferentes modelos de extrapolação. Na figura, são indicados os seguintes comportamentos (a) Modelo linear sem limiar (LNT); (b) Modelo de limiar (threshold); (c) Modelo hormético; (d) Dados experimentais disponíveis. Com base na figura e nos princípios de radioproteção, analise as afirmativas a seguir: I. O modelo linear sem limiar (a) considera que qualquer dose, por menor que seja, implica em algum risco, sendo o mais conservativo e adotado oficialmente pela ICRP. II. O modelo de limiar (b) admite a existência de uma dose mínima abaixo da qual não ocorrem efeitos biológicos detectáveis, sendo aplicável a efeitos determinísticos, como eritema ou catarata. III. O modelo hormético (c) sugere que pequenas doses de radiação podem induzir mecanismos biológicos de reparo, reduzindo a probabilidade de ocorrência de efeitos adversos em comparação à ausência total de exposição. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e III, apenas.",
+        "D": "III, apenas",
+        "E": "Todas as afirmativas estão corretas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-radioprotecao_q47.png",
+      "page_number": 10
+    },
+    {
+      "question_number": 48,
+      "discipline": "Língua Inglesa",
+      "statement": "A interação da radiação ionizante com sistemas biológicos pode ocorrer predominantemente por dois processos distintos: o efeito direto e o efeito indireto. Assinale a opção que apresenta corretamente a distinção entre esses mecanismos e sua importância durante o dano biológico observado.",
+      "alternatives": {
+        "A": "O Efeito Direto tem maior probabilidade de ocorrência e atua ionizando diretamente o DNA, enquanto o efeito indireto gera radicais livres que atuam apenas em proteínas.",
+        "B": "O Efeito Indireto, a radólise da água gera radicais que danificam macromoléculas biológicas, sendo esse o mecanismo predominante nos sistemas vivos.",
+        "C": "O efeito direto seria dominante por envolver a ação do radical. OH sobre o DNA, enquanto o efeito indireto, menos dominante, resultaria do dano provocado por radiação que não atinge diretamente as moléculas-alvo.",
+        "D": "O Efeito indireto só teria importância em altas doses, enquanto o efeito direto seria o único responsável pelos efeitos estocásticos, como o câncer.",
+        "E": "Ambos podem causar efeitos determinísticos e estocásticos, só que a diferença está na dose, e não no mecanismo de interação."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 49,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico de radioproteção precisa informar a diferença entre dosímetros passivos e dosímetros ativos que serão utilizados nas áreas de alta taxa de dose variável, como, instalações nucleares e inspeções próximas a fontes. Considere as seguintes assertivas: I. Dosímetros ativos oferecem leitura instantânea da dose, permitindo a interrupção da atividade mediante a detecção de radiação inesperada. II. Os dosímetros passivos são capazes de sinalizar (com alarmes audíveis e visuais) a excedência de uma taxa de dose predefinida; por outro lado, os modelos ativos limitam-se a indicar a dose total acumulada após o seu uso. III. São exemplos de dosímetros de leitura indireta: os filmes dosimétricos, os dosímetros termoluminescentes e os detectores Iodeto de Sódio NaI. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e III, apenas.",
+        "C": "II e III, apenas.",
+        "D": "II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 50,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico sabe que o EPI deve ser específico para o trabalho com radiação. No entanto, o EPI isolado é inadequado quando_______. Tornando-se necessário a aplicação das três regras da radioproteção. Assinale a alternativa que completa corretamente a afirmação.",
+      "alternatives": {
+        "A": "o trabalhador utiliza avental plumbífero em atividades com exposição a radiação alfa.",
+        "B": "a fonte de radiação é gama de alta energia, e o EPI não possui espessura suficiente para atenuação significativa.",
+        "C": "o trabalhador está em ambiente onde os níveis de radiação estão dentro dos limites autorizados e monitorado.",
+        "D": "os dosímetros indicam doses abaixo do patamar mínimo que acionaria um processo de investigação pela CNEN.",
+        "E": "quando as barreiras estruturais já reduzem a exposição a níveis muito baixos."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 51,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico de radioproteção durante sua atividade em área controlada faz uso de diversos EPIs com intuito de reduzir a exposição ocupacional e respeitando os limites primários estabelecidos em norma. Analise as afirmativas abaixo: I. Aventais plumbíferos protegem contra radiação X e gama, mas não contra nêutrons, que exigem blindagens hidrogenados como Borosilicato hidrogenado. II. O dosímetro individual informa a dose recebida e protege o trabalhador da exposição à radiação X e gama. III. Luvas Plumbíferas: Reduzem a dose de radiação nas mãos e dedos, utilizados principalmente em procedimentos delicados de Medicina Nuclear ou Radiologia Intervencionista, onde há manipulação de fontes. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I e II, apenas.",
+        "B": "I e III, apenas.",
+        "C": "II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 52,
+      "discipline": "Língua Inglesa",
+      "statement": "Sobre os dosímetros individuais tipo OSL (Optically Stimulated Luminescence), analise as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) O dosímetro OSL realmente pode ser lido sem aquecimento, pois o sinal é liberado por estimulação óptica (luz laser ou LED), diferentemente do TLD, que exige aquecimento a altas temperaturas. ( ) A intensidade da luz de luminescência emitida durante a leitura OSL é diretamente proporcional à dose total acumulada no material desde a última leitura, e não à taxa de dose. A OSL mede a energia total depositada e armazenada. ( ) Uma de suas principais características é ser totalmente imune ao fenômeno de fading (perda gradual do sinal de dose ao longo do tempo), e sua leitura é não destrutiva, permitindo reanálises sucessivas ilimitadas da mesma dose. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "V – V – V.",
+        "C": "V – F – F.",
+        "D": "F – V – F.",
+        "E": "F – V – V."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 53,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico de Radioproteção realiza a mudança de fonte na área controlada. A 1 m da fonte pontual de 137Cs (emissora gama), é registrada uma taxa de dose de 1000 Sv/h. O técnico gasta 5 horas para fazer a troca. Com o objetivo de proteger o trabalhador, uma camada semirredutora foi posicionada entre a fonte e o trabalhador como forma de blindar a fonte. A atenuação no ar é desprezível e somente fótons provenientes da fonte contribuem para o ponto de medição. Considerando uma distância de 5 m entre a fonte e o trabalhador, a dose recebida será igual a",
+      "alternatives": {
+        "A": "50 microSv.",
+        "B": "100 microSv.",
+        "C": "150 microSv.",
+        "D": "200 microSv.",
+        "E": "250 microSv."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 54,
+      "discipline": "Língua Inglesa",
+      "statement": "Foi informado ao técnico de radioproteção que existem inúmeras fontes de diversas classificações no depósito de rejeitos. Sobre as classificações das fontes considerando as assertivas a seguir, relacionadas às características das fontes radioativas e à natureza da contaminação: I. Fontes seladas são construídas para evitar a liberação do material radioativo, não oferecendo risco de contaminação em uso normal, mas ainda podem causar exposição externa. II. O risco de contaminação interna depende de como o material radioativo entra no corpo (ingestão, inalação, pele, feridas) e das características específicas da substância (tipo de radiação, energia) e de como o corpo lida com ela (biocinética). III. Fontes radioativas não seladas são aquelas que não possuem um invólucro protetor que impeça o contato direto do material radioativo com o meio ambiente. Um exemplo são os geradores de radioterapia de césio (Cs137) e o Cobalto (Co60). Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 55,
+      "discipline": "Língua Inglesa",
+      "statement": "Imagine um técnico de laboratório que, acidentalmente, ingere uma pequena quantidade de um radionuclídeo que é espalhado pelo corpo inteiro. O Trítio (3H) é um isótopo radioativo do hidrogênio comumente usado em pesquisa e indústria. Segundo a Norma CNEN NN 3.01/2024, a grandeza de proteção a ser usada é a dose",
+      "alternatives": {
+        "A": "absorvida.",
+        "B": "efetiva.",
+        "C": "equivalente.",
+        "D": "equivalente comprometida.",
+        "E": "efetiva comprometida."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 56,
+      "discipline": "Língua Inglesa",
+      "statement": "Levando em conta o contexto da Radioproteção (Norma NN 3.01) e as orientações das Comissões Internacionais (ICRP e ICRU) para a monitoração da exposição à radiação ionizante externa, analise as afirmações a seguir referentes às Grandezas Operacionais. I. Introduzidas por serem facilmente mensuráveis, as Grandezas Operacionais Hp(d) e H*(d) funcionam como indicadores práticos para as Grandezas de Proteção (Dose Equivalente e Dose Efetiva). II. O Hp(d) é a grandeza operacional de monitoração individual, representando o equivalente de dose em tecido mole a uma profundidade d sob a pele. Essencialmente, é a dose medida pelo dosímetro individual. III. A unidade de medida das Grandezas Operacionais, Hp(d) e H*(d), é o Gray (Gy), pois elas se baseiam na energia absorvida por unidade de massa em um ponto, sendo o fator de qualidade (Q) igual a 1 para os fótons. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "III, apenas.",
+        "C": "I e II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 57,
+      "discipline": "Língua Inglesa",
+      "statement": "Sobre as afirmativas a seguir, relativas às responsabilidades dos Supervisores de Radioproteção conforme estabelecido na norma CNEN NN 3.01, classifique-as como verdadeiras (V) ou falsas (F). ( ) Ação ou gestão rápida de medidas protetoras e mitigadoras diante de eventos que coloquem em risco a radioproteção e a segurança radiológica de todos os indivíduos e do meio ambiente. ( ) Liderar a criação e a revisão periódica do Plano de Radioproteção, assegurando que este seja devidamente aplicado em todas as operações. ( ) Comunicar à CNEN, sem a necessidade de prazo estabelecido em norma específica, seu desligamento de qualquer instalação ou atividade em que atue como supervisor de radioproteção; A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternatives": {
+        "A": "V – F – V.",
+        "B": "F – V – F.",
+        "C": "F – F – V.",
+        "D": "V – V – F.",
+        "E": "F – F – F."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 58,
+      "discipline": "Língua Inglesa",
+      "statement": "De acordo com a Norma CNEN NN 3.02 para o Serviços de Radioproteção em definições e siglas, lê-se: conjunto de operações destinadas a fazer com que as indicações de um instrumento correspondam a valores pré-estabelecidos das grandezas a medir. Essa definição corresponde a",
+      "alternatives": {
+        "A": "calibração.",
+        "B": "ajuste.",
+        "C": "aferição.",
+        "D": "exatidão.",
+        "E": "teste de coincidência."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 59,
+      "discipline": "Língua Inglesa",
+      "statement": "Segundo a Norma CNEN NN 3.02, um serviço de Radioproteção em suas obrigações e necessidades diárias devem oferecer os equipamentos para monitoração. Assinale qual o único serviço que não é oferecido pelo setor de radioproteção.",
+      "alternatives": {
+        "A": "monitoração ambiental dos IOE’s em instalações radioativas",
+        "B": "ensaios de instrumentos.",
+        "C": "proteção pessoal, tais como máscaras, luvas, vestimentas etc.",
+        "D": "monitoração de área em radioterapia.",
+        "E": "descontaminação externa de pessoas e superfícies."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 60,
+      "discipline": "Língua Inglesa",
+      "statement": "Segundo a Norma CNEN NN 3.01 (Requisitos Básicos de Radioproteção), o limite primário para Indivíduos Ocupacionalmente Expostos (IOEs) é baseado na dose efetiva anual. Assinale a opção que indica a taxa horária média que um IOE poderia receber se o limite anual de dose 20 mSv/ano fosse recebido de forma uniforme ao longo de um ano, considerando 40 horas semanais e o ano com 50 semanas de trabalho.",
+      "alternatives": {
+        "A": "0,1 mSv/h.",
+        "B": "0,01 mSv/a.",
+        "C": "0,01Sv/h.",
+        "D": "0,01 Sv/h.",
+        "E": "0,01 mSv/h. Realização"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     }
   ]
 }

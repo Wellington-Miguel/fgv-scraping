@@ -4,24 +4,1010 @@
   "concurso_title": "Concurso Público para a Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL",
   "cargo_title": "Técnico de Edificações",
   "exam_type": "Tipo 1",
-  "total_questions": 1,
+  "total_questions": 59,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
-      "statement": "(D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "discipline": "Língua Portuguesa",
+      "statement": "Sobre o texto, é correto afirmar que",
       "alternatives": {
-        "A": "120",
-        "B": "119",
-        "C": "96",
-        "D": "86",
-        "E": "24 16 (NMCB02_06) Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes? (A) 0,9% (B) 1,8% (C) 9,0% (D) 18% (E) 50% 17 (NMCB02_07) Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então (A) cada um dos dados da distribuição é maior que 7. (B) nenhum dos dados da distribuição é maior que 7. (C) algum dos dados da distribuição é maior que 7. (D) algum dos dados da distribuição é menor que 7. (E) todos os dados da distribuição são iguais a 7. 18 (NMCB02_08) O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de (A) 15%. (B) 30%. (C) 36%. (D) 64%. (E) 70%. 19 (NMCB02_09) No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A? (A) 0 (B) 1 (C) 2 (D) 3 (E) 4 20 (NMCB02_10) Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é (A) 2. (B) 5. (C) 7. (D) 10. (E) 17."
+        "A": "há uma perspectiva infeliz da insônia, observada sobretudo pela perturbação que assola o processo de escrita.",
+        "B": "a solidão e o nada adquirem aspectos tanto positivos quanto negativos a partir do ponto que se observa em relação aos períodos de vigília.",
+        "C": "embora relatada de maneira positiva, a conclusão a que chega o narrador é a de que a insônia amplia a angústia do isolamento.",
+        "D": "a insônia contribui para a motivação literária, considerando a ausência de sons e interrupções do desenvolvimento criativo.",
+        "E": "o ponto de vista negativo da insônia se ampara na dependência de medicamentos estimuladores de sono."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 2,
+      "discipline": "Língua Portuguesa",
+      "statement": "A presença dos sinais de interrogação no primeiro parágrafo indica",
+      "alternatives": {
+        "A": "um questionamento direto ao leitor.",
+        "B": "uma ironia sobre o tema.",
+        "C": "o ritmo e a entoação do texto.",
+        "D": "uma proposição reflexiva.",
+        "E": "uma reação de surpresa."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 3,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que se observa uma linguagem em sentido figurado.",
+      "alternatives": {
+        "A": "Ler? Jamais. Escrever? Jamais.",
+        "B": "Quase nenhum ruído.",
+        "C": "Então fico sentada na sala, sentindo.",
+        "D": "Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar.",
+        "E": "Até que, como o sol subindo, a casa vai acordando."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 4,
+      "discipline": "Língua Portuguesa",
+      "statement": "No trecho: “Sente-se uma coisa que só tem um nome: solidão”, a palavra em destaque apresenta referência",
+      "alternatives": {
+        "A": "catafórica.",
+        "B": "anafórica.",
+        "C": "dêitica.",
+        "D": "intertextual.",
+        "E": "reiterativa."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 5,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o elemento destacado funciona como complemento do verbo.",
+      "alternatives": {
+        "A": "Então fico sentada na sala.",
+        "B": "E sinto-me feliz por nada.",
+        "C": "E o telefone à mão.",
+        "D": "E nem posso pedir que me telefonem no meio da noite.",
+        "E": "O mar é meu."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "Observe a frase: “Então fico sentada na sala, sentindo” e julgue as sentenças a seguir: I. Não há sujeito expresso na oração. II. Não há sujeito porque ficar é um verbo de estado; portanto, impessoal. III. O sujeito se faz saber pela desinência do verbo. IV. Observa-se um caso de sujeito simples, com um só núcleo. Estão corretas",
+      "alternatives": {
+        "A": "I e III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e IV, apenas.",
+        "D": "I, II e III, apenas.",
+        "E": "III e IV, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 7,
+      "discipline": "Língua Portuguesa",
+      "statement": "O texto explora o uso de orações coordenadas assindéticas, que imprimem um ritmo acelerado à narrativa. Assinale a opção em que não se observa este uso.",
+      "alternatives": {
+        "A": "Passa-se um tempo, olha-se o relógio, quem sabe são cinco horas. Nem quatro chegaram. Quem estará acordado agora?",
+        "B": "E nem posso pedir que me telefonem no meio da noite, pois posso estar dormindo e não perdoar.",
+        "C": "Quase nenhum ruído. Só o das ondas do mar batendo na praia.",
+        "D": "O mar é meu, o sol é meu, a terra é minha.",
+        "E": "Ler? Jamais. Escrever? Jamais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 8,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção correta sobre a característica que classifica o texto como uma crônica.",
+      "alternatives": {
+        "A": "Privilegia-se o conteúdo narrado por meio de linguagem objetiva.",
+        "B": "Há ênfase na descrição do cenário e no detalhamento da narração.",
+        "C": "Destaca-se um ponto de vista, utilizando-se de argumentos comprováveis para defendê-lo.",
+        "D": "Nota-se uma apresentação de um tema social, a partir do apagamento de uma perspectiva individual sobre o assunto.",
+        "E": "Adota-se a subjetividade a fim de explorar um tema relacionado à condição humana."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o valor do elemento destacado está incorretamente explicado.",
+      "alternatives": {
+        "A": "Tomo café com gosto - modo.",
+        "B": "E nem posso pedir que me telefonem no meio da noite – tempo.",
+        "C": "E o telefone à mão – lugar.",
+        "D": "E o telefone mudo, sem aquele toque súbito que sobressalta – explicação.",
+        "E": "Tomar uma pílula para dormir – fim."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 10,
+      "discipline": "Língua Portuguesa",
+      "statement": "Os verbos no texto encontram-se majoritariamente no presente do indicativo, apontando para ações descritas com certo grau de verdade e concretude. No entanto, há usos que indicam outros sentidos, como",
+      "alternatives": {
+        "A": "o futuro do pretérito reforçando uma possibilidade, em “ninguém me perdoaria o vício”.",
+        "B": "o gerúndio indicando dúvida, em “então fico sentada na sala, sentindo”.",
+        "C": "o infinitivo ressaltando a ação acabada, em “de repente despertar no meio da noite e ter essa coisa rara: solidão”.",
+        "D": "o pretérito perfeito marcando um passado contínuo, em “nem quatro chegaram”.",
+        "E": "o futuro do presente assinalando simultaneidade, em “quem estará acordado agora?”."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 11,
+      "discipline": "Língua Portuguesa",
+      "statement": "Um número natural N deixa resto 1 na divisão por 2 se, e somente se, deixa resto",
+      "alternatives": {
+        "A": "0 ou 2, na divisão por 4.",
+        "B": "1 ou 3, na divisão por 4.",
+        "C": "2 ou 5, na divisão por 6.",
+        "D": "1 ou 3 na divisão por 6.",
+        "E": "2 ou 5, na divisão por 7."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 12,
+      "discipline": "Língua Portuguesa",
+      "statement": "Em março de 2025, o tempo médio de atendimento em um posto de serviços era de 2h 45min. Em abril, o tempo médio de atendimento foi reduzido em 30%. O tempo médio de atendimento em abril foi de",
+      "alternatives": {
+        "A": "1h 55min 30s.",
+        "B": "1h 50min 30s.",
+        "C": "49min 30s.",
+        "D": "2h 15min.",
+        "E": "1h 15min."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 13,
+      "discipline": "Língua Portuguesa",
+      "statement": "Considere as seguintes premissas: • Se apenas um entre João e Maria mora no bairro do Butantã, então o elefante é azul. • Se João não mora do bairro do Butantã, então a galinha é verde. • Se Maria mora no bairro do Butantã, então o cavalo é amarelo. • O elefante não é azul. Logo,",
+      "alternatives": {
+        "A": "nem Maria, nem João, moram no bairro do Butantã.",
+        "B": "ou a galinha é amarela, ou o cavalo é verde.",
+        "C": "Maria e João moram no bairro do Butantã.",
+        "D": "os três animais não possuem a mesma cor.",
+        "E": "a galinha é verde ou o cavalo é amarelo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": "Língua Portuguesa",
+      "statement": "1 (D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "alternatives": {
+        "A": "120",
+        "B": "119",
+        "C": "96",
+        "D": "86",
+        "E": "24"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": "Língua Portuguesa",
+      "statement": "Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes?",
+      "alternatives": {
+        "A": "0,9%",
+        "B": "1,8%",
+        "C": "9,0%",
+        "D": "18%",
+        "E": "50%"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 17,
+      "discipline": "Língua Portuguesa",
+      "statement": "Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então",
+      "alternatives": {
+        "A": "cada um dos dados da distribuição é maior que 7.",
+        "B": "nenhum dos dados da distribuição é maior que 7.",
+        "C": "algum dos dados da distribuição é maior que 7.",
+        "D": "algum dos dados da distribuição é menor que 7.",
+        "E": "todos os dados da distribuição são iguais a 7."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 18,
+      "discipline": "Língua Portuguesa",
+      "statement": "O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de",
+      "alternatives": {
+        "A": "15%.",
+        "B": "30%.",
+        "C": "36%.",
+        "D": "64%.",
+        "E": "70%."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-edificacoes_q18.png",
+      "page_number": 5
+    },
+    {
+      "question_number": 19,
+      "discipline": "Língua Portuguesa",
+      "statement": "No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A?",
+      "alternatives": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": "Língua Portuguesa",
+      "statement": "Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é",
+      "alternatives": {
+        "A": "2.",
+        "B": "5.",
+        "C": "7.",
+        "D": "10.",
+        "E": "17."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 21,
+      "discipline": "Noções de Informática",
+      "statement": "Em um setor administrativo, uma impressora de rede, configurada para obter endereço IP automaticamente, deixa de funcionar repentinamente. Todos os computadores do setor continuam acessando a Internet normalmente, porém nenhum deles consegue enviar documentos para impressão – inclusive quando a tentativa é feita utilizando diretamente o endereço IP previamente configurado da impressora. Ao verificar o equipamento, constata-se que a impressora está ligada, conectada fisicamente à rede e sem falhas aparentes de hardware. Não há servidor de impressão intermediário, e a comunicação ocorre diretamente entre os computadores e a impressora na rede local. Nessa situação, o serviço de rede cuja indisponibilidade ou falha na concessão explica de forma direta a interrupção do funcionamento da impressora é o",
+      "alternatives": {
+        "A": "DHCP – Dynamic Host Configuration Protocol.",
+        "B": "DNS – Domain Name System.",
+        "C": "FTP – File Transfer Protocol.",
+        "D": "HTTP – Hypertext Transfer Protocol.",
+        "E": "NAT – Network Address Translation."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a navegação na Internet, por meio de navegadores, são utilizados identificadores textuais padronizados para localizar e acessar recursos disponibilizados em servidores, como páginas HTML, imagens e serviços Web. Esse identificador, que define onde o recurso está localizado e como pode ser acessado no contexto da Web, é denominado(a)",
+      "alternatives": {
+        "A": "mecanismo de busca empregado para localizar o recurso.",
+        "B": "navegador utilizado pelo usuário.",
+        "C": "protocolo de comunicação utilizado.",
+        "D": "serviço de hospedagem do recurso.",
+        "E": "URL (Uniform Resource Locator) associada ao recurso."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a organização de arquivos em um computador com o sistema operacional Windows versão 11 BR, um usuário seleciona um arquivo, pressiona a combinação de teclas SHIFT+DELETE e confirma a ação solicitada pelo sistema. Em seguida, ele não encontra mais o arquivo no diretório onde estava e tenta entender o que ocorreu. Nessa situação, a ação executada pelo sistema foi",
+      "alternatives": {
+        "A": "bloquear o arquivo para edição.",
+        "B": "criar automaticamente uma cópia do arquivo.",
+        "C": "excluir o arquivo permanentemente.",
+        "D": "mover o arquivo para a lixeira do Windows.",
+        "E": "transportar o arquivo para a pasta temporária c:\\windows\\temp."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 24,
+      "discipline": "Noções de Informática",
+      "statement": "Durante uma rotina corporativa, um colaborador percebeu que um determinado aplicativo, anteriormente funcional, passou a não conseguir mais estabelecer conexão com servidores específicos externos, embora outros aplicativos ainda consigam acessar normalmente a Internet. Após checagens iniciais, constatou-se que não havia falhas físicas no dispositivo, que a conexão com a rede seguia ativa e que as configurações do aplicativo estavam corretas. Ao registrar um chamado, foi informado pela equipe de suporte que a interrupção ocorreu devido à aplicação de uma nova política de segurança da informação, voltada ao controle de acessos externos por software específico. Considerando o contexto apresentado e somente as alternativas a seguir apresentadas, indique qual mecanismo adotado pela equipe de suporte mantém compatibilidade com o contexto descrito:",
+      "alternatives": {
+        "A": "Adoção de criptografia para garantir a confidencialidade das conexões com a Internet.",
+        "B": "Ativação de filtro antispam para proteger o sistema contra mensagens suspeitas recebidas por e-mail.",
+        "C": "Atualização do antivírus para bloquear automaticamente softwares com acesso externo.",
+        "D": "Implementação de regras de firewall para restringir comunicações por endereço, porta ou aplicação.",
+        "E": "Realização de backup dos dados para prevenir perdas decorrentes de falhas no acesso à rede."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 25,
+      "discipline": "Noções de Informática",
+      "statement": "Um usuário de um software de edição de planilhas eletrônicas precisa inserir, em uma determinada planilha, um valor exatamente no ponto onde se cruzam a sua terceira linha e sua segunda coluna. Nesse tipo de aplicativo, essa posição corresponde a uma",
+      "alternatives": {
+        "A": "anotação.",
+        "B": "célula.",
+        "C": "intervalo.",
+        "D": "link.",
+        "E": "pasta de trabalho."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 26,
+      "discipline": "Língua Inglesa",
+      "statement": "Based on the text, analyze the assertions below: I. Environmental crimes and disputes over land ownership have only recently become a problem. II. The three activities mentioned in the first paragraph are natural events. III. Startups and global teams are joining efforts to make protection technology more available. Choose the correct answer:",
+      "alternatives": {
+        "A": "Only I is correct.",
+        "B": "Only II is correct.",
+        "C": "Only III is correct.",
+        "D": "Only I and III are correct.",
+        "E": "All three assertions are correct."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 27,
+      "discipline": "Língua Inglesa",
+      "statement": "In “When suspicious activity is detected” (2nd paragraph), the verb is in the same voice as in:",
+      "alternatives": {
+        "A": "Machines can help humans in forest protection.",
+        "B": "Modern drones were used to monitor deforestation.",
+        "C": "The agencies are trying to protect the environment.",
+        "D": "Technology is providing data to help assess damage.",
+        "E": "Space agencies have launched satellites to track fires."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": "Língua Inglesa",
+      "statement": "The genitive case in “Brazil’s AI systems monitor changes” (2nd paragraph) also occurs in:",
+      "alternatives": {
+        "A": "The team’s finished their project ahead of schedule.",
+        "B": "The surveillance project’s moving along nicely.",
+        "C": "The community’s been helping the authorities.",
+        "D": "The group’s been working on this for months.",
+        "E": "The partners’ collaboration is seen essential."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 29,
+      "discipline": "Língua Inglesa",
+      "statement": "In “before they happen” (3rd paragraph), the pronoun is replacing:",
+      "alternatives": {
+        "A": "crimes.",
+        "B": "patrols.",
+        "C": "rangers.",
+        "D": "chances.",
+        "E": "patterns."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 30,
+      "discipline": "Língua Inglesa",
+      "statement": "“Like” in “like seasonal plant shifts” (4th paragraph) indicates a(n):",
+      "alternatives": {
+        "A": "preference.",
+        "B": "estimate.",
+        "C": "approval.",
+        "D": "addition.",
+        "E": "example. Módulo II Construção Civil e Edificações"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 31,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a inspeção de um canteiro de obras, o técnico de edificações identifica barras de aço destinadas às armaduras do concreto. Ele deve verificar se estão devidamente identificadas conforme as exigências normativas. De acordo com a ABNT NBR 7480:2024, as barras e fios de aço destinados a armaduras de concreto armado devem possuir marcação que permita sua identificação. Essa marcação deve indicar:",
+      "alternatives": {
+        "A": "O fabricante, o tipo de aço e o comprimento da barra.",
+        "B": "O fabricante, o tipo de aço e o diâmetro nominal.",
+        "C": "O número do lote, o tipo de aço e o peso do feixe.",
+        "D": "Apenas o fabricante e o diâmetro nominal.",
+        "E": "Apenas o tipo de aço e o comprimento da barra."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 32,
+      "discipline": "Língua Inglesa",
+      "statement": "Segundo a ABNT NBR 12655:2022, o controle da qualidade do concreto deve considerar parâmetros que assegurem o desempenho e a durabilidade do material. Nesse contexto, o controle da resistência à compressão é feito por meio de",
+      "alternatives": {
+        "A": "corpos de prova moldados com argamassa de cimento e areia.",
+        "B": "corpos de prova moldados com o concreto fresco da obra e ensaiados conforme a NBR 5739.",
+        "C": "análise do abatimento (slump test).",
+        "D": "ensaio de permeabilidade à água em corpos de prova cilíndricos.",
+        "E": "controle visual de fissuras durante o endurecimento."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 33,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a execução de uma laje maciça de concreto armado, o engenheiro responsável percebe que as formas não estão completamente niveladas e que o cobrimento das armaduras pode estar inadequado. O técnico precisa intervir, seguindo as exigências das normas técnicas. De acordo com as NBR 6118:2023 e NBR 14931:2023, o cobrimento nominal das armaduras em elementos estruturais de concreto armado tem a função principal de",
+      "alternatives": {
+        "A": "garantir a aderência entre o aço e o concreto, sem influência na durabilidade da estrutura.",
+        "B": "compensar as variações dimensionais decorrentes da retração do concreto.",
+        "C": "proteger as armaduras contra a corrosão e garantir a aderência necessária ao esforço composto.",
+        "D": "aumentar a resistência à compressão do concreto endurecido.",
+        "E": "facilitar a concretagem e o adensamento da mistura."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 34,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a execução de uma laje, o técnico responsável observa que será necessário empregar um cimento adequado para garantir bom desempenho mecânico e durabilidade. Ele deve escolher o tipo de cimento correto conforme as exigências da obra. De acordo com as normas e práticas usuais de tecnologia dos materiais, o cimento Portland CP-III (alto-forno) é mais indicado quando se deseja",
+      "alternatives": {
+        "A": "rápido ganho de resistência nas primeiras idades.",
+        "B": "maior resistência a ataques de sulfatos e menor calor de hidratação.",
+        "C": "maior aderência à armadura e maior retração.",
+        "D": "concreto com pega rápida para concretagens emergenciais.",
+        "E": "resistência inicial elevada para pré-moldados."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 35,
+      "discipline": "Língua Inglesa",
+      "statement": "Um lote de brita foi entregue na obra com indícios de presença de materiais pulverulentos. O técnico precisa avaliar o impacto dessa característica na qualidade do concreto que será produzido. A presença excessiva de materiais pulverulentos (partículas menores que 0,075 mm) nos agregados para concreto pode",
+      "alternatives": {
+        "A": "melhorar a aderência entre o agregado e a pasta de cimento.",
+        "B": "aumentar a resistência à compressão do concreto endurecido.",
+        "C": "aumentar a demanda de água e reduzir a resistência e durabilidade.",
+        "D": "reduzir o consumo de cimento e aumentar a trabalhabilidade.",
+        "E": "não exercer influência significativa nas propriedades do concreto."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 36,
+      "discipline": "Língua Inglesa",
+      "statement": "Em uma vistoria técnica, foi detectado desplacamento em revestimentos cerâmicos recém-aplicados. O engenheiro solicita que o técnico verifique as possíveis causas relacionadas à aderência entre o substrato e a argamassa colante. Considerando os princípios da tecnologia dos materiais e as normas técnicas, a aderência entre a argamassa colante e o substrato depende, principalmente,",
+      "alternatives": {
+        "A": "do tempo de pega do cimento e do tipo de rejunte utilizado.",
+        "B": "da composição química da cerâmica e da espessura das juntas.",
+        "C": "do preparo adequado da superfície, da umidade do substrato e do tipo de argamassa empregada.",
+        "D": "da absorção de água da cerâmica e da temperatura ambiente.",
+        "E": "da cor da argamassa e do tipo de acabamento superficial."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 37,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a etapa de sondagem de um terreno para construção de uma edificação térrea, o técnico observa a presença de um solo de textura predominantemente arenosa, com pouca coesão e alta drenagem. O solo descrito caracteriza-se como solo",
+      "alternatives": {
+        "A": "argiloso, de alta plasticidade e baixa permeabilidade.",
+        "B": "arenoso, com baixa resistência e sensível à umidade.",
+        "C": "arenoso, de baixa coesão e alta permeabilidade.",
+        "D": "orgânico, com elevada compressibilidade.",
+        "E": "residual, resultante de rocha alterada."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 38,
+      "discipline": "Língua Inglesa",
+      "statement": "Em uma obra de pavimentação, o técnico realiza ensaios de controle tecnológico do aterro compactado. O objetivo é garantir que o solo atinja a densidade especificada em projeto. O ensaio de compactação do solo (Proctor Normal) permite determinar",
+      "alternatives": {
+        "A": "a resistência ao cisalhamento e o módulo de elasticidade do solo.",
+        "B": "o coeficiente de permeabilidade e a porosidade.",
+        "C": "a plasticidade e o limite de liquidez do solo.",
+        "D": "a umidade ótima e a densidade máxima seca do solo.",
+        "E": "a granulometria e o teor de matéria orgânica."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 39,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a execução de um sistema de drenagem em um terreno argiloso, o técnico precisa estimar a velocidade de escoamento da água através do solo para evitar a saturação da base da fundação. A Lei de Darcy, fundamental para o estudo da permeabilidade dos solos, estabelece que a vazão de fluxo de água através de um solo saturado é diretamente proporcional",
+      "alternatives": {
+        "A": "ao gradiente hidráulico e à área de fluxo, sendo proporcional à condutividade hidráulica do solo.",
+        "B": "à diferença de pressão e inversamente proporcional à área de fluxo.",
+        "C": "à área de fluxo e ao gradiente hidráulico, e inversamente proporcional à viscosidade da água.",
+        "D": "à altura manométrica e à densidade do fluido, independentemente da natureza do solo.",
+        "E": "à profundidade da camada e à porosidade efetiva, sem influência da viscosidade."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 40,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante o acompanhamento da concretagem de uma viga biapoiada, o técnico observa a posição das armaduras longitudinais. O engenheiro explica que elas devem ser dispostas de acordo com o tipo de esforço que a viga sofre. Em uma viga biapoiada submetida a uma carga vertical uniformemente distribuída, o esforço predominante na região central é de",
+      "alternatives": {
+        "A": "compressão axial.",
+        "B": "tração longitudinal.",
+        "C": "cisalhamento máximo.",
+        "D": "torção máxima.",
+        "E": "momento fletor máximo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 41,
+      "discipline": "Língua Inglesa",
+      "statement": "Em um projeto de cobertura metálica simples, o técnico precisa verificar as reações de apoio de uma viga biapoiada sujeita a uma carga concentrada no meio do vão, para transmitir corretamente os esforços aos pilares. Uma viga biapoiada de 4 m de vão está submetida a uma carga concentrada de 8 kN aplicada no meio do vão. Desconsiderando o peso próprio, as reações nos apoios A e B serão, respectivamente,",
+      "alternatives": {
+        "A": "8 kN e 8 Kn.",
+        "B": "4 kN e 4 kN.",
+        "C": "2 kN e 6 kN.",
+        "D": "0 kN e 8 kN.",
+        "E": "6 kN e 2 kN."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 42,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a análise de uma passarela em concreto armado contínua sobre três apoios, o engenheiro menciona que o sistema é hiperestático, e que sua análise requer métodos específicos, como o das forças ou o dos deslocamentos. Uma estrutura é considerada hiperestática quando",
+      "alternatives": {
+        "A": "o número de incógnitas é menor que o número de equações de equilíbrio disponíveis.",
+        "B": "o número de incógnitas é igual ao número de equações de equilíbrio.",
+        "C": "o número de reações e esforços internos independe do equilíbrio estático.",
+        "D": "o número de incógnitas é maior que o número de equações de equilíbrio, exigindo condições adicionais de compatibilidade de deformações.",
+        "E": "é composta exclusivamente por apoios móveis e vínculos simples."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 43,
+      "discipline": "Língua Inglesa",
+      "statement": "Um técnico em edificações foi contratado para auxiliar no planejamento do canteiro de obras de um edifício residencial. O engenheiro solicita que ele compreenda os objetivos principais dessa etapa de planejamento. A principal finalidade do projeto de canteiro de obras é",
+      "alternatives": {
+        "A": "definir o traçado das vias de acesso externas à obra.",
+        "B": "determinar a sequência de execução das fundações e estruturas.",
+        "C": "estabelecer o cronograma financeiro e de compras.",
+        "D": "projetar o layout interno das unidades habitacionais.",
+        "E": "organizar o espaço físico da obra visando segurança, produtividade e fluxo eficiente."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 44,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a vistoria do canteiro de uma obra pública, o fiscal observa que o depósito de materiais está localizado ao lado do refeitório, sem isolamento físico adequado. O técnico deve avaliar se a disposição está conforme as normas. De acordo com a NR 18, o layout do canteiro de obras deve",
+      "alternatives": {
+        "A": "ser definido livremente pela construtora, sem exigência de normas técnicas.",
+        "B": "priorizar a estética e o conforto visual dos operários.",
+        "C": "posicionar áreas de vivência próximas a fontes de ruído e poeira para facilitar o acesso.",
+        "D": "garantir a separação adequada entre áreas de vivência e áreas de trabalho, considerando segurança e salubridade.",
+        "E": "ser planejado apenas após o início das atividades da obra."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 45,
+      "discipline": "Língua Inglesa",
+      "statement": "Em um projeto de edifício comercial, o engenheiro propõe implantar práticas sustentáveis no canteiro, incluindo o reaproveitamento de materiais e o controle de resíduos. O técnico deve propor soluções de acordo com as normas e boas práticas de gestão ambiental. Segundo as boas práticas de gestão de canteiros, a implantação de medidas sustentáveis deve",
+      "alternatives": {
+        "A": "misturar resíduos recicláveis e orgânicos para reduzir o volume.",
+        "B": "implementar áreas específicas e sinalizadas para armazenamento e triagem de resíduos da construção.",
+        "C": "dispor os resíduos diretamente no solo até o recolhimento pela coleta pública.",
+        "D": "priorizar a queima de sobras de madeira no local para economia de transporte.",
+        "E": "desconsiderar o reaproveitamento de água de chuva por exigir alto investimento."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 46,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a vistoria de uma residência, o técnico observa que o reservatório superior foi instalado sem a tubulação que garante o fluxo de ar e o controle da pressão durante o enchimento e o esvaziamento. De acordo com a ABNT NBR 5626:2020, a tubulação cuja função é impedir a formação de vácuo e garantir o equilíbrio de pressão no reservatório denomina-se tubo",
+      "alternatives": {
+        "A": "de descarga.",
+        "B": "de ventilação.",
+        "C": "extravasor.",
+        "D": "de limpeza.",
+        "E": "de sucção."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 47,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante o uso de um banheiro em um edifício antigo, percebe-se que o ralo emite mau cheiro e ocorre o esvaziamento do fecho hídrico do sifão. O técnico identifica falhas no sistema de ventilação. De acordo com a NBR 8160:1999, o sistema de ventilação das instalações de esgoto sanitário tem como principal objetivo",
+      "alternatives": {
+        "A": "aumentar a vazão de descarga dos aparelhos sanitários.",
+        "B": "permitir o escoamento do ar atmosférico para o interior do ramal de descarga.",
+        "C": "evitar a quebra dos fechos hídricos dos desconectores, assegurando o funcionamento adequado do sistema.",
+        "D": "reduzir a temperatura interna das tubulações.",
+        "E": "promover o escoamento das águas pluviais no mesmo sistema."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 48,
+      "discipline": "Língua Inglesa",
+      "statement": "Em um edifício residencial de padrão médio, os moradores reclamam que a água quente demora a chegar aos pontos de uso, principalmente nos chuveiros localizados nos andares superiores. O técnico responsável propõe uma solução baseada em boas práticas e na norma vigente da ABNT. De acordo com a ABNT NBR 5626:2020 – Sistemas prediais de água fria e água quente, uma estratégia eficaz para reduzir o desperdício de água e energia causada pelo atraso na chegada da água quente aos pontos de consumo é",
+      "alternatives": {
+        "A": "aumentar a temperatura de saída do aquecedor em 10 °C.",
+        "B": "reduzir o diâmetro das tubulações de água quente para aumentar a velocidade do escoamento.",
+        "C": "utilizar aquecedores individuais em cada ponto de consumo.",
+        "D": "instalar um sistema de recirculação de água quente, mantendo a temperatura nas tubulações.",
+        "E": "remover o isolamento térmico das tubulações para dissipar o calor acumulado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 49,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a elaboração do orçamento de uma residência unifamiliar, o técnico precisa determinar o custo total da construção antes da execução, considerando materiais, mão de obra e equipamentos. O orçamento de uma obra tem como principal finalidade",
+      "alternatives": {
+        "A": "estimar o custo global da construção, servindo de base para planejamento, licitação e controle.",
+        "B": "definir o projeto arquitetônico e estrutural da edificação.",
+        "C": "controlar o cronograma físico-financeiro da execução da obra.",
+        "D": "determinar apenas o custo dos materiais de construção.",
+        "E": "substituir o planejamento de obra e o cronograma de execução."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 50,
+      "discipline": "Língua Inglesa",
+      "statement": "Na elaboração do orçamento de um pavimento de concreto, o técnico utiliza dados de produtividade, custos de insumos e encargos sociais para calcular o custo unitário por metro quadrado. Em uma composição de custo unitário de um serviço de construção civil, os principais componentes são:",
+      "alternatives": {
+        "A": "Materiais, encargos financeiros e lucro operacional.",
+        "B": "Mão de obra, materiais, equipamentos e encargos sociais.",
+        "C": "Equipamentos, transporte, administração central e tributos.",
+        "D": "Apenas materiais e equipamentos.",
+        "E": "Projetos e taxas municipais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 51,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a fase de estudo preliminar de um edifício comercial, o engenheiro solicita ao técnico um orçamento com base em custos globais por metro quadrado, pois ainda não há detalhamento completo dos projetos executivos. O tipo de orçamento que se baseia em indicadores médios de custo por unidade construída, adequado para estudos de viabilidade e fases iniciais de projeto, denomina-se orçamento",
+      "alternatives": {
+        "A": "executivo.",
+        "B": "detalhado.",
+        "C": "analítico.",
+        "D": "sintético de execução.",
+        "E": "paramétrico."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 52,
+      "discipline": "Língua Inglesa",
+      "statement": "Antes de iniciar o projeto arquitetônico de um loteamento, o técnico em edificações precisa conhecer as dimensões, o relevo e os limites do terreno. Para isso, é solicitada a realização de um levantamento topográfico. A topografia é o ramo da engenharia que tem como principal objetivo",
+      "alternatives": {
+        "A": "estudar as características químicas do solo para fundações.",
+        "B": "representar graficamente o relevo e os limites de uma porção do terreno.",
+        "C": "determinar a resistência mecânica dos materiais de construção.",
+        "D": "calcular o custo total da obra com base no projeto executivo.",
+        "E": "definir o traçado das redes de esgoto e drenagem pluvial."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 53,
+      "discipline": "Língua Inglesa",
+      "statement": "Em uma obra de pequeno porte, o técnico precisa verificar o desnível entre dois pontos distantes 20 metros. O instrumento utilizado deve permitir leituras de visadas horizontais e verticais com boa precisão. O instrumento topográfico mais adequado para determinar o desnível entre dois pontos por meio de visadas horizontais é o",
+      "alternatives": {
+        "A": "Teodolito.",
+        "B": "Nível óptico.",
+        "C": "GPS geodésico.",
+        "D": "Trena metálica.",
+        "E": "Prisma Circular."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 54,
+      "discipline": "Língua Inglesa",
+      "statement": "Em um canteiro de obras, é necessário verificar se o terreno está sendo nivelado conforme o projeto. O técnico realiza medições com nível e mira, obtendo leituras de ré e vante em vários pontos. Durante o nivelamento geométrico, o técnico obtém uma leitura de ré de 1,235 m e uma leitura de vante de 1,870 m. Considerando que a cota do ponto de ré é 102,000 m, a cota do ponto de vante será",
+      "alternatives": {
+        "A": "102,635 m",
+        "B": "103,870 m",
+        "C": "102,000 m",
+        "D": "101,365 m",
+        "E": "101,000 m"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 55,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante uma inspeção em um canteiro de obras, o técnico observa que alguns trabalhadores estão realizando o corte de vergalhões com esmerilhadeira sem o uso de óculos de proteção. O encarregado questiona se esse item é realmente obrigatório. De acordo com as normas regulamentadoras, o uso de Equipamentos de Proteção Individual (EPIs) é obrigatório sempre que",
+      "alternatives": {
+        "A": "o empregador considerar que o ambiente é perigoso.",
+        "B": "o trabalhador estiver em fase de treinamento.",
+        "C": "a obra estiver em fase de acabamento.",
+        "D": "o equipamento utilizado for novo.",
+        "E": "as medidas de proteção coletiva forem insuficientes para controlar os riscos."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 56,
+      "discipline": "Língua Inglesa",
+      "statement": "Em uma obra de edifício residencial, o técnico em segurança do trabalho identifica que o acesso às áreas de trabalho em altura é feito por escadas improvisadas e sem guarda-corpos. Ele alerta o engenheiro e técnico responsáveis de que a situação contraria as normas vigentes. Conforme a NR 18 – Condições de Segurança e Saúde no Trabalho na Indústria da Construção, é obrigatória a instalação de proteções coletivas, como guarda-corpos e rodapés, em",
+      "alternatives": {
+        "A": "áreas onde haja circulação de pedestres, independentemente da altura.",
+        "B": "qualquer obra com mais de dois pavimentos.",
+        "C": "áreas de convivência e refeitórios.",
+        "D": "locais de trabalho e de circulação com desníveis superiores a 2,0 m em relação ao nível adjacente.",
+        "E": "locais onde o serviço for realizado no subsolo."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 57,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a execução de uma edificação em terreno com alto nível de lençol freático, o técnico observa a presença de umidade excessiva nas paredes do subsolo e na fundação. Para resolver o problema, o engenheiro propõe a implantação de um sistema de drenagem subterrânea, utilizando tubos perfurados envoltos em material filtrante. Em relação à drenagem subterrânea, assinale a alternativa correta.",
+      "alternatives": {
+        "A": "O material filtrante ao redor do tubo perfurado evita o entupimento do sistema e o carreamento de finos.",
+        "B": "Sua função é captar e conduzir apenas águas pluviais superficiais.",
+        "C": "Os subdrenos devem ser instalados acima do nível do lençol freático para evitar saturação do solo.",
+        "D": "O uso de tubos perfurados é proibido, pois favorece a infiltração da água no solo.",
+        "E": "A drenagem subterrânea é indicada somente para áreas urbanas pavimentadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 58,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a execução de um empreendimento de grande porte, o setor de qualidade observou que um lote de tubos metálicos entregues pela fornecedora apresentava medidas fora das especificações do projeto. O técnico responsável deve decidir qual procedimento adotar conforme os princípios da garantia da qualidade estabelecidos em normas técnicas. De acordo com a CNEN-NN-1.16, o tratamento dado a um item que não atende aos requisitos especificados deve seguir o controle previsto no item:",
+      "alternatives": {
+        "A": "Controle de aquisições.",
+        "B": "Controle de inspeções e testes.",
+        "C": "Registros de garantia da qualidade.",
+        "D": "Controle de itens não conformes.",
+        "E": "Controle de processos especiais."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 59,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante a revisão de um projeto executivo, o técnico em edificações percebe que as escalas utilizadas não permitem visualizar adequadamente os detalhes e que algumas cotas foram lançadas de forma inconsistente. Para garantir clareza e padronização, o desenho deve obedecer às normas da ABNT que tratam da representação e da cotagem de elementos gráficos. De acordo com as normas ABNT NBR 17006:2021 e ABNT NBR 17068:2022, é correto afirmar que",
+      "alternatives": {
+        "A": "as escalas podem ser escolhidas livremente, desde que caibam na folha, sem necessidade de manter proporção.",
+        "B": "a cotagem deve ser feita de forma artística, priorizando a estética do desenho em vez da legibilidade técnica.",
+        "C": "as vistas ortográficas não são obrigatórias quando o desenho é feito em escala reduzida.",
+        "D": "o uso de mais de uma escala na mesma prancha é proibido em qualquer tipo de projeto.",
+        "E": "as cotas devem ser expressas de forma clara e legível, sem duplicação de medidas, e as escalas devem garantir a proporcionalidade entre o desenho e o objeto real."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 60,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante o desenvolvimento de um edifício público, o técnico em edificações acompanha o processo de compatibilização dos projetos de arquitetura, estrutura e instalações utilizando um modelo BIM compartilhado. De acordo com as normas ABNT NBR ISO 19650-1:2025 e NBR ISO 19650-2:2025, o uso da Modelagem da Informação da Construção (BIM) na coordenação e compatibilização de projetos tem como principal vantagem",
+      "alternatives": {
+        "A": "eliminar completamente a necessidade de revisão dos projetos após a aprovação inicial.",
+        "B": "substituir todas as normas de projeto e execução existentes.",
+        "C": "restringir o acesso às informações do modelo a apenas um profissional responsável.",
+        "D": "permitir o gerenciamento colaborativo das informações e a detecção de interferências entre disciplinas, reduzindo retrabalhos e aumentando a eficiência do projeto.",
+        "E": "simplificar o projeto reduzindo o número de elementos representados. Realização"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     }
   ]
 }

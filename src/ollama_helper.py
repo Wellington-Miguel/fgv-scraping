@@ -105,6 +105,20 @@ ENUNCIADO DA QUESTÃO:
 {statement}
 \"\"\""""
 
+    PROMPT_CLASSIFY_DISCIPLINE_BATCH = """Você é um especialista em taxonomia de provas de concursos públicos da banca FGV.
+Abaixo estão questões da prova para o cargo "{cargo_title}".
+Classifique CADA questão (pelo seu número) na sua respectiva DISCIPLINA padrão de concursos públicos em português (exemplos: "Língua Portuguesa", "Raciocínio Lógico-Matemático", "Informática", "Direito Constitucional", "Direito Administrativo", "Direito Civil", "Direito Processual Civil", "Direito Penal", "Direito Processual Penal", "Direito Tributário", "Direito Financeiro", "Direito Empresarial", "Direito do Consumidor", "Direito Ambiental", "Direito Eleitoral", "Direitos Humanos", "Contabilidade Geral", "Auditoria", "Administração Pública", "Economia", "Legislação Institucional", "Pedagogia e Legislação Educacional", "Saúde Pública / SUS").
+NUNCA deixe nenhuma questão sem disciplina.
+
+Retorne APENAS um objeto JSON válido onde a chave é o número da questão (como string) e o valor é o nome da disciplina:
+{
+  "1": "Língua Portuguesa",
+  "2": "Direito Constitucional"
+}
+
+QUESTÕES PARA CLASSIFICAR:
+{questions_block}"""
+
     PROMPT_SOLVE_QUARANTINE_QUESTION = """Você é um professor especialista na banca FGV resolvendo uma questão cujo gabarito oficial está em quarentena.
 Analise rigorosamente o enunciado e as alternativas abaixo e indique a alternativa correta (A, B, C, D ou E).
 IMPORTANTE: Esta resposta será marcada no banco de dados com a flag `answer_source = "ai_quarantine"` (nunca como gabarito oficial).
@@ -290,3 +304,39 @@ ALTERNATIVAS:
         if data and isinstance(data.get("discipline"), str):
             return data["discipline"].strip()
         return None
+
+    def classify_questions_batch(
+        self, questions: List[Tuple[int, str]], cargo_title: str
+    ) -> Dict[int, str]:
+        """
+        Classifica um lote de questões `(question_number, statement)` via `llama3.1:8b` em uma única chamada JSON.
+        """
+        if not questions:
+            return {}
+        lines = [
+            f"[{q_num}] {re.sub(r'\\s+', ' ', stmt).strip()[:240]}"
+            for q_num, stmt in questions
+        ]
+        prompt = self.PROMPT_CLASSIFY_DISCIPLINE_BATCH.replace(
+            "{cargo_title}", cargo_title
+        ).replace("{questions_block}", "\n".join(lines))
+        data = self._generate_json(prompt)
+        if not data or not isinstance(data, dict):
+            return {}
+
+        # Suporta tanto {"1": "Disciplina"} quanto {"questions": {"1": "Disciplina"}}
+        source_map = data
+        if "questions" in data and isinstance(data["questions"], dict):
+            source_map = data["questions"]
+
+        result: Dict[int, str] = {}
+        for k, v in source_map.items():
+            try:
+                q_n = int(re.sub(r"\D+", "", str(k)))
+            except ValueError:
+                continue
+            if isinstance(v, str) and v.strip():
+                result[q_n] = v.strip()
+            elif isinstance(v, dict) and isinstance(v.get("discipline"), str):
+                result[q_n] = v["discipline"].strip()
+        return result

@@ -121,36 +121,61 @@ DISCIPLINE_KEYWORDS = (
     "saude publica",
     "sus",
     "politicas publicas",
+    "correicao",
+    "interpretacao de texto",
+    "pedagogico",
+    "mercado de capitais",
+    "controle interno",
+    "gestao governamental",
+    "relacoes exteriores",
+    "servico consular",
 )
 
 
 class AlternativesSchema(BaseModel):
-    """Schema Pydantic para alternativas da FGV (suporta 5 alternativas A-E ou 4 alternativas A-D)."""
+    """
+    Schema Pydantic para alternativas da FGV:
+    - Múltipla Escolha: A, B, C, D obrigatórias e E opcional (4 ou 5 alternativas).
+    - Certo/Errado (ex: MRE): C ("Certo") e E ("Errado") preenchidas, com A, B, D nulas.
+    """
 
-    A: str = Field(..., min_length=1, description="Texto da alternativa A")
-    B: str = Field(..., min_length=1, description="Texto da alternativa B")
-    C: str = Field(..., min_length=1, description="Texto da alternativa C")
-    D: str = Field(..., min_length=1, description="Texto da alternativa D")
+    A: Optional[str] = Field(default=None, description="Texto da alternativa A")
+    B: Optional[str] = Field(default=None, description="Texto da alternativa B")
+    C: str = Field(..., min_length=1, description="Texto da alternativa C (ou 'Certo')")
+    D: Optional[str] = Field(default=None, description="Texto da alternativa D")
     E: Optional[str] = Field(
         default=None,
-        description="Texto da alternativa E (opcional em exames de 4 alternativas A-D)",
+        description="Texto da alternativa E (ou 'Errado' em provas C/E)",
     )
 
-    @field_validator("A", "B", "C", "D")
+    @field_validator("A", "B", "C", "D", "E")
     @classmethod
-    def clean_required_whitespace(cls, v: str) -> str:
-        cleaned = re.sub(r"\s+", " ", v).strip()
-        if not cleaned:
-            raise ValueError("O texto da alternativa A-D não pode ser vazio.")
-        return cleaned
-
-    @field_validator("E")
-    @classmethod
-    def clean_optional_e(cls, v: Optional[str]) -> Optional[str]:
+    def clean_whitespace_any(cls, v: Optional[str]) -> Optional[str]:
         if v is None:
             return None
         cleaned = re.sub(r"\s+", " ", v).strip()
         return cleaned if cleaned else None
+
+    @model_validator(mode="after")
+    def validate_choice_mode(self) -> "AlternativesSchema":
+        is_certo_errado = (
+            self.A is None
+            and self.B is None
+            and self.D is None
+            and self.C is not None
+            and self.E is not None
+        )
+        is_multiple_choice = (
+            self.A is not None
+            and self.B is not None
+            and self.C is not None
+            and self.D is not None
+        )
+        if not (is_certo_errado or is_multiple_choice):
+            raise ValueError(
+                "A questão deve conter alternativas A-D (múltipla escolha) ou C/E (Certo/Errado)."
+            )
+        return self
 
 
 class QuestionSchema(BaseModel):
@@ -224,16 +249,17 @@ class FGVParser:
     FOOTER_TOP_CUTOFF = 0.935
 
     # Início de questão: exige que o número esteja em sua própria linha (padrão FGV),
+    # opcionalmente seguido por código interno FGV como "(NMCB01_09)" ou "(M1CDGP0200_02)",
     # ou precedido por "Questão", ou seguido de pontuação/duplo espaço + letra maiúscula/aspas
     QUESTION_START_RE = re.compile(
-        r"^(?:(QUEST[ÃA]O)\s+0*(\d{1,3})(?:[ \t]*[\.\-\):]?[ \t]*)(?:\n|$|(?=[A-ZÀ-Ý“\"«]))"
-        r"|0*(\d{1,3})[ \t]*([\.\-\)])?[ \t]*(?:\n|$|(?=[A-ZÀ-Ý“\"«])))(.*)$",
+        r"^(?:(QUEST[ÃA]O)\s+0*(\d{1,3})(?:[ \t]*\([A-Z0-9_\-]{3,20}\))?(?:[ \t]*[\.\-\):]?[ \t]*)(?:\n|$|(?=[A-ZÀ-Ý“\"«]))"
+        r"|0*(\d{1,3})(?:[ \t]*\([A-Z0-9_\-]{3,20}\))?[ \t]*([\.\-\)])?[ \t]*(?:\n|$|(?=[A-ZÀ-Ý“\"«])))(.*)$",
         re.IGNORECASE | re.DOTALL,
     )
 
     # Linha isolada que inicia uma questão dentro de um bloco mesclado
     STANDALONE_Q_LINE_RE = re.compile(
-        r"^(?:QUEST[ÃA]O\s+)?0*(\d{1,3})(?:\s*[\.\-\)]\s*$|\s*$)",
+        r"^(?:QUEST[ÃA]O\s+)?0*(\d{1,3})(?:[ \t]*\([A-Z0-9_\-]{3,20}\))?(?:\s*[\.\-\)]\s*$|\s*$)",
         re.IGNORECASE,
     )
 
@@ -334,12 +360,13 @@ class FGVParser:
 
         expected_q_nums = {q.question_number for q in questions}
 
-        # 2. Extrair mapa de gabarito (Tipo 1) pareado com o cargo real e as questões da prova
+        # 2. Extrair mapa de gabarito (Tipo 1 / Tipo A) pareado com o cargo real e as questões da prova
         answers_map: Dict[int, ValidAnswer] = {}
         if gabarito_path.exists():
+            t_type = "A" if "tipo a" in _norm(exam_type) or cargo_slug == "tipo-a" else "1"
             answers_map = self.parse_gabarito_pdf(
                 gabarito_path,
-                target_type="1",
+                target_type=t_type,
                 cargo_hint=cargo_title,
                 expected_q_nums=expected_q_nums,
             )
@@ -508,6 +535,9 @@ class FGVParser:
         answers_map = answers_map or {}
         doc = fitz.open(prova_path)
         try:
+            if self._is_certo_errado_pdf(doc):
+                return self._parse_certo_errado_doc(doc, answers_map)
+
             if self._is_discursive_only_pdf(doc):
                 return []
 
@@ -563,6 +593,88 @@ class FGVParser:
             return validated_questions
         finally:
             doc.close()
+
+    @staticmethod
+    def _is_certo_errado_pdf(doc: fitz.Document) -> bool:
+        """Detecta se o caderno é uma prova objetiva no formato Certo / Errado (C / E), como MRE."""
+        if len(doc) == 0:
+            return False
+        cover_norm = _norm(doc[0].get_text("text"))
+        return (
+            "julgue o item certo" in cover_norm
+            or ("codigo c" in cover_norm and "codigo e" in cover_norm and "errado" in cover_norm)
+        )
+
+    def _parse_certo_errado_doc(
+        self, doc: fitz.Document, answers_map: Dict[int, ValidAnswer]
+    ) -> List[QuestionSchema]:
+        """Extrai questões de cadernos no modelo Certo/Errado (C/E) em coluna única ou dupla."""
+        questions: List[QuestionSchema] = []
+        shared_context = ""
+        shared_range: Tuple[int, int] = (0, 0)
+
+        for p_idx in range(1, len(doc)):
+            page = doc[p_idx]
+            p_text = page.get_text("text")
+            if "rascunho para a folha de respostas" in _norm(p_text):
+                continue
+
+            h = page.rect.height
+            raw_blocks = [
+                b for b in page.get_text("blocks")
+                if b[6] == 0 and b[3] >= h * 0.08 and b[1] <= h * 0.92
+            ]
+            raw_blocks.sort(key=lambda b: (round(b[1], 1), round(b[0], 1)))
+
+            context_parts: List[str] = []
+            collecting_context = False
+
+            for b in raw_blocks:
+                txt = b[4].replace("\xa0", " ").strip()
+                if not txt:
+                    continue
+                norm_t = _norm(txt)
+                if norm_t.startswith("ministerio das relacoes exteriores") or norm_t.startswith("concurso publico") or norm_t.startswith("prova tipo"):
+                    continue
+
+                # Verifica se é instrução de tabela compartilhada ("Responda às questões de 8 a 13...")
+                m_range = re.search(r"quest[oõ]es\s+de\s+(\d+)\s+a\s+(\d+)", norm_t)
+                if m_range:
+                    shared_range = (int(m_range.group(1)), int(m_range.group(2)))
+                    context_parts = [re.sub(r"\s+", " ", txt)]
+                    collecting_context = True
+                    continue
+
+                m_q = re.match(r"^0*(\d{1,3})\s*\n(.+)$", txt, re.DOTALL)
+                if m_q:
+                    q_num = int(m_q.group(1))
+                    stmt = re.sub(r"\s+", " ", m_q.group(2)).strip()
+                    if collecting_context:
+                        shared_context = " | ".join(context_parts)
+                        collecting_context = False
+                    if shared_range[0] <= q_num <= shared_range[1] and shared_context:
+                        stmt = f"[{shared_context}] {stmt}"
+
+                    ans = answers_map.get(q_num)
+                    questions.append(
+                        QuestionSchema(
+                            question_number=q_num,
+                            discipline="Serviço Consular e Jurídico",
+                            statement=stmt,
+                            alternatives=AlternativesSchema(
+                                A=None, B=None, C="Certo", D=None, E="Errado"
+                            ),
+                            answer=ans,
+                            annulled=(ans == "ANULADA"),
+                            has_image=False,
+                            image_path=None,
+                            page_number=p_idx + 1,
+                        )
+                    )
+                elif collecting_context:
+                    context_parts.append(re.sub(r"\s+", " ", txt))
+
+        return questions
 
     @staticmethod
     def _is_discursive_only_pdf(doc: fitz.Document) -> bool:
@@ -812,43 +924,74 @@ class FGVParser:
 
         return chunks
 
-    @staticmethod
-    def _looks_like_discipline_header(text: str) -> bool:
-        """Identifica se um bloco/linha curta corresponde a um título de Disciplina ou Módulo da FGV."""
+    @classmethod
+    def _looks_like_discipline_header(cls, text: str) -> bool:
+        """
+        Identifica se um bloco de 1 a 3 linhas curtas corresponde a um título de
+        Disciplina ou Módulo da FGV (ex: 'Conhecimentos Básicos\\nLíngua Portuguesa').
+        """
         s = text.strip()
-        if not s or "\n" in s or len(s) < 4 or len(s) > 85:
+        if not s or len(s) < 4 or len(s) > 140:
             return False
-        if s.endswith((".", ":", ";", "?", "!", ",")):
+        lines = [ln.strip() for ln in s.splitlines() if ln.strip()]
+        if not lines or len(lines) > 4:
             return False
-        if re.match(r"^(?:\([A-E]\)|[A-E][\)\.\-]|\d)", s, re.I):
-            return False
-        norm_s = _norm(s)
-        if any(
-            ignore in norm_s
-            for ignore in (
-                "pagina",
-                "tipo 1",
-                "cor branca",
-                "fgv",
-                "texto ",
-                "leia o",
-                "analise",
-                "assinale",
-                "considere",
-                "com base",
-                "segundo o",
-                "de acordo",
-                "observe",
-                "figura",
-                "tabela",
-                "grafico",
-                "disponivel em",
-                "adaptado de",
-                "questao",
-            )
-        ):
-            return False
-        return any(kw in norm_s for kw in DISCIPLINE_KEYWORDS)
+        for ln in lines:
+            if len(ln) > 85 or ln.endswith((".", ":", ";", "?", "!", ",")):
+                return False
+            if re.match(r"^(?:\([A-E]\)|[A-E][\)\.\-]|\d)", ln, re.I):
+                return False
+            norm_ln = _norm(ln)
+            if any(
+                ignore in norm_ln
+                for ignore in (
+                    "pagina",
+                    "tipo 1",
+                    "cor branca",
+                    "fgv",
+                    "texto ",
+                    "leia o",
+                    "analise",
+                    "assinale",
+                    "considere",
+                    "com base",
+                    "segundo o",
+                    "de acordo",
+                    "observe",
+                    "figura",
+                    "tabela",
+                    "grafico",
+                    "disponivel em",
+                    "adaptado de",
+                    "questao",
+                    "questoes",
+                )
+            ):
+                return False
+        norm_all = _norm(" ".join(lines))
+        return any(kw in norm_all for kw in DISCIPLINE_KEYWORDS)
+
+    @staticmethod
+    def _extract_clean_discipline_name(header_text: str) -> str:
+        """
+        Quando o bloco tem 2 linhas como 'Conhecimentos Básicos\\nLíngua Portuguesa' ou
+        'Módulo I\\nLíngua Portuguesa', extrai o nome específico da disciplina ('Língua Portuguesa').
+        """
+        lines = [re.sub(r"\s+", " ", ln).strip() for ln in header_text.splitlines() if ln.strip()]
+        if not lines:
+            return header_text.strip()
+        if len(lines) >= 2:
+            specific = [
+                ln
+                for ln in lines
+                if not re.match(
+                    r"^(?:prova\s+objetiva|m[oó]dulo\s+[i1-9v]+|conhecimentos\s+(?:b[aá]sicos|gerais|espec[ií]ficos)|parte\s+[i1-9v]+|bloco\s+[i1-9v]+)$",
+                    _norm(ln),
+                )
+            ]
+            if specific:
+                return " ".join(specific)
+        return " - ".join(lines)
 
     @staticmethod
     def _detect_repeated_header_footer_lines(doc: fitz.Document) -> set[str]:
@@ -920,7 +1063,7 @@ class FGVParser:
                             questions_raw.append(parsed)
                             last_q_num = parsed["question_number"]
                         current_q = None
-                    current_discipline = stripped_txt
+                    current_discipline = self._extract_clean_discipline_name(stripped_txt)
                     continue
 
             match = self.QUESTION_START_RE.match(stripped_txt)
@@ -934,7 +1077,11 @@ class FGVParser:
                 punct = (match.group(4) or "").strip()
                 remainder = (match.group(5) or "").strip()
                 first_line_only_num = bool(
-                    re.match(r"^(?:QUEST[ÃA]O\s+)?0*\d{1,3}[ \t]*[\.\-\)]?[ \t]*$", stripped_txt.splitlines()[0], re.I)
+                    re.match(
+                        r"^(?:QUEST[ÃA]O\s+)?0*\d{1,3}(?:[ \t]*\([A-Z0-9_\-]{3,20}\))?[ \t]*[\.\-\)]?[ \t]*$",
+                        stripped_txt.splitlines()[0],
+                        re.I,
+                    )
                 )
 
                 # Se `current_q` já está aberta mas ainda NÃO completou (A)-(D),

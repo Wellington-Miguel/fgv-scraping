@@ -4,24 +4,1010 @@
   "concurso_title": "Concurso Público para a Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL",
   "cargo_title": "Operador de Central Termonuclear",
   "exam_type": "Tipo 1",
-  "total_questions": 1,
+  "total_questions": 59,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
-      "statement": "(D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "discipline": "Língua Portuguesa",
+      "statement": "Sobre o texto, é correto afirmar que",
       "alternatives": {
-        "A": "120",
-        "B": "119",
-        "C": "96",
-        "D": "86",
-        "E": "24 16 (NMCB02_06) Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes? (A) 0,9% (B) 1,8% (C) 9,0% (D) 18% (E) 50% 17 (NMCB02_07) Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então (A) cada um dos dados da distribuição é maior que 7. (B) nenhum dos dados da distribuição é maior que 7. (C) algum dos dados da distribuição é maior que 7. (D) algum dos dados da distribuição é menor que 7. (E) todos os dados da distribuição são iguais a 7. 18 (NMCB02_08) O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de (A) 15%. (B) 30%. (C) 36%. (D) 64%. (E) 70%. 19 (NMCB02_09) No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A? (A) 0 (B) 1 (C) 2 (D) 3 (E) 4 20 (NMCB02_10) Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é (A) 2. (B) 5. (C) 7. (D) 10. (E) 17."
+        "A": "há uma perspectiva infeliz da insônia, observada sobretudo pela perturbação que assola o processo de escrita.",
+        "B": "a solidão e o nada adquirem aspectos tanto positivos quanto negativos a partir do ponto que se observa em relação aos períodos de vigília.",
+        "C": "embora relatada de maneira positiva, a conclusão a que chega o narrador é a de que a insônia amplia a angústia do isolamento.",
+        "D": "a insônia contribui para a motivação literária, considerando a ausência de sons e interrupções do desenvolvimento criativo.",
+        "E": "o ponto de vista negativo da insônia se ampara na dependência de medicamentos estimuladores de sono."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 2,
+      "discipline": "Língua Portuguesa",
+      "statement": "A presença dos sinais de interrogação no primeiro parágrafo indica",
+      "alternatives": {
+        "A": "um questionamento direto ao leitor.",
+        "B": "uma ironia sobre o tema.",
+        "C": "o ritmo e a entoação do texto.",
+        "D": "uma proposição reflexiva.",
+        "E": "uma reação de surpresa."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 3,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que se observa uma linguagem em sentido figurado.",
+      "alternatives": {
+        "A": "Ler? Jamais. Escrever? Jamais.",
+        "B": "Quase nenhum ruído.",
+        "C": "Então fico sentada na sala, sentindo.",
+        "D": "Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar.",
+        "E": "Até que, como o sol subindo, a casa vai acordando."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 4,
+      "discipline": "Língua Portuguesa",
+      "statement": "No trecho: “Sente-se uma coisa que só tem um nome: solidão”, a palavra em destaque apresenta referência",
+      "alternatives": {
+        "A": "catafórica.",
+        "B": "anafórica.",
+        "C": "dêitica.",
+        "D": "intertextual.",
+        "E": "reiterativa."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 5,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o elemento destacado funciona como complemento do verbo.",
+      "alternatives": {
+        "A": "Então fico sentada na sala.",
+        "B": "E sinto-me feliz por nada.",
+        "C": "E o telefone à mão.",
+        "D": "E nem posso pedir que me telefonem no meio da noite.",
+        "E": "O mar é meu."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "Observe a frase: “Então fico sentada na sala, sentindo” e julgue as sentenças a seguir: I. Não há sujeito expresso na oração. II. Não há sujeito porque ficar é um verbo de estado; portanto, impessoal. III. O sujeito se faz saber pela desinência do verbo. IV. Observa-se um caso de sujeito simples, com um só núcleo. Estão corretas",
+      "alternatives": {
+        "A": "I e III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e IV, apenas.",
+        "D": "I, II e III, apenas.",
+        "E": "III e IV, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 7,
+      "discipline": "Língua Portuguesa",
+      "statement": "O texto explora o uso de orações coordenadas assindéticas, que imprimem um ritmo acelerado à narrativa. Assinale a opção em que não se observa este uso.",
+      "alternatives": {
+        "A": "Passa-se um tempo, olha-se o relógio, quem sabe são cinco horas. Nem quatro chegaram. Quem estará acordado agora?",
+        "B": "E nem posso pedir que me telefonem no meio da noite, pois posso estar dormindo e não perdoar.",
+        "C": "Quase nenhum ruído. Só o das ondas do mar batendo na praia.",
+        "D": "O mar é meu, o sol é meu, a terra é minha.",
+        "E": "Ler? Jamais. Escrever? Jamais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 8,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção correta sobre a característica que classifica o texto como uma crônica.",
+      "alternatives": {
+        "A": "Privilegia-se o conteúdo narrado por meio de linguagem objetiva.",
+        "B": "Há ênfase na descrição do cenário e no detalhamento da narração.",
+        "C": "Destaca-se um ponto de vista, utilizando-se de argumentos comprováveis para defendê-lo.",
+        "D": "Nota-se uma apresentação de um tema social, a partir do apagamento de uma perspectiva individual sobre o assunto.",
+        "E": "Adota-se a subjetividade a fim de explorar um tema relacionado à condição humana."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o valor do elemento destacado está incorretamente explicado.",
+      "alternatives": {
+        "A": "Tomo café com gosto - modo.",
+        "B": "E nem posso pedir que me telefonem no meio da noite – tempo.",
+        "C": "E o telefone à mão – lugar.",
+        "D": "E o telefone mudo, sem aquele toque súbito que sobressalta – explicação.",
+        "E": "Tomar uma pílula para dormir – fim."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 10,
+      "discipline": "Língua Portuguesa",
+      "statement": "Os verbos no texto encontram-se majoritariamente no presente do indicativo, apontando para ações descritas com certo grau de verdade e concretude. No entanto, há usos que indicam outros sentidos, como",
+      "alternatives": {
+        "A": "o futuro do pretérito reforçando uma possibilidade, em “ninguém me perdoaria o vício”.",
+        "B": "o gerúndio indicando dúvida, em “então fico sentada na sala, sentindo”.",
+        "C": "o infinitivo ressaltando a ação acabada, em “de repente despertar no meio da noite e ter essa coisa rara: solidão”.",
+        "D": "o pretérito perfeito marcando um passado contínuo, em “nem quatro chegaram”.",
+        "E": "o futuro do presente assinalando simultaneidade, em “quem estará acordado agora?”."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 11,
+      "discipline": "Língua Portuguesa",
+      "statement": "Um número natural N deixa resto 1 na divisão por 2 se, e somente se, deixa resto",
+      "alternatives": {
+        "A": "0 ou 2, na divisão por 4.",
+        "B": "1 ou 3, na divisão por 4.",
+        "C": "2 ou 5, na divisão por 6.",
+        "D": "1 ou 3 na divisão por 6.",
+        "E": "2 ou 5, na divisão por 7."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 12,
+      "discipline": "Língua Portuguesa",
+      "statement": "Em março de 2025, o tempo médio de atendimento em um posto de serviços era de 2h 45min. Em abril, o tempo médio de atendimento foi reduzido em 30%. O tempo médio de atendimento em abril foi de",
+      "alternatives": {
+        "A": "1h 55min 30s.",
+        "B": "1h 50min 30s.",
+        "C": "49min 30s.",
+        "D": "2h 15min.",
+        "E": "1h 15min."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 13,
+      "discipline": "Língua Portuguesa",
+      "statement": "Considere as seguintes premissas: • Se apenas um entre João e Maria mora no bairro do Butantã, então o elefante é azul. • Se João não mora do bairro do Butantã, então a galinha é verde. • Se Maria mora no bairro do Butantã, então o cavalo é amarelo. • O elefante não é azul. Logo,",
+      "alternatives": {
+        "A": "nem Maria, nem João, moram no bairro do Butantã.",
+        "B": "ou a galinha é amarela, ou o cavalo é verde.",
+        "C": "Maria e João moram no bairro do Butantã.",
+        "D": "os três animais não possuem a mesma cor.",
+        "E": "a galinha é verde ou o cavalo é amarelo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": "Língua Portuguesa",
+      "statement": "1 (D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "alternatives": {
+        "A": "120",
+        "B": "119",
+        "C": "96",
+        "D": "86",
+        "E": "24"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": "Língua Portuguesa",
+      "statement": "Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes?",
+      "alternatives": {
+        "A": "0,9%",
+        "B": "1,8%",
+        "C": "9,0%",
+        "D": "18%",
+        "E": "50%"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 17,
+      "discipline": "Língua Portuguesa",
+      "statement": "Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então",
+      "alternatives": {
+        "A": "cada um dos dados da distribuição é maior que 7.",
+        "B": "nenhum dos dados da distribuição é maior que 7.",
+        "C": "algum dos dados da distribuição é maior que 7.",
+        "D": "algum dos dados da distribuição é menor que 7.",
+        "E": "todos os dados da distribuição são iguais a 7."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 18,
+      "discipline": "Língua Portuguesa",
+      "statement": "O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de",
+      "alternatives": {
+        "A": "15%.",
+        "B": "30%.",
+        "C": "36%.",
+        "D": "64%.",
+        "E": "70%."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_operador-de-central-termonuclear_q18.png",
+      "page_number": 5
+    },
+    {
+      "question_number": 19,
+      "discipline": "Língua Portuguesa",
+      "statement": "No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A?",
+      "alternatives": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": "Língua Portuguesa",
+      "statement": "Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é",
+      "alternatives": {
+        "A": "2.",
+        "B": "5.",
+        "C": "7.",
+        "D": "10.",
+        "E": "17."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 21,
+      "discipline": "Noções de Informática",
+      "statement": "Em um setor administrativo, uma impressora de rede, configurada para obter endereço IP automaticamente, deixa de funcionar repentinamente. Todos os computadores do setor continuam acessando a Internet normalmente, porém nenhum deles consegue enviar documentos para impressão – inclusive quando a tentativa é feita utilizando diretamente o endereço IP previamente configurado da impressora. Ao verificar o equipamento, constata-se que a impressora está ligada, conectada fisicamente à rede e sem falhas aparentes de hardware. Não há servidor de impressão intermediário, e a comunicação ocorre diretamente entre os computadores e a impressora na rede local. Nessa situação, o serviço de rede cuja indisponibilidade ou falha na concessão explica de forma direta a interrupção do funcionamento da impressora é o",
+      "alternatives": {
+        "A": "DHCP – Dynamic Host Configuration Protocol.",
+        "B": "DNS – Domain Name System.",
+        "C": "FTP – File Transfer Protocol.",
+        "D": "HTTP – Hypertext Transfer Protocol.",
+        "E": "NAT – Network Address Translation."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a navegação na Internet, por meio de navegadores, são utilizados identificadores textuais padronizados para localizar e acessar recursos disponibilizados em servidores, como páginas HTML, imagens e serviços Web. Esse identificador, que define onde o recurso está localizado e como pode ser acessado no contexto da Web, é denominado(a)",
+      "alternatives": {
+        "A": "mecanismo de busca empregado para localizar o recurso.",
+        "B": "navegador utilizado pelo usuário.",
+        "C": "protocolo de comunicação utilizado.",
+        "D": "serviço de hospedagem do recurso.",
+        "E": "URL (Uniform Resource Locator) associada ao recurso."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a organização de arquivos em um computador com o sistema operacional Windows versão 11 BR, um usuário seleciona um arquivo, pressiona a combinação de teclas SHIFT+DELETE e confirma a ação solicitada pelo sistema. Em seguida, ele não encontra mais o arquivo no diretório onde estava e tenta entender o que ocorreu. Nessa situação, a ação executada pelo sistema foi",
+      "alternatives": {
+        "A": "bloquear o arquivo para edição.",
+        "B": "criar automaticamente uma cópia do arquivo.",
+        "C": "excluir o arquivo permanentemente.",
+        "D": "mover o arquivo para a lixeira do Windows.",
+        "E": "transportar o arquivo para a pasta temporária c:\\windows\\temp."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 24,
+      "discipline": "Noções de Informática",
+      "statement": "Durante uma rotina corporativa, um colaborador percebeu que um determinado aplicativo, anteriormente funcional, passou a não conseguir mais estabelecer conexão com servidores específicos externos, embora outros aplicativos ainda consigam acessar normalmente a Internet. Após checagens iniciais, constatou-se que não havia falhas físicas no dispositivo, que a conexão com a rede seguia ativa e que as configurações do aplicativo estavam corretas. Ao registrar um chamado, foi informado pela equipe de suporte que a interrupção ocorreu devido à aplicação de uma nova política de segurança da informação, voltada ao controle de acessos externos por software específico. Considerando o contexto apresentado e somente as alternativas a seguir apresentadas, indique qual mecanismo adotado pela equipe de suporte mantém compatibilidade com o contexto descrito:",
+      "alternatives": {
+        "A": "Adoção de criptografia para garantir a confidencialidade das conexões com a Internet.",
+        "B": "Ativação de filtro antispam para proteger o sistema contra mensagens suspeitas recebidas por e-mail.",
+        "C": "Atualização do antivírus para bloquear automaticamente softwares com acesso externo.",
+        "D": "Implementação de regras de firewall para restringir comunicações por endereço, porta ou aplicação.",
+        "E": "Realização de backup dos dados para prevenir perdas decorrentes de falhas no acesso à rede."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 25,
+      "discipline": "Noções de Informática",
+      "statement": "Um usuário de um software de edição de planilhas eletrônicas precisa inserir, em uma determinada planilha, um valor exatamente no ponto onde se cruzam a sua terceira linha e sua segunda coluna. Nesse tipo de aplicativo, essa posição corresponde a uma",
+      "alternatives": {
+        "A": "anotação.",
+        "B": "célula.",
+        "C": "intervalo.",
+        "D": "link.",
+        "E": "pasta de trabalho."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 26,
+      "discipline": "Língua Inglesa",
+      "statement": "Based on the text, analyze the assertions below: I. Environmental crimes and disputes over land ownership have only recently become a problem. II. The three activities mentioned in the first paragraph are natural events. III. Startups and global teams are joining efforts to make protection technology more available. Choose the correct answer:",
+      "alternatives": {
+        "A": "Only I is correct.",
+        "B": "Only II is correct.",
+        "C": "Only III is correct.",
+        "D": "Only I and III are correct.",
+        "E": "All three assertions are correct."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 27,
+      "discipline": "Língua Inglesa",
+      "statement": "In “When suspicious activity is detected” (2nd paragraph), the verb is in the same voice as in:",
+      "alternatives": {
+        "A": "Machines can help humans in forest protection.",
+        "B": "Modern drones were used to monitor deforestation.",
+        "C": "The agencies are trying to protect the environment.",
+        "D": "Technology is providing data to help assess damage.",
+        "E": "Space agencies have launched satellites to track fires."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": "Língua Inglesa",
+      "statement": "The genitive case in “Brazil’s AI systems monitor changes” (2nd paragraph) also occurs in:",
+      "alternatives": {
+        "A": "The team’s finished their project ahead of schedule.",
+        "B": "The surveillance project’s moving along nicely.",
+        "C": "The community’s been helping the authorities.",
+        "D": "The group’s been working on this for months.",
+        "E": "The partners’ collaboration is seen essential."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 29,
+      "discipline": "Língua Inglesa",
+      "statement": "In “before they happen” (3rd paragraph), the pronoun is replacing:",
+      "alternatives": {
+        "A": "crimes.",
+        "B": "patrols.",
+        "C": "rangers.",
+        "D": "chances.",
+        "E": "patterns."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 30,
+      "discipline": "Língua Inglesa",
+      "statement": "“Like” in “like seasonal plant shifts” (4th paragraph) indicates a(n):",
+      "alternatives": {
+        "A": "preference.",
+        "B": "estimate.",
+        "C": "approval.",
+        "D": "addition.",
+        "E": "example. Módulo II Operação de Usinas Nucleares"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 31,
+      "discipline": "Língua Inglesa",
+      "statement": "A usinagem dos materiais é um dos processos de fabricação mecânica que utiliza máquinas operatrizes e ferramentas de corte com características geométricas definidas. Dentre os vários processos de usinagem, num deles, a peça em seu estado bruto, é fixada e posta em rotação na placa da máquina operatriz e a forma final a ser obtida é produzida pela movimentação da ferramenta de corte que se encontra fixa no castelo (porta ferramenta). Este processo de usinagem entrega o produto com forma geométrica definida, conforme o desenho mecânico desenvolvido e dentro dos parâmetros dimensionais definidos no projeto. O processo que apresenta estas características é a usinagem por",
+      "alternatives": {
+        "A": "torneamento.",
+        "B": "fresamento.",
+        "C": "furação.",
+        "D": "eletroerosão.",
+        "E": "conformação."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 32,
+      "discipline": "Língua Inglesa",
+      "statement": "A furação é um processo de usinagem muito utilizada na fabricação de furos cilíndricos, em diversos materiais. Este processo utiliza uma ferramenta de corte multi e mono cortante que rotaciona em torno do próprio eixo e ao atingir a peça que se encontra fixada na base, remove material na forma de cavaco. A ferramenta utilizada neste processo é o/a",
+      "alternatives": {
+        "A": "Macho.",
+        "B": "Punção.",
+        "C": "Broca.",
+        "D": "Pino guia.",
+        "E": "Alargador."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 33,
+      "discipline": "Língua Inglesa",
+      "statement": "Um conjunto de rolamentos do eixo de um equipamento de transmissão de potência necessita supervisão constante e substituição independente da sua condição atual. A empresa adota um tipo específico de manutenção industrial que se baseia em intervalos de tempo ou ciclo de uso e substitui o item, rolamento, mesmo que ele esteja em plena condição de ser utilizado. Diante desse cenário, a metodologia usada pela empresa caracteriza a manutenção",
+      "alternatives": {
+        "A": "corretiva.",
+        "B": "preventiva.",
+        "C": "preditiva.",
+        "D": "assertiva.",
+        "E": "assertiva-preditiva."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 34,
+      "discipline": "Língua Inglesa",
+      "statement": "Dentre os vários tipos de manutenção utilizados existe uma que se baseia no monitoramento do equipamento em tempo real, permitindo tomar decisões com base em critérios bem definidos, tais como: análise de vibrações, temperatura, análise da condição do óleo lubrificante e outros parâmetros específicos. Esse tipo de manutenção também possibilita que a intervenção no equipamento ocorra em momentos adequados e planejados. Os procedimentos descritos caracterizam a manutenção",
+      "alternatives": {
+        "A": "corretiva.",
+        "B": "preventiva.",
+        "C": "preditiva.",
+        "D": "assertiva.",
+        "E": "assertiva-preditiva."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 35,
+      "discipline": "Língua Inglesa",
+      "statement": "Deseja-se calcular a massa de ar contida numa sala cujo espaço físco possui um volume é de 220 m3, a pressão de 120 kPa e a temperatura de 25 °C. Considere que o ar, em tais condições, tem comportamento de gás perfeito e que a constante R é igual a 0,287kN/(kg⋅K). O valor da massa de ar calculado será",
+      "alternatives": {
+        "A": "301,35 kg.",
+        "B": "219,26 kg.",
+        "C": "298,15 kg.",
+        "D": "308,52 kg.",
+        "E": "315,52 kg."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 36,
+      "discipline": "Língua Inglesa",
+      "statement": "O suco de uva pode ser usado como um indicador natural do pH de uma solução. Isso se dá por conta de uma substância natural chamada antocianina, presente nas uvas, que ao reagir com o meio forma produtos de cores distintas, seguindo um mesmo padrão de cores. Dessa forma, em meio ácido o suco de uva, ficará vermelho- rosa, enquanto em meio básico ficará verde-escuro. Se fizermos um teste com suco de uva, será observada uma coloração verde-escuro",
+      "alternatives": {
+        "A": "no limpa-forno.",
+        "B": "no suco de limão.",
+        "C": "na água destilada.",
+        "D": "no vinagre de maçã.",
+        "E": "na solução de bateria automotiva."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 37,
+      "discipline": "Língua Inglesa",
+      "statement": "Quando um vaso sanitário não é limpo com frequência, é comum haver um depósito contínuo interno de cálcio, magnésio, ferro e manganês, no material cerâmico. Com o tempo, a oxidação dos metais citados confere a essa peça uma mancha de coloração escura que vai do marrom ao preto, dificílima de ser retirada. Para a retirada dessa incrustação na peça cerâmica descrita, a melhor opção seria utilizar",
+      "alternatives": {
+        "A": "vinagre.",
+        "B": "removedor.",
+        "C": "água quente.",
+        "D": "água sanitária.",
+        "E": "ácido muriático."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 38,
+      "discipline": "Língua Inglesa",
+      "statement": "O coeficiente de solubilidade é a quantidade máxima de soluto que pode ser dissolvida em uma quantidade padrão de solvente, em geral 100 g de água, a uma determinada temperatura. Sabe-se que o coeficiente de solubilidade do cloreto de sódio a 20 oC, é 36 g/100 g de água. Se dissolvermos, nessa temperatura, 25 g desse sal em 20 g de água teremos uma solução",
+      "alternatives": {
+        "A": "insaturada.",
+        "B": "supersaturada.",
+        "C": "saturada sem corpo de chão.",
+        "D": "saturada com corpo de chão igual a 7,2 g.",
+        "E": "saturada com corpo de chão igual a 17,8 g."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 39,
+      "discipline": "Língua Inglesa",
+      "statement": "Toda mistura é uma dispersão, existindo três tipos básicos de dispersões, dependendo do tamanho de suas partículas: as soluções verdadeiras, as dispersões coloidais e as suspensões. São exemplos de dispersões coloidais e de suspensões, respectivamente,",
+      "alternatives": {
+        "A": "fumaça e poeira.",
+        "B": "maionese e isopor.",
+        "C": "leite e água com argila.",
+        "D": "pasta de dente e neblina.",
+        "E": "água com açúcar e água com areia."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 40,
+      "discipline": "Língua Inglesa",
+      "statement": "“(...) Olha a chuva! É mentira!!!” Faz parte da tradição, em uma festa junina falar da chuva, em uma grande roda. Na realidade, a chuva é algo muito necessário, mas preocupante quando em excesso. Um aparelho chamado pluviômetro, mede em milímetros, a altura da lâmina de água provocada pela chuva em uma área de 1 m2, onde cada mm de água equivale a um litro de água por metro quadrado. A cidade de Calçoene, no Amapá, possui o maior índice pluviométrico do Brasil, com seus 353,20 mm de chuva, em média por mês. A ordem de grandeza do volume de água, em litros, captado pelo pluviômetro dessa cidade, corresponderá ao final do ano, a",
+      "alternatives": {
+        "A": "10-3",
+        "B": "10-2",
+        "C": "102",
+        "D": "103",
+        "E": "104"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 41,
+      "discipline": "Língua Inglesa",
+      "statement": "Superfícies metálicas, de ferramentas para usinagem, quando submetidas à fricção, podem submeter o operador a choque elétrico. O procedimento técnico denominado aterramento é uma garantia para que essas cargas estáticas sejam descarregadas para terra. Sobre o campo elétrico e seu potencial criado pela eletrização em superfícies condutoras, analise os itens a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) A eletrização estática ocorre somente em ferramentas que estão funcionando com corrente alternada. ( ) O fenômeno da eletrização ocorre quando um corpo eletricamente neutro é carregado por cargas elétricas. ( ) Os procedimentos para eletrizar um corpo neutro são o atrito, o contato e a indução. ( ) Um ambiente com blindagem eletrostática possui maior facilidade para se eletrizar. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternatives": {
+        "A": "V – F – F – V.",
+        "B": "F – V – V – F.",
+        "C": "F – F – F – V.",
+        "D": "V – V – V – F.",
+        "E": "F – V – F – V."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 42,
+      "discipline": "Língua Inglesa",
+      "statement": "Para diminuir a umidade nos motores utilizam-se resistores (R) para elevar a temperatura do meio. Ao analisar valores das grandezas elétricas envolvidas nesse processo, obteve-se uma potência de 500W. Sabendo-se que a tensão de alimentação de R vale 0,2kV, é correto afirmar que o valor da resistência elétrica, em ohms, responsável pelo efeito Joule vale",
+      "alternatives": {
+        "A": "40",
+        "B": "80",
+        "C": "120",
+        "D": "200",
+        "E": "500"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 43,
+      "discipline": "Língua Inglesa",
+      "statement": "Uma determinada liga metálica possui R = 100Ω quando é apresentada como fio condutor com seção circular. Sobre o valor da resistência elétrica dessa liga, analise os itens a seguir: I. A composição da liga afeta diretamente o valor da R. II. Se dobrarmos apenas o comprimento do mesmo condutor, a R dobrará. III. Se dobrarmos apenas o comprimento do mesmo condutor, a R passará a ter metade do valor inicial. IV. Se dobrarmos apenas a seção transversal do mesmo condutor, a R dobrará. V. Se dobrarmos apenas a seção transversal do mesmo condutor, a R passará a ter metade do valor inicial. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, III, IV, apenas.",
+        "B": "II e IV, apenas.",
+        "C": "I, II e V, apenas.",
+        "D": "I, II e IV, apenas.",
+        "E": "III e V, apenas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 44,
+      "discipline": "Língua Inglesa",
+      "statement": "Ao analisar os valores de uma instalação elétrica responsável pela alimentação de um motor de uma bomba d’água, um operador obteve as medições registradas na tabela a seguir. Rede Corrente Potência Tempo 220V 10A 1kW 5h Considerando os valores medidos, a energia consumida, em kWh, foi",
+      "alternatives": {
+        "A": "1,1",
+        "B": "2,2",
+        "C": "5,0",
+        "D": "10,0",
+        "E": "11,5"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 45,
+      "discipline": "Língua Inglesa",
+      "statement": "A figura a seguir é um circuito elétrico simples. Esse circuito é responsável pela excitação do campo de uma máquina operatriz destinada ao corte de lâminas de aço. O valor da corrente que fará a máquina funcionar corretamente, em mA, é",
+      "alternatives": {
+        "A": "2",
+        "B": "15",
+        "C": "25",
+        "D": "65",
+        "E": "130"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_operador-de-central-termonuclear_q45.png",
+      "page_number": 9
+    },
+    {
+      "question_number": 46,
+      "discipline": "Língua Inglesa",
+      "statement": "A figura a seguir é um circuito elétrico alimentado por uma fonte de tensão contínua, sem nenhuma variação, e de valor 120V. O circuito é composto por R = 30Ω, L = 30H e C = 3μF. Após a conclusão do regime transitório a fonte de tensão alimentará o mesmo com uma corrente elétrica total, em ampère, no valor de",
+      "alternatives": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8",
+        "E": "10"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_operador-de-central-termonuclear_q46.png",
+      "page_number": 9
+    },
+    {
+      "question_number": 47,
+      "discipline": "Língua Inglesa",
+      "statement": "A figura a seguir é um circuito elétrico com medidores e alimentado nas extremidades XY. Os medidores representados pelas letras A, B, C e D são respectivamente",
+      "alternatives": {
+        "A": "wattímetro, voltímetro, amperímetro e voltímetro.",
+        "B": "voltímetro, amperímetro, amperímetro e wattímetro.",
+        "C": "amperímetro, wattímetro, wattímetro e voltímetro.",
+        "D": "wattímetro, amperímetro, voltímetro e amperímetro.",
+        "E": "amperímetro, voltímetro, wattímetro e wattímetro."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_operador-de-central-termonuclear_q47.png",
+      "page_number": 9
+    },
+    {
+      "question_number": 48,
+      "discipline": "Língua Inglesa",
+      "statement": "A figura a seguir é parte de um sistema de controle digital, cuja entrada é representada pelas letras A, B, C e D e a saída pela letra Y. Esse circuito lógico compõe uma das células básicas do microprocessador responsável pelo sinal de realimentação da excitação de um compensador síncrono. Com o objetivo de controlar a potência reativa do compensador, o operador tem de garantir sinal 1 (um) nas entradas",
+      "alternatives": {
+        "A": "A e C",
+        "B": "B e C",
+        "C": "B e D",
+        "D": "A e D",
+        "E": "C e D"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_operador-de-central-termonuclear_q48.png",
+      "page_number": 9
+    },
+    {
+      "question_number": 49,
+      "discipline": "Língua Inglesa",
+      "statement": "A figura a seguir representa um sistema de controle do gerador de uma usina termonuclear. Para garantir os padrões de confiabilidade do sistema de geração de energia elétrica, um operador necessita de um padrão de comportamento determinado pelo sistema de controle atuante. Sobre o sistema de controle utilizado nos geradores das usinas termonucleares, analise os itens a seguir. I. São utilizados sistemas de controle em malha fechada. II. Sensores fornecem informações sobre as grandezas elétricas geradas, assim como sobre a velocidade instantânea do sistema. III. Utilizam-se sistemas de controle nos quais o tipo de sinal na saída não tem aplicação sobre o controle na geração desejada. IV. O sistema de controle indicado é o de malha aberta com sensores para identificar o comportamento da carga alimentada através do barramento. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "IV, apenas.",
+        "B": "I, II e III, apenas.",
+        "C": "I e II, apenas.",
+        "D": "I, II e IV, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_operador-de-central-termonuclear_q49.png",
+      "page_number": 10
+    },
+    {
+      "question_number": 50,
+      "discipline": "Língua Inglesa",
+      "statement": "Durante o período de manutenção das usinas termonucleares, as mesmas passam a receber energia do sistema interligado nacional, para que o seu funcionamento essencial não deixe de ser suprido. Apesar dessa segurança no fornecimento de energia elétrica, problemas podem ocorrer. Para garantir energia elétrica no interior dessas usinas, durante 24h, geradores locais estão de prontidão para o suprimento, caso haja falta de energia elétrica (apagão). No que se refere ao uso de geradores de emergência, analise os itens a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) Utilizando combustíveis fósseis, grupos geradores síncronos de 8 polos garantem, diretamente, a continuidade operacional dos setores essenciais. ( ) Placas fotovoltaicas e turbinas eólicas, por serem renováveis e limpas, são as responsáveis pelo fornecimento aos setores imprescindíveis. ( ) Uma associação mista de baterias de íons de Lítio, com grande capacidade de potência, fornece diretamente energia ao primário dos transformadores. ( ) A tensão gerada nos casos de emergência tem de ser formada por uma onda com período de 16,66ms e amplitude nominal durante o período permanente. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternatives": {
+        "A": "V – F – F – V.",
+        "B": "F – F – V – F.",
+        "C": "F – F – F – V.",
+        "D": "V – V – V – F.",
+        "E": "F – V – F – V."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 51,
+      "discipline": "Língua Inglesa",
+      "statement": "Uma pessoa que nunca usou lentes de contato gelatinosas, ao retirá-las dos olhos, para acondicioná-las em um estojo apropriado, verificou que havia acabado a solução onde as lentes deveriam ficar mergulhadas. As soluções próprias para lentes são estéreis e contém cloreto de sódio a 0,9 % m/v. Como era tarde, colocou um pouco de água destilada no estojo, mergulhou as lentes e foi dormir. Imaginou que seria uma opção melhor do que a água da torneira, pois sabia da pureza da água destilada. No dia seguinte, para seu espanto, as lentes estavam fora de condição para uso, totalmente deformadas. O incidente descrito com as lentes de contato está relacionado ao fenômeno conhecido como",
+      "alternatives": {
+        "A": "difusão.",
+        "B": "crioscopia.",
+        "C": "tonoscopia.",
+        "D": "osmoscopia.",
+        "E": "ebulioscopia."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 52,
+      "discipline": "Língua Inglesa",
+      "statement": "Em geral, na produção de etanol a partir da fermentação da cana- de-açúcar, um outro álcool, o metanol, de menor peso molecular é formado. Por isso, ao final do processo que separa os dois álcoois, as primeiras frações são desprezadas por conterem esse álcool de elevada toxidez ao consumo humano, seguida da desidratação da fração que contém etanol, para torná-lo anidro. O método de separação de uma mistura que contenha metanol e etanol é conhecido por",
+      "alternatives": {
+        "A": "decantação.",
+        "B": "evaporação.",
+        "C": "fusão fracionada.",
+        "D": "destilação simples.",
+        "E": "destilação fracionada."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 53,
+      "discipline": "Língua Inglesa",
+      "statement": "A comercialização do ácido perclórico é controlada pela Polícia Federal, pois seus sais são utilizados na produção de explosivos. Sabe-se que a reação de neutralização entre o ácido perclórico e o hidróxido de magnésio produz perclorato de magnésio e água. O sal produzido, na reação descrita, pode ser representado por",
+      "alternatives": {
+        "A": "Mg(ClO2)2.",
+        "B": "Mg(ClO4)2.",
+        "C": "Mg(ClO4)3.",
+        "D": "Mg(ClO3)3.",
+        "E": "Mg(ClO3)2."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 54,
+      "discipline": "Língua Inglesa",
+      "statement": "O aço inoxidável faz parte da família das ligas metálicas, sendo o cirúrgico um de seus tipos específicos. No aço inoxidável é comum encontrarmos em geral o metal cromo, enquanto no aço cirúrgico, o molibdênio, além de um baixo teor de carbono, se comparado ao primeiro. Independentemente de sua finalidade e composição, podemos classificar os aços como misturas",
+      "alternatives": {
+        "A": "simples.",
+        "B": "compostas.",
+        "C": "azeotrópicas.",
+        "D": "homogêneas.",
+        "E": "heterogêneas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 55,
+      "discipline": "Língua Inglesa",
+      "statement": "A fim de confirmar o desperdício de água potável em uma torneira no seu laboratório, um técnico utilizou uma proveta e o cronômetro de seu celular. Dessa forma, verificou o tempo gasto para encher uma proveta de 50 ml e depois fez os cálculos devidos para apresentar à sua chefia, como forma de justificar o pedido emergencial para a troca ou reparo na torneira. Com esse experimento simples, descobriu que a vazão de água era igual a 5 x 10-2 litros/min. Considerando um mês de 30 dias, o volume de água perdida naquela torneira equivale, em metros cúbicos, a",
+      "alternatives": {
+        "A": "2,16 x 100.",
+        "B": "2,16 x 101.",
+        "C": "2,16 x 102.",
+        "D": "2,16 x 103.",
+        "E": "2,16 x 104."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 56,
+      "discipline": "Língua Inglesa",
+      "statement": "A dose padrão de uma bebida destilada, como a Vodka em bares, corresponde à 50 mL. Recentemente bebidas dessa natureza foram adulteradas com metanol, levando a intoxicações severas, cegueira e mesmo a morte. Sabe-se que o teor de metanol encontrado nessas bebidas variava de 19 % a 45 % e que a densidade do metanol corresponde a 0,79 g/mL. A quantidade, em gramas de metanol ingerida, considerando o maior percentual de contaminação encontrado em uma dose padrão, é aproximadamente igual a",
+      "alternatives": {
+        "A": "8 x 10-1.",
+        "B": "1,6 x 100.",
+        "C": "1,3 x 101.",
+        "D": "1,8 x 101.",
+        "E": "2,3 x 101."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 57,
+      "discipline": "Língua Inglesa",
+      "statement": "Um laboratorista misturou duas soluções de sacarose distintas, contendo 500 ml cada. Uma delas tinha a concentração igual a 0,5 mol/L e a outra, concentração igual a 1,5 mol/L. (Dados: massa molar da sacarose = 342 g/mol) Após a mistura, a concentração comum da solução de sacarose obtida, em g/L, será igual a",
+      "alternatives": {
+        "A": "3,42 x 101.",
+        "B": "6,84 x 101.",
+        "C": "3,42 x 102.",
+        "D": "6,84 x 102.",
+        "E": "3,42 x 103."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 58,
+      "discipline": "Língua Inglesa",
+      "statement": "A formação de pilhas eletroquímicas resulta na corrosão, por pite, com alta velocidade de propagação. Algumas das reações possíveis de ocorrerem em uma porta formada por uma liga de alumínio, são: Sobre esse fenômeno e suas reações, foram feitas as seguintes análises: ( ) A acidificação do meio promove a formação de gás hidrogênio. ( ) A oxidação catódica e a redução anódica ocorrem respectivamente com o alumínio e o oxigênio. ( ) A corrosão é um processo natural que põe em risco a resistência dos materiais. ( ) O produto da semirreação de oxidação reage com o produto da semirreação de redução, formando uma substância facilmente identificada pela fenolftaleína. ( ) O hidróxido de alumínio é um dos produtos dessa corrosão. A sequência correta de preenchimento dos parênteses, de cima para baixo é",
+      "alternatives": {
+        "A": "V – V – V – V – V.",
+        "B": "V – F – V – V – V.",
+        "C": "V – V – V – F – F.",
+        "D": "F – F – V – F – V.",
+        "E": "F – F – F – F – F."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_operador-de-central-termonuclear_q58.png",
+      "page_number": 11
+    },
+    {
+      "question_number": 59,
+      "discipline": "Língua Inglesa",
+      "statement": "A análise de identificação de cátions é chamada de marcha analítica e ajuda a identificar as substâncias desconhecidas em um laboratório. Utilizando essa marcha, dois experimentos distintos foram realizados para identificar as substâncias contidas em uma amostra incolor. A suspeita era de que essa solução poderia conter nitratos de prata, sódio, cobre ou bário. À uma alíquota de 5 mL, dessa amostra, 10 gotas de HCl 3 M foram adicionadas, havendo a formação de um sistema bifásico com um precipitado branco e uma solução sobrenadante incolor. Em seguida, esse sobrenadante foi separado do precipitado, com o auxílio de uma centrífuga e a marcha prosseguiu. Ao sobrenadante, 10 gotas de NaOH 1M foram adicionadas, obtendo-se um outro sistema bifásico, agora contendo um precipitado gelatinoso, de cor azul. De acordo com o procedimento descrito e o seu conhecimento, podemos inferir que os precipitados formados, na ordem em que são descritos, são respectivamente relativos ao cloreto de",
+      "alternatives": {
+        "A": "prata e hidróxido de cobre (II).",
+        "B": "sódio e hidróxido de sódio.",
+        "C": "cobre (II) e hidróxido de bário.",
+        "D": "prata e hidróxido de bário.",
+        "E": "sódio e hidróxido de cobre (II)."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 60,
+      "discipline": "Língua Inglesa",
+      "statement": "Conhecendo os respectivos Potenciais Padrão de Redução, podemos prever a espontaneidade de uma reação química, assim como podemos calcular a voltagem de uma célula eletroquímica. A tabela a seguir indica alguns desses potenciais, medidos em volts. De acordo com a tabela apresentada, não seria espontânea a reação",
+      "alternatives": {
+        "A": "Mg (s) + 2 HCl (aq) →MgCl2 (aq) + H2 (g).",
+        "B": "Zn (s) + 2 HI (aq) → ZnI2 (aq) + H2 (g).",
+        "C": "Cu (s) + 2 HBr (aq) →CuBr2 (aq) + H2 (g).",
+        "D": "Fe (s) + H2SO4 (aq) → FeSO4 (aq) + H2 (g).",
+        "E": "2 Cr (s) + 2 H3PO4 (aq) → 2 CrPO4 (aq) + 3 H2 (g). Realização"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_operador-de-central-termonuclear_q60.png",
+      "page_number": 12
     }
   ]
 }

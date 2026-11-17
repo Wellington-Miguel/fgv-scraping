@@ -4,24 +4,1010 @@
   "concurso_title": "Concurso Público para a Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL",
   "cargo_title": "Técnico de Mecânica",
   "exam_type": "Tipo 1",
-  "total_questions": 1,
+  "total_questions": 59,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
-      "statement": "(D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "discipline": "Língua Portuguesa",
+      "statement": "Sobre o texto, é correto afirmar que",
       "alternatives": {
-        "A": "120",
-        "B": "119",
-        "C": "96",
-        "D": "86",
-        "E": "24 16 (NMCB02_06) Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes? (A) 0,9% (B) 1,8% (C) 9,0% (D) 18% (E) 50% 17 (NMCB02_07) Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então (A) cada um dos dados da distribuição é maior que 7. (B) nenhum dos dados da distribuição é maior que 7. (C) algum dos dados da distribuição é maior que 7. (D) algum dos dados da distribuição é menor que 7. (E) todos os dados da distribuição são iguais a 7. 18 (NMCB02_08) O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de (A) 15%. (B) 30%. (C) 36%. (D) 64%. (E) 70%. 19 (NMCB02_09) No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A? (A) 0 (B) 1 (C) 2 (D) 3 (E) 4 20 (NMCB02_10) Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é (A) 2. (B) 5. (C) 7. (D) 10. (E) 17."
+        "A": "há uma perspectiva infeliz da insônia, observada sobretudo pela perturbação que assola o processo de escrita.",
+        "B": "a solidão e o nada adquirem aspectos tanto positivos quanto negativos a partir do ponto que se observa em relação aos períodos de vigília.",
+        "C": "embora relatada de maneira positiva, a conclusão a que chega o narrador é a de que a insônia amplia a angústia do isolamento.",
+        "D": "a insônia contribui para a motivação literária, considerando a ausência de sons e interrupções do desenvolvimento criativo.",
+        "E": "o ponto de vista negativo da insônia se ampara na dependência de medicamentos estimuladores de sono."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 2,
+      "discipline": "Língua Portuguesa",
+      "statement": "A presença dos sinais de interrogação no primeiro parágrafo indica",
+      "alternatives": {
+        "A": "um questionamento direto ao leitor.",
+        "B": "uma ironia sobre o tema.",
+        "C": "o ritmo e a entoação do texto.",
+        "D": "uma proposição reflexiva.",
+        "E": "uma reação de surpresa."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 3,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que se observa uma linguagem em sentido figurado.",
+      "alternatives": {
+        "A": "Ler? Jamais. Escrever? Jamais.",
+        "B": "Quase nenhum ruído.",
+        "C": "Então fico sentada na sala, sentindo.",
+        "D": "Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar.",
+        "E": "Até que, como o sol subindo, a casa vai acordando."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 4,
+      "discipline": "Língua Portuguesa",
+      "statement": "No trecho: “Sente-se uma coisa que só tem um nome: solidão”, a palavra em destaque apresenta referência",
+      "alternatives": {
+        "A": "catafórica.",
+        "B": "anafórica.",
+        "C": "dêitica.",
+        "D": "intertextual.",
+        "E": "reiterativa."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 5,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o elemento destacado funciona como complemento do verbo.",
+      "alternatives": {
+        "A": "Então fico sentada na sala.",
+        "B": "E sinto-me feliz por nada.",
+        "C": "E o telefone à mão.",
+        "D": "E nem posso pedir que me telefonem no meio da noite.",
+        "E": "O mar é meu."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "Observe a frase: “Então fico sentada na sala, sentindo” e julgue as sentenças a seguir: I. Não há sujeito expresso na oração. II. Não há sujeito porque ficar é um verbo de estado; portanto, impessoal. III. O sujeito se faz saber pela desinência do verbo. IV. Observa-se um caso de sujeito simples, com um só núcleo. Estão corretas",
+      "alternatives": {
+        "A": "I e III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e IV, apenas.",
+        "D": "I, II e III, apenas.",
+        "E": "III e IV, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 7,
+      "discipline": "Língua Portuguesa",
+      "statement": "O texto explora o uso de orações coordenadas assindéticas, que imprimem um ritmo acelerado à narrativa. Assinale a opção em que não se observa este uso.",
+      "alternatives": {
+        "A": "Passa-se um tempo, olha-se o relógio, quem sabe são cinco horas. Nem quatro chegaram. Quem estará acordado agora?",
+        "B": "E nem posso pedir que me telefonem no meio da noite, pois posso estar dormindo e não perdoar.",
+        "C": "Quase nenhum ruído. Só o das ondas do mar batendo na praia.",
+        "D": "O mar é meu, o sol é meu, a terra é minha.",
+        "E": "Ler? Jamais. Escrever? Jamais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 8,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção correta sobre a característica que classifica o texto como uma crônica.",
+      "alternatives": {
+        "A": "Privilegia-se o conteúdo narrado por meio de linguagem objetiva.",
+        "B": "Há ênfase na descrição do cenário e no detalhamento da narração.",
+        "C": "Destaca-se um ponto de vista, utilizando-se de argumentos comprováveis para defendê-lo.",
+        "D": "Nota-se uma apresentação de um tema social, a partir do apagamento de uma perspectiva individual sobre o assunto.",
+        "E": "Adota-se a subjetividade a fim de explorar um tema relacionado à condição humana."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o valor do elemento destacado está incorretamente explicado.",
+      "alternatives": {
+        "A": "Tomo café com gosto - modo.",
+        "B": "E nem posso pedir que me telefonem no meio da noite – tempo.",
+        "C": "E o telefone à mão – lugar.",
+        "D": "E o telefone mudo, sem aquele toque súbito que sobressalta – explicação.",
+        "E": "Tomar uma pílula para dormir – fim."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 10,
+      "discipline": "Língua Portuguesa",
+      "statement": "Os verbos no texto encontram-se majoritariamente no presente do indicativo, apontando para ações descritas com certo grau de verdade e concretude. No entanto, há usos que indicam outros sentidos, como",
+      "alternatives": {
+        "A": "o futuro do pretérito reforçando uma possibilidade, em “ninguém me perdoaria o vício”.",
+        "B": "o gerúndio indicando dúvida, em “então fico sentada na sala, sentindo”.",
+        "C": "o infinitivo ressaltando a ação acabada, em “de repente despertar no meio da noite e ter essa coisa rara: solidão”.",
+        "D": "o pretérito perfeito marcando um passado contínuo, em “nem quatro chegaram”.",
+        "E": "o futuro do presente assinalando simultaneidade, em “quem estará acordado agora?”."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 11,
+      "discipline": "Língua Portuguesa",
+      "statement": "Um número natural N deixa resto 1 na divisão por 2 se, e somente se, deixa resto",
+      "alternatives": {
+        "A": "0 ou 2, na divisão por 4.",
+        "B": "1 ou 3, na divisão por 4.",
+        "C": "2 ou 5, na divisão por 6.",
+        "D": "1 ou 3 na divisão por 6.",
+        "E": "2 ou 5, na divisão por 7."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 12,
+      "discipline": "Língua Portuguesa",
+      "statement": "Em março de 2025, o tempo médio de atendimento em um posto de serviços era de 2h 45min. Em abril, o tempo médio de atendimento foi reduzido em 30%. O tempo médio de atendimento em abril foi de",
+      "alternatives": {
+        "A": "1h 55min 30s.",
+        "B": "1h 50min 30s.",
+        "C": "49min 30s.",
+        "D": "2h 15min.",
+        "E": "1h 15min."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 13,
+      "discipline": "Língua Portuguesa",
+      "statement": "Considere as seguintes premissas: • Se apenas um entre João e Maria mora no bairro do Butantã, então o elefante é azul. • Se João não mora do bairro do Butantã, então a galinha é verde. • Se Maria mora no bairro do Butantã, então o cavalo é amarelo. • O elefante não é azul. Logo,",
+      "alternatives": {
+        "A": "nem Maria, nem João, moram no bairro do Butantã.",
+        "B": "ou a galinha é amarela, ou o cavalo é verde.",
+        "C": "Maria e João moram no bairro do Butantã.",
+        "D": "os três animais não possuem a mesma cor.",
+        "E": "a galinha é verde ou o cavalo é amarelo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": "Língua Portuguesa",
+      "statement": "1 (D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "alternatives": {
+        "A": "120",
+        "B": "119",
+        "C": "96",
+        "D": "86",
+        "E": "24"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": "Língua Portuguesa",
+      "statement": "Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes?",
+      "alternatives": {
+        "A": "0,9%",
+        "B": "1,8%",
+        "C": "9,0%",
+        "D": "18%",
+        "E": "50%"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 17,
+      "discipline": "Língua Portuguesa",
+      "statement": "Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então",
+      "alternatives": {
+        "A": "cada um dos dados da distribuição é maior que 7.",
+        "B": "nenhum dos dados da distribuição é maior que 7.",
+        "C": "algum dos dados da distribuição é maior que 7.",
+        "D": "algum dos dados da distribuição é menor que 7.",
+        "E": "todos os dados da distribuição são iguais a 7."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 18,
+      "discipline": "Língua Portuguesa",
+      "statement": "O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de",
+      "alternatives": {
+        "A": "15%.",
+        "B": "30%.",
+        "C": "36%.",
+        "D": "64%.",
+        "E": "70%."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-mecanica_q18.png",
+      "page_number": 5
+    },
+    {
+      "question_number": 19,
+      "discipline": "Língua Portuguesa",
+      "statement": "No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A?",
+      "alternatives": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": "Língua Portuguesa",
+      "statement": "Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é",
+      "alternatives": {
+        "A": "2.",
+        "B": "5.",
+        "C": "7.",
+        "D": "10.",
+        "E": "17."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 21,
+      "discipline": "Noções de Informática",
+      "statement": "Em um setor administrativo, uma impressora de rede, configurada para obter endereço IP automaticamente, deixa de funcionar repentinamente. Todos os computadores do setor continuam acessando a Internet normalmente, porém nenhum deles consegue enviar documentos para impressão – inclusive quando a tentativa é feita utilizando diretamente o endereço IP previamente configurado da impressora. Ao verificar o equipamento, constata-se que a impressora está ligada, conectada fisicamente à rede e sem falhas aparentes de hardware. Não há servidor de impressão intermediário, e a comunicação ocorre diretamente entre os computadores e a impressora na rede local. Nessa situação, o serviço de rede cuja indisponibilidade ou falha na concessão explica de forma direta a interrupção do funcionamento da impressora é o",
+      "alternatives": {
+        "A": "DHCP – Dynamic Host Configuration Protocol.",
+        "B": "DNS – Domain Name System.",
+        "C": "FTP – File Transfer Protocol.",
+        "D": "HTTP – Hypertext Transfer Protocol.",
+        "E": "NAT – Network Address Translation."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a navegação na Internet, por meio de navegadores, são utilizados identificadores textuais padronizados para localizar e acessar recursos disponibilizados em servidores, como páginas HTML, imagens e serviços Web. Esse identificador, que define onde o recurso está localizado e como pode ser acessado no contexto da Web, é denominado(a)",
+      "alternatives": {
+        "A": "mecanismo de busca empregado para localizar o recurso.",
+        "B": "navegador utilizado pelo usuário.",
+        "C": "protocolo de comunicação utilizado.",
+        "D": "serviço de hospedagem do recurso.",
+        "E": "URL (Uniform Resource Locator) associada ao recurso."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a organização de arquivos em um computador com o sistema operacional Windows versão 11 BR, um usuário seleciona um arquivo, pressiona a combinação de teclas SHIFT+DELETE e confirma a ação solicitada pelo sistema. Em seguida, ele não encontra mais o arquivo no diretório onde estava e tenta entender o que ocorreu. Nessa situação, a ação executada pelo sistema foi",
+      "alternatives": {
+        "A": "bloquear o arquivo para edição.",
+        "B": "criar automaticamente uma cópia do arquivo.",
+        "C": "excluir o arquivo permanentemente.",
+        "D": "mover o arquivo para a lixeira do Windows.",
+        "E": "transportar o arquivo para a pasta temporária c:\\windows\\temp."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 24,
+      "discipline": "Noções de Informática",
+      "statement": "Durante uma rotina corporativa, um colaborador percebeu que um determinado aplicativo, anteriormente funcional, passou a não conseguir mais estabelecer conexão com servidores específicos externos, embora outros aplicativos ainda consigam acessar normalmente a Internet. Após checagens iniciais, constatou-se que não havia falhas físicas no dispositivo, que a conexão com a rede seguia ativa e que as configurações do aplicativo estavam corretas. Ao registrar um chamado, foi informado pela equipe de suporte que a interrupção ocorreu devido à aplicação de uma nova política de segurança da informação, voltada ao controle de acessos externos por software específico. Considerando o contexto apresentado e somente as alternativas a seguir apresentadas, indique qual mecanismo adotado pela equipe de suporte mantém compatibilidade com o contexto descrito:",
+      "alternatives": {
+        "A": "Adoção de criptografia para garantir a confidencialidade das conexões com a Internet.",
+        "B": "Ativação de filtro antispam para proteger o sistema contra mensagens suspeitas recebidas por e-mail.",
+        "C": "Atualização do antivírus para bloquear automaticamente softwares com acesso externo.",
+        "D": "Implementação de regras de firewall para restringir comunicações por endereço, porta ou aplicação.",
+        "E": "Realização de backup dos dados para prevenir perdas decorrentes de falhas no acesso à rede."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 25,
+      "discipline": "Noções de Informática",
+      "statement": "Um usuário de um software de edição de planilhas eletrônicas precisa inserir, em uma determinada planilha, um valor exatamente no ponto onde se cruzam a sua terceira linha e sua segunda coluna. Nesse tipo de aplicativo, essa posição corresponde a uma",
+      "alternatives": {
+        "A": "anotação.",
+        "B": "célula.",
+        "C": "intervalo.",
+        "D": "link.",
+        "E": "pasta de trabalho."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 26,
+      "discipline": "Língua Inglesa",
+      "statement": "Based on the text, analyze the assertions below: I. Environmental crimes and disputes over land ownership have only recently become a problem. II. The three activities mentioned in the first paragraph are natural events. III. Startups and global teams are joining efforts to make protection technology more available. Choose the correct answer:",
+      "alternatives": {
+        "A": "Only I is correct.",
+        "B": "Only II is correct.",
+        "C": "Only III is correct.",
+        "D": "Only I and III are correct.",
+        "E": "All three assertions are correct."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 27,
+      "discipline": "Língua Inglesa",
+      "statement": "In “When suspicious activity is detected” (2nd paragraph), the verb is in the same voice as in:",
+      "alternatives": {
+        "A": "Machines can help humans in forest protection.",
+        "B": "Modern drones were used to monitor deforestation.",
+        "C": "The agencies are trying to protect the environment.",
+        "D": "Technology is providing data to help assess damage.",
+        "E": "Space agencies have launched satellites to track fires."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": "Língua Inglesa",
+      "statement": "The genitive case in “Brazil’s AI systems monitor changes” (2nd paragraph) also occurs in:",
+      "alternatives": {
+        "A": "The team’s finished their project ahead of schedule.",
+        "B": "The surveillance project’s moving along nicely.",
+        "C": "The community’s been helping the authorities.",
+        "D": "The group’s been working on this for months.",
+        "E": "The partners’ collaboration is seen essential."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 29,
+      "discipline": "Língua Inglesa",
+      "statement": "In “before they happen” (3rd paragraph), the pronoun is replacing:",
+      "alternatives": {
+        "A": "crimes.",
+        "B": "patrols.",
+        "C": "rangers.",
+        "D": "chances.",
+        "E": "patterns."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 30,
+      "discipline": "Língua Inglesa",
+      "statement": "“Like” in “like seasonal plant shifts” (4th paragraph) indicates a(n):",
+      "alternatives": {
+        "A": "preference.",
+        "B": "estimate.",
+        "C": "approval.",
+        "D": "addition.",
+        "E": "example."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 31,
+      "discipline": "Língua Inglesa",
+      "statement": "O ensaio de tração é amplamente utilizado na indústria para obter propriedades mecânicas de determinado material. Através desse ensaio é possível encontrar uma propriedade específica na região linear da curva tensão – deformação, mostrado na figura abaixo. Com base na inclinação da região linear da curva do material, marque a opção que indica o nome dessa propriedade.",
+      "alternatives": {
+        "A": "Coeficiente de dilatação térmica.",
+        "B": "Tensão de fratura.",
+        "C": "Módulo de elasticidade do material.",
+        "D": "Dureza Vickers do material.",
+        "E": "Fator de intensidade de tensão"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-mecanica_q31.png",
+      "page_number": 7
+    },
+    {
+      "question_number": 32,
+      "discipline": "Língua Inglesa",
+      "statement": "A curva tensão-deformação de um aço estrutural obtida no ensaio de tração é o registro encontrado na aplicação crescente e gradativa de carga de tração uniaxial nas extremidades de um corpo de prova normalizado que se deforma lentamente durante a aplicação da carga. Neste ensaio são obtidas algumas propriedades importantes e uma delas corresponde ao limite de resistência à tração. O limite de resistência à tração do material",
+      "alternatives": {
+        "A": "corresponde à máxima tensão que o material suporta, sem apresentar marcas de fratura no corpo de prova.",
+        "B": "corresponde à tensão na qual se inicia a deformação plástica do material.",
+        "C": "é o limite de escoamento mais próximo da pré-deformação de 0,002 do material.",
+        "D": "é a mínima tensão que o material é capaz de suportar durante o teste.",
+        "E": "é a tensão final de ruptura definitiva do corpo de prova em teste."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 33,
+      "discipline": "Língua Inglesa",
+      "statement": "Com base nos registros da curva tensão-deformação convencional é possível obter o valor da tensão de escoamento do material (σesc), mas para isso se faz necessário considerar uma pequena deformação plástica X. O valor de X (deformação) que dá início ao processo de escoamento do material é",
+      "alternatives": {
+        "A": "0,001",
+        "B": "0,002",
+        "C": "0,003",
+        "D": "0,004",
+        "E": "0,005"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-mecanica_q33.png",
+      "page_number": 7
+    },
+    {
+      "question_number": 34,
+      "discipline": "Língua Inglesa",
+      "statement": "Os registros da curva tensão-deformação convencional obtidos do teste de tração possibilitam conhecer informações adequadas do grau de deformação plástica desenvolvida até a fratura do corpo de prova. Esta propriedade pode ser obtida tanto quantitativamente em relação ao alongamento percentual quanto pela redução percentual na área do corpo de prova. Essa propriedade mecânica denomina-se",
+      "alternatives": {
+        "A": "Módulo de elasticidade.",
+        "B": "Coeficiente de Poisson.",
+        "C": "Módulo de cisalhamento.",
+        "D": "Ductilidade.",
+        "E": "Módulo de resiliência."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 35,
+      "discipline": "Língua Inglesa",
+      "statement": "Um corpo de prova padronizado de ensaio de tração fabricado em aço carbono 1020 em formato cilíndrico de diâmetro de 12 mm está submetido a uma carga normal de tração de 36 kN, chegando até o seu limite de escoamento. Tendo como base as informações apresentadas e considerando o material homogêneo, isotrópico e o módulo de elasticidade do material E = 200 GPa, assinale a opção correta",
+      "alternatives": {
+        "A": "A tensão (σ) que o corpo de prova está submetido é da ordem 𝜋 MPa e a deformação (ε) corresponde a 5 1000 𝜋.10−3. de",
+        "B": "A tensão (σ) que o corpo de prova está submetido é da ordem 1200 𝜋 MPa e a deformação (ε) corresponde a 7 𝜋.10−3. de",
+        "C": "A tensão (σ) que o corpo de prova está submetido é da ordem 3𝜋 MPa e a deformação (ε) corresponde a 75 3𝜋.10−3. 1000 de",
+        "D": "A tensão (σ) que o corpo de prova está submetido é da ordem de 980 MPa e a deformação (ε) corresponde a 3.10−3.",
+        "E": "A tensão (σ) que o corpo de prova está submetido é da ordem de 1200 MPa e a deformação (ε) corresponde a 4.10−3."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 36,
+      "discipline": "Língua Inglesa",
+      "statement": "A dureza é uma propriedade mecânica de fundamental importância para a indústria, especialmente a mecânica. A sua finalidade é medir a resistência de um material numa deformação localizada. Dependendo do tamanho da endentação, este ensaio pode ser caracterizado como não destrutivo. O teste de dureza é simples e de baixo custo financeiro. Através dessa propriedade mecânica é possível estimar o limite de resistência à tração de um material. É correto afirmar que a dureza e o limite de resistência à tração",
+      "alternatives": {
+        "A": "são indicadores da resistência de um dado material metálico à deformação elástica.",
+        "B": "possibilitam obter a tensão de escoamento de um material metálico.",
+        "C": "são indicadores da resistência de um dado material metálico à deformação plástica.",
+        "D": "possibilitam obter a tensão de fratura do corpo de prova de um material metálico, utilizando-se uma equação padronizada.",
+        "E": "possibilitam obter o fator de intensidade de tenacidade à fratura do material por meio de uma equação normalizada sem a necessidade de ensaio de fratura."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 37,
+      "discipline": "Língua Inglesa",
+      "statement": "Ao realizar o teste de dureza Brinell, alguns quesitos devem ser observados, principalmente quanto à planicidade da superfície do corpo de prova onde será realizado o teste, a fim de eliminar ou minimizar o erro de leitura. Nesse contexto, é correto afirmar que a superfície",
+      "alternatives": {
+        "A": "não plana provoca erro de leitura de medição do diâmetro “d” da calota esférica (impressão) que é realizado pelo microscópio óptico a 90°",
+        "B": "não plana não provoca erro de leitura de medição do diâmetro “d” da calota esférica (impressão), pois a medição não é realizada a 90° pelo microscópio óptico.",
+        "C": "plana e não plana não provoca erro de leitura de medição do diâmetro “d” da calota esférica (impressão), pois o diâmetro medido é o da esfera do indentador.",
+        "D": "não plana não provoca erro de leitura de medição do diâmetro “d” da calota esférica (impressão), pois durante o teste a deformação elástica e plástica eliminam qualquer distorção do diâmetro “d”.",
+        "E": "não plana não provoca erro de leitura de medição do diâmetro “d” da calota esférica (impressão), pois o diâmetro é tão pequeno que pode ser desconsiderado."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 38,
+      "discipline": "Língua Inglesa",
+      "statement": "Os principais segmentos industriais mecânicos, tais como de petróleo, farmacêutica, alimentícia, dentre outros, utilizam aço inoxidável como material essencial em seus processos produtivos porque ele atende a todos os requisitos técnicos necessários. A porcentagem de cromo no aço inoxidável confere uma resistência específica ao material quando comparado ao aço carbono. Assinale a opção que identifica essa especificidade do aço inoxidável.",
+      "alternatives": {
+        "A": "Aumenta a resistência à corrosão.",
+        "B": "Diminui a tensão de escoamento do material, tornando-o mais frágil.",
+        "C": "O cromo melhora a dureza do aço, tornando-o mais resistente ao desgaste, mas diminui a sua ductilidade.",
+        "D": "Diminui a temperabilidade do aço em razão da elevada concentração de cromo.",
+        "E": "Aumenta a resistência à fluência dos materiais quando submetido à tensão constante e elevadas temperaturas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 39,
+      "discipline": "Língua Inglesa",
+      "statement": "Com a adição de nitrogênio, os aços inoxidáveis austeníticos contribuem, positivamente, na melhoria do material. A função do nitrogênio no aço inoxidável austenítico é",
+      "alternatives": {
+        "A": "estabilizar a fase gama ferrita e aumentar a resistência mecânica à tração.",
+        "B": "estabilizar a fase gama ferrita e diminuir a resistência à corrosão.",
+        "C": "baixar a soldabilidade e diminuir a resistência mecânica.",
+        "D": "estabilizar a fase austenítica para diminuir a resistência à corrosão.",
+        "E": "estabilizar a fase austenítica e aumentar o limite de escoamento."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 40,
+      "discipline": "Língua Inglesa",
+      "statement": "Os aços inoxidáveis duplex são bastante utilizados em diversos setores da indústria mecânica, principalmente em meios corrosivos. Eles são constituídos por duas microestruturas características, formadas em frações aproximadamente iguais. Estes aços possuem elevada resistência à corrosão, elevada resistência mecânica e boa soldabilidade. As duas microestruturas que constituem os aços inoxidáveis duplex são:",
+      "alternatives": {
+        "A": "Perlita e Cementita.",
+        "B": "Ferrita e Austenita.",
+        "C": "Austenita e Perlita fina.",
+        "D": "Martensita e Ferrita.",
+        "E": "Cementita e Martensita."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 41,
+      "discipline": "Língua Inglesa",
+      "statement": "O alumínio é um metal não ferroso que tem estrutura cristalina CFC e boa ductilidade em baixa temperatura. A resistência mecânica do alumínio pode ser aumentada tanto por trabalho a frio quanto pela formação de ligas. Contudo, os dois métodos produzem consequências que devem ser consideradas. Uma das consequências a serem evitadas é que",
+      "alternatives": {
+        "A": "tende a diminuir a resistência à corrosão do alumínio.",
+        "B": "diminui significativamente a ductilidade do alumínio.",
+        "C": "aumenta a temperatura de fusão do alumínio para 800 °C.",
+        "D": "aumenta significativamente a densidade do alumínio.",
+        "E": "aumenta a resistência à corrosão do alumínio."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 42,
+      "discipline": "Língua Inglesa",
+      "statement": "No mercado há inúmeros tipos de aços e ligas de aço que são utilizados na construção mecânica. Estes aços são classificados e seguem uma nomenclatura específica empregada pelas normas ABNT, AISI e SAE. Segundo a norma SAE, os aços podem ser classificados pelos seguintes algarismos YYXX. Assinale a opção que atribui corretamente o significado a esses algarismos.",
+      "alternatives": {
+        "A": "YY – Família e XX – Composição química.",
+        "B": "YY - Teor de carbono em centésimo de porcentagem e XX – família.",
+        "C": "YY – Família e XX - teor de carbono em centésimo de porcentagem.",
+        "D": "YY – Carbono equivalente XX – composição química.",
+        "E": "YY – Família e XX – carbono equivalente."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 43,
+      "discipline": "Língua Inglesa",
+      "statement": "As ligas alumínio-lítio foram desenvolvidas recentemente com fins comerciais e fazem parte de uma nova geração que possui aproximadamente 2,45% de massa de lítio. Essa liga de alumínio tem grande aplicabilidade, principalmente na indústria aeronáutica e aeroespacial, sendo também aplicada em outros segmentos industriais. A adição de lítio nas ligas de alumínio contribuiu, significativamente, para melhorar as propriedades mecânicas do alumínio, mas teve como consequência o aumento do custo de fabricação em relação às ligas de alumínio convencionais. Assinale a opção que indica as características da liga alumínio-lítio quanto a suas propriedades mecânicas.",
+      "alternatives": {
+        "A": "Aumento da resistência mecânica e aumento da densidade.",
+        "B": "Aumento da resistência mecânica e redução da densidade.",
+        "C": "Massas específicas relativamente alta e não possui boas propriedades de fadiga.",
+        "D": "Baixa tenacidade à fratura em baixas temperaturas e redução da densidade.",
+        "E": "Baixa resistência mecânica e baixos valores de tenacidade à fratura em baixas temperaturas."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 44,
+      "discipline": "Língua Inglesa",
+      "statement": "O Inconel 625 integra uma família de superligas que possui uma matriz CFC e são muito utilizadas na indústria metalmecânica por apresentarem excelentes propriedades mecânicas em altas temperaturas, acima de 1000 °C. Estas superligas têm aplicação específica na fabricação de componentes para reatores nucleares e são bastante utilizadas em componentes mecânicos submetidos a altas temperaturas. O principal elemento químico que compõe as superligas de Inconel 625 é o",
+      "alternatives": {
+        "A": "alumínio.",
+        "B": "cobre.",
+        "C": "níquel.",
+        "D": "titânio.",
+        "E": "molibdênio."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 45,
+      "discipline": "Língua Inglesa",
+      "statement": "O paquímetro é um instrumento de medição linear de uso universal para medir peças com precisão. Este instrumento pode obter informações de medição tanto analógico quanto digital. A figura a seguir mostra um paquímetro analógico em medição com a escala fixa e com o vernier em mm. É correto afirmar que o valor registrado é de",
+      "alternatives": {
+        "A": "85,3 mm e o paquímetro tem resolução de 0,1 mm.",
+        "B": "83,3 mm e o paquímetro tem resolução de 0,1 mm.",
+        "C": "88 mm e o paquímetro tem resolução de 10 mm.",
+        "D": "83,3 mm e o paquímetro tem resolução de 10mm.",
+        "E": "85 mm e o paquímetro tem resolução de 0,1 mm."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-mecanica_q45.png",
+      "page_number": 9
+    },
+    {
+      "question_number": 46,
+      "discipline": "Língua Inglesa",
+      "statement": "Um torneiro mecânico precisou realizar a medição de uma peça retangular com uma régua graduada em polegada e o valor medido foi de 1 ¾”. Contudo, precisava colocar em seu relatório técnico o resultado da medição em milímetro. O valor da medição colocado no relatório foi",
+      "alternatives": {
+        "A": "43,50 mm.",
+        "B": "44,00 mm.",
+        "C": "44,05 mm.",
+        "D": "43,45 mm",
+        "E": "44,45 mm."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 47,
+      "discipline": "Língua Inglesa",
+      "statement": "No desenho técnico ilustrado a seguir, o diâmetro interno de um furo é representado por 36H7 e o eixo por 36g6. O técnico em mecânica verifica que se trata de uma tolerância dimensional, na qual H corresponde à tolerância do furo e g à tolerância do eixo, enquanto 7 e 6 correspondem à qualidade do trabalho. Em seguida, o técnico consulta a tabela e verifica que H7 possui um valor de afastamento inferior e superior que corresponde, respectivamente, a Ai = 0 e As = +25, e g6 possui afastamentos as = -9 e ai = -25. As unidades dos afastamentos são estabelecidas em µm. A dimensão máxima do eixo e a dimensão mínima do furo, em mm, são, respectivamente,",
+      "alternatives": {
+        "A": "35,975 e 36.",
+        "B": "37,025 e 35,975.",
+        "C": "38,975 e 36,991.",
+        "D": "33,034 e 39,025.",
+        "E": "37,881 e 34,025."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-de-mecanica_q47.png",
+      "page_number": 10
+    },
+    {
+      "question_number": 48,
+      "discipline": "Língua Inglesa",
+      "statement": "Após a fabricação de peças, é necessário fazer o controle da dimensão geométrica dos lotes de forma rápida e eficiente para evitar o refugo, que são peças fora do padrão de qualidade estabelecido. Esse controle normalmente é realizado por instrumentos que verificam se as peças estão dentro das tolerâncias dimensionais especificadas, mesmo sem a necessidade de leitura de valores numéricos. Esse controle é feito, comumente, por",
+      "alternatives": {
+        "A": "Paquímetro quadridimensional.",
+        "B": "Calibradores de fabricação.",
+        "C": "Micrômetro interno tubular.",
+        "D": "Relógio comparador.",
+        "E": "Súbito."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 49,
+      "discipline": "Língua Inglesa",
+      "statement": "Numa indústria foi realizado um tratamento térmico numa peça, utilizando-se o processo de austenitização completa do aço, seguida de resfriamento ao ar ambiente. Neste processo, o metal foi aquecido acima da sua temperatura crítica (ACM), apresentando um resfriamento rápido e minimizando a precipitação de cementita proeutetoide no contorno dos grãos. O tratamento térmico descrito é",
+      "alternatives": {
+        "A": "a Tempera.",
+        "B": "a Normalização.",
+        "C": "o Revenimento.",
+        "D": "a Nitretação.",
+        "E": "a Carbonitretação."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 50,
+      "discipline": "Língua Inglesa",
+      "statement": "A têmpera é um tratamento térmico cujo objetivo consiste em obter a estrutura cristalina martensítica. Na prática, consiste em aumentar a temperatura do aço para ficar acima da temperatura crítica (ACM) e, em seguida, resfriá-lo rapidamente a partir da temperatura de austenitização numa velocidade alta, para obter a estrutura cristalina metaestável martensítica, que ocorre sem difusão. O resfriamento deve ser feito rapidamente, nesse tipo de tratamento, para",
+      "alternatives": {
+        "A": "diminuir o teor de carbono e transformar em perlita e cementita.",
+        "B": "evitar a transformação da martensita em cementita no aço em tratamento térmico.",
+        "C": "evitar a nucleação da austenita em perlita circular.",
+        "D": "evitar transformações perlíticas e bainíticas no aço em tratamento térmico.",
+        "E": "diminuir o teor de carbono e transformar em bainita e cementita."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 51,
+      "discipline": "Língua Inglesa",
+      "statement": "Vários processos de fabricação convencional são utilizados na indústria mecânica, sendo que o de maior destaque é o fresamento. Este processo tem uma característica peculiar em relação a outros processos de usinagem. Assinale a opção que corresponde ao processo de corte de materiais na operação de fresamento.",
+      "alternatives": {
+        "A": "Ocorre quando a peça em usinagem, se mantém fixa na mesa da máquina e a ferramenta de corte monocortante, fresa, que rotaciona em torno do seu eixo, se desloca linearmente retirando material até um comprimento de avanço determinado.",
+        "B": "Ocorre quando a peça em usinagem se encontra fixa e em rotação na placa de fixação da máquina, enquanto a ferramenta de corte monocortante, fresa, realiza deslocamento linear e realiza a remoção de material.",
+        "C": "Ocorre quando a ferramenta de corte rotativa multicortante, a fresa, rotaciona ao redor do seu eixo e a peça em usinagem é mantida fixa na máquina fresadora. É uma operação utilizada para fabricação de engrenagens.",
+        "D": "A ferramenta de corte monocortante, fresa, realiza movimento de corte linear de avanço na direção da peça em usinagem que se encontra fixa na base da máquina.",
+        "E": "A ferramenta de corte multicortante, fresa, não rotaciona em torno do seu eixo, mas se desloca retirando material no sentido longitudinal da peça em usinagem que se encontra fixa na máquina fresadora."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 52,
+      "discipline": "Língua Inglesa",
+      "statement": "A retificação é um processo de usinagem convencional por abrasão destinada à obtenção de melhorias específicas em superfície plana ou cilíndrica de uma peça. Este processo utiliza um rebolo em forma de disco abrasivo que gira em alta rotação e em contato com a peça, retira parte do material. A escolha do tipo de rebolo vai depender, normalmente, do tipo de material, da dureza, dentre outros fatores. A característica específica desse processo em relação à superfície usinada é ser um processo",
+      "alternatives": {
+        "A": "de corte que utiliza descarga elétrica e fluido dielétrico e seu objetivo é produzir superfície recartilhada.",
+        "B": "de corte de remoção de material cujo objetivo é produzir entalhes tipo rasgo de chaveta em superfícies cilíndricas.",
+        "C": "de acabamento e tem por finalidade melhorar a superfície do material, diminuir a rugosidade e contribuir para obter a tolerância desejada.",
+        "D": "dito intermediário e o seu propósito é planificar a superfície da peça usinada utilizando tolerância geométrica.",
+        "E": "dito como final e o seu propósito é aumentar a rugosidade da superfície da peça usinada para melhorar a lubrificação em montagem de peças."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 53,
+      "discipline": "Língua Inglesa",
+      "statement": "O forjamento é um dos processos de conformação plástica dos metais mais antigo, sendo muito utilizado até os dias atuais. Neste processo, o material é prensado por duas matrizes, o que pode ocorrer de forma gradativa ou, em alguns casos, por meio de impacto para que se alcance a forma desejada do componente mecânico projetado. Este processo de conformação plástica pode ser realizado tanto a quente quanto a frio. O forjamento a frio, em temperatura ambiente, tem como característica principal o fato de que",
+      "alternatives": {
+        "A": "aumenta a resistência mecânica como resultado do aumento do encruamento.",
+        "B": "diminui a resistência mecânica como resultado da diminuição do encruamento.",
+        "C": "reduz a resistência mecânica e a dureza do material.",
+        "D": "a peça forjada apresenta alta ductilidade e baixa dureza.",
+        "E": "aumenta a ductilidade e reduz significativamente a resistência mecânica e a dureza."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 54,
+      "discipline": "Língua Inglesa",
+      "statement": "A força de estampagem proporcionada pelo cilindro da prensa (punção), conforme representado na equação abaixo, é obtida em N ou lbf e é obtida, matematicamente, em função da espessura (t), limite de resistência à tração (Su), diâmetro do esboço (De), diâmetro do punção (Dp) e um fator 0,7. 𝐹= 𝜋. 𝐷𝑒. 𝑡. 𝑆𝑢(𝐷𝑒 −0,7) 𝐷𝑝 De acordo com a equação da força de estampagem, a constante 0,7 é o fator de correção",
+      "alternatives": {
+        "A": "que corresponde à folga do punção com a matriz.",
+        "B": "que considera os efeitos da deformação plástica do material.",
+        "C": "que corresponde ao raio de curvatura da borda.",
+        "D": "que considera os efeitos de atrito.",
+        "E": "de mudança geométrica."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 55,
+      "discipline": "Língua Inglesa",
+      "statement": "O processo convencional de soldagem TIG (GTAW) é uma soldagem a arco elétrico que ocorre entre o eletrodo não consumível de tungstênio, fixado na tocha de soldagem e a poça de fusão. Este processo utiliza gás de proteção inerte que pode ser o argônio, o hélio ou a mistura desses dois gases, para obter a proteção da região de soldagem. O metal de adição pode ser utilizado, dependendo do projeto. Assinale a opção que apresenta corretamente a finalidade do uso deste processo de soldagem.",
+      "alternatives": {
+        "A": "É um processo que só pode ser utilizado em materiais de grande espessura.",
+        "B": "Tem grande aplicabilidade na soldagem das ligas de alumínio e de aços inoxidáveis.",
+        "C": "São caracterizados por apresentar superfícies de altíssima qualidade, porém com excesso de respingo.",
+        "D": "O eletrodo não consumível tem baixo ponto de fusão, mas quando ionizado pelos gases de proteção ocorre um aumento do ponto de fusão.",
+        "E": "Quando se utiliza metal de adição do tipo vareta, a transferência metálica ocorre através do arco elétrico, que é do tipo globular."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 56,
+      "discipline": "Língua Inglesa",
+      "statement": "No processo de soldagem convencional MIG/MAG (GMAW) é utilizada a proteção gasosa e os processos se diferenciam em razão do tipo de gás de proteção. Quando o gás de proteção utilizado é inerte (argônio, hélio ou mistura entre argônio e hélio), o processo é denominado de MIG. Quando se utiliza gás ativo (CO2), o processo é denominado de MAG. A escolha do tipo de gás e do processo a ser utilizado vai depender do metal a ser soldado. O eletrodo consumível no processo MIG/MAG tem o formato em arame e é alimentado, continuamente, junto com o gás de proteção de forma automática ao acionar a tocha de soldagem. Sobre o processo MIG/MAG, é correto afirmar que",
+      "alternatives": {
+        "A": "os gases inertes são utilizados na soldagem de aços inoxidáveis, enquanto o CO2 é utilizado na soldagem de aços de baixo e médio carbono.",
+        "B": "o processo MIG produz escória mais espessa e fácil de ser removida que o processo MAG, sendo o motivo da escolha do processo.",
+        "C": "o processo de soldagem MIG/MAG tem uma baixa velocidade de soldagem, sendo utilizado apenas em passe de raiz para materiais metálicos ferrosos e não ferrosos.",
+        "D": "possui baixa taxa de deposição devido à corrente elétrica ser baixa na ponta do eletrodo e isso favorece a soldagem de materiais não ferrosos.",
+        "E": "facilita a soldagem em locais de difícil acesso, sendo esta a razão principal que relaciona os processos de soldagem a arco elétrico, principalmente em comparação ao eletrodo revestido."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 57,
+      "discipline": "Língua Inglesa",
+      "statement": "Segundo a norma ASME B31.3, a espessura (t) de um duto (tubo) pode ser obtida pela equação descrita a seguir: 𝑡= 𝑃. 𝐷 2. (𝑆. 𝐸+ 𝑃. 𝑌) + 𝐶 A equação está em função da pressão do projeto (P), do diâmetro externo (D), da tensão admissível (S), do fator de qualidade da junta soldada (E), do coeficiente de pressão (Y) e da sobre- espessura para corrosão (C). Tendo como base esta equação para o cálculo de espessura de dutos de parede fina, é correto afirmar que",
+      "alternatives": {
+        "A": "a tensão admissível do material é obtida em função da temperatura de projeto.",
+        "B": "o parâmetro E é o fator de qualidade da junta e depende de como o duto foi fabricado com costura e seu valor é sempre maior que 1.",
+        "C": "o parâmetro Y é o coeficiente de correção da pressão interna em função da temperatura de projeto.",
+        "D": "o parâmetro C, sobre-espessura para corrosão, pode ser desconsiderado em função do duto receber tratamento térmico e pintura.",
+        "E": "após obter o valor da espessura t, se faz necessário comparar com o diâmetro D e caso o valor de t for maior que D/6, o valor de t pode ser considerado e aceito."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 58,
+      "discipline": "Língua Inglesa",
+      "statement": "Estes materiais de engenharia são de origem orgânica e possuem uma estrutura molecular formada por hidrocarbonetos cujas ligações químicas são constituídas por ligações covalentes entre os átomos que compõem as unidades repetitivas (monômeros). Eles constituem a família dos plásticos e borrachas. Esses materiais são denominados",
+      "alternatives": {
+        "A": "compósitos.",
+        "B": "polímeros.",
+        "C": "cerâmicas.",
+        "D": "ferros fundidos.",
+        "E": "cobre."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 59,
+      "discipline": "Língua Inglesa",
+      "statement": "No processo de fundição, o metal líquido flui por gravidade ou pela ação de uma força que preenche o molde e se solidifica com o formato da cavidade do molde. Em fundição que utiliza modelo de areia, o metal líquido é transportado através do canal de distribuição que preenche a cavidade do molde juntamente com o massalote, que é um reservatório essencial no processo de fundição. Sobre sua importância, o massalote",
+      "alternatives": {
+        "A": "serve para compensar a contração do metal líquido durante a solidificação e o resfriamento do metal.",
+        "B": "auxilia no preenchimento do metal líquido na cavidade na eventualidade de faltar metal líquido para preencher.",
+        "C": "contribui para proteger o metal líquido da presença do oxigênio do ar.",
+        "D": "auxilia para evitar a contaminação da areia do molde sobre o metal líquido.",
+        "E": "tem a função de auxiliar na temperatura do molde, evitando, assim, trinca por fadiga térmica."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 60,
+      "discipline": "Língua Inglesa",
+      "statement": "Este material é de grande uso na engenharia dependendo da aplicação, em razão das suas propriedades mecânicas, principalmente ao que concerne a sua elevada dureza, excelente isolante térmico e elétrico. Porém, são extremamente frágeis, devido à ausência de ductilidade e altamente suscetíveis à fratura. Eles são compostos formados entre elementos metálicos e não- metálicos e possuem ligação atômica que varia desde puramente iônica até totalmente covalente ou até mesmo a combinação desses dois tipos de ligação. Esses materiais possuem uma microestrutura mais complexa do que as dos metais. Esses materiais denominam-se",
+      "alternatives": {
+        "A": "Ferros fundidos.",
+        "B": "Alumínios.",
+        "C": "Cerâmicas.",
+        "D": "Tungstênios.",
+        "E": "Compósitos. Realização"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     }
   ]
 }

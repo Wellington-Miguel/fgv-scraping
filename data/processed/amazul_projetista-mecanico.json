@@ -4,24 +4,959 @@
   "concurso_title": "Concurso Público para a Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL",
   "cargo_title": "Projetista Mecânico",
   "exam_type": "Tipo 1",
-  "total_questions": 1,
+  "total_questions": 56,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
-      "statement": "(D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "discipline": "Língua Portuguesa",
+      "statement": "Sobre o texto, é correto afirmar que",
       "alternatives": {
-        "A": "120",
-        "B": "119",
-        "C": "96",
-        "D": "86",
-        "E": "24 16 (NMCB02_06) Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes? (A) 0,9% (B) 1,8% (C) 9,0% (D) 18% (E) 50% 17 (NMCB02_07) Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então (A) cada um dos dados da distribuição é maior que 7. (B) nenhum dos dados da distribuição é maior que 7. (C) algum dos dados da distribuição é maior que 7. (D) algum dos dados da distribuição é menor que 7. (E) todos os dados da distribuição são iguais a 7. 18 (NMCB02_08) O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de (A) 15%. (B) 30%. (C) 36%. (D) 64%. (E) 70%. 19 (NMCB02_09) No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A? (A) 0 (B) 1 (C) 2 (D) 3 (E) 4 20 (NMCB02_10) Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é (A) 2. (B) 5. (C) 7. (D) 10. (E) 17."
+        "A": "há uma perspectiva infeliz da insônia, observada sobretudo pela perturbação que assola o processo de escrita.",
+        "B": "a solidão e o nada adquirem aspectos tanto positivos quanto negativos a partir do ponto que se observa em relação aos períodos de vigília.",
+        "C": "embora relatada de maneira positiva, a conclusão a que chega o narrador é a de que a insônia amplia a angústia do isolamento.",
+        "D": "a insônia contribui para a motivação literária, considerando a ausência de sons e interrupções do desenvolvimento criativo.",
+        "E": "o ponto de vista negativo da insônia se ampara na dependência de medicamentos estimuladores de sono."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 2,
+      "discipline": "Língua Portuguesa",
+      "statement": "A presença dos sinais de interrogação no primeiro parágrafo indica",
+      "alternatives": {
+        "A": "um questionamento direto ao leitor.",
+        "B": "uma ironia sobre o tema.",
+        "C": "o ritmo e a entoação do texto.",
+        "D": "uma proposição reflexiva.",
+        "E": "uma reação de surpresa."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 3,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que se observa uma linguagem em sentido figurado.",
+      "alternatives": {
+        "A": "Ler? Jamais. Escrever? Jamais.",
+        "B": "Quase nenhum ruído.",
+        "C": "Então fico sentada na sala, sentindo.",
+        "D": "Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar.",
+        "E": "Até que, como o sol subindo, a casa vai acordando."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 4,
+      "discipline": "Língua Portuguesa",
+      "statement": "No trecho: “Sente-se uma coisa que só tem um nome: solidão”, a palavra em destaque apresenta referência",
+      "alternatives": {
+        "A": "catafórica.",
+        "B": "anafórica.",
+        "C": "dêitica.",
+        "D": "intertextual.",
+        "E": "reiterativa."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 5,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o elemento destacado funciona como complemento do verbo.",
+      "alternatives": {
+        "A": "Então fico sentada na sala.",
+        "B": "E sinto-me feliz por nada.",
+        "C": "E o telefone à mão.",
+        "D": "E nem posso pedir que me telefonem no meio da noite.",
+        "E": "O mar é meu."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "Observe a frase: “Então fico sentada na sala, sentindo” e julgue as sentenças a seguir: I. Não há sujeito expresso na oração. II. Não há sujeito porque ficar é um verbo de estado; portanto, impessoal. III. O sujeito se faz saber pela desinência do verbo. IV. Observa-se um caso de sujeito simples, com um só núcleo. Estão corretas",
+      "alternatives": {
+        "A": "I e III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e IV, apenas.",
+        "D": "I, II e III, apenas.",
+        "E": "III e IV, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 7,
+      "discipline": "Língua Portuguesa",
+      "statement": "O texto explora o uso de orações coordenadas assindéticas, que imprimem um ritmo acelerado à narrativa. Assinale a opção em que não se observa este uso.",
+      "alternatives": {
+        "A": "Passa-se um tempo, olha-se o relógio, quem sabe são cinco horas. Nem quatro chegaram. Quem estará acordado agora?",
+        "B": "E nem posso pedir que me telefonem no meio da noite, pois posso estar dormindo e não perdoar.",
+        "C": "Quase nenhum ruído. Só o das ondas do mar batendo na praia.",
+        "D": "O mar é meu, o sol é meu, a terra é minha.",
+        "E": "Ler? Jamais. Escrever? Jamais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 8,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção correta sobre a característica que classifica o texto como uma crônica.",
+      "alternatives": {
+        "A": "Privilegia-se o conteúdo narrado por meio de linguagem objetiva.",
+        "B": "Há ênfase na descrição do cenário e no detalhamento da narração.",
+        "C": "Destaca-se um ponto de vista, utilizando-se de argumentos comprováveis para defendê-lo.",
+        "D": "Nota-se uma apresentação de um tema social, a partir do apagamento de uma perspectiva individual sobre o assunto.",
+        "E": "Adota-se a subjetividade a fim de explorar um tema relacionado à condição humana."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o valor do elemento destacado está incorretamente explicado.",
+      "alternatives": {
+        "A": "Tomo café com gosto - modo.",
+        "B": "E nem posso pedir que me telefonem no meio da noite – tempo.",
+        "C": "E o telefone à mão – lugar.",
+        "D": "E o telefone mudo, sem aquele toque súbito que sobressalta – explicação.",
+        "E": "Tomar uma pílula para dormir – fim."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 10,
+      "discipline": "Língua Portuguesa",
+      "statement": "Os verbos no texto encontram-se majoritariamente no presente do indicativo, apontando para ações descritas com certo grau de verdade e concretude. No entanto, há usos que indicam outros sentidos, como",
+      "alternatives": {
+        "A": "o futuro do pretérito reforçando uma possibilidade, em “ninguém me perdoaria o vício”.",
+        "B": "o gerúndio indicando dúvida, em “então fico sentada na sala, sentindo”.",
+        "C": "o infinitivo ressaltando a ação acabada, em “de repente despertar no meio da noite e ter essa coisa rara: solidão”.",
+        "D": "o pretérito perfeito marcando um passado contínuo, em “nem quatro chegaram”.",
+        "E": "o futuro do presente assinalando simultaneidade, em “quem estará acordado agora?”."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 11,
+      "discipline": "Língua Portuguesa",
+      "statement": "Um número natural N deixa resto 1 na divisão por 2 se, e somente se, deixa resto",
+      "alternatives": {
+        "A": "0 ou 2, na divisão por 4.",
+        "B": "1 ou 3, na divisão por 4.",
+        "C": "2 ou 5, na divisão por 6.",
+        "D": "1 ou 3 na divisão por 6.",
+        "E": "2 ou 5, na divisão por 7."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 12,
+      "discipline": "Língua Portuguesa",
+      "statement": "Em março de 2025, o tempo médio de atendimento em um posto de serviços era de 2h 45min. Em abril, o tempo médio de atendimento foi reduzido em 30%. O tempo médio de atendimento em abril foi de",
+      "alternatives": {
+        "A": "1h 55min 30s.",
+        "B": "1h 50min 30s.",
+        "C": "49min 30s.",
+        "D": "2h 15min.",
+        "E": "1h 15min."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 13,
+      "discipline": "Língua Portuguesa",
+      "statement": "Considere as seguintes premissas: • Se apenas um entre João e Maria mora no bairro do Butantã, então o elefante é azul. • Se João não mora do bairro do Butantã, então a galinha é verde. • Se Maria mora no bairro do Butantã, então o cavalo é amarelo. • O elefante não é azul. Logo,",
+      "alternatives": {
+        "A": "nem Maria, nem João, moram no bairro do Butantã.",
+        "B": "ou a galinha é amarela, ou o cavalo é verde.",
+        "C": "Maria e João moram no bairro do Butantã.",
+        "D": "os três animais não possuem a mesma cor.",
+        "E": "a galinha é verde ou o cavalo é amarelo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": "Língua Portuguesa",
+      "statement": "1 (D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "alternatives": {
+        "A": "120",
+        "B": "119",
+        "C": "96",
+        "D": "86",
+        "E": "24"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": "Língua Portuguesa",
+      "statement": "Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes?",
+      "alternatives": {
+        "A": "0,9%",
+        "B": "1,8%",
+        "C": "9,0%",
+        "D": "18%",
+        "E": "50%"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 17,
+      "discipline": "Língua Portuguesa",
+      "statement": "Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então",
+      "alternatives": {
+        "A": "cada um dos dados da distribuição é maior que 7.",
+        "B": "nenhum dos dados da distribuição é maior que 7.",
+        "C": "algum dos dados da distribuição é maior que 7.",
+        "D": "algum dos dados da distribuição é menor que 7.",
+        "E": "todos os dados da distribuição são iguais a 7."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 18,
+      "discipline": "Língua Portuguesa",
+      "statement": "O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de",
+      "alternatives": {
+        "A": "15%.",
+        "B": "30%.",
+        "C": "36%.",
+        "D": "64%.",
+        "E": "70%."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_projetista-mecanico_q18.png",
+      "page_number": 5
+    },
+    {
+      "question_number": 19,
+      "discipline": "Língua Portuguesa",
+      "statement": "No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A?",
+      "alternatives": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": "Língua Portuguesa",
+      "statement": "Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é",
+      "alternatives": {
+        "A": "2.",
+        "B": "5.",
+        "C": "7.",
+        "D": "10.",
+        "E": "17."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 21,
+      "discipline": "Noções de Informática",
+      "statement": "Em um setor administrativo, uma impressora de rede, configurada para obter endereço IP automaticamente, deixa de funcionar repentinamente. Todos os computadores do setor continuam acessando a Internet normalmente, porém nenhum deles consegue enviar documentos para impressão – inclusive quando a tentativa é feita utilizando diretamente o endereço IP previamente configurado da impressora. Ao verificar o equipamento, constata-se que a impressora está ligada, conectada fisicamente à rede e sem falhas aparentes de hardware. Não há servidor de impressão intermediário, e a comunicação ocorre diretamente entre os computadores e a impressora na rede local. Nessa situação, o serviço de rede cuja indisponibilidade ou falha na concessão explica de forma direta a interrupção do funcionamento da impressora é o",
+      "alternatives": {
+        "A": "DHCP – Dynamic Host Configuration Protocol.",
+        "B": "DNS – Domain Name System.",
+        "C": "FTP – File Transfer Protocol.",
+        "D": "HTTP – Hypertext Transfer Protocol.",
+        "E": "NAT – Network Address Translation."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a navegação na Internet, por meio de navegadores, são utilizados identificadores textuais padronizados para localizar e acessar recursos disponibilizados em servidores, como páginas HTML, imagens e serviços Web. Esse identificador, que define onde o recurso está localizado e como pode ser acessado no contexto da Web, é denominado(a)",
+      "alternatives": {
+        "A": "mecanismo de busca empregado para localizar o recurso.",
+        "B": "navegador utilizado pelo usuário.",
+        "C": "protocolo de comunicação utilizado.",
+        "D": "serviço de hospedagem do recurso.",
+        "E": "URL (Uniform Resource Locator) associada ao recurso."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": "Noções de Informática",
+      "statement": "Durante a organização de arquivos em um computador com o sistema operacional Windows versão 11 BR, um usuário seleciona um arquivo, pressiona a combinação de teclas SHIFT+DELETE e confirma a ação solicitada pelo sistema. Em seguida, ele não encontra mais o arquivo no diretório onde estava e tenta entender o que ocorreu. Nessa situação, a ação executada pelo sistema foi",
+      "alternatives": {
+        "A": "bloquear o arquivo para edição.",
+        "B": "criar automaticamente uma cópia do arquivo.",
+        "C": "excluir o arquivo permanentemente.",
+        "D": "mover o arquivo para a lixeira do Windows.",
+        "E": "transportar o arquivo para a pasta temporária c:\\windows\\temp."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 24,
+      "discipline": "Noções de Informática",
+      "statement": "Durante uma rotina corporativa, um colaborador percebeu que um determinado aplicativo, anteriormente funcional, passou a não conseguir mais estabelecer conexão com servidores específicos externos, embora outros aplicativos ainda consigam acessar normalmente a Internet. Após checagens iniciais, constatou-se que não havia falhas físicas no dispositivo, que a conexão com a rede seguia ativa e que as configurações do aplicativo estavam corretas. Ao registrar um chamado, foi informado pela equipe de suporte que a interrupção ocorreu devido à aplicação de uma nova política de segurança da informação, voltada ao controle de acessos externos por software específico. Considerando o contexto apresentado e somente as alternativas a seguir apresentadas, indique qual mecanismo adotado pela equipe de suporte mantém compatibilidade com o contexto descrito:",
+      "alternatives": {
+        "A": "Adoção de criptografia para garantir a confidencialidade das conexões com a Internet.",
+        "B": "Ativação de filtro antispam para proteger o sistema contra mensagens suspeitas recebidas por e-mail.",
+        "C": "Atualização do antivírus para bloquear automaticamente softwares com acesso externo.",
+        "D": "Implementação de regras de firewall para restringir comunicações por endereço, porta ou aplicação.",
+        "E": "Realização de backup dos dados para prevenir perdas decorrentes de falhas no acesso à rede."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 25,
+      "discipline": "Noções de Informática",
+      "statement": "Um usuário de um software de edição de planilhas eletrônicas precisa inserir, em uma determinada planilha, um valor exatamente no ponto onde se cruzam a sua terceira linha e sua segunda coluna. Nesse tipo de aplicativo, essa posição corresponde a uma",
+      "alternatives": {
+        "A": "anotação.",
+        "B": "célula.",
+        "C": "intervalo.",
+        "D": "link.",
+        "E": "pasta de trabalho."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 26,
+      "discipline": "Língua Inglesa",
+      "statement": "Based on the text, analyze the assertions below: I. Environmental crimes and disputes over land ownership have only recently become a problem. II. The three activities mentioned in the first paragraph are natural events. III. Startups and global teams are joining efforts to make protection technology more available. Choose the correct answer:",
+      "alternatives": {
+        "A": "Only I is correct.",
+        "B": "Only II is correct.",
+        "C": "Only III is correct.",
+        "D": "Only I and III are correct.",
+        "E": "All three assertions are correct."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 27,
+      "discipline": "Língua Inglesa",
+      "statement": "In “When suspicious activity is detected” (2nd paragraph), the verb is in the same voice as in:",
+      "alternatives": {
+        "A": "Machines can help humans in forest protection.",
+        "B": "Modern drones were used to monitor deforestation.",
+        "C": "The agencies are trying to protect the environment.",
+        "D": "Technology is providing data to help assess damage.",
+        "E": "Space agencies have launched satellites to track fires."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": "Língua Inglesa",
+      "statement": "The genitive case in “Brazil’s AI systems monitor changes” (2nd paragraph) also occurs in:",
+      "alternatives": {
+        "A": "The team’s finished their project ahead of schedule.",
+        "B": "The surveillance project’s moving along nicely.",
+        "C": "The community’s been helping the authorities.",
+        "D": "The group’s been working on this for months.",
+        "E": "The partners’ collaboration is seen essential."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 29,
+      "discipline": "Língua Inglesa",
+      "statement": "In “before they happen” (3rd paragraph), the pronoun is replacing:",
+      "alternatives": {
+        "A": "crimes.",
+        "B": "patrols.",
+        "C": "rangers.",
+        "D": "chances.",
+        "E": "patterns."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 30,
+      "discipline": "Língua Inglesa",
+      "statement": "“Like” in “like seasonal plant shifts” (4th paragraph) indicates a(n):",
+      "alternatives": {
+        "A": "preference.",
+        "B": "estimate.",
+        "C": "approval.",
+        "D": "addition.",
+        "E": "example."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 31,
+      "discipline": "Língua Inglesa",
+      "statement": "As projeções em desenho técnico são representações gráficas que permitem visualizar diferentes vistas de um objeto tridimensional em superfícies planas, facilitando sua interpretação e fabricação, conforme mostrado na figura a seguir: O desenho acima representa uma pirâmide de base quadrada projetada no",
+      "alternatives": {
+        "A": "3º diedro, baseado no método norte-americano.",
+        "B": "3º diedro, baseado no método europeu.",
+        "C": "1º diedro, baseado no método norte-americano.",
+        "D": "1º diedro, baseado no método europeu.",
+        "E": "2º diedro, baseado no método norte-americano."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_projetista-mecanico_q31.png",
+      "page_number": 7
+    },
+    {
+      "question_number": 32,
+      "discipline": "Língua Inglesa",
+      "statement": "A perspectiva em desenho técnico é uma técnica de representação gráfica que permite visualizar objetos tridimensionais em superfícies bidimensionais, proporcionando uma noção realista de profundidade e proporção. A imagem a seguir mostra um exemplo de um desenho em perspectiva. Considerando o desenho acima, ele está desenhado na perspectiva",
+      "alternatives": {
+        "A": "bimétrica.",
+        "B": "isométrica.",
+        "C": "cavaleira à 60°.",
+        "D": "cavaleira à 45°.",
+        "E": "cavaleira à 30°."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_projetista-mecanico_q32.png",
+      "page_number": 7
+    },
+    {
+      "question_number": 33,
+      "discipline": "Língua Inglesa",
+      "statement": "As linhas no desenho técnico são elementos fundamentais que representam contornos, limites, cortes e detalhes das peças, seguindo normas específicas para garantir clareza e padronização na comunicação técnica. Em relação às linhas assinale a opção incorreta.",
+      "alternatives": {
+        "A": "Linha contínua larga é empregada em arestas e contorno visíveis.",
+        "B": "Linha contínua estreita é empregada em hachuras.",
+        "C": "Linha tracejada larga é empregada em arestas e contorno não visíveis.",
+        "D": "Linha tracejada estreita é empregada em linhas de simetria.",
+        "E": "Linha traço e ponto estreita é empregada em trajetórias."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 34,
+      "discipline": "Língua Inglesa",
+      "statement": "As folhas de papel no desenho técnico seguem formatos padronizados, como os da série A (A0, A1, A2, A3, A4), para garantir uniformidade na apresentação dos projetos e facilitar a leitura, reprodução e arquivamento dos desenhos. Sobre as normas da ABNT para folhas de desenho técnico, assinale a opção correta.",
+      "alternatives": {
+        "A": "O formato A4 possui dimensões de 297 x 420 mm.",
+        "B": "O formato A0 possui dimensões de 420 x 594 mm.",
+        "C": "O formato A2 possui dimensões de 210 x 297 mm.",
+        "D": "O formato A3 possui dimensões de 841 x 1189 mm.",
+        "E": "O formato A1 possui dimensões de 594 x 841 mm."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 35,
+      "discipline": "Língua Inglesa",
+      "statement": "A cotagem no desenho técnico é o processo de indicar as dimensões de um objeto, fornecendo medidas precisas e essenciais para sua fabricação, montagem e verificação. Sobre cotagem em desenho técnico, de acordo com a norma da ABNT, assinale a opção correta.",
+      "alternatives": {
+        "A": "Em representações horizontais, o valor da cota deve estar acima da linha de cota.",
+        "B": "O valor da cota deve ser escrito à direita da linha de cota, independentemente da orientação.",
+        "C": "As cotas angulares são representadas apenas em graus inteiros.",
+        "D": "As linhas de chamada podem ser substituídas por linhas de centro em qualquer situação.",
+        "E": "As cotas devem ser sempre colocadas em todas as vistas, mesmo que redundantes."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 36,
+      "discipline": "Língua Inglesa",
+      "statement": "As vistas no desenho técnico são projeções ortogonais que representam diferentes ângulos de um objeto. A vista de frente de um objeto em desenho técnico é denominada",
+      "alternatives": {
+        "A": "elevação.",
+        "B": "planta.",
+        "C": "perfil.",
+        "D": "corte.",
+        "E": "perspectiva."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 38,
+      "discipline": "Língua Inglesa",
+      "statement": "As válvulas são dispositivos mecânicos responsáveis por controlar, direcionar ou interromper o fluxo de fluidos em sistemas hidráulicos e pneumáticos, garantindo segurança e eficiência operacional. A principal função de uma válvula de bloqueio em um sistema de tubulação industrial é",
+      "alternatives": {
+        "A": "medir a pressão do fluido.",
+        "B": "interromper ou permitir o fluxo de fluido.",
+        "C": "controlar a temperatura.",
+        "D": "filtrar impurezas.",
+        "E": "regular a velocidade do fluido."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 40,
+      "discipline": "Língua Inglesa",
+      "statement": "Os critérios de montagem de equipamentos industriais envolvem diretrizes técnicas e de segurança. Em relação aos critérios de montagem de equipamentos industriais. Assinale a opção correta.",
+      "alternatives": {
+        "A": "A montagem deve seguir rigorosamente as instruções do fabricante e normas técnicas.",
+        "B": "A montagem pode ser feita sem seguir o projeto técnico.",
+        "C": "O uso de ferramentas inadequadas é permitido.",
+        "D": "O alinhamento é dispensável em equipamentos estáticos.",
+        "E": "Não é necessário alinhar os equipamentos."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 41,
+      "discipline": "Língua Inglesa",
+      "statement": "As conexões de vasos de pressão são elementos que permitem a entrada, saída e alívio de fluidos, devendo ser projetadas e instaladas conforme normas técnicas para garantir a integridade estrutural, a segurança operacional e a manutenção adequada do equipamento. Sobre essas conexões, o tipo de flange mais indicado para altas pressões em vasos de pressão é o flange",
+      "alternatives": {
+        "A": "sobreposto.",
+        "B": "cego.",
+        "C": "roscado.",
+        "D": "de pescoço.",
+        "E": "de encaixe."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 42,
+      "discipline": "Língua Inglesa",
+      "statement": "A suportação em sistemas industriais refere-se ao conjunto de estruturas e dispositivos utilizados para sustentar, fixar e estabilizar equipamentos, tubulações e componentes. O principal risco de não seguir critérios de suportação em tubulações industriais é",
+      "alternatives": {
+        "A": "aumento da pressão.",
+        "B": "vibração excessiva e falhas estruturais.",
+        "C": "redução de temperatura.",
+        "D": "perda de vazão.",
+        "E": "acúmulo de resíduos."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 43,
+      "discipline": "Língua Inglesa",
+      "statement": "Para garantir o funcionamento adequado e a durabilidade dos motores elétricos, é essencial seguir procedimentos corretos de alinhamento de eixos. O instrumento correto para o procedimento de alinhamento de eixos em motores elétricos é",
+      "alternatives": {
+        "A": "a medição por régua.",
+        "B": "o ajuste por tentativa e erro.",
+        "C": "a soldagem direta.",
+        "D": "o uso de relógio comparador e laser.",
+        "E": "a lubrificação prévia."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 44,
+      "discipline": "Língua Inglesa",
+      "statement": "Nos sistemas de HVAC que utilizam água gelada, os fluxogramas representam não apenas o percurso do fluido, mas também os dispositivos responsáveis pelo controle térmico. Nos fluxogramas de sistemas de água gelada, o elemento essencial para o controle de temperatura é",
+      "alternatives": {
+        "A": "a válvula de controle modulante.",
+        "B": "o sensor de temperatura.",
+        "C": "o filtro de linha.",
+        "D": "a válvula de retenção.",
+        "E": "a bomba de recalque."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 45,
+      "discipline": "Língua Inglesa",
+      "statement": "O encaminhamento de dutos em sistemas de HVAC não influencia apenas a eficiência energética, mas também o nível de ruído percebido nos ambientes climatizados. O fator que deve ser considerado para evitar ruídos excessivos no encaminhamento de dutos é",
+      "alternatives": {
+        "A": "aumentar a velocidade do ar.",
+        "B": "utilizar dutos metálicos sem isolamento.",
+        "C": "reduzir o número de curvas e cotovelos.",
+        "D": "instalar próximo a luminárias.",
+        "E": "diminuir o diâmetro dos dutos."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 46,
+      "discipline": "Língua Inglesa",
+      "statement": "Em sistemas de HVAC, a condensação em tubulações de água gelada pode gerar problemas como gotejamento, infiltrações e até danos estruturais. O detalhe de montagem que é crítico para evitar condensação indesejada em tubulações de água gelada é",
+      "alternatives": {
+        "A": "o isolamento térmico adequado.",
+        "B": "a pintura anticorrosiva.",
+        "C": "a instalação próxima a janelas.",
+        "D": "o uso de tubulação galvanizada.",
+        "E": "a fixação com suportes metálicos."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 47,
+      "discipline": "Língua Inglesa",
+      "statement": "Os sistemas multi-split são amplamente utilizados em edificações de médio porte por oferecerem praticidade e controle individual de ambientes. No entanto, quando comparados aos sistemas VRF (Variable Refrigerant Flow), apresentam limitações técnicas. A principal limitação técnica do multi-split em comparação com sistemas VRF (Variable Refrigerant Flow) é",
+      "alternatives": {
+        "A": "a maior eficiência energética.",
+        "B": "o controle individual mais avançado.",
+        "C": "a necessidade de menos unidades externas.",
+        "D": "o maior custo inicial.",
+        "E": "a menor flexibilidade de expansão."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 48,
+      "discipline": "Língua Inglesa",
+      "statement": "Na seleção de difusores em sistemas de HVAC, não basta garantir a vazão adequada de ar. O parâmetro utilizado para garantir conforto térmico sem correntes de ar é",
+      "alternatives": {
+        "A": "a cor do difusor.",
+        "B": "o tipo de pintura da parede.",
+        "C": "a distância da porta.",
+        "D": "a velocidade terminal do jato de ar.",
+        "E": "a potência elétrica do motor."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 50,
+      "discipline": "Língua Inglesa",
+      "statement": "O Excel oferece diversas funções para manipulação e análise de dados, sendo o PROCV uma das mais utilizadas para localizar informações em tabelas. A principal função do comando PROCV no Microsoft Excel é",
+      "alternatives": {
+        "A": "procurar um valor em uma coluna e retornar um valor correspondente em outra coluna da mesma linha.",
+        "B": "localizar um valor em uma coluna e retornar a soma de todos os valores encontrados.",
+        "C": "ordenar os dados de uma tabela em ordem crescente ou decrescente.",
+        "D": "criar gráficos dinâmicos a partir de uma tabela de dados.",
+        "E": "validar dados inseridos em células para evitar duplicidade."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 51,
+      "discipline": "Língua Inglesa",
+      "statement": "Os atalhos de teclado no sistema operacional Windows são recursos que agilizam tarefas e aumentam a produtividade, permitindo executar comandos rapidamente sem depender do mouse. A função padrão do atalho de teclado “Ctrl + X” no sistema operacional Windows é",
+      "alternatives": {
+        "A": "copiar o conteúdo selecionado para a área de transferência (copiar).",
+        "B": "colar o conteúdo da área de transferência no local selecionado (colar).",
+        "C": "cancelar a última ação realizada no sistema (cancelar).",
+        "D": "copiar o conteúdo selecionado para a área de transferência e removê-lo da origem (cortar).",
+        "E": "fechar a janela ou aplicativo ativo (fechar)."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 52,
+      "discipline": "Língua Inglesa",
+      "statement": "Os slides no Microsoft PowerPoint são a base de uma apresentação, permitindo organizar conteúdos visuais e textuais de forma estruturada e dinâmica para transmitir informações com clareza. Sobre suas funções, a finalidade do recurso de transições no Microsoft PowerPoint é",
+      "alternatives": {
+        "A": "alterar o layout dos slides para manter a uniformidade da apresentação.",
+        "B": "criar animações para objetos dentro de um único slide.",
+        "C": "inserir vídeos e áudios para enriquecer o conteúdo da apresentação.",
+        "D": "definir efeitos visuais que ocorrem ao mudar de um slide para outro durante a apresentação.",
+        "E": "ajustar a ordem dos slides na apresentação."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 53,
+      "discipline": "Língua Inglesa",
+      "statement": "Softwares de desenho assistido por computador, como AutoCAD, SolidWorks, PDMS e Navisworks, são fundamentais para a criação, modificação e visualização de projetos técnicos em 2D e 3D. Em relação a esses softwares, a principal função do Navisworks é",
+      "alternatives": {
+        "A": "criar peças 3D.",
+        "B": "criar desenhos técnicos em 2D.",
+        "C": "aplicar texturas.",
+        "D": "gerar animações.",
+        "E": "revisar e integrar modelos."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 54,
+      "discipline": "Língua Inglesa",
+      "statement": "O SolidWorks é um software de modelagem 3D utilizado na engenharia e no design, permitindo criar peças, montagens e simulações, auxiliando no desenvolvimento de produtos e projetos mecânicos. Considere o botão a seguir do SolidWorks: Nesse cenário, o botão apresentado tem como função",
+      "alternatives": {
+        "A": "criar peças individuais.",
+        "B": "aplicar texturas.",
+        "C": "organizar peças em um conjunto.",
+        "D": "gerar desenhos 2D.",
+        "E": "inserir cotas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_projetista-mecanico_q54.png",
+      "page_number": 10
+    },
+    {
+      "question_number": 55,
+      "discipline": "Língua Inglesa",
+      "statement": "AutoCAD é um dos softwares mais utilizados para desenho assistido por computador, permitindo criar projetos técnicos em 2D e 3D. Com base nos comandos do AutoCAD, o comando usado para criar múltiplas cópias de um objeto ou grupo de objetos em um arranjo padrão é",
+      "alternatives": {
+        "A": "MOVE.",
+        "B": "COPY.",
+        "C": "OFFSET.",
+        "D": "MIRROR.",
+        "E": "ARRAY."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 56,
+      "discipline": "Língua Inglesa",
+      "statement": "As funções do AutoCAD são comandos essenciais que permitem criar, modificar e organizar elementos em projetos técnicos, oferecendo recursos para desenho 2D, modelagem 3D, dimensionamento e padronização. Uma dessas funções permite reutilizar componentes desenhados padronizados em projetos CAD. O comando dessa função é",
+      "alternatives": {
+        "A": "Layers.",
+        "B": "Hatch.",
+        "C": "Layout.",
+        "D": "UCS.",
+        "E": "Blocks."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 57,
+      "discipline": "Língua Inglesa",
+      "statement": "No AutoCAD, compreender os espaços de trabalho é essencial para garantir precisão no desenho e na impressão. Um desses espaços é utilizado para criar o projeto em escala real. O espaço usado para desenhar em escala real é o",
+      "alternatives": {
+        "A": "Paper Space.",
+        "B": "Layout.",
+        "C": "Viewport.",
+        "D": "Model Space.",
+        "E": "Plot Space."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 58,
+      "discipline": "Língua Inglesa",
+      "statement": "A modelagem 3D no AutoCAD oferece comandos que transformam perfis 2D em sólidos complexos. O comando do AutoCAD que cria um sólido girando um perfil 2D em torno de um eixo é o",
+      "alternatives": {
+        "A": "EXTRUDE.",
+        "B": "SWEEP.",
+        "C": "LOFT.",
+        "D": "PRESSP.",
+        "E": "REVOLVE."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 59,
+      "discipline": "Língua Inglesa",
+      "statement": "Os 9 grupos de normas da CNEN organizam diretrizes técnicas e regulatórias para garantir segurança, licenciamento e controle das atividades nucleares e radiativas no Brasil. O grupo de normas CNEN que trata do gerenciamento de rejeitos radioativos é o",
+      "alternatives": {
+        "A": "Grupo 8.",
+        "B": "Grupo 2.",
+        "C": "Grupo 4.",
+        "D": "Grupo 6.",
+        "E": "Grupo 9."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 60,
+      "discipline": "Língua Inglesa",
+      "statement": "As normas da CNEN são fundamentais para garantir segurança e controle nas atividades nucleares. A norma CNEN NN 3.01 está associada ao",
+      "alternatives": {
+        "A": "Grupo 8.",
+        "B": "Grupo 4.",
+        "C": "Grupo 3.",
+        "D": "Grupo 1.",
+        "E": "Grupo 7. Realização"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     }
   ]
 }

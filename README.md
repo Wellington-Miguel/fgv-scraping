@@ -1,14 +1,14 @@
 # FGV Conhecimento — Crawler & Parser de Provas Objetivas (Alta Veracidade)
 
-Pipeline completo para coleta automatizada, auditoria de veracidade e parsing estruturado de provas objetivas (**Tipo 1 / Branca**, 4 ou 5 alternativas) e gabaritos oficiais do portal [FGV Conhecimento](https://conhecimento.fgv.br/concursos), com suporte a fallback assistido via **Ollama (`llama3.1:8b`)**.
+Pipeline completo para coleta automatizada, auditoria de veracidade e parsing estruturado de provas objetivas (**Tipo 1 / Branca**, 4 ou 5 alternativas e **Certo/Errado**) e gabaritos oficiais do portal [FGV Conhecimento](https://conhecimento.fgv.br/concursos), com suporte a fallback assistido e classificação taxonômica via **Ollama (`llama3.1:8b`)**.
 
 ## Resultados Atuais da Base (`./data/processed`)
 
-- **1.498 provas objetivas processadas** (em **231 concursos** únicos)
-- **99.522 questões objetivas extraídas e validadas** (Pydantic)
-- **99.522 questões gabaritadas (100,00% de cobertura oficial)** — `0` provas sem gabarito e `0` provas com gabarito parcial
-- **80.496 questões classificadas por disciplina** (`discipline`) diretamente dos cadernos
-- **5.286 imagens/gráficos recortados** em 200 DPI (`./data/processed/images/`)
+- **1.499 provas objetivas processadas** (em **231 concursos** únicos — incluindo **187 provas de 4 alternativas** e **1 prova de Certo/Errado**)
+- **101.079 questões objetivas extraídas e validadas** (Pydantic)
+- **101.079 questões gabaritadas (100,00% de cobertura oficial)** — `0` provas sem gabarito e `0` provas com gabarito parcial
+- **101.079 questões classificadas por disciplina (100,00% de cobertura)** via extração direta dos cadernos + classificação em lote via `llama3.1:8b`
+- **5.313 imagens/gráficos recortados** em 200 DPI (`./data/processed/images/`, com 5.270 vinculados às questões)
 
 ## Estrutura do Projeto
 

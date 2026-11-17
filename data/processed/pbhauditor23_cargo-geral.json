@@ -8,7 +8,7 @@
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "As frases a seguir mostram termos sublinhados que retomam termos anteriores. Assinale a frase em que o tipo de retomada está corretamente identificado.",
       "alternatives": {
         "A": "Luís Filipe acaba de comprar três esferográficas, dois lápis e folhas de papel pautado. Ele necessita desses artigos para suas anotações arqueológicas. / Sinônimo.",
@@ -17,7 +17,7 @@
         "D": "A mulher ocupa mais e mais seu lugar em nossa sociedade. Não é raro ver mulheres ocupando cargos de chefia. / Repetição de termos com flexão diferente.",
         "E": null
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -25,7 +25,7 @@
     },
     {
       "question_number": 2,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Todas as frases abaixo mostram um grupo nominal formado por substantivo + adjetivo. Assinale a frase em que a troca de posição entre os dois modifica o sentido do grupo.",
       "alternatives": {
         "A": "A agricultura fomenta a sensatez, sensatez de excelente índole.",
@@ -34,7 +34,7 @@
         "D": "Lembrai-vos que as mais belas coisas do mundo são as mais inúteis: lírios e pavões, por exemplo.",
         "E": null
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -42,7 +42,7 @@
     },
     {
       "question_number": 3,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Assinale a opção que mostra a frase em que o emprego do pronome sublinhado está inadequado.",
       "alternatives": {
         "A": "É uma coisa terrível para um intelectual quando ele encara uma ideia como uma realidade.",
@@ -51,7 +51,7 @@
         "D": "Se você quiser civilizar alguém, comece pela avó dele.",
         "E": null
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -59,7 +59,7 @@
     },
     {
       "question_number": 4,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Assinale a frase que se apresenta inteiramente coerente.",
       "alternatives": {
         "A": "Não me lembro do que ele morreu. Só me lembro que não era nada sério.",
@@ -68,7 +68,7 @@
         "D": "A única maneira de conter esta onda de suicídios é fazer com que seja um crime punido com pena de morte.",
         "E": null
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -76,30 +76,13 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "As frases a seguir mostram uma comparação. Assinale a única frase em que a comparação feita não é seguida por uma explicação sobre ela.",
       "alternatives": {
         "A": "A vida é um circo gratuito: basta você prestar atenção.",
         "B": "A alma humana é como a nuvem. Está sempre em movimento e mudando.",
         "C": "A vida é bicicleta com câmbio de dez velocidades. A maioria de nós tem marchas que nunca usa.",
         "D": "A maioria das pessoas são como os alfinetes: suas cabeças não são o mais importante.",
-        "E": null
-      },
-      "answer": "D",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 2
-    },
-    {
-      "question_number": 6,
-      "discipline": null,
-      "statement": "O Art. 37 da Constituição Federal de 1988 estabeleceu os princípios da Administração Pública que constituem a base para uma administração transparente, responsável e comprometida com o bem-estar coletivo. Relacione os princípios listados a seguir às suas respectivas definições. 1. Legalidade 2. Impessoalidade 3. Eficiência 4. Moralidade ( ) correlato à probidade. ( ) norte em prol do interesse público. ( ) foco da ciência da Administração. ( ) oposto à autonomia da vontade. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
-      "alternatives": {
-        "A": "1 – 3 – 2 – 4.",
-        "B": "1 – 4 – 2 – 3.",
-        "C": "4 – 2 – 3 – 1.",
-        "D": "4 – 3 – 2 – 1.",
         "E": null
       },
       "answer": "A",
@@ -109,14 +92,14 @@
       "page_number": 2
     },
     {
-      "question_number": 7,
-      "discipline": null,
-      "statement": "A estrutura do aparelho público brasileiro compreende a administração direta e a indireta, delineando as formas pelas quais o Estado organiza suas atividades. Assinale a opção que apresenta as características de uma sociedade de economia mista.",
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "O Art. 37 da Constituição Federal de 1988 estabeleceu os princípios da Administração Pública que constituem a base para uma administração transparente, responsável e comprometida com o bem-estar coletivo. Relacione os princípios listados a seguir às suas respectivas definições. 1. Legalidade 2. Impessoalidade 3. Eficiência 4. Moralidade ( ) correlato à probidade. ( ) norte em prol do interesse público. ( ) foco da ciência da Administração. ( ) oposto à autonomia da vontade. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
-        "A": "Executa atividades econômicas, algumas delas típicas da iniciativa privada e outras, assumidas pelo Estado como serviços públicos.",
-        "B": "Presta serviços públicos comerciais e industriais do Estado.",
-        "C": "Fornece serviços e promove ações colaborativas entre dois ou mais entes federativos com o propósito de atender ao interesse coletivo e proporcionar benefícios públicos.",
-        "D": "Desempenha atividades típicas do Estado.",
+        "A": "1 – 3 – 2 – 4.",
+        "B": "1 – 4 – 2 – 3.",
+        "C": "4 – 2 – 3 – 1.",
+        "D": "4 – 3 – 2 – 1.",
         "E": null
       },
       "answer": "C",
@@ -126,31 +109,31 @@
       "page_number": 2
     },
     {
+      "question_number": 7,
+      "discipline": "Língua Portuguesa",
+      "statement": "A estrutura do aparelho público brasileiro compreende a administração direta e a indireta, delineando as formas pelas quais o Estado organiza suas atividades. Assinale a opção que apresenta as características de uma sociedade de economia mista.",
+      "alternatives": {
+        "A": "Executa atividades econômicas, algumas delas típicas da iniciativa privada e outras, assumidas pelo Estado como serviços públicos.",
+        "B": "Presta serviços públicos comerciais e industriais do Estado.",
+        "C": "Fornece serviços e promove ações colaborativas entre dois ou mais entes federativos com o propósito de atender ao interesse coletivo e proporcionar benefícios públicos.",
+        "D": "Desempenha atividades típicas do Estado.",
+        "E": null
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "A delegação de serviços públicos a terceiros visa à eficiência na prestação de determinadas atividades, envolvendo a transferência responsável para entidades privadas, enquanto o Estado mantém a supervisão e a fiscalização para garantir o interesse público. Com relação à delegação de serviços públicos a terceiros, analise as afirmativas a seguir. I. A cooperação entre o Estado, as empresas e o terceiro setor melhora o equilíbrio social entre os diferentes atores. II. As formas de colaboração manifestam-se de diferentes maneiras, desde contratos até modalidades informais. III. As parcerias público-privadas (PPPs), os consórcios e a coprodução de serviços públicos são exemplos de delegação de serviços públicos a terceiros.",
       "alternatives": {
         "A": "I e II, apenas.",
         "B": "I e III, apenas.",
         "C": "II e III, apenas.",
         "D": "I, II e III.",
-        "E": null
-      },
-      "answer": "B",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 3
-    },
-    {
-      "question_number": 9,
-      "discipline": null,
-      "statement": "As Parcerias Público-Privadas (PPPs) emergem como uma estratégia que possibilita aprimorar a eficiência do setor público, resultando em um desempenho superior sem necessariamente aumentar os custos das operações governamentais. Com relação às PPPs, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) As empresas passam a demonstrar interesse na concessão de empreendimentos e serviços públicos que não seriam viáveis apenas com a remuneração proveniente dos usuários. ( ) O Estado de Minas Gerais foi pioneiro ao instituir legislação e estabelecer uma estrutura específica para as PPPs em 2003, antecipando-se mesmo à legislação federal. ( ) Apesar do papel de destaque dos estados no desenvolvimento de projetos de PPPs, a implementação desse modelo nos municípios ainda é incipiente. As afirmativas são, na ordem apresentada, respectivamente,",
-      "alternatives": {
-        "A": "F – V – F.",
-        "B": "F – F – V.",
-        "C": "V – F – F.",
-        "D": "V – V – F.",
         "E": null
       },
       "answer": "C",
@@ -160,14 +143,14 @@
       "page_number": 3
     },
     {
-      "question_number": 10,
-      "discipline": null,
-      "statement": "A Lei nº 12.527/2011, e suas alterações, fundamentam a Transparência Pública e o Acesso à Informação, promovendo a disponibilidade de dados governamentais e garantindo o direito do cidadão de obter informações sobre as ações e decisões do poder público. Assinale a opção que apresenta o conceito de primariedade.",
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "As Parcerias Público-Privadas (PPPs) emergem como uma estratégia que possibilita aprimorar a eficiência do setor público, resultando em um desempenho superior sem necessariamente aumentar os custos das operações governamentais. Com relação às PPPs, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) As empresas passam a demonstrar interesse na concessão de empreendimentos e serviços públicos que não seriam viáveis apenas com a remuneração proveniente dos usuários. ( ) O Estado de Minas Gerais foi pioneiro ao instituir legislação e estabelecer uma estrutura específica para as PPPs em 2003, antecipando-se mesmo à legislação federal. ( ) Apesar do papel de destaque dos estados no desenvolvimento de projetos de PPPs, a implementação desse modelo nos municípios ainda é incipiente. As afirmativas são, na ordem apresentada, respectivamente,",
       "alternatives": {
-        "A": "Qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados.",
-        "B": "Qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações.",
-        "C": "Qualidade da informação não modificada, inclusive quanto à origem, ao trânsito e ao destino.",
-        "D": "Qualidade da informação que tenha sido produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema.",
+        "A": "F – V – F.",
+        "B": "F – F – V.",
+        "C": "V – F – F.",
+        "D": "V – V – F.",
         "E": null
       },
       "answer": "D",
@@ -177,8 +160,25 @@
       "page_number": 3
     },
     {
+      "question_number": 10,
+      "discipline": "Língua Portuguesa",
+      "statement": "A Lei nº 12.527/2011, e suas alterações, fundamentam a Transparência Pública e o Acesso à Informação, promovendo a disponibilidade de dados governamentais e garantindo o direito do cidadão de obter informações sobre as ações e decisões do poder público. Assinale a opção que apresenta o conceito de primariedade.",
+      "alternatives": {
+        "A": "Qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados.",
+        "B": "Qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações.",
+        "C": "Qualidade da informação não modificada, inclusive quanto à origem, ao trânsito e ao destino.",
+        "D": "Qualidade da informação que tenha sido produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema.",
+        "E": null
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "A Lei nº 13.709/2018, e suas alterações, estabelece as bases para a Proteção Geral de Dados, assegurando o controle e a privacidade das informações pessoais dos cidadãos no contexto das atividades realizadas por entidades públicas e privadas. Com relação à Proteção Geral de Dados, analise as afirmativas a seguir. I. A disciplina da proteção de dados pessoais tem como fundamento a autodeterminação informativa. II. A Lei se aplica ao tratamento de dados pessoais, realizado para fins exclusivamente jornalísticos. III. A Lei não se aplica ao tratamento de dados pessoais realizado para fins exclusivamente acadêmicos.",
       "alternatives": {
         "A": "I, apenas.",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "A Lei Orgânica do Município de Belo Horizonte, promulgada em 1990, delineia a estrutura da Prefeitura, estabelecendo bases organizacionais e funcionais para a gestão municipal. Assinale a opção que apresenta uma competência singular do Município.",
       "alternatives": {
         "A": "Difundir a seguridade social, a educação, a cultura, o desporto, a ciência e a tecnologia.",
@@ -204,7 +204,7 @@
         "D": "Combater as causas da pobreza e os fatores de marginalização, promovendo a integração social dos setores desfavorecidos.",
         "E": null
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "A Lei nº 11.065/2017, suas alterações e regulamentos, define a estrutura orgânica da administração pública do Poder Executivo Municipal, estabelecendo as diretrizes e competências para uma gestão eficiente e transparente no âmbito municipal. Com relação à estrutura orgânica da administração pública do Poder Executivo Municipal, analise as afirmativas a seguir. I. A subordinação administrativa refere-se à relação hierárquica entre secretarias e órgãos autônomos com o prefeito, assim como entre as unidades administrativas e os titulares dos órgãos e entidades aos quais estão subordinados. II. A subordinação técnica caracteriza-se pela relação hierárquica entre um órgão ou unidade e outro, independentemente da existência de relação de subordinação administrativa. III. Os Conselhos Deliberativos Distritais de Participação Popular constituem um instrumento participativo da população nas ações governamentais regionalizadas.",
       "alternatives": {
         "A": "I, apenas.",
@@ -221,7 +221,7 @@
         "D": "II e III, apenas.",
         "E": null
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -238,7 +238,7 @@
         "D": "A observância aos resultados do monitoramento e da avaliação das políticas públicas consiste em inovação inserida na elaboração dos instrumentos orçamentários, a partir da Emenda Constitucional nº 109/2021.",
         "E": null
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -272,7 +272,7 @@
         "D": "A fim de evitar favorecimentos políticos, apenas as emendas parlamentares de comissão possuem caráter obrigatório.",
         "E": null
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -289,7 +289,7 @@
         "D": "60,0% e 6,0%, são os limites máximos de gastos com pessoal dos poderes Executivo e Legislativo, respectivamente.",
         "E": null
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -340,7 +340,7 @@
         "D": "a competência sobre o ISS. GRUPO 2 - CONHECIMENTOS ESPECÍFICOS Auditoria e Controle Interno e Externo Atenção: o texto a seguir refere-se às duas próximas questões. A Controladoria-Geral de Belo Horizonte recebeu denúncia relativa a suposto superfaturamento na execução de contrato administrativo tendo por objeto a construção de creche. O denunciante alega ainda que os sócios da sociedade empresária contratada possuíam relação de parentesco com dirigente do órgão contratante em nível de 2º grau.",
         "E": null
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -357,7 +357,7 @@
         "D": "Deverá encaminhar a denúncia ao órgão denunciado para que este apure as irregularidades.",
         "E": null
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -408,7 +408,7 @@
         "D": "A atuação orçamentária-financeira do estado é apreciada de forma preventiva pelo Parlamento quando da aprovação das leis orçamentárias, bem como a posteriori no julgamento das contas.",
         "E": null
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -425,7 +425,7 @@
         "D": "Aos Tribunais de Contas é reconhecida prerrogativa para requisitar acesso a informações relacionadas a operações financiadas com recursos públicos, não havendo o que falar de sigilo bancário e empresarial.",
         "E": null
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -442,7 +442,7 @@
         "D": "Compete à CTGM instaurar e julgar tomadas de contas especiais para apurar a responsabilidade de pessoa física, órgão ou entidade que derem causa à perda, ao extravio ou a outra irregularidade de que resulte, ou possa resultar, dano, ao erário, devidamente quantificado.",
         "E": null
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -459,8 +459,8 @@
         "D": "A CTGM deve recomendar ao gestor competente que adote os procedimentos necessários para suspensão de contratos em execução, sempre que houver indícios de fraude ou graves irregularidades que exijam a medida.",
         "E": null
       },
-      "answer": "ANULADA",
-      "annulled": true,
+      "answer": "C",
+      "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
@@ -493,7 +493,7 @@
         "D": "O risco residual é apurado após uma avaliação preliminar dos controles internos que atuam diretamente sobre os riscos.",
         "E": null
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -527,7 +527,7 @@
         "D": "I, II, VI e VIII, apenas.",
         "E": null
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -544,8 +544,8 @@
         "D": "A comunicação dos resultados se materializa mediante Relatório de Auditoria, que deve conter as conclusões da Auditoria Interna, recomendações e/ou Planos de Ação. O relatório de auditoria é objeto de avaliação e parecer pelo dirigente do órgão ou da entidade auditada.",
         "E": null
       },
-      "answer": "D",
-      "annulled": false,
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 7
@@ -561,7 +561,7 @@
         "D": "Além da seleção dos trabalhos com base em riscos, na elaboração do Plano Anual de Auditoria Interna devem ser consideradas as expectativas da alta administração dos órgãos e entidades da Administração Municipal e demais partes interessadas.",
         "E": null
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -595,7 +595,7 @@
         "D": "No caso do processo de trabalho B, consideram-se os controles efetivos e eficazes.",
         "E": null
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pbhauditor23_cargo-geral_q35.png",
@@ -612,7 +612,7 @@
         "D": "A escolha do tipo de amostragem é determinada pela finalidade do procedimento de auditoria, devendo ser considerado também o dever de fornecer informação baseada em evidência suficiente e apropriada, e a necessidade de reduzir ou administrar o risco de chegar a conclusões inapropriadas.",
         "E": null
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -629,7 +629,7 @@
         "D": "I, II e III.",
         "E": null
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -646,7 +646,7 @@
         "D": "Benefício efetivo é aquele concretizado em decorrência das ações de controle interno, com real impacto na gestão pública.",
         "E": null
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -697,7 +697,7 @@
         "D": "II e III, apenas.",
         "E": null
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -714,7 +714,7 @@
         "D": "4 – 3 – 2 – 1.",
         "E": null
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -748,7 +748,7 @@
         "D": "4 – 3 – 2 – 1.",
         "E": null
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -765,7 +765,7 @@
         "D": "I, II e III.",
         "E": null
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -782,7 +782,7 @@
         "D": "Status, prestígio, poder e conflito.",
         "E": null
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -799,7 +799,7 @@
         "D": "II e III, apenas.",
         "E": null
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -833,7 +833,7 @@
         "D": "Conhecedor íntimo da organização.",
         "E": null
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -884,7 +884,7 @@
         "D": "Fixação de preços de serviços.",
         "E": null
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -901,7 +901,7 @@
         "D": "Retroação.",
         "E": null
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -935,7 +935,7 @@
         "D": "Resultados.",
         "E": null
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -952,7 +952,7 @@
         "D": "Systems.",
         "E": null
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -969,7 +969,7 @@
         "D": "Alocação dos recursos totais da empresa entre as oportunidades de produtos/mercados.",
         "E": null
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -983,10 +983,10 @@
         "A": "Produtividade, custos baixos e interfaces.",
         "B": "Lucratividade e retorno sobre o investimento.",
         "C": "Participação no mercado, tendências e pontualidade na entrega.",
-        "D": "Desenvolvimento de processos internos, competências e motivação das pessoas. Gestão de Pessoas e Gestão da Qualidade",
+        "D": "Desenvolvimento de processos internos, competências e motivação das pessoas.",
         "E": null
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "A gestão de pessoas é uma atividade multidisciplinar, responsável por buscar as melhores formas de tratamento do capital humano de uma organização, por meio da utilização de seis processos- chave. Com base nesses processos de gestão de pessoas, analise as afirmativas a seguir. I. Agregar pessoas compreende as atividades associadas à provisão de pessoas para a organização. II. Aplicar pessoas se relaciona com os programas de avaliação de desempenho da mão de obra. III. Recompensar pessoas se relaciona com a criação de condições ambientais e psicológicas para a os funcionários. IV. Desenvolver pessoas abrange o acompanhamento e o controle das atividades realizadas pelo pessoal. V. Manter pessoas está relacionado com a oferta de benefícios para incentivar e satisfazer as necessidades dos colaboradores. VI. Monitorar pessoas envolve as atividades referentes à gestão do conhecimento organizacional.",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1003,7 +1003,7 @@
         "D": "II e IV, apenas.",
         "E": null
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "Uma sociedade empresária concluiu um extenso processo de seleção de pessoal e o gerente de recursos humanos está indeciso entre três candidatos (X, Y e Z) para uma vaga específica. O candidato X demonstra conhecimento teórico das responsabilidades associadas ao cargo. O candidato Y, por sua vez, exibe forte disposição em tomar as medidas necessárias para alcançar sucesso na função. Já o candidato Z traz uma rica experiência prática no campo de atuação do cargo. Considerando os conceitos da gestão por competências, é correto afirmar que, caso o gerente escolha o candidato",
       "alternatives": {
         "A": "X, ele demonstra preferência pela competência atitude.",
@@ -1020,7 +1020,7 @@
         "D": "Z, ele demonstra preferência pela competência habilidade.",
         "E": null
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "A respeito dos conceitos relacionados à análise e à descrição de cargos, analise os itens a seguir. I. Grau de instrução do funcionário. II. Condições do ambiente físico de trabalho. III. Riscos de acidentes inerentes à atividade. São exemplos de aspectos abrangidos especificamente pelo processo de análise de cargos, aqueles expressos nos itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1037,7 +1037,7 @@
         "D": "I, II e III.",
         "E": null
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "Analise o modelo de estrutura a seguir. Fonte: Chiavenato: Gestão de Pessoas (2013) Considerando as diferentes fases da gestão de pessoas, evidencia-se, na figura, um modelo típico da era",
       "alternatives": {
         "A": "da industrialização clássica.",
@@ -1054,7 +1054,7 @@
         "D": "da gestão de rede.",
         "E": null
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pbhauditor23_cargo-geral_q62.png",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "Ao verificar a necessidade de pessoal, a sociedade empresária deve, antes da contratação, conduzir um estudo para analisar qual o tipo de recrutamento que mais se adequa à sua estratégia. Com base nisso, analise as afirmativas a seguir. I. Apresenta-se como a solução ideal para cenários de estabilidade e pouca mudança ambiental. II. Apesar de ser considerado rápido, tende a ser mais custoso que outros tipos de recrutamento. III. Poder ter, como desvantagem, a redução da fidelidade dos funcionários da organização. A respeito das características do processo de recrutamento interno, está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "A tabela a seguir é utilizada, hipoteticamente, em determinado órgão público para a avaliação de desempenho de seus servidores. Fatores Péssimo Regular Ótimo Pontualidade Sempre Eventualmente Nunca atrasa atrasa atrasa Assiduidade Sempre Eventualmente Nunca falta falta falta Acerca desse método de avaliação de desempenho, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Evita a ocorrência do efeito de generalização (efeito halo) na avaliação.",
@@ -1088,7 +1088,7 @@
         "D": "Enfatiza aspectos excepcionais do desempenho, tanto positivos quanto negativos.",
         "E": null
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pbhauditor23_cargo-geral_q64.png",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "No momento em que Josué assumiu a liderança da sociedade empresária herdada de seu pai, ele logo percebeu a ausência de processos formais de gestão do conhecimento. Preocupado com a iminente aposentadoria de colaboradores experientes e a consequente perda de conhecimento vital para a sociedade empresária, Josué tomou a decisão de implementar um programa robusto de gestão de conhecimento, estruturado em torno do modelo de “espiral do conhecimento”, visando à preservação do capital intelectual da organização. Considerando o modelo da “espiral do conhecimento”, é correto afirmar que, caso Josué vise",
       "alternatives": {
         "A": "à aquisição de conhecimento tácito, por meio da reprodução do conhecimento explícito, ele deve realizar a combinação.",
@@ -1105,7 +1105,7 @@
         "D": "à criação de novos conhecimentos explícitos, por meio da articulação e formalização do conhecimento tácito, ele deve utilizar a internalização.",
         "E": null
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "O sucesso dos programas de treinamentos organizacionais está intrinsecamente ligado à avaliação conduzida após sua implementação. Esta avaliação é fundamental para que a organização determine se deve implementar alterações ou manter os aspectos atuais dos programas. Nesse contexto, há um importante modelo que fundamenta sua avaliação em 4 níveis de indicadores: organizacional, recursos humanos, de cargos e de treinamento. Diante do exposto, considerando o modelo apresentado, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O aumento da produtividade é um componente a ser avaliado no indicador de nível organizacional.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "A capacidade de conduzir negociações de forma estratégica e eficiente é fundamental para que a organização alcance seus objetivos de maneira sustentável e competitiva. Considerando as estratégias de negociação, analise as afirmativas a seguir. I. Existe uma quantidade fixa de recursos a serem divididos. II. Tem como orientação o estabelecimento de relacionamentos de curto prazo. III. Prioriza a convergência de objetivos entre as partes participantes da negociação. Sobre os aspectos presentes na estratégia de negociação distributiva, está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1139,7 +1139,7 @@
         "D": "I, II e III.",
         "E": null
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1147,64 +1147,13 @@
     },
     {
       "question_number": 68,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Qualidade",
       "statement": "Ao desenvolver um produto ou um serviço, uma sociedade empresária deve levar em consideração as diferentes dimensões da qualidade, a exemplo da(o)",
       "alternatives": {
         "A": "conformidade, que se refere à aparência estética do produto ou serviço oferecido.",
         "B": "confiabilidade, que reflete a probabilidade de um mau funcionamento ou de falhas ocorrerem.",
         "C": "desempenho, que reflete o grau que um projeto está em acordo com os padrões pré-estabelecidos no contrato.",
         "D": "atendimento, que expressa o tempo de vida útil esperada do produto ou serviço.",
-        "E": null
-      },
-      "answer": "B",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 14
-    },
-    {
-      "question_number": 69,
-      "discipline": "Direito Financeiro e Finanças Públicas",
-      "statement": "Ao longo do tempo, a definição de qualidade esteve em constante evolução, refletindo as mudanças nas necessidades e expectativas da sociedade. Dessa forma, diversos teóricos se dedicaram a estudar o assunto, cada um contribuindo com perspectivas distintas. Com base no exposto, analise as afirmativas a seguir. I. Joseph Juran ganhou reconhecimento por destacar a importância dos Custos da Qualidade. II. A Trilogia da Qualidade, um conceito composto por planejamento, controle e melhoria da qualidade, foi proposto por Armand Feigenbaum. III. Walter Shewart foi o primeiro teórico a utilizar métodos estatísticos no controle de qualidade, além de ter desenvolvido o Ciclo PDCA. IV. O programa do Zero Defeito, ou seja, fazer certo desde a primeira vez, foi proposto por Genichi Taguchi.",
-      "alternatives": {
-        "A": "I e II, apenas.",
-        "B": "I e III, apenas.",
-        "C": "II e III, apenas.",
-        "D": "II e IV, apenas.",
-        "E": null
-      },
-      "answer": "B",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 14
-    },
-    {
-      "question_number": 70,
-      "discipline": "Direito Financeiro e Finanças Públicas",
-      "statement": "A implementação da ferramenta Seis Sigma para o gerenciamento da qualidade dos produtos produzidos em uma fábrica visa a",
-      "alternatives": {
-        "A": "determinar os 20% dos problemas que são responsáveis por 80% dos defeitos na produção.",
-        "B": "definir, por procedimentos estatísticos, o lote econômico de compras ideal para que não haja desperdício de estoque.",
-        "C": "aumentar a variabilidade das características do produto, tendo em vista o foco na customização.",
-        "D": "limitar a quantidade de produtos defeituosos a 3,4 por milhão de unidades. Gestão de Projetos e Gestão de Processos",
-        "E": null
-      },
-      "answer": "A",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 14
-    },
-    {
-      "question_number": 71,
-      "discipline": "Direito Financeiro e Finanças Públicas",
-      "statement": "Acerca de situações que representam projetos, analise as afirmativas a seguir. I. O desenvolvimento de uma nova vacina contra a dengue, para o mercado. II. O atendimento diário dos contribuintes realizado por servidores públicos. III. A construção de um edifício para abrigar os servidores de um órgão público.",
-      "alternatives": {
-        "A": "I e II, apenas.",
-        "B": "I e III, apenas.",
-        "C": "II e III, apenas.",
-        "D": "I, II e III.",
         "E": null
       },
       "answer": "D",
@@ -1214,8 +1163,59 @@
       "page_number": 14
     },
     {
+      "question_number": 69,
+      "discipline": "Qualidade",
+      "statement": "Ao longo do tempo, a definição de qualidade esteve em constante evolução, refletindo as mudanças nas necessidades e expectativas da sociedade. Dessa forma, diversos teóricos se dedicaram a estudar o assunto, cada um contribuindo com perspectivas distintas. Com base no exposto, analise as afirmativas a seguir. I. Joseph Juran ganhou reconhecimento por destacar a importância dos Custos da Qualidade. II. A Trilogia da Qualidade, um conceito composto por planejamento, controle e melhoria da qualidade, foi proposto por Armand Feigenbaum. III. Walter Shewart foi o primeiro teórico a utilizar métodos estatísticos no controle de qualidade, além de ter desenvolvido o Ciclo PDCA. IV. O programa do Zero Defeito, ou seja, fazer certo desde a primeira vez, foi proposto por Genichi Taguchi.",
+      "alternatives": {
+        "A": "I e II, apenas.",
+        "B": "I e III, apenas.",
+        "C": "II e III, apenas.",
+        "D": "II e IV, apenas.",
+        "E": null
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 70,
+      "discipline": "Qualidade",
+      "statement": "A implementação da ferramenta Seis Sigma para o gerenciamento da qualidade dos produtos produzidos em uma fábrica visa a",
+      "alternatives": {
+        "A": "determinar os 20% dos problemas que são responsáveis por 80% dos defeitos na produção.",
+        "B": "definir, por procedimentos estatísticos, o lote econômico de compras ideal para que não haja desperdício de estoque.",
+        "C": "aumentar a variabilidade das características do produto, tendo em vista o foco na customização.",
+        "D": "limitar a quantidade de produtos defeituosos a 3,4 por milhão de unidades.",
+        "E": null
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 71,
+      "discipline": "Processos",
+      "statement": "Acerca de situações que representam projetos, analise as afirmativas a seguir. I. O desenvolvimento de uma nova vacina contra a dengue, para o mercado. II. O atendimento diário dos contribuintes realizado por servidores públicos. III. A construção de um edifício para abrigar os servidores de um órgão público.",
+      "alternatives": {
+        "A": "I e II, apenas.",
+        "B": "I e III, apenas.",
+        "C": "II e III, apenas.",
+        "D": "I, II e III.",
+        "E": null
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
       "question_number": 72,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Processos",
       "statement": "Analise o gráfico a seguir, retirado do Guia PMBOK, representando o ciclo de vida genérico de um projeto. A linha pontilhada do gráfico, que percorre todas as fases do ciclo de vida do projeto, representa",
       "alternatives": {
         "A": "os riscos do projeto.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Processos",
       "statement": "Os Escritórios de Gerenciamento de Projetos (EGPs), estruturas fundamentais nas organizações, foram instituídos com o objetivo de facilitar o gerenciamento eficaz de projetos. Conforme previsto no Guia PMBOK (6ª ed.), principal referencial da área, essas estruturas podem ser de diferentes tipos, variando conforme o papel designado pela organização, em função de suas necessidades. Com relação aos tipos possíveis de escritórios de projetos e respectivas atribuições, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os EGPs de Controle fornecem papel consultivo nos projetos, atuando como meros repositórios de informações acerca da metodologia gerenciamento.",
@@ -1241,7 +1241,7 @@
         "D": "Os EGPs de Matriz estabelecem uma autoridade dual nos projetos, em que os participantes do projeto respondem a uma gerência funcional e outra de conformidade.",
         "E": null
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1249,30 +1249,13 @@
     },
     {
       "question_number": 74,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Processos",
       "statement": "A respeito dos conceitos sobre as técnicas de tomada de decisão, analise as afirmativas a seguir. I. A abordagem que utiliza a técnica de Grupo Nominal favorece a igualdade de participação entre os integrantes. II. A técnica Delphi prioriza a participação de pessoas com pouco conhecimento sobre o assunto debatido, com o intuito de promover ideias inovadoras. III. O método da Árvore de Decisão se baseia no conceito de dúvida sistemática, criando um ambiente propício para decisões não estruturadas.",
       "alternatives": {
         "A": "I, apenas.",
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": null
-      },
-      "answer": "B",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 15
-    },
-    {
-      "question_number": 75,
-      "discipline": "Direito Financeiro e Finanças Públicas",
-      "statement": "No gerenciamento de projetos, de acordo com o PMBOK, as áreas de conhecimento são definidas como conjuntos específicos de atividades que possuem determinados conhecimentos comuns como requisitos. Paralelamente, os grupos de processos são classificados em categorias lógicas de atividades que percorrem as diferentes fases do ciclo de vida de um projeto, incluindo processos de iniciação, planejamento, execução, monitoramento e controle, além de encerramento. Com base nesse entendimento, assinale a opção que indica a área de conhecimento que se destaca pela sua abrangência, envolvendo atividades presentes em todos os grupos de processos.",
-      "alternatives": {
-        "A": "Integração.",
-        "B": "Escopo.",
-        "C": "Cronograma.",
-        "D": "Partes interessadas.",
         "E": null
       },
       "answer": "C",
@@ -1282,8 +1265,25 @@
       "page_number": 15
     },
     {
+      "question_number": 75,
+      "discipline": "Processos",
+      "statement": "No gerenciamento de projetos, de acordo com o PMBOK, as áreas de conhecimento são definidas como conjuntos específicos de atividades que possuem determinados conhecimentos comuns como requisitos. Paralelamente, os grupos de processos são classificados em categorias lógicas de atividades que percorrem as diferentes fases do ciclo de vida de um projeto, incluindo processos de iniciação, planejamento, execução, monitoramento e controle, além de encerramento. Com base nesse entendimento, assinale a opção que indica a área de conhecimento que se destaca pela sua abrangência, envolvendo atividades presentes em todos os grupos de processos.",
+      "alternatives": {
+        "A": "Integração.",
+        "B": "Escopo.",
+        "C": "Cronograma.",
+        "D": "Partes interessadas.",
+        "E": null
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
       "question_number": 76,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Processos",
       "statement": "O conceito de tailoring, abordado em profundidade na versão PMBOK (7ª ed.), entende que é necessário",
       "alternatives": {
         "A": "personalizar as práticas e ferramentas de gerenciamento de projetos visando a atender às necessidades específicas de cada projeto individual.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Processos",
       "statement": "O Business Process Model and Notation (BPMN) é um padrão de notação elaborado para facilitar a modelagem de processos, por meio da utilização de símbolos e regras de significado compartilhado. No que se refere aos grupos de símbolos utilizados no BPMN, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os conectores podem ser de diferentes tipos, como, por exemplo, exclusivos, inclusivos e paralelos.",
@@ -1309,7 +1309,7 @@
         "D": "Os eventos são pontos que exigem algum tipo de decisão, sendo representados por losangos.",
         "E": null
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1317,13 +1317,30 @@
     },
     {
       "question_number": 78,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Processos",
       "statement": "O Guia BPM CBPOK (3.0) estabelece um conjunto de níveis para identificar a maturidade de determinada organização em relação à sua capacidade de gerenciamento de processos. Sobre os níveis de maturidade, assinale a opção que compreende o nível 2 (gerenciado).",
       "alternatives": {
         "A": "Os objetivos organizacionais estão conectados ao foco no cliente, permitindo que os defeitos sejam prevenidos a qualquer tempo e a inovação seja permanente.",
         "B": "Alguns indicadores e métricas de tempo, custo e qualidade, são definidos de forma que seja possível repetir o procedimento e satisfazer os compromissos primários.",
         "C": "As ações de melhorias proativas permitem que a organização feche as lacunas entre a capacidade atual e a requerida para alcançar os objetivos.",
         "D": "A execução dos processos por meio de práticas ad hoc, garantindo o entendimento e o controle das variações de resultados encontrados nos processos.",
+        "E": null
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 79,
+      "discipline": "Processos",
+      "statement": "Graças ao avanço tecnológico, a capacidade de armazenamento e produção de dados digitais cresceu de forma exponencial, alcançado níveis que superam significativamente as expectativas da sociedade de alguns anos atrás. Esses conjuntos de dados, que por sua grandeza e complexidade demandam nova técnicas e tecnologias para o seu processamento, são conhecidos como Big Data. Sobre as características do Big Data, analise os itens a seguir. I. Veracidade. II. Valor. III. Validade.",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e III, apenas.",
+        "D": "I, II e III.",
         "E": null
       },
       "answer": "A",
@@ -1333,25 +1350,8 @@
       "page_number": 15
     },
     {
-      "question_number": 79,
-      "discipline": "Direito Financeiro e Finanças Públicas",
-      "statement": "Graças ao avanço tecnológico, a capacidade de armazenamento e produção de dados digitais cresceu de forma exponencial, alcançado níveis que superam significativamente as expectativas da sociedade de alguns anos atrás. Esses conjuntos de dados, que por sua grandeza e complexidade demandam nova técnicas e tecnologias para o seu processamento, são conhecidos como Big Data. Sobre as características do Big Data, analise os itens a seguir. I. Veracidade. II. Valor. III. Validade.",
-      "alternatives": {
-        "A": "I, apenas.",
-        "B": "I e II, apenas.",
-        "C": "II e III, apenas.",
-        "D": "I, II e III.",
-        "E": null
-      },
-      "answer": "B",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 15
-    },
-    {
       "question_number": 80,
-      "discipline": "Direito Financeiro e Finanças Públicas",
+      "discipline": "Processos",
       "statement": "Marcelo, atuando como gestor de processos de uma organização, adotou uma abordagem metódica diante dos problemas encontrados. Primeiro, ele realiza uma análise preliminar para avaliar o potencial impacto do problema na organização. Em seguida, ele considera o prazo disponível para sua possível resolução. Por fim, Marcelo analisa o padrão de evolução do problema, visando a entender sua trajetória. Só então, após essas avaliações, Marcelo decide o que fazer. Assinale a opção que indica a ferramenta de gestão de qualidade que possui correlação com a análise realizada por Marcelo.",
       "alternatives": {
         "A": "Histograma.",
@@ -1360,7 +1360,7 @@
         "D": "Matriz GUT. Realização",
         "E": null
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
