@@ -253,7 +253,7 @@
         "B": "Vimos-te no supermercado, mas não nos falamos.",
         "C": "Não sabia que queria-te tanto.",
         "D": "Eu sempre quis proteger-te dos perigos.",
-        "E": "Nunca mais quis casar-me. Raciocínio Lógico Matemático"
+        "E": "Nunca mais quis casar-me."
       },
       "answer": "C",
       "annulled": false,
@@ -423,7 +423,7 @@
         "B": "uma quarta-feira.",
         "C": "uma quinta-feira.",
         "D": "uma sexta-feira.",
-        "E": "um domingo. Noções de Informática"
+        "E": "um domingo."
       },
       "answer": "E",
       "annulled": false,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No Windows 10, o utilitário que permite visualizar e gerenciar processos em execução, desempenho do sistema e inicialização de aplicativos é o",
       "alternatives": {
         "A": "Painel de Controle.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Com relação ao Google Sheets, avalie as afirmativas a seguir. I. A função `=PROCV()` busca valores verticalmente. II. O recurso \"Explore\" gera gráficos automáticos com IA. III. Formatar como tabela aplica estilos predefinidos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A respeito do Google Workspace, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) No Google Drive, para acessar arquivos offline em dispositivos móveis, o usuário deve ativar a sincronização manual no app móvel e marcar os arquivos como \"Disponível offline\". ( ) O Google Meet permite a criação de salas separadas (breakout rooms) para dividir participantes em grupos menores durante reuniões, sem necessidade de extensões externas. ( ) O Google Keep é um serviço de notas e listas do Google, disponível para web e aplicativos para Android e iOS. Ele permite criar e organizar notas, listas, lembretes e desenhos, com a possibilidade de adicionar texto, imagens, gravações de áudio e checklists. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – F.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Leia o fragmento a seguir. Em 2023, uma grande empresa de logística, após sofrer um ataque de ransomware, ficou com seus sistemas inoperantes. À época, a empresa não possuía um ______ atualizado, o que impediu a recuperação rápida dos dados. Assinale a opção que indica o procedimento de segurança essencial que evitaria essa demora na recuperação dos dados e completa corretamente a lacuna do fragmento acima.",
       "alternatives": {
         "A": "antivírus premium",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Avalie as sentenças a seguir. I. O malware Qbot, também conhecido como “Qakbot” ou “Pinkslipbot”, é um _____ bancário ativo desde 2007, focado em roubar dados de usuários e credenciais bancárias. II. Em 2017, um estudante da Universidade de Iowa foi preso após instalar _____ nos computadores do pessoal para roubar as credenciais de login para alterar notas. III. O CoolWebSearch é um _____ que aproveitou as vulnerabilidades de segurança do Internet Explorer para sequestrar o navegador, alterar as configurações e enviar dados de navegação ao seu autor. As lacunas das sentenças I, II e III são corretamente preenchidas, respectivamente, por",
       "alternatives": {
         "A": "ransomware – trojan – adware",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No Instituto de Pesquisa XPTO, pesquisadores precisam transferir grandes arquivos de imagens para um servidor interno. Nesse caso, o protocolo adequado para upload seguro é",
       "alternatives": {
         "A": "HTTP.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Avalie o fragmento a seguir. A empresa de Tecnologia XPTO sofreu vazamento de dados após um funcionário clicar em um link malicioso em um e-mail de phishing. Para evitar novos incidentes, o departamento de TI elaborou uma cartilha de procedimentos de segurança entre os quais não se inclui",
       "alternatives": {
         "A": "observar atentamente o endereço do remetente, o nome da empresa e o conteúdo da mensagem, antes de interagir com qualquer e-mail ou mensagem.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A Clínica Médica Beta migrou backups para nuvem, mas sofreu violação de dados de pacientes. A esse respeito, avalie as afirmativas a seguir. I. Backups devem seguir a regra 3-2-1 (3 cópias, 2 mídias, 1 off- site). II. Dados de saúde exigem criptografia em repouso e trânsito. III. A nuvem elimina a necessidade de testes de restauração. Está correto o que se afirma em",
       "alternatives": {
         "A": "III, apenas.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No Mozilla Firefox, a ferramenta \"Inspetor\" (acessível com Ctrl+Shift+C) é utilizada para",
       "alternatives": {
         "A": "gerenciar senhas salvas.",
@@ -586,14 +586,14 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No Microsoft Internet Explorer, o ícone de “Atualizar” (↻) tem a principal função de",
       "alternatives": {
         "A": "fechar todas as abas abertas.",
         "B": "recarregar o conteúdo da página atual.",
         "C": "acessar o histórico de downloads.",
         "D": "ativar o modo de leitura.",
-        "E": "redirecionar para a página inicial. Atualidades"
+        "E": "redirecionar para a página inicial."
       },
       "answer": "B",
       "annulled": false,
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A soberania tecnológica e digital pode ser definida, entre outros aspectos, como a capacidade de um Estado ou de uma federação de Estados de prover as tecnologias que considera críticas para seu bem-estar, competitividade e capacidade de ação, bem como de desenvolver essas tecnologias ou adquiri-las de outras áreas econômicas sem uma dependência estrutural unilateral. Adaptado de EDLER, Jakob et al. Technology sovereignty: from demand to concept. Karlsruhe: Fraunhofer-ISI, 2020, p.8. Com base no trecho, avalie as afirmativas a seguir sobre o conceito de “soberania tecnológica e digital” e assinale (V) para a verdadeira e (F) para a falsa. ( ) Consiste na autonomia de um Estado quanto ao suprimento de tecnologias consideradas estratégicas para o seu funcionamento e segurança, sem depender exclusivamente de fontes externas. ( ) Envolve a capacidade de desenvolver soluções tecnológicas próprias, por meio de pesquisas científicas e investimentos em educação e infraestrutura tecnológica nacional ou regional. ( ) Está relacionada à autoridade para estabelecer normas internas para o fluxo de dados ou o acesso aos mais diversos conteúdos disponíveis na internet. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No início da década de 1990, a Organização das Nações Unidas (ONU) lançou o Índice de Desenvolvimento Humano (IDH) para verificar o nível de desenvolvimento de um país utilizando-se de indicadores de desempenho. O novo indicador pautou-se em uma ideia de “desenvolvimento humano” entendida como processo de ampliação das liberdades das pessoas com relação às suas capacidades e oportunidades. Adaptado de Dalberto, Cassiano & Ervilha, Gabriel & Bohn, Liana & Gomes, Adriano. (2015). “Índice de desenvolvimento humano eficiente: uma mensuração alternativa do bem-estar das nações”. Pesquisa e planejamento econômico. 45. É correto afirma que o IDH",
       "alternatives": {
         "A": "coloca as pessoas no centro da análise do bem-estar, somando à renda per capita as variáveis do crescimento econômico com impacto social, como a taxa de inflação e os indicadores de confiança do consumidor.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Em julho de 2025, o Exército de Israel anunciou que bombardeou a infraestrutura dos rebeldes Houthis no Iêmen, incluindo o porto de Hodeida e outras áreas controladas pelo movimento, que é apoiado pelo Irã. https://www.estadao.com.br/internacional Com base na notícia, é correto afirmar que os Houthis são uma milícia e um movimento político",
       "alternatives": {
         "A": "xiita zaidita, com controle das áreas mais populosas e estratégicas do território iemenita e que, desde o início do conflito entre Hamas e Israel, tem intensificado ataques a embarcações mercantes que navegam no Mar Vermelho.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A Lava Jato, iniciada em 2014, foi a maior operação investigativa contra a corrupção na história do Brasil. Os principais instrumentos que a Lava Jato empregou recorrentemente para obter provas foram",
       "alternatives": {
         "A": "a prisão temporária e a busca e captura.",
@@ -671,14 +671,14 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Recentemente o Museu de Arte de São Paulo (MASP) foi questionado por ter posto à venda uma parte do seu acervo expográfico: alguns dos cavaletes de vidro idealizados pela arquiteta Lina Bo Bardi, responsável também pelo projeto do prédio do MASP na Avenida Paulista. Os cavaletes em questão são formados por placas de vidro encaixadas em blocos de concreto e foram introduzidos em 1968, na inauguração do edifício que até hoje abriga o museu. As afirmativas a seguir descrevem corretamente o caráter inovador do design dos cavaletes de vidro, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "O objetivo curatorial embutido no projeto dos cavaletes de vidro buscava democratizar a arte ao eliminar a sequência expositiva obrigatória e convidar o visitante a criar o próprio percurso.",
         "B": "O objetivo dos cavaletes era aproximar o público das obras, retirando-as da parede, de modo que os visitantes caminhassem entre as peças ou ao seu redor sem uma trajetória definida.",
         "C": "A escolha do vidro como suporte principal, permitindo uma visibilidade total da obra e do espaço ao redor, materializava o propósito de as obras de arte dialogarem com o ambiente do museu e com o público sem barreiras físicas.",
         "D": "A solução espacial para a qual os cavaletes foram idealizados, enquanto peças independentes e móveis, permitia diferentes arranjos expositivos, obedecendo aos critérios de modularidade e flexibilidade.",
-        "E": "O descolamento entre arquitetura e museografia permitiu abandonar o modelo expositivo tradicional adotando as paredes brancas (white cube) e uma disposição cronológica que tornava neutras as obras de arte. Conhecimentos Específicos Biblioteconomia"
+        "E": "O descolamento entre arquitetura e museografia permitiu abandonar o modelo expositivo tradicional adotando as paredes brancas (white cube) e uma disposição cronológica que tornava neutras as obras de arte."
       },
       "answer": "E",
       "annulled": false,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Ao documento que oferece a sistematização de fichas ou verbetes, em que se fixam e descrevem os livros de uma biblioteca, por ordem alfabética de nomes, de títulos de obras e ainda segundo a classificação e colocação que tiverem, denomina-se",
       "alternatives": {
         "A": "catálogo da biblioteca.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O Código de Ética e Deontologia do Bibliotecário brasileiro fixa as normas de conduta e estabelece as penas, no caso de infrações ético-disciplinares. Entre estas, a pena que é aplicada de forma escrita, por ofício do Presidente do CRB, cumulada com multa de uma anuidade de pessoa física, vigente à época, é a",
       "alternatives": {
         "A": "multa.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Segundo o Manifesto da Biblioteca Pública (IFLA-UNESCO, 2022), para contribuir com os Objetivos de Desenvolvimento Sustentável (ODS), as bibliotecas públicas devem cumprir determinadas missões-chave. Avalie as missões-chave indicadas a seguir. I. Fornecer acesso a uma ampla gama de informações e ideias sem censura, apoiando a educação formal e informal. II. Promover, apoiar e participar de programas de alfabetização para desenvolver habilidades de leitura e escrita. III. Criar, estimular e fortalecer hábitos de leitura nas crianças, desde o início da alfabetização até a idade adulta. IV. Fornecer serviços às suas comunidades que permitem acesso a informações e coleções sempre que possível. Estão de acordo com o Manifesto, as missões-chave indicadas em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Ao dispor sobre os parâmetros a serem adotados em bibliotecas públicas no Brasil, o Conselho Federal de Biblioteconomia enumerou os materiais que devem compor os acervos, e estabeleceu que o acervo inicial de livros impressos deve ser de",
       "alternatives": {
         "A": "500 títulos.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "De acordo com o Manifesto da Biblioteca Escolar (IFLA-UNESCO, 2025), sempre que a biblioteca escolar partilhar instalações e/ou recursos com outro tipo de biblioteca, designadamente com a biblioteca pública, os objetivos específicos da biblioteca escolar",
       "alternatives": {
         "A": "devem ser reconhecidos e salvaguardados.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A Lei Brasileira de Inclusão da Pessoa com Deficiência estabelece que “espaços públicos e privados abertos ao público ou de uso coletivo” devem garantir a acessibilidade arquitetônica. Desse modo, o planejamento do espaço físico de uma biblioteca deve prever a mobilidade, livre de barreiras arquitetônicas, e",
       "alternatives": {
         "A": "o acesso à informação em formato acessível.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Ao dispor sobre os parâmetros a serem adotados para a estruturação e o funcionamento das bibliotecas escolares no Brasil, o Conselho Federal de Biblioteconomia estabeleceu que essas bibliotecas devem assegurar sua instalação, incluindo mobiliário e equipamentos adequados, em área mínima de",
       "alternatives": {
         "A": "50 m2.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O processo de formação e o desenvolvimento de coleções requer a consideração de fatores e critérios tais como áreas de domínio, necessidades dos usuários e atualização dos itens que compõem as coleções. Nesse contexto, a etapa que tem como objetivo manter o desenvolvimento das coleções, de forma harmoniosa, considerando esses fatores e critérios, é",
       "alternatives": {
         "A": "a seleção.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Sobre os elementos e fenômenos que permitem verificar, na etapa de avaliação de coleções, o quanto as coleções desenvolvidas estão adequadas às necessidades dos usuários, avalie as indicações a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A proporção de uso de recursos digitais. ( ) Os idiomas que interessam e os que não interessam. ( ) Os tipos de formatos e suportes preferidos. As indicações são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Considerando o registro de obra intelectual no Escritório de Direitos Autorais da Biblioteca Nacional, avalie as afirmativas a seguir. I. O registro da obra é um requisito de proteção dos direitos de autor. II. O registro serve como um meio de prova de autoria, conferindo segurança adicional. III. O registro prevalecerá sobre testemunhos e outras provas, em disputas judiciais pela autoria. IV. O registro estabelece uma presunção de anterioridade em relação a outros registros com características similares. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I, II e III, apenas.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Em bibliotecas, pode existir obra cuja titularidade é desconhecida ou, quando conhecida, não se sabe o paradeiro dos titulares para verificar, por exemplo, se ainda é protegida e se é possível sua digitalização e disponibilização on-line, com segurança. Essa obra é designada, na literatura de direitos de autor, especialmente focada em produtos e serviços oferecidos por bibliotecas, como",
       "alternatives": {
         "A": "obra órfã.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Em um programa de preservação de acervos bibliográficos e documentais, a etapa do planejamento de conservação preventiva, que objetiva a proteção dos documentos contra danos físicos e condições ambientais adversas, é identificada como",
       "alternatives": {
         "A": "monitoramento.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Considerando a tipologia consagrada para fontes bibliográficas de Referência, uma enciclopédia é classificada como geral ou universal, sob o aspecto",
       "alternatives": {
         "A": "extensão e localização.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O critério geral na avaliação de qualquer obra de referência pode ser alicerçado em dois aspectos: qualidades extrínsecas e qualidades intrínsecas. Considerando os diversos tipos em que se enquadram as obras de referência, relacione tais aspectos com as qualidades que lhes são pertinentes. 1. qualidade extrínseca. 2. qualidade intrínseca. ( ) estilo. ( ) autoridade. ( ) ilustrações. ( ) arranjo do texto. A relação correta, na ordem dada, é:",
       "alternatives": {
         "A": "1 – 1 – 2 – 2.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Para seus efeitos, a NBR 6023 da ABNT (2025) estabelece termos e definições. Acerca do tema, relacione os termos a seguir, aplicados na norma, com suas respectivas definições. 1. coleção 2. monografia 3. separata 4. suplemento ( ) Documento que se adiciona a outro para ampliá-lo ou aperfeiçoá-lo, sendo sua relação com aquele apenas editorial e não física. ( ) Item não seriado, completo, constituído de uma só parte, ou que se pretende completar em um número preestabelecido de partes separadas. ( ) Conjunto de itens, sobre um tema específico ou não, com autores e títulos próprios, reunidos sob um título comum. ( ) Publicação de parte de um trabalho, que mantém as características tipográficas da obra original, com as respectivas informações que a vinculam ao todo. A relação correta, na ordem dada, é",
       "alternatives": {
         "A": "1 – 2 – 4 – 3.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Considere as referências de obras do poeta joseense Cassiano Ricardo, arroladas a seguir. Assinale a referência que está de acordo com a NBR 6023 da ABNT (2025) e que apresenta apenas elementos essenciais.",
       "alternatives": {
         "A": "RICARDO, Cassiano. Antologia poética. 2. ed. São Paulo: Ed. do autor; 1964. 230 p.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A indexação é o procedimento que viabiliza a seleção dos termos mais adequados para representar",
       "alternatives": {
         "A": "a forma padronizada dos descritores.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Uma distinção entre o resumo indicativo e o informativo é que enquanto esse procura sintetizar a substância de um documento, o resumo indicativo apenas o descreve; isto é, o resumo indicativo não contém informações sobre",
       "alternatives": {
         "A": "alcance.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Considerando a notação da Classificação Decimal Universal (CDU), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A notação da CDU é composta por números decimais, sinais gráficos e letras ou palavras. ( ) Todo número entre aspas identifica a língua em que o documento está redigido. ( ) O sinal de adição é usado para ligar dois ou mais assuntos consecutivos nas tabelas. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – F.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "As tabelas auxiliares da CDU oferecem notação para",
       "alternatives": {
         "A": "conceitos mais restritos e ambíguos.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Na catalogação, e de acordo com o AACR2R, quando a fonte principal de informação apresentar um título coletivo e os títulos de obras individuais, o bibliotecário deve registrar os títulos das obras individuais, na ordem indicada, como",
       "alternatives": {
         "A": "título alternativo.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Diante de uma obra de autoria desconhecida, o bibliotecário desenvolveu pesquisa e descobriu, em fontes de referência relevantes, a indicação de uma pessoa como autor provável. Na escolha de pontos de acesso para a obra, de acordo com o AACR2R, o bibliotecário deverá fazer a entrada pelo",
       "alternatives": {
         "A": "título e entrada secundária sob o cabeçalho estabelecido para o autor provável.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Para catalogação de uma gravação de som sem título coletivo, conforme as regras do AACR2R, analise as indicações a seguir sobre o procedimento do bibliotecário, e assinale (V) para a verdadeira e (F) para a falsa. ( ) Atribuirá um título coletivo ao item, que será descrito como uma unidade, enumerando cada obra, pelo título individual, em nota de conteúdo. ( ) Descreverá o item como uma unidade, transcrevendo os títulos das obras intituladas individualmente na ordem em que aparecem na fonte principal de informação, ou no item. ( ) Poderá optar por uma descrição separada para cada obra com título individual, estabelecendo a ligação das descrições individuais por meio de notas. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Segundo o AACR2R, uma obra organizada em 4 volumes bibliográficos e apresentada em 3 volumes físicos deve ser indicada, na área de descrição física, como",
       "alternatives": {
         "A": "3 v.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O CBU foi desenvolvido com o objetivo de reunir e tornar disponíveis os registros da produção bibliográfica de todos os países, por intermédio de uma rede internacional de informação. Para o alcance desse objetivo, o CBU foi desenvolvido e é coordenado, junto a representantes oficiais de cada país, pela",
       "alternatives": {
         "A": "FID e pela UNISIST.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O modelo conceitual, inspirado na modelagem entidade- relacionamento, que possibilita ao catalogador uma nova forma de tratar todos os materiais informacionais abrigados em bibliotecas e de modelar catálogos, no contexto do ambiente de pesquisa do usuário, é reconhecido pela sigla",
       "alternatives": {
         "A": "AACR2.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Considerando conceitos fundamentais em sistemas de classificação, a diferença entre assuntos compostos e assuntos complexos reside no fato de que enquanto os assuntos compostos encerram duas ou mais facetas de uma mesma classe básica, os assuntos complexos",
       "alternatives": {
         "A": "incluem conceitos de duas ou mais facetas de classes básicas diversas.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No âmbito de domínio dos conceitos de ordem de citação, ordem de intercalação e ordem das tabelas, fundamentais no processo de classificação, avalie as afirmativas a seguir. I. A ordem de citação é também denominada fórmula de faceta, ordem de combinação, ordem preferida e ordem significativa. II. A ordem de intercalação é, de modo geral, a inversão da ordem de citação e é também denominada ordem de arquivamento. III. A ordem das tabelas é a ordem de apresentação das tabelas de um sistema de classificação e é também denominada ordem de dependência. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Palavras que não possuem valor semântico (stop words) devem ser retiradas dos índices gerados em sistemas de recuperação da informação (SRI). Os SRI podem dispor de listas preexistentes dessas palavras (stop lists) ou essas listas podem ser construídas a partir da",
       "alternatives": {
         "A": "adequação da linguagem documentária ao perfil de usuários do sistema.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Nos parâmetros para a estruturação e o funcionamento das bibliotecas digitais no Brasil, definidos pelo Conselho Federal de Biblioteconomia no uso de suas atribuições, foi estabelecido que essas bibliotecas devem",
       "alternatives": {
         "A": "desenvolver coleções, em consonância com padrões e normas internacionais para bibliotecas digitais.",

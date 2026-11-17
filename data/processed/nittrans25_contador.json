@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Niterói Trânsito (NITTRANS)",
   "cargo_title": "Contador",
   "exam_type": "Tipo 1",
-  "total_questions": 78,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
@@ -304,7 +304,7 @@
         "B": "3 – 1 – 2 – 4.",
         "C": "3 – 4 – 1 – 2.",
         "D": "1 – 3 – 4 – 2.",
-        "E": "2 – 3 – 4 – 1. Informática"
+        "E": "2 – 3 – 4 – 1."
       },
       "answer": "D",
       "annulled": false,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Francisco, agente da Nittrans, precisa enviar um manual de procedimentos por e-mail. Ele optou por salvar o documento original do MS Word 365 (BR) em PDF para garantir que todos os colegas consigam visualizá-lo da mesma forma, sem preocupações com edição. A esse respeito, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O formato PDF é ideal pois preserva a formatação do texto independentemente do sistema operacional ou software utilizado para abri-lo. ( ) Um arquivo PDF não pode ser protegido por senha, o que é um risco para a confidencialidade do manual. ( ) Ao salvar em PDF a partir do Word, Francisco perde a capacidade de editar o documento posteriormente, a menos que utilize software específico ou abra o arquivo original .DOCX. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Luciana, da administração da Nittrans, precisa criar uma planilha para controlar o consumo de combustível da frota de veículos. Acerca dos arquivos de planilha eletrônica, avalie as afirmativas a seguir. I. O formato .CSV (Valores Separados por Vírgula) preserva fórmulas, formatação de células e gráficos. complexos, assim como o .XLSX. II. O formato .XLSX, padrão do Microsoft Excel, é baseado em texto puro (ASCII), o que facilita sua abertura em qualquer editor de texto, mas dificulta a execução de cálculos. III. O formato .ODS (OpenDocument Spreadsheet) é um padrão internacional aberto para planilhas, podendo ser aberto por suítes alternativas como LibreOffice e Google Sheets, além do próprio Microsoft Excel. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Bia, que trabalha no setor administrativo da Nittrans, migrou recentemente de um computador com Windows 7 para outro com Windows 8.1 e está com dificuldades para localizar funções que eram acessíveis pelo “Menu Iniciar”. Sobre as diferenças na interface do Windows 8/8.1 em comparação ao Windows 7, avalie as afirmativas a seguir. I. A tela inicial (Start Screen) substitui o Menu Iniciar tradicional e é composta por blocos dinâmicos (tiles) que podem exibir informações em tempo real. II. Para acessar o menu de desligar o sistema, o usuário deve abrir a “Barra de Charms” (movendo o mouse para um dos cantos da tela) e clicar em “Configurações”. III. O “Desktop” (Área de Trabalho) foi removido do Windows 8, sendo possível executar aplicativos apenas na interface moderna de tela inicial. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -365,14 +365,14 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Um agente da Nittrans precisa baixar um grande arquivo de vídeo de uma câmera de trânsito para análise. Ele nota que a velocidade de download está muito abaixo do esperado. Acerca de transferência de arquivos e conceitos de rede, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A velocidade de download é medida em megabytes por segundo (MB/s), enquanto a velocidade contratada da internet é anunciada em megabits por segundo (Mb/s); 1 MB/s equivale a 8 Mb/s.",
         "B": "O termo “banda larga” refere-se à capacidade de transmissão de dados de um link de comunicação, ou seja, quanto maior a banda, maior a velocidade potencial de upload e download.",
         "C": "Fazer upload de um arquivo significa excluí-lo de um servidor na internet, liberando espaço.",
         "D": "A velocidade de transferência depende exclusivamente da capacidade do computador do usuário, sendo independente da congestão da rede ou da distância do servidor.",
-        "E": "Browsers como Chrome e Firefox não possuem gerenciadores de download próprios, exigindo sempre um software de terceiros para pausar ou retomar transferências. Raciocínio Lógico e Matemático"
+        "E": "Browsers como Chrome e Firefox não possuem gerenciadores de download próprios, exigindo sempre um software de terceiros para pausar ou retomar transferências."
       },
       "answer": "B",
       "annulled": false,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma empresa de transportes possui vans de cinco modelos diferentes e todas usam mesmo tipo de combustível. No período de uma semana, foram anotados os números de quilômetros percorridos por cada uma das vans e a quantidade de combustível, em litros, que cada uma consumiu. Os dados estão na tabela abaixo. Quilômetros Litros Van A 180 20 Van B 250 30 Van C 310 32 Van D 360 34 Van E 400 40 Em consumo de combustível, km/litro, a van mais econômica é a",
       "alternatives": {
         "A": "Van A.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A figura abaixo mostra um retângulo ABCD e um paralelogramo MNPQ inscrito. São dadas as medidas: AM = 8, MB = 4, BN = 3 e NC = 6 em alguma unidade. Os pontos móveis X e Y são tais que: • X percorre o contorno do retângulo no sentido anti-horário partindo do ponto A; • Y percorre o contorno do paralelogramo no sentido anti- horário partindo do ponto M; • a velocidade de Y é o dobro da velocidade de X; • os dois móveis partem simultaneamente. No instante em que o móvel X termina sua oitava volta, o móvel Y está",
       "alternatives": {
         "A": "no ponto P.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma empresa de transportes interestaduais possui 160 funcionários: uns são motoristas e os demais trabalham na administração da empresa. Os funcionários com mais de 5 anos de casa são chamados de “antigos”, e os demais são os funcionários “novos”. Sabe-se que: • há 48 motoristas a mais do que funcionários administrativos. • os funcionários antigos são 62. • são 30 os funcionários novos que trabalham na administração. Nessa empresa, o número de motoristas novos supera o número de motoristas antigos em",
       "alternatives": {
         "A": "32.",
@@ -433,14 +433,14 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Dois dados comuns (com faces contendo os números de 1 a 6) são lançados simultaneamente. Seja P a probabilidade de que as faces superiores não mostrem números consecutivos. Entre as opções a seguir, a que mais se aproxima de P é:",
       "alternatives": {
         "A": "0,67.",
         "B": "0,72.",
         "C": "0,77.",
         "D": "0,81.",
-        "E": "0,86. Legislação"
+        "E": "0,86."
       },
       "answer": "B",
       "annulled": false,
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "De acordo com a Lei Orgânica de Niterói, compete privativamente ao Município",
       "alternatives": {
         "A": "proporcionar os meios de acesso à cultura, à educação e à ciência.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Lei nº 13.303, de 2016, conhecida como Lei das Estatais, dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios. Com base nessa lei, em relação ao regime societário da empresa pública e da sociedade de economia mista, avalie se as afirmativas a seguir estão corretas. I. A sociedade de economia mista será constituída sob a forma de sociedade anônima. II. O estatuto da empresa pública, da sociedade de economia mista e de suas subsidiárias deverá observar regras de governança corporativa, de transparência e de estruturas, práticas de gestão de riscos e de controle interno, composição da administração e, havendo acionistas, mecanismos para sua proteção. III. Aplicam-se a todas as empresas públicas, as sociedades de economia mista de capital fechado e as suas subsidiárias as disposições da Lei nº 6.404, de 15 de dezembro de 1976, e as normas da Comissão de Valores Mobiliários sobre escrituração e elaboração de demonstrações financeiras, inclusive a obrigatoriedade de auditoria independente por auditor registrado nesse órgão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Com base no Código de Trânsito Brasileiro, avalie se competem aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição: I. Cumprir e fazer cumprir a legislação e as normas de trânsito, no âmbito de suas atribuições. II. Planejar, projetar, regulamentar e operar o trânsito de veículos, de pedestres e de animais e promover o desenvolvimento, temporário ou definitivo, da circulação, da segurança e das áreas de proteção de ciclistas. III. Implantar, manter e operar o sistema de sinalização, os dispositivos e os equipamentos de controle viário. IV. Coletar dados estatísticos e elaborar estudos sobre os sinistros de trânsito e suas causas. Estão corretos os itens",
       "alternatives": {
         "A": "I, II, III e IV.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Lei Municipal nº 2283, de 28/12/2005, autoriza o Poder Executivo a constituir e organizar a sociedade de economia mista, sob a forma de sociedade anônima, denominada Niterói Transporte e Trânsito S/A - NITTRANS. Com base nessa lei, as afirmativas a seguir estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "A NITTRANS, com personalidade jurídica de direito privado, terá sede e foro na Cidade de Niterói, prazo de duração indeterminado e jurisdição em todo o Município de Niterói.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Com base na Lei Municipal nº 2283, de 28/12/2005, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F): ( ) Nenhum servidor da NITTRANS poderá ser posto à disposição de quaisquer outros órgãos ou entidades com ônus para a companhia. ( ) No exercício de suas atividades a NITTRANS poderá estabelecer normas de acordo com a legislação relativa a transporte coletivo e individual de passageiros, tráfego, trânsito e Sistema Viário Municipal. ( ) A NITTRANS gozará de isenção Tributária Municipal. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "De acordo com o Código de Trânsito Brasileiro, o coordenador do Sistema Nacional de Trânsito e órgão máximo normativo e consultivo é o(a)",
       "alternatives": {
         "A": "Conselho Nacional de Trânsito – CONTRAN.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Avalie, com base na Lei Urbanística de Niterói (Lei nº 3.905, de 20 de maio de 2024), se as seguintes afirmativas a respeito das estratégias de ordenamento territorial estão corretas: I. Como Estratégia de Ordenamento Territorial, o território do Município de Niterói fica dividido em zonas de uso caracterizadas pelo conjunto de regras de parcelamento, ocupação e uso do solo aplicáveis às respectivas porções do território. II. A Estratégia de Integração entre Transporte e Uso do solo consiste em promover a mobilidade urbana sustentável a partir da forma urbana compacta, com densidades equilibradas ao longo dos eixos de estruturação e diferentes centralidades com diversificação de usos, de modo a promover o encurtamento das distâncias e reduzir a necessidade de viagens longas motorizadas, em especial, por automóveis. III. A Estratégia de Qualificação da Ocupação Urbana consiste em utilizar o térreo e o embasamento da edificação para conferir melhor relação entre o interior do lote e a rua, vinculando parâmetros qualificadores que promovam a integração entre espaços públicos e privados e ampliar a sensação de segurança dos espaços públicos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Lei Orgânica do Município de Niterói estabelece que compete ao Município prover tudo quanto diga respeito ao interesse local e ao bem-estar de sua população. Avalie se cabe ao Município, privativamente, entre outras, as seguintes atribuições: I. fixar locais para estabelecimentos de pontos de táxis e demais veículos. II. fixar e sinalizar as zonas de silêncio, de trânsito e tráfego em condições especiais. III. sinalizar as vias urbanas e as estradas municipais, bem como regulamentar e fiscalizar sua utilização. IV. ordenar as atividades urbanas, fixando condições e horários para funcionamento de estabelecimentos industriais, comerciais e de serviços, observadas as normas federais pertinentes. V. dispor sobre os serviços funerários e cemitérios. Estão corretos os itens",
       "alternatives": {
         "A": "I, II, III, IV e V.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios é denominada:",
       "alternatives": {
         "A": "sociedade de economia mista.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Lei nº 2283, de 28/12/2005 estabelece que a NITTRANS será administrada por um Conselho de Administração e uma Diretoria Executiva e contará com um Conselho Fiscal. Avalie se a referida lei prevê que à Assembleia Geral compete, sem exclusão de outros casos previstos em lei, entre outras, as seguintes atribuições: I. Aprovar o Estatuto Social. II. Tomar, anualmente, as contas dos administradores, examinar, discutir e votar as demonstrações financeiras. III. Discutir e fixar a correção da expressão monetária do Capital Social. IV. Deliberar sobre a destinação do lucro líquido do exercício. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em relação ao licenciamento de veículos, conforma estabelece o Código Brasileiro de Trânsito, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Todo veículo automotor, articulado, reboque ou semirreboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Município onde estiver registrado o veículo. ( ) O Certificado de Licenciamento Anual será expedido ao veículo licenciado, vinculado ao Certificado de Registro de Veículo, em meio físico e/ou digital, à escolha do proprietário, de acordo com o modelo e com as especificações estabelecidos pelo Contran. ( ) No caso de transferência de residência ou domicílio, é válido, durante o exercício, o licenciamento de origem. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Lei nº 3.905/2024 dispõe sobre a Lei Urbanística de Niterói, seu zoneamento, a aplicação de instrumentos de política urbana e as regras gerais de licenciamento da atividade edilícia e de fiscalização da execução de obras. O Art. 18 dessa lei define as Zonas de Uso que compõem os Territórios de Qualificação. Em relação ao tema, leia a descrição a seguir: são porções do território destinadas, predominantemente, à moradia digna para a população da baixa renda por intermédio de melhorias urbanísticas, recuperação ambiental e regularização fundiária de assentamentos precários e irregulares, bem como à provisão de novas Habitações de Interesse Social - HIS a serem dotadas de equipamentos sociais, infraestruturas, em especial de saneamento ambiental, áreas verdes e comércios e serviços locais, situadas na zona urbana. A descrição se refere a",
       "alternatives": {
         "A": "Zona Uso Misto (ZUM).",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Lei nº 3.905/2024 (Lei Urbanística de Niterói) estabelece, em seu Título III, as diretrizes para o parcelamento do solo. Com base nessa lei, avalie se as afirmativas a seguir estão corretas. I. As áreas de preservação permanente, as áreas declaradas de Especial Interesse Ambiental e as unidades de conservação da natureza cuja destinação não permita a ocupação humana não serão excluídas do cômputo de áreas em qualquer forma de parcelamento. II. Nos projetos de parcelamento do solo deverão ser respeitados os recuos, as áreas \"non aedificandi\", as áreas de preservação permanente e as restrições impostas por unidades de conservação da natureza estabelecidas pelo Município e/ou órgão ambientais competentes. III. Os projetos de parcelamento deverão indicar as faixas de drenagem \"Non aedificandi\" ao longo dos cursos d`água, quando for o caso, de forma a garantir o acesso público na sua manutenção, o perfeito escoamento das águas e a conservação da vegetação de mata ciliar nativa existente. IV. A edificação em glebas não parceladas, de qualquer área ou de qualquer volume da construção, não estará condicionada ao prévio parcelamento do solo. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e IV, apenas.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Com base na Lei Orgânica do Município de Niterói, avalie se a administração pública direta e indireta, de qualquer dos Poderes do Município, obedecerá aos seguintes princípios: I. Legalidade. II. Impessoalidade. III. Moralidade. IV. Publicidade. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 31/12/2024, uma sociedade empresária apresentava os seguintes saldos em seu ativo circulante: Caixa: R$ 8.000; Contas a receber de clientes: R$ 20.000; Estoques: R$ 12.000. O “contas a receber” de clientes tinha a seguinte composição: • Em 30 dias: R$ 5.000 • Em 60 dias: R$ 6.000 • Em 120 dias: R$ 9.000 Assinale a opção que indica o saldo em “Disponibilidades”, na data",
       "alternatives": {
         "A": "R$ 8.000.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma loja iniciou as suas atividades em janeiro de 2025. No mês, sua receita de vendas foi de R$ 200.000, sendo que 80% do valor tinha previsão de recebimento no mês seguinte. Em janeiro, a loja estimava inadimplência de 2%. No entanto, em fevereiro, a loja refez as suas estimativas, e passou a considerar 4% de inadimplência. No Balanço Patrimonial mensal da loja, em 31/01/2025, a conta “Clientes” apresentava o seguinte saldo:",
       "alternatives": {
         "A": "R$ 152.000.",
@@ -721,8 +721,25 @@
       "page_number": 11
     },
     {
+      "question_number": 43,
+      "discipline": "Raciocínio Lógico e Matemático",
+      "statement": "Uma loja que vendia eletrodomésticos e utilidades para casa deseja avaliar parte de seu estoque, de acordo com o método Primeiro a Entrar e Primeiro a Sair (PEPS), e o restante de acordo com o método Custo Médio Ponderado. De acordo com o Pronunciamento Técnico CPC 16 (R1)- Estoques, o uso de critérios de valoração diferentes pode se justificar, caso o estoque",
+      "alternatives": {
+        "A": "seja de bens de almoxarifado.",
+        "B": "seja submetido a regras fiscais distintas.",
+        "C": "apresente preços de venda distintos.",
+        "D": "tenha diferentes naturezas ou uso.",
+        "E": "esteja localizado em diferentes localizações geográficas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 01/03/2024, uma sociedade empresária apresentava os seguintes saldos em seu Balanço Patrimonial: Disponibilidades: R$ 50.000; Capital Social: R$ 50.000. Na data, ela adquiriu impressoras para o seu escritório por R$ 40.000, com pagamento previsto para 90 dias. As impressoras vinham com garantia de 6 meses, vigente a partir da data da compra, e a sociedade empresária adquiriu garantia estendida por mais dois anos, tendo pago, antecipadamente, R$ 4.800. Assinale a opção que indica o saldo do Ativo Realizável a Longo Prazo no Balanço Patrimonial da sociedade empresária em 31/12/2024:",
       "alternatives": {
         "A": "R$ 400.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Cia W detém as seguintes participações em outras sociedades empresárias: • Cia X: controlada com 100% de participação. • Cia Y: controlada com 80% de participação. • Cia Z: coligada com influência participativa. A Cia W deve avaliar por equivalência patrimonial a participação nas seguintes empresas:",
       "alternatives": {
         "A": "Cia X, somente.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 01/08/2025, a Cia X adquiriu 100% da Cia Y por R$ 80.000. No valor, estava incluído um ágio derivado da expectativa de rentabilidade futura (goodwill), de R$ 15.000. Após a compra, este foi reconhecido no Balanço Patrimonial individual, da Cia X, como",
       "alternatives": {
         "A": "Ativo Intangível.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 01/10/2024, uma sociedade empresária comprou um equipamento por R$ 60.000, para pagamento em 15/12/2025. Caso a compra tivesse sido realizada à vista, o valor seria de R$ 55.000. Essa compra tinha valor material para a sociedade empresária. Em 31/12/2024, a sociedade empresária reconheceu, no Balanço Patrimonial, como “Contas a Pagar”,",
       "alternatives": {
         "A": "R$ 55.000 no passivo circulante.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sociedade empresária emitiu debêntures, sem data de vencimento, denominadas debêntures perpétuas. Além disso, não havia condições previstas sobre o vencimento no contrato. Em relação a essas debêntures, analise os itens a seguir. I. Dissolução da companhia. II. Mudança de setor de atividade. III. Inadimplência da obrigação de pagar juros. O vencimento das debêntures poderá acontecer nos seguintes casos:",
       "alternatives": {
         "A": "I, somente.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sociedade empresária foi constituída em 02/01/2025, quando os sócios integralizaram R$ 100.000 em dinheiro. Em 2025, a sociedade empresária adquiriu, à vista, estoques e móveis, por R$ 20.000 e R$ 30.000, respectivamente, e pagou despesas gerais de R$ 15.000. Ainda, vendeu todo o estoque, à vista, por R$ 40.000. Em 31/01/2025, o capital social da sociedade empresária era de",
       "alternatives": {
         "A": "R$ 35.000.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 31/12/2024, uma sociedade empresária, constituída na forma de sociedade por ações, reconheceu Lucro Antes do Imposto de Renda de R$ 200.000. No ano, o imposto de renda corrente foi de R$ 71.400 e o imposto de renda diferido, constituído por conta de uma provisão para contingências reconhecida no resultado, de R$ 3.400. A sociedade empresária distribui a seus acionistas 25% do lucro líquido a título de dividendos. Com base nas informações, os dividendos distribuídos no ano foram de",
       "alternatives": {
         "A": "R$ 31.300.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em agosto de 2025, uma sociedade empresária adquiriu ações de sua própria emissão para mantê-las em tesouraria pelo valor unitário de R$ 12,00. Na data, o valor de mercado da ação era de R$ 10,00. As ações compradas foram apresentadas em conta redutora do patrimônio líquido. O procedimento foi considerado incorreto, uma vez que",
       "alternatives": {
         "A": "as ações devem ser apresentadas como ativo.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sociedade empresária pretende encerrar as suas atividades e entrar em liquidação no início do exercício seguinte. Desse modo, elaborou as suas demonstrações contábeis com base na suposição de continuidade operacional. Considerando a situação da empresa e o Pronunciamento Técnico CPC 00 (R2)- Estrutura Conceitual para Relatório Financeiro, o posicionamento da sociedade empresária, ao elaborar as suas demonstrações, está",
       "alternatives": {
         "A": "correto, uma vez que está sendo respeitado o princípio da entidade contábil.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sociedade empresária contratou um especialista autônomo em informática, com salário mensal de R$ 7.000. Em junho de 2025, por solicitação do especialista, a remuneração do mês de julho foi paga de modo adiantado. A contrapartida da diminuição do caixa foi reconhecida em",
       "alternatives": {
         "A": "Ativo Circulante, no Balanço Patrimonial.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma loja vende celulares por meio de aplicativo e entrega gratuitamente os aparelhos aos compradores. Para realizar as entregas, a loja adquiriu uma moto por R$ 20.000, à vista. Na Demonstração dos Fluxos de Caixa da loja, a diminuição do caixa foi classificado na atividade",
       "alternatives": {
         "A": "operacional.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sociedade empresária reconheceu lucro líquido de R$ 200.000, em 2024. Na Demonstração do Resultado, foram reconhecidas as seguintes despesas: Amortização de ativo intangível: R$ 10.000; Depreciação de ativo imobilizado: R$ 25.000; Aluguel de imóvel: R$ 36.000; Salários de empregados: R$ 60.000. Ao elaborar a Demonstração dos Fluxos de Caixa pelo método indireto, o lucro líquido ajustado será de",
       "alternatives": {
         "A": "R$ 190.000.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Cia A tem participação de 80% na Cia B. Em 2024, a Cia B reconheceu lucro líquido de R$ 50.000. No ano, a Cia A reconheceu, em sua Demonstração do Valor Adicionado, o seguinte resultado com equivalência patrimonial:",
       "alternatives": {
         "A": "R$ 40.000 em Outras receitas.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "De acordo com o CPC 12 (R1)- Ajuste a Valor Presente, em relação à evidenciação em nota explicativa, devem ser prestadas informações mínimas que permitam que os usuários das demonstrações contábeis entendam as mensurações a valor presente levadas a efeito para ativos e passivos. Em relação às informações evidenciadas, analise os itens a seguir. I. Modelos utilizados para cálculo de riscos e as informações utilizadas nos modelos. II. Breve descrição do método de alocação dos descontos e do procedimento adotado para acomodar mudanças de premissas da administração. III. Propósito da mensuração a valor presente, se para reconhecimento inicial ou nova medição e motivação da administração para levar a efeito tal procedimento. Entre as informações a serem evidenciadas, está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 01/04/2023, uma editora adquiriu uma máquina de encadernação para utilizar em seu material por R$ 1.800. Na data, foi estimado que a máquina iria encadernar 3.600 livros durante cinco anos, e seria doada a terceiros após isso. A estimativa de encadernação era a seguinte: • 2023: 600 apostilas • 2024: 800 apostilas • 2025: 800 apostilas • 2026: 700 apostilas • 2027: 600 apostilas • 2028: 100 apostilas Assinale a opção que indica o montante da depreciação acumulada da máquina em 31/12/2024, considerando que a editora utiliza o método das unidades produzidas, para depreciar os seus ativos imobilizados.",
       "alternatives": {
         "A": "R$ 400.",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 01/07/2024, uma indústria farmacêutica adquiriu a patente de um remédio para usar durante 5 anos, por R$ 200.000. Ainda em julho, foram gastos R$ 10.000 com a elaboração de material promocional sobre o remédio e R$ 5.000 com a distribuição desse material. Assinale a opção que indica a despesa de amortização anual da patente.",
       "alternatives": {
         "A": "R$ 21.500",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 31/07/2025, um supermercado apresentava R$ 50.000 em estoque. Em agosto, foi constatado que 10% do valor do estoque deveria ser baixado, uma vez que a data de validade dos produtos havia expirado, e o estoque não poderia mais ser vendido. A contrapartida da baixa do estoque foi realizada em",
       "alternatives": {
         "A": "Despesas Operacionais, na Demonstração do Resultado.",
@@ -1011,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um escritório de perícia contábil começou a oferecer, também, serviços de auditoria. Para isso, adquiriu, em 05/01/2024, uma marca de uma empresa independente e consolidada no mercado, para utilizar na nova atividade. A marca foi adquirida por R$ 30.000 e era esperado que ela geraria benefícios por tempo indefinido. No ano de 2024, o escritório realizou pesquisas quadrimestrais, para estimar o valor de mercado da marca. Os resultados obtidos foram os seguintes: 30/04: R$ 38.000 31/08: R$ 35.000 31/12: R$ 32.000 Considerando que o escritório segue as Normas Brasileiras de Contabilidade, em seu Balanço Patrimonial, em 31/12/2024, a marca estava reconhecida pelo seguinte valor:",
       "alternatives": {
         "A": "zero.",
@@ -1028,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Com relação ao propósito da divulgação sobre partes relacionadas, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O relacionamento com partes relacionadas é uma característica normal do comércio e dos negócios. ( ) O relacionamento com partes relacionadas deve ter efeito em todas as demonstrações contábeis da entidade. ( ) A demonstração do resultado e o balanço patrimonial da entidade podem ser afetados por um relacionamento com partes relacionadas, mesmo que não ocorram transações com essas partes relacionadas. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -1045,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sociedade empresária capitalizou custos de empréstimos como parte do custo de um ativo qualificável. Esse representa um ativo que",
       "alternatives": {
         "A": "permanece na entidade por menos do que um exercício.",
@@ -1062,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sociedade empresária publicou as suas demonstrações contábeis, finalizadas em 31/12/2024, em 01/03/2025. A emissão destas demonstrações contábeis foi autorizada pela administração em 28/02/2025. Para que um fato possa ser classificado como Evento Subsequente, na sociedade empresária, deve ter ocorrido entre as seguintes datas",
       "alternatives": {
         "A": "28/02/2025 e 01/03/2025.",
@@ -1079,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 31/12/2024, uma sociedade empresária divulgou, em notas explicativas, ativos e passivos contingentes. Esses, não foram reconhecidos no Balanço Patrimonial. De acordo com o PRONUNCIAMENTO TÉCNICO CPC 25- PROVISÕES, PASSIVOS CONTINGENTES E ATIVOS CONTINGENTES, pode-se concluir que a entrada de benefícios econômicos e a saída de recursos que incorporam benefícios econômicos eram, respectivamente,",
       "alternatives": {
         "A": "possível e possível.",
@@ -1096,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma companhia aérea utiliza serviços terceirizados para carregamento e distribuição de bagagem. Em julho de 2025, a empresa terceirizada responsável pela bagagem esqueceu de colocar essa bagagem em uma aeronave vindo de Miami para o Rio de Janeiro. Metade dos passageiros entraram na justiça contra a companhia aérea, requerendo R$ 500.000 de indenização. Os advogados da companhia aérea e da empresa terceirizada estimaram, com confiabilidade e com base em sua experiência, que a perda era provável e de R$ 200.000. Do valor, 20% é de responsabilidade da companhia aérea e o restante da empresa terceirizada. Em relação à causa, a companhia reconheceu uma provisão, para contingência, de",
       "alternatives": {
         "A": "zero.",
@@ -1112,8 +1129,25 @@
       "page_number": 15
     },
     {
+      "question_number": 67,
+      "discipline": "Raciocínio Lógico e Matemático",
+      "statement": "Um prédio residencial adquiriu equipamentos destinados ao reconhecimento facial dos moradores por R$ 5.000. A instalação do equipamento e o cadastramento dos moradores custaram ao prédio, respectivamente, R$ 500 e R$ 800. Além disso, foi estimado que o uso do equipamento traria uma economia mensal de R$ 1.000. Assinale a opção que indica o custo inicial do equipamento, adquirido no Balanço Patrimonial do prédio.",
+      "alternatives": {
+        "A": "R$ 4.500",
+        "B": "R$ 5.000",
+        "C": "R$ 5.500",
+        "D": "R$ 5.800",
+        "E": "R$ 6.300"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma construtora realizou um grande empreendimento no Centro do Rio de Janeiro. A construtora adquiriu alguns terrenos na região, acreditando que haveria valorização, e ela poderia vender os terrenos a terceiros, após cinco anos, por um montante superior ao de compra. No Balanço Patrimonial da construtora, no momento da compra, os terrenos foram reconhecidos como",
       "alternatives": {
         "A": "Ativo Intangível.",
@@ -1130,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sociedade empresária classificou um ativo não circulante como mantido para venda. Em relação à classificação, analise os seguintes fatos: I. O ativo foi colocado à venda por preço considerado razoável em relação ao seu valor justo corrente. II. Era esperado que a venda se qualificasse como concluída em até um ano a partir da data da classificação. III. O nível hierárquico de gestão apropriado estava comprometido com o plano de venda do ativo, e havia iniciado um programa firme para localizar um comprador e concluir o plano. Para que a venda seja considerada altamente provável, espera-se que sejam atendidos os seguintes critérios:",
       "alternatives": {
         "A": "I, somente.",
@@ -1147,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 31/12/2024, a Cia X apresentava os seguintes saldos: Disponibilidades: R$50.000; Capital Social: R$ 50.000. Já a Cia Y, apresentava os seguintes saldos: Disponibilidades: R$ 10.000; Capital Social: R$ 10.000. Em janeiro de 2025, a Cia X adquiriu 100% da Cia Y de terceiros por R$ 15.000. A diferença entre o valor pago e o patrimônio líquido da Cia Y foi justificada por expectativa de rentabilidade futura. Em relação ao Balanço Patrimonial Consolidado após a compra, analise os saldos a seguir. I. O Ativo Circulante era de R$ 45.000. II. Os Investimentos eram de R$ 10.000. III. O Ativo Intangível era de R$ 5.000. IV. O Patrimônio Líquido era de R$ 60.000. Estão corretos os saldos em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -1164,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 31/12/2024, uma entidade apresentava os seguintes saldos em seu Balanço Patrimonial: Dividendos a pagar (90 dias): R$ 15.000; Fornecedores (120 dias): R$ 20.000; Salários a pagar (30 dias): R$ 25.000; Disponibilidades: R$ 40.000; Estoques para venda no curto prazo: R$ 60.000; Contas a pagar (380 dias): R$ 70.000; Patrimônio Líquido: R$ 120.000; Móveis e utensílios utilizados na atividade: R$ 150.000. Assinale a opção que demonstra o indicador de endividamento geral da entidade, em 31/12/2024",
       "alternatives": {
         "A": "0,36.",
@@ -1181,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 01/12/2024, uma sociedade empresária tinha a receber R$ 30.000, referentes à venda de um veículo. O valor deveria ser recebido após 18 meses. No mês, a sociedade empresária conseguiu negociar com o comprador um adiantamento do prazo de recebimento do montante integral, para fevereiro de 2025. Ao analisar a situação da sociedade empresária, em 31/12/2024, foi constatado que a diminuição do prazo de recebimento trouxe um aumento no indicador de",
       "alternatives": {
         "A": "liquidez geral.",
@@ -1198,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 2024, uma sociedade empresária reconheceu R$ 500.000 em receita bruta, R$ 20.000 em abatimentos e R$ 4.000 como perdas estimadas com crédito de liquidação duvidosa. Já o custo com os serviços prestados foi de R$ 150.000. No ano, a sociedade empresária reconheceu, também, despesas gerais de R$ 90.000. Ao realizar a análise vertical da Demonstração do Resultado, pode- se constatar que o lucro bruto representa a seguinte porcentagem da receita líquida:",
       "alternatives": {
         "A": "61,14%.",
@@ -1215,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Ao realizar a análise horizontal do Balanço Patrimonial, foi constatado que a comparação do total do ativo imobilizado dos dois períodos indicava que o saldo do ativo imobilizado havia diminuído. A variação pode ter sido ocasionada por",
       "alternatives": {
         "A": "reconhecimento da depreciação.",
@@ -1232,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um fabricante de equipamentos de informática recebeu a encomenda de um novo cliente para recebimento do valor acordado a prazo. Antes de aceitar o negócio, o fabricante acessou o Balanço Patrimonial do cliente para verificar o indicador da composição das exigibilidades. Esse indicador compara, com o passivo total,",
       "alternatives": {
         "A": "o capital próprio.",
@@ -1249,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 31/12/2024, uma sociedade empresária apresentava os seguintes saldos em seu Balanço Patrimonial: Disponibilidades: R$ 50.000; Capital Social: R$ 50.000. Em janeiro de 2025, foram adquiridos R$ 20.000 em estoque, para pagamento em 180 dias. A sociedade empresária esperava vender todo o estoque em fevereiro. Assinale a opção que indica a liquidez imediata da sociedade empresária, em janeiro de 2025.",
       "alternatives": {
         "A": "1,0",
@@ -1266,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "De acordo com o MCASP, as etapas da receita orçamentária seguem a ordem de ocorrência dos fenômenos econômicos, levando-se em consideração o modelo de orçamento existente no país e a tecnologia utilizada. No entanto, nem todas as etapas ocorrem para todos os tipos de receitas orçamentárias. Por exemplo, uma doação em espécie recebida pelos entes públicos não passa pelo estágio de",
       "alternatives": {
         "A": "previsão.",
@@ -1283,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "De acordo com a Lei 4.320/1964, o empenho de despesa é o ato emanado de autoridade competente que cria para o Estado obrigação de pagamento pendente ou não de implemento de condição. Em relação ao empenho, analise os itens a seguir. I. Quando o valor empenhado for insuficiente para atender à despesa a ser realizada, o empenho poderá ser reforçado. II. Caso o valor do empenho exceda o montante da despesa realizada, o empenho deverá ser anulado totalmente. III. Quando o objeto do contrato não tiver sido cumprido, o empenho deverá ser anulado parcialmente. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
@@ -1300,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma entidade do setor público estruturou um projeto visando formar internamente um ativo intangível. Em 2024, foram gastos os seguintes montantes, nas respectivas atividades realizadas: busca de alternativas para materiais e processos: R$ 8.000; atividades destinadas à obtenção de novo conhecimento: R$ 10.000; busca, avaliação e seleção final das aplicações dos resultados de pesquisa ou outros conhecimentos: R$ 12.000; formulação, projeto, avaliação e seleção final de alternativas possíveis para materiais e processos: R$ 15.000. Em 31/12/2024, o custo do ativo intangível, no Balanço Patrimonial da entidade, era o seguinte:",
       "alternatives": {
         "A": "zero.",
@@ -1317,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "No Balanço Orçamentário de uma entidade do setor público, ao comparar o Quadro da Execução dos Restos a Pagar Não Processados e o Quadro da Execução dos Restos a Pagar Processados, verifica-se que este não possui a coluna",
       "alternatives": {
         "A": "Pagos.",

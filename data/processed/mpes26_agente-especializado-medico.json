@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Especializado - Médico",
   "exam_type": "Tipo 1",
-  "total_questions": 41,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-especializado-medico_q12.png",
       "page_number": 3
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 21,
@@ -287,9 +389,26 @@
         "B": "Priorizar a decisão judicial, independentemente de análise técnica e indicar o fornecimento do medicamento.",
         "C": "Emitir parecer técnico, em que avalia as evidências científicas, as alternativas disponíveis no SUS e os critérios de incorporação tecnológica.",
         "D": "Basear-se somente na prescrição médica apresentada pelo paciente e sugerir o fornecimento do medicamento com base em evidências técnicas.",
-        "E": "Recomendar o fornecimento imediato do medicamento, independentemente de análise técnica, com base no princípio da universalidade do SUS. Avalie o caso a seguir. Paciente de 50 anos, sexo masculino, tabagista de 1 maço de cigarro ao dia por 20 anos, etilista, IMC 30 kg/m2, com queixa de dor epigástrica com irradiação retroesternal, regurgitação, com piora pós-prandial, cerca de 4 vezes por semana há 6 meses. Faz uso de antiácidos e de famotidina irregularmente com melhora parcial. Nega perda de peso ou outros sintomas associados. Faz uso de anlodipino para tratamento de hipertensão arterial sistêmica e faz uso frequente de anti-inflamatórios por cefaleia. Foi submetido à endoscopia digestiva alta que veio normal; a pesquisa de Helicobacter Pylori realizada pelo endoscopista foi positiva. Sobre o caso apresentado, assinale a opção que indica a principal hipótese diagnóstica do paciente. (A) Neoplasia gástrica. (B) Esofagite eosinofílica. (C) Doença do refluxo gastroesofágico. (D) Úlcera duodenal por Helicobacter pylori. (E) Úlcera gástrica por uso de anti-inflamatórios."
+        "E": "Recomendar o fornecimento imediato do medicamento, independentemente de análise técnica, com base no princípio da universalidade do SUS."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 24,
+      "discipline": null,
+      "statement": "Avalie o caso a seguir. Paciente de 50 anos, sexo masculino, tabagista de 1 maço de cigarro ao dia por 20 anos, etilista, IMC 30 kg/m2, com queixa de dor epigástrica com irradiação retroesternal, regurgitação, com piora pós-prandial, cerca de 4 vezes por semana há 6 meses. Faz uso de antiácidos e de famotidina irregularmente com melhora parcial. Nega perda de peso ou outros sintomas associados. Faz uso de anlodipino para tratamento de hipertensão arterial sistêmica e faz uso frequente de anti-inflamatórios por cefaleia. Foi submetido à endoscopia digestiva alta que veio normal; a pesquisa de Helicobacter Pylori realizada pelo endoscopista foi positiva. Sobre o caso apresentado, assinale a opção que indica a principal hipótese diagnóstica do paciente.",
+      "alternatives": {
+        "A": "Neoplasia gástrica.",
+        "B": "Esofagite eosinofílica.",
+        "C": "Doença do refluxo gastroesofágico.",
+        "D": "Úlcera duodenal por Helicobacter pylori.",
+        "E": "Úlcera gástrica por uso de anti-inflamatórios."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -321,13 +440,30 @@
         "B": "Colangiorressonância.",
         "C": "FAN e anti-mitocôndria.",
         "D": "Colecistectomia videolaparoscópica.",
-        "E": "Colangiopancreatografia endoscópica retrógrada com extração do cálculo do colédoco. Uma paciente de 68 anos, sexo feminino, foi internada há 3 (três) dias para tratamento de pneumonia adquirida na comunidade. Na evolução, notou-se o aparecimento de derrame pleural ipsilateral à pneumonia. Assinale a opção que indica a necessidade de drenagem pleural com dreno tubular em selo de água, após a análise do líquido pleural. (A) pH do líquido pleural inferior a 7,2. (B) Glicose do líquido pleural superior a 80 mg/dl. (C) Relação da proteína no líquido pleural e proteína sérica = 0.8. (D) LDH (desidrogenase lática) do líquido pleural igual a 360 mg/dl. (E) Citologia diferencial do líquido pleural, com predomínio de neutrófilos."
+        "E": "Colangiopancreatografia endoscópica retrógrada com extração do cálculo do colédoco."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 27,
+      "discipline": null,
+      "statement": "Uma paciente de 68 anos, sexo feminino, foi internada há 3 (três) dias para tratamento de pneumonia adquirida na comunidade. Na evolução, notou-se o aparecimento de derrame pleural ipsilateral à pneumonia. Assinale a opção que indica a necessidade de drenagem pleural com dreno tubular em selo de água, após a análise do líquido pleural.",
+      "alternatives": {
+        "A": "pH do líquido pleural inferior a 7,2.",
+        "B": "Glicose do líquido pleural superior a 80 mg/dl.",
+        "C": "Relação da proteína no líquido pleural e proteína sérica = 0.8.",
+        "D": "LDH (desidrogenase lática) do líquido pleural igual a 360 mg/dl.",
+        "E": "Citologia diferencial do líquido pleural, com predomínio de neutrófilos."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 28,
@@ -355,9 +491,26 @@
         "B": "Hepatite autoimune. Dosar FAN e anti LKM e iniciar pulsoterapia com metilprednisolona.",
         "C": "Anemia hemolítica autoimune. Realizar coombs direto e iniciar tratamento com prednisona.",
         "D": "Esferocitose hereditária. Realizar teste da fragilidade osmótica e indicar esplenectomia.",
-        "E": "Anemia ferropriva. Realizar dosagem de ferro e ferritina e iniciar reposição de ferro intravenoso e oral. Analise o caso a seguir. Paciente de 82 anos, sexo masculino, portador de miocardiopatia dilatada, foi admitido com quadro de dispneia e anasarca. Fazia uso irregular de carvedilol 25 mg/dia, enalapril 20 mg/dia e furosemida 40 mg/dia. Na admissão encontrava-se em regular estado geral, FC 98 bpm, FR 28 irpm, PA 112x70 mmHg, estertores crepitantes em bases, edema de membros inferiores (4+/4+). Exames de admissão: Cr 1,5mg/dL, Ureia 70 mg/dL, Potássio 5,2 mEq/L. Iniciada terapia medicamentosa com melhora progressiva da dispneia e do edema. No entanto, após 5 dias de internação, o paciente apresentou tontura, sem dispneia. Ao exame: PA 90x60 mmHg, FC 110bpm, FR 20 irpm. Novos exames: Cr 3 mg/dL, Ureia 150 mg/dL, potássio 3 mEq/L, cálcio iônico 0,8 mmol/L (VR 1,11 – 1,40). Assumindo que o evento ocorrido durante a internação foi fruto de um efeito adverso medicamentoso, é correto assumir que o paciente estava em uso de (A) diurético de alça em dose excessiva. (B) diurético tiazídico em dose excessiva. (C) bloqueador seletivo de canal de cálcio. (D) inibidor do receptor de mineralocorticoide em dose excessiva. (E) inibidor do sistema renina-angiotensina-aldosterona em subdose."
+        "E": "Anemia ferropriva. Realizar dosagem de ferro e ferritina e iniciar reposição de ferro intravenoso e oral."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 30,
+      "discipline": null,
+      "statement": "Analise o caso a seguir. Paciente de 82 anos, sexo masculino, portador de miocardiopatia dilatada, foi admitido com quadro de dispneia e anasarca. Fazia uso irregular de carvedilol 25 mg/dia, enalapril 20 mg/dia e furosemida 40 mg/dia. Na admissão encontrava-se em regular estado geral, FC 98 bpm, FR 28 irpm, PA 112x70 mmHg, estertores crepitantes em bases, edema de membros inferiores (4+/4+). Exames de admissão: Cr 1,5mg/dL, Ureia 70 mg/dL, Potássio 5,2 mEq/L. Iniciada terapia medicamentosa com melhora progressiva da dispneia e do edema. No entanto, após 5 dias de internação, o paciente apresentou tontura, sem dispneia. Ao exame: PA 90x60 mmHg, FC 110bpm, FR 20 irpm. Novos exames: Cr 3 mg/dL, Ureia 150 mg/dL, potássio 3 mEq/L, cálcio iônico 0,8 mmol/L (VR 1,11 – 1,40). Assumindo que o evento ocorrido durante a internação foi fruto de um efeito adverso medicamentoso, é correto assumir que o paciente estava em uso de",
+      "alternatives": {
+        "A": "diurético de alça em dose excessiva.",
+        "B": "diurético tiazídico em dose excessiva.",
+        "C": "bloqueador seletivo de canal de cálcio.",
+        "D": "inibidor do receptor de mineralocorticoide em dose excessiva.",
+        "E": "inibidor do sistema renina-angiotensina-aldosterona em subdose."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -372,13 +525,30 @@
         "B": "A fisiopatologia da síndrome cardiorrenal envolve a congestão sistêmica e supressão do sistema renina-angiotensina- aldosterona.",
         "C": "A dosagem da fração de excreção de sódio (FeNa) tem limitações como meio diagnóstico em pacientes com suspeita de síndrome hepatorrenal.",
         "D": "A síndrome hepatorrenal é uma condição que comumente responde à expansão volêmica com cristaloide e não devem ser usados vasoconstrictores.",
-        "E": "Pacientes com IRA pré-renal por hipovolemia geralmente demonstram hipotensão postural, taquicardia, baixa pressão venosa central e edema pulmonar. Analise o caso a seguir. Paciente de 35 anos, sexo feminino, com diagnóstico de HIV em uso de TARV irregular. Procurou a emergência com quadro de febre, tosse seca e dispneia progressiva com uma semana de evolução. Ao exame está emagrecida, hipocorada (2+/4+), cianótica (+/4+), anictérica. Candidíase oral. PA 100 x 62 mmHg, FC 120 bpm, FR 40 irpm, TA 38.2oC. RCR 2T sem sopros, MV universalmente audível, sem ruídos adventícios. Restante do exame sem alterações. Exames laboratoriais: Hto 25%, Hb 7g/dL, leucócitos 3.000/mm3, com 5% de linfócitos, plaquetas 160.000/mm3, LDH 600 UI/L. Gasometria arterial: pH 7.30, pO2 48 mmHg, pCO2 20 mmHg, HCO3 18 mEq/L e SatO2 80%. Radiografia de tórax sem alterações. Considerando sua principal hipótese diagnóstica, o tratamento do quadro respiratório deve ser feito com (A) ceftriaxona e anfotericina B. (B) amoxicilina/clavulanato/azitromicina. (C) piperacilina/tazobactam com macrolídeo. (D) sulfametoxazol/trimetoprim e prednisona. (E) rifampicina/isoniazida/pirazinamida/etambutol."
+        "E": "Pacientes com IRA pré-renal por hipovolemia geralmente demonstram hipotensão postural, taquicardia, baixa pressão venosa central e edema pulmonar."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 32,
+      "discipline": null,
+      "statement": "Analise o caso a seguir. Paciente de 35 anos, sexo feminino, com diagnóstico de HIV em uso de TARV irregular. Procurou a emergência com quadro de febre, tosse seca e dispneia progressiva com uma semana de evolução. Ao exame está emagrecida, hipocorada (2+/4+), cianótica (+/4+), anictérica. Candidíase oral. PA 100 x 62 mmHg, FC 120 bpm, FR 40 irpm, TA 38.2oC. RCR 2T sem sopros, MV universalmente audível, sem ruídos adventícios. Restante do exame sem alterações. Exames laboratoriais: Hto 25%, Hb 7g/dL, leucócitos 3.000/mm3, com 5% de linfócitos, plaquetas 160.000/mm3, LDH 600 UI/L. Gasometria arterial: pH 7.30, pO2 48 mmHg, pCO2 20 mmHg, HCO3 18 mEq/L e SatO2 80%. Radiografia de tórax sem alterações. Considerando sua principal hipótese diagnóstica, o tratamento do quadro respiratório deve ser feito com",
+      "alternatives": {
+        "A": "ceftriaxona e anfotericina",
+        "B": "(B) amoxicilina/clavulanato/azitromicina.",
+        "C": "piperacilina/tazobactam com macrolídeo.",
+        "D": "sulfametoxazol/trimetoprim e prednisona.",
+        "E": "rifampicina/isoniazida/pirazinamida/etambutol."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 33,
@@ -406,9 +576,26 @@
         "B": "A deficiência de folato é uma causa de demência reversível, em que déficits corticais estão presentes.",
         "C": "No contexto de investigação de quadros demenciais, a dosagem sérica de vitamina B12 não é recomendada.",
         "D": "Doença de Huntington é uma condição autossômica recessiva caracterizada por distúrbios do movimento, sintomas psiquiátricos e demência.",
-        "E": "Pacientes com demência frontotemporal normalmente apresentam alterações comportamentais, incluindo mudanças precoces na conduta social. Considerando os marcadores sorológicos do vírus da hepatite B (VHB), assinale a afirmativa correta. (A) Anti-HBs reagente e anti-HBcIgM reagente indicam imunidade pós-contato. (B) Anti-HBc IgG reagente indica presença do vírus da hepatite B (VHB) na circulação sanguínea. (C) O diagnóstico de hepatite B aguda só pode ser confirmado pela presença sérica do HBV DNA. (D) HBsAg reagente indica apenas que o paciente teve contato com o vírus da hepatite B (VHB). (E) Anti-HBcIgG reagente, HBsAg não reagente, anti-HBs não reagente e a presença de HBV DNA no sangue caracterizam hepatite B oculta."
+        "E": "Pacientes com demência frontotemporal normalmente apresentam alterações comportamentais, incluindo mudanças precoces na conduta social."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "Considerando os marcadores sorológicos do vírus da hepatite B (VHB), assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Anti-HBs reagente e anti-HBcIgM reagente indicam imunidade pós-contato.",
+        "B": "Anti-HBc IgG reagente indica presença do vírus da hepatite B (VHB) na circulação sanguínea.",
+        "C": "O diagnóstico de hepatite B aguda só pode ser confirmado pela presença sérica do HBV DNA.",
+        "D": "HBsAg reagente indica apenas que o paciente teve contato com o vírus da hepatite B (VHB).",
+        "E": "Anti-HBcIgG reagente, HBsAg não reagente, anti-HBs não reagente e a presença de HBV DNA no sangue caracterizam hepatite B oculta."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -440,13 +627,30 @@
         "B": "Hipouricemia, acidose metabólica e hipercalemia.",
         "C": "Hiperuricemia, acidose metabólica e hipercalemia.",
         "D": "Hipouricemia, alcalose metabólica e hipocalemia.",
-        "E": "Hiperuricemia, acidose metabólica e hipocalemia. A avaliação prognóstica em Oncologia tem diversas particularidades, onde a funcionalidade está diretamente relacionada ao prognóstico. Quanto pior a funcionalidade, maior a chance de toxicidade com o tratamento e menor a sobrevida provável. Dessa forma, utilizamos escalas para avaliação da funcionalidade em pacientes oncológicos sem proposta de terapia curativa ou modificadora de doença. Sobre essas escalas, assinale a afirmativa correta. (A) Pacientes com KPS (Karnofsky Performance Status) inferior a 50 apresenta sobrevida inferior a 8 semanas. (B) A escala PPI (Palliative Prognostic Index) é pouco utilizada, pois necessita de exames complementares para sua aplicação. (C) Quanto maior a pontuação na escala ECOG (Eastern Cooperative Oncology Group), maior a sobrevida do paciente. (D) A avaliação pontual com o emprego de escalas em um único momento é capaz de estimar o prognóstico, ainda que em vigência de intercorrência aguda. (E) As escalas para avaliação de funcionalidade em pacientes oncológicos só devem ser empregadas pelo oncologista assistente."
+        "E": "Hiperuricemia, acidose metabólica e hipocalemia."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 38,
+      "discipline": null,
+      "statement": "A avaliação prognóstica em Oncologia tem diversas particularidades, onde a funcionalidade está diretamente relacionada ao prognóstico. Quanto pior a funcionalidade, maior a chance de toxicidade com o tratamento e menor a sobrevida provável. Dessa forma, utilizamos escalas para avaliação da funcionalidade em pacientes oncológicos sem proposta de terapia curativa ou modificadora de doença. Sobre essas escalas, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Pacientes com KPS (Karnofsky Performance Status) inferior a 50 apresenta sobrevida inferior a 8 semanas.",
+        "B": "A escala PPI (Palliative Prognostic Index) é pouco utilizada, pois necessita de exames complementares para sua aplicação.",
+        "C": "Quanto maior a pontuação na escala ECOG (Eastern Cooperative Oncology Group), maior a sobrevida do paciente.",
+        "D": "A avaliação pontual com o emprego de escalas em um único momento é capaz de estimar o prognóstico, ainda que em vigência de intercorrência aguda.",
+        "E": "As escalas para avaliação de funcionalidade em pacientes oncológicos só devem ser empregadas pelo oncologista assistente."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
     },
     {
       "question_number": 39,
@@ -474,9 +678,26 @@
         "B": "Realizar artrocentese e análise do líquido sinovial.",
         "C": "Prescrever colchicina e anti-inflamatório não esteroide.",
         "D": "Solicitar hemograma, hemocultura e dosagem de ácido úrico.",
-        "E": "Solicitar hemograma e dosagem sérica de ácido úrico com o objetivo de avaliar a necessidade de artrocentese e administração de agente uricosúrico. Analise o caso a seguir. Paciente de 70 anos, sexo masculino, com história de hipertensão arterial e dislipidemia, iniciou há 5 anos, tremor de extremidades. Após atendimento médico, recebeu o diagnóstico de doença de Parkinson e depressão moderada, tendo iniciado levodopa, escitalopram e clonazepam. Há 1 ano, ele passou a ter dificuldade de administrar sua vida financeira, desenvolveu a alucinação de um estranho na sala de estar e começou a ter problemas para tomar corretamente suas medicações. Sua esposa teve de assumir a administração de medicamentos, administrar a conta bancária e o pagamento das despesas diárias. Na anamnese dirigida identificou-se anosmia e alteração do sono REM há 10 anos. Trouxe exames laboratoriais citando hemograma, bioquímica sanguínea e dosagens hormonais normais. Ressonância Nuclear Magnética de Crânio com atrofia cortical leve compatível com a idade e microangiopatia degenerativa Fasekas I. Ao exame: Hipomimia. Tremor de repouso na mão esquerda. Bradicinesia significativa à esquerda nos movimentos da mão (finger tapping) e pé. Rigidez moderada em roda dentada em membro superior esquerdo. Marcha de passos curtos com o balanço do braço esquerdo reduzido com tremor de repouso na mão esquerda. Os reflexos posturais foram normais. Para esse caso, assinale a opção que apresenta a principal hipótese diagnóstica. (A) Demência por Corpos de Lewy. (B) Demência pela Doença de Parkinson. (C) Demência Vascular com parkinsonismo associado. (D) Doença de Alzheimer associada à Doença de Parkinson. (E) Transtorno Neurocognitivo leve associado ao uso de clonazepam."
+        "E": "Solicitar hemograma e dosagem sérica de ácido úrico com o objetivo de avaliar a necessidade de artrocentese e administração de agente uricosúrico."
       },
       "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 41,
+      "discipline": null,
+      "statement": "Analise o caso a seguir. Paciente de 70 anos, sexo masculino, com história de hipertensão arterial e dislipidemia, iniciou há 5 anos, tremor de extremidades. Após atendimento médico, recebeu o diagnóstico de doença de Parkinson e depressão moderada, tendo iniciado levodopa, escitalopram e clonazepam. Há 1 ano, ele passou a ter dificuldade de administrar sua vida financeira, desenvolveu a alucinação de um estranho na sala de estar e começou a ter problemas para tomar corretamente suas medicações. Sua esposa teve de assumir a administração de medicamentos, administrar a conta bancária e o pagamento das despesas diárias. Na anamnese dirigida identificou-se anosmia e alteração do sono REM há 10 anos. Trouxe exames laboratoriais citando hemograma, bioquímica sanguínea e dosagens hormonais normais. Ressonância Nuclear Magnética de Crânio com atrofia cortical leve compatível com a idade e microangiopatia degenerativa Fasekas I. Ao exame: Hipomimia. Tremor de repouso na mão esquerda. Bradicinesia significativa à esquerda nos movimentos da mão (finger tapping) e pé. Rigidez moderada em roda dentada em membro superior esquerdo. Marcha de passos curtos com o balanço do braço esquerdo reduzido com tremor de repouso na mão esquerda. Os reflexos posturais foram normais. Para esse caso, assinale a opção que apresenta a principal hipótese diagnóstica.",
+      "alternatives": {
+        "A": "Demência por Corpos de Lewy.",
+        "B": "Demência pela Doença de Parkinson.",
+        "C": "Demência Vascular com parkinsonismo associado.",
+        "D": "Doença de Alzheimer associada à Doença de Parkinson.",
+        "E": "Transtorno Neurocognitivo leve associado ao uso de clonazepam."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -508,13 +729,30 @@
         "B": "Hemianopsia homônima.",
         "C": "Cegueira total de um olho.",
         "D": "Quadrantanopsia homônima.",
-        "E": "Hemianopsia heterônima bitemporal. Paciente de 64 anos, sexo feminino, com história de rebaixamento súbito do nível da consciência. Sem acompanhamento médico regular. Família desconhece comorbidades. Ao exame apresenta hipertensão arterial (180 x 110 mmHg), ausculta cardíaca sem alterações. Pensando na hipótese de acidente vascular hemorrágico intraparenquimatoso de etiologia hipertensiva, assinale a opção que indica a topografia cerebral mais comumente afetada. (A) Cerebelo. (B) Lobo frontal. (C) Lobo parietal. (D) Lobo occipital. (E) Tálamo e gânglios da base."
+        "E": "Hemianopsia heterônima bitemporal."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 8
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "Paciente de 64 anos, sexo feminino, com história de rebaixamento súbito do nível da consciência. Sem acompanhamento médico regular. Família desconhece comorbidades. Ao exame apresenta hipertensão arterial (180 x 110 mmHg), ausculta cardíaca sem alterações. Pensando na hipótese de acidente vascular hemorrágico intraparenquimatoso de etiologia hipertensiva, assinale a opção que indica a topografia cerebral mais comumente afetada.",
+      "alternatives": {
+        "A": "Cerebelo.",
+        "B": "Lobo frontal.",
+        "C": "Lobo parietal.",
+        "D": "Lobo occipital.",
+        "E": "Tálamo e gânglios da base."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 45,
@@ -542,9 +780,26 @@
         "B": "adenocarcinoma metastático.",
         "C": "atrofia de múltiplos sistemas.",
         "D": "infecção pelo vírus da hepatite C.",
-        "E": "tumor de pulmão de pequenas células. No eletrocardiograma (ECG), assinale a opção que apresenta o padrão encontrado na síndrome de Brugada. (A) Prolongamento marcante do intervalo QT, acompanhado de inversão da onda T. (B) Diminuição da amplitude da onda P e prolongamento do intervalo QRS. (C) Elevação proeminente do segmento ST seguida de uma onda T negativa em uma ou mais derivações precordiais direitas. (D) Retificação da onda T, pequena inversão da onda T e infra desnivelamento do segmento ST. (E) Intervalo PR curto e presença de onda delta."
+        "E": "tumor de pulmão de pequenas células."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "No eletrocardiograma (ECG), assinale a opção que apresenta o padrão encontrado na síndrome de Brugada.",
+      "alternatives": {
+        "A": "Prolongamento marcante do intervalo QT, acompanhado de inversão da onda T.",
+        "B": "Diminuição da amplitude da onda P e prolongamento do intervalo QRS.",
+        "C": "Elevação proeminente do segmento ST seguida de uma onda T negativa em uma ou mais derivações precordiais direitas.",
+        "D": "Retificação da onda T, pequena inversão da onda T e infra desnivelamento do segmento ST.",
+        "E": "Intervalo PR curto e presença de onda delta."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -593,13 +848,30 @@
         "B": "eritema multiforme.",
         "C": "psoríase disseminada.",
         "D": "eritrodermia esfoliativa.",
-        "E": "eritema pigmentar fixo. Avalie o caso a seguir. Paciente de 29 anos, sexo feminino, foi encaminhada para a avaliação do endocrinologista, pois apresentava ganho de peso de aproximadamente 10 kg no último ano, cansaço extremo, apatia, hipotensão postural, amenorreia, constipação e intolerância ao frio. Nega comorbidades. Referia ter tido seu primeiro filho há 1 ano e associava o quadro descrito ao cansaço da maternidade e à privação de sono, porém referia não estar mais amamentando por ter tido “pouco leite”. Quando questionada sobre complicações no parto, lembra de ter apresentado muito sangramento por causa de hipotonia uterina, mas que foi revertido com medicações. Diante do quadro descrito, assinale a afirmativa correta. (A) É incomum encontrar deficiência de GH nesses casos. (B) A principal hipótese diagnóstica é hipofisite linfocítica. (C) O primeiro exame que deverá ser solicitado é a tomografia de crânio com contraste. (D) Nesses casos, é comum encontrar na RNM de sela túrcica a imagem de sela vazia ou parcialmente vazia. (E) O diagnóstico mais provável é Doença de Cushing, e deverá ser solicitado cortisol pós dexametasona, cortisol salivar ou cortisol livre urinário."
+        "E": "eritema pigmentar fixo."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "Avalie o caso a seguir. Paciente de 29 anos, sexo feminino, foi encaminhada para a avaliação do endocrinologista, pois apresentava ganho de peso de aproximadamente 10 kg no último ano, cansaço extremo, apatia, hipotensão postural, amenorreia, constipação e intolerância ao frio. Nega comorbidades. Referia ter tido seu primeiro filho há 1 ano e associava o quadro descrito ao cansaço da maternidade e à privação de sono, porém referia não estar mais amamentando por ter tido “pouco leite”. Quando questionada sobre complicações no parto, lembra de ter apresentado muito sangramento por causa de hipotonia uterina, mas que foi revertido com medicações. Diante do quadro descrito, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "É incomum encontrar deficiência de GH nesses casos.",
+        "B": "A principal hipótese diagnóstica é hipofisite linfocítica.",
+        "C": "O primeiro exame que deverá ser solicitado é a tomografia de crânio com contraste.",
+        "D": "Nesses casos, é comum encontrar na RNM de sela túrcica a imagem de sela vazia ou parcialmente vazia.",
+        "E": "O diagnóstico mais provável é Doença de Cushing, e deverá ser solicitado cortisol pós dexametasona, cortisol salivar ou cortisol livre urinário."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 52,
@@ -627,9 +899,26 @@
         "B": "Vírus da hepatite B • Genoma DNA • Transmissão parenteral/sexual • Forma aguda ou crônica.",
         "C": "Vírus da hepatite C • Genoma DNA • Transmissão parenteral • Cronicidade.",
         "D": "Vírus da hepatite D • Genoma RNA • Transmissão fecal/oral • somente forma aguda.",
-        "E": "Vírus da hepatite C • Genoma DNA •. Transmissão parenteral/sexual • somente forma aguda. Sobre o que devemos lembrar na hipótese diagnóstica de hipertensão arterial secundária em alguns indivíduos hipertensos, assinale a opção que indica as causas dessa condição. (A) Paraganglioma e insuficiência adrenal. (B) Síndrome de Conn e hiperparatireoidismo. (C) Feocromocitoma e hipertensão renovascular. (D) Hipotireoidismo subclínico e doença de Cushing. (E) Hiperplasia adrenal congênita e síndrome de Addison."
+        "E": "Vírus da hepatite C • Genoma DNA •. Transmissão parenteral/sexual • somente forma aguda."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 54,
+      "discipline": null,
+      "statement": "Sobre o que devemos lembrar na hipótese diagnóstica de hipertensão arterial secundária em alguns indivíduos hipertensos, assinale a opção que indica as causas dessa condição.",
+      "alternatives": {
+        "A": "Paraganglioma e insuficiência adrenal.",
+        "B": "Síndrome de Conn e hiperparatireoidismo.",
+        "C": "Feocromocitoma e hipertensão renovascular.",
+        "D": "Hipotireoidismo subclínico e doença de Cushing.",
+        "E": "Hiperplasia adrenal congênita e síndrome de Addison."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -661,13 +950,30 @@
         "B": "Espondilodiscite; ressonância de coluna; antibioticoterapia.",
         "C": "Síndrome de Guillain-Barre; punção lombar, imunoglobulina.",
         "D": "Mielite transversa; ressonância de coluna; metilprednisolona.",
-        "E": "Compressão medular de origem neoplásica; ressonância magnética de coluna; dexametasona. Paciente de 52 anos, sexo masculino, etilista (abstinente há 6 meses), está sem sintomas no momento e usa propranolol 10 mg 2 vezes ao dia. Apresenta INR 1,4, albumina 3,2 g/dl, endoscopia digestiva alta com varizes esofágicas de médio e grosso calibres sem sinais de cor vermelha. PA 120 x 70 mmHg. FC 88 bpm. Para esse caso, indique a melhor profilaxia primária de hemorragia digestiva alta. (A) Escleroterapia das varizes. (B) Ligadura elástica das varizes. (C) Aumentar a dose do propranolol. (D) Iniciar pantoprazol em dose plena. (E) Substituir o propranolol pelo carvedilol."
+        "E": "Compressão medular de origem neoplásica; ressonância magnética de coluna; dexametasona."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 57,
+      "discipline": null,
+      "statement": "Paciente de 52 anos, sexo masculino, etilista (abstinente há 6 meses), está sem sintomas no momento e usa propranolol 10 mg 2 vezes ao dia. Apresenta INR 1,4, albumina 3,2 g/dl, endoscopia digestiva alta com varizes esofágicas de médio e grosso calibres sem sinais de cor vermelha. PA 120 x 70 mmHg. FC 88 bpm. Para esse caso, indique a melhor profilaxia primária de hemorragia digestiva alta.",
+      "alternatives": {
+        "A": "Escleroterapia das varizes.",
+        "B": "Ligadura elástica das varizes.",
+        "C": "Aumentar a dose do propranolol.",
+        "D": "Iniciar pantoprazol em dose plena.",
+        "E": "Substituir o propranolol pelo carvedilol."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     },
     {
       "question_number": 58,
@@ -678,9 +984,26 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. A respeito da pancreatite aguda, assinale a afirmativa correta. (A) A presença de hipocalcemia é um preditor de bom prognóstico. (B) No uso do critério de Ranson, deve-se fazer uma avaliação na admissão e outra, após 24h. (C) Pancreatite aguda grave é caracterizada por disfunção orgânica, única ou múltipla, que persiste por mais de 48 horas. (D) Os critérios de Balthazar são usados na avaliação clínica e laboratorial para avaliar a gravidade da pancreatite, principalmente pela extensão da inflamação e presença de complicações. (E) O diagnóstico de pancreatite aguda requer a presença de pelo menos uma característica, tais como: dor abdominal, elevações nos níveis séricos de amilase ou lipase e exame de imagem compatível com pancreatite aguda."
+        "E": "I, II e III."
       },
       "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "A respeito da pancreatite aguda, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A presença de hipocalcemia é um preditor de bom prognóstico.",
+        "B": "No uso do critério de Ranson, deve-se fazer uma avaliação na admissão e outra, após 24h.",
+        "C": "Pancreatite aguda grave é caracterizada por disfunção orgânica, única ou múltipla, que persiste por mais de 48 horas.",
+        "D": "Os critérios de Balthazar são usados na avaliação clínica e laboratorial para avaliar a gravidade da pancreatite, principalmente pela extensão da inflamação e presença de complicações.",
+        "E": "O diagnóstico de pancreatite aguda requer a presença de pelo menos uma característica, tais como: dor abdominal, elevações nos níveis séricos de amilase ou lipase e exame de imagem compatível com pancreatite aguda."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -695,7 +1018,7 @@
         "B": "Pelos critérios de Child-Pugh, a paciente é Child",
         "C": "(C) A paciente não tem indicação de tratamento para o vírus da hepatite B.",
         "D": "A paciente deve realizar rastreamento para carcinoma hepatocelular (CHC).",
-        "E": "O transplante hepático está contraindicado pela infecção do vírus da hepatite B ativa. 1 Uma criança de 6 anos, sexo feminino, com diagnóstico confirmado de Atrofia Muscular Espinhal (AME), apresenta comprometimento motor grave e dependência ventilatória total. Desde o diagnóstico, a paciente não recebeu terapia específica disponível no Sistema Único de Saúde (SUS). Diante da ausência de atendimento especializado em sua região e da impossibilidade de aguardar nova avaliação, a família buscou atendimento médico particular, ocasião em que foi prescrita terapia genética de alto custo. A família ingressou com ação judicial requerendo o fornecimento imediato do medicamento. Considerando que o Ministério Público foi chamado a se manifestar tecnicamente sobre a demanda, redija um texto dissertativo respondendo aos seguintes itens: a) na condição de assessor médico do Ministério Público, elabore um parecer técnico indicando os aspectos clínicos e relacionados às políticas públicas de saúde que devem ser considerados na análise do pedido judicial; e b) analise a aplicação do princípio da equidade no SUS ao caso apresentado, considerando a condição clínica da paciente, a existência de terapias incorporadas ao sistema público de saúde e os critérios necessários para a tomada de decisão em saúde. Durante o expediente em uma unidade do Ministério Público do Estado do Espírito Santo, um servidor, masculino, 53 anos, hipertenso e diabético, procura atendimento médico por apresentar falta de ar e desconforto torácico não-ventilatório dependente, iniciado há cerca de 3 horas durante a atividade laboral. Na avaliação inicial, encontra-se hemodinamicamente estável, com saturação de 99% em ar ambiente. Realizou ECG de 12 derivações, que não evidenciou alterações significativas. Exame de sangue foi coletado pelo laboratório, porém, ainda não foi liberado. Após alguns minutos, evolui com piora súbita da dor torácica. Novo ECG evidencia supra desnivelamento do segmento ST em parede anterior. Considerando a situação descrita, responda aos itens a seguir elaborando um texto dissertativo. a. Considerando o quadro clínico inicial, indique a principal hipótese diagnóstica e o exame de sangue indicado para auxiliar sua confirmação. b. Diante da evolução do quadro compatível com supra desnivelamento do segmento ST, considerando o tratamento medicamentoso indicado para este paciente, cite três contraindicações absolutas sua utilização. c. Após a evolução para parada cardiorrespiratória e identificação de fibrilação ventricular no monitor, indique a principal medida terapêutica imediata a ser realizada. d. Caso o paciente não apresente retorno da circulação espontânea após as medidas iniciais de reanimação cardiopulmonar, cite duas medicações indicadas no atendimento da parada cardiorrespiratória (PCR) por fibrilação ventricular (FV). Realização"
+        "E": "O transplante hepático está contraindicado pela infecção do vírus da hepatite B ativa. Prova Discursiva 1 Uma criança de 6 anos, sexo feminino, com diagnóstico confirmado de Atrofia Muscular Espinhal (AME), apresenta comprometimento motor grave e dependência ventilatória total. Desde o diagnóstico, a paciente não recebeu terapia específica disponível no Sistema Único de Saúde (SUS). Diante da ausência de atendimento especializado em sua região e da impossibilidade de aguardar nova avaliação, a família buscou atendimento médico particular, ocasião em que foi prescrita terapia genética de alto custo. A família ingressou com ação judicial requerendo o fornecimento imediato do medicamento. Considerando que o Ministério Público foi chamado a se manifestar tecnicamente sobre a demanda, redija um texto dissertativo respondendo aos seguintes itens: a) na condição de assessor médico do Ministério Público, elabore um parecer técnico indicando os aspectos clínicos e relacionados às políticas públicas de saúde que devem ser considerados na análise do pedido judicial; e b) analise a aplicação do princípio da equidade no SUS ao caso apresentado, considerando a condição clínica da paciente, a existência de terapias incorporadas ao sistema público de saúde e os critérios necessários para a tomada de decisão em saúde. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 Durante o expediente em uma unidade do Ministério Público do Estado do Espírito Santo, um servidor, masculino, 53 anos, hipertenso e diabético, procura atendimento médico por apresentar falta de ar e desconforto torácico não-ventilatório dependente, iniciado há cerca de 3 horas durante a atividade laboral. Na avaliação inicial, encontra-se hemodinamicamente estável, com saturação de 99% em ar ambiente. Realizou ECG de 12 derivações, que não evidenciou alterações significativas. Exame de sangue foi coletado pelo laboratório, porém, ainda não foi liberado. Após alguns minutos, evolui com piora súbita da dor torácica. Novo ECG evidencia supra desnivelamento do segmento ST em parede anterior. Considerando a situação descrita, responda aos itens a seguir elaborando um texto dissertativo. a. Considerando o quadro clínico inicial, indique a principal hipótese diagnóstica e o exame de sangue indicado para auxiliar sua confirmação. b. Diante da evolução do quadro compatível com supra desnivelamento do segmento ST, considerando o tratamento medicamentoso indicado para este paciente, cite três contraindicações absolutas sua utilização. c. Após a evolução para parada cardiorrespiratória e identificação de fibrilação ventricular no monitor, indique a principal medida terapêutica imediata a ser realizada. d. Caso o paciente não apresente retorno da circulação espontânea após as medidas iniciais de reanimação cardiopulmonar, cite duas medicações indicadas no atendimento da parada cardiorrespiratória (PCR) por fibrilação ventricular (FV). 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
       "answer": "B",
       "annulled": false,

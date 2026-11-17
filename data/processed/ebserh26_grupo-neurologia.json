@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Empresa Brasileira de Serviços Hospitalares - EBSERH - Área Médica",
   "cargo_title": "Grupo - Neurologia",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Se tem problemas no pulmão, procure um pneumologista.",
         "C": "Se tem problemas no fígado, procure um dermatologista.",
         "D": "Se tem problemas nos ouvidos, procure um oncologista.",
-        "E": "Se tem problemas nos pés, procure um pediatra. Legislação EBSERH"
+        "E": "Se tem problemas nos pés, procure um pediatra."
       },
       "answer": "B",
       "annulled": false,
@@ -245,8 +245,25 @@
       "page_number": 5
     },
     {
-      "question_number": 16,
+      "question_number": 15,
       "discipline": null,
+      "statement": "Um empregado da Ebserh foi acusado de descumprir normas institucionais e de adotar conduta incompatível com as regras administrativas do Hospital Universitário. Para a apuração formal da conduta e garantia do contraditório e da ampla defesa, a administração decidiu instaurar procedimento disciplinar conforme as normas internas da empresa. Segundo a Norma Operacional de Controle Disciplinar da Ebserh, a apuração de infrações disciplinares pode ocorrer por meio de",
+      "alternatives": {
+        "A": "sindicância ou processo administrativo disciplinar.",
+        "B": "auditoria administrativa e decisão direta da diretoria.",
+        "C": "avaliação de desempenho extraordinária.",
+        "D": "procedimento sumário conduzido pela chefia imediata.",
+        "E": "análise exclusiva do Conselho Fiscal."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 16,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Considerando os fatores determinantes para a Reforma Sanitária Brasileira, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A crise do modelo previdenciário centralizado, associada à expansão da assistência privada, articulou-se à formulação de uma crítica baseada na medicina social e na análise histórico- estrutural da saúde. ( ) A Reforma Sanitária estruturou-se a partir da adoção da teoria funcionalista do Estado, orientada pela racionalização administrativa e pela busca de equilíbrio institucional no setor saúde. ( ) A abertura política da década de 1970, combinada à reorganização dos movimentos sociais, favoreceu a consolidação de um projeto que relacionava saúde, democracia e transformação das estruturas sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -263,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Tendo em vista os mecanismos institucionais de participação no âmbito do Sistema Único de Saúde, leia hipotética a situação a seguir. Camila participou, como representante dos profissionais de saúde, de uma instância colegiada municipal convocada para ocorrer naquele quadriênio. Durante o encontro, foi realizada avaliação ampla da situação de saúde do município, com apresentação de diagnósticos gerais e, ao final, foram propostas diretrizes para subsidiar a formulação da política de saúde nos anos subsequentes. De acordo com a descrição apresentada, a instância indicada na situação acima é o(a)",
       "alternatives": {
         "A": "Conselho Municipal de Saúde.",
@@ -280,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução RDC nº 36/2013, da ANVISA, institui ações para a promoção da segurança do paciente e apresenta conceitos relacionados à gestão de risco nos serviços de saúde. Considerando as definições estabelecidas na norma, um exemplo de evento adverso é a administração de medicamento",
       "alternatives": {
         "A": "em dose incorreta, resultando em insuficiência renal aguda no paciente internado.",
@@ -297,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com relação às características do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir. I. O sistema público de saúde instituído pela Constituição de 1988 rompeu com o modelo anterior restrito aos trabalhadores formais, passando a garantir acesso a toda a população. II. A organização do sistema, desde sua criação, passou a considerar as desigualdades sociais e regionais como critério para definição de prioridades na oferta de ações e serviços. III. A organização estabelecida a partir de 1988 definiu que toda decisão sobre políticas de saúde seria centralizada na esfera federal, de modo a garantir uniformidade administrativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -314,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução CNS nº 553/2017 estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, dispondo sobre responsabilidades individuais no âmbito do cuidado. Assinale a opção que apresenta uma violação dos deveres da pessoa usuária.",
       "alternatives": {
         "A": "Solicitar substituição do profissional responsável durante atendimento hospitalar regular.",
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Em um hospital geral de médio porte, foi identificado que um paciente recebeu dose duplicada de um anticoagulante após falha na comunicação durante a troca de plantão. O erro foi percebido horas depois, sem ocorrência de dano grave. A direção da instituição solicita que o Núcleo de Segurança do Paciente proponha medidas imediatas. Com base no Programa Nacional de Segurança do Paciente (PNSP), o encaminhamento prioritário deve ser",
       "alternatives": {
         "A": "formalizar advertência ao profissional envolvido e reforçar, em reunião de equipe, a necessidade de atenção redobrada na etapa de administração.",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Decreto nº 7.508/2011 define conceitos relativos à organização do Sistema Único de Saúde (SUS), considerando a articulação interfederativa e a regionalização das ações e serviços. Assinale a opção que descreve corretamente uma Região de Saúde.",
       "alternatives": {
         "A": "Conjunto de serviços municipais organizado para integrar ações assistenciais e planejamento sanitário local.",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A NOB/RH-SUS prevê que a gestão do trabalho no SUS deve obedecer ao princípio da participação bilateral. Assinale a opção que descreve corretamente esse princípio.",
       "alternatives": {
         "A": "Pactuação conjunta de diretrizes sobre carreira e condições laborais.",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Sistema Único de Saúde (SUS) é estruturado constitucionalmente por um conjunto de princípios e diretrizes que orientam sua organização, seu funcionamento e sua oferta de ações e serviços. Assinale a opção que apresenta uma ação incompatível com as diretrizes do SUS.",
       "alternatives": {
         "A": "Implantação de central de regulação regional para organizar o acesso a consultas e exames entre municípios de uma mesma região de saúde.",
@@ -399,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Durante atendimento em Unidade Básica de Saúde, um homem transexual solicitou encaminhamento para mastectomia. O profissional informou que o procedimento não poderia ser ofertado pelo SUS, pois se trataria de demanda estética não relacionada à saúde. A atitude do profissional de saúde está",
       "alternatives": {
         "A": "inadequada, pois a decisão sobre cirurgias depende exclusivamente de autorização prévia estadual.",
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com base no Código de Ética Médica (Resolução CFM nº 2.217/2018), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O médico pode recusar-se a exercer a profissão em instituição pública ou privada quando as condições de trabalho não forem dignas, devendo comunicar formalmente sua decisão ao Conselho Regional competente. ( ) É vedado ao médico divulgar, fora do meio científico, método terapêutico ainda não reconhecido por órgão competente, ainda que a divulgação tenha finalidade apenas educativa. ( ) O médico deve empregar todos os recursos diagnósticos e terapêuticos disponíveis nas situações clínicas irreversíveis, ainda que tais medidas não garantam benefício proporcional ao paciente. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Bioética parte do pressuposto de que nem tudo o que é cientificamente possível é também eticamente aceitável, exigindo que os avanços técnicos sejam avaliados quanto ao respeito à dignidade da pessoa humana. Assinale a opção que exemplifica uma ação cientificamente possível, porém eticamente inaceitável.",
       "alternatives": {
         "A": "Oferta de tratamento capaz de restaurar completamente funções orgânicas perdidas, ainda que inexistam recursos técnicos para a intervenção.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Política Nacional de Saúde Integral da População Negra estabelece diretrizes voltadas ao combate contra o racismo institucional e à redução das desigualdades étnico-raciais no âmbito do SUS. Assinale a opção que apresenta uma medida adequada à referida política.",
       "alternatives": {
         "A": "Implementação de metas específicas para redução de desigualdades étnico-raciais em saúde.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Os Determinantes Sociais da Saúde (DSS) referem-se a um conjunto de condições que influenciam diretamente a distribuição das doenças e dos fatores de risco na população. Assinale a opção que exemplifica corretamente um DSS.",
       "alternatives": {
         "A": "Elevada prevalência de hipertensão arterial associada ao envelhecimento progressivo da população brasileira.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Avalie se as diretrizes do HumanizaSUS incluem: I. implantação de modelo decisório que concentra na chefia a prerrogativa de alterar rotinas, com o objetivo de garantir maior eficiência no atendimento ao público; II. instituição de espaços regulares de deliberação coletiva para discutir impasses do cotidiano e redefinir responsabilidades entre trabalhadores, gestores e usuários; III. reorganização do acesso com redefinição dos critérios de entrada no serviço, priorizando necessidades avaliadas no momento do atendimento. É compatível com o escopo do HumanizaSUS o que se indica em",
       "alternatives": {
         "A": "II e III, apenas.",
         "B": "I, II e III.",
         "C": "I e III, apenas.",
         "D": "II, apenas.",
-        "E": "I e II, apenas. CONHECIMENTOS ESPECÍFICOS"
+        "E": "I e II, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O circuito de Papez está relacionado principalmente aos mecanismos de memória e emoção. A sequência anatômica clássica desse circuito é:",
       "alternatives": {
         "A": "hipocampo – corpo mamilar – tálamo anterior – córtex cingulado – hipocampo.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Na via simpática responsável pela dilatação pupilar, a sequência anatômica, desde sua origem central até a musculatura efetora, é:",
       "alternatives": {
         "A": "núcleo hipotalâmico posterior, feixe periaquedutal descendente, núcleo parabraquial, coluna intermédio-lateral, gânglio cervical médio, raiz maxilar do nervo trigêmeo, nervos ciliares curtos e músculo dilatador da pupila.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 62 anos é admitido no pronto-socorro em coma, após início súbito de déficit neurológico. Ao exame neurológico, observa-se hemiplegia direita e desvio conjugado do olhar para a esquerda, sem resposta à manobra oculocefálica. As pupilas são isocóricas e fotorreagentes. Não há sinais de descerebração. Com base exclusivamente na semiologia neurológica, assinale a alternativa que melhor localiza a lesão.",
       "alternatives": {
         "A": "Lesão do hemisfério cerebelar esquerdo envolvendo o núcleo denteado.",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 34 anos sofre traumatismo torácico fechado após queda de altura. O exame neurológico, realizado nas primeiras horas após o trauma, evidencia lesão medular ao nível de D10, com preservação do nível de consciência e choque medular em curso. Com base na semiologia neurológica esperada na fase aguda, os achados de uma síndrome de Brown-Séquard direita ao nível de D10 são",
       "alternatives": {
         "A": "paralisia flácida bilateral abaixo de D10, com perda bilateral da propriocepção, da sensibilidade vibratória e da dor e temperatura.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 34 anos apresenta história de crises epilépticas focais desde a adolescência, caracterizadas por aura epigástrica ascendente, sensação de déjà vu, seguida de comprometimento da consciência e automatismos oro alimentares. A ressonância magnética de encéfalo demonstra atrofia e hipersinal em T2/FLAIR no hipocampo direito, associados à perda da arquitetura interna. O EEG interictal mostra descargas epileptiformes temporais direitas. Considerando o diagnóstico e a possibilidade de tratamento cirúrgico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A cirurgia é uma opção terapêutica eficaz em pacientes fármaco resistentes.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de setenta e quatro anos apresenta quadro progressivo, há cerca de dois anos, caracterizado por distúrbio da marcha com dificuldade de iniciação e passos curtos, associado a declínio cognitivo de padrão subcortical e urgência urinária. A ressonância magnética de encéfalo evidencia ventriculomegalia desproporcional ao grau de atrofia cortical, com preservação relativa dos sulcos da convexidade. A punção lombar revela pressão de abertura de 160 mmH₂O. Com relação a esse tipo de hidrocefalia, assinale a afirmativa correta quanto ao tratamento:",
       "alternatives": {
         "A": "A pressão de abertura de 160 mmH₂O contraindica a derivação ventricular.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um paciente de sessenta e nove anos, com doença de Parkinson há doze anos, em uso contínuo de levodopa associada a inibidor da dopa-descarboxilase, passa a apresentar flutuações motoras com piora previsível antes da próxima dose, além de fases de movimentos involuntários coreodistônicos em períodos de melhor mobilidade, e redução progressiva da duração do efeito de cada tomada. Considerando os fenômenos clínicos do uso prolongado de levodopa e a conduta terapêutica na fase avançada, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro sugere wearing-off sem discinesias; a conduta indicada é suspender levodopa, manter apenas inibidor da COMT e iniciar amantadina, reservando estimulação cerebral profunda para fases iniciais.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um paciente de sessenta e cinco anos apresenta síndrome parkinsoniana de início há três anos, com rigidez axial predominante, instabilidade postural precoce e quedas frequentes desde o primeiro ano de evolução, além de resposta mínima à levodopa. Evoluiu com lentificação cognitiva, disartria, disfagia e dificuldade progressiva para movimentos oculares voluntários. A ressonância magnética de encéfalo demonstra atrofia do mesencéfalo, com preservação relativa da ponte. Considerando os achados clínicos e radiológicos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro é compatível com doença de Parkinson idiopática, sendo esperada boa resposta à levodopa e preservação dos movimentos oculares.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 62 anos, previamente hígido, apresenta cefaleia progressiva há um mês, evoluindo com crise convulsiva generalizada, alteração comportamental e hemiparesia direita. A ressonância magnética de encéfalo evidencia lesão expansiva frontotemporal esquerda, heterogênea, com realce anelar irregular após contraste, extensa área de edema vasogênico, efeito de massa e áreas centrais sugestivas de necrose. Considerando o quadro clínico e os achados de imagem, foi aventada a hipótese de tumor cerebral primário de alto grau. Após ressecção cirúrgica, o diagnóstico foi confirmado pela histopatologia. Com base nos biomarcadores moleculares relevantes e no tratamento atualmente recomendado, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A presença de mutação IDH1 indica melhor prognóstico e permite tratamento exclusivo com inibidor de IDH, dispensando radioterapia e quimioterapia.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de setenta anos, hipertenso e diabético, é internado após acidente vascular cerebral isquêmico extenso. Evolui com pneumonia aspirativa, insuficiência respiratória aguda e, após dez dias de internação em unidade de terapia intensiva, vai a óbito. Considerando o preenchimento correto da declaração de óbito, a causa básica do óbito foi",
       "alternatives": {
         "A": "parada cardiorrespiratória.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de vinte e quatro anos relata sonolência excessiva diurna há vários anos, com episódios súbitos e irresistíveis de sono durante atividades cotidianas. Refere ainda fraqueza muscular súbita desencadeada por emoções, como riso, além de alucinações visuais ao adormecer. O exame neurológico intercrítico é normal. Considerando o diagnóstico de distúrbio do sono, é correto afirmar que",
       "alternatives": {
         "A": "o quadro é sugestivo de narcolepsia tipo 1, sendo a sonolência diurna excessiva confirmada por teste de latências múltiplas do sono e redução de hipocretina no líquor.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 72 anos é admitida em hospital público com início súbito de hemiparesia direita e afasia há 3 horas. Antecedentes: fibrilação atrial em uso regular de apixabana (última dose há 10 horas), hipertensão arterial e diabetes. Exame neurológico: NIHSS = 13. PA = 176 x 98 mmHg. Glicemia = 140 mg/dL. TC de crânio sem hemorragia. ASPECTS = 8. Plaquetas = 135.000/mm³. INR = 1,0. Creatinina normal. O hospital dispõe de alteplase, mas não de teste específico para atividade anti-Xa. Considerando as recomendações internacionais e do Ministério da Saúde do Brasil, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A trombólise com alteplase está indicada, pois o INR está normal e o ASPECTS é favorável.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 21 anos, previamente hígida, inicia quadro de crises epiléticas generalizadas e instala-se estado de mal epiléptico tratado de forma eficaz no CTI. Seguiram-se alteração comportamental, ansiedade intensa, insônia e episódios psicóticos. Após duas semanas, evolui com discinesias orofaciais, flutuação do nível de consciência e instabilidade autonômica. A ressonância magnética de encéfalo realizada neste momento é normal. O líquor evidencia pleocitose linfocitária discreta com bandas oligoclonais ausentes e sem evidência de infecção. Considerando o quadro clínico e a suspeita diagnóstica, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro é compatível com encefalite por herpes vírus mesmo na ausência de alterações na ressonância magnética.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 28 anos sofre acidente automobilístico de alta energia, com mecanismo de aceleração–desaceleração. Dá entrada no pronto-socorro em coma, com pupilas isocóricas e fotorreagentes. A tomografia computadorizada de crânio realizada na admissão não evidencia lesões expansivas intracranianas. Diante da evolução clínica com coma prolongado, é solicitada ressonância magnética de encéfalo. Os achados de neuroimagem mais característicos desse quadro incluem",
       "alternatives": {
         "A": "lesões corticais extensas com hipersinal em T2/FLAIR restritas aos territórios arteriais, compatíveis com infartos isquêmicos múltiplos.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma criança de 8 anos apresenta quadro agudo de neurite óptica bilateral, com dor ocular, redução importante da acuidade visual e papilite bilateral ao exame fundoscópico. A ressonância magnética inicial evidencia alterações inflamatórias compatíveis com desmielinização. O quadro evolui com melhora clínica significativa após pulsoterapia com metilprednisolona. Seis meses após, a criança apresenta novo episódio neurológico caracterizado por encefalopatia aguda, crises epilépticas e déficits focais. A ressonância magnética de encéfalo demonstra lesões corticais hiperintensas em FLAIR, predominantemente unilaterais, sem acometimento periventricular. Com base no quadro clínico evolutivo e nos achados de neuroimagem, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro é compatível com esclerose múltipla pediátrica, caracterizada por neurite óptica bilateral com papilite e manifestações encefálicas corticais recorrentes.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 35 anos apresenta episódios recorrentes de mielite extensa e neurite óptica grave, com recuperação incompleta. A ressonância magnética da medula evidencia lesões longitudinais extensas envolvendo três ou mais segmentos vertebrais. A sorologia para AQP4-IgG é negativa em amostras repetidas avaliadas pelo método de ELISA e a pesquisa de anticorpos anti-MOG também é negativa. Considerando os critérios diagnósticos atuais para o espectro da neuromielite óptica (NMOSD), assinale a afirmativa correta.",
       "alternatives": {
         "A": "O diagnóstico de NMOSD AQP4-IgG negativo exige pelo menos dois critérios clínicos centrais, e disseminação espacial das lesões.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 26 anos apresenta episódio neurológico agudo caracterizado por parestesia e perda de força em membro inferior esquerdo, com duração superior a 48 horas e recuperação parcial após pulsoterapia com corticosteroide. Não há história prévia de eventos neurológicos. O quadro é classificado como síndrome clínica isolada. A ressonância magnética de encéfalo evidencia múltiplas lesões hiperintensas em T2/FLAIR localizadas em regiões periventriculares, corticais/juxtacorticais e infratentoriais, algumas com orientação perpendicular aos ventrículos. Não há realce por gadolínio. A ressonância magnética da medula espinhal evidencia duas pequenas lesões cervicais em T2/FLAIR. O exame do líquor é normal, sem bandas oligoclonais de IgG. Não há melhor explicação diagnóstica alternativa. Com base nos critérios diagnósticos atualizados para esclerose múltipla (McDonald 2024), assinale a afirmativa correta.",
       "alternatives": {
         "A": "Trata-se de síndrome clínica isolada porque a RM não demonstra disseminação no tempo e o LCR é normal.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 47 anos é admitida com quadro agudo de febre, alteração do comportamento, crises epilépticas focais e rebaixamento do nível de consciência. A ressonância magnética de encéfalo evidencia lesões hiperintensas em T2/FLAIR nos lobos temporais, com discreto efeito de massa. A punção lombar revela pleocitose linfocitária e proteínas elevadas. Considerando a hipótese mais provável e o tratamento adequado, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O tratamento deve ser iniciado apenas após confirmação por PCR do líquor, uma vez que o antiviral apresenta elevada toxicidade.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 48 anos apresenta quadro subagudo de fraqueza muscular proximal, com dificuldade para subir escadas e elevar os braços. Refere dispneia progressiva aos esforços, artralgias e fenômeno de Raynaud. Ao exame físico, observam-se fraqueza proximal simétrica, crepitações bibasais à ausculta pulmonar e hiperqueratose fissurada nas polpas digitais. Não há rash cutâneo. Os exames laboratoriais revelam elevação de creatinoquinase. A tomografia computadorizada de tórax mostra doença pulmonar intersticial. A eletroneuromiografia é compatível com miopatia difusa. Com base no quadro clínico descrito, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro é compatível com polimiosite clássica, na qual manifestações pulmonares intersticiais são incomuns e não fazem parte do espectro da doença.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 56 anos, hipertenso de longa data e em uso irregular de anti-hipertensivos, apresenta início súbito de hemiparesia direita, associada a rebaixamento do nível de consciência. À admissão, encontra-se sonolento, com sinais de liberação piramidal à direita. A tomografia computadorizada de crânio sem contraste evidencia área hiperdensa profunda no hemisfério cerebral esquerdo, envolvendo a região dos núcleos da base, com discreto efeito de massa, sem extensão intraventricular no exame inicial. Com base nos dados clínicos e tomográficos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Trata-se de um AVC hemorrágico intraparenquimatoso profundo, com síndrome motora contralateral e tomografia compatível.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 54 anos é admitido na emergência com quadro agudo de febre alta, cefaleia intensa, rigidez de nuca e rebaixamento do nível de consciência, com início há cerca de 12 horas. Ao exame neurológico, encontra-se confuso, com sinais meníngeos evidentes. Não há déficit focal evidente no momento. Após exclusão de contraindicações, é realizada punção lombar. O líquor apresenta: aspecto turvo, pleocitose com predomínio de neutrófilos, proteínas elevadas, glicose reduzida em relação à glicemia, bacterioscopia com diplococos gram-positivos. Considerando o quadro clínico e os achados do líquor, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O líquor é compatível com meningite viral, e o tratamento indicado é suporte clínico e antiviral específico.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 28 anos procura oftalmologista porque, há cerca de duas semanas, tem notado dificuldade de enxergar. Relata que vem apresentando dores de cabeça diariamente, mas não procurou médico porque tem cefaleia desde a adolescência. O exame oftalmológico confirma o déficit visual (20/100 em ambos os olhos) e demonstra papiledema bilateral. O exame neurológico revela também paralisia bilateral da abdução do olhar. A ressonância magnética de encéfalo é normal quanto ao parênquima, sem lesões expansivas ou hidrocefalia. A angio ressonância venosa exclui trombose de seios venosos. A punção lombar evidencia pressão de abertura de 35 cm H20 com composição do líquor normal. Considerando o diagnóstico, a conduta terapêutica é tratamento com",
       "alternatives": {
         "A": "acetazolamida e fenestração da bainha do nervo óptico.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 41 anos procura atendimento por quadro subagudo iniciado há cinco dias, caracterizado por diplopia, instabilidade à marcha e parestesias leves em extremidades. Ao exame neurológico, observa-se oftalmoplegia bilateral, ataxia de marcha e arreflexia difusa, sem déficit motor significativo em membros. Nega febre atual, mas refere episódio de infecção respiratória alta duas semanas antes. Considerando o quadro clínico descrito, assinale a afirmativa correta quanto ao marcador biológico e ao tratamento.",
       "alternatives": {
         "A": "O marcador mais frequentemente associado é o anticorpo anti-AQP4, sendo o tratamento de escolha a corticoterapia em altas doses.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 52 anos apresenta quadro progressivo de polineuropatia sensitivo-motora distal, com predomínio em membros inferiores, associado a dor neuropática, disautonomia (hipotensão ortostática, diarreia alternada com constipação) e perda ponderal. Relata história familiar semelhante em um irmão mais velho. Ao exame neurológico, observa-se hipoestesia distal em “luva e bota”, fraqueza distal e arreflexia aquileia. O ecocardiograma evidencia espessamento ventricular com função sistólica preservada. Considerando o diagnóstico mais provável e o tratamento atual, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro é compatível com Doença de Charcot-Marie-Tooth tipo 1, sendo o tratamento com agentes de silenciamento gênico.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 60 anos, em seguimento ambulatorial por diferentes condições clínicas, passa a apresentar quadro progressivo de parestesias distais em “luva e bota”, que evoluem para dor neuropática e dificuldade para marcha. Ao exame neurológico, observa-se hipoestesia distal simétrica, redução dos reflexos aquileus e leve fraqueza distal em membros inferiores. Não há história de etilismo. Na revisão medicamentosa, o paciente faz uso dos seguintes fármacos: isoniazida, amiodarona, metformina, gabapentina, amitriptilina e estatina. Considerando a etiologia iatrogênica da polineuropatia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Nenhum dos fármacos listados está associado ao desenvolvimento de polineuropatia periférica.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 35 anos sofre traumatismo cranioencefálico grave após acidente automobilístico. Dá entrada no hospital em coma profundo (ECG = 3), sendo submetido à intubação orotraqueal e medidas de suporte avançado. A tomografia computadorizada de crânio evidencia edema cerebral difuso com sinais de hipertensão intracraniana. Após 48 horas de internação em UTI, o paciente mantém-se em coma irresponsivo, sem uso de sedativos, com estabilidade hemodinâmica. Ao exame neurológico, observa-se: ausência de resposta motora supraespinhal, pupilas fixas, ausência de reflexos córneo-palpebral, oculocefálico e oculovestibular e ausência de reflexo de tosse. Considerando o diagnóstico de morte encefálica, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O diagnóstico de morte encefálica pode ser estabelecido apenas com base em exame de neuroimagem, independentemente do exame clínico.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 62 anos, portadora de miastenia gravis generalizada, é internada em UTI por insuficiência respiratória aguda, com necessidade de ventilação mecânica. Faz uso de piridostigmina e azatioprina. Ao exame clínico, observa-se fraqueza muscular generalizada associada a hipersecreção brônquica, broncoespasmo, miose, diarreia e fasciculações. Considerando o diagnóstico diferencial entre crise miastênica e crise colinérgica, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A presença de insuficiência respiratória indica tratar-se de crise miastênica.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma paciente de 38 anos apresenta miastenia gravis generalizada, com predomínio bulbar, refratária ao tratamento convencional. A pesquisa de anticorpos contra o receptor de acetilcolina é negativa, e o teste sorológico confirma anticorpos anti-MuSK positivos. Em relação a esse caso, é correto afirmar que",
       "alternatives": {
         "A": "eculizumabe e ravulizumabe, ambos inibidores do complemento, são aprovados para miastenia gravis anti-MuSK positiva.",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 70 anos apresenta início súbito de parestesias no hemicorpo direito, seguidas de hipoestesia global contralateral envolvendo face, braço e perna. Evolui, nas semanas subsequentes, com dor intensa em queimação no mesmo hemicorpo, desproporcional aos estímulos, associada a alodinia ao toque e hiperalgesia térmica. Ao exame neurológico, observa-se ataxia sensitiva contralateral e movimentos involuntários no mesmo hemicorpo, de aparecimento secundário ao evento vascular. Não há déficit motor significativo. Considerando a topografia vascular, os mecanismos fisiopatológicos e o diagnóstico diferencial com isquemia do núcleo subtalâmico de Luys, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro é mais compatível com isquemia do núcleo subtalâmico de Luys, uma vez que os movimentos involuntários constituem a principal manifestação clínica desse território.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma mulher de 68 anos apresenta queixa de esquecimento progressivo há cerca de 18 meses, mantendo independência funcional para atividades básicas. A avaliação neuropsicológica é compatível com comprometimento cognitivo leve de padrão amnéstico. A ressonância magnética de encéfalo mostra atrofia hipocampal discreta. Considerando os critérios atuais para diagnóstico precoce da Doença de Alzheimer e a indicação de tratamento com anticorpos monoclonais (AM), assinale a afirmativa correta.",
       "alternatives": {
         "A": "O diagnóstico etiológico pode ser estabelecido pelo quadro clínico e ressonância magnética, sendo desnecessária a avaliação de biomarcadores para indicação de AM.",

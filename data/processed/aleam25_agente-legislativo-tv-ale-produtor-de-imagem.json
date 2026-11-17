@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Assembleia Legislativa do Estado do Amazonas – ALE-AM",
   "cargo_title": "Agente Legislativo - TV ALE - Produtor de Imagem",
   "exam_type": "Tipo 1",
-  "total_questions": 58,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "“Podia ser um simples descargo de consciência, uma cerimônia, como as rezas de obrigação, sem devoção, que se dizem de tropel;” / modo",
         "C": "“Uma noite destas, vindo da cidade para o Engenho Novo, encontrei no trem da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu.” / assunto",
         "D": "“A gravata de cetim preto, com um arco de aço por dentro, imobilizava-lhe o pescoço; era então moda.” / natureza, condição",
-        "E": "“Cumprimentou-me, sentou-se ao pé de mim, falou da Lua e dos ministros, e acabou recitando-me versos.” / causa Raciocínio Lógico e Matemático"
+        "E": "“Cumprimentou-me, sentou-se ao pé de mim, falou da Lua e dos ministros, e acabou recitando-me versos.” / causa"
       },
       "answer": "B",
       "annulled": false,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere o conjunto {2, 4, 6, 8, 10, 12} e o seguinte procedimento, composto de 3 etapas em sequência: • Escolha 3 números diferentes desse conjunto; • Some 2 quaisquer desses 3 números; • Multiplique a soma obtida pelo 3º número. O menor resultado possível de ser obtido com esse procedimento é igual a",
       "alternatives": {
         "A": "18.",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 2025, os organizadores de um evento chamado Limpeza das Praias reuniu 400 colaboradores. Os organizadores esperam que em 2026, 2027 e 2028 o número de colaboradores cresça 50% a cada ano em relação ao ano anterior. Em 2028, o número de colaboradores esperado pelos organizadores será igual a",
       "alternatives": {
         "A": "1000.",
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Cinco pessoas, com nomes diferentes, formam uma fila de forma aleatória. A probabilidade de que, do primeiro ao quinto da fila, os nomes estejam em ordem alfabética é igual a",
       "alternatives": {
         "A": "1/2.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em cada um dos 64 quadradinhos de um tabuleiro de xadrez é colocado um dos 64 primeiros números ímpares (1, 3, 5, 7, ...). Os 8 primeiros números ímpares são colocados em ordem na primeira linha, os 8 seguintes em ordem na segunda linha e assim por diante. A soma dos 4 números que ficaram nos 4 cantos do tabuleiro equivale a",
       "alternatives": {
         "A": "252.",
@@ -246,14 +246,14 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere o conjunto {17, 27, 36, 48, 64, 75}. O número de subconjuntos com 3 elementos diferentes do conjunto dado tais que a soma dos 3 elementos seja par é:",
       "alternatives": {
         "A": "6.",
         "B": "8.",
         "C": "9.",
         "D": "10.",
-        "E": "18. Noções de Informática"
+        "E": "18."
       },
       "answer": "D",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um usuário precisa inserir uma tabela do MS Excel 365 (BR) em um documento do MS Word 365 (BR), mantendo uma conexão dinâmica (vinculação) entre os arquivos, de modo que as alterações realizadas feitas no arquivo de origem (.XLSX) sejam refletidas automaticamente no documento de destino (.DOCX) quando este for aberto. Para realizar essa tarefa de forma correta, o usuário deve",
       "alternatives": {
         "A": "copiar a tabela no Excel e, no Word, usar o comando “Colar Especial”, selecionando a opção “Objeto da Planilha do Microsoft Excel” e marcar a caixa de seleção “Colar Link”.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Com relação às funcionalidades do MS Excel 365 (BR), avalie as afirmativas a seguir. I. A função =SOMA(A1:A10) irá resultar em um erro #VALOR! se o intervalo A1:A10 contiver quaisquer células com texto. II. A aplicação de um Filtro Automático a um intervalo de dados permite ocultar linhas que não atendam aos critérios especificados, sem excluí-las. III. A proteção de uma planilha (Proteger Planilha) e a proteção da pasta de trabalho (Proteger Estrutura da Pasta) são ações distintas, sendo a primeira voltada para restringir a edição de células e a segunda para impedir a inserção, exclusão ou renomeação de planilhas. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Sobre os conceitos de segurança na Internet, avalie as afirmativas a seguir. I. Tokens de segurança, que podem ser dispositivos físicos ou aplicativos, geram senhas de uso único (OTP) e constituem um fator de autenticação de posse. II. Senhas consideradas fortes são caracterizadas, obrigatoriamente, pela inclusão de caracteres especiais (ex: @, #, $) e pela impossibilidade de serem compostas por palavras encontradas em dicionários. III. A criptografia garante a confidencialidade dos dados, transformando-os em um formato ilegível para quem não possui a chave de descriptografia. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um analista legislativo está finalizando a minuta de um projeto de lei no MS Word 365 (BR). Ele precisa enviar o documento para um parecer jurídico, permitindo que o jurista sugira alterações, mas sem que este possa aceitar ou rejeitar as revisões automaticamente, nem modificar o texto original diretamente. Além disso, o documento final deve ser protegido contra a remoção acidental do controle de alterações. Assim, a sequência de ações mais adequada para atender a essa necessidade é habilitar",
       "alternatives": {
         "A": "“Controlar Alterações” na guia Revisão e, em seguida, em “Restringir Edição”, marcar a opção “Aplicar apenas este tipo de edição no documento” e selecionar “Marcações”.",
@@ -331,14 +331,14 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um servidor público da ALE-AM, está organizando o acervo digital de uma comissão parlamentar. Ele precisa selecionar os formatos de arquivo mais adequados para diferentes finalidades. Considerando as características técnicas de cada padrão, avalie os tipos de formato de arquivos que o servidor deve organizar. • Documento oficial que deve ser distribuído internamente e externamente, mantendo formatação idêntica em qualquer dispositivo, sem permitir alterações não autorizadas. • Planilha de custos que requer fórmulas complexas, formatação condicional e possibilidade de edição colaborativa em tempo real. • Imagem do brasão institucional para uso no site oficial, necessitando de fundo transparente e alta definição em diferentes tamanhos. • Gravação audiovisual de uma sessão solene que será armazenada e transmitida online, equilibrando qualidade visual e tamanho de arquivo. • Arquivo de áudio de uma entrevista para arquivamento permanente, onde a qualidade original deve ser preservada integralmente. Os tipos de arquivos apresentados são corretamente identificados, respectivamente, pelas seguintes extensões:",
       "alternatives": {
         "A": "DOCX, XLSX, JPEG, MP4 e WAV.",
         "B": "PDF, XLSX, PNG, MP4 e FLAC.",
         "C": "PDF, CSV, GIF, AVI e MP3.",
         "D": "TXT, XLSX, BMP, MOV e WMA.",
-        "E": "PDF, ODS, SVG, WMV e AAC. História e Geografia do Amazonas"
+        "E": "PDF, ODS, SVG, WMV e AAC."
       },
       "answer": "B",
       "annulled": false,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Leia o trecho a seguir. Os etnoarqueólogos buscam criar uma parceria com as populações locais atuais para responder a problemas da história antiga. Para a sua investigação, o pesquisador coletou dados através de entrevistas com anciões de aldeias amazônicas que reproduzem práticas muito parecidas com as das antigas populações da região, como o uso de terra preta de índio. As semelhanças entre terras pretas antigas e modernas vão dos locais em que são usadas em relação às habitações até a composição química. Adaptado de Conterno, Ivan. “Adubo pré-histórico foi planejado por indígenas da Amazônia no passado”, Jornal da USP, 11/10/2023. Com base na leitura do trecho, assinale a afirmativa que descreve corretamente a terra preta de índio.",
       "alternatives": {
         "A": "Solo com camadas escuras na parte superficial, formadas por mudanças químicas causadas pela ação humana, mas sem vestígios de objetos ou materiais.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Assinale a afirmativa que apresenta corretamente uma consequência da criação da província do Amazonas em 1850.",
       "alternatives": {
         "A": "Estabeleceu sua total autonomia política perante o Estado brasileiro, fortalecendo o desenvolvimento econômico da região produtora e exportadora de madeira.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "O estado do Amazonas apresenta uma rica diversidade de patrimônios históricos, artísticos e culturais que refletem sua formação plural. Manaus se destaca com construções emblemáticas que coexistem com manifestações culturais contemporâneas, como festas e eventos artísticos. Essa multiplicidade de heranças faz do Amazonas um espaço de encontro entre natureza, história e cultura, essencial para compreender a trajetória e a riqueza cultural da região amazônica. Assinale a afirmativa que apresenta corretamente um patrimônio tombado do Amazonas.",
       "alternatives": {
         "A": "Cerimônia da Kamélia – patrimônio imaterial protegido por representar o encerramento das festividades de carnaval na capital do estado.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "O Amazonas registrou um crescimento populacional significativo desde 2010. Segundo a Estimativa da População Residente do IBGE de julho de 2024, o estado conta agora com aproximadamente 4,28 milhões de habitantes, representando um acréscimo de cerca de 340 mil em relação ao Censo de 2022. Com base nos dados relativos ao crescimento populacional do estado, é correto afirmar que esse processo",
       "alternatives": {
         "A": "decorre da migração interna motivada pela oferta de empregos e pela expansão urbana da capital, que atrai população de outras regiões do país.",
@@ -416,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Analise as afirmativas a seguir sobre as mesorregiões do Amazonas, assinale (V) para as verdadeiras e (F) para as falsas. ( ) A Mesorregião Norte do Amazonas caracteriza-se por atividades extrativistas e significativa presença de comunidades indígenas, que mantém práticas de subsistência. ( ) A Mesorregião Centro Amazonense apresenta alta densidade populacional e concentração de núcleos urbanos e processo de industrialização. ( ) A Mesorregião Sul Amazonense é marcada por extensas áreas de floresta, baixo adensamento populacional e predominância de atividades agrícolas e pecuárias. A sequência correta, segundo a ordem apresentada, é:",
       "alternatives": {
         "A": "V – V – F.",
         "B": "V – F – V.",
         "C": "F – F – V.",
         "D": "F – V – F.",
-        "E": "V – V – V. Legislação do Estado do Amazonas"
+        "E": "V – V – V."
       },
       "answer": "E",
       "annulled": false,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em relação ao ato da transferência, de acordo com a Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, avalie se as afirmativas a seguir estão corretas: I. Transferência é o ato pelo qual o funcionário estável passa de um cargo para outro, de quadro diverso, ambos de provimento efetivo. II. A transferência ocorrerá a pedido do funcionário ou \"ex- officio\", atendidos, sempre, a conveniência do serviço e os requisitos necessários ao provimento do cargo. III. A transferência será feita para cargo de mesmo padrão de vencimento ou de igual remuneração, ressalvados os casos de transferência a pedido, quando o vencimento ou a remuneração poderá ser inferior. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 250 da Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, ao funcionário são proibidas, entre outras, as seguintes ações, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Referir-se de modo depreciativo ou desrespeitoso em informação, parecer ou despacho, às autoridades e a atos da Administração Pública, sendo vedado, ainda, criticá-los do ponto de vista doutrinário ou da organização do serviço em trabalho assinado.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 36 da Resolução Legislativa nº 469/2010 – Regimento Interno da Assembleia Legislativa do Estado do Amazonas, o opinativo escrito por um relator e submetido à deliberação de Comissão, devendo concluir pela aprovação ou rejeição de matéria a ela sujeita é denominado",
       "alternatives": {
         "A": "relatório.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 50 da Resolução Legislativa nº 469/2010 – Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as Comissões Temporárias são: I. especiais. II. de inquérito. III. de representação externa. IV. representativa. Estão corretos os itens",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com base na Resolução Legislativa nº 469/2010 –Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as seguintes afirmativas a respeito das Lideranças Partidárias, do Colégio de Líderes e dos Blocos Parlamentares são verdadeiras (V) ou falsas (F). ( ) Os Deputados são agrupados por partidos, blocos ou bancadas, cabendo-lhes escolher um líder, que funciona como porta-voz ou interlocutor perante os órgãos da Assembleia. ( ) Cada grupamento parlamentar poderá ter até dois vice- líderes, conforme o número de Deputados, os quais terão os mesmos direitos, vantagens e prerrogativas do líder, salvo quanto ao Chefe de Gabinete de Liderança. ( ) As escolhas e alterações dos grupos e das respectivas lideranças são comunicadas imediatamente à Mesa, devendo ocorrer a primeira indicação, logo após o início da sessão legislativa. Não havendo indicação, o Presidente pode declarar líder provisório o Deputado mais idoso da representação ( ) O chefe do Poder Executivo pode designar o Líder do Governo, e até dois Vice-Líderes, dentre os Deputados que representem a bancada da situação na Assembleia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V – V.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O bom desempenho de uma equipe é essencial para garantir que a transmissão ou gravação de um programa de TV ocorra com eficiência. Cada profissional tem atribuições específicas dentro do processo de produção. Com relação a estrutura de produção de programas de TV que utilizam múltiplas câmeras, analise os itens a seguir, I. O operador de vídeo é o responsável pela qualidade de imagens no vídeo, operando os controles, aumentando ou diminuindo o vídeo e pedestal, alinhando as câmeras, colocando os filtros adequados e corrigindo as aberturas de diafragma. II. O Coordenador de Produção realiza tarefas de apoio à produção, providenciando a obtenção e guarda de todos os objetos móveis necessários à produção. III. O operador de microfone opera mesa de áudio durante gravações e transmissões, respondendo por sua qualidade. IV. O Operador de câmera opera as câmeras, inclusive as portáteis ou semi-portáteis, sob orientação técnica do diretor de imagens. (Definições de acordo com “Manual dos Radialistas FITERT) Está correto o que se afirma em",
       "alternatives": {
         "A": "I, III e IV apenas.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A gravação de produtos audiovisuais é resultado de um processo dividido em etapas que envolvem planejamento, execução e finalização. Essas fases são conhecidas como",
       "alternatives": {
         "A": "filmagem, montagem e veiculação.",
@@ -551,8 +551,25 @@
       "page_number": 10
     },
     {
+      "question_number": 33,
+      "discipline": "Legislação do Estado do Amazonas",
+      "statement": "O storyboard é uma ferramenta importante no planejamento visual de uma produção audiovisual. Analise as afirmações a seguir e assinale V para verdadeiro e F para falso: ( ) O storyboard serve apenas para registrar em imagens o roteiro literário, sem relação com o enquadramento ou composição das cenas. ( ) A elaboração de um storyboard auxilia a equipe técnica na visualização antecipada dos planos das cenas e na definição de ângulos e movimentos de câmera. ( ) Cada quadro do storyboard corresponde a uma tomada ou plano da narrativa audiovisual. ( ) O storyboard é utilizado exclusivamente em animações e não tem aplicação em produções de imagem real. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "F – V – V – F.",
+        "B": "V – F – V – F.",
+        "C": "F – V – V – V.",
+        "D": "V – F – V – V.",
+        "E": "F – F – F – V."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Relacione os termos técnicos de pré-produção as suas respectivas definições. 1. Roteiro Técnico 2. Análise Técnica 3. Roteiro de Gravação 4. Decupagem ( ) Documento criado a partir do Roteiro Literário que detalha o posicionamento e o movimento da câmera, a duração de cada plano, o tipo de lente, a iluminação e o som. ( ) Documento final e prático, organizado para a equipe, que lista as cenas em ordem de filmagem (e não cronológica), otimizando o uso de locações, elenco e equipamentos. ( ) A fase do trabalho do diretor que consiste em dividir o roteiro em planos, definindo enquadramentos, transições e a ação detalhada de cada cena. ( ) O estudo minucioso de uma cena do roteiro para identificar e listar todos os elementos necessários para a produção, como figurino, objetos de cena, elenco, locação, veículos etc. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "2 – 4 – 1 – 3.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Os diferentes formatos televisivos adotam estratégias próprias de construção de sentido, combinando intenção estética, narrativa e relação com o real. Relacione corretamente os formatos televisivos com as suas respectivas características mais marcantes. 1. Documentário 2. Telejornalismo 3. Dramaturgia 4. Reality show ( ) Formato híbrido que combina estética realista, narrativa dramatizada e performance do cotidiano, criando verossimilhança entre realidade, espetáculo e autopromoção televisiva. ( ) Formato factual centrado na objetividade e atualidade, estruturado pela linearidade e pela função informativa imediata. ( ) Formato ficcional baseado em personagens e enredos criados, buscando empatia e envolvimento emocional. ( ) Formato factual com tratamento autoral e interpretativo dos fatos, voltado à reflexão crítica sobre a realidade. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "4 – 1 – 3 – 2.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Quanto mais organizada e planejada a pré-produção de uma obra audiovisual, mas fácil será sua produção. Dentre as etapas que não fazem parte da pré-produção encontra- se",
       "alternatives": {
         "A": "Compras, aluguel e confecção de materiais de arte, figurino e cenografia.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A escolha de uma locação é um dos passos mais críticos no planejamento de uma gravação audiovisual, pois afeta diretamente o orçamento, o cronograma, a estética, entre outros. Ao selecionar uma locação, o produtor e a equipe de scouting (vistoria) devem considerar os seguintes fatores essenciais:",
       "alternatives": {
         "A": "a marca da câmera, o tipo de microfone, a incidência de luz e o tipo de estabilizador de imagem.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a escolha de uma locação, a equipe deve observar cuidadosamente as condições de iluminação natural e a possibilidade de controle da luz ambiente. Sobre esse assunto, analise as afirmativas abaixo e assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Janelas voltadas para o oeste podem gerar variações bruscas de luz durante a tarde, exigindo o uso de difusores ou blackouts. ( ) A luz natural intensa dispensa o uso de qualquer equipamento de iluminação artificial. ( ) O controle da luz natural é parte da vistoria técnica (scouting) e influencia diretamente na uniformidade da imagem. ( ) A pintura das paredes ou o tipo de piso do ambiente não interferem na reflexão e na exposição da luz. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F – V.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em ambientes de alta demanda, como os de produção audiovisual, onde centenas de pessoas e equipamentos precisam estar no lugar certo e na hora exata, a organização transforma a visão criativa em realidade logística. A importância dos documentos reside na sua capacidade de centralizar e comunicar informações cruciais a todos os departamentos. A Ordem do Dia (OD), por exemplo, é a bússola diária do set. Com relação a Ordem do Dia, pode-se afirmar que",
       "alternatives": {
         "A": "a ordem do dia é elaborada pela equipe de fotografia e serve para controlar o tempo de cada plano gravado.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a pré-produção de uma minissérie, o produtor percebe que as cenas noturnas exigem mais tempo de montagem de luz e necessita de equipe reduzida durante a madrugada. Para viabilizar a produção, dentro do orçamente o manter o cronograma, o produtor deve",
       "alternatives": {
         "A": "realizar um ajuste logístico focado no dimensionamento da equipe noturna e promover uma otimização operacional dos processos de montagem de luz e equipamento.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com relação a exposição padronizada e as ferramentas de medição em direção de fotografia para TV, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O Waveform é uma ferramenta essencial para a padronização, pois permite que o Diretor de Fotografia defina um valor numérico (IRE) específico para elementos-chave da cena, como o nível de luminância da pele (ex: 70 IRE), garantindo consistência entre takes e câmeras diferentes. ( ) O uso do Histograma é mais indicado para a padronização da exposição em ambientes com iluminação controlada (como estúdios), pois ele oferece uma representação gráfica da distribuição tonal dos pixels, facilitando o balanceamento entre altas luzes e sombras em tempo real. ( ) O False Color é particularmente útil para a equipe de câmera, pois atribui cores falsas a faixas específicas de luminância. Isso permite uma verificação rápida e visual de que a exposição da pele ou de um objeto crucial está dentro da faixa aceitável predefinida (ex: verde para a exposição ideal de pele). ( ) Em um workflow de TV acelerado, a padronização da exposição através de ferramentas de medição de exposição elimina a necessidade de qualquer calibração de Balanço de Branco, pois os valores numéricos de luminância são suficientes para garantir a coerência visual entre as cenas. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V – F.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a pós-produção de uma série, o colorista precisa manter a coerência visual entre episódios gravados em dias diferentes e com câmeras distintas. Para isso, ele consulta os metadados contidos nos arquivos originais de imagem. Com base nessa situação, analise as afirmativas a seguir sobre o uso dos metadados: I. Os metadados permitem identificar as condições técnicas de captação, como ISO, abertura, temperatura de cor e perfil de imagem. II. O uso dos metadados auxilia na preservação da intenção fotográfica e na uniformidade visual entre cenas. III. Os metadados servem apenas para controle administrativo e registro de autoria, sem função técnica na pós-produção. Está correto o que se afirma em",
       "alternatives": {
         "A": "II e III, apenas.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Num set de gravação as câmeras estão posicionadas conforme indicado no esquema abaixo para a captação de um diálogo entre Maria e João. CÂMERA 1 A B CÂMERA 2 O efeito visual e espacial resultante quando o Editor cortar diretamente do Take 1 (CÂMERA 1) para o Take 2 (CÂMERA 2), é",
       "alternatives": {
         "A": "João",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Considerando a exigência de padronização e continuidade visual nas produções televisivas, analise as afirmativas a seguir sobre as funções do Diretor de TV (Diretor de Imagens): I. Definir o timing dos cortes e transições entre as câmeras durante a gravação ou transmissão, coordenando os operadores e decidindo, em tempo real, qual imagem será exibida ou gravada. II. Comunicar e aprovar o look final da imagem (temperatura de cor, contraste e estilo visual), orientando o Operador de Vídeo nos ajustes das CCUs para garantir padronização entre câmeras. III. Supervisionar a atuação dos apresentadores, orientando expressões e posicionamentos de cena. Está correto o que se afirma em",
       "alternatives": {
         "A": "II e III, apenas.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Relacione corretamente os movimentos de câmera e/ou lente com as situações de uso descritas. 1. Zoom In 2. Travelling Out 3. Tilt Down 4. Travelling Lateral ( ) Utilizado para acompanhar um personagem caminhando, mantendo a proporção e a fluidez da ação no mesmo enquadramento. ( ) Empregado para reforçar a sensação de isolamento ou de distanciamento emocional, mostrando mais do ambiente ao redor do personagem. ( ) Indicado para revelar um detalhe importante no chão, como um objeto caído, uma marca de sangue ou um bilhete. ( ) Intensificar a atenção/emocionalidade numa revelação, aproximando-se do rosto sem alterar a perspectiva física do espaço. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "2 – 4 – 3 – 1.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a preparação de uma entrevista externa em praça movimentada, a Produção e a equipe de áudio realizam testes com lapelas sem fio e boom. Nos testes surgem: interferência de RF em determinadas frequências e ruído intermitente vindo de um gerador próximo da UM (unidade móvel). A equipe decide: mapear o espectro local, trocar as frequências de RF e reposicionar o gerador a maior distância, com barreira acústica. Com base na situação, a decisão tomada prioriza principalmente",
       "alternatives": {
         "A": "estética sonora do ambiente, ainda que com risco de drift entre som e imagem.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Analise as afirmativas sobre decisões da equipe de cenografia que requerem alinhamento prévio com a Produção e a equipe de captação: I. Superfícies altamente especulares (vidro polido, acrílico brilhante) podem causar reflexos de equipamento e recortes de luz indesejados. II. Padrões miúdos e repetitivos em tecidos/elementos (ex.: “espinha-de-peixe” muito fino) podem acentuar moiré na câmera. III. Painéis de LED do cenário devem ser testados com a câmera e taxa de varredura para evitar artefatos (banding/flicker). Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em captação para TV em alta definição, a Produção deve articular testes de câmera e luz com a caracterização, pois maquiagens com partículas muito refletivas e tecidos excessivamente brilhantes podem",
       "alternatives": {
         "A": "piorar o contraste de pele por compressão do sinal",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Relacione funções da Produção às descrições. 1. Planejamento financeiro 2. Logística de gravação 3. Interface com edição 4. Documentação legal 5. Organização de pessoal ( ) Emissão e coleta de autorizações de uso de imagem/locação; arquivamento contratual. ( ) Definição de transporte, janelas de carga/descarga, energia/gerador e rotas de acesso. ( ) Naming de arquivos, planilha de cenas/planos/takes, entrega de logs e metadados para pós. ( ) Alocação de equipes por diária/turno, elaboração de ordem do dia e escalas. ( ) Acompanhamento de custos, previsões e controle de desembolso por etapa. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "4 – 5 – 3 – 2 – 1.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Numa cobertura multicâmera, ao vivo, em externa com UM, a produção é responsável pelo workflow e pelos recursos para garantir a articulação técnica entre imagem e som. As funções operacionais típicas de uma UM a considerar no planejamento são",
       "alternatives": {
         "A": "controle de microfonação direta nos transmissores lapela e dispensa de alinhamento com a mesa de som.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Na produção de um programa de entrevistas em estúdio com câmeras robóticas e cenografia fixa, a responsabilidade de garantir a coerência visual e a padronização é compartilhada. A equipe do Diretor de Fotografia calibra as luzes de estúdio com presets definidos. A ação de rotina que deve ocorrer imediatamente antes da gravação para garantir a continuidade da estética visual em todos os cortes é",
       "alternatives": {
         "A": "o editor de imagem define e aplica os efeitos visuais desejados definidos pelo diretor de arte e pelo cenógrafo.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com relação as resoluções e compatibilidade de formatos em produções modernas de TV, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) A resolução Full HD (1920x1080) continua sendo o principal padrão de entrega para a maioria das transmissões de TV aberta e a cabo, sendo o formato Rec. 709 o color space de referência. ( ) A produção em 4K (Ultra HD - 3840x2160) exige um workflow mais rigoroso, mas é retrocompatível, permitindo a redução de resolução para Full HD e garante flexibilidade na pós- produção (recomposição, zoom digital). ( ) O formato interlaçado, como no 1080i, é preferível ao formato progressivo, como no 1080p, para captação de esportes e movimentos rápidos, pois melhora a fluidez. ( ) O formato Letterbox é utilizado para adaptar uma imagem 16:9 a uma tela 4:3, adicionando barras pretas nas laterais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V – F.",
@@ -874,8 +891,25 @@
       "page_number": 14
     },
     {
+      "question_number": 53,
+      "discipline": "Legislação do Estado do Amazonas",
+      "statement": "O padrão contemporâneo para produções de TV é a relação de aspecto de 16:9. Em contraste, a relação 4:3 era o formato padrão de tubos catódicos (SDTV). Ao preparar um plano para a TV, o Diretor de Fotografia deve sempre estar ciente das áreas de Title Safe e Action Safe para garantir que",
+      "alternatives": {
+        "A": "a imagem seja automaticamente convertida para o formato cinematográfico 2.39:1 na pós-produção.",
+        "B": "o chroma key tenha maior precisão nas cores primárias.",
+        "C": "elementos visuais críticos (como legendas, logos e rostos) sejam protegidos da margem de corte ou distorção das telas de exibição mais antigas ou mal calibradas.",
+        "D": "o aliasing seja completamente eliminado em todas as linhas diagonais do quadro.",
+        "E": "a profundidade de campo seja mantida constante, independentemente da lente utilizada."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A principal diferença técnica entre o Rec. 709 e o Rec. 2020 que afeta diretamente o trabalho do Diretor de Fotografia em produções modernas de televisão é",
       "alternatives": {
         "A": "O Rec. 2020 possui uma gama de cores mais ampla e suporta maior profundidade de bits do que o Rec. 709, permitindo a reprodução de cores mais ricas, saturadas e precisas em conteúdos de alta definição e ultra-alta definição.",
@@ -892,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O High Dynamic Range (HDR) tornou-se um padrão crescente na produção de séries televisivas. Em relação ao HDR, analise os itens a seguir: I. A principal vantagem do HDR sobre o Standard Dynamic Range (SDR) é a capacidade de exibir cores mais brilhantes e tons mais escuros com detalhes preservados simultaneamente na tela. II. O HDR é incompatível com o color space Rec. 2020, sendo limitado apenas ao Rec. 709. III. Em um workflow HDR, os monitores de set (monitoramento) precisam ter capacidade HDR para que o diretor de fotografia possa tomar decisões de exposição precisas. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -909,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Levando em consideração que no sistema NTSC há 30 frames por segundo, um TIME CODE Está marcado: 00:35: 17:29 Isso significa que",
       "alternatives": {
         "A": "o Time Code seguinte (1 frame depois) marcará 00:36:17:00",
@@ -926,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Numa produção audiovisual, a organização e indexação correta do material bruto é uma tarefa crítica no workflow de pós-produção, garantida pelo registro de metadados e pelo uso de nomenclatura padronizada. Uma das principais finalidades desta organização rigorosa e detalhada (incluindo Timecode, número de cena, e Take nos metadados) para o processo de Direção de Fotografia e Edição é",
       "alternatives": {
         "A": "Reduzir o consumo de energia dos servidores de armazenamento ao compactar os arquivos.",
@@ -943,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em um fluxo de produção audiovisual, o registro correto de metadados durante a captação é responsabilidade de procedimentos que normalmente envolvem:",
       "alternatives": {
         "A": "Além dos metadados registrados automaticamente pelas câmeras, alimentação manual pelo assistente de direção, continuísta ou equipe de produção, complementada por anotações de som e relatórios de câmera.",
@@ -960,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A preservação de acervos digitais em uma produtora de TV é crucial, pois a perda de material bruto pode inviabilizar a produção e gerar enormes prejuízos. A regra de segurança de dados mais aceita no audiovisual é a Regra do 3-2-1, que exige: manter três cópias dos dados, em dois tipos diferentes de mídia, e",
       "alternatives": {
         "A": "utilização de um de cada vez.",
@@ -977,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com relação as melhores práticas de armazenamento e preservação de material bruto de TV, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Após a realização do backup em nuvem (cloud storage), o material original da câmera pode ser imediatamente apagado, pois a segurança dos dados é garantida de forma permanente pelo provedor. ( ) Para a proteção contra vírus e ataques cibernéticos, a melhor prática é manter as cópias de segurança de longo prazo conectadas à rede (online) para facilitar o acesso e a recuperação. ( ) A redundância de dados deve ser iniciada imediatamente após o descarregamento do material bruto da câmera, preferencialmente utilizando um protocolo de verificação para garantir que a cópia seja idêntica ao original. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",

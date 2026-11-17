@@ -253,7 +253,7 @@
         "B": "Trabalhar é considerado um castigo por muitos, mas o trabalho também tem aspectos positivos.",
         "C": "A Polícia Federal está encarregada de várias investigações, mas certamente outras chegarão à PF.",
         "D": "A família acabou de comprar uma casa em Mato Grosso, mas a nova casa ainda demora a ficar reformada.",
-        "E": "Todos os candidatos devem apresentar declarações de renda, mas elas demoram a ficar prontas. Raciocínio Lógico e Matemático"
+        "E": "Todos os candidatos devem apresentar declarações de renda, mas elas demoram a ficar prontas."
       },
       "answer": "B",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Figura 1 abaixo mostra uma tira retangular ABCD de papel com uma linha tracejada EF onde ela será dobrada. A linha EF faz 63° com o lado AB. A Figura 2 mostra que, após a dobra, o vértice C caiu sobre o segmento AB. Figura 1 Figura 2 O ângulo 𝑥 assinalado na Figura 2 mede",
       "alternatives": {
         "A": "54°.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "4 galinhas e 5 patos comem 1300 g de ração por dia. 5 galinhas e 4 patos comem 1220 g de ração por dia. A quantidade de ração que 2 galinhas e 1 pato comerão, por dia, equivale a",
       "alternatives": {
         "A": "350 g.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um grupo é formado por seis pessoas, todas com idades diferentes. Dessas pessoas, três serão sorteadas aleatoriamente. A probabilidade, de que as duas pessoas mais jovens estejam entre as sorteadas, é igual a",
       "alternatives": {
         "A": "1/4.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A negação de “Nenhum advogado é ingênuo” é:",
       "alternatives": {
         "A": "Há, pelo menos, um advogado ingênuo.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A soma de três números naturais diferentes é 2025. Sabe-se que a diferença entre o maior e o menor desses números é menor que 10. O menor valor possível para o menor dos três números é igual a",
       "alternatives": {
         "A": "666.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Joana gasta 40% do seu salário em moradia. Do que sobra, ela gasta 40% em alimentação. O restante do seu salário ela usa para “outras despesas”. A porcentagem do salário de Joana que ela usa para “outras despesas” é:",
       "alternatives": {
         "A": "20%.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Arquimedes gosta de brincar com a representação de pontos no plano cartesiano. Desta vez, a brincadeira é: começando de um ponto genérico P do plano cartesiano, ele executa repetidamente o seguinte comando: a partir do ponto atual de coordenadas (x, y) deslocar-se para o ponto (2y, x – 1). Arquimedes começou a brincadeira no ponto P(0, 1). Após executar o comando 5 vezes em sequência, o ponto em que Arquimedes chegou é:",
       "alternatives": {
         "A": "(2, −7).",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Três grandezas positivas X, Y e Z são tais que Y é diretamente proporcional ao quadrado de X e Z é inversamente proporcional a Y. Quando X = 4, tem-se Y = 48 e Z = 2. Quando Z = 8, o valor de X + Y é:",
       "alternatives": {
         "A": "10.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sequência de números racionais é tal que cada termo de ordem k, a partir do terceiro termo, é a razão entre o termo de ordem k – 1 e o termo de ordem k – 2. Por exemplo, o terceiro termo é a razão entre o segundo e o primeiro termos. Sabe-se que o quinto e o sétimo termos dessa sequência são respectivamente, 3 e 2/3. O terceiro termo dessa sequência é:",
       "alternatives": {
         "A": "1/2.",
@@ -416,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere as 5 letras da sigla ALEAM. O número de maneiras de escrever essas 5 letras em sequência de modo que as letras L e M não fiquem juntas é:",
       "alternatives": {
         "A": "15.",
         "B": "20.",
         "C": "24.",
         "D": "32.",
-        "E": "36. Noções de Informática"
+        "E": "36."
       },
       "answer": "E",
       "annulled": false,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um técnico precisa classificar e organizar uma grande coleção de mídias em um computador que utiliza o Sistema Operacional Windows 10. Para garantir a correta identificação dos arquivos de áudio, vídeo, imagem e planilhas, ele deve conhecer os principais padrões e suas extensões. Considerando os padrões de arquivos digitais, assinale a extensão que é universalmente reconhecida como um formato de arquivo de vídeo, que combina áudio e vídeo e é amplamente utilizado em streaming e dispositivos móveis.",
       "alternatives": {
         "A": ".ZIP",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Ao finalizar a redação de um extenso relatório técnico no MS Word 2010 BR ou superior, um analista precisa garantir que o Anexo do documento inicie sempre em uma nova página e tenha uma formatação de rodapé diferente (por exemplo, numeração em algarismos romanos) em relação ao corpo principal do texto (que usa numeração em algarismos arábicos). Assinale o recurso de formatação de página que o analista deve utilizar para atingir o objetivo de iniciar o Anexo em uma nova página e permitir a alteração independente da formatação dos rodapés/cabeçalhos.",
       "alternatives": {
         "A": "Quebra de linha (Shift + Enter).",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Uma Macro (sequência de comandos gravada) é uma poderosa ferramenta de automação. No entanto, ela pode ser um vetor de segurança e requer proteção contra visualização e edição não autorizada em ambientes controlados. Considerando o MS Word 2010 BR ou superior e a arquitetura VBA comum ao Excel, a medida de segurança mais adequada para evitar que um usuário não autorizado visualize ou altere o código fonte de uma Macro armazenada em um documento é:",
       "alternatives": {
         "A": "Definir uma senha de proteção para o documento na opção \"Proteger Documento\" na guia Revisão.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Ao trabalhar com o Sistema Operacional Windows 10, um usuário precisa organizar os arquivos em seu computador, o que frequentemente envolve mover (recortar) ou copiar itens entre pastas. Para otimizar o tempo e evitar o uso do mouse ou menu de contexto, o uso de atalhos de teclado é essencial. Assinale a sequência de teclas de atalho padrão do Windows que deve ser utilizada, respectivamente, para recortar (mover) um arquivo ou pasta selecionado e, em seguida, colá-lo no novo local desejado.",
       "alternatives": {
         "A": "Ctrl + S para recortar e Ctrl + V para colar.",
@@ -501,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No ambiente de Internet, a transferência de dados e arquivos entre o computador do usuário (cliente) e um servidor remoto é uma operação constante e fundamental, seja para acessar uma página, salvar um documento na nuvem ou baixar uma foto. Considerando a transferência de arquivos e dados, os termos técnicos que definem as ações de enviar um arquivo do seu computador local para um servidor (ex: salvando na nuvem) e a ação de receber um arquivo de um servidor para o seu computador (ex: baixando um documento) são, respectivamente,",
       "alternatives": {
         "A": "Download e Streaming.",
         "B": "Upload e Download.",
         "C": "Streaming e Upload.",
         "D": "Banda e Upload.",
-        "E": "Upload e Banda. Legislação do Estado do Amazonas"
+        "E": "Upload e Banda."
       },
       "answer": "B",
       "annulled": false,
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Avalie, com base na Constituição do Estado do Amazonas, se os objetivos prioritários do Estado, entre outros, incluem: I. A garantia de controle pelo cidadão e segmentos da coletividade estadual da legitimidade e legalidade dos atos dos Poderes Públicos e da eficácia dos serviços públicos. II. A garantia dos direitos subjetivos públicos do indivíduo e dos interesses da coletividade. III. A defesa da Floresta Amazônica e o seu aproveitamento racional, respeitada a sua função no ecossistema. IV. O equilíbrio no desenvolvimento da coletividade mediante a regionalização das ações administrativas, respeitada a autonomia municipal. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Ana, Branca e Carla discutiam os direitos e garantias individuais e coletivos. A respeito do tema, Ana afirmou que todos têm direito de requerer e obter, no prazo de noventa dias, informações objetivas de seu interesse particular, coletivo ou geral, acerca dos atos e projetos do Estado e dos Municípios. Beatriz, por sua vez, disse que a força policial só poderá intervir para garantir o exercício do direito de reunião e demais liberdades constitucionais, bem como a defesa da ordem pública e do patrimônio público e privado e a segurança pessoal. Já Carla afirmou que é assegurado a todos o direito de petição e de representação aos Poderes Públicos para coibir ilegalidade ou abuso de poder. À luz da Constituição do Estado do Amazonas, assinale a opção correta.",
       "alternatives": {
         "A": "As afirmativas de Ana, Beatriz e Carla estão corretas.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Avalie, com base na Constituição do Estado do Amazonas, as seguintes afirmativas a respeito do Poder Legislativo e assinale (V) para a verdadeira e (F) para a falsa. ( ) O Poder Legislativo é exercido pela Assembleia Legislativa, composta de representantes do povo, eleitos para mandato de quatro anos, pelo sistema proporcional, mediante sufrágio universal e voto direto e secreto, na forma da legislação federal. ( ) O número de Deputados corresponderá ao triplo da representação do Estado na Câmara Federal e, atingido o número de vinte e quatro, será acrescido de tantos quanto forem os Deputados Federais acima de doze. ( ) Os Deputados são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 28 da Constituição do Estado do Amazonas, avalie se são da competência exclusiva da Assembleia Legislativa os seguintes atos: I. Elaborar sua proposta orçamentária, dentro dos limites estabelecidos, conjuntamente com os demais Poderes, na forma da lei de diretrizes orçamentárias. II. Aprovar ou suspender a intervenção nos Municípios. III. Decretar intervenção federal no Estado para garantir livre exercício de suas funções. IV. Sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa e os atos contrários aos princípios de preservação do meio ambiente. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com a Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, a investidura em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha o funcionário sofrido em sua capacidade física ou mental, apurada por junta médica oficial, é denominada",
       "alternatives": {
         "A": "aproveitamento.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Art. 65 – Avalie, com base na Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, se, nos termos e condições de regulamento, a licença é concedida, entre outros motivos, I. Para tratamento de saúde. II. Por motivo de doença em pessoa da família. III. Para tratamento de interesse particular. IV. Para serviço militar obrigatório. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com base na Resolução Legislativa nº 469/2010 – Institui o Regimento Interno da Assembleia Legislativa do Estado do Amazonas, em seu Art. 14, as afirmativas a seguir a respeito do Bloco Parlamentar estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Dois ou mais partidos podem constituir Bloco Parlamentar, sob liderança comum, sem prejuízo à autonomia da representação partidária para indicar seu líder.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Art. 23. Com base no Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as afirmativas a seguir, a respeito da Comissão da Assembleia Legislativa, são verdadeiras (V) ou falsas (F). ( ) É permanente. ( ) É temporária, designada com prazo determinado para funcionar, extinguindo-se pelo cumprimento de sua finalidade ou pelo decurso de prazo. ( ) A Assembleia Legislativa terá o máximo de 80 (oitenta) assentos em comissões temáticas permanentes, distribuídos entre 16 (dezesseis) comissões. ( ) O número de assentos em cada comissão específica será estipulado por Ato da Mesa Diretora no início de cada biênio da legislatura, atentando-se para o mínimo de 3 (três) assentos e o máximo de 7 (sete). As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V– V.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em relação ao Parecer, avalie, de acordo com o Regimento Interno da Assembleia Legislativa do Estado do Amazonas, as afirmativas a seguir. I. Parecer é o opinativo escrito por um relator e submetido à deliberação de Comissão, devendo concluir pela aprovação ou rejeição de matéria a ela sujeita. II. A proposição resultante de Parecer não se sujeita às regras de votação atinentes a sua natureza. III. O Parecer não pode ser oral nem quando se referir a requerimento ou emenda à redação final. IV. O Parecer é indispensável à instrução dos processos, aplicando-se, em caráter extraordinário, a nomeação de Relator pelo Presidente da Assembleia, nos termos deste Regimento. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 41 do Regimento Interno da Assembleia Legislativa do Estado do Amazonas, a fase dos trabalhos nas Comissões reservada à discussão e à votação de parecer ou de proposição de sua iniciativa é denominada",
       "alternatives": {
         "A": "Expediente.",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente feminina, 32 anos, apresenta cefaleia progressiva há 8 meses, amenorreia secundária e galactorreia. RM de sela turcica apresenta macroadenoma hipofisário de 2,6 cm com extensão suprasselar e compressão quiasmática. Prolactina sérica: 580 ng/mL (VR < 25). A conduta terapêutica inicial mais apropriada e a",
       "alternatives": {
         "A": "cirurgia transesfenoidal imediata.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Homem de 40 anos com acromegalia confirmada (IGF-1 elevado e GH não suprimido no TOTG) foi submetido a cirurgia transesfenoidal há 3 meses. IGF-1 atual: 390 ng/mL (VR: 120-280), GH basal: 2,8 ng/mL. RM mostra resíduo tumoral de 8 mm no seio cavernoso. A melhor opção terapêutica é",
       "alternatives": {
         "A": "reoperação imediata.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Menino de 7 anos com baixa estatura (altura -3,5 DP), velocidade de crescimento 3,5 cm/ano; idade óssea de 5 anos. Testes de estímulo com clonidina e glucagon mostram pico de GH < 5 ng/mL. IGF-1: 55 ng/mL (VR: 88-474). RM hipófise: neurohipófise ectópica e haste hipofisária não visualizada. O diagnóstico mais provável é",
       "alternatives": {
         "A": "resistência ao GH (Síndrome de Laron).",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente, do sexo feminino, com suspeita de síndrome de Cushing apresenta cortisol salivar noturno elevado em duas ocasiões, teste de supressão dexametasona 1mg com cortisol =7,8 g/dL e cortisol livre urinário 24h= 280 g/dL (VR: < 90). ACTH: 55 pg/mL (VR: 10- 60). Foi solicitado um exame de ressonância nuclear magnética de hipófise que não identificou lesão hipofisária. O próximo passo na investigação diagnóstica é",
       "alternatives": {
         "A": "executar teste de supressão com 16 mg dexametasona para diagnóstico de tumor ectópico.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Homem de 40 anos com hipopituitarismo pós-cirúrgico em reposição hormonal, apresenta quadro súbito de adinamia, vômitos e hipotensão. PA: 80/50 mmHg, FC: 110 bpm. Sódio: 128 mEq/L, potássio: 4,8 mEq/L, glicemia: 52 mg/dL. O diagnóstico mais provável é",
       "alternatives": {
         "A": "diabetes insípidus.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Gestante de 9 semanas com hipertireoidismo. TSH: < 0,01 mUI/L, T4 livre: 3,8 ng/dL (VR: 0,7-1,7), TRAb: 28 UI/L (VR: < 1,5). Qual o tratamento de escolha e a meta terapêutica?",
       "alternatives": {
         "A": "Metimazol 10 mg/dia - manter T4L no limite superior da normalidade.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente com carcinoma papilífero de tireoide pós-tireoidectomia total e radioiodoterapia. Em uso de levotiroxina 150 mcg/dia. TSH: 0,08 mUI/L), tireoglobulina estimulada: 18 ng/mL, anti- tireoglobulina negativo. PET-CT: captação em linfonodos cervicais. A conduta adequada é",
       "alternatives": {
         "A": "aumentar dose de levotiroxina.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Mulher de 54 anos com hipotireoidismo em uso irregular de levotiroxina é admitida com rebaixamento do nível de consciência, bradicardia e hipotermia (34,5°C). TSH: 94 mUI/L (VR: 0,4 - 4,4); T4L: 0,3 ng/dL (VR= 0,7-1,7). O manejo inicial mais apropriado é",
       "alternatives": {
         "A": "levotiroxina 500 mcg EV + hidrocortisona 100 mg EV.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Mulher, 38 anos com dor cervical em região de tireoide, há 2 semanas; FC=160 bpm, RCR 2T sem sopros; VHS: 75 mm/h, TSH: 0,03 mUI/L, T4L: 2,5 ng/dL, captação de iodo-131: 2% em 24h. O tratamento mais indicado é",
       "alternatives": {
         "A": "metimazol 20 mg/dia.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Mãe com doença de Graves em tratamento, apresenta RN ao nascimento com FC =190 bpm, irritabilidade, exoftalmia. TSH: < 0,02 mUI/L, T4L: 4,3 ng/dL (VR: 0,7-1,7), TRAb: 25 UI/L ((VR <1,5). Assinale a opção que apresenta o diagnóstico e o tratamento para o caso.",
       "alternatives": {
         "A": "Hipotireoidismo congênito – levotiroxina.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Mulher, 34 anos, com hipotireoidismo primário bem controlado com levotiroxina 100 mcg/dia, inicia uso de sulfato ferroso e omeprazol. No exame de acompanhamento foi observado TSH 12 mUI/L (VR: 0,4 - 4,4). Assinale a opção que apresenta a melhor explicação e a conduta para o caso.",
       "alternatives": {
         "A": "Má adesão - reforçar orientações.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente de 58 anos com osteoporose (T-score= -3,1 em coluna lombar) e hipercalcemia. Cálcio total: 11,9 mg/dL, cálcio iônico: 1,48 mmol/L (VR: 1,12-1,32), PTH: 105 pg/mL (VR: 15-65), 25-OH- vitamina D: 22 ng/mL, creatinina: 0,9mg/dL, calciúria aumentada com antecedente de cálculo renal. O diagnóstico e a conduta para o caso são:",
       "alternatives": {
         "A": "hiperparatireoidismo primário - indicada cirurgia por osteoporose.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente pós-tireoidectomia total apresenta parestesias periorais e câimbras. Sinal de Chvostek positivo. Cálcio iônico: 0,95 mmol/L (VR: 1,12-1,32), PTH: < 5 pg/mL (VR: 15-65), magnésio: 2,2 mg/dL, fósforo: 5,7 mg/dL. O tratamento agudo é",
       "alternatives": {
         "A": "gluconato de cálcio 10% 20 mL EV em 10 minutos.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Mulher de 69 anos com osteoporose grave (T-score -3,7), múltiplas fraturas vertebrais. Em uso de alendronato há 5 anos sem melhora. A melhor opção terapêutica é",
       "alternatives": {
         "A": "trocar para denosumabe 60 mg SC semestral.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Criança de 7 anos com baixa estatura, braquidactilia e calcificações subcutâneas. Cálcio: 7,1 mg/dL, fósforo: 6,4 mg/dL, PTH: 275 pg/mL. O diagnóstico é",
       "alternatives": {
         "A": "raquitismo nutricional.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Mulher de 22 anos apresentou emagrecimento de 7 Kg em 30 dias, irritabilidade, insônia e tremores. Realizou exames: T4 livre: 3,1 ng/dL (VR:0,7-1,7) e TSH < 0,01 mIU/L. Em consulta, foi orientado o uso de metimazol 20 mg/dia. Após dois meses do tratamento, referiu intensa prostração e lentidão psíquica; exames: TSH < 0,01 mUI/L e T4 livre 0,5 ng/dL. A melhor conduta é",
       "alternatives": {
         "A": "suspender metimazol e prescrever propiltiouracil.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente com incidentaloma adrenal de 4,5 cm, densidade 18 UH em TC sem contraste. Investigação funcional: cortisol após 1 mg dexametasona: 5,2 mcg/dL, metanefrinas urinárias normais, aldosterona/renina normal. A conduta adequada é",
       "alternatives": {
         "A": "seguimento com TC em 6 meses.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Mulher de 17 anos com amenorreia primária, hipertensão e hipocalemia. Sódio: 144 mEq/L, potássio: 2,9 mEq/L; progesterona e corticosterona aumentada. Assinale a opção que apresenta o diagnóstico e o defeito enzimático.",
       "alternatives": {
         "A": "Hiperplasia adrenal congênita - deficiência de 21-hidroxilase.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente com insuficiência adrenal primária em uso de hidrocortisona 20 mg/dia e fludrocortisona 0,1 mg/dia. Desenvolve febre e pneumonia necessitando internação. O ajuste da corticoterapia para o caso é",
       "alternatives": {
         "A": "manter doses habituais.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Criança de 2 anos com genitália ambígua, hiperpigmentação e crises de desidratação. Sódio: 124 mEq/L, potássio: 6,1 mEq/L. 17-OH-progesterona: 16.000 ng/dL. Cariótipo: 46,XX. O tratamento indicado é",
       "alternatives": {
         "A": "hidrocortisona + fludrocortisona + correção cirúrgica.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Homem de 27 anos com hipertensão resistente. Potássio: 2,9 mEq/L, aldosterona: 25 ng/dL (VR: 3-16), renina: 0,1 ng/mL/h (VR: 0,5-2,5), relação aldosterona/renina: 250. TC: nódulo adrenal esquerdo de 1,8 cm. O próximo passo é",
       "alternatives": {
         "A": "fazer cateterismo de veias adrenais.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente HIV+ com CD4: 45 células/mm³. Apresenta astenia, hipotensão e hiperpigmentação. Cortisol basal: 2,1 mcg/dL, ACTH: 500 pg/mL. O diagnóstico mais provável é",
       "alternatives": {
         "A": "insuficiência adrenal por CMV.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente, 42 anos, com DM2 há 8 anos, em uso de metformina 2g/dia e glimepirida 4 mg/dia. HbA1c: 8,9%. IMC: 32 kg/m². Creatinina: 0,9 mg/dL, TFG: 85 mL/min. A melhor opção para intensificação é",
       "alternatives": {
         "A": "adicionar semaglutida em dose progressiva semanal.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Adolescente de 16 anos com poliúria, polidipsia e perda de peso há 15 dias. Glicemia: 450 mg/dL, pH: 7,15, bicarbonato: 10 mEq/L. Após estabilização inicial, o esquema insulínico mais apropriado é",
       "alternatives": {
         "A": "insulina NPH 2x/dia + regular antes das refeições.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Gestante de 28 semanas com diabetes diagnosticado na gestação apresenta glicemias capilares em jejum: 95-105 mg/dL, pós- prandiais: 150-170 mg/dL, e circunferência abdominal fetal alterada, apesar de dieta. O tratamento é",
       "alternatives": {
         "A": "insulina NPH + regular.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Idoso de 78 anos, DM2, com múltiplas comorbidades, DRC 3a e frágil; HbA1c: 6,5%. Em uso de metformina e insulina. Apresentou 2 episódios de hipoglicemias grave no último mês. A meta aproximada de HbA1c mais apropriada é",
       "alternatives": {
         "A": "< 7%",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente DM2, 68 anos, com DM2 há 18 anos com neuropatia periférica dolorosa. Já utilizou gabapentina e amitriptilina sem melhora. A próxima opção terapêutica é",
       "alternatives": {
         "A": "vitamina B12 IM.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente, 68 anos com DM2 há 14 anos e doença renal crônica (TFG: 35 mL/min, albuminúria: 480 mg/g). PA: 145/90 mmHg. Em uso de enalapril 20 mg/dia. O medicamento a adicionar para proteção renal é",
       "alternatives": {
         "A": "dapagliflozina 10 mg/dia.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente DM1, 18 anos, em uso de bomba de insulina, apresenta hiperglicemia persistente (> 250 mg/dL) e cetonemia. A primeira medida a ser tomada é",
       "alternatives": {
         "A": "aplicar insulina com seringa ou caneta e trocar todo o sistema de infusão.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente, 62 anos com IMC=41 kg/m², diabetes mellitus tipo 2 de difícil controle, hipertensão e apneia do sono, com índice de apneia e hipopneia (IAH), em polissonografia, > 30 eventos/ por hora de sono. Falha em múltiplas tentativas de perda de peso. O seguinte critério indica cirurgia bariátrica:",
       "alternatives": {
         "A": "não resposta ao tratamento clínico por pelo menos 3 anos.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Homem de 58 anos, portador de diabetes mellitus tipo 2 há 7 anos, está em uso de metformina 2 g/dia e dapagliflozina 10 mg/dia, com hemoglobina glicada (HbA1c) de 8,5 % e IMC de 34 kg/m². Apresenta taxa de filtração glomerular estimada (TFGe) de 39 mL/min/1,73 m², coronariopatia crônica estável e neuropatia periférica leve. O endocrinologista cogita iniciar tirzepatida como terapia adicional. Em relação à tirzepatida para esse paciente, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Está contra-indicada pois o duplo agonismo dos receptores de GIP/GLP-1 aumenta o risco de hipoglicemia nestes casos.",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente, masculino, 40 anos com triglicerídeos: 1600 mg/dL, colesterol total: 320 mg/dL. Refere dor abdominal recorrente. O risco imediato e o tratamento são, respectivamente,",
       "alternatives": {
         "A": "hepatopatia - ômega-3.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Criança de 12 anos com LDL: 195 mg/dL. Pai com IAM aos 35 anos. Triglicerídeos: 80 mg/dL, HDL: 35 mg/dL. O diagnóstico e o tratamento são, respectivamente,",
       "alternatives": {
         "A": "Hipercolesterolemia familiar heterozigota e estatina.",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Homem de 52 anos com síndrome metabólica. Circunferência abdominal: 107 cm, glicemia jejum: 117 mg/dL, HDL: 35 mg/dL, triglicerídeos: 190 mg/dL, PA: 135/80 mmHg. A intervenção de maior impacto é",
       "alternatives": {
         "A": "perda de 5-10% do peso corporal.",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente, 55 anos, inicia amiodarona para fibrilação atrial. Após 4 meses, encontra-se com TSH: 0,01 mUI/L, T4L: 2,8 ng/dL, T3L: 1,2 pg/mL. Ao exame físico não apresenta bócio. O diagnóstico correto é",
       "alternatives": {
         "A": "superdosagem de levotiroxina.",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Homem, 45 anos, IMC 36 kg/m², hipertenso e portador de diabetes mellitus tipo 2 mal controlado (HbA1c 9,0 %), queixa-se de queda da libido e fadiga há 8 meses. Nega uso de opioides, anabolizantes ou corticoterapia. Refere roncos altos e sonolência diurna. Ao exame: circunferência abdominal 118 cm; ginecomastia ausente; testículos 20 mL bilaterais; pressão arterial 138 × 86 mmHg. Exames (colhidos 7 h): testosterona total 310 ng/dL (VR 300– 1000); SHBG 17 nmol/L (VR 18–55) Testosterona livre calculada 65 pg/mL (VR 70–220); LH 3,5 IU/L (VR 1,5–9,3); FSH 4,2 IU/L (VR 1,4–18); Prolactina 11 ng/mL (VR 2–18); TSH 2,1 mIU/L. A contém a conduta mais adequada, segundo as recomendações atuais para hipogonadismo masculino funcional, é",
       "alternatives": {
         "A": "iniciar imediatamente reposição com cipionato de testosterona 200 mg IM a cada 2 semanas, pois a testosterona total < 300 ng/dL já confirma hipogonadismo.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Segundo o Código de Ética Médica, em relação ao sigilo médico em pacientes com doenças endócrinas, é correto afirmar que",
       "alternatives": {
         "A": "pode ser quebrado se o paciente com diabetes representa risco ao dirigir.",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Mulher, 27 anos, nuligesta, apresenta amenorreia secundária há 15 meses. Menarca aos 12 anos, ciclos regulares até os 25 anos. IMC 19,1 kg/m² (perda de 12 kg em 18 meses após dieta restritiva e corrida 60 km/semana). Nega galactorreia, hirsutismo ou uso de medicações. Ao exame: sinais vitais normais, ausência de hirsutismo, acne ou galactorreia. Laboratório: β-hCG :negativo; FSH: 2,8 IU/L (VR fase folicular 3,5–12,5); LH: 1,2 IU/L (VR fase folicular 2,4–12,6); Estradiol: 18 pg/mL (VR fase folicular 25–75); Prolactina: 22 ng/mL (VR 3–27); TSH: 1,9 mIU/L (VR 0,4–4,4); T4 livre: 1,1 ng/dL (VR 0,9–1,7) ; Cortisol matinal: 15 µg/dL (VR 5–25); 17-OH-progesterona: 0,9 ng/mL (VR <2,0) ; Testosterona total: 28 ng/dL (VR 15–70); IGF-1: 185 ng/mL (VR idade 117–329); RM de sela túrcica: hipófise normal, sem lesões. Densitometria óssea: coluna lombar Z-score -2,5; colo femoral Z-score -2,1. Levando-se em consideração o diagnóstico mais provável e as evidências atuais sobre tratamento, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O teste de provocação com acetato de medroxiprogesterona 10 mg/dia por 10 dias se faz necessário para confirmar o diagnóstico, podendo resultar em sangramento de privação em 7 dias.",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Um homem de 61 anos, IMC 33 kg/m², não diabético (HbA1c 5,6%), com histórico de infarto agudo do miocárdio há 3 anos, em uso regular de AAS, atorvastatina, bisoprolol e enalapril, procura o endocrinologista para manejo de peso. PA 128/78 mmHg, circunferência abdominal 108 cm. LDL-c 68 mg/dL, triglicerídeos 180 mg/dL, PCR ultrassensível 3,8 mg/L. Considerando os achados do SELECT e as características deste paciente, assinale a alternativa correta:",
       "alternatives": {
         "A": "Semaglutida 2,4 mg/semana reduziu eventos cardiovasculares maiores (MACE) em 20% comparada ao placebo, com benefício evidente apenas após 24 meses de tratamento, sugerindo que o efeito é mediado pela perda ponderal.",
@@ -1351,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma mulher de 65 anos, na menopausa há 18 anos, apresenta: Densitometria óssea: coluna lombar T-score -2,8; colo femoral T- score -2,3; 25-hidroxivitamina D: 18 ng/mL (VR >30); cálcio sérico: 9,2 mg/dL (VR 8,5-10,5); PTH: 88 pg/mL (VR 15-65); creatinina: 1,1 mg/dL; TFGe: 58 mL/min/1,73m²; fosfatase alcalina: 92 U/L (VR 35-104). Foi iniciado alendronato 70 mg/semana. Quanto à suplementação de vitamina D para essa paciente, assinale a afirmativa correta:",
       "alternatives": {
         "A": "Deveria se iniciar colecalciferol 7.000 UI/dia por 8 semanas para atingir nível sérico > 30 ng/mL antes de iniciar o bisfosfonato.",

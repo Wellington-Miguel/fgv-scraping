@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Assembleia Legislativa do Estado de Rondônia",
   "cargo_title": "Analista Legislativo Processo Legislativo",
   "exam_type": "Tipo 1",
-  "total_questions": 69,
+  "total_questions": 70,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Você e sua esposa estão convidados para a festa na minha casa de praia. / Ambiguidade.",
         "C": "Embora a chuva tenha durado pouco tempo, foi o suficiente para encher algumas ruas. / Uso inadequado de conectivos.",
         "D": "Todos os moradores da cidade requereram mais policiamento nas ruas. / Mau emprego de formas verbais.",
-        "E": "Como havia tempestade, o avião teve que aterrissar em outro aeroporto do estado. / A segunda frase não é uma sequência lógica da primeira. Raciocínio Lógico-matemático"
+        "E": "Como havia tempestade, o avião teve que aterrissar em outro aeroporto do estado. / A segunda frase não é uma sequência lógica da primeira."
       },
       "answer": "A",
       "annulled": false,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Aumentos sucessivos de 30%, 40% e 50% são equivalentes a um único aumento de",
       "alternatives": {
         "A": "120%.",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Sete bolas iguais, numeradas de 1 a 7, serão colocadas nas caixas A e B. A caixa A deverá conter 4 bolas e a caixa B, 3 bolas, de acordo com as seguintes regras: • As bolas 1 e 2 devem ficar em caixas diferentes. • As bolas 3 e 4 devem ficar na mesma caixa. O número de maneiras diferentes em que essa distribuição pode ser feita é",
       "alternatives": {
         "A": "4.",
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Há 24 números inteiros com 4 algarismos diferentes, que podem ser formados com os algarismos 3, 4, 6, e 8. Escrevendo esses 24 números em ordem crescente, o 15º número é o",
       "alternatives": {
         "A": "8346.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Em uma urna há apenas bolas amarelas, bolas azuis e bolas verdes. Sabe-se que são 12 bolas amarelas, 8 bolas azuis e que a probabilidade de se sortear aleatoriamente uma bola verde é 2/7. O número de bolas verdes, na urna, é",
       "alternatives": {
         "A": "5.",
@@ -246,14 +246,14 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Um grupo de estudantes está sentado ao redor de uma grande mesa circular. Uma cesta contendo 125 balas é entregue à Bruna, uma das estudantes, que pega uma bala e passa a cesta para o próximo estudante no sentido horário. Cada estudante que recebe a cesta pega uma bala e passa para o próximo estudante no sentido horário, até as balas acabarem. Sabe-se que Bruna foi a estudante que pegou a primeira (como já dito) e também a última bala. O número de estudantes sentados ao redor da mesa pode ser igual a",
       "alternatives": {
         "A": "17.",
         "B": "21.",
         "C": "24.",
         "D": "31.",
-        "E": "42. Noções de Informática"
+        "E": "42."
       },
       "answer": "D",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma sessão ordinária, na Assembleia Legislativa de Rondônia (ALE-RO), um Analista Legislativo precisa conectar seu notebook a um projetor multimídia na Tribuna para apresentar uma emenda e, ao mesmo tempo, conectar um disco externo contendo um backup de segurança dos documentos da propositura. O notebook possui apenas uma porta USB-A, uma porta HDMI e uma porta de rede (RJ-45). O projetor requer conexão HDMI, e o disco externo usa cabo USB-A. Nesse caso, o dispositivo de hardware, que permitiria ao analista realizar ambas as conexões simultaneamente com o notebook descrito, utilizando suas portas disponíveis, é um",
       "alternatives": {
         "A": "cabo conversor de HDMI para VGA.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma reunião de apresentação de dados, um Analista Legislativo da ALE-RO precisa alternar rapidamente entre uma planilha do Excel maximizada, um relatório no MS Word 365 (BR) e o navegador de internet, sem usar o mouse. Ele também precisa, em determinado momento, minimizar todas as janelas de uma vez para acessar um atalho na Área de Trabalho. Nesse caso, os atalhos de teclado do Windows 10 (BR) que atendem às necessidades de alternar janelas entre programas abertos e minimizar todas as janelas, são, respectivamente,",
       "alternatives": {
         "A": "Alt + F4 e Windows + D.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Um Analista Legislativo da ALE-RO precisa enviar uma correspondência oficial para 50 destinatários diferentes. Ele possui um documento base no MS Word 365 (BR) (carta-padrão) e uma lista no Excel com os nomes, cargos e endereços dos destinatários. Ele quer automatizar a criação de 50 cartas personalizadas, uma para cada pessoa da lista, sem ter que copiar e colar manualmente cada informação. Nesse caso, o recurso do MS Word 365 (BR) que deve ser utilizado para realizar essa tarefa de forma automatizada, mesclando dados do Excel com um documento base, é",
       "alternatives": {
         "A": "“Controlar Alterações”, na guia Revisão.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma reunião no Google Meet, para discutir um projeto de lei, um Analista Legislativo da ALE-RO precisa apresentar uma proposta escrita no Google Documentos. Ele deseja que os participantes não apenas vejam a tela, mas também possam, com sua permissão, fazer anotações ou editar diretamente o documento durante a discussão, sem sair da chamada do Google Meet. Para atender a essa necessidade de apresentação com interatividade total, durante a reunião, o Analista Legislativo deve",
       "alternatives": {
         "A": "compartilhar toda a sua tela (a janela do navegador).",
@@ -331,14 +331,14 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "O setor de TI da ALE-RO está implementando uma nova política de segurança. Além de exigir senhas fortes, ele quer adicionar uma camada extra de proteção ao acesso dos sistemas, especialmente para os servidores que contêm dados fiscais sensíveis. O objetivo é que, mesmo que uma senha seja comprometida, um invasor não consiga acessar a conta sem outra forma de validação. Considerando o objetivo de adicionar uma camada extra de proteção que vá além da senha, a medida de segurança mais adequada a ser implementada é",
       "alternatives": {
         "A": "exigir que todas as senhas sejam alteradas a cada 15 dias.",
         "B": "instalar um antivírus de última geração em todas as estações de trabalho.",
         "C": "implementar a Autenticação de Dois Fatores (2FA).",
         "D": "exigir que as senhas tenham no mínimo 25 caracteres.",
-        "E": "configurar o Firewall para bloquear todo o acesso à internet. Legislação Específica"
+        "E": "configurar o Firewall para bloquear todo o acesso à internet."
       },
       "answer": "C",
       "annulled": false,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi solicitada, a uma Secretaria do Poder Executivo do Estado de Rondônia, a cedência de João, servidor ocupante de cargo de provimento efetivo no âmbito da referida estrutura orgânica. Ao ser consultado em relação ao requerimento apresentado, João analisou o Regime Jurídico dos Servidores Públicos Civis do Estado de Rondônia, tendo concluído corretamente que",
       "alternatives": {
         "A": "não poderá progredir na carreira durante o período de cedência.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Maria, servidora ocupante de cargo de provimento efetivo na Assembleia Legislativa do Estado de Rondônia, decidiu requerer a percepção do adicional de responsabilidade técnica (ADRT), por ter preenchido os requisitos exigidos pela Lei Complementar nº 731/2013. À luz dos balizamentos estabelecidos pela sistemática legal, é correto afirmar que Maria",
       "alternatives": {
         "A": "deve exercer a atividade técnica de Engenharia.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Em um processo administrativo que tramitou no âmbito da Assembleia Legislativa do Estado de Rondônia, o legítimo interessado obteve êxito em sua pretensão, no plano recursal, após percorrer o número máximo de instâncias previsto na Lei nº 3.830/2016, manejando os instrumentos legais cabíveis. Na situação descrita, considerando a sistemática legal vigente, é correto afirmar que",
       "alternatives": {
         "A": "o recurso administrativo teve efeito suspensivo, salvo disposição legal ou regulamentar em contrário.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Determinada estrutura orgânica da Assembleia Legislativa do Estado de Rondônia, ao identificar a necessidade de serem adquiridos materiais de escritório, constatou a existência de ata de registro de preços, no âmbito de certa estrutura federal, que apresentava condições vantajosas, admitia adesões e abrangia a integralidade dos materiais a serem adquiridos. Nesse caso, à luz da sistemática estabelecida na Resolução ALE/RO nº 593/2024, é correto afirmar que",
       "alternatives": {
         "A": "é necessária a elaboração de termo de referência pelo setor requisitante, detalhando os materiais a serem adquiridos, seu valor de mercado e as razões da vantajosidade da adesão.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi instaurado, no âmbito da Assembleia Legislativa do Estado de Rondônia, expediente cujo objetivo é o de instar a iniciativa privada a propor uma solução inovadora que contribua para a resolução de determinada demanda de relevância pública, o que permitirá a melhor instrução da etapa de planejamento da contratação. À luz da sistemática estabelecida na Resolução ALE/RO nº 593/2024, é correto afirmar que esse procedimento",
       "alternatives": {
         "A": "é o credenciamento.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Determinada estrutura administrativa da Administração Pública estadual começou a adotar as medidas necessárias com o objetivo de realizar licitação visando à contratação de obra pública. Nesse momento, foi concluído o documento que contém os levantamentos topográficos e o conjunto de elementos necessários e suficientes para definir e dimensionar a obra, de modo a assegurar a sua viabilidade técnica, o tratamento do impacto ambiental, a avaliação do custo e o prazo de execução, mas não a identificação de serviços, materiais e equipamentos a serem incorporados à obra, com suas especificações técnicas. O documento referido é o",
       "alternatives": {
         "A": "anteprojeto.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Pedro, servidor público ocupante de cargo efetivo na Administração Pública do Estado de Rondônia, foi condenado, no início do corrente mês, em sentença proferida por juízo monocrático, pela prática de ato de improbidade administrativa tipificado no Art. 11 da Lei nº 8.429/1992. Na situação descrita, é correto afirmar que",
       "alternatives": {
         "A": "a conduta de Pedro pode ter sido praticada com dolo ou culpa.",
@@ -467,14 +467,14 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi constatado que determinada estrutura de poder da Administração Pública estadual promoveu o tratamento de informações afetas a certo grupo de pessoas naturais e jurídicas, com total inobservância da sistemática estabelecida na legislação de regência. Considerando os balizamentos estabelecidos pela Lei nº 12.257/2011, é correto afirmar que esse diploma normativo",
       "alternatives": {
         "A": "somente dispõe sobre direitos e deveres, não incursionando na temática da responsabilização.",
         "B": "tipificou uma infração disciplinar para o servidor público que concorreu à prática do ilícito.",
         "C": "versa sobre a responsabilização pelos danos causados às pessoas naturais na situação descrita, não incursionando na temática das pessoas jurídicas.",
         "D": "consagra a possibilidade de responsabilização civil direta do servidor público que concorreu para a prática do ilícito, de modo solidário com a pessoa jurídica.",
-        "E": "admite a responsabilização direta do órgão ou da entidade pública, reconhecendo a apuração da responsabilidade funcional em caso de dolo ou culpa, assegurando o direito de regresso. História e Geografia de Rondônia"
+        "E": "admite a responsabilização direta do órgão ou da entidade pública, reconhecendo a apuração da responsabilidade funcional em caso de dolo ou culpa, assegurando o direito de regresso."
       },
       "answer": "E",
       "annulled": false,
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A ocupação colonial da Amazônia, nos séculos XVII e XVIII, articulou estratégias militares, administrativas, religiosas e econômicas, para afirmar a soberania portuguesa, explorar recursos e controlar populações indígenas, sendo os rios Amazonas, Madeira, Guaporé e Mamoré decisivos para a incorporação da região ao Império Português. Sobre as bases da ocupação colonial da Amazônia e seus desdobramentos na região que hoje corresponde ao estado de Rondônia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Entre 1580-1640, a ocupação militar portuguesa concentrou- se nas regiões de fronteira entre a América Portuguesa e a Espanhola, tal como delimitado pelo Tratado de Tordesilhas, o que retardou a presença lusa na Amazônia.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Estrada de Ferro Madeira Mamoré (EFMM) foi o primeiro grandioso processo de desenvolvimento para a Amazônia Ocidental, potencializando um significativo fluxo humano para a região de Porto Velho e Guajará-Mirim. Por isso, é comum encontrar nos escritores regionais rondonienses a afirmativa de que a história de Rondônia se confunde, de tão próxima, com a própria história da EFMM. E eles têm razão ao fazerem isso. Adaptado de CAVALCANTE, Fábio Robson Casara. Formação Institucional e Desenvolvimento Regional no Estado do Rondônia. In: SILVA, Fábio Carlos e RAVENA, Nírvia. (Orgs.). Formação Institucional da Amazônia. Belém: Editora do NAEA, 2015, p 400-401. Ao analisar a formação histórica da região que corresponde ao atual estado de Rondônia, o autor enfatiza que a Estrada de Ferro Madeira-Mamoré (EFMM)",
       "alternatives": {
         "A": "teve impacto no escoamento da produção agrícola regional e na concentração populacional, sobretudo de trabalhadores africanos utilizados para construção da ferrovia.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sem dúvida alguma, o número de negros escravos entrados na Amazônia colonial foi bem menor que aquele introduzido no Nordeste, contudo, a questão que se coloca não é a de inverter as cifras do tráfico negreiro ou a de se comprovar que a Amazônia, enquanto região cultural é tão ou mais africana do que o Nordeste Agrário do Litoral. Trata-se, isso sim, de se duvidar do “vazio humano” (no caso, a presença africana) com o qual sempre se caracterizou a região. Adaptado de VERGOLINO-HENRY, Anaíza; FIGUEIREDO, Napoleão. A presença africana na Amazônia colonial: uma notícia histórica, Belém: Arquivo Público do Pará, 1990. p. 31. A respeito da formação social da Amazônia colonial e da presença africana na região, é correto informar que a interpretação do autor, no trecho apresentado,",
       "alternatives": {
         "A": "questiona a caracterização da sociedade colonial amazônica com base em dados quantitativos, pois esse procedimento oculta ou minimiza os papéis representados pela população de origem africana em solo Amazônico.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com base no processo de transformação econômica do Território Federal do Guaporé (atual Rondônia), no período posterior ao segundo ciclo da borracha, analise as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) Após o segundo ciclo da borracha, impulsionado pela Segunda Guerra Mundial, a economia de Rondônia retornou a um padrão de relativa estagnação, sustentado principalmente por atividades extrativistas tradicionais, como a borracha, a castanha, a poaia, peles de animais e óleos vegetais. ( ) A descoberta de diamantes no rio Ji-Paraná, no início dos anos 1950, nas proximidades da antiga Vila de Rondônia, estimulou a chegada de aventureiros oriundos sobretudo da região Centro-Oeste, atraídos pela exploração mineral no Território do Guaporé. ( ) A cassiterita, conhecida na região desde os anos 1930, teve exploração limitada em Rondônia, em razão da retração da demanda internacional por estanho, ocorrida a partir da década de 1970, quando a China se consolidou como principal produtora mundial do minério. ( ) O fechamento da lavra manual da cassiterita, em 1971, esteve associado principalmente à crescente preocupação do Estado com os impactos ambientais do garimpo, levando à adoção de medidas de proteção ecológica e de ordenamento sustentável da atividade mineradora em Rondônia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F – F.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A rede hidrográfica de Rondônia faz parte, num contexto mais amplo, da grande Bacia do Rio Madeira e é, localmente, formada pelas bacias tributárias dos rios Guaporé, Mamoré, Alto Madeira, Abunã, Jamari, Machado ou Ji-Paraná, e Roosevelt. Considerando a geografia de Rondônia e a organização da rede hidrográfica integrante da Bacia do rio Madeira, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O rio Guaporé nasce na Chapada dos Parecis (Mato Grosso) e deságua no rio Mamoré, (Rondônia) e, a partir de seu médio curso, ele representa a fronteira entre o Brasil e a Bolívia.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Segundo o IBGE, os povos e comunidades tradicionais são grupos culturalmente diferenciados, que possuem próprias formas próprias de organização social e mantêm relação direta e histórica com territórios e recursos naturais, indispensáveis à sua reprodução cultural, social, religiosa, ancestral e econômica, com base em conhecimentos, práticas e saberes transmitidos pela tradição. Em Rondônia, dentre esses grupos etnicamente diferenciados, destacam-se: (1) os que vivem às margens dos rios Madeira, Guaporé, Mamoré, Ji-Paraná, Jamari e seus afluentes, cujo modo de vida está associado à pesca artesanal, à agricultura de várzea, ao extrativismo vegetal e ao uso dos rios como principal via de transporte e sociabilidade; (2) os descendentes de migrantes nordestinos e amazônicos, que se fixaram na região durante os ciclos da borracha, atuam na extração de látex, castanha-do-brasil, óleos vegetais (andiroba, copaíba) e outros produtos florestais não madeireiros, especialmente em reservas extrativistas. Os grupos descritos nos itens (1) e (2) exemplificam, respectivamente,",
       "alternatives": {
         "A": "povos indígenas e ribeirinhos.",
@@ -585,8 +585,25 @@
       "page_number": 10
     },
     {
+      "question_number": 35,
+      "discipline": "História e Geografia de Rondônia",
+      "statement": "O processo de instalação da Assembleia Legislativa de Rondônia (ALE-RO) por meio da promulgação da Constituição de 1983 foi fundamental na transição de antigo Território Federal para a condição de estado-membro da Federação brasileira. A respeito da conjuntura política relativa à criação da ALE-RO, avalie as afirmativas a seguir. I. A Lei Complementar nº 41/1981 foi o instrumento jurídico que elevou o antigo Território Federal à categoria de Estado e foi sancionada pelo então presidente, João Figueiredo. O governo militar buscava garantir maior representatividade no Congresso Nacional. A criação de Rondônia permitiria a eleição de três senadores e oito deputados federais, com a expectativa de que o PDS, partido de sustentação do regime, vencesse o pleito de 1982. II. Apesar do esforço do PDS na criação do novo Estado e de sua Assembleia Legislativa, o partido saiu derrotado nas eleições executivas e legislativas estaduais de 1982 em Rondônia, sobretudo em função do movimento pela reconquista da democracia, com forte atuação da oposição organizada ao redor do PMDB e do PDT. III. A nova dinâmica da competição eleitoral no recém-criado estado de Rondônia alterou a composição das elites políticas e a própria configuração do sistema partidário, entre as décadas de 1980 e 1990, com a substituição da antiga elite política territorial, com bases na capital Porto Velho, para uma nova classe política dominante, oriunda majoritariamente do interior do estado, especificamente no eixo da BR-364 e associada ao PMDB. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/alero25_analista-legislativo-processo-legislativo_q35.png",
+      "page_number": 10
+    },
+    {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "João, servidor público no âmbito do Estado de Rondônia, participou de palestra sobre o sistema remuneratório aplicável aos agentes públicos de uma forma geral, tomando conhecimento de que a União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes. De acordo com a narrativa e considerando as disposições da Constituição Federal, avalie as afirmativas a seguir: I. A fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará a natureza, o grau de responsabilidade e a complexidade dos cargos componentes de cada carreira, os requisitos para a investidura e as peculiaridades dos cargos. II. É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo. III. Os Poderes Executivo, Legislativo e Judiciário publicarão anualmente os valores do subsídio e da remuneração dos cargos e empregos públicos. Nesse cenário, considerando as disposições da Constituição Federal, está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A associação civil Alfa demonstrou interesse em ser qualificada como organização social (OS), com o objetivo de celebrar determinada parceria com o Poder Público, visando à implementação de direitos fundamentais. Desta forma, os associados constataram a necessidade de instituição, no âmbito da entidade privada, de um Conselho de Administração. Nesse cenário, considerando as disposições da Lei nº 9.637/1998, é correto afirmar que o Conselho de Administração da associação civil Alfa, entre outros requisitos para a obtenção da qualificação de organização social (OS), deverá ser composto por",
       "alternatives": {
         "A": "dez a trinta por cento de membros eleitos, dentre os membros ou os associados, os quais terão mandato de dois anos, admitida uma recondução.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em observância às formalidades legais, João ingressou com processo administrativo junto à Administração Pública Federal. Encerrada a instrução processual, a autoridade administrativa competente determinou a intimação de João para que ele, no prazo máximo de dez dias, se manifestasse, caso assim tivesse interesse. Registre-se que João foi oficialmente cientificado no dia 17 de novembro de 2025, segunda-feira. Nesse cenário, considerando as disposições da Lei nº 9.784/1999, é correto afirmar que o último dia para a manifestação de João ocorreu em",
       "alternatives": {
         "A": "26 de novembro de 2025.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em outubro de 2025, a Mesa do Senado Federal encaminhou pedido escrito de informações direcionado ao Senhor João da Silva, Ministro de Estado da Saúde. Registre-se que o pleito tem relação com as competências do Ministério. Nesse cenário, considerando as disposições da Constituição Federal, é correto afirmar que João da Silva",
       "alternatives": {
         "A": "deverá atender ao pedido de informações formulado pelo Senado Federal, importando em crime de desobediência a recusa ou o não atendimento, no prazo de quinze dias, bem como a prestação de informações falsas.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O direito ao transporte e à mobilidade da pessoa com deficiência ou com mobilidade reduzida será assegurado em igualdade de oportunidades com as demais pessoas, por meio de identificação e de eliminação de todos os obstáculos e barreiras ao seu acesso. Nesse cenário, considerando as disposições da Lei nº 13.146/2015, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) É proibida a cobrança diferenciada de tarifas ou de valores adicionais pelo serviço de táxi prestado à pessoa com deficiência. ( ) O poder público deverá instituir incentivos fiscais com vistas a possibilitar a acessibilidade dos veículos de táxi. ( ) As locadoras de veículos são obrigadas a oferecer um veículo adaptado para uso de pessoa com deficiência, a cada conjunto de dez veículos de sua frota. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em determinado acidente de trânsito, ficou comprovado que o condutor de bicicleta elétrica causador do dano agiu com culpa leve ao não frear diante da vítima que atravessava a via fora da faixa de pedestres e utilizando aparelho celular, contribuindo de forma relevante para a ocorrência do evento danoso. Os danos sofridos pela vítima abrangeram prejuízos patrimoniais e extrapatrimoniais significativos. Diante dessas circunstâncias, considerando tanto a extensão do dano quanto o grau de culpa das partes envolvidas, e à luz da legislação aplicável, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A indenização deve ser fixada exclusivamente com base na extensão do dano, sendo irrelevante a análise do grau de culpa das partes quando comprovada a responsabilidade do causador do evento.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "João é proprietário de extensa área rural situada em região de relevante interesse ambiental. Embora não explore economicamente o imóvel, passou a praticar atos reiterados de obstrução do acesso de comunidades vizinhas a curso d’água que atravessa parte da propriedade, sem qualquer proveito direto para si, motivado exclusivamente por desavenças pessoais. Paralelamente, parcela significativa do imóvel encontra-se ocupada, há mais de cinco anos, de forma contínua e de boa-fé, por diversas famílias que nele realizaram obras de infraestrutura e desenvolveram atividades produtivas consideradas de interesse social e econômico relevante. Além disso, João ajuizou ação visando impedir a realização de obras subterrâneas por concessionária de serviço público, executadas em profundidade que não compromete o uso normal do solo nem a exploração econômica do imóvel. À luz do Código Civil, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O direito de propriedade assegura ao titular o exercício irrestrito de todos os poderes dominiais, sendo lícitos os atos praticados ainda que desprovidos de utilidade econômica, desde que não haja violação expressa de norma legal.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em 15 de março de 2015, Ana celebrou contrato particular de prestação de serviços com Bruno, que deixou de cumprir a obrigação de pagamento na data ajustada. Apesar da inadimplência, Ana permaneceu inerte por vários anos e, apenas em 2024, passou a cogitar o ajuizamento de ação para exigir judicialmente o valor devido. Considerando o regime jurídico da prescrição no Código Civil, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A prescrição impede o exercício da pretensão de cobrança, pois afeta a existência do vínculo obrigacional, que é extinto pelo decurso do prazo.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em ação indenizatória movida por servidor público contra o Estado de Rondônia, visando ao pagamento de verbas funcionais não pagas, o juízo de primeiro grau profere sentença condenando o ente estatal ao pagamento de quantia líquida e certa equivalente a 450 (quatrocentos e cinquenta) salários-mínimos vigentes na data da sentença. Não houve interposição de recurso por nenhuma das partes e a decisão não é baseada em entendimento jurisprudencial consolidado em súmula ou decisão vinculante. A partir do caso analisado, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A sentença estará sujeita ao duplo grau de jurisdição obrigatório, pois a condenação foi imposta ao ente federativo estadual e o valor supera 100 (cem) salários-mínimos.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O Ministério Público do Estado de Rondônia ajuizou Ação Civil Pública (ACP) em face de uma empresa de transporte aéreo, alegando cobrança abusiva de tarifas. O pedido foi julgado procedente, com sentença transitada em julgado condenando a ré a ressarcir os consumidores lesados, a serem apurados em sede de liquidação individual. Passado um ano do trânsito em julgado, não houve habilitação de interessados individuais em número compatível com a gravidade do dano. O Ministério Público, assim, apresenta petição requerendo a liquidação e execução residual da sentença. Diante desse cenário, e considerando o microssistema de processo coletivo, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A inércia dos consumidores individuais opera a decadência do direito material, extinguindo-se a obrigação da empresa em indenizá-los, não havendo legitimidade do Parquet para a liquidação e cumprimento de sentença coletiva na hipótese.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Foi apresentada proposição legislativa no âmbito da Assembleia Legislativa do Estado Alfa (ALEA), com o objetivo de disciplinar determinado direito social de viés prestacional. De acordo com a Constituição da República (CR), direito dessa natureza deveria ser veiculado em lei complementar. A Constituição do Estado Alfa (CEA), no entanto, passou ao largo da temática, nada dispondo a respeito da forma do diploma normativo estadual que viesse a incursionar na temática. A Comissão de Constituição e Justiça da ALEA observou corretamente que, na situação descrita, a proposição legislativa deve ter a forma de",
       "alternatives": {
         "A": "lei ordinária, podendo ser submetida ao controle concentrado de constitucionalidade perante o Tribunal de Justiça, sendo utilizada como paradigma de confronto a CR.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Diversas lideranças da Assembleia Legislativa do Estado Alfa (ALEA) entendiam que as competências originárias do Tribunal de Justiça desse ente federativo (TJEA), na seara cível, mais especificamente em relação aos denominados \"remédios constitucionais\", deveriam ser remodeladas. Ao analisarem a possibilidade, ou não, de promoverem a referida remodelagem, concluíram corretamente que",
       "alternatives": {
         "A": "as competências originárias do TJEA devem ser disciplinadas em seu regimento interno.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Comissão de Constituição e Justiça da Assembleia Legislativa do Estado Sigma analisou a conformidade constitucional de uma proposição legislativa, tendo utilizado como paradigma o Art. X da Constituição da República. Na ocasião, concluiu inexistir relação de sobreposição entre o enunciado linguístico interpretado e a norma constitucional delineada pelo intérprete, de modo que, a partir de uma pluralidade de significados possíveis, cabe ao intérprete, após a resolução das conflitualidades intrínsecas que se apresentem, decidir qual deles deve preponderar. É correto afirmar que a linha argumentativa apresentada pela Comissão é",
       "alternatives": {
         "A": "compatível com o originalismo.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Os Prefeitos dos Municípios Alfa e Beta procuraram o Presidente da Assembleia Legislativa do Estado Sigma e o informaram sobre o interesse das populações desses Municípios em promover a sua fusão. Esse interesse decorria de sua unidade histórico-cultural, o que demonstrava o erro de ter sido promovida a sua separação no passado, erro este que deveria ser reparado com a fusão almejada. O Presidente da Assembleia Legislativa do Estado Sigma solicitou que sua assessoria se pronunciasse a respeito da viabilidade jurídica da fusão pretendida, sendo-lhe corretamente esclarecido que",
       "alternatives": {
         "A": "a mobilidade intrínseca da federação é constitucionalmente vedada.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "João pretende concorrer ao cargo eletivo de Deputado da Assembleia Legislativa do Estado Beta. No entanto, tinha dúvidas em relação a essa possibilidade. Afinal: I. nasceu no País Alfa quando seus pais, de nacionalidade brasileira, estavam ali a serviço da embaixada da República Federativa do Brasil; II. jamais teve domicílio eleitoral no território brasileiro, o que somente ocorrerá após a data de diplomação dos eleitos, na eleição em que pretende concorrer, mas antes da diplomação; e III. tem vinte e um anos de idade. Ao se inteirar da sistemática constitucional, João concluiu corretamente, em relação aos três aspectos mencionados, que",
       "alternatives": {
         "A": "nenhum deles afeta a sua elegibilidade.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a discussão de determinada causa na audiência de instrução e julgamento, as partes e seus respectivos procuradores se exaltaram, sendo necessária a intervenção do Juiz de Direito responsável pela condução dos trabalhos. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que não constitui",
       "alternatives": {
         "A": "injúria ou difamação punível a ofensa irrogada em juízo, na discussão da causa, pela parte ou por seu procurador. Igualmente, não responde pela injúria ou pela difamação quem lhe dá publicidade.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Após a observância do contraditório e da ampla defesa, o juízo competente condenou Caio, João e Matheus, servidores públicos, pela prática, em concurso de pessoas, dos crimes de corrupção passiva e organização criminosa. Registre-se que Caio ocupa um cargo em comissão na autarquia Alfa, João exerce função de direção na sociedade de economia mista Beta e Matheus é titular de um cargo em comissão na Administração Direta do Município Charlie. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que serão aumentadas, na terceira fase da dosimetria, as penas de",
       "alternatives": {
         "A": "Caio, por ocupar cargo em comissão na autarquia Alfa, de João, por exercer função de direção na sociedade de economia mista Beta e de Matheus por ser titular de um cargo em comissão na Administração Direta do Município Charlie.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "João, condenado pela prática de determinada infração legal, fez jus, em observância às formalidades legais, ao instituto da suspensão condicional da pena. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que a suspensão condicional da pena poderá ser, facultativamente, revogada em prejuízo do beneficiário que",
       "alternatives": {
         "A": "descumpre a condição de, no primeiro ano da suspensão condicional da pena, prestar serviços à comunidade.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Após complexa e longa instrução processual, em observância ao contraditório e à plenitude de defesa, o Tribunal do Júri da Comarca de Porto Velho/RO condenou José pela prática do crime de homicídio qualificado. Registre-se que a defesa consignou que irá recorrer da decisão prolatada. Nesse cenário, considerando as disposições do Código de Processo Penal e o entendimento dominante do Supremo Tribunal Federal, é correto afirmar que",
       "alternatives": {
         "A": "autoriza-se a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada à José, em observância à soberania dos veredictos do Tribunal do Júri.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Caio se encontra preso, definitivamente, pela prática do crime de latrocínio. Em conversa com o seu advogado, Caio tomou conhecimento da existência de um determinado órgão, ao qual incumbe diligenciar a obtenção de recursos materiais e humanos para melhor assistência ao preso ou internado, em harmonia com a direção do estabelecimento. Nesse cenário, considerando as disposições da Lei nº 7.210/1984, a referida incumbência pertence ao (à)",
       "alternatives": {
         "A": "Departamento Penitenciário.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A sociedade empresária X, domiciliada no Estado Alfa, possui frota própria composta por 200 caminhões destinados à prestação de serviços de transporte interestadual de cargas. Visando reduzir sua carga tributária, licenciou todos os veículos no Estado Beta, onde não possui sede ou domicílio tributário, mas que oferecia alíquota reduzida de IPVA. Diante do exposto, é correto afirmar que",
       "alternatives": {
         "A": "o IPVA é devido ao Estado Beta, pois a Constituição Federal determina que o imposto pertence ao município de licenciamento.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A sociedade empresária XYZ Ltda., optante do lucro presumido com relação ao regime tributário do cálculo do Imposto de Renda Pessoa Jurídica (IRPJ) e Contribuição Social sobre o Lucro Líquido (CSLL), pretende aderir ao Simples Nacional no próximo exercício. Durante a análise prévia, o contador identifica que a empresa possui débitos tributários não regularizados perante a Receita Federal e o Estado. À luz da legislação, em especial a Lei Complementar nº 123/2006 (LC 123) e da jurisprudência, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A Administração Tributária é obrigada a autorizar o ingresso da sociedade empresária XYZ no Simples Nacional e restringir-se a cobrar os débitos pelas vias ordinárias, pois a pendência fiscal não pode impedir o exercício da atividade empresarial.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em 10/08/2017, Beatriz recebeu de sua tia a doação de uma obra de arte de alto valor de mercado. Porém, Beatriz não declarou a doação ao Fisco estadual. Em 2023, após cruzar dados fiscais, a Secretaria de Fazenda estadual lavrou lançamento de ofício para cobrar o Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCMD) devido. Considerando a legislação e a jurisprudência sobre o tema, assinale a alternativa correta.",
       "alternatives": {
         "A": "O prazo decadencial se inicia na data em que o Fisco tomou ciência da doação, pois somente a partir desse momento o lançamento poderia ter sido efetuado.",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante procedimento administrativo fiscal regularmente instaurado pela Secretaria da Fazenda do Estado Alfa, a autoridade tributária expediu intimações a I. uma corretora de investimentos, solicitando a identificação de ativos financeiros em nome do contribuinte investigado; II. à Junta Comercial, requerendo cópia dos contratos sociais arquivados; e III. ao cartório de registro de imóveis, requerendo informações sobre a titularidade de bens. Com base nessas informações, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A autoridade fiscal pode requisitar diretamente informações cadastrais, patrimoniais e financeiras do contribuinte, sendo desnecessária a prévia autorização judicial para o acesso a dados protegidos por sigilo.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Assembleia Legislativa do Estado de Rondônia promoveu um ciclo de palestras sobre o meio ambiente ecologicamente equilibrado, verdadeiro direito fundamental de terceira dimensão, titularizado pela presente e pelas futuras gerações. Atribuiu-se, enfoque, durante os encontros, à Política Nacional do Meio Ambiente. Nesse cenário, considerando as disposições da Lei nº 6.938/1981, é correto afirmar que",
       "alternatives": {
         "A": "enquanto o zoneamento ambiental é um instrumento, a avaliação de impactos ambientais é um princípio da Política Nacional do Meio Ambiente.",
@@ -1011,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No curso de determinada conferência internacional realizada no Brasil, debateu-se intensamente a respeito de uma unidade de conservação de uso sustentável, nos termos da legislação de regência. Nesse cenário, considerando as disposições da Lei nº 9.985/2000, a unidade de conservação objeto desses intensos debates pode ser",
       "alternatives": {
         "A": "um Refúgio de Vida Silvestre.",
@@ -1028,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Após tomar posse em determinado cargo em comissão, no âmbito de órgão público destinado à proteção do meio ambiente, Caio, instado pelo seu superior hierárquico, passou a estudar as particularidades do que se convencionou chamar de plano diretor. Nesse cenário, considerando as disposições da Constituição Federal, é correto afirmar que o plano diretor,",
       "alternatives": {
         "A": "aprovado pela Câmara Municipal, obrigatório para cidades com mais de vinte mil habitantes, é o instrumento básico da política de desenvolvimento e de expansão urbana.",
@@ -1045,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Após abater determinado animal, João, extremamente preocupado com as repercussões penais provenientes da sua conduta, procurou um especialista no Direito Ambiental, o qual lhe prestou a devida consultoria jurídica sobre a temática. Nesse cenário, considerando as disposições da Lei no 9.605/1998, não é crime o abate de animal, quando realizado em",
       "alternatives": {
         "A": "legítima defesa, para saciar a fome do agente ou de sua família; para proteger lavouras, pomares e rebanhos da ação predatória ou destruidora de animais, desde que legal e expressamente autorizado pela autoridade competente; por ser nocivo o animal, desde que assim caracterizado pela pessoa responsável pelo abate.",
@@ -1062,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No contexto da implementação de políticas públicas voltadas à proteção do consumidor, determinado Estado da Federação instituiu programa permanente que envolve ações de educação financeira, estímulo à autocomposição de conflitos de consumo e criação de estruturas administrativas destinadas à renegociação de dívidas de consumidores pessoas naturais. Além disso, o Poder Público passou a estimular a adoção, pelos fornecedores, de mecanismos internos de controle e solução consensual de conflitos, como condição para acesso a determinados benefícios administrativos. Considerando a disciplina da Política Nacional das Relações de Consumo (PNRC), assinale a afirmativa correta.",
       "alternatives": {
         "A": "As medidas descritas extrapolam os limites da PNRC, pois a atuação estatal no mercado deve restringir-se à repressão de práticas abusivas já consumadas, não abrangendo ações de caráter preventivo.",
@@ -1079,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em janeiro de 2016, Júlia passou a sofrer cobranças mensais referentes a serviço bancário que jamais contratou. Mesmo após reclamações administrativas, a instituição financeira manteve as cobranças e promoveu a inscrição de seu nome em banco de dados de proteção ao crédito, sem comunicação prévia, situação que perdurou até dezembro de 2016. Temendo restrições mais gravosas, Júlia pagou parte das cobranças indevidas entre março e junho de 2016. Somente em fevereiro de 2023, após tomar ciência de entendimento jurisprudencial favorável, ajuizou ação judicial pleiteando (i) a repetição do indébito, em dobro, dos valores pagos e (ii) indenização por danos morais decorrentes da negativação indevida. Considerando o Código de Defesa do Consumidor e a jurisprudência consolidada do Superior Tribunal de Justiça, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Está prescrita a pretensão de repetição do indébito, pois se aplica o prazo trienal do Código Civil, contado do pagamento indevido.",
@@ -1096,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Marina celebrou contrato de financiamento imobiliário com instituição financeira, por meio de contrato de adesão, contendo cláusula que previa: (i) a renúncia expressa do consumidor ao direito de discutir judicialmente a validade das cláusulas contratuais; (ii) a possibilidade de modificação unilateral das taxas cobradas, desde que comunicada previamente; e (iii) a eleição de foro diverso do domicílio do consumidor, indicado como exclusivo. Após alguns anos de execução do contrato, a instituição financeira alterou unilateralmente as taxas pactuadas, elevando significativamente o valor das parcelas. Diante disso, Marina ajuizou ação judicial visando à revisão contratual e à declaração de nulidade das cláusulas mencionadas. Considerando o Código de Defesa do Consumidor e a jurisprudência consolidada do Superior Tribunal de Justiça, assinale a alternativa correta.",
       "alternatives": {
         "A": "São nulas de pleno direito as cláusulas que impliquem renúncia ao direito de ação, permitam modificação unilateral do contrato ou estabeleçam foro exclusivo diverso do domicílio do consumidor, independentemente da demonstração de prejuízo concreto.",
@@ -1113,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Marcos é beneficiário de plano de saúde coletivo empresarial, contratado sob o regime de coparticipação. O contrato prevê que, além da mensalidade fixa, o beneficiário deverá arcar com percentual do custo dos procedimentos utilizados. Em determinado mês, Marcos foi submetido a diversos procedimentos médicos de alta complexidade. Ao final, a operadora do plano de saúde emitiu cobrança de coparticipação equivalente a 70% do valor pago aos prestadores de serviços, o que resultou em desembolso total mensal superior ao valor da mensalidade contratada. Diante da cobrança, Marcos ajuizou ação judicial sustentando a abusividade da cláusula contratual e a violação às normas de proteção do consumidor. A operadora, por sua vez, alegou que a coparticipação foi previamente pactuada, que não há vedação legal expressa à cobrança realizada e que a utilização intensiva do plano justifica o valor exigido. À luz do Código de Defesa do Consumidor e do entendimento consolidado do Superior Tribunal de Justiça, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A cobrança é válida, pois o regime de coparticipação admite que o beneficiário arque integralmente com os custos decorrentes da utilização intensiva dos serviços de saúde, desde que haja previsão contratual.",
@@ -1130,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Caio foi candidato ao cargo de deputado estadual nas eleições 2022. Recentemente, tomou ciência de decisão, no bojo de processo de prestação de contas, que desaprovou suas contas de campanha, tendo sido constatada a existência de dívidas de campanha não assumidas pelo partido político, no percentual equivalente a 20% dos recursos arrecadados. Considerando a jurisprudência do Tribunal Superior Eleitoral e a legislação em vigor, é correto afirmar que",
       "alternatives": {
         "A": "a existência de dívidas de campanha, não quitadas e não assumidas pelo partido, em valores elevados, configuram falha grave, ensejando a desaprovação das contas.",
@@ -1147,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Tício, agente público, foi condenado, em primeira instância, por ato de improbidade administrativa, constando do dispositivo da decisão a prática de atos previstos nos artigos 10 e 11 da Lei nº 8.429/92. A sentença foi mantida pelo Tribunal de Justiça em análise de recurso. Nas eleições de 2024, Tício se candidatou a Vereador, tendo apresentado, no prazo legal, seu registro de candidatura. O juiz eleitoral, na análise de ação de impugnação de registro de candidatura, deferiu seu registro, por entender ausente o enriquecimento ilícito. Considerando a jurisprudência do Tribunal Superior Eleitoral e a legislação em vigor, é correto afirmar que",
       "alternatives": {
         "A": "a incidência da referida causa de inelegibilidade pressupõe a existência de condenação à suspensão de direitos políticos, decisão transitada em julgado ou proferida por órgão judicial colegiado, a ocorrência de ato doloso de improbidade administrativa, bastando que o ato tenha gerado lesão ao patrimônio público.",
@@ -1164,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Mévio ajuizou Ação de Investigação Judicial Eleitoral contra Caio e Tício, reeleitos nas Eleições 2020, respectivamente, para os cargos de prefeito e vice-prefeito do Município Alfa, aduzindo ter ocorrido captação ilícita de sufrágio e por abuso dos poderes econômico e político. Na exordial, afirmou-se ter ocorrido doação de cestas básicas, realização de obras públicas no período eleitoral, contratação de servidores em época vedada e gastos desproporcionais com publicidade. O Juízo de primeiro grau julgou improcedente o pedido, considerando ilícitas as gravações ambientais realizadas em ambiente privado. Considerando a Jurisprudência do Tribunal Superior Eleitoral, do Supremo Tribunal Federal e a legislação em vigor, é correto afirmar que",
       "alternatives": {
         "A": "na seara eleitoral, a gravação realizada em ambiente privado por um dos interlocutores, sem o consentimento dos demais, é prova lícita, pois deve se privilegiar a lisura do pleito eleitoral, mostrando-se equivocada a sentença prolatada.",

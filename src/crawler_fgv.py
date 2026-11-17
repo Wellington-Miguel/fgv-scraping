@@ -590,20 +590,31 @@ class FGVCrawler:
         if self._is_excluded_document(combined):
             return None
 
-        # Bloqueia editais, avisos, portarias, convocações, bancas, etc. (mesmo que citem a palavra "prova" ou "gabarito")
-        if any(admin_kw in norm for admin_kw in ADMIN_KEYWORDS):
-            return None
-
         exam_type = self._detect_exam_type(norm)
 
-        # Caso 1: Gabarito
+        # Caso 1: Gabarito (verificado ANTES de ADMIN_KEYWORDS para não bloquear
+        # links oficiais como "Edital de Gabarito Definitivo" ou "Comunicado - Gabarito")
         if "gabarito" in norm:
             if exam_type == "OUTRO_TIPO":
+                return None
+            if any(
+                k in norm
+                for k in (
+                    "interposicao",
+                    "resposta aos recursos",
+                    "respostas aos recursos",
+                    "respostas publicas",
+                )
+            ):
                 return None
 
             if any(k in norm for k in ("definitivo", "oficial", "apos recurso", "pos recurso", "final")):
                 return ("gabarito_definitivo", exam_type or "Tipo 1")
             return ("gabarito_preliminar", exam_type or "Tipo 1")
+
+        # Bloqueia editais, avisos, portarias, convocações, bancas, etc. para cadernos de prova
+        if any(admin_kw in norm for admin_kw in ADMIN_KEYWORDS):
+            return None
 
         # Caso 2: Caderno de Prova Objetiva
         # Não aceita links que sejam apenas "Nota", "Programa", "Pontos", etc.
@@ -744,12 +755,39 @@ class FGVCrawler:
     def _find_best_matching_gabarito(
         cargo_title: str, gabaritos: List[PdfCandidate]
     ) -> PdfCandidate:
-        cargo_tokens = set(normalize_text(cargo_title).split())
+        norm_cargo = normalize_text(cargo_title)
+        cargo_tokens = {
+            t
+            for t in norm_cargo.split()
+            if len(t) > 2 and t not in {"cargo", "geral", "prova", "objetiva", "tipo"}
+        }
+        is_cargo_cf = "formacao" in norm_cargo
+
         best = gabaritos[0]
-        best_score = -1
+        best_score = -999
         for gab in gabaritos:
-            gab_tokens = set(normalize_text(f"{gab.cargo_raw} {gab.title}").split())
-            score = len(cargo_tokens & gab_tokens)
+            norm_gab = normalize_text(f"{gab.cargo_raw} {gab.title} {Path(gab.url).name}")
+            gab_tokens = set(norm_gab.split())
+            score = len(cargo_tokens & gab_tokens) * 5
+
+            # Evita parear Gabarito de Curso/Programa de Formação com Prova Objetiva regular
+            if ("curso de formacao" in norm_gab or "programa de formacao" in norm_gab) and not is_cargo_cf:
+                score -= 25
+
+            # Penaliza gabarito específico de outro cargo entre parênteses quando não bate com o cargo atual
+            for paren_match in re.findall(r"\(([^)]+)\)", gab.title.lower()):
+                norm_p = normalize_text(paren_match)
+                if (
+                    len(norm_p) > 4
+                    and not any(
+                        k in norm_p
+                        for k in ("retific", "atualiz", "manha", "tarde", "tipo", "branca", "edital", "reaplic", "reabert")
+                    )
+                    and not re.search(r"\d", norm_p)
+                    and norm_p not in norm_cargo
+                ):
+                    score -= 15
+
             if score > best_score:
                 best_score = score
                 best = gab
@@ -828,6 +866,18 @@ class FGVCrawler:
                     exc,
                 )
                 time.sleep(1.5 * attempt)
+
+        # Fallback oficial via Internet Archive (Wayback Machine) para links legados netstorage.fgv.br
+        if "netstorage.fgv.br" in url:
+            wb_url = f"https://web.archive.org/web/2023id_/{url}"
+            try:
+                resp = self.session.get(wb_url, timeout=30)
+                if resp.status_code == 200 and resp.content.startswith(b"%PDF"):
+                    dest.write_bytes(resp.content)
+                    logger.info("Recuperado PDF legado via Wayback Machine: %s", wb_url)
+                    return True
+            except Exception as wb_exc:
+                logger.debug("Fallback Wayback Machine falhou para %s: %s", url, wb_exc)
 
         logger.error("Falha definitiva ao baixar PDF: %s", url)
         return False

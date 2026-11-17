@@ -202,7 +202,7 @@
         "B": "Como estivesse atrasado, acabou perdendo o avião / conjunção.",
         "C": "Apesar de muito esforço, não conseguiu passar no concurso / locução prepositiva.",
         "D": "Um ciclone inesperado atingiu Rio Bonito do Iguaçu, no estado do Paraná / adjetivo.",
-        "E": "Em 99% das casas e do comércio da cidade, a energia que foi cortada já foi restabelecida / pronome. Raciocínio Lógico Matemático"
+        "E": "Em 99% das casas e do comércio da cidade, a energia que foi cortada já foi restabelecida / pronome."
       },
       "answer": "A",
       "annulled": false,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Considere a afirmação: “Se o cozinheiro é competente, o almoço não vai atrasar.” A negação dessa afirmação é",
       "alternatives": {
         "A": "O cozinheiro não é competente e o almoço vai atrasar.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Samuel compra e vende carros usados na sua loja. Em uma das suas transações, ele comprou um carro usado e anunciou como preço de venda um valor 20% maior do que gastou na compra. Entretanto, na hora de vender, ele deu ao comprador um desconto de 10% sobre o preço de venda anunciado. Com isso, ele lucrou R$ 5.200,00 nessa transação. Esse carro foi vendido por",
       "alternatives": {
         "A": "R$ 65.000,00.",
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Arlindo, Benedito, Gilmar, Nonato e Osvaldo vão acampar. Eles possuem duas barracas, sendo uma menor, que comporta duas pessoas, e outra maior, comportando três pessoas. Entretanto, Arlindo e Benedito não querem ficar na mesma barraca. Respeitando esse desejo, o número de maneiras diferentes em que as cinco pessoas podem ser arrumadas, nas duas barracas, é",
       "alternatives": {
         "A": "3.",
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Uma panela de sopa pode alimentar ou 6 adultos ou 10 crianças. Em certa ocasião, havia 4 panelas de sopa e foram alimentadas 25 crianças. Com a sopa que sobrou, a quantidade de adultos que podem ser alimentados é igual a",
       "alternatives": {
         "A": "6.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Uma rádio fez uma pesquisa para conhecer melhor o seu público ouvinte. Ao todo, 240 pessoas foram entrevistadas. Do total de entrevistados, 100 eram mulheres e 136 ouvem a rádio. Constatou-se também que apenas 6 mulheres não ouvem a rádio. Dos homens entrevistados, o percentual daqueles que ouvem a rádio é de",
       "alternatives": {
         "A": "10%.",
@@ -297,14 +297,14 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em uma urna há 10 cartas, sendo 5 vermelhas e 5 pretas. Em cada uma das 5 cartas vermelhas está escrito uma das letras A, B, C, D e E. O mesmo ocorre com cada uma das cartas pretas. Todas as cartas são diferentes entre si. Sorteiam-se, ao acaso, duas cartas em sequência e sem reposição. A probabilidade de as cartas sorteadas terem a mesma cor ou a mesma letra é igual a",
       "alternatives": {
         "A": "2/5.",
         "B": "3/5.",
         "C": "2/9.",
         "D": "4/9.",
-        "E": "5/9. Noções de Informática"
+        "E": "5/9."
       },
       "answer": "E",
       "annulled": false,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de Informática da ALE-RO está elaborando um manual de especificações técnicas para a aquisição de novos computadores. É necessário descrever corretamente a função de cada componente para justificar a escolha técnica. Assinale a opção que apresenta corretamente o componente de hardware e sua função principal na arquitetura básica de um computador.",
       "alternatives": {
         "A": "CPU: armazenar permanentemente o sistema operacional e os arquivos dos usuários.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Durante uma sessão longa e de alta demanda na ALE-RO, o sistema de registro de votos e tramitação de emendas começa a ficar extremamente lento. O analista de TI, ao monitorar o sistema, observa que a memória física (RAM) está completamente utilizada. O sistema operacional então passa a usar um recurso para não travar completamente. O recurso técnico que o sistema operacional utiliza como extensão da memória RAM física, quando essa atinge sua capacidade máxima, armazenando dados temporariamente em um dispositivo de armazenamento secundário, é denominado",
       "alternatives": {
         "A": "Memória Cache L3.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Um servidor público da ALE-RO está redigindo um relatório extenso no Microsoft Word 365 (BR), no Windows 10 (BR). Para otimizar seu trabalho e evitar o uso excessivo do mouse, ele utiliza combinações de teclas para executar comandos comuns com mais agilidade. A seguir, relacione os atalhos de teclado às ações que o servidor deseja realizar. 1. Ctrl + B 2. Ctrl + T 3. Ctrl + Z 4. Ctrl + L ( ) Salvar o documento em que está trabalhando. ( ) Selecionar todo o texto do documento atual. ( ) Desfazer a última ação realizada. ( ) Pesquisar por uma palavra específica dentro do documento. Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3 – 4.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "A Diretoria Legislativa da ALE-RO estabeleceu um padrão formal para a redação de todas as suas indicações. O modelo oficial define que os títulos das seções principais (como “EMENTA” e “JUSTIFICATIVA”) devem usar a fonte Arial, tamanho 14, negrito e com um espaçamento de 24 pontos, após o parágrafo. No MS Word 365 (BR), a maneira mais eficiente e profissional para aplicar e garantir a uniformidade desse padrão em todos os documentos é",
       "alternatives": {
         "A": "utilizar o Pincel de Formatação para copiar a formatação de um título para os outros.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de protocolo da ALE-RO precisa gerar automaticamente um código único para cada novo documento. O código é composto pelo Ano (coluna A), a sigla do Tipo de Processo (coluna B, ex.: \"PL\" para Projeto de Lei) e um Número Sequencial com 5 dígitos (coluna C, ex.: 00045). O formato final desejado é “2026-PL-00045”, conforme ilustra a figura a seguir. Para criar esse código formatado na coluna D, a fórmula correta a ser inserida na célula D2 e arrastada para baixo é:",
       "alternatives": {
         "A": "=A2 & B2 & C2",
@@ -399,14 +399,14 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de transparência da ALE-RO publica mensalmente uma planilha no Google Sheets com os gastos por departamento. Um servidor precisa criar um gráfico que mostre, de forma clara e imediata, a proporção (%) do orçamento total consumida por cada um dos seis departamentos em um determinado mês. O tipo de gráfico mais adequado no Google Sheets para atender a esse objetivo de visualizar partes de um todo é",
       "alternatives": {
         "A": "Gráfico de Linhas.",
         "B": "Gráfico de Colunas.",
         "C": "Gráfico de Pizza (ou Rosca).",
         "D": "Gráfico de Dispersão.",
-        "E": "Gráfico de Barras. Legislação Específica"
+        "E": "Gráfico de Barras."
       },
       "answer": "C",
       "annulled": false,
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No exercício de suas atribuições como servidora pública da Assembleia Legislativa do Estado de Rondônia, Shirley foi questionada acerca das especificidades da inexigibilidade de licitação constantes da Resolução ALE/RO nº 593, de 30 de outubro de 2024, que estabelece disposições regulamentares acerca das atribuições e procedimentos de licitações e contratos administrativos, no âmbito do aludido Órgão. Assinale a resposta correta dada por Shirley ao mencionado questionamento.",
       "alternatives": {
         "A": "A prorrogação da vigência dos contratos regularmente formalizados em decorrência de inexigibilidade de licitação é proibida, independentemente da demonstração de vantajosidade para a Administração.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Certa autoridade competente classificou como reservada uma determinada informação, sob o fundamento de que sua divulgação ou seu acesso irrestrito poderiam prejudicar ou causar risco a projetos de pesquisa e desenvolvimento científico ou tecnológico. Diante de tais circunstâncias, assinale a afirmativa correta, em consonância com o disposto na Lei nº 12.527/2011.",
       "alternatives": {
         "A": "O fundamento invocado não é idôneo para determinar o sigilo, pois não se enquadra dentre as situações consideradas imprescindíveis à segurança da sociedade e do Estado.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "William é servidor público do Estado de Rondônia, regularmente investido, que alcançou a estabilidade. Recentemente, contudo, William tem vivido intercorrências no espectro familiar, envolvendo a doença da madrasta que o criou, Valentina, que requer cuidados especiais, bem como o iminente deslocamento de sua esposa, Jane, para Brasília para o exercício de mandato eletivo como senadora, sendo certo que Eva, irmã de William por parte de pai e filha de Valentina, também é servidora estável do mesmo ente federativo. Diante dessa situação hipotética, à luz das disposições acerca da licença por motivo de doença na família e da licença por motivo de afastamento de cônjuge ou companheiro na Lei Complementar nº 68, de 09 de dezembro de 1992 e suas alterações, assinale a afirmativa correta.",
       "alternatives": {
         "A": "William e Eva poderão usufruir de licença por motivo de doença de Valentina ao mesmo tempo, considerando que o seu tratamento requer cuidados especiais.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Considerando o disposto no Código de Ética e Decoro Parlamentar da Assembleia Legislativa do Estado de Rondônia, o deputado que, pela primeira vez, utilizar, em discurso ou proposição, expressões atentatórias ao decoro parlamentar está sujeito à penalidade de",
       "alternatives": {
         "A": "censura verbal.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Acerca da validade dos atos administrativos, avalie as assertivas a seguir. I. Não poderá ser considerado inválido o ato administrativo no caso de falta ou insuficiência de motivação. II. Nos atos discricionários, será razão de invalidade a falta de correlação entre o motivo e o objeto do ato, tendo em vista a sua finalidade. III. Os atos administrativos deverão ser precedidos do processo administrativo adequado à sua validade e à proteção dos direitos e interesses dos administrados. Considerando o disposto na Lei do Processo Administrativo do Estado de Rondônia (Lei Ordinária nº 3.830, de 27 de junho de 2016), está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O Regimento Interno da Assembleia Legislativa do Estado de Rondônia, Resolução nº 32, de 21 de agosto de 1990 e suas alterações, delimita as comissões permanentes, o número de membros e a competência de cada uma delas. Com base na mencionada norma, assinale a opção correta a respeito do tema.",
       "alternatives": {
         "A": "Comissão de Agropecuária e Política Rural, com 7 (sete) membros, à qual compete a matéria atinente ao regime jurídico-administrativo e concessão e uso dos bens civis públicos.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Com vistas a analisar um projeto de lei que versa sobre servidores públicos do Estado de Rondônia, Salete, servidora da Assembleia Legislativa do mencionado ente federativo, teve que analisar as peculiaridades das normas da respectiva Constituição Estadual acerca do tema. Assinale a afirmativa que indica a correta conclusão alcançada por Salete, à luz do disposto na Carta Estadual.",
       "alternatives": {
         "A": "Nenhum servidor poderá ser diretor ou integrar conselho de empresa fornecedora do Estado, ou que realize qualquer modalidade de contrato com o Estado, sob pena de demissão do serviço público, salvo quando o contrato obedecer a cláusulas uniformes.",
@@ -535,14 +535,14 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Deodato, servidor da Assembleia Legislativa do Estado de Rondônia, está com receio de ter praticado, no exercício de suas atribuições, conduta passível de caracterizar ato de improbidade que atenta contra os princípios da Administração Pública, de modo que decidiu aprofundar os seus conhecimentos acerca de tal ato de improbidade, à luz do disposto na Lei nº 8.429/1990, com a redação conferida pela Lei nº 14.230/2021. Assinale a afirmativa que indica a conclusão correta alcançada por Deodato.",
       "alternatives": {
         "A": "Toda ilegalidade é passível de caracterização do ato de improbidade em análise, independentemente da comprovação de que o agente público tinha por objetivo obter proveito ou benefício indevido para si ou para outra pessoa entidade.",
         "B": "O dispositivo relativo à categoria em comento é aplicável nas situações que não se enquadrem com ato de improbidade que importe em enriquecimento ilícito ou que cause lesão ao erário, de modo que o respectivo rol não pode ser considerado taxativo.",
         "C": "O dolo é imprescindível para a caracterização do ato de improbidade em cotejo, assim como é necessário o reconhecimento de que a conduta produziu danos ao erário, sem o que não haverá improbidade.",
         "D": "O enquadramento de conduta funcional na categoria em exame não depende da demonstração objetiva da prática de ilegalidade no exercício da função pública, tampouco da indicação das normas constitucionais, legais ou infralegais violadas.",
-        "E": "Nem todo ato que viola princípio da Administração Pública poderá caracterizar o ato de improbidade objeto de questionamento, sendo exigida lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento. História e Geografia de Rondônia"
+        "E": "Nem todo ato que viola princípio da Administração Pública poderá caracterizar o ato de improbidade objeto de questionamento, sendo exigida lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento."
       },
       "answer": "E",
       "annulled": false,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Desde o período colonial, a região dos vales dos rios Guaporé e Madeira ocupou posição estratégica na definição das fronteiras amazônicas. A respeito do papel histórico e atual da região citada, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) Nos primeiros séculos da colonização, a presença portuguesa na região esteve associada à exploração econômica, à navegação fluvial e à necessidade de assegurar a posse territorial frente ao império espanhol. ( ) Ao longo do século XX, políticas de integração nacional, como a criação do Território Federal do Guaporé, a construção da Ferrovia Madeira-Mamoré e, posteriormente, da rodovia BR- 364, buscaram fortalecer a presença do Estado brasileiro e integrar a Amazônia Ocidental ao restante do país. ( ) Atualmente, a região continua sendo estratégica, enfrentando desafios relacionados ao controle das fronteiras internacionais, à circulação de pessoas e mercadorias, às migrações e à atuação do Estado na garantia da soberania nacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No final do século XIX e no início do século XX, a economia da borracha na Amazônia esteve estreitamente ligada às disputas territoriais na região do atual Acre e às redefinições do mapa político da América do Sul, intensificadas após a independência de antigas colônias espanholas, como a Bolívia. Nesse contexto, a construção da Estrada de Ferro Madeira- Mamoré esteve inserida em um conjunto de medidas políticas, diplomáticas e econômicas adotadas pelo Estado brasileiro para enfrentar esses impasses. Com base nesse cenário histórico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A construção da Estrada de Ferro Madeira-Mamoré inseriu-se no contexto da chamada Revolução Acreana, desencadeada pela disputa entre o Império do Brasil e a República da Bolívia pela região que corresponde ao atual estado do Acre, então valorizada pela exploração dos seringais.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Mapa das linhas telegráficas após os trabalhos da Comissão Rondon. Fonte: Obras Raras Fiocruz A imagem apresentada corresponde a um mapa utilizado nas palestras do Coronel Cândido Mariano da Silva Rondon, no qual estava representado o fechamento do circuito de comunicações telegráficas do Brasil, resultado dos trabalhos da Comissão Rondon, no início do século XX. Considerando esse contexto histórico, o principal objetivo da Comissão Rondon foi",
       "alternatives": {
         "A": "realizar o mapeamento das fronteiras do sertão brasileiro, concebido como referência da autenticidade nacional, com finalidade predominantemente cultural e ideológica.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A figura a seguir mostra a localização dos projetos de assentamento da década de 1970 implantados ao longo da BR- 364, rodovia que percorre todo o estado, ligando Rondônia ao Acre e a Mato Grosso. Fonte: Fearnside, 1989 No contexto do regime militar, o projeto de colonização oficial conduzido pelo INCRA em Rondônia",
       "alternatives": {
         "A": "buscou promover a ocupação agrícola extensiva do território por meio dos Projetos Integrados de Colonização (PICs), que previam a distribuição de pequenos lotes, financiados com recursos públicos e privados.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Rondônia integra o bioma Amazônia e apresenta como formação vegetal predominante a floresta ombrófila aberta, que corresponde a cerca de 72% da cobertura florestal natural do estado. Esse tipo de floresta",
       "alternatives": {
         "A": "ocorre principalmente em áreas de transição entre a Floresta Amazônica e as regiões extra-amazônicas, onde há influência de climas relativamente mais secos.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em novembro de 2025, o Quilombo Forte Príncipe da Beira, localizado no município de Costa Marques (RO), foi o palco do evento “A Terra é Meu Quilombo”. A iniciativa promoveu uma imersão em arqueologia pública e educação patrimonial, unindo moradores do quilombo e pesquisadores da Universidade Federal de Rondônia (UNIR) em escavações arqueológicas comunitárias, oficinas e rodas de conversa. O principal objetivo do evento foi utilizar a arqueologia como instrumento de fortalecimento identitário: “Não estamos apenas procurando fragmentos do passado. Estamos desenterrando as provas materiais da nossa longa existência aqui, resgatando uma história que foi sistematicamente apagada. Cada fragmento encontrado no nosso quintal é um fio que tece a narrativa da nossa resistência e fortalece o nosso direito a esta terra”, afirma Lulu, presidente da Associação Quilombola do Forte Príncipe da Beira (ASQFORTE). Adaptado de https://www.unir.br/cartao/exibir/313 Com base no relato sobre o evento “A Terra é Meu Quilombo”, realizado no Quilombo Forte Príncipe da Beira (Costa Marques– RO), e considerando a trajetória histórica das comunidades quilombolas em Rondônia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A utilização da arqueologia pública no quilombo visa a uma reconstituição acadêmica do passado, vinculada aos preceitos da objetividade e da isenção científicas.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A respeito das mudanças no desenvolvimento viário e na ocupação territorial de Rondônia entre 1974 e 2012, considere os dois mapas e avalie as afirmativas a seguir. I. Em 1974, a rede viária era incipiente e fortemente concentrada na BR-364, eixo estruturante que ligava Porto Velho ao sul do território e ao Centro-Sul do país. A ocupação territorial acompanhava esse traçado linear: os núcleos urbanos e as atividades econômicas estavam majoritariamente alinhados à rodovia, com vastas áreas do interior ainda pouco acessíveis. II. Em 2012, observa-se uma ampliação significativa e a diversificação da malha viária, com a multiplicação de rodovias federais, estaduais e vicinais, tanto asfaltadas quanto não. Esse adensamento da rede indica a interiorização da ocupação, a consolidação de novos municípios e a articulação entre diferentes polos regionais, como Ariquemes, Ji-Paraná e Vilhena. III. A expansão da rede viária atuou como principal vetor da ocupação do território, funcionando simultaneamente como causa e consequência desse processo. Em 1974, a malha rodoviária era limitada basicamente à BR-364 e à BR-425, esta última responsável por substituir a Ferrovia Madeira- Mamoré na ligação entre Porto Velho e Guajará-Mirim. Já em 2012, observa-se a formação de uma rede rodoviária mais ampla e articulada, desenvolvida a partir desse eixo central e responsável por promover a expansão e a interiorização da ocupação territorial. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -671,14 +671,14 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com a elevação de Rondônia à condição de Estado da Federação, no início da década de 1980, tornou-se necessário organizar suas instituições políticas e administrativas, entre elas o Poder Legislativo estadual. Esse processo envolveu eleições, a atuação de uma Assembleia Constituinte e a definição das bases constitucionais do novo ente federativo. Nesse contexto, assinale a afirmativa que descreve corretamente um aspecto da história do Poder Legislativo do estado de Rondônia.",
       "alternatives": {
         "A": "A primeira eleição no recém-criado estado de Rondônia ocorreu em novembro de 1982, quando a população escolheu o novo governador e os 24 deputados estaduais que teriam a missão de atuar como constituintes.",
         "B": "Durante a Assembleia Constituinte, realizada entre fevereiro e agosto de 1983, o papel legislador era exercido pelo Governador que legislava mediante decretos-leis.",
         "C": "A efetiva implantação do Poder Legislativo aconteceu em agosto de 1983, quando foi reformada a Constituição, a Assembleia Constituinte foi extinta e a Assembleia Legislativa foi instalada.",
         "D": "No texto da primeira Constituição de Rondônia foi inserido um dispositivo que garantia à Câmara e ao Tribunal de Contas autonomia administrativa e financeira, algo então inexistente, e que foi absorvido no texto da Constituição Federal de 1988.",
-        "E": "Atualmente, o Poder Legislativo do estado de Rondônia é exercido por 24 deputados estaduais eleitos a cada quatro anos, cujo número corresponde ao dobro da representação do Estado na Câmara dos Deputados. MÓDULO I Conhecimentos Específicos"
+        "E": "Atualmente, o Poder Legislativo do estado de Rondônia é exercido por 24 deputados estaduais eleitos a cada quatro anos, cujo número corresponde ao dobro da representação do Estado na Câmara dos Deputados."
       },
       "answer": "B",
       "annulled": false,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a abertura de uma sessão ordinária da Assembleia Legislativa de Rondônia, o presidente lê uma breve mensagem institucional que contém uma expressão idiomática típica da Língua Portuguesa: “Precisamos virar a página e seguir em frente.” O intérprete de Libras, responsável pela transmissão simultânea da fala, precisa decidir rapidamente como tratar essa expressão, considerando que diferentes estratégias tradutórias são necessárias para garantir sentido ao público surdo. Assinale a opção que apresenta o procedimento de tradução mais adequado para lidar com expressões idiomáticas nesse tipo de situação.",
       "alternatives": {
         "A": "Tradução palavra por palavra, mantendo a ordem sintática e o valor semântico aproximado da língua de origem.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma audiência pública, o intérprete de Libras precisa apresentar ao público surdo uma lista de quatro diretrizes debatidas pelos parlamentares. Para garantir clareza na exposição, decide empregar uma estratégia de enumeração própria da Libras. Assinale a opção que apresenta o uso adequado de marcadores manuais para enumeração em Libras.",
       "alternatives": {
         "A": "Utilizar configurações de mão aleatórias para cada item, sem relação visual entre eles.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um evento cultural promovido pela Assembleia Legislativa, o intérprete de Libras é convidado a interpretar uma apresentação musical na abertura de uma sessão solene. Observe a tradução de um dos trechos da música. Fonte: ALBRES & SANTIAGO (2012) Considerando que, na Libras, existem recursos linguísticos capazes de representar características visuais, formas, movimentos e detalhes descritivos utilizados em diferentes contextos, assinale a opção que identifica o recurso linguístico utilizado pelo intérprete de Libras nesse trecho musical.",
       "alternatives": {
         "A": "Expressões não manuais fixas.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na apresentação de um parecer técnico, o relator menciona um termo técnico, em português, pouco conhecido pelo público geral. O Intérprete de Libras percebe que o termo não possui sinal convencionalizado na Libras e que, por ser específico da área, pode não ser imediatamente compreendido pelo público surdo, exigindo uma solução que permita construir sentido de forma clara e rápida. Assinale a opção que apresenta o procedimento de tradução mais adequado para esse caso, considerando as práticas da interpretação Libras-Língua Portuguesa em contextos técnicos e institucionais.",
       "alternatives": {
         "A": "Usar um classificador para representar visualmente a ideia geral do termo.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A legislação que reconhece oficialmente a Libras no Brasil é",
       "alternatives": {
         "A": "Lei nº 12.319/2010.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Numa audiência na Assembleia Legislativa, um jornalista se aproxima do intérprete de Libras, após a interpretação do discurso de um deputado, e pergunta se ele concordava com o que o parlamentar discursou. Diante dessa situação, a postura adequada do profissional tradutor e intérprete de Libras é",
       "alternatives": {
         "A": "responder sinceramente, expressando sua opinião pessoal sobre o conteúdo para demonstrar transparência.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma sessão de comissão temática na Assembleia Legislativa, o intérprete de Libras que atuará no evento percebe, antes de iniciar a atividade, que o tema da reunião envolve terminologia altamente especializada da área da saúde. Ao analisar o material prévio, ele identifica que não possui domínio suficiente daquele conteúdo para garantir uma interpretação precisa e adequada ao público surdo presente. Diante dessa situação, a conduta profissional mais adequada é",
       "alternatives": {
         "A": "prosseguir na interpretação, adaptando ou simplificando os termos técnicos quando achar necessário.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Ao interpretar o discurso de um deputado, o profissional de Libras se depara com a frase: “Eu saí vagarosamente do local.” O Intérprete precisa expressar corretamente o sentido do advérbio “vagarosamente”, respeitando as características linguísticas da Libras. Assinale a opção que explica corretamente como o advérbio de modo é expresso na Libras.",
       "alternatives": {
         "A": "É traduzido por um sinal específico correspondente ao advérbio.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante uma sessão solene na Assembleia Legislativa, um intérprete de Libras é solicitado a explicar rapidamente ao público o que significa Cultura Surda. Assinale a opção que apresenta uma definição correta.",
       "alternatives": {
         "A": "Conjunto de deficiências comuns aos indivíduos surdos.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Numa sessão ordinária da Assembleia Legislativa, um deputado lê um relatório técnico de forma contínua, sem pausas. O intérprete de Libras, posicionado ao lado da tribuna, sinaliza para o público surdo ao mesmo tempo em que o deputado fala, sem interromper o fluxo do discurso. Assinale a opção que identifica corretamente a modalidade de interpretação realizada pelo intérprete nessa situação.",
       "alternatives": {
         "A": "Interpretação intermitente, pois o orador faz pausas curtas para permitir a sinalização.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na preparação para uma audiência pública na Assembleia Legislativa, uma equipe técnica solicita ao profissional intérprete e tradutor de Libras, de forma breve, a diferença entre tradução e interpretação, pois novos servidores estão em treinamento e desconhecem as particularidades entre essas modalidades. Avalie se as afirmativas, que tratam das diferenças entre tradução e interpretação, estão corretas. I. A tradução envolve a reformulação de um texto completo para outra língua, sendo um processo mental que permite maior tempo de análise antes da produção do texto final. II. A interpretação é um ato comunicativo que ocorre em tempo real, exigindo reformulação imediata da mensagem e tomada de decisão rápida. III. Tanto tradução quanto interpretação são operações entre línguas, e não entre textos, pois seu foco principal está apenas no aspecto linguístico. IV. A tradução permite revisões e reestruturações textuais, enquanto a interpretação exige produção imediata sem possibilidade de retorno ao conteúdo já interpretado. Estão corretas apenas as afirmativas",
       "alternatives": {
         "A": "I, II e III.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na fase de organização de uma sessão solene na Assembleia Legislativa, um servidor pergunta ao profissional tradutor e intérprete de Libras qual é a carga horária semanal prevista em lei para a categoria, pois está revisando a escala de trabalho dos intérpretes da Casa. A jornada de trabalho prevista na Lei nº 12.319/2010, com redação dada pela Lei nº 14.704/2023, é de",
       "alternatives": {
         "A": "20 horas semanais, sem limite diário definido.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A equipe de Recursos Humanos da Assembleia Legislativa está conferindo a documentação dos candidatos aprovados para o cargo de Técnico em Tradução e Interpretação de Libras. Durante a reunião, surge a dúvida sobre quais formações são oficialmente reconhecidas para o exercício profissional. Assinale a opção que apresenta uma formação válida e reconhecida em lei para a atuação como tradutor e intérprete de Libras.",
       "alternatives": {
         "A": "Formação livre em Libras, acompanhada de cursos complementares e experiência prática comprovada em ambientes institucionais.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Segundo a Lei nº 10.436/2002, Libras é oficialmente definida como",
       "alternatives": {
         "A": "um conjunto de gestos usados informalmente pelas comunidades surdas, sem estrutura própria.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma sessão extraordinária, uma equipe de intérpretes de Libras atua em revezamento conforme previsto na legislação. Em seu turno, um dos intérpretes assume a interpretação de um trecho extenso, muito técnico e com mudanças rápidas de tópicos. Apesar da alta demanda cognitiva, ele mantém precisão, coerência e estabilidade em toda a interpretação. Diante dessa situação, a competência essencial para o desempenho apresentado pelo intérprete foi a competência",
       "alternatives": {
         "A": "psicofisiológica, que envolve atenção sustentada, memória de trabalho, concentração, autoconhecimento e gestão emocional, permitindo manter estabilidade cognitiva durante longos períodos sob pressão.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em preparação para uma sessão temática na Assembleia Legislativa, a equipe de intérpretes de Libras recebe previamente um conjunto de documentos contendo termos técnicos, siglas legislativas e referências normativas. Um dos intérpretes utiliza esse material para pesquisar terminologia, organizar glossários pessoais, revisar conceitos desconhecidos e verificar fontes confiáveis antes da interpretação. A finalidade da preparação prévia realizada pelo intérprete, nesse contexto, é",
       "alternatives": {
         "A": "permitir ao intérprete decorar sinais novos antes da sessão, sem necessidade de análise contextual.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na Libras, alguns sinais apresentam formas muito semelhantes, mas têm significados diferentes, como ocorre nos sinais APRENDER e SÁBADO, que se diferenciam por uma pequena variação fonológica. Assinale a opção que identifica o princípio fonológico da Libras responsável por distinguir sinais desse tipo.",
       "alternatives": {
         "A": "A expressão facial, responsável por alterar o tipo de frase, mas não o significado lexical do sinal.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Observe a imagem a seguir, que apresenta um sinal da Libras no qual a mão dominante realiza um movimento contínuo mantendo a mesma configuração de mão e a mesma locação durante a execução. Fonte: Libras em Contexto (2001) Com base no parâmetro movimento da Libras, a categoria de movimento presente no sinal representado É a de movimento",
       "alternatives": {
         "A": "alternado.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a produção de um sinal na Libras, a mão dominante toca a região do queixo, sem deslocamentos no espaço e mantendo a mesma configuração de mão durante toda a execução. Assinale a opção que identifica corretamente a locação/ponto de articulação utilizada no sinal descrito.",
       "alternatives": {
         "A": "Cabeça – parte inferior do rosto.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante uma atividade de estudo sobre fonologia da Libras, um instrutor apresenta duas configurações de mão bastante utilizadas na descrição fonológica: a configuração de mão “C” e a configuração de mão “E”. Embora ambas envolvam dedos selecionados semelhantes, elas se diferenciam por um traço fonológico distinto que altera a forma dos dedos e produz significados diferentes no léxico da Libras. O traço distintivo que diferencia a configuração de mão “C” da configuração de mão “E” é",
       "alternatives": {
         "A": "a adução dos dedos, pois a configuração de mão “C” utiliza dedos espraiados e a configuração de mão “E” utiliza dedos totalmente unidos.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Apesar de muitas instituições públicas ainda apresentarem falhas na implementação das medidas previstas no Decreto nº 5.626/2005, suas determinações continuam vigentes e devem ser cumpridas pela Assembleia Legislativa para garantir atendimento adequado às pessoas surdas. Com base no referido decreto, assinale uma obrigação institucional prevista para assegurar o atendimento adequado é",
       "alternatives": {
         "A": "oferecer atendimento em Libras somente em eventos previamente agendados, conforme disponibilidade da equipe.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a elaboração de um relatório interno na Assembleia Legislativa, um gestor solicita esclarecimentos sobre como deve ocorrer a capacitação institucional em Libras, segundo o Decreto nº 5.626/2005. Ele deseja compreender quais profissionais podem ser contemplados e qual é a finalidade de formação. Com base no decreto, a capacitação em Libras deve",
       "alternatives": {
         "A": "ser oferecida exclusivamente aos profissionais da área da educação.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Ao ingressar o público para uma audiência na Assembleia Legislativa, um servidor observa que uma pessoa utiliza um cordão de fita verde estampado com girassóis. O servidor, recém- integrado à equipe, pergunta ao técnico tradutor e intérprete de Libras qual é o significado desse símbolo e como deve proceder no atendimento. Com base na Lei Brasileira de Inclusão, o uso do cordão de girassol",
       "alternatives": {
         "A": "identifica exclusivamente pessoas surdas e deve ser exigido para acesso a serviços de acessibilidade.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um estudo interno na Assembleia Legislativa, os participantes discutem as diferentes formas de narrar a trajetória histórica dos surdos no Brasil e observam que muitas versões tradicionais tornam invisíveis as experiências e perspectivas das próprias comunidades surdas. Assinale a opção que apresenta a compreensão alinhada à visão cultural dos surdos.",
       "alternatives": {
         "A": "Valorizar registros médicos e pedagógicos, pois são eles que permitem explicar objetivamente a evolução da educação de surdos.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No estudo das políticas educacionais voltadas à acessibilidade linguística, a equipe analisa quais serviços públicos oferecem suporte específico à educação de pessoas surdas. Um dos participantes menciona a existência do seguinte serviço responsável pela formação de profissionais, apoio pedagógico e produção de materiais acessíveis em Libras dentro das políticas nacionais de educação especial:",
       "alternatives": {
         "A": "Centros de Referência em Tecnologias Assistivas Digitais.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a análise de políticas públicas de formação profissional, surge uma dúvida entre os servidores sobre quais cursos devem incluir o ensino da Libras segundo a legislação vigente. Para esclarecer, o técnico responsável consulta a Lei nº 10.436/2002. Com base no Art. 4º dessa lei, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A Libras deve substituir integralmente a Língua Portuguesa nos cursos de formação docente, sempre que houver estudantes surdos.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma capacitação interna na Assembleia Legislativa, servidores precisam compreender quais são as atribuições formais do Tradutor e Intérprete de Língua de Sinais (TILS), conforme previsto na legislação brasileira. Avalie as afirmativas a seguir, relativas às atribuições profissionais previstas na Lei nº 12.319/2010, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. I. É atribuição do TILS garantir a fidelidade ao conteúdo original, transmitindo o sentido do discurso entre Libras e Língua Portuguesa sem emitir opiniões pessoais ou acrescentar informações. II. Compete ao TILS atuar na tradução de textos escritos da Língua Portuguesa para Libras e vice-versa, quando necessário ao contexto institucional. III. É atribuição exclusiva do TILS realizar apoio pedagógico, elaborar planos de aula e adaptar materiais didáticos para estudantes surdos. IV. A atuação do TILS pode ocorrer em diferentes contextos institucionais, incluindo ambientes educacionais, administrativos, jurídicos e comunitários. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F – V.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em Libras, a soletração manual (datilologia) e os sinais desempenham funções distintas na composição do léxico. Considerando essas diferenças, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A soletração manual é o mecanismo principal de formação de sinais e compõe a estrutura interna do léxico da Libras.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante um debate interno sobre políticas de acessibilidade cultural, a Assembleia Legislativa analisa documentos que tratam da identidade e organização social de grupos minoritários. Um dos técnicos afirma que “comunidade surda e povo surdo são a mesma coisa, bastando que um grupo use a Libras para ser considerado comunidade.” Com base nos estudos sobre cultura surda, assinale a opção que corrige adequadamente essa afirmação.",
       "alternatives": {
         "A": "Ambos os termos são equivalentes, pois todo grupo de surdos, independentemente do local em que vive, constitui automaticamente uma comunidade.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A equipe é convidada a analisar diferentes formas de constituição da identidade surda, considerando que a experiência visual, o contato com a comunidade e as práticas socioculturais produzem identidades distintas entre os próprios surdos. Relacione as identidades surdas indicadas a seguir com suas características correspondentes. 1. Identidade surda política 2. Identidade surda híbrida 3. Identidade surda flutuante 4. Identidade surda embaçada ( ) Segue padrões ouvintes, resiste à Libras, valoriza a fala, rejeita intérpretes e associa a surdez a estigma. ( ) Assumem-se surdos, usam Libras sempre, participam da cultura surda, defendem educação bilíngue e atuam politicamente. ( ) Transitam da experiência ouvinte para a surdez; podem alternar entre Libras e língua oral; participam da comunidade surda, mas mantêm traços da identidade ouvinte. ( ) Vivenciam aprisionamento familiar ou clínico; desconhecem Libras; não se reconhecem nem como ouvintes nem como surdos; têm a vida regulada por ouvintes. A correspondência correta, na ordem dada, é:",
       "alternatives": {
         "A": "4 – 1 – 3 – 2.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma reunião técnica para padronização de procedimentos profissionais, a equipe de intérpretes de Libras discute como proceder diante de uma situação ética não prevista explicitamente no Código de Conduta e Ética da FEBRAPILS. Surge a dúvida sobre qual instância é responsável por orientar e decidir nesses casos. Dirimida a dúvida, resta entendido que essa instância é o",
       "alternatives": {
         "A": "presidente da associação estadual de intérpretes, por decisão direta e vinculante.",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma audiência pública, que discute políticas linguísticas para estudantes surdos, um deputado afirma que a educação bilíngue de surdos consiste apenas em “oferecer Libras como disciplina opcional nas escolas regulares”. O intérprete de Libras, conhecendo a organização dessa modalidade no sistema educacional brasileiro, percebe que a fala não corresponde ao modelo oficialmente reconhecido. Assinale a afirmativa que apresenta uma caracterização correta da educação bilíngue de surdos.",
       "alternatives": {
         "A": "É uma metodologia voltada apenas para estudantes oralizados, baseada no uso exclusivo de tecnologias auditivas assistivas.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante uma atividade institucional, um intérprete de Libras- Língua Portuguesa demonstra excelente comunicação nas duas línguas numa interpretação simultânea. Porém, ao interpretar, apresenta perdas de sentido, hesitações e dificuldades de reorganizar o discurso entre as línguas. Assinale a opção que explica adequadamente essa discrepância de desempenho.",
       "alternatives": {
         "A": "Insuficiência de proficiência básica nas línguas, comprometendo até situações comunicativas simples.",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na Libras, a negação pode ser expressa dentro do próprio verbo quando o movimento inicial do sinal, em um primeiro momento, se completa com um movimento final contrário, caracterizando a negação incorporada. Assinale a opção que apresenta um exemplo de incorporação de negação, de acordo com o processo descrito.",
       "alternatives": {
         "A": "“EU SABER NÃO”",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na Libras, alguns sinais são formados pela composição lexical, processo no qual dois sinais existentes são combinados para originar um novo sinal, cujo significado não corresponde à soma literal das partes. Assinale a opção que apresenta um exemplo desse processo.",
       "alternatives": {
         "A": "CASA^ESTUDAR= ESCOLA",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em Libras, intensificadores e advérbios de modo são expressos por modificações no movimento e por expressões não manuais. Intensificadores, como o equivalente a “muito”, e advérbios de modo, como equivalente a “rápido”, podem alterar o padrão de movimento do verbo, cada qual de forma distinta. Considerando a diferença funcional entre esses dois mecanismos, assinale a afirmativa correta sobre como cada um atua na língua de sinais.",
       "alternatives": {
         "A": "O intensificador “muito” é expresso apenas por expressão facial, sem alteração no movimento do sinal, enquanto advérbios de modo, como “rápido”, não interferem no movimento, apenas na configuração de mão.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a análise de um trecho sinalizado em Libras para fins de revisão linguística, observa-se que o sinalizador produz a sequência: Com sobrancelhas franzidas e acenos de cabeça negando, simultâneos ao sinal. Considerando os princípios gramaticais da Libras referentes aos tipos de frases e ao papel das expressões não manuais, é correto afirmar que",
       "alternatives": {
         "A": "trata-se de uma frase afirmativa com ênfase emocional, pois as expressões não manuais atuam apenas como intensificadores.",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante o estudo da topicalização em Libras, foram apresentados dois exemplos: Exemplo 1- <FRANÇA,>t<EU VOU t,>mc Exemplo 2-<EU,>t<FRANÇA,>t t ,<VOU t,>mc Fonte: QUADRO & KARNOPP (2004) Com base nessas construções, assinale a opção que identifica o tipo de topicalização presente em cada uma.",
       "alternatives": {
         "A": "O primeiro exemplo apresenta tópico ligado ao sujeito; o segundo apresenta apenas tópico ligado a um sintagma adverbial.",

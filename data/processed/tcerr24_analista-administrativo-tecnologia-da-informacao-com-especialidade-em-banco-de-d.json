@@ -17,7 +17,7 @@
         "D": "O produto anunciado traz, implicitamente a mensagem de que o comprador potencial é o jovem urbano.",
         "E": "Um dos elementos utilizados pelo anunciante destaca o interesse do comprador: a redução do preço do produto."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -51,7 +51,7 @@
         "D": "formulação inadequada da mensagem.",
         "E": "deficiência na linguagem empregada pelo jornal."
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -119,7 +119,7 @@
         "D": "Aquele aluno, que observe bem os fatos, se destaca na turma / Aquele aluno, bom observador dos fatos, se destaca na turma.",
         "E": "Os professores, que teceram elogios a Churchill, se arrependeram / Os professores, admiradores de Churchill, se arrependeram."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -136,7 +136,7 @@
         "D": "Os pássaros foram assustados pelo ruído / assustou-se.",
         "E": "Os crimes foram esclarecidos / Esclareceu-se."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -153,7 +153,7 @@
         "D": "Os jogadores não eram boas companias.",
         "E": "Derrepente começou a chorar."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -168,9 +168,9 @@
         "B": "Há cinco semanas te espero.",
         "C": "Fica a dois dias de viagem.",
         "D": "Não o vajo à luz do dia.",
-        "E": "À quanto está a dúzia da laranja? Raciocínio Lógico-matemático"
+        "E": "À quanto está a dúzia da laranja?"
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "O quadrado ABCD da figura abaixo tem 8 cm de lado. O ponto P move-se sobre o contorno do quadrado, em sentido anti-horário, com velocidade de 1 cm por segundo. O ponto P iniciou seu movimento no ponto",
       "alternatives": {
         "A": "A partir do início do movimento, após 5 minutos, o ponto P estará (A) no interior do lado AB.",
@@ -187,7 +187,7 @@
         "D": "no interior do lado DA.",
         "E": "sobre um dos vértices do quadrado."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/tcerr24_analista-administrativo-tecnologia-da-informacao-com-especialidade-em-banco-de-d_q11.png",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "As pessoas A, B, C e D estão, nessa ordem, em uma fila. Considere as informações: • Há 7 pessoas entre A e B. • Há 4 pessoas entre B e C. • Há tantas pessoas entre A e C quantas entre C e D. • A pessoa A ocupa o 5º lugar da fila. O lugar na fila ocupado pela pessoa D é o",
       "alternatives": {
         "A": "27º.",
@@ -204,7 +204,7 @@
         "D": "30º.",
         "E": "31º."
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "As grandezas 𝑋, 𝐴 e 𝐵 são tais que 𝑋 é diretamente proporcional a 𝐴 e inversamente proporcional a 𝐵. Sabe-se que quando 𝐴= 12 e 𝐵= 30 tem-se 𝑋= 240. Quando 𝐴= 15 e 𝐵= 36 o valor de 𝑋 será",
       "alternatives": {
         "A": "250.",
@@ -221,7 +221,7 @@
         "D": "320.",
         "E": "360."
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Certo país, isolado do mundo real, resolveu adotar mais um dia de trabalho na semana criando a 7ª feira, entre a 6ª feira e o sábado. Assim, nesse país, a semana passou a ter 8 dias. O primeiro dia de janeiro de 2025 caiu em uma 4ª feira. Nesse país, o último dia do ano de 2025 será",
       "alternatives": {
         "A": "uma 5ª feira.",
@@ -238,7 +238,7 @@
         "D": "um sábado.",
         "E": "um domingo."
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Os números 1, 2, 3 e 4 devem ser colocados cada um em um dos quadradinhos da figura abaixo (permanecendo dois quadradinhos vazios) de forma que, da esquerda para a direita, mantenham a ordem crescente. O número de maneiras diferentes em que os quatro números podem ser colocados da forma descrita acima é",
       "alternatives": {
         "A": "10.",
@@ -255,7 +255,7 @@
         "D": "20.",
         "E": "30."
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/tcerr24_analista-administrativo-tecnologia-da-informacao-com-especialidade-em-banco-de-d_q15.png",
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "No exterior de um quadrado de lado igual a 6 cm, construa quatro semicírculos com os quatro lados do quadrado como seus diâmetros. Outro quadrado, ABCD, tem seus lados paralelos aos lados correspondentes do quadrado original, e cada lado de ABCD é tangente a um dos semicírculos. A área do quadrado ABCD, em centímetros quadrados é igual a",
       "alternatives": {
         "A": "144.",
@@ -272,7 +272,7 @@
         "D": "64.",
         "E": "36."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Uma máquina de vender chicletes contém 12 chicletes verdes, 10 brancos e sete azuis. A cada venda, a máquina escolhe aleatoriamente o chiclete a ser vendido. O menor número de chicletes que uma pessoa deve comprar para ter certeza de obter cinco chicletes da mesma cor é",
       "alternatives": {
         "A": "5.",
@@ -289,7 +289,7 @@
         "D": "11.",
         "E": "13."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Em uma boutique, uma jaqueta é vendida por R$ 360,00 e uma blusa, por R$ 240,00. Em uma liquidação dessa boutique, Joana comprou a jaqueta com 30% de desconto e a blusa com 40% de desconto. Em relação ao valor total original, o desconto total conseguido por Joana representa um percentual de",
       "alternatives": {
         "A": "33%.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Considere um dado cúbico, com as faces numeradas de 1 a 6, e que cada face tem a mesma probabilidade de ficar voltada para cima quando o dado é lançado. Davi e Golias lançam esse dado uma vez cada um. Sabendo que o número obtido no lançamento de Golias é um número par, a probabilidade de que Davi obtenha um número maior do que o de Golias é igual a 1",
       "alternatives": {
         "A": "4. 7",
@@ -323,7 +323,7 @@
         "D": "36. 1",
         "E": "9."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -331,14 +331,14 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Os ônibus de uma certa companhia que saem do Rio de Janeiro com destino a São Paulo partem de hora em hora, com saídas nas horas “cheias”, isto é, meia-noite, 1h, 2h, 3h, etc. Os ônibus da mesma companhia que saem de São Paulo com destino ao Rio de Janeiro partem de hora em hora, com saídas nas “meia-horas”, isto é, meia-noite e meia, 1h30min, 2h30min, 3h30min, etc. Suponha que os trajetos Rio-São Paulo e São Paulo-Rio sejam exatamente os mesmos e que cada viagem dure exatamente 4h30min. O número de ônibus São Paulo-Rio que um ônibus Rio-São Paulo encontra na rodovia (exceto os encontros nas estações do Rio e de São Paulo) é igual",
       "alternatives": {
         "A": "5.",
         "B": "6.",
         "C": "7.",
         "D": "8.",
-        "E": "9. Legislação Específica"
+        "E": "9."
       },
       "answer": "D",
       "annulled": false,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Diversos segmentos da sociedade civil organizada formularam requerimento ao Governador do Estado de Roraima solicitando que, em determinada área pertencente a esse ente federativo, fosse criada uma unidade de preservação ambiental. O requerimento estava lastreado na importância intergeracional do meio ambiente e no dever de os poderes públicos zelarem pela sua preservação. Sensível à relevância da matéria, o Chefe do Poder Executivo solicitou que sua assessoria se pronunciasse a respeito dos requisitos estabelecidos pela Constituição do Estado de Roraima para que seja promovida a criação da referida unidade. Foi corretamente esclarecido que a criação, em relação à forma e sem prejuízo da manifestação de outras estruturas orgânicas",
       "alternatives": {
         "A": "exige a edição de lei, de iniciativa privativa do Chefe do Poder Executivo.",
@@ -357,7 +357,7 @@
         "D": "exige a edição de lei complementar, não sendo hipótese de iniciativa privativa do Chefe do Poder Executivo.",
         "E": "exige decreto do Governador do Estado e referendo da Assembleia Legislativa, pelo voto favorável de dois terços dos Deputados Estaduais."
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No âmbito de um processo administrativo regular, no qual ocorreu a estrita observância das garantias do contraditório e da ampla defesa, o Tribunal de Contas do Estado de Roraima (TCERR) designou a data de julgamento, tendo o corrido a respectiva publicação. Em razão das provas carreadas aos autos, Antônio deduziu que provavelmente seria reconhecido que ele aplicara irregularmente recursos públicos quando atuara como ordenador de despesas no Município Alfa. Por tal razão, ficou preocupado com a possibilidade de que fosse impedido de aceitar o convite para ser Secretário de Finanças do Estado Beta. Após analisar a Lei Orgânica do Tribunal de Contas do Estado de Roraima, Antônio concluiu corretamente que",
       "alternatives": {
         "A": "as sanções que venha a sofrer por atuar em determinado nível federativo não podem se estender a outro.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No curso de um processo administrativo, o Tribunal de Contas do Estado de Roraima constatou a existência de lacunas nas informações apresentadas pelo Presidente de determinado ente da administração pública indireta, que dificultavam a formação de um juízo de valor a respeito da matéria a ser apreciada. De acordo com o Regimento Interno do Tribunal de Contas do Estado de Roraima, para suprir as referidas lacunas é cabível",
       "alternatives": {
         "A": "a auditoria.",
@@ -391,7 +391,7 @@
         "D": "o levantamento.",
         "E": "o monitoramento."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Alguns grupos políticos do Município Alfa, do Estado de Roraima, iniciaram uma campanha para a alteração da denominação desse ente federativo, que passaria a ser denominado de Sigma. Em uma análise preliminar da Constituição do Estado de Roraima, alguns afirmaram que a alteração alvitrada dependeria, entre outros requisitos, de I. lei complementar de Alfa; II. consulta prévia, mediante plebiscito, apenas à população de Alfa; III. lei ordinária do Estado de Roraima. Ao fim dos debates, concluíram corretamente, em relação aos requisitos indicados, que",
       "alternatives": {
         "A": "todos estão corretos.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Em dado processo em tramitação no âmbito do Tribunal de Contas do Estado de Roraima, o Ministério Público de Contas suscitou a existência de divergência entre duas deliberações anteriores do Tribunal a respeito da mesma temática de direito. Nesse caso, à luz do Regimento Interno do Tribunal de Contas do Estado de Roraima, é correto afirmar que o colegiado",
       "alternatives": {
         "A": "pode decidir pela apreciação preliminar da controvérsia, apenso aos autos principais, retirando a matéria de pauta.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "A autoridade administrativa competente do Município Beta constatou que Pedro, ordenador de despesas, teria realizado pagamentos aparentemente não amparados por documentos idôneos, o que pode ter redundado em desvio de dinheiro público. Embora tenha sido instado a apresentar contas, Pedro não o fez. Considerando os balizamentos estabelecidos pelo Regimento Interno do Tribunal de Contas do Estado de Roraima (TCERR), é correto afirmar que a referida autoridade deve",
       "alternatives": {
         "A": "instaurar o processo de Tomada de Contas Especial para apuração dos fatos.",
@@ -442,7 +442,7 @@
         "D": "comunicar a omissão ao TCERR, que deve instaurar o processo de Tomada de Contas Especial no prazo de 24 (vinte e quatro) horas.",
         "E": "comunicar a omissão ao TCERR, que deve instaurar imediatamente a Tomada de Contas Especial, por meio da Secretaria de Controle Externo, cabendo a decisão ao Pleno."
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No âmbito do Tribunal de Contas do Estado de Roraima, durante apuração deflagrada a partir de representação indicando que um agente público do Município Alfa causara danos ao erário, foi cogitada a conveniência de afastar temporariamente o referido agente de suas atividades regulares. À luz da Lei Orgânica do Tribunal de Contas do Estado de Roraima, é correto afirmar que o referido afastamento",
       "alternatives": {
         "A": "não pode ser promovido, por violar a presunção de inocência.",
@@ -459,7 +459,7 @@
         "D": "somente pode ser determinado se o referido agente exercer funções de direção ou chefia, sendo ainda necessário à preservação do resultado útil do processo.",
         "E": "decorre de determinação do Tribunal, mas é executado pela autoridade superior competente, que será solidariamente responsável caso não a cumpra no prazo estabelecido."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O Tribunal de Contas do Estado de Roraima, ao apreciar a prestação das contas de gestão apresentadas por Joana, concluiu que os elementos carreados aos autos tornavam materialmente impossível o julgamento do mérito. Nessa situação, considerando os balizamentos estabelecidos pelo Regimento Interno do Tribunal de Contas do Estado do Roraima, é correto afirmar que",
       "alternatives": {
         "A": "as contas de Joana devem ser rejeitadas, com a correlata aplicação de multa no mínimo legal.",
@@ -476,7 +476,7 @@
         "D": "o processo deve ser suspenso pelo prazo máximo de 5 (cinco) anos, de modo que possam ser considerados novos elementos que autorizem o julgamento de mérito.",
         "E": "caso a referida situação decorra de circunstâncias objetivas, deve ser determinado o encerramento das contas, com a correlata realização de Tomada de Contas Especial."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Em determinado processo em tramitação no âmbito do Tribunal de Contas do Estado de Roraima, era analisada a juridicidade de processo licitatório em vias de ser homologado pela estrutura de poder competente do Município Alfa. A sociedade empresária Beta, que não fora considerada habilitada a realizar o objeto da licitação, isto por não apresentar documentos necessários e suficientes para demonstrar a sua capacidade, almejava intervir nesse processo, isto por entender que a decisão administrativa tomada em relação a ela não estava amparada pela ordem jurídica, estando abrangida por um contexto mais amplo de fraudes do processo licitatório. Após analisar o Regimento do Tribunal de Contas do Estado de Roraima, o sócio-gerente de Beta concluiu corretamente em relação à referida intervenção que",
       "alternatives": {
         "A": "pode ser requerida até a prolação de decisão pelo Tribunal, não na fase recursal.",
@@ -493,23 +493,6 @@
         "D": "é expressamente vedada nos processos em geral, pois somente o denominado responsável pode figurar como parte no processo.",
         "E": "apesar de prevista no regimento interno, não é admitida nos processos de verificação de juridicidade do processo licitatório, o que decorre do seu caráter preparatório."
       },
-      "answer": "D",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 7
-    },
-    {
-      "question_number": 30,
-      "discipline": null,
-      "statement": "Após a regular tramitação de processo administrativo no âmbito do Tribunal de Contas do Estado de Roraima, foi realizada imputação de débito e aplicada sanção de multa a Jonas, dirigente de uma autarquia estadual. Cerca de 18 meses pós a decisão se tornar definitiva, com a correlata formação do título executivo, Jonas localizou documentos, não anexados ao processo, que, ao seu ver, seriam suficientes para elidir a sua responsabilidade. Ao analisar o Regimento Interno do Tribunal de Contas do Estado de Roraima (TCERR), em relação à possibilidade de a matéria voltar a ser apreciada por esse Tribunal, Jonas concluiu corretamente que",
-      "alternatives": {
-        "A": "somente é cabível o recurso rescisório, cuja fundamentação é vinculada.",
-        "B": "somente é cabível o pedido de reexame, sem efeito suspensivo.",
-        "C": "somente é cabível o pedido de rescisão, com efeito suspensivo.",
-        "D": "ocorreu o trânsito em julgado administrativo, de modo que a decisão proferida é imodificável.",
-        "E": "somente é cabível a reabertura de instância, o que pressupõe o acolhimento das razões de Jonas por um dos membros do TCERR. MÓDULO II - CONHECIMENTOS ESPECÍFICOS Noções de Direito"
-      },
       "answer": "C",
       "annulled": false,
       "has_image": false,
@@ -517,8 +500,25 @@
       "page_number": 7
     },
     {
+      "question_number": 30,
+      "discipline": "Legislação Específica",
+      "statement": "Após a regular tramitação de processo administrativo no âmbito do Tribunal de Contas do Estado de Roraima, foi realizada imputação de débito e aplicada sanção de multa a Jonas, dirigente de uma autarquia estadual. Cerca de 18 meses pós a decisão se tornar definitiva, com a correlata formação do título executivo, Jonas localizou documentos, não anexados ao processo, que, ao seu ver, seriam suficientes para elidir a sua responsabilidade. Ao analisar o Regimento Interno do Tribunal de Contas do Estado de Roraima (TCERR), em relação à possibilidade de a matéria voltar a ser apreciada por esse Tribunal, Jonas concluiu corretamente que",
+      "alternatives": {
+        "A": "somente é cabível o recurso rescisório, cuja fundamentação é vinculada.",
+        "B": "somente é cabível o pedido de reexame, sem efeito suspensivo.",
+        "C": "somente é cabível o pedido de rescisão, com efeito suspensivo.",
+        "D": "ocorreu o trânsito em julgado administrativo, de modo que a decisão proferida é imodificável.",
+        "E": "somente é cabível a reabertura de instância, o que pressupõe o acolhimento das razões de Jonas por um dos membros do TCERR. MÓDULO II - CONHECIMENTOS ESPECÍFICOS"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Pedro entendia que sua esfera jurídica estava protegida por um direito fundamental de estatura constitucional. No entanto, estava preocupado com a possibilidade desse direito fundamental sofrer algum tipo de restrição, o que acarretaria a redução do potencial expansivo da sua esfera jurídica. Ao consultar um especialista, foi corretamente esclarecido que os direitos fundamentais",
       "alternatives": {
         "A": "somente podem sofrer as restrições estabelecidas em lei.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Maria é servidora pública no âmbito do Município Delta, ente federativo que não possui regime próprio de previdência social. Após preencher os requisitos exigidos para a aposentadoria voluntária, requereu a concessão do respectivo benefício previdenciário, o que foi deferido pelo órgão competente. Após completar um ano recebendo o seu benefício previdenciário, Maria consultou um especialista em relação à necessidade, ou não, de a sua aposentadoria ser objeto de registro no âmbito do Tribunal de Contas. O especialista então esclareceu, corretamente, que",
       "alternatives": {
         "A": "apenas se Maria tiver ocupado cargo em comissão o registro será necessário.",
@@ -544,7 +544,7 @@
         "D": "o registro não é necessário, considerando a natureza do regime previdenciário pelo qual Maria se aposentou.",
         "E": "o registro, como forma de controle da despesa pública, deve ser realizado, independente da natureza do cargo ocupado por Maria."
       },
-      "answer": "E",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Com o objetivo de reduzir os grandes impactos ao meio-ambiente ocasionados pela exploração de recursos minerais, o Município Beta, ao aprovar o seu plano diretor, veiculado pela Lei municipal nº X, definiu as áreas do seu território em que essa exploração seria permitida. A medida, apesar de muito comemorada pela coletividade, foi duramente criticada pelas sociedades empresárias que exploram essa atividade econômica, o que redundou em discussões a respeito da conformidade constitucional do referido diploma normativo. À luz da sistemática constitucional, é correto afirmar que a Lei municipal nº X é",
       "alternatives": {
         "A": "constitucional, pois se trata de típico interesse local.",
@@ -561,7 +561,7 @@
         "D": "inconstitucional, pois o Estado em que Beta está localizado possui competência residual para legislar sobre a matéria.",
         "E": "inconstitucional, pois a matéria já é disciplinada pela ordem constitucional, não havendo a possibilidade de incursão legislativa por nenhum ente federativo."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O conselho de administração da sociedade de economia mista X, que integra a administração pública indireta do Município Sigma, deliberou que seria positiva para as suas operações a criação de uma subsidiária, sob a forma de sociedade anônima. Ao tomar conhecimento dessa deliberação, o secretário municipal responsável pela supervisão da sociedade de economia mista concluiu corretamente que a referida criação",
       "alternatives": {
         "A": "é vedada.",
@@ -578,7 +578,7 @@
         "D": "é realizada conforme a lei civil, não dependendo de previsão legal.",
         "E": "é autorizada por decreto do prefeito municipal, sendo realizada conforme a lei civil."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi divulgado em diversos meios de comunicação social que o estado Alfa não tinha repassado aos municípios situados em seu território, no prazo devido, 50% do produto da arrecadação do imposto sobre a propriedade de veículos automotores licenciados em seus territórios, receita que, por imperativo constitucional, pertence aos municípios. Essa situação gerou grande insatisfação junto às lideranças partidárias e foi iniciado um movimento de âmbito nacional para que fosse decretada a intervenção da União em Alfa. Nesse caso é correto afirmar que a situação descrita",
       "alternatives": {
         "A": "configura hipótese de intervenção espontânea, cabendo ao Congresso Nacional apreciar o respetivo decreto após a sua edição.",
@@ -595,7 +595,7 @@
         "D": "pode acarretar a intervenção, o que pressupõe o ajuizamento de ação direta interventiva e o seu correlato provimento pelo Supremo Tribunal Federal.",
         "E": "configura hipótese de intervenção solicitada, exigindo a provocação de um dos municípios afetados pela ausência de repasse das receitas tributárias."
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Rafael, servidor público do Estado de Roraima, foi designado para a função de agente de contratação. No exercício de tal atribuição, Rafael foi questionado sobre a necessidade de realização de licitação e qual seria, eventualmente, a modalidade cabível ou, alternativamente, se seria possível a contratação direta, à luz da Lei nº 14.133/2021, nas seguintes situações: I. contratação de cantor consagrado pela crítica e pela opinião pública para a festa de determinado Município, que atrai investimentos para a cidade; II. contratação de serviços de limpeza e manutenção das instalações da prefeitura, considerados serviços contínuos e comuns, para o qual existem várias empresas interessadas, tornando viável a competição; III. celebração de contrato de programa com ente federativo ou com entidade de sua Administração Pública indireta que envolva prestação de serviços públicos de forma associada nos termos autorizados em contrato de consórcio público ou em convênio de cooperação. Rafael respondeu, corretamente, que, nos casos I, II e III, o mais adequado seria",
       "alternatives": {
         "A": "(I) licitação dispensável; (II) licitação dispensável; (III) licitação dispensável.",
@@ -612,7 +612,7 @@
         "D": "(I) licitação na modalidade pregão; (II) licitação na modalidade pregão; (III) licitação na modalidade concorrência.",
         "E": "(I) licitação dispensável; (II) licitação na modalidade concorrência; (III) licitação inexigível."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Após compreender a distinção entre a anulação e a revogação dos atos administrativos e verificar as peculiaridades atinentes ao controle exercido pelos Tribunais de Contas sobre os atos discricionários realizados pelo Poder Executivo, Maristela verificou corretamente que",
       "alternatives": {
         "A": "deve o Tribunal de Contas revogar tais atos administrativos, caso verifique a existência de qualquer vício na sua formalização.",
@@ -629,7 +629,7 @@
         "D": "não compete ao Tribunal de Contas revogar tais atos administrativos, pois não é o órgão competente para o exercício da discricionariedade.",
         "E": "não incumbe ao Tribunal de Contas a anulação dos atos administrativos eivados de vícios insanáveis, notadamente em relação ao motivo e à finalidade."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Diante da necessidade de aprofundar os seus conhecimentos acerca da responsabilidade civil do Estado, Briana passou a estudar a orientação dos Tribunais Superiores acerca do tema, notadamente em relação ao disposto no Art. 37, §6º, da Constituição Federal de 1988, vindo a concluir corretamente que o aludido dispositivo",
       "alternatives": {
         "A": "abarca a responsabilização do Estado por danos ambientais, devendo ser aplicada, nesse caso, a teoria do risco administrativo.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Ao consultar a Lei Complementar Estadual nº 53/2001 (Dispõe sobre o Regime Jurídico dos Servidores Públicos Civis do Estado de Roraima), Constância observou que o retorno à atividade de servidor em disponibilidade far-se-á mediante determinado provimento derivado em cargo de atribuições e vencimentos compatíveis com o anteriormente ocupado. O mencionado provimento é",
       "alternatives": {
         "A": "a readaptação.",
@@ -663,40 +663,6 @@
         "D": "a recondução.",
         "E": "a reintegração."
       },
-      "answer": "D",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 9
-    },
-    {
-      "question_number": 40,
-      "discipline": null,
-      "statement": "No âmbito dos atributos dos atos administrativos existe aquele que costuma ser indicado como fundamento para a inversão do ônus da prova, no sentido de que caberá ao administrado demonstrar a ilegalidade do ato administrativo. Nesse contexto, o mencionado atributo é a",
-      "alternatives": {
-        "A": "presunção de veracidade, em razão do qual se presumem verdadeiros os fatos alegados pela Administração.",
-        "B": "autoexecutoriedade, que é condizente com a noção de que há conformidade do ato editado com os parâmetros estabelecidos em lei.",
-        "C": "imperatividade, segundo o qual a Administração pode levar a efeito as suas determinações sem a intervenção do Poder Judiciário.",
-        "D": "vinculação, considerando os parâmetros estabelecidos em lei para a definição do mérito administrativo.",
-        "E": "supremacia do interesse público, que, consoante explícito na Constituição, determina que a vontade da Administração deve prevalecer sobre a do administrado. Administração Pública"
-      },
-      "answer": "C",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 9
-    },
-    {
-      "question_number": 41,
-      "discipline": null,
-      "statement": "Além do Estado Neoweberiano, outros paradigmas pós- burocráticos também procuram preservar elementos centrais da New Public Management (NPM). Um paradigma pós-burocrático que busca incorporar lições aprendidas da NPM, com foco em aspectos como valor e coordenação é a",
-      "alternatives": {
-        "A": "Gestão de Qualidade Total (TQM).",
-        "B": "Administração Pública Tradicional (APT).",
-        "C": "Nova Governança Pública (NPG).",
-        "D": "Economia Comportamental na Administração Pública.",
-        "E": "Gestão Privada Integrada (GPI)."
-      },
       "answer": "B",
       "annulled": false,
       "has_image": false,
@@ -704,15 +670,15 @@
       "page_number": 9
     },
     {
-      "question_number": 42,
-      "discipline": null,
-      "statement": "O ciclo de políticas públicas é um modelo de visualização e interpretação que organiza o desenvolvimento de uma política pública em etapas sequenciais e interdependentes. Um problema público é a diferença entre o que é e aquilo que se gostaria que fosse a realidade pública. Nesse contexto, o problema público se materializa, por exemplo, na",
+      "question_number": 40,
+      "discipline": "Legislação Específica",
+      "statement": "No âmbito dos atributos dos atos administrativos existe aquele que costuma ser indicado como fundamento para a inversão do ônus da prova, no sentido de que caberá ao administrado demonstrar a ilegalidade do ato administrativo. Nesse contexto, o mencionado atributo é a",
       "alternatives": {
-        "A": "diferença entre a realidade ideal e os recursos disponíveis.",
-        "B": "disparidade entre o status quo e uma situação pública desejada.",
-        "C": "ausência de políticas públicas para atender demandas sociais.",
-        "D": "falta de consenso entre os gestores públicos sobre soluções adequadas.",
-        "E": "discrepância entre a legislação vigente e as necessidades sociais."
+        "A": "presunção de veracidade, em razão do qual se presumem verdadeiros os fatos alegados pela Administração.",
+        "B": "autoexecutoriedade, que é condizente com a noção de que há conformidade do ato editado com os parâmetros estabelecidos em lei.",
+        "C": "imperatividade, segundo o qual a Administração pode levar a efeito as suas determinações sem a intervenção do Poder Judiciário.",
+        "D": "vinculação, considerando os parâmetros estabelecidos em lei para a definição do mérito administrativo.",
+        "E": "supremacia do interesse público, que, consoante explícito na Constituição, determina que a vontade da Administração deve prevalecer sobre a do administrado."
       },
       "answer": "A",
       "annulled": false,
@@ -721,8 +687,42 @@
       "page_number": 9
     },
     {
+      "question_number": 41,
+      "discipline": "Legislação Específica",
+      "statement": "Além do Estado Neoweberiano, outros paradigmas pós- burocráticos também procuram preservar elementos centrais da New Public Management (NPM). Um paradigma pós-burocrático que busca incorporar lições aprendidas da NPM, com foco em aspectos como valor e coordenação é a",
+      "alternatives": {
+        "A": "Gestão de Qualidade Total (TQM).",
+        "B": "Administração Pública Tradicional (APT).",
+        "C": "Nova Governança Pública (NPG).",
+        "D": "Economia Comportamental na Administração Pública.",
+        "E": "Gestão Privada Integrada (GPI)."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 42,
+      "discipline": "Legislação Específica",
+      "statement": "O ciclo de políticas públicas é um modelo de visualização e interpretação que organiza o desenvolvimento de uma política pública em etapas sequenciais e interdependentes. Um problema público é a diferença entre o que é e aquilo que se gostaria que fosse a realidade pública. Nesse contexto, o problema público se materializa, por exemplo, na",
+      "alternatives": {
+        "A": "diferença entre a realidade ideal e os recursos disponíveis.",
+        "B": "disparidade entre o status quo e uma situação pública desejada.",
+        "C": "ausência de políticas públicas para atender demandas sociais.",
+        "D": "falta de consenso entre os gestores públicos sobre soluções adequadas.",
+        "E": "discrepância entre a legislação vigente e as necessidades sociais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "A parceria entre governo e sociedade é baseada em cooperação mútua na qual o governo desempenha o papel de regulador e executor de ações, enquanto a sociedade contribui com conhecimento local, participação ativa e controle social. Assinale a afirmativa correta a respeito das relações entre o governo e as Organizações da Sociedade Civil (OSCs).",
       "alternatives": {
         "A": "Quanto maior o campo de atuação do Estado, menor será a possibilidade de desenvolvimento da Sociedade Civil.",
@@ -731,7 +731,7 @@
         "D": "As parcerias entre OSCs e governos limita-se ao aprimoramento econômico, sem impacto na democracia.",
         "E": "As OSCs mais bem estruturadas podem sugerir propostas de ação a governos locais e desempenham papel relevante no monitoramento governamental."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O governo eletrônico (e-gov) utiliza tecnologia da informação e comunicação (TICs) e mudanças organizacionais para aprimorar estruturas governamentais, melhorar a qualidade e acessibilidade dos serviços, aumentar a eficiência e reduzir custos e tempos de atendimento. Uma medida que pode ser adotada para promover o uso dos sistemas e-gov pelos cidadãos é",
       "alternatives": {
         "A": "publicar selos de segurança e privacidade, além de divulgar estatísticas positivas e históricos de serviços bem-sucedidos.",
@@ -748,7 +748,7 @@
         "D": "priorizar a implementação de sistemas e-gov sem considerar percepções de risco dos cidadãos.",
         "E": "restringir o acesso ao e-gov apenas para cidadãos que não utilizam serviços presenciais."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "A Gestão por Competências fomenta análises abrangentes que engajam todos os níveis da organização, com o objetivo de alcançar produtividade e efetividade de maneira sustentável. Assinale a opção que apresenta um indicador associado à competência “Autodesenvolvimento”.",
       "alternatives": {
         "A": "Organiza suas atividades e administra os recursos disponíveis com eficácia.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O Decreto nº 9.203/2017 define os princípios da governança pública com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade. Os princípios de governança pública",
       "alternatives": {
         "A": "incluem ações voltadas à sustentabilidade, preservação ambiental e direitos humanos, alinhando-se às discussões contemporâneas sobre governança.",
@@ -782,7 +782,7 @@
         "D": "enfatizam o desenvolvimento de políticas sociais e ambientais como parte central da governança pública.",
         "E": "apresentam uma visão ampla de governança, abrangendo tanto os princípios administrativos quanto as questões sociais e ambientais."
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "A descentralização é um mecanismo que pode fortalecer a democracia ao aproximar as decisões do nível local, promover maior participação cidadã e adaptar políticas públicas às necessidades específicas de diferentes comunidades. Assinale a afirmativa correta sobre o modo como as tendências socioeconômicas influenciam a descentralização em contextos democráticos.",
       "alternatives": {
         "A": "A modernização, incluindo mudanças tecnológicas e integração de mercados, favorece a descentralização ao reduzir a dependência das unidades constituintes em relação ao governo central.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "A administração pública, ao promover a participação cidadã por meio de mecanismos que estimulem a motivação, fortalece a tomada de decisões mais democráticas, inclusivas e legitimadas pela sociedade. Assinale a afirmativa correta acerca da relação entre participação, atores sociais e controle social.",
       "alternatives": {
         "A": "A participação cidadã depende exclusivamente de políticas públicas coercitivas que obriguem os indivíduos a tomar parte nas decisões públicas.",
@@ -816,7 +816,7 @@
         "D": "O controle social é garantido apenas pela participação de atores sociais que possuem acesso direto às estruturas de poder.",
         "E": "A gestão do setor público deve focar exclusivamente em resultados e não em estimular o envolvimento dos cidadãos nos processos participativos."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "A gestão local atua como mediadora entre o exercício da cidadania e a busca por equidade social, criando condições para que a população participe ativamente da vida pública e garantindo que políticas públicas sejam orientadas para a justiça social e o bem comum. Um fator essencial para a efetividade das instituições participativas nos municípios é",
       "alternatives": {
         "A": "a dependência exclusiva do desenho institucional, uma vez que outros fatores possuem influência marginal nos resultados.",
@@ -833,7 +833,7 @@
         "D": "a inexistência de correlação entre a capacidade administrativa e o desempenho das instituições participativas em nível municipal.",
         "E": "a interação entre vontade política, desenho institucional, cultura política ou associativismo local e capacidade administrativa e financeira."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "As práticas corruptas resultam no desvio e no desperdício de recursos públicos, enfraquecem o Estado, dificultam a implementação de políticas públicas e comprometem a legitimidade das instituições públicas. Nesse contexto, uma abordagem ideal para estratégias de enfrentamento à corrupção deve",
       "alternatives": {
         "A": "basear-se majoritariamente no endurecimento das leis e no fortalecimento dos órgãos de repressão, para aumentar os custos da conduta corrupta.",
@@ -850,7 +850,7 @@
         "D": "combinar reformas legais e institucionais com estratégias baseadas em análises comportamentais que considerem heurísticas e vieses.",
         "E": "implementar políticas públicas que negligenciem aspectos psicológicos e confiem primordialmente na dissuasão punitiva. MÓDULO III - CONHECIMENTOS ESPECÍFICOS AVANÇADOS"
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "A modalidade de auditoria realizada para avaliar se atividades, transações financeiras e informações cumprem, em todos os aspectos relevantes, as normas que regem a entidade auditada é denominada",
       "alternatives": {
         "A": "auditoria operacional.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Sobre as auditorias de conformidade, analise as afirmativas a seguir. I. Tem por objetivo permitir que as EFS avaliem se as atividades das entidades do setor público estão de acordo com as normas que as regem. II. Pode ser relacionada com a legalidade, mas não com legitimidade. III. As auditorias de conformidade podem ser trabalhos de certificação ou de relatório direto, ou ambos ao mesmo tempo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -884,7 +884,7 @@
         "D": "I e II, apenas.",
         "E": "III, apenas."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Nas auditorias de conformidade, o nível de asseguração em que, na opinião do auditor, o objeto está ou não em conformidade, em todos os aspectos relevantes, com os critérios estabelecidos, é denominado asseguração",
       "alternatives": {
         "A": "limitada.",
@@ -901,7 +901,7 @@
         "D": "absoluta.",
         "E": "razoável."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O auditor que aplica treinamentos, conhecimentos e experiências, no contexto fornecido pelas normas de auditoria, de modo que decisões informadas sobre os cursos de ação apropriados possam ser tomadas, dadas as circunstâncias da auditoria, está observando o princípio denominado",
       "alternatives": {
         "A": "ceticismo profissional.",
@@ -918,7 +918,7 @@
         "D": "objetividade.",
         "E": "controle de qualidade."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Sobre as auditorias operacionais, analise as afirmativas a seguir. I. Pode adotar uma abordagem orientada a problemas, que avalia se os objetivos de impactos ou de produtos foram atingidos como planejados ou se os programas e serviços estão funcionando como pretendido. II. O objetivo de uma auditoria operacional determina a abordagem e o desenho do trabalho e corresponder a simplesmente descrever uma situação. III. Muitos objetivos de auditoria operacional podem ser enquadrados como uma questão geral de auditoria que pode ser desdobrada em subquestões mais precisas. Está correto o que se afirma em",
       "alternatives": {
         "A": "II, apenas.",
@@ -935,7 +935,7 @@
         "D": "I e II, apenas.",
         "E": "I, II e III."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Nos termos da NBASP 400, que estabelece os princípios de auditoria de conformidade, o relatório de auditoria deve incluir",
       "alternatives": {
         "A": "a matriz de planejamento.",
@@ -952,7 +952,7 @@
         "D": "a portaria de autorização da fiscalização.",
         "E": "a descrição dos critérios identificados."
       },
-      "answer": "B",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Considerando o processo de normalização de um banco de dados relacional, avalie as afirmativas a seguir. I. Um dos objetivos da normalização é minimizar redundância. II. A normalização oferece uma estrutura formal para analisar esquemas de relação com base em suas chaves. III. Desnormalização é o processo de armazenar a junção de relações na forma normal mais baixa como uma relação básica. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -969,7 +969,7 @@
         "D": "I e III, apenas.",
         "E": "II e III, apenas."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "As transações ACID (Atomicidade, Correção, Isolamento e Durabilidade) garantem algumas características importantes para leituras, gravações e modificações de tabelas em bancos de dados. Baseando-se nesse contexto, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Durabilidade: as transações levam uma base de dados de um estado consistente para outro estado consistente. ( ) Correção: finalizado o commit da transação, suas alterações são mantidas no banco de dados mesmo ocorrendo uma posterior queda do sistema. ( ) Atomicidade: considerando duas transações distintas T1 e T2, T1 pode ver as alterações de T2 (após commit de T2) ou T2 pode ver as alterações de T1 (após commit de T1), mas certamente não ambas. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -986,7 +986,7 @@
         "D": "V – F – V.",
         "E": "F – F – F."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Nas ferramentas de banco de dados NoSQL, um formato de serialização binária utilizado para armazenar documentos e realizar chamadas remotas de procedimento no MongoDB é o",
       "alternatives": {
         "A": "Atlas.",
@@ -1003,7 +1003,7 @@
         "D": "DBPointer.",
         "E": "Mongod."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O código DDL abaixo cria três tabelas em um banco de dados relacional: CREATE TABLE Velejadores ( vid INTEGER PRIMARY KEY, nome VARCHAR(100), idade INTEGER ); CREATE TABLE Barcos ( bid INTEGER PRIMARY KEY, nome VARCHAR(50), modelo VARCHAR(50) ); CREATE TABLE Reservas ( vid INTEGER, bid INTEGER, data DATE, PRIMARY KEY (vid, bid), FOREIGN KEY (vid) REFERENCES Velejadores(vid), FOREIGN KEY (bid) REFERENCES Barcos(bid) ); Considerando as tabelas acima, a seguinte consulta foi realizada: SELECT V.nome FROM Velejadores V WHERE NOT EXISTS ( (SELECT B.bid FROM Barcos B) EXCEPT (SELECT R.bid FROM Reservas R WHERE R.vid = V.vid) ); O retorno da consulta foram os nomes",
       "alternatives": {
         "A": "dos velejadores que possuem reservas para todos os barcos.",
@@ -1020,7 +1020,7 @@
         "D": "dos velejadores que possuem reserva para mais de um barco.",
         "E": "dos barcos que possuem reservas feitas por todos os velejadores."
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Na linguagem PL/SQL, a seção de tratamento de exceções permite que os programadores especifiquem quais ações devem ser tomadas quando uma determinada exceção ocorre. Nesse contexto, a seguinte exceção é gerada quando um código PL/SQL tenta armazenar um valor duplicado em uma coluna que possui um índice exclusivo definido:",
       "alternatives": {
         "A": "VALUE_ERROR",
@@ -1037,7 +1037,7 @@
         "D": "TOO_MANY_ROWS",
         "E": "DUPLICATED_INDEX"
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O conceito de dependência funcional é fundamental na análise de esquemas relacionais, sendo uma ferramenta básica para medir a adequação dos agrupamentos de atributos. Dependências funcionais podem ser utilizadas para descrever melhor um esquema de relação ao especificar restrições que devem ser mantidas entre seus atributos. As dependências funcionais problemáticas podem ser eliminadas por meio do processo de normalização, buscando alcançar as várias formas normais. As formas normais que buscam eliminar novos conceitos de dependência funcional que são extensões e especializações do conceito original são",
       "alternatives": {
         "A": "1FN e 5FN.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "NoSQL é uma abreviação de Not only SQL (não somente SQL), termo cunhado para definir os novos modelos de armazenamento de dados, criados para atender às necessidades de flexibilidade, disponibilidade, escalabilidade e desempenho das aplicações inseridas no contexto de Big Data. Esses modelos são classificados de acordo com a estrutura em que os dados são armazenados. Um deles, especificamente, não considera conceitos como normalização de dados, criação de joins e definição de esquemas rígidos. Ele armazena estruturas flexíveis que podem ser obtidas por meio de dados semiestruturados, como os formatos XML e JSON. Cada uma dessas estruturas armazenadas não contém necessariamente os mesmos atributos, pois não é necessário definir um esquema. O modelo em questão é o",
       "alternatives": {
         "A": "orientado a documentos.",
@@ -1071,7 +1071,7 @@
         "D": "orientado a chave-valor.",
         "E": "orientado a colunas."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O Controle de Acesso Baseado em Funções (RBAC) é um modelo amplamente utilizado para gerenciar permissões de acesso em ambientes organizacionais. Assinale a afirmativa correta acerca do funcionamento do RBAC.",
       "alternatives": {
         "A": "O RBAC atribui permissões diretamente a cada usuário, eliminando a necessidade de papéis intermediários.",
@@ -1088,7 +1088,7 @@
         "D": "No RBAC, o acesso é determinado por políticas baseadas em atributos individuais dos usuários, como localização ou departamento.",
         "E": "O RBAC é um modelo onde cada usuário pode personalizar suas permissões de acesso com base em suas necessidades operacionais."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Com o objetivo de instalar um sistema de banco de dados PostgreSQL no servidor de banco de dados db_server, o arquivo postgres-17.2.tar.bz2 foi obtido da página da internet https://www.postgresql.org/ftp/source e gravado no diretório raiz do servidor. A seguir, os seguintes comandos foram executados pelo usuário tce_rr que possui perfil de administrador: tce_rr@db_server ~ $ tar xf postgresql-17.2.tar.bz2 tce_rr@db_server ~ $ cd postgresql-17.2 tce_rr@db_server postgresql17.2 $ ./configure - -with- ssl=openssl tce_rr@db_server ~ $ make tce_rr@db_server postgresql17.2 $ su root@db_server postgresql17.2 $ make install root@db_server postgresql17.2 $ adduser postgres root@db_server postgresql17.2 $ mkdir -p /usr/local/pgsql/data root@db_server postgresql17.2 $ chown postgres /usr/local/pgsql/data root@db_server postgresql17.2 $ su - postgres postgres@db_server postgresql17.2 $ /usr/local/pgsql/bin/initdb -D /usr/local/pgsql/data postgres@db_server postgresql17.2 $ /usr/local/pgsql/bin/pg_ctl -D /usr/local/pgsql/data -l logfile postgres@db_server postgresql17.2 $ start postgres@db_server postgresql17.2 $ /usr/local/pgsql/bin/createdb test postgres@db_server postgresql17.2 $ /usr/local/pgsql/bin/psql test Com relação a essa rotina de instalação, é correto afirmar que",
       "alternatives": {
         "A": "os arquivos de instalação obtidos após a descompactação do arquivo postgres-17.2.tar.bz2 foram gravados no diretório raiz.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Suponha que o TCE-RR adote a estratégia de backup diferencial, com execução diária, e realize um backup completo apenas uma vez por semana. No quinto dia após o backup completo, um incidente ocorre algumas horas depois da execução do backup diferencial diário, que foi realizado com sucesso, exigindo a restauração dos dados para o ponto mais recente possível. Sobre o processo de recuperação nesse caso, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Apenas o backup completo é necessário para restaurar os dados até o ponto mais recente.",
@@ -1122,7 +1122,7 @@
         "D": "O backup completo e o backup diferencial do quinto dia são necessários para a restauração dos dados até o ponto mais recente.",
         "E": "Todos os backups diferenciais realizados até o quinto dia devem ser restaurados em sequência, na ordem de criação."
       },
-      "answer": "E",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Um armazém de dados (Data Warehouse - DW) é um conjunto de dados que atende a quatro propriedades: orientado por assunto, conciso e integrado, variável com o tempo e não volátil. Para atender à propriedade de não volatilidade",
       "alternatives": {
         "A": "os assuntos são divididos em dimensões.",
@@ -1139,7 +1139,7 @@
         "D": "o DW deve garantir que o dado inserido não será apagado ou atualizado.",
         "E": "o DW deve garantir consultas extremamente complexas e com baixo tempo de resposta."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "As organizações públicas podem se beneficiar do uso de Big Data para auditar grandes volumes de informações de maneira eficiente. Sobre os 5Vs que caracterizam o Big Data, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O “volume” refere-se à diversidade de fontes de dados utilizadas no Big Data.",
@@ -1156,7 +1156,7 @@
         "D": "Os 5Vs de Big Data são: volume, variedade, validade, valor e verificação.",
         "E": "O “valor” de um conjunto de dados está diretamente ligado à capacidade de extrair informações úteis e significativas."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No contexto de Big Data, novas ferramentas e novos modelos de armazenamento de dados foram criados para atender às necessidades de flexibilidade, disponibilidade, escalabilidade e desempenho das aplicações, muitas vezes sacrificando uma ou mais propriedades ACID. Assinale a opção que apresenta, respectivamente, uma ferramenta que trata do modelo de dados orientado a colunas e outra, do modelo orientado a documentos.",
       "alternatives": {
         "A": "Redis e Cassandra.",
@@ -1173,7 +1173,7 @@
         "D": "MongoDB e Spark.",
         "E": "Neo4J e DynamoDB."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O guia DAMA-DMBOK® prevê onze dimensões de Qualidade de Dados que devem ser atingidas para considerar um dado de qualidade. As dimensões recomendadas pelo guia são: acuracidade, completude, consistência, valor corrente, precisão, privacidade, razoabilidade, integridade referencial, em tempo adequado, unicidade e validade. A dimensão que indica se o tempo de resposta e acesso aos dados é satisfatório para os requisitos de uso é a",
       "alternatives": {
         "A": "performance.",
@@ -1190,7 +1190,7 @@
         "D": "disponibilidade.",
         "E": "confiabilidade."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No contexto de ferramentas de integração de ambientes de Big Data e Banco de Dados relacionais, associe cada descrição a seguir à respectiva ferramenta. 1. Apache Kafka. 2. Apache Sqoop. ( ) Muito usado para transferência de dados entre bancos relacionais para o ecossistema Hadoop. ( ) Suas transferências de dados são baseadas em lotes, focando em transferências programadas ou sob demanda. ( ) Muito usado para streaming de dados em tempo real. ( ) Trabalha com mensageria distribuída, baseada no conceito de tópicos, permite que produtores enviem mensagens e consumidores as processem de forma assíncrona. A associação correta, na ordem apresentada, é",
       "alternatives": {
         "A": "1 – 1 – 2 – 2.",
@@ -1207,7 +1207,7 @@
         "D": "2 – 1 – 2 – 1.",
         "E": "2 – 2 – 1 – 1."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "A criptografia dos dados em diferentes estados vem sendo utilizada tanto para garantir a segurança quanto para prevenir possíveis vazamentos de informações sensíveis. No contexto de segurança de banco de dados, avalie as afirmativas a seguir. I. O protocolo HTTPS, bem como outros similares, tem se tornado default para APIs na nuvem modernas. II. Criptografia de disco completo em laptops são essenciais para proteger dados em caso de roubo do dispositivo. III. Todas as formas de dados armazenados, incluindo dados em servidores, sistemas de arquivos, bancos de dados e armazenamento em nuvem, devem ser criptografadas para proteger contra acessos não autorizados. Acerca do estado dos dados nas três afirmativas, é correto afirmar que",
       "alternatives": {
         "A": "I e II correspondem à criptografia de dados em repouso e III, a criptografia de dados em trânsito.",
@@ -1224,7 +1224,7 @@
         "D": "I e III correspondem à criptografia de dados em repouso e II, à criptografia de dados em trânsito.",
         "E": "I e II correspondem à criptografia de dados em trânsito e III, à criptografia de dados em repouso."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No contexto de auditoria e compliance, a pilha ELK Stack (Elasticsearch, Logstash e Kibana) pode ser utilizada para monitorar e identificar atividades suspeitas no banco de dados que possam comprometer dados pessoais. Considerando suas funcionalidades, assinale a afirmativa correta sobre o uso da ELK Stack em auditoria.",
       "alternatives": {
         "A": "O Logstash é utilizado na ELK Stack como um componente que coleta e armazena diretamente os logs de diferentes fontes, sem transformações ou filtragens durante o processo de envio para o Elasticsearch.",
@@ -1241,7 +1241,7 @@
         "D": "A pilha ELK Stack é projetada para auditoria de bancos de dados, sem suporte a logs de sistemas operacionais ou aplicações.",
         "E": "Kibana e Elasticsearch implementam mecanismos de coleta de logs em tempo real e de visualização de dados, respectivamente."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O modelo completo de Governança de TI é composto de várias partes, conhecidas como componentes, que vão sendo construídas e implantadas de acordo com as prioridades, necessidades e disponibilidades da organização. A Governança de TI possui oito componentes típicos, que são: riscos e compliance, avaliação independente, gestão da mudança organizacional, alinhamento estratégico, gestão de desempenho, comunicação, gerenciamento de recursos e entrega de valor. Avalie se o componente de riscos e compliance envolve os seguintes aspectos: I. O processo de avaliar a prontidão para a mudança das áreas de TI, em função da implantação de inovações em processos de gestão e operacional, do planejamento da mudança, do estabelecimento de mecanismos de recompensas para a mudança e do gerenciamento da implantação da mudança. II. A definição da tolerância de riscos da organização e na avaliação conjunta dos riscos com o negócio, assim como na garantia de que a TI está aderente com os requisitos de compliance externos e internos. III. A interação entre a TI e a alta administração no sentido de estabelecer os mecanismos de direitos decisórios, assim como a obtenção dos direcionadores estratégicos e objetivos de negócio que irão afetar a TI, bem como a sua contribuição para a operação e objetivos do negócio. Está correto o que se apresenta em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1258,7 +1258,7 @@
         "D": "II e III, apenas.",
         "E": "I, II e III."
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Auditoria é a investigação dos procedimentos, processos e práticas relativas ao sistema de gerenciamento de banco de dados de um determinado órgão público. Os auditores se baseiam no histórico de mudanças ocorridas (log) nos dados armazenados em um determinado sistema. Para manter um registro de todas as atualizações realizadas no banco de dados e de usuários em particular que aplicaram cada atualização, é utilizado o log do sistema. O log do sistema inclui uma entrada para cada operação aplicada ao banco de dados. Sistemas de banco de dados baseados em PostgreSQL possuem a função trigger para a criação de logs. Essa função é muito utilizada para atualizar o log do sistema toda vez que uma determinada operação no banco de dados é realizada. Mais especificamente, quando o trigger está associado a tabelas de dados, ele somente pode ser executado",
       "alternatives": {
         "A": "antes ou depois das operações INSERT, UPDATE e DELETE.",
@@ -1275,7 +1275,7 @@
         "D": "depois das operações INSERT e DELETE.",
         "E": "antes ou depois da operação DELETE."
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O SQL Server Profiler é utilizado para realizar auditoria em servidores SQL Server a partir do rastreamento de atividades. Durante um rastreamento, os dados capturados são armazenados em uma tabela, em que cada linha representa uma requisição (query) e cada coluna apresenta informações sobre as requisições. Durante uma auditoria no sistema de banco de dados do TCE de Roraima, uma requisição (query) capturada pelo SQL Server Profiler retornou os seguintes dados: EventClass: SQL:BatchCompleted Application Nane: Microsoft SQL Server Management Studio LoginName: MicrosoftAccount\\DBA_TI_TCERR@tcerr.tc.br CPU: 3002 Reads: 105325 Writes: 0 Duration: 45219 DatabaseName: Processos_2024 HostName: AUD01_TCERR Com relação aos dados dessa requisição, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O programa que está rodando o SQL Server Profiler é o Microsoft SQL Server Management Studio.",
@@ -1292,7 +1292,7 @@
         "D": "A execução teve uma duração de 45,219 milissegundos.",
         "E": "A máquina que executou a requisição é AUD01_TCERR."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No contexto de otimização de desempenho de consultas em bancos de dados, algumas métricas ajudam a entender melhor o comportamento das consultas e a realizar ajustes necessários para melhorar o desempenho do banco de dados. Avalie se as seguintes métricas de desempenho devem ser acompanhadas: I. Duração da execução da consulta: essa métrica mede quanto tempo uma consulta leva para ser concluída, permitindo identificar consultas que podem precisar de otimização. II. Tempo de carregamento de dados versus tempo de processamento: comparar o tempo gasto para carregar os dados com o tempo gasto em processamento ajuda a identificar gargalos na pipeline de dados. III. Contagem de consultas concorrentes: é vital monitorar o número de conexões simultâneas para evitar a sobrecarga do banco de dados, o que pode afetar a performance dos usuários. IV. Utilização de recursos: mede a utilização de recursos como memória, CPU, I/O e rede para identificar padrões que podem indicar problemas ou oportunidades de otimização. As métricas de desempenho que devem de fato ser acompanhadas são",
       "alternatives": {
         "A": "II, III e IV, apenas.",
@@ -1309,7 +1309,7 @@
         "D": "I, III e IV, apenas.",
         "E": "I, II, III e IV."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Um sistema de banco de dados baseado em PostgreSQL possui três servidores, sendo um primário e dois em espera (standby). O servidor primário executa comandos de escrita e leitura (read- only), enquanto os servidores em standby resolvem apenas requisições de leitura. A replicação é realizada utilizando-se write- ahead log (WAL). A cada atualização do banco de dados do servidor primário, um WAL é encaminhado diretamente para os dois servidores em standby. O processo de replicação se encerra após o recebimento de respostas de todos os servidores em standby. Com relação ao sistema de banco de dados em questão, é correto afirmar que",
       "alternatives": {
         "A": "possui balanceamento de carga, os servidores estão conectados na configuração multiespera (multi-standby) e a replicação do banco de dados é síncrona.",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Com base nos princípios e impactos da LGPD no tratamento de dados pessoais sensíveis, assinale a opção que apresenta uma situação em que o tratamento de dados sensíveis sem o consentimento do titular está em conformidade com a lei.",
       "alternatives": {
         "A": "Tratamento de dados sensíveis para campanhas de divulgação relacionadas à saúde pública, mesmo sem previsão em lei ou regulamento, desde que os dados não sejam anonimizados.",
@@ -1343,7 +1343,7 @@
         "D": "Utilização de dados biométricos em procedimentos realizados exclusivamente por profissionais de saúde, da educação ou autoridades sanitárias para a tutela da saúde do titular.",
         "E": "Realização de estudos por órgão de pesquisa, desde que a anonimização dos dados pessoais sensíveis seja obrigatória em qualquer caso."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1351,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "De acordo com as boas práticas de governança no tratamento de dados pessoais, assinale a opção que está em conformidade com as exigências e diretrizes para a implementação de um programa de governança em privacidade, conforme dispõe a Lei Geral de Proteção de Dados Pessoais (LGPD).",
       "alternatives": {
         "A": "Implementar programa de governança em privacidade que considere o método de coleta dos dados pessoais como critério para sua aplicação, focando nos dados coletados digitalmente e no volume tratado.",
@@ -1360,7 +1360,7 @@
         "D": "Implementar programa que seja adaptado à estrutura, à escala e ao volume de suas operações, bem como à sensibilidade dos dados tratados.",
         "E": "Implementar programa de governança em privacidade que, no mínimo, conte com planos de resposta a incidentes e remediação, que sejam ativados exclusivamente quando houver violação de dados pessoais sensíveis. Realização"
       },
-      "answer": "E",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,

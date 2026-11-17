@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Empresa Brasileira de Serviços Hospitalares - EBSERH - Área Médica",
   "cargo_title": "Grupo - Patologia Clínica - Medicina Laboratorial",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Se tem problemas no pulmão, procure um pneumologista.",
         "C": "Se tem problemas no fígado, procure um dermatologista.",
         "D": "Se tem problemas nos ouvidos, procure um oncologista.",
-        "E": "Se tem problemas nos pés, procure um pediatra. Legislação EBSERH"
+        "E": "Se tem problemas nos pés, procure um pediatra."
       },
       "answer": "B",
       "annulled": false,
@@ -245,8 +245,25 @@
       "page_number": 5
     },
     {
-      "question_number": 16,
+      "question_number": 15,
       "discipline": null,
+      "statement": "Um empregado da Ebserh foi acusado de descumprir normas institucionais e de adotar conduta incompatível com as regras administrativas do Hospital Universitário. Para a apuração formal da conduta e garantia do contraditório e da ampla defesa, a administração decidiu instaurar procedimento disciplinar conforme as normas internas da empresa. Segundo a Norma Operacional de Controle Disciplinar da Ebserh, a apuração de infrações disciplinares pode ocorrer por meio de",
+      "alternatives": {
+        "A": "sindicância ou processo administrativo disciplinar.",
+        "B": "auditoria administrativa e decisão direta da diretoria.",
+        "C": "avaliação de desempenho extraordinária.",
+        "D": "procedimento sumário conduzido pela chefia imediata.",
+        "E": "análise exclusiva do Conselho Fiscal."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 16,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Considerando os fatores determinantes para a Reforma Sanitária Brasileira, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A crise do modelo previdenciário centralizado, associada à expansão da assistência privada, articulou-se à formulação de uma crítica baseada na medicina social e na análise histórico- estrutural da saúde. ( ) A Reforma Sanitária estruturou-se a partir da adoção da teoria funcionalista do Estado, orientada pela racionalização administrativa e pela busca de equilíbrio institucional no setor saúde. ( ) A abertura política da década de 1970, combinada à reorganização dos movimentos sociais, favoreceu a consolidação de um projeto que relacionava saúde, democracia e transformação das estruturas sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -263,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Tendo em vista os mecanismos institucionais de participação no âmbito do Sistema Único de Saúde, leia hipotética a situação a seguir. Camila participou, como representante dos profissionais de saúde, de uma instância colegiada municipal convocada para ocorrer naquele quadriênio. Durante o encontro, foi realizada avaliação ampla da situação de saúde do município, com apresentação de diagnósticos gerais e, ao final, foram propostas diretrizes para subsidiar a formulação da política de saúde nos anos subsequentes. De acordo com a descrição apresentada, a instância indicada na situação acima é o(a)",
       "alternatives": {
         "A": "Conselho Municipal de Saúde.",
@@ -280,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução RDC nº 36/2013, da ANVISA, institui ações para a promoção da segurança do paciente e apresenta conceitos relacionados à gestão de risco nos serviços de saúde. Considerando as definições estabelecidas na norma, um exemplo de evento adverso é a administração de medicamento",
       "alternatives": {
         "A": "em dose incorreta, resultando em insuficiência renal aguda no paciente internado.",
@@ -297,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com relação às características do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir. I. O sistema público de saúde instituído pela Constituição de 1988 rompeu com o modelo anterior restrito aos trabalhadores formais, passando a garantir acesso a toda a população. II. A organização do sistema, desde sua criação, passou a considerar as desigualdades sociais e regionais como critério para definição de prioridades na oferta de ações e serviços. III. A organização estabelecida a partir de 1988 definiu que toda decisão sobre políticas de saúde seria centralizada na esfera federal, de modo a garantir uniformidade administrativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -314,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução CNS nº 553/2017 estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, dispondo sobre responsabilidades individuais no âmbito do cuidado. Assinale a opção que apresenta uma violação dos deveres da pessoa usuária.",
       "alternatives": {
         "A": "Solicitar substituição do profissional responsável durante atendimento hospitalar regular.",
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Em um hospital geral de médio porte, foi identificado que um paciente recebeu dose duplicada de um anticoagulante após falha na comunicação durante a troca de plantão. O erro foi percebido horas depois, sem ocorrência de dano grave. A direção da instituição solicita que o Núcleo de Segurança do Paciente proponha medidas imediatas. Com base no Programa Nacional de Segurança do Paciente (PNSP), o encaminhamento prioritário deve ser",
       "alternatives": {
         "A": "formalizar advertência ao profissional envolvido e reforçar, em reunião de equipe, a necessidade de atenção redobrada na etapa de administração.",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Decreto nº 7.508/2011 define conceitos relativos à organização do Sistema Único de Saúde (SUS), considerando a articulação interfederativa e a regionalização das ações e serviços. Assinale a opção que descreve corretamente uma Região de Saúde.",
       "alternatives": {
         "A": "Conjunto de serviços municipais organizado para integrar ações assistenciais e planejamento sanitário local.",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A NOB/RH-SUS prevê que a gestão do trabalho no SUS deve obedecer ao princípio da participação bilateral. Assinale a opção que descreve corretamente esse princípio.",
       "alternatives": {
         "A": "Pactuação conjunta de diretrizes sobre carreira e condições laborais.",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Sistema Único de Saúde (SUS) é estruturado constitucionalmente por um conjunto de princípios e diretrizes que orientam sua organização, seu funcionamento e sua oferta de ações e serviços. Assinale a opção que apresenta uma ação incompatível com as diretrizes do SUS.",
       "alternatives": {
         "A": "Implantação de central de regulação regional para organizar o acesso a consultas e exames entre municípios de uma mesma região de saúde.",
@@ -399,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Durante atendimento em Unidade Básica de Saúde, um homem transexual solicitou encaminhamento para mastectomia. O profissional informou que o procedimento não poderia ser ofertado pelo SUS, pois se trataria de demanda estética não relacionada à saúde. A atitude do profissional de saúde está",
       "alternatives": {
         "A": "inadequada, pois a decisão sobre cirurgias depende exclusivamente de autorização prévia estadual.",
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com base no Código de Ética Médica (Resolução CFM nº 2.217/2018), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O médico pode recusar-se a exercer a profissão em instituição pública ou privada quando as condições de trabalho não forem dignas, devendo comunicar formalmente sua decisão ao Conselho Regional competente. ( ) É vedado ao médico divulgar, fora do meio científico, método terapêutico ainda não reconhecido por órgão competente, ainda que a divulgação tenha finalidade apenas educativa. ( ) O médico deve empregar todos os recursos diagnósticos e terapêuticos disponíveis nas situações clínicas irreversíveis, ainda que tais medidas não garantam benefício proporcional ao paciente. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Bioética parte do pressuposto de que nem tudo o que é cientificamente possível é também eticamente aceitável, exigindo que os avanços técnicos sejam avaliados quanto ao respeito à dignidade da pessoa humana. Assinale a opção que exemplifica uma ação cientificamente possível, porém eticamente inaceitável.",
       "alternatives": {
         "A": "Oferta de tratamento capaz de restaurar completamente funções orgânicas perdidas, ainda que inexistam recursos técnicos para a intervenção.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Política Nacional de Saúde Integral da População Negra estabelece diretrizes voltadas ao combate contra o racismo institucional e à redução das desigualdades étnico-raciais no âmbito do SUS. Assinale a opção que apresenta uma medida adequada à referida política.",
       "alternatives": {
         "A": "Implementação de metas específicas para redução de desigualdades étnico-raciais em saúde.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Os Determinantes Sociais da Saúde (DSS) referem-se a um conjunto de condições que influenciam diretamente a distribuição das doenças e dos fatores de risco na população. Assinale a opção que exemplifica corretamente um DSS.",
       "alternatives": {
         "A": "Elevada prevalência de hipertensão arterial associada ao envelhecimento progressivo da população brasileira.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Avalie se as diretrizes do HumanizaSUS incluem: I. implantação de modelo decisório que concentra na chefia a prerrogativa de alterar rotinas, com o objetivo de garantir maior eficiência no atendimento ao público; II. instituição de espaços regulares de deliberação coletiva para discutir impasses do cotidiano e redefinir responsabilidades entre trabalhadores, gestores e usuários; III. reorganização do acesso com redefinição dos critérios de entrada no serviço, priorizando necessidades avaliadas no momento do atendimento. É compatível com o escopo do HumanizaSUS o que se indica em",
       "alternatives": {
         "A": "II e III, apenas.",
         "B": "I, II e III.",
         "C": "I e III, apenas.",
         "D": "II, apenas.",
-        "E": "I e II, apenas. CONHECIMENTOS ESPECÍFICOS"
+        "E": "I e II, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma solução foi preparada dissolvendo-se 20 gramas de soluto em água suficiente para completar 500 mL de solução. A concentração percentual massa/volume (% m/v) dessa solução é",
       "alternatives": {
         "A": "2%.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O anticoagulante adequado para realização dos exames de tempo de protrombina (TP) e tempo de tromboplastina parcial ativada (TTPa) é",
       "alternatives": {
         "A": "a heparina sódica.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "De acordo com o Sistema Internacional de Unidades (SI), a unidade de concentração sugerida a ser utilizada para um resultado de sódio sérico é o",
       "alternatives": {
         "A": "mg/dL (miligramas por decilitro).",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a opção que apresenta apenas exemplos de equipamentos de proteção coletiva (EPC) aplicáveis no laboratório clínico.",
       "alternatives": {
         "A": "Luvas, óculos de segurança, protetores faciais.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O grupo dos resíduos de serviço de saúde definido como “resíduos com a possível presença de agentes biológicos que, por suas características, podem apresentar risco de infecção”, de acordo com a Resolução do Colegiado da ANVISA do Ministério da Saúde RDC nº 222, de 28 de março de 2018, é o",
       "alternatives": {
         "A": "Grupo A.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à importância do controle interno da qualidade no laboratório clínico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Trata-se de um sistema de controle estatístico do processo que permite avaliar a exatidão do método através da participação do laboratório nos programas de ensaio de proficiência.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Ao analisar um gráfico de controle interno da qualidade (Gráfico de Levey-Jennings) da rotina de triglicérides de um analisador bioquímico automatizado, foi evidenciada a violação da regra 13s em relação às regras múltiplas de Westgard. Nesse caso, é correto afirmar que",
       "alternatives": {
         "A": "trata-se de uma ocorrência normal e rotineira do controle interno da qualidade e o resultado deve ser aceito como correto.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a afirmativa correta em relação à interpretação do exame de eletroforese de proteínas.",
       "alternatives": {
         "A": "A eletroforese de proteínas em gel de agarose gera após a corrida eletroforética, em amostras de soro de pacientes saudáveis, um traçado de cinco zonas: albumina, alfa-1 globulinas, alfa-2 globulinas, betaglobulinas e gamaglobulinas.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A presença de turbidez em uma amostra de soro sugere a elevação de",
       "alternatives": {
         "A": "albumina.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à dosagem de apolipoproteína B (ApoB) na avaliação do risco cardiovascular, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Na população geral, as concentrações de HDL-colesterol e ApoB estão altamente correlacionadas.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a afirmativa correta a respeito da utilidade clínica da proteína C reativa (PCR) ultrassensível na avaliação do risco cardiovascular.",
       "alternatives": {
         "A": "A PCR ultrassensível é um marcador de insuficiência renal crônica. Pacientes com doença renal crônica apresentam maior risco cardiovascular.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A alteração laboratorial comumente observada na acidose láctica é a",
       "alternatives": {
         "A": "elevação do bicarbonato.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a alternativa correta sobre os princípios da espectrofotometria aplicados ao laboratório clínico.",
       "alternatives": {
         "A": "A leitura espectrofotométrica numa reação colorimétrica é realizada na faixa do comprimento de onda do ultravioleta. A utilização de uma lâmpada incandescente é a única indicada para a leitura da reação colorimétrica na faixa do comprimento de onda do ultravioleta.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a afirmativa correta em relação aos princípios da gasometria.",
       "alternatives": {
         "A": "A presença de bolhas na amostra de sangue arterial não interfere no resultado do PO2. A interferência ocorre nas amostras de sangue venoso.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à monitorização terapêutica de drogas, é correto afirmar que",
       "alternatives": {
         "A": "uma droga recém-administrada não atinge, de imediato, o nível sérico desejado. A partir da quarta ou quinta meia-vida é atingido o equilíbrio estacionário (steady-state na língua inglesa).",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma vantagem das técnicas de biologia molecular em relação aos métodos tradicionais para detecção de agentes infecciosos virais é",
       "alternatives": {
         "A": "permitir a detecção da imunoglobulina IgM específica do agente infeccioso viral.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Os achados comumente observados no exame de hemograma nas leucemias agudas incluem:",
       "alternatives": {
         "A": "diminuição na contagem de células sanguíneas normais, incluindo eritrócitos, plaquetas e leucócitos; a presença de blastos no sangue é um indicativo de leucemia aguda.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a afirmativa correta em relação à avaliação laboratorial do metabolismo do ferro no diagnóstico da anemia ferropriva.",
       "alternatives": {
         "A": "Na anemia ferropriva observam-se valores baixos de ferro sérico e da saturação da transferrina e níveis elevados de ferritina.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à macroprolactina, é correto afirmar que",
       "alternatives": {
         "A": "a pesquisa positiva para macroprolactina sempre está associada ao diagnóstico de hiperprolactinemia patológica de alta malignidade com elevado valor preditivo positivo.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Considere a seguinte relação de marcadores tumorais bioquímicos: • CA 19-9: Antígeno associado ao câncer 19-9; • CEA: Antígeno carcinoembriônico; • CA 15-3: Antígeno associado ao câncer 15-3; • CA 125: Antígeno associado ao câncer 125; • HE4: Proteína 4 do epidídimo humano (ou Human Epididymis protein 4 na língua inglesa); • CA 72-4: Antígeno associado ao câncer 72-4. Desses, os dois marcadores tumorais bioquímicos utilizados no algoritmo para avaliar o risco de malignidade ovariana (ROMA) são:",
       "alternatives": {
         "A": "CA 19-9 e CEA.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação aos exames laboratoriais para o diagnóstico de diabetes mellitus em adultos não gestantes, conforme recomendações da Sociedade Brasileira de Diabetes (SBD), assinale a afirmativa correta.",
       "alternatives": {
         "A": "Uma única glicemia de jejum maior ou igual a 100 mg/dL confirma o diagnóstico de diabetes mellitus.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Considere a seguinte relação de marcadores sorológicos de hepatite B: • HbsAg: Antígeno de superfície da hepatite B; • Anti-HBc total: Anticorpos totais contra o antígeno central da hepatite B; • Anti-HBc IgM: Anticorpo anti-HBc da classe IgM da hepatite B; • Anti-HBs: Anticorpo contra o antígeno de superfície da hepatite B. O perfil sorológico dos marcadores de hepatite B esperado que indica imunidade por vacinação é:",
       "alternatives": {
         "A": "HbsAg negativo, Anti-HBc total negativo e Anti-HBs positivo.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Considere a seguinte descrição de termos: RT-PCR: Transcrição reversa seguida por reação em cadeia da polimerase em tempo real. Antígeno NS1: Proteína não estrutural 1 da dengue. Assinale a opção que apresenta corretamente os exames a serem solicitados para o diagnóstico da dengue e o período ideal de coleta dos exames após o início dos sintomas.",
       "alternatives": {
         "A": "RT-PCR após 30 dias do início dos sintomas.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a afirmativa correta em relação à coloração de Gram.",
       "alternatives": {
         "A": "O esfregaço, antes de ser submetido a coloração, deverá estar seco (exposto ao ar), sendo fixado com calor acima de 200 C.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O exame microscópico direto do líquor com coloração pela tinta da China (nanquim) é utilizado principalmente para",
       "alternatives": {
         "A": "pesquisa de cristais birrefringentes.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em microbiologia clínica, a seguinte prova bioquímica é utilizada para a diferenciação entre os gêneros Streptococcus e Staphylococcus:",
       "alternatives": {
         "A": "Teste da coagulase.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A utilidade do teste anal swab em parasitologia reside no fato de que",
       "alternatives": {
         "A": "o teste é eficiente na pesquisa de cistos de protozoários e de larvas de ancilostomídeos.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em parasitologia clínica, os métodos laboratoriais mais indicados para a pesquisa de larvas de Strongyloides stercoralis em amostras de fezes humanas são o",
       "alternatives": {
         "A": "método de Lutz (sedimentação por força gravitacional) e o método de Ritchie (centrífugo-sedimentação).",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A seguinte substância pode interferir na detecção da glicose na urina por tira reagente, com base na atividade da glicose oxidase, resultando em possíveis resultados falso-negativos:",
       "alternatives": {
         "A": "ácido ascórbico.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a afirmativa correta em relação ao teste de nitrito no exame de rotina de urina por tira reagente.",
       "alternatives": {
         "A": "O resultado do teste de nitrito positivo indica uma infecção urinária por fungos.",

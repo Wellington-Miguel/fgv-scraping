@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Empresa Brasileira de Serviços Hospitalares - EBSERH - Área Médica",
   "cargo_title": "Grupo - Infectologia",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Se tem problemas no pulmão, procure um pneumologista.",
         "C": "Se tem problemas no fígado, procure um dermatologista.",
         "D": "Se tem problemas nos ouvidos, procure um oncologista.",
-        "E": "Se tem problemas nos pés, procure um pediatra. Legislação EBSERH"
+        "E": "Se tem problemas nos pés, procure um pediatra."
       },
       "answer": "B",
       "annulled": false,
@@ -245,8 +245,25 @@
       "page_number": 4
     },
     {
-      "question_number": 16,
+      "question_number": 15,
       "discipline": null,
+      "statement": "Um empregado da Ebserh foi acusado de descumprir normas institucionais e de adotar conduta incompatível com as regras administrativas do Hospital Universitário. Para a apuração formal da conduta e garantia do contraditório e da ampla defesa, a administração decidiu instaurar procedimento disciplinar conforme as normas internas da empresa. Segundo a Norma Operacional de Controle Disciplinar da Ebserh, a apuração de infrações disciplinares pode ocorrer por meio de",
+      "alternatives": {
+        "A": "sindicância ou processo administrativo disciplinar.",
+        "B": "auditoria administrativa e decisão direta da diretoria.",
+        "C": "avaliação de desempenho extraordinária.",
+        "D": "procedimento sumário conduzido pela chefia imediata.",
+        "E": "análise exclusiva do Conselho Fiscal."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Considerando os fatores determinantes para a Reforma Sanitária Brasileira, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A crise do modelo previdenciário centralizado, associada à expansão da assistência privada, articulou-se à formulação de uma crítica baseada na medicina social e na análise histórico- estrutural da saúde. ( ) A Reforma Sanitária estruturou-se a partir da adoção da teoria funcionalista do Estado, orientada pela racionalização administrativa e pela busca de equilíbrio institucional no setor saúde. ( ) A abertura política da década de 1970, combinada à reorganização dos movimentos sociais, favoreceu a consolidação de um projeto que relacionava saúde, democracia e transformação das estruturas sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -263,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Tendo em vista os mecanismos institucionais de participação no âmbito do Sistema Único de Saúde, leia hipotética a situação a seguir. Camila participou, como representante dos profissionais de saúde, de uma instância colegiada municipal convocada para ocorrer naquele quadriênio. Durante o encontro, foi realizada avaliação ampla da situação de saúde do município, com apresentação de diagnósticos gerais e, ao final, foram propostas diretrizes para subsidiar a formulação da política de saúde nos anos subsequentes. De acordo com a descrição apresentada, a instância indicada na situação acima é o(a)",
       "alternatives": {
         "A": "Conselho Municipal de Saúde.",
@@ -280,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução RDC nº 36/2013, da ANVISA, institui ações para a promoção da segurança do paciente e apresenta conceitos relacionados à gestão de risco nos serviços de saúde. Considerando as definições estabelecidas na norma, um exemplo de evento adverso é a administração de medicamento",
       "alternatives": {
         "A": "em dose incorreta, resultando em insuficiência renal aguda no paciente internado.",
@@ -297,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com relação às características do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir. I. O sistema público de saúde instituído pela Constituição de 1988 rompeu com o modelo anterior restrito aos trabalhadores formais, passando a garantir acesso a toda a população. II. A organização do sistema, desde sua criação, passou a considerar as desigualdades sociais e regionais como critério para definição de prioridades na oferta de ações e serviços. III. A organização estabelecida a partir de 1988 definiu que toda decisão sobre políticas de saúde seria centralizada na esfera federal, de modo a garantir uniformidade administrativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -314,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução CNS nº 553/2017 estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, dispondo sobre responsabilidades individuais no âmbito do cuidado. Assinale a opção que apresenta uma violação dos deveres da pessoa usuária.",
       "alternatives": {
         "A": "Solicitar substituição do profissional responsável durante atendimento hospitalar regular.",
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Em um hospital geral de médio porte, foi identificado que um paciente recebeu dose duplicada de um anticoagulante após falha na comunicação durante a troca de plantão. O erro foi percebido horas depois, sem ocorrência de dano grave. A direção da instituição solicita que o Núcleo de Segurança do Paciente proponha medidas imediatas. Com base no Programa Nacional de Segurança do Paciente (PNSP), o encaminhamento prioritário deve ser",
       "alternatives": {
         "A": "formalizar advertência ao profissional envolvido e reforçar, em reunião de equipe, a necessidade de atenção redobrada na etapa de administração.",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Decreto nº 7.508/2011 define conceitos relativos à organização do Sistema Único de Saúde (SUS), considerando a articulação interfederativa e a regionalização das ações e serviços. Assinale a opção que descreve corretamente uma Região de Saúde.",
       "alternatives": {
         "A": "Conjunto de serviços municipais organizado para integrar ações assistenciais e planejamento sanitário local.",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A NOB/RH-SUS prevê que a gestão do trabalho no SUS deve obedecer ao princípio da participação bilateral. Assinale a opção que descreve corretamente esse princípio.",
       "alternatives": {
         "A": "Pactuação conjunta de diretrizes sobre carreira e condições laborais.",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Sistema Único de Saúde (SUS) é estruturado constitucionalmente por um conjunto de princípios e diretrizes que orientam sua organização, seu funcionamento e sua oferta de ações e serviços. Assinale a opção que apresenta uma ação incompatível com as diretrizes do SUS.",
       "alternatives": {
         "A": "Implantação de central de regulação regional para organizar o acesso a consultas e exames entre municípios de uma mesma região de saúde.",
@@ -399,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Durante atendimento em Unidade Básica de Saúde, um homem transexual solicitou encaminhamento para mastectomia. O profissional informou que o procedimento não poderia ser ofertado pelo SUS, pois se trataria de demanda estética não relacionada à saúde. A atitude do profissional de saúde está",
       "alternatives": {
         "A": "inadequada, pois a decisão sobre cirurgias depende exclusivamente de autorização prévia estadual.",
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com base no Código de Ética Médica (Resolução CFM nº 2.217/2018), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O médico pode recusar-se a exercer a profissão em instituição pública ou privada quando as condições de trabalho não forem dignas, devendo comunicar formalmente sua decisão ao Conselho Regional competente. ( ) É vedado ao médico divulgar, fora do meio científico, método terapêutico ainda não reconhecido por órgão competente, ainda que a divulgação tenha finalidade apenas educativa. ( ) O médico deve empregar todos os recursos diagnósticos e terapêuticos disponíveis nas situações clínicas irreversíveis, ainda que tais medidas não garantam benefício proporcional ao paciente. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Bioética parte do pressuposto de que nem tudo o que é cientificamente possível é também eticamente aceitável, exigindo que os avanços técnicos sejam avaliados quanto ao respeito à dignidade da pessoa humana. Assinale a opção que exemplifica uma ação cientificamente possível, porém eticamente inaceitável.",
       "alternatives": {
         "A": "Oferta de tratamento capaz de restaurar completamente funções orgânicas perdidas, ainda que inexistam recursos técnicos para a intervenção.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Política Nacional de Saúde Integral da População Negra estabelece diretrizes voltadas ao combate contra o racismo institucional e à redução das desigualdades étnico-raciais no âmbito do SUS. Assinale a opção que apresenta uma medida adequada à referida política.",
       "alternatives": {
         "A": "Implementação de metas específicas para redução de desigualdades étnico-raciais em saúde.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Os Determinantes Sociais da Saúde (DSS) referem-se a um conjunto de condições que influenciam diretamente a distribuição das doenças e dos fatores de risco na população. Assinale a opção que exemplifica corretamente um DSS.",
       "alternatives": {
         "A": "Elevada prevalência de hipertensão arterial associada ao envelhecimento progressivo da população brasileira.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Avalie se as diretrizes do HumanizaSUS incluem: I. implantação de modelo decisório que concentra na chefia a prerrogativa de alterar rotinas, com o objetivo de garantir maior eficiência no atendimento ao público; II. instituição de espaços regulares de deliberação coletiva para discutir impasses do cotidiano e redefinir responsabilidades entre trabalhadores, gestores e usuários; III. reorganização do acesso com redefinição dos critérios de entrada no serviço, priorizando necessidades avaliadas no momento do atendimento. É compatível com o escopo do HumanizaSUS o que se indica em",
       "alternatives": {
         "A": "II e III, apenas.",
         "B": "I, II e III.",
         "C": "I e III, apenas.",
         "D": "II, apenas.",
-        "E": "I e II, apenas. CONHECIMENTOS ESPECÍFICOS"
+        "E": "I e II, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A compreensão das doenças malignas e dos seus regimes terapêuticos é crítica para o estabelecimento de estratégias seguras e eficazes para prevenir e tratar infecções em pacientes com câncer. Dadas as altas taxas de morbidade e mortalidade associadas com as infecções em pacientes com câncer, empregar estratégias profiláticas é sempre desejável. Assinale a única opção que descreve uma medida profilática claramente estabelecida no cuidado de pacientes em tratamento de câncer.",
       "alternatives": {
         "A": "Quimioprofilaxia com fluoroquinolona para pacientes com tumores sólidos e tempo esperado de neutropenia inferior a sete dias.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Febre durante neutropenia tem sido considerada há décadas uma emergência médica e um processo infeccioso deve ser sempre considerado como etiologia, a menos que provado o contrário. A efetividade da terapia antibiótica empírica foi claramente demonstrada e tem enorme impacto na redução de mortalidade por complicações infecciosas em pacientes neutropênicos febris. No entanto, novas estratégias têm sido discutidas, como o início antibiótico empírico, de forma escalonada ou de forma de- escalonada. O contexto em que seria recomendado iniciar a antibioticoterapia empírica num paciente neutropênico febril de forma escalonada seria",
       "alternatives": {
         "A": "documentada colonização prévia do paciente por Staphylococcus aureus resistentes à meticilina (MRSA).",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem de 47 anos, diabético, é admitido com história de dor abdominal difusa, de forte intensidade, há 30 dias, acompanhada de dispneia, náuseas, astenia, anorexia e perda ponderal de 10 kg, evoluindo com distensão abdominal uma semana antes da internação. Ao exame físico inicial, estava hidratado, febril (38 oC), hipocorado (2+/4+), acianótico, anictérico, taquicárdico (FC = 110 bpm), sem anormalidades em ausculta cardíaca, normotenso, ausculta respiratória com murmúrio vesicular reduzido em base de hemitórax direito, levemente taquipneico (FR = 24 irpm), abdome globoso, distendido, doloroso difusamente à palpação, com fígado palpável a ± 10 cm do rebordo costal direito. Tomografia computadorizada (TC) de abdome mostrou fígado aumentado de volume, com lesão intraparenquimatosa em lobo direito, heterogênea, sólido-cística, multiseptada, medindo 15,5 x 15 x 14 cm. Foram coletadas hemoculturas, e o paciente foi submetido a aspiração hepática percutânea, obtendo-se material purulento enviado para bacterioscopia pelo Gram e cultura. Iniciada antibioticoterapia sistêmica com piperacilina/tazobactam. Na bacterioscopia foram visualizados bastonetes Gram negativos com múltiplas e diferentes morfologias; a cultura do aspirado revelou crescimento de Escherichia coli, sensível a diversos antibióticos, incluindo ampicilina e ceftriaxone. Hemoculturas revelaram Escherichia coli com o mesmo perfil de sensibilidade. Com base nos dados disponíveis, a única conduta, entre as listadas a seguir, adequada para a continuação do tratamento do paciente é:",
       "alternatives": {
         "A": "de-escalonamento do tratamento com substituição do regime inicial por ampicilina.",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Tétano e botulismo são doenças mediadas por toxinas produzidas por microrganismos estritamente anaeróbios. Apresentam diferenças marcantes nas suas apresentações clínicas; por outro lado, possuem semelhanças em epidemiologia, diagnóstico, tratamento e profilaxia. Pode ser considerada uma semelhança entre essas duas graves doenças o fato de que ambas",
       "alternatives": {
         "A": "podem ser prevenidas por imunização prévia, utilizando toxinas inativadas como imunógenos.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Criança de 4 anos é levada a um serviço de emergência com quadro de febre alta, inquietação, vômitos, com um dia de evolução. Mãe relata que a criança se queixa de cefaleia, mas não consegue caracterizá-la. Nega outros sintomas. Ao exame físico, a criança apresentava-se febril, torporosa, normotensa, eupneica, ausculta cardiovascular e respiratória normais, palpação do abdome sem alterações, sem edemas. Exame neurológico com presença de sinais de Kernig e Brudzinski, pupilas isocóricas, fotorreagentes, sem déficits neurológicos focais. Não foi possível realizar a fundoscopia. Otoscopia normal, bilateralmente. Foi, então, submetida a punção lombar, com líquor claro, 250 células/mm3, 65% PMN, 35% LMN, 60 mg/dL de glicorraquia (glicemia concomitante 86 mg/dL), e 70 mg/dL de proteinorraquia. Bacterioscopia negativa. Após a realização do exame liquórico, a criança se torna mais ativa, passa a brincar no consultório, e aceitou suco de fruta, sem vomitar. Na ausência de painéis diagnósticos de PCR Multiplex, a equipe médica resolve manter a criança em observação e repetir a punção lombar em 12 horas. O líquor evolutivo se mostra límpido, 120 células/mm3, 75% LM, 25% PMN, 74 mg/dL de glicorraquia (glicemia concomitante 95 mg/dL), e 65 mg/dL de proteinorraquia. A conduta mais adequada a ser tomada para a criança é",
       "alternatives": {
         "A": "iniciar antibioticoterapia venosa, pela persistência das alterações liquóricas sugestivas de meningite.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Existem estratégias eficientes para prevenção de meningite aguda que são baseadas em quimioprofilaxia e/ou imunoprofilaxia. Em relação ao tema, é correto afirmar que",
       "alternatives": {
         "A": "o uso contínuo de antibióticos é capaz de reduzir a ocorrência de meningite bacteriana em pacientes com fraturas basilares de crânio e fístulas liquóricas.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "No caso, a punção lombar ambulatorial proposta pelo médico assistente",
       "alternatives": {
         "A": "não se justifica, pois o paciente não foi tratado com dose correta de penicilina benzatina no episódio descrito, sendo necessário o retratamento.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Para minimizar o principal efeito adverso associado ao exame proposto, a recomendação comprovadamente eficaz é",
       "alternatives": {
         "A": "realizar o procedimento com o paciente na posição deitada, em decúbito lateral sobre superfície plana e firme.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Esposa de 37 anos, do lar, é internada com história de febre, mialgia intensa e cefaleia com três dias de evolução. Ao exame físico está em mal estado geral, ictérica, hipotensa, porém responsiva a volume. Evolui com exantema generalizado, piora da icterícia e hipotensão arterial não responsiva a volume, sendo necessária a administração de drogas vasoativas. Após crise convulsiva e rebaixamento do nível de consciência, evolui para o óbito no dia seguinte da admissão. Marido de 38 anos, agricultor, apresenta febre, mialgia e petéquias em tronco e membros com 2 dias de evolução, sintomas que se iniciaram no dia do falecimento da esposa. Foi internado e medicado com ceftriaxona endovenosa. No segundo dia de internação é transferido para UTI devido à instabilidade hemodinâmica e plaquetopenia importante. Manteve-se febril por 4 dias, com mialgia intensa, dor abdominal, icterícia, infiltrado pulmonar interstício-alveolar bilateral e vasculite obliterante na região distal dos pés. Filho de 5 anos, apresenta febre, vômitos, mialgia intensa, dor abdominal, exantema petequial nas mãos e nos tornozelos, edema de mãos e pés com 3 dias de evolução, a contar do dia do falecimento da mãe (esposa). É internado e tratado com ceftriaxona por via venosa. No segundo dia de internação evolui com piora clínica, e, apesar dos cuidados intensivos e da antibioticoterapia, progride para o óbito no quinto dia de internação, com plaquetopenia grave, sangramento generalizado e choque refratário. O pai, o único sobrevivente do surto, teve seu tratamento modificado no 4º dia de internação, com melhora progressiva, sendo submetido, na fase de convalescença, a amputação da extremidade dos pés, por necrose. O imóvel onde os pacientes residiam foi tratado pelo Centro de Controle de Zoonose (CCZ) do município com amitraza 12,5%. 1 – Pai (vasculite necrotizante) 2 – Filho (exantema purpúrico) Fonte: Junqueira FM et al. Inst. Infec. Emílio Ribas. A droga ministrada para o pai, que alterou o curso avassalador da doença que acometeu a família, mais provavelmente foi",
       "alternatives": {
         "A": "benzmidazol.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Adolescente de 19 anos, sexo masculino, procura atendimento médico em Unidade de Pronto Atendimento (UPA) com quadro de febre de até 38 oC, congestão nasal, descarga nasal espessa, por vezes purulenta, halitose e cefaleia frontal que piora quando se reclina para amarrar os sapatos, persistindo por 10 dias. Fez uso de antialérgicos e analgésicos sem melhora significativa dos sintomas. Nega episódios semelhantes anteriores. A conduta mais adequada para o paciente é",
       "alternatives": {
         "A": "solicitar tomografia de seios da face.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem de 57 anos, motorista de ônibus escolar, procura Unidade de Pronto Atendimento (UPA) com queixa de odinofagia leve iniciada há três dias, evoluindo com piora, e passando a associar- se à disfagia, febre (38 oC), mal-estar, queda importante do estado geral e vômitos pós-alimentares. Ao exame físico: regular estado geral, taquicárdico, desidratado, toxêmico, com temperatura de 38 oC. Exame da cavidade oral apresentando hiperemia e presença de placas esbranquiçadas em palato mole, aderentes na região de úvula e pilares amigdalianos e placas pseudomembranosas branco-acinzentadas na rinoscopia. Ausência de adenopatia cervical. Sem sinais de rigidez de nuca. Pressão arterial 100/60 mmHg, frequência cardíaca 138 bpm e frequência respiratória 22 rpm. Radiografia de tórax normal. Hemoculturas coletadas em três amostras resultaram negativas. Paciente evoluiu com piora clínica, intensa toxemia, prostração. Colocado em ambiente de terapia intensiva e iniciado tratamento clínico. A respeito das medidas implementadas, o paciente evoluiu, por volta do 10º dia de internação, com alterações eletrocardiográficas, como prolongamento de QT, inversão de onda T, bloqueio de ramo e arritmias cardíacas. Na 3ª semana de internação, apresentou voz anasalada e eliminação pelas narinas dos líquidos administrados pela boca, além de alterações de marcha. Recebeu alta hospitalar na 8ª semana de internação. Com base na história clínica relatada, é correto afirmar que",
       "alternatives": {
         "A": "o desenvolvimento de imunidade natural permanente é esperado após a completa recuperação e alta do paciente.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Na prática clínica diária, as associações de drogas no tratamento de enfermidades é uma estratégia comumente utilizada para prevenir ou contornar a emergência de resistência dos patógenos tratados. As associações podem, no entanto, adicionar toxicidades ao esquema terapêutico. São eventos adversos das drogas rotineiramente empregadas para o tratamento da hanseníase:",
       "alternatives": {
         "A": "hemólise; hipersensibilidade, pigmentação da pele; urina alaranjada; tendinites.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem de 67 anos, sabidamente portador do vírus HIV há 26 anos, em terapia antirretroviral estável, atualmente com darunavir + ritonavir + dolutegravir em dose única diária, última contagem de CD4 = 936 cél/mm3 – 30,5%, realizada em 2016 (nadir de CD4 170 cél/mm3) e última carga viral < 20 cópias/mL em 2025 (indetectável desde 2002), em consulta de rotina, mostra ao seu médico assistente lesões cutâneas em tronco, anterior e posterior, e dorso da mão esquerda, não pruriginosas e com mínima sensação de dormência local, de início recente, menos de 3 meses. (Fotos – acervo pessoal) O paciente foi submetido a biópsia das lesões e foi então estabelecido o diagnóstico de hanseníase paucibacilar. Em relação ao tratamento do paciente em questão é correto afirmar que",
       "alternatives": {
         "A": "a PQT-U deve ser modificada para que seja compatível com a terapia antirretroviral atualmente em uso.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Mulher de 55 anos, enfermeira, procura atendimento médico com história de tosse com expectoração mucoide há um mês. Nega febre, sudorese noturna, emagrecimento e hemoptise. Ex-tabagista de 36 anos-maço, com cessação do hábito de fumar há seis anos. Sem história de imunodeficiência congênita ou adquirida. Submetida a tomografia de tórax, foi documentada a presença de nódulos centrolobulares e pequenas opacidades ramificadas com aspecto de árvore em brotamento e bronquiectasias de paredes espessas, no lobo médio e no segmento lingular, além de opacidade escavada no segmento posterior do lobo superior direito. Amostras de escarro para baciloscopia e TRM-TB revelam pesquisa de BAAR positiva em três amostras e ausência de detecção de DNA para M. tuberculosis. Culturas das três amostras de escarro revelam crescimento de colônias em meio sólido em menos de sete dias, ainda não identificadas. Com base na apresentação clínica e nos resultados laboratoriais até o momento revelados, a conduta mais adequada para o caso é",
       "alternatives": {
         "A": "iniciar tratamento na dependência da espécie isolada e da evolução clínica e radiológica.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Na correlação dos parâmetros clínicos e laboratoriais com os elementos de convicção que nos levam a formular hipóteses diagnósticas para o quadro descrito, é correto afirmar que",
       "alternatives": {
         "A": "a ausência de hipoxemia na gasometria e a não resposta ao SMZ + TMP afastam a hipótese de pneumocistose.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Na investigação diagnóstica, os exames complementares direcionados para o diagnóstico de histoplasmose disseminada para o paciente descrito são:",
       "alternatives": {
         "A": "pesquisa de LF-CrAg em soro e líquor cefalorraquidiano.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem de 55 anos, pedreiro, é admitido num hospital universitário com relato que há 7 dias, teve febre súbita com calafrios intensos, cefaleia holocraniana, artralgias e mialgias generalizadas. No segundo dia de doença, as dores no corpo aumentaram muito, dificultando a deambulação e os movimentos habituais, acometendo principalmente as coxas e as pernas, de forma simétrica; no quarto dia notou icterícia que vem se agravando até a internação. A partir do 5º dia percebeu que estava urinando menos que o habitual, uma urina de cor escura. Desde o início do quadro apresenta tosse seca persistente. Etilista de longa data, principalmente nos finais de semana. Cerca de 10 dias antes do início do quadro, atravessou a pés descalços um terreno baldio alagado próximo ao canteiro de obras, onde reside e trabalha, sofrendo escoriações em pés e pernas. Refere a presença de muitos ratos nesse local. Nega icterícia prévia. Ao exame, está em mau estado geral, muito desidratado, mucosas ictéricas 3+/4, de coloração rubínica; dor à palpação de vários grupos musculares; TA: 37,5 oC; FR: 22 irpm; PA: 130/90 mmHg; FC: 104 bpm em média; ritmo cardíaco irregular; fígado palpável na RCD, doloroso; baço impalpável. Restante do exame sem alterações significativas. Os exames complementares da admissão mostraram: hemograma: 16.700 leucócitos, 1% metamielócitos, 12% bastões, 65% segmentados 15% linfócitos 4% monócitos e 3% eosinófilos; velocidade de hemossedimentação de 66 mm na 1ª hora; ureia: 95 mg%; creatinina: 3,4 mg%; radiografia de tórax: opacidades nodulares confluentes, predominando em lobos inferiores; ECG: fibrilação atrial. Dos exames complementares adicionais listados a seguir, assinale o único resultado compatível com a principal hipótese diagnóstica.",
       "alternatives": {
         "A": "Contagem de plaquetas superior a 200.000/mm3.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Com base nas informações obtidas e transcritas do surto de Monte Dourado (PA), os autores podem concluir que",
       "alternatives": {
         "A": "não houve casos sintomáticos da doença descrita no surto não explicados por evidência sorológica.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Com base nas informações clínicas e epidemiológicas relatadas do surto de Monte Dourado (PA), o provável agente etiológico e a provável forma de aquisição da infecção foram, respectivamente,",
       "alternatives": {
         "A": "Vírus Epstein-Barr / contato interpessoal.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O Carnaval de rua no Brasil é uma das maiores festas populares do mundo, marcada por blocos, desfiles e intenso uso do espaço público por foliões fantasiados. Atrás de trios elétricos, são comuns os encontros casuais de adultos jovens que não se conhecem, o que favorece, por meio de beijos, a transmissão de agentes infecciosos. Em relação às doenças e seus respectivos agentes, no contexto de transmissão e aquisição por meio de beijos dos foliões, é correto afirmar que",
       "alternatives": {
         "A": "a infecção por Neisseria gonorrhoeae é muito rara e geralmente assintomática, mas pode cursar com faringite intensa, 3 a 5 dias após a brincadeira.",
@@ -841,14 +858,14 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Criança do sexo feminino, 9 anos, previamente hígida, relata início do quadro de dor em região poplítea direita há 3 semanas, evoluindo com febre de até 38 oC, há 15 dias, associados a sinais flogísticos locais. Recebe o diagnóstico de celulite, sendo prescrito cefalexina via oral, por 10 dias, e anti-inflamatório. Como houve melhora apenas da febre, é internada em bom estado geral, eutrófica, sem alterações de sinais vitais, ausculta cardiopulmonar sem alterações, abdome sem visceromegalias e membro inferior direito apresentando abaulamento em fossa poplítea, com sinais flogísticos e prejuízo à extensão da perna. Ultrassonografia de membro inferior direito evidenciou coleção multiloculada, medindo 3,3 x 1,4 x 2,6 cm (6,3 mL) e linfonodomegalia reacional, em região poplítea, sem alterações de fluxo ao Doppler. A hemocultura da admissão resulta negativa. A coleção aspirada tem a bacterioscopia pelo método de Gram e a cultura para germes comuns, ambas negativas. Recebe oxacilina via venosa, sem resposta, seguida de vancomicina + piperacilina + tazobactam também endovenosos. O calendário vacinal está atualizado para a idade; tem moradia com saneamento básico e possui um cachorro e 18 gatos. Após a chegada de exame sorológico positivo, e a realização de nova coloração no material do aspirado, é medicada com azitromicina + rifampicina, evoluindo com melhora clínica e laboratorial, após 14 dias de tratamento. Nesse caso, é provável que o exame sorológico e a coloração específica que determinou a mudança do esquema de tratamento e o início da resposta terapêutica tenham sido, respectivamente,",
       "alternatives": {
         "A": "Ensaio de fluxo lateral (LF-LAM) para Mycobacterium avium- intracellulare / Ziehl-Neelsen.",
         "B": "Ensaio de Imunofluorescência (IFA) para Bartonella henselae / Warthin-Starry.",
         "C": "Ensaio de Imunodifusão radial (ID) para Paracoccidioides brasiliensis / Gomori Groccot.",
         "D": "Ensaio de fluxo lateral para antígeno de Cryptococcus gattii (LF-CrAg) / Mucicarmim.",
-        "E": "Ensaio de aglutinação para Brucella melitensis / Ziehl-Neelsen"
+        "E": "Ensaio de aglutinação para Brucella melitensis / Ziehl-Neelsen modificado."
       },
       "answer": "B",
       "annulled": false,
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Trabalhando num Centro de Referência para Imunobiológicos Especiais (CRIE), você se depara com cinco situações: 1ª Gestante no primeiro trimestre, cujo exame pré-natal mostra suscetibilidade para rubéola, trazendo sua enteada, que mora com ela e está agendada para a primeira dose da vacina tríplice viral; 2ª Criança, cujo irmão é portador de Imunodeficiência hereditária de Células B, solicitando orientação sobre administração da vacina de gotinha contra poliomielite, da campanha do Ministério da Saúde; 3ª Profissional de saúde, sem história de qualquer exposição percutânea, que após o esquema de três doses da vacinação contra hepatite B, não alcançou soroconversão em títulos protetores (anti-HBs > 10 mUI/mL); 4ª Gestante no 1º trimestre, sem passado de varicela, cujo primeiro filho, de três anos, está apresentando exantema vesicular sobre base eritematosa em rosto, tronco e mucosas, há 36 horas; 5ª Transplantado renal estável, com 55 anos, indagando sobre a possibilidade de vacinação para herpes zoster. A única conduta a ser tomada nos atendimentos que está de acordo com as boas práticas de imunização é",
       "alternatives": {
         "A": "adiar a vacinação da enteada até o final da gestação, embora o risco de rubéola congênita pelo vírus vacinal seja mínimo.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante uma epidemia de dengue, três pacientes, todos moradores da mesma vizinhança, sem condição especial, risco social ou comorbidades, adentraram uma unidade de pronto- atendimento com os seguintes relatos: • Paciente 1: homem de 29 anos, com quadro iniciado há dois dias, de febre alta de início súbito, mal estar, mialgia generalizada e cefaleia frontal, especialmente “atrás dos olhos”. Nega vômitos, tonteira ou sangramentos. PA 110/70 mmHg, FC 96 bpm, FR 16 irpm. • Paciente 2: criança de 10 anos, sexo feminino, com febre alta, cefaleia, mialgia e inapetência iniciados há um dia. Evoluindo com prostração progressiva. PA: 60/30 mmHg; FC: 128 bpm; FR: 28 irpm. Presença de petéquias conjuntivais. • Paciente 3: mulher de 55 anos, com quadro iniciado há quatro dias, de febre de início súbito, cefaleia, prostração intensa e mialgias. Nega episódios de sangramentos. Relata vômitos persistentes e dor abdominal intensa e contínua. PA 90/60 mmHg, FC 120 bpm, FR 24 irpm. Na abordagem diagnóstica e terapêutica dos três pacientes em questão, é correto afirmar que",
       "alternatives": {
         "A": "a hidratação parenteral em leito de internação deve ser iniciada para os três pacientes.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma criança de 7 anos é trazida a um hospital de médio porte com quadro que já se arrastava há 6 meses, com febre irregular intercalada com períodos de apirexia, anorexia e perda ponderal de 6 kg. Mãe relata ainda diarreia ocasional, sangramento gengival frequente, e um episódio de pneumonia tratado com antibióticos há um mês, pouco antes da mudança de São Luís (MA) para São Paulo (SP), com o objetivo de buscar tratamento especializado. Ao exame: criança, emagrecida, hipodesenvolvida para a idade, cabelos finos e quebradiços, hipocorada 2+/4, anictérica, micropoliadenopatia cervical e axilar bilateral, SS 2+/6 pancardíaco, abdome distendido com fígado palpável a 5 cm do RCD e baço a 8 cm do RCE, edema de membros inferiores 1+/4, com cacifo. TA: 37,8 oC; FC: 104 bpm; PA: 100/70 mmHg; FR: 18 irpm. O diagnóstico da enfermidade que acomete a criança muito provavelmente será alcançado por",
       "alternatives": {
         "A": "coleta seriada de hemoculturas para germes comuns, associada a pesquisa de ovos de helmintos em fezes.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "É provável que, a gênese do quadro apresentado pela criança, tenha contribuído para",
       "alternatives": {
         "A": "o fenômeno complexo e dinâmico de hesitação vacinal, em Genebra.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "De acordo com o Ministério da Saúde do Brasil, em relação ao diagnóstico mais provável para a doença que acometeu a criança suíça, é correto afirmar que",
       "alternatives": {
         "A": "a doença faz parte da lista nacional de notificação compulsória de doenças, agravos e eventos de saúde pública de notificação imediata (até 24 horas), para todas as esferas de governo (Ministério da Saúde, Secretarias Estaduais e Municipais).",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Criança de 7 anos, do sexo masculino, é trazida pela mãe ao serviço de saúde com quadro de febre baixa há dois dias, tosse seca persistente, astenia, náuseas eventuais e dispneia leve. Ao exame, criança em bom estado geral, sem toxemia, eutrófica, hipocorada 1+/4, hidratada, eupneica. Ausculta pulmonar com sibilos esparsos. Restante do exame físico normal. A família migrou recentemente do interior para a capital e se instalou em casebre sem boas condições de saneamento básico na periferia urbana. Foram solicitados hemograma e radiografia de tórax que não puderam ser feitos imediatamente. A criança foi então liberada em uso de antitérmicos e sintomáticos, e foi solicitado à mãe que fizesse os exames e retornasse com a criança para reavaliação cinco dias depois. Como combinado, a mãe retorna com a criança, agora assintomática, trazendo os seguintes resultados: hemoglobina 12,0 g/dL; hematócrito 35%; leucometria 9.500 cél/mm3, 0% basófilos, 18% eosinófilos, 2% bastões, 48% segmentados; 28% linfócitos; 4% monócitos. A radiografia mostrou infiltrados mistos, intersticiais e alveolares, com distribuição periférica, em ambos os pulmões. Nova radiografia realizada imediatamente na reconsulta mostra-se normal. O diagnóstico etiológico do quadro apresentado pela criança será estabelecido mais adequadamente por exames protoparasitológicos seriados pela técnica de",
       "alternatives": {
         "A": "Baermann-Moraes.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Na prevenção de infecções associadas aos cuidados de saúde, especialmente aquelas relacionadas com dispositivos, é correto afirmar que",
       "alternatives": {
         "A": "substituir periodicamente cateteres vasculares centrais, cateteres centrais de inserção periférica e cateteres de hemodiálise previne as infecções de corrente sanguínea associadas a cateteres centrais.",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em uma série da TV fechada, o antagonista contrata um indivíduo para adulterar a maionese da firma de produção e distribuição de alimentos do protagonista, visando, como consequência, levar a empresa à falência, por servir “comida estragada”. Um indivíduo contratado decide realizar a contaminação do alimento com uma cepa de Salmonella sp. O plano do antagonista falha porque uma funcionária da empresa, faminta, resolve fazer um sanduíche com a maionese adulterada na véspera da sua distribuição pela rede de restaurantes conveniados e apresenta quadro de diarreia, vômitos incoercíveis e hipotensão, sendo internada com urgência. Na internação, revela que comera, havia poucas horas, um sanduíche com a maionese nas dependências da empresa. As cenas do capítulo seguinte mostraram a saga dos funcionários da empresa tentando impedir a distribuição da maionese nos quatro cantos da cidade, salvando assim, a reputação da empresa do protagonista. Visando corrigir inconsistências, a seguinte mudança do roteiro do episódio deve ser proposta pelo revisor, médico infectologista:",
       "alternatives": {
         "A": "a modificação do agente de contaminação para Staphylococcus aureus, pois torna o período de incubação e o quadro clínico da funcionária compatíveis.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em uma clínica de hemodiálise, quatro pacientes, recém- admitidos para realização do procedimento nos mesmos turnos da semana, são avaliados quanto aos marcadores sorológicos para as hepatites B e C. Os resultados estão dispostos na tabela a seguir: Pacientes HbsAg Anti-HBc total Anti-HBs Anti-HCV 1 reagente reagente não reagente não reagente 2 não reagente não reagente não reagente não reagente 3 não reagente reagente reagente (>10 mUI/mL) não reagente reagente (>10 mUI/mL) reagente 4 não reagente não reagente Considerando os perfis sorológicos dos pacientes, assinale a única assertiva plenamente correta.",
       "alternatives": {
         "A": "Designar áreas separadas para o paciente 1 e para o paciente 4, lhes dedicando máquinas, equipamentos, instrumentos e suprimentos que não serão usados pelos demais pacientes.",

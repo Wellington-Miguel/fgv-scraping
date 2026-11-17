@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Prefeitura de São José dos Campos - Administrativo e Saúde",
   "cargo_title": "Assistente Técnico em Saúde - Técnico de Enfermagem",
   "exam_type": "Tipo 1",
-  "total_questions": 56,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -253,7 +253,7 @@
         "B": "a priori: galicismo.",
         "C": "menu: latinismo.",
         "D": "outdoor: anglicismo.",
-        "E": "show: galicismo. Raciocínio Lógico Matemático"
+        "E": "show: galicismo."
       },
       "answer": "D",
       "annulled": false,
@@ -423,7 +423,7 @@
         "B": "o médico é mais velho do que Hugo.",
         "C": "Hugo é mais velho do que o diretor.",
         "D": "o médico não é Gilberto.",
-        "E": "o diretor é mais velho do que Gilberto. Atualidades"
+        "E": "o diretor é mais velho do que Gilberto."
       },
       "answer": "E",
       "annulled": false,
@@ -508,7 +508,7 @@
         "B": "F – V – V.",
         "C": "V – F – V.",
         "D": "F – F – V.",
-        "E": "V – V – V. Legislação da Saúde"
+        "E": "V – V – V."
       },
       "answer": "E",
       "annulled": false,
@@ -593,7 +593,7 @@
         "B": "III e IV, apenas.",
         "C": "I, II e III, apenas.",
         "D": "II, III e IV, apenas.",
-        "E": "I, II, III e IV. Conhecimentos Específicos Técnico de Enfermagem"
+        "E": "I, II, III e IV."
       },
       "answer": "E",
       "annulled": false,
@@ -772,21 +772,89 @@
       "page_number": 9
     },
     {
-      "question_number": 50,
+      "question_number": 46,
       "discipline": null,
-      "statement": "incursões por minuto é considerada normal. As afirmativas são, respectivamente,",
+      "statement": "Com base nos parâmetros do Ministério da Saúde relacionados à frequência cardíaca e frequência respiratória em crianças, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em crianças de 1 a 2 anos, a frequência cardíaca normal em repouso varia entre 60 e 80 batimentos por minuto. ( ) A frequência respiratória normal em lactentes de 2 a 12 meses é de até 60 incursões respiratórias por minuto. ( ) Em crianças de 1 a 4 anos, uma frequência respiratória de até 50 incursões por minuto é considerada normal. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – V.",
         "B": "V – V – V.",
         "C": "F – V – F.",
         "D": "V – F – V.",
-        "E": "F – F – F. 47 Após o parto a mulher deve ser orientada sobre os cuidados e recomendações relacionadas ao puerpério. Nesse sentido, com base nos protocolos do Ministério da Saúde, é correto afirmar que (A) a primeira consulta pós-parto deve ocorrer entre 7 e 10 dias após a alta hospitalar, com retorno até 42 dias, para monitorar a saúde da mãe e do recém-nascido. (B) os lóquios desaparecem completamente até o terceiro dia pós- parto, e qualquer sangramento após esse período é considerado anormal. (C) a amamentação deve ser iniciada apenas após a descida completa do leite, geralmente no terceiro dia pós-parto, para evitar desconfortos mamários. (D) a mulher no puerpério deve evitar qualquer forma de atividade física até completar 90 dias após o parto, para garantir a recuperação adequada. (E) durante o puerpério, não é necessário abordar o planejamento reprodutivo, pois a fertilidade só retorna após o término da amamentação exclusiva. 48 De acordo com a Cadeia de Sobrevivência da American Heart Association para PCR em ambiente intra-hospitalar – PCRIH de pacientes adultos, é correto afirmar que (A) a desfibrilação deve ser realizada imediatamente, antes da RCP de alta qualidade. (B) a cadeia de sobrevivência só deve ser utilizada para pacientes que apresentem ritmo chocável. (C) a RCP de alta qualidade compreende, entre outras coisas, 100 a 120 compressões cardíacas por minuto. (D) os cuidados pós-PCR não são incluídos nesta cadeia, pois o paciente já está sendo monitorado. (E) a ressuscitação avançada é o principal elo da cadeia de sobrevivência para a PCRIH. 49 Um paciente atendido na Unidade de Pronto Atendimento apresentou, entre outros sinais e sintomas, temperatura = 26°C. Esse valor corresponde a (A) estresse por frio. (B) hipotermia leve. (C) hipotermia grave. (D) hipotermia profunda. (E) hipotermia moderada. 50 Um profissional de saúde que trabalha com radiação não ionizante está exposto a risco ambiental (A) físico. (B) químico. (C) biológico. (D) acidental. (E) ergonômico."
+        "E": "F – F – F."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "Após o parto a mulher deve ser orientada sobre os cuidados e recomendações relacionadas ao puerpério. Nesse sentido, com base nos protocolos do Ministério da Saúde, é correto afirmar que",
+      "alternatives": {
+        "A": "a primeira consulta pós-parto deve ocorrer entre 7 e 10 dias após a alta hospitalar, com retorno até 42 dias, para monitorar a saúde da mãe e do recém-nascido.",
+        "B": "os lóquios desaparecem completamente até o terceiro dia pós- parto, e qualquer sangramento após esse período é considerado anormal.",
+        "C": "a amamentação deve ser iniciada apenas após a descida completa do leite, geralmente no terceiro dia pós-parto, para evitar desconfortos mamários.",
+        "D": "a mulher no puerpério deve evitar qualquer forma de atividade física até completar 90 dias após o parto, para garantir a recuperação adequada.",
+        "E": "durante o puerpério, não é necessário abordar o planejamento reprodutivo, pois a fertilidade só retorna após o término da amamentação exclusiva."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 48,
+      "discipline": null,
+      "statement": "De acordo com a Cadeia de Sobrevivência da American Heart Association para PCR em ambiente intra-hospitalar – PCRIH de pacientes adultos, é correto afirmar que",
+      "alternatives": {
+        "A": "a desfibrilação deve ser realizada imediatamente, antes da RCP de alta qualidade.",
+        "B": "a cadeia de sobrevivência só deve ser utilizada para pacientes que apresentem ritmo chocável.",
+        "C": "a RCP de alta qualidade compreende, entre outras coisas, 100 a 120 compressões cardíacas por minuto.",
+        "D": "os cuidados pós-PCR não são incluídos nesta cadeia, pois o paciente já está sendo monitorado.",
+        "E": "a ressuscitação avançada é o principal elo da cadeia de sobrevivência para a PCRIH."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 49,
+      "discipline": null,
+      "statement": "Um paciente atendido na Unidade de Pronto Atendimento apresentou, entre outros sinais e sintomas, temperatura = 26°C. Esse valor corresponde a",
+      "alternatives": {
+        "A": "estresse por frio.",
+        "B": "hipotermia leve.",
+        "C": "hipotermia grave.",
+        "D": "hipotermia profunda.",
+        "E": "hipotermia moderada."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 50,
+      "discipline": null,
+      "statement": "Um profissional de saúde que trabalha com radiação não ionizante está exposto a risco ambiental",
+      "alternatives": {
+        "A": "físico.",
+        "B": "químico.",
+        "C": "biológico.",
+        "D": "acidental.",
+        "E": "ergonômico."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 51,

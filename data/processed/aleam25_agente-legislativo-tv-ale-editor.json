@@ -168,7 +168,7 @@
         "B": "“Podia ser um simples descargo de consciência, uma cerimônia, como as rezas de obrigação, sem devoção, que se dizem de tropel;” / modo",
         "C": "“Uma noite destas, vindo da cidade para o Engenho Novo, encontrei no trem da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu.” / assunto",
         "D": "“A gravata de cetim preto, com um arco de aço por dentro, imobilizava-lhe o pescoço; era então moda.” / natureza, condição",
-        "E": "“Cumprimentou-me, sentou-se ao pé de mim, falou da Lua e dos ministros, e acabou recitando-me versos.” / causa Raciocínio Lógico e Matemático"
+        "E": "“Cumprimentou-me, sentou-se ao pé de mim, falou da Lua e dos ministros, e acabou recitando-me versos.” / causa"
       },
       "answer": "B",
       "annulled": false,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere o conjunto {2, 4, 6, 8, 10, 12} e o seguinte procedimento, composto de 3 etapas em sequência: • Escolha 3 números diferentes desse conjunto; • Some 2 quaisquer desses 3 números; • Multiplique a soma obtida pelo 3º número. O menor resultado possível de ser obtido com esse procedimento é igual a",
       "alternatives": {
         "A": "18.",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 2025, os organizadores de um evento chamado Limpeza das Praias reuniu 400 colaboradores. Os organizadores esperam que em 2026, 2027 e 2028 o número de colaboradores cresça 50% a cada ano em relação ao ano anterior. Em 2028, o número de colaboradores esperado pelos organizadores será igual a",
       "alternatives": {
         "A": "1000.",
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Cinco pessoas, com nomes diferentes, formam uma fila de forma aleatória. A probabilidade de que, do primeiro ao quinto da fila, os nomes estejam em ordem alfabética é igual a",
       "alternatives": {
         "A": "1/2.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em cada um dos 64 quadradinhos de um tabuleiro de xadrez é colocado um dos 64 primeiros números ímpares (1, 3, 5, 7, ...). Os 8 primeiros números ímpares são colocados em ordem na primeira linha, os 8 seguintes em ordem na segunda linha e assim por diante. A soma dos 4 números que ficaram nos 4 cantos do tabuleiro equivale a",
       "alternatives": {
         "A": "252.",
@@ -246,14 +246,14 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere o conjunto {17, 27, 36, 48, 64, 75}. O número de subconjuntos com 3 elementos diferentes do conjunto dado tais que a soma dos 3 elementos seja par é:",
       "alternatives": {
         "A": "6.",
         "B": "8.",
         "C": "9.",
         "D": "10.",
-        "E": "18. Noções de Informática"
+        "E": "18."
       },
       "answer": "D",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um usuário precisa inserir uma tabela do MS Excel 365 (BR) em um documento do MS Word 365 (BR), mantendo uma conexão dinâmica (vinculação) entre os arquivos, de modo que as alterações realizadas feitas no arquivo de origem (.XLSX) sejam refletidas automaticamente no documento de destino (.DOCX) quando este for aberto. Para realizar essa tarefa de forma correta, o usuário deve",
       "alternatives": {
         "A": "copiar a tabela no Excel e, no Word, usar o comando “Colar Especial”, selecionando a opção “Objeto da Planilha do Microsoft Excel” e marcar a caixa de seleção “Colar Link”.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Com relação às funcionalidades do MS Excel 365 (BR), avalie as afirmativas a seguir. I. A função =SOMA(A1:A10) irá resultar em um erro #VALOR! se o intervalo A1:A10 contiver quaisquer células com texto. II. A aplicação de um Filtro Automático a um intervalo de dados permite ocultar linhas que não atendam aos critérios especificados, sem excluí-las. III. A proteção de uma planilha (Proteger Planilha) e a proteção da pasta de trabalho (Proteger Estrutura da Pasta) são ações distintas, sendo a primeira voltada para restringir a edição de células e a segunda para impedir a inserção, exclusão ou renomeação de planilhas.",
       "alternatives": {
         "A": "I, apenas.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Sobre os conceitos de segurança na Internet, avalie as afirmativas a seguir. I. Tokens de segurança, que podem ser dispositivos físicos ou aplicativos, geram senhas de uso único (OTP) e constituem um fator de autenticação de posse. II. Senhas consideradas fortes são caracterizadas, obrigatoriamente, pela inclusão de caracteres especiais (ex: @, #, $) e pela impossibilidade de serem compostas por palavras encontradas em dicionários. III. A criptografia garante a confidencialidade dos dados, transformando-os em um formato ilegível para quem não possui a chave de descriptografia.",
       "alternatives": {
         "A": "I, apenas.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um analista legislativo está finalizando a minuta de um projeto de lei no MS Word 365 (BR). Ele precisa enviar o documento para um parecer jurídico, permitindo que o jurista sugira alterações, mas sem que este possa aceitar ou rejeitar as revisões automaticamente, nem modificar o texto original diretamente. Além disso, o documento final deve ser protegido contra a remoção acidental do controle de alterações. Assim, a sequência de ações mais adequada para atender a essa necessidade é habilitar",
       "alternatives": {
         "A": "“Controlar Alterações” na guia Revisão e, em seguida, em “Restringir Edição”, marcar a opção “Aplicar apenas este tipo de edição no documento” e selecionar “Marcações”.",
@@ -331,14 +331,14 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um servidor público da ALE-AM, está organizando o acervo digital de uma comissão parlamentar. Ele precisa selecionar os formatos de arquivo mais adequados para diferentes finalidades. Considerando as características técnicas de cada padrão, avalie os tipos de formato de arquivos que o servidor deve organizar. • Documento oficial que deve ser distribuído internamente e externamente, mantendo formatação idêntica em qualquer dispositivo, sem permitir alterações não autorizadas. • Planilha de custos que requer fórmulas complexas, formatação condicional e possibilidade de edição colaborativa em tempo real. • Imagem do brasão institucional para uso no site oficial, necessitando de fundo transparente e alta definição em diferentes tamanhos. • Gravação audiovisual de uma sessão solene que será armazenada e transmitida online, equilibrando qualidade visual e tamanho de arquivo. • Arquivo de áudio de uma entrevista para arquivamento permanente, onde a qualidade original deve ser preservada integralmente. Os tipos de arquivos apresentados são corretamente identificados, respectivamente, pelas seguintes extensões:",
       "alternatives": {
         "A": "DOCX, XLSX, JPEG, MP4 e WAV.",
         "B": "PDF, XLSX, PNG, MP4 e FLAC.",
         "C": "PDF, CSV, GIF, AVI e MP3.",
         "D": "TXT, XLSX, BMP, MOV e WMA.",
-        "E": "PDF, ODS, SVG, WMV e AAC. História e Geografia do Amazonas"
+        "E": "PDF, ODS, SVG, WMV e AAC."
       },
       "answer": "B",
       "annulled": false,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Leia o trecho a seguir. Os etnoarqueólogos buscam criar uma parceria com as populações locais atuais para responder a problemas da história antiga. Para a sua investigação, o pesquisador coletou dados através de entrevistas com anciões de aldeias amazônicas que reproduzem práticas muito parecidas com as das antigas populações da região, como o uso de terra preta de índio. As semelhanças entre terras pretas antigas e modernas vão dos locais em que são usadas em relação às habitações até a composição química. Adaptado de Conterno, Ivan. “Adubo pré-histórico foi planejado por indígenas da Amazônia no passado”, Jornal da USP, 11/10/2023. Com base na leitura do trecho, assinale a afirmativa que descreve corretamente a terra preta de índio.",
       "alternatives": {
         "A": "Solo com camadas escuras na parte superficial, formadas por mudanças químicas causadas pela ação humana, mas sem vestígios de objetos ou materiais.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Assinale a afirmativa que apresenta corretamente uma consequência da criação da província do Amazonas em 1850.",
       "alternatives": {
         "A": "Estabeleceu sua total autonomia política perante o Estado brasileiro, fortalecendo o desenvolvimento econômico da região produtora e exportadora de madeira.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "O estado do Amazonas apresenta uma rica diversidade de patrimônios históricos, artísticos e culturais que refletem sua formação plural. Manaus se destaca com construções emblemáticas que coexistem com manifestações culturais contemporâneas, como festas e eventos artísticos. Essa multiplicidade de heranças faz do Amazonas um espaço de encontro entre natureza, história e cultura, essencial para compreender a trajetória e a riqueza cultural da região amazônica. Assinale a afirmativa que apresenta corretamente um patrimônio tombado do Amazonas.",
       "alternatives": {
         "A": "Cerimônia da Kamélia – patrimônio imaterial protegido por representar o encerramento das festividades de carnaval na capital do estado.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "O Amazonas registrou um crescimento populacional significativo desde 2010. Segundo a Estimativa da População Residente do IBGE de julho de 2024, o estado conta agora com aproximadamente 4,28 milhões de habitantes, representando um acréscimo de cerca de 340 mil em relação ao Censo de 2022. Com base nos dados relativos ao crescimento populacional do estado, é correto afirmar que esse processo",
       "alternatives": {
         "A": "decorre da migração interna motivada pela oferta de empregos e pela expansão urbana da capital, que atrai população de outras regiões do país.",
@@ -416,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Analise as afirmativas a seguir sobre as mesorregiões do Amazonas, assinale (V) para as verdadeiras e (F) para as falsas. ( ) A Mesorregião Norte do Amazonas caracteriza-se por atividades extrativistas e significativa presença de comunidades indígenas, que mantém práticas de subsistência. ( ) A Mesorregião Centro Amazonense apresenta alta densidade populacional e concentração de núcleos urbanos e processo de industrialização. ( ) A Mesorregião Sul Amazonense é marcada por extensas áreas de floresta, baixo adensamento populacional e predominância de atividades agrícolas e pecuárias. A sequência correta, segundo a ordem apresentada, é:",
       "alternatives": {
         "A": "V – V – F.",
         "B": "V – F – V.",
         "C": "F – F – V.",
         "D": "F – V – F.",
-        "E": "V – V – V. Legislação do Estado do Amazonas"
+        "E": "V – V – V."
       },
       "answer": "E",
       "annulled": false,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em relação ao ato da transferência, de acordo com a Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, avalie se as afirmativas a seguir estão corretas: I. Transferência é o ato pelo qual o funcionário estável passa de um cargo para outro, de quadro diverso, ambos de provimento efetivo. II. A transferência ocorrerá a pedido do funcionário ou \"ex- officio\", atendidos, sempre, a conveniência do serviço e os requisitos necessários ao provimento do cargo. III. A transferência será feita para cargo de mesmo padrão de vencimento ou de igual remuneração, ressalvados os casos de transferência a pedido, quando o vencimento ou a remuneração poderá ser inferior.",
       "alternatives": {
         "A": "I, apenas.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 250 da Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, ao funcionário são proibidas, entre outras, as seguintes ações, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Referir-se de modo depreciativo ou desrespeitoso em informação, parecer ou despacho, às autoridades e a atos da Administração Pública, sendo vedado, ainda, criticá-los do ponto de vista doutrinário ou da organização do serviço em trabalho assinado.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 36 da Resolução Legislativa nº 469/2010 – Regimento Interno da Assembleia Legislativa do Estado do Amazonas, o opinativo escrito por um relator e submetido à deliberação de Comissão, devendo concluir pela aprovação ou rejeição de matéria a ela sujeita é denominado",
       "alternatives": {
         "A": "relatório.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 50 da Resolução Legislativa nº 469/2010 – Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as Comissões Temporárias são: I. especiais. II. de inquérito. III. de representação externa. IV. representativa. Estão corretos os itens",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com base na Resolução Legislativa nº 469/2010 –Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as seguintes afirmativas a respeito das Lideranças Partidárias, do Colégio de Líderes e dos Blocos Parlamentares são verdadeiras (V) ou falsas (F). ( ) Os Deputados são agrupados por partidos, blocos ou bancadas, cabendo-lhes escolher um líder, que funciona como porta-voz ou interlocutor perante os órgãos da Assembleia. ( ) Cada grupamento parlamentar poderá ter até dois vice- líderes, conforme o número de Deputados, os quais terão os mesmos direitos, vantagens e prerrogativas do líder, salvo quanto ao Chefe de Gabinete de Liderança. ( ) As escolhas e alterações dos grupos e das respectivas lideranças são comunicadas imediatamente à Mesa, devendo ocorrer a primeira indicação, logo após o início da sessão legislativa. Não havendo indicação, o Presidente pode declarar líder provisório o Deputado mais idoso da representação ( ) O chefe do Poder Executivo pode designar o Líder do Governo, e até dois Vice-Líderes, dentre os Deputados que representem a bancada da situação na Assembleia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V – V.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Antes de iniciar a edição de um projeto audiovisual, o editor deve realizar alguns procedimentos operacionais para garantir organização e eficiência do fluxo de trabalho. Esses procedimentos incluem:",
       "alternatives": {
         "A": "Gravar novos planos para complementar a narrativa e substituir eventuais erros de captação.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a montagem de uma cena de perseguição, o editor decide reduzir a duração dos planos, inserindo cortes mais rápidos e reduzindo pausas entre ações. Essa decisão afeta principalmente",
       "alternatives": {
         "A": "a continuidade espacial, eliminando a necessidade de Raccord.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com relação à continuidade na edição de vídeo, assinale V para as afirmativas verdadeiras e F para as falsas: ( ) A continuidade busca manter a impressão de progressão temporal e espacial entre os planos. ( ) Mudanças bruscas de posição de objetos ou atores entre cortes geram raccord positivo e devem ser incentivadas para dinamizar a narrativa. ( ) O respeito ao eixo de ação contribui para que o espectador compreenda a relação espacial entre personagens. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Associe cada recurso de edição ao seu efeito na fluidez narrativa: 1. Jump Cut 2. Match Cut 3. Corte em L 4. Corte em J ( ) Relaciona dois planos por similaridade gráfica ou de ação, criando transição suave e significativa. ( ) Mantém a fluidez ao continuar o som do plano anterior enquanto a imagem já mudou. ( ) Pode ser utilizado como quebra intencional da fluidez, criando sensação de tempo comprimido ou estranhamento. ( ) Mantém a fluidez ao introduzir o som do próximo plano antes da troca da imagem. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "2 – 3 – 1 – 4.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Embora cada editor possa adotar seu próprio método de organização da timeline, alguns padrões de estruturação são amplamente aceitos na prática profissional por favorecerem clareza, eficiência e controle narrativo. Considerando tais recomendações técnicas, analise as afirmativas: I. Em documentários, a timeline deve ser montada linearmente, seguindo a ordem cronológica das gravações, pois a estrutura de roteiro é fixa e não se altera na montagem. II. Em programas jornalísticos, a disposição das trilhas de áudio segue hierarquia de inteligibilidade: trilha 1 para off do repórter, trilha 2 para áudio sincrônico das entrevistas e trilha 3 para BG musical ou efeitos sonoros, garantindo clareza narrativa. III. Em programas de entretenimento com múltiplas câmeras, a timeline é frequentemente construída a partir de uma multicam sequence, permitindo a alternância de planos e sincronismo preciso com o som.",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Observe a imagem do Adobe Premere Pro. Imagem: https://www.adobe.com/br Acesso: 25/10/2025 A ferramenta indicada na imagem é utilizada para:",
       "alternatives": {
         "A": "Ferramenta que cria extensões de até dois segundos para vídeo, 10 segundos para áudio ou 2 segundos para áudio e vídeo, por meio de Inteligência Artificial.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Analise as afirmações abaixo sobre a transferência de mídia no workflow entre Media Composer e DaVinci Resolve e assinale (V) para Verdadeiro e (F) para Falso: ( ) A principal ferramenta para a transferência de sequences e metadata entre o Media Composer e o Resolve é o arquivo XML, pois este suporta melhor os codecs DNxHD/HR. ( ) Para um round-trip bem-sucedido, o DaVinci Resolve deve, no retorno ao Avid, renderizar a mídia finalizada em um formato DNxHR de alta qualidade e depositar os arquivos no diretório padrão do Avid. ( ) O primeiro workflow possível para o Resolve consiste em importar um AAF com clipes vinculados via AMA, porém isso exige que o editor no Resolve garanta que a pasta da mídia original esteja acessível no Media Pool. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Analise as afirmativas a seguir sobre o uso do codec H.264: I. O H.264 pode ser usado como formato de distribuição para plataformas digitais, já que oferece boa relação entre qualidade e tamanho do arquivo. II. O H.264 utiliza compressão intraframe em todos os seus perfis, tratando cada quadro de forma independente para garantir maior facilidade de edição. III. O H.264 é o formato mais indicado para gerar a master final de um filme, garantindo preservação máxima das informações de imagem.",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Um editor está trabalhando em uma cena dramática em que um personagem tropeça durante uma corrida e precisa que esse instante seja exibido em câmera lenta a 50% da velocidade com fluidez total, sem repetição ou interpolação perceptível de quadros. A taxa de quadros da captura original para que a câmera lenta mantenha a reprodução fluida dentro do padrão de 24 fps deve ser",
       "alternatives": {
         "A": "24 fps.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Analise as afirmativas a seguir sobre resoluções digitais: I. 1920 × 1080 é amplamente utilizado em transmissões televisivas HD e plataformas de streaming com qualidade Full HD. II. 3840 × 2160 corresponde ao padrão UHD, popularmente chamado de 4K em TVs e serviços de vídeo sob demanda. III. 1280 × 720 oferece maior nitidez que o Full HD, sendo a principal escolha para cinema digital e Blu-ray comercial.",
       "alternatives": {
         "A": "I, apenas.",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Um editor, trabalhando no Adobe Premier Pro, precisa ajustar o corte entre o Plano A e o Plano B. O objetivo é manter a duração total da sequência inalterada, mas, simultaneamente, encurtar o Plano A em 5 quadros e estender o Plano B em 5 quadros para suavizar a transição. Assinale ferramenta que torna essa a escolha ideal para o ajuste descrito.",
       "alternatives": {
         "A": "Ferramenta Corte Transversal (Cross Cut Tool).",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Um editor recebeu material bruto de uma entrevista que foi gravada em duas fontes: Vídeo: Câmera 1 (sem áudio de qualidade, apenas de referência). Áudio: Gravador de áudio profissional externo, que registrou o som limpo do microfone de lapela. Ambos os dispositivos estavam conectados a um Gerador de Timecode, garantindo que o código de tempo fosse idêntico em todas as gravações. Após sincronizar a mídia no Software de Edição Não-Linear, o editor percebe que, em um momento crucial, o entrevistado faz uma pausa de 5 segundos e coça a cabeça. O diretor pediu que essa pausa fosse removida no corte final. A utilização do Gerador de Timecode nesse processo de sincronização traz como principal vantagem técnica",
       "alternatives": {
         "A": "a manutenção do sincronismo exato entre áudio e vídeo mesmo após cortes, deslocamentos ou ajustes de tempo na linha do tempo.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em um workflow profissional de TV, o uso de perfis de imagem com baixo contraste e baixa saturação, como o Logarithmical Gamma (Log), é uma técnica de padronização essencial porque maximiza a faixa dinâmica capturada pela câmera. Isso garante que a imagem tenha o máximo de informação possível nas áreas de sombra e luz, o que é indispensável para a fase de",
       "alternatives": {
         "A": "transcodificação para formatos de exibição legados (SDTV).",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Relacione os conceitos básicos de cor no tratamento e correção da imagem com suas respectivas definições. 1. Balanço de branco 2. Saturação 3. Contraste 4. Gama ( ) Controla a intensidade das cores, movendo-as entre a pureza total e o cinza (ausência de cor). É manipulado tanto na correção técnica quanto na estilização criativa (grading). ( ) Ajuste fino dos tons, impactando primariamente a luminosidade percebida nos tons médios (midtones). É crucial para normalizar imagens capturadas em curvas Log. ( ) Manipulação da Temperatura de Cor (Kelvin) visando remover dominantes de cor e estabelecer um ponto de branco neutro na imagem. ( ) Define a diferença de luminância entre as áreas mais escuras (shadows) e as áreas mais claras (highlights), sendo ajustado para dar mais profundidade e separação tonal à imagem. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "2 – 1 – 3 – 4.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "L.U.T. é uma sigla para “Look Up Table”. Que significa uma tabela de valores com o objetivo de alterar matematicamente um valor RGB de entrada para um novo valor. Ao aplicar um LUT criativo, certas áreas de exposição da imagem podem ultrapassar o limite de espaço de cor, fazendo com que “estourem “ou “enterrem”, ou seja, se tornem preto ou branco absoluto. Para evitar isso o editor terá que",
       "alternatives": {
         "A": "utilizar LUTs de conversão para ajustar as imagens brutas.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A mixagem de faixas de áudio consiste em equilibrar o volume, a equalização e o espaço de todos os elementos sonoros (diálogo, música e efeitos) para criar um resultado coeso. Na fase final de entrega audiovisual, o editor ou engenheiro de áudio deve seguir padrões rigorosos de volume para evitar rejeições e distorções. Com relação as afirmativas sobre medições de áudio na etapa final da mixagem, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O Pico Verdadeiro (True Peak) mede o volume médio e o LUFS mede apenas os picos mais altos do sinal. ( ) O LUFS é uma métrica baseada em percepção humana de loudness ao longo do tempo e é o padrão adotado por plataformas de streaming para nivelamento sonoro. ( ) O Pico Verdadeiro (True Peak) tem como função atingir 0 dBFS para maximizar volume, enquanto o LUFS é usado apenas para diálogo. ( ) O medidor de Pico Verdadeiro (True Peak) identifica picos intersample, prevenindo distorções que podem ocorrer após processos de codificação com perdas, mesmo quando o waveform não mostra clipping. As alternativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V – V.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a edição de uma entrevista simples gravada com uma única câmera, o editor percebe um problema fundamental de continuidade: a voz do entrevistado está ligeiramente atrasada em relação ao movimento de seus lábios na imagem. Esse tipo de ajuste no alinhamento entre áudio e vídeo é tecnicamente denominado de",
       "alternatives": {
         "A": "Pitch Shift.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a edição de um vídeo institucional, o editor precisa unificar o áudio captado em diferentes ambientes. Em algumas cenas, nota-se um ruído de fundo, enquanto em outras a voz do apresentador soa fraca, com pouca projeção e nitidez. Antes da finalização, é necessário corrigir essas discrepâncias para garantir clareza no diálogo sem que ruídos indesejados se sobressaiam na mixagem. Com relação as ações necessárias para equilibrar o áudio e garantir que a voz do apresentador seja claramente ouvida, analise os itens a seguir. I. Aplicar redução de ruído pode atenuar zumbidos e outros sons contínuos de fundo, melhorando a inteligibilidade da voz nas falas afetadas. II. Aplicar compressão de áudio pode equilibrar o volume da voz, tornando-a mais constante durante a edição. III. Diminuir o volume de todos os sons do projeto é a melhor forma de reduzir o ruído e tornar a fala mais clara.",
       "alternatives": {
         "A": "III, apenas.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com relação ao equilíbrio entre voz, música e efeitos sonoros em uma mixagem, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) Em trechos com diálogo e música simultâneos, aumentar um pouco o volume da música pode ajudar a preencher o ambiente e reduzir a percepção de ruídos na voz. ( ) A voz deve ser o elemento de maior prioridade, mantendo-se sempre clara e destacada em relação à música e aos efeitos sonoros. ( ) A música deve apoiar a narrativa, ajustando seu volume para que não concorra com a fala, especialmente em trechos de diálogo.",
       "alternatives": {
         "A": "V – F – F.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Os elementos gráficos são parte importante do design visual televisivo, contribuindo para a identidade e a comunicação das informações na tela. A respeito do uso de Lower Thirds e Vinhetas, analise as afirmativas a seguir: I. Ambas podem ocupar a tela inteira simultaneamente, pois têm essencialmente a mesma função de apresentação de marca, sem diferença de hierarquia informacional. II. A vinheta possui duração curta e função de abertura, fechamento ou transição entre blocos e programas, reforçando a identidade visual da emissora. III. O lower third apresenta informações diretamente relacionadas ao conteúdo exibido, como nome do entrevistado, cargo e/ou breve complemento contextual.",
       "alternatives": {
         "A": "II e III, apenas.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A linguagem audiovisual transcende barreiras, e a ferramenta primária para garantir essa universalidade é a legenda. No cenário da pós-produção contemporânea, a criação e integração de legendas e Closed Captions não se limitam mais a uma simples tradução de diálogos; elas representam uma confluência de tecnologia, acessibilidade e estratégias de consumo de conteúdo. Relacione o tipo de legenda à sua principal característica técnica considerando práticas comuns em TV local e plataformas de streaming. 1. Legendas Abertas (Open Captions). 2. Closed Captions (CC). 3. Subtitles (Legendas Selecionáveis). 4. Legendas Incorporadas via Arquivo Externo. ( ) Permitem ao espectador ligar e desligar o texto na tela, dependendo da compatibilidade do player. ( ) São gravadas permanentemente no vídeo durante a exportação, garantindo leitura mesmo sem suporte do player. ( ) Devem incluir descrições de efeitos sonoros e outros elementos relevantes para acessibilidade, sendo exigidas em TV aberta. ( ) São entregues como arquivos anexos ao vídeo (como parte do workflow), contendo texto com timecode, e precisam ser interpretadas pela plataforma. Assinale a alternativa que apresenta a relação correta:",
       "alternatives": {
         "A": "1 – 3 – 2 – 4.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Um editor está montando um vídeo tutorial com três elementos exibidos ao mesmo tempo: • Vídeo de fundo (tela do software) • Gráfico circular animado • Picture-in-Picture com a reação do apresentador Para que o gráfico e o PiP apareçam corretamente sobre o vídeo de fundo, esses elementos devem ser organizados nas trilhas de vídeo da linha do tempo da seguinte maneira:",
       "alternatives": {
         "A": "O PiP na Trilha inferior (V1), o gráfico na Trilha intermediária (V2) e o vídeo de fundo na Trilha superior (V3).",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Um diretor revisa a timeline de um editor e aponta um problema de workflow: a timeline está saturada com dez trilhas de vídeo (V1 a V10), mas muitas delas contêm apenas um único clip placeholder (um clip vazio ou de referência). O editor justifica que isso facilita a futura inserção de gráficos de movimento. A respeito das desvantagens de longo prazo desse excesso de trilhas vazias, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O software de edição renderiza automaticamente todas as trilhas vazias, gerando arquivos maiores e desperdício de espaço no disco. ( ) Trilhas vazias aumentam o risco de a mídia vinculada ao projeto ficar offline durante a edição. ( ) O excesso de trilhas vazias pode causar poluição visual e dificultar a navegação e o gerenciamento da timeline. Uma prática mais eficiente é manter a organização em bins e criar trilhas apenas quando forem realmente necessárias. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Um projeto exige uma padronização rigorosa na nomenclatura dos clips de áudio capturados por um gravador externo. O padrão estabelecido é: [CENA]_[TAKE]_[PERSONAGEM]_[DATA]. Se um editor nomeia um clip como: 023_001_JOAO_20251101_FALA_FINAL_V2.WAV A principal falha dessa nomeação em relação à padronização e ao gerenciamento de projetos é",
       "alternatives": {
         "A": "usar a extensão .WAV, que não é nativamente suportada por sistemas de streaming.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A respeito de backup no workflow audiovisual e a regra 3-2-1, analise os itens a seguir: I. É adotada na indústria audiovisual para garantir segurança e redundância no armazenamento de mídias e projetos. II. O material deve estar em pelo menos 3 locais de armazenamento, sendo 2 deles em mídias diferentes e 1 cópia obrigatoriamente em local externo. III. O processo de backup deve ser executado 3 vezes por dia, em 2 formatos de compressão distintos, mantendo a versão 1 como corte final de segurança. IV. O projeto deve ser 3 vezes menor que o espaço livre no disco, e a taxa de transferência dos Proxies deve ser 2 vezes menor que a original.",
       "alternatives": {
         "A": "I, II e IV, apenas.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Dos fatores técnicos apresentados a seguir, assinale o mais determinante para a compatibilidade e a integridade do sinal de vídeo, sendo essencial para sincronizar diferentes fontes de câmera (incluindo as semiprofissionais) em uma Unidade Móvel (UM).",
       "alternatives": {
         "A": "A taxa de amostragem do áudio (ex: 48kHz).",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Relacione os formatos/codecs de entrega às suas características técnicas de uso considerando práticas comuns em transmissões televisivas e distribuição digital. 1. H.264 (MP4) 2. MPEG-2 3. HEVC (H.265) ( ) Codec historicamente utilizado em broadcast tradicional, incluindo TV aberta em SD e HD inicial. ( ) Padrão dominante para streaming e plataformas online, com boa relação qualidade x tamanho e alta compatibilidade. ( ) Compressão mais eficiente, recomendada para 4K/alta resolução, reduzindo o bitrate mantendo a qualidade. Assinale a alternativa que apresenta a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em fluxos profissionais de pós-produção, o uso adequado de metadados contribui para",
       "alternatives": {
         "A": "automatizar correções de exposição e foco sem intervenção humana.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Associe o termo de relação de aspecto ao seu efeito visual na tela para manter a coerência da imagem: 1. Pillarbox 2. Letterbox 3. Widescreen ( ) Uma imagem 16:9 é exibida em uma tela 4:3 com barras pretas nas margens superior e inferior. ( ) Uma imagem 4:3 é exibida em uma tela 16:9 com barras pretas nas laterais. ( ) Termo genérico que descreve qualquer imagem mais larga do que 4:3 (ex: 16:9 ou 2.39:1). Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "2 – 1 – 3.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em uma pequena emissora de TV, o editor é responsável por selecionar trilhas, imagens e trechos de vídeos para compor reportagens e programas institucionais. Sobre o uso de conteúdos protegidos por direitos autorais, analise as afirmativas a seguir. I. O uso de imagens e músicas encontradas livremente na internet só é permitido se estiverem claramente identificadas como livres de direitos ou licenciadas para reutilização, mediante comprovação da fonte. II. Se a emissora for de pequeno porte e não tiver fins lucrativos, não há necessidade de solicitar autorização ou licença para uso de músicas comerciais, desde que a duração seja inferior a 15 segundos. III. Trechos de obras audiovisuais protegidas só podem ser utilizados sem autorização quando há direito de citação, e desde que a inserção seja justificada pelo conteúdo jornalístico, de forma limitada e sem prejudicar a exploração comercial da obra original.",
       "alternatives": {
         "A": "II e III, apenas.",

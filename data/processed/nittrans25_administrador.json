@@ -134,7 +134,7 @@
         "B": "A solidão é o destino de todos os espíritos eminentes.",
         "C": "A civilização converteu a solidão num dos bens mais preciosos que a alma humana possa desejar.",
         "D": "Não nascemos apenas para nós mesmos.",
-        "E": "O forte tem o máximo poder quando está só. História, Geografia e Atualidades de Niterói"
+        "E": "O forte tem o máximo poder quando está só."
       },
       "answer": "D",
       "annulled": false,
@@ -304,7 +304,7 @@
         "B": "3 – 1 – 2 – 4.",
         "C": "3 – 4 – 1 – 2.",
         "D": "1 – 3 – 4 – 2.",
-        "E": "2 – 3 – 4 – 1. Informática"
+        "E": "2 – 3 – 4 – 1."
       },
       "answer": "D",
       "annulled": false,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Francisco, agente da Nittrans, precisa enviar um manual de procedimentos por e-mail. Ele optou por salvar o documento original do MS Word 365 (BR) em PDF para garantir que todos os colegas consigam visualizá-lo da mesma forma, sem preocupações com edição. A esse respeito, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O formato PDF é ideal pois preserva a formatação do texto independentemente do sistema operacional ou software utilizado para abri-lo. ( ) Um arquivo PDF não pode ser protegido por senha, o que é um risco para a confidencialidade do manual. ( ) Ao salvar em PDF a partir do Word, Francisco perde a capacidade de editar o documento posteriormente, a menos que utilize software específico ou abra o arquivo original .DOCX. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Luciana, da administração da Nittrans, precisa criar uma planilha para controlar o consumo de combustível da frota de veículos. Acerca dos arquivos de planilha eletrônica, avalie as afirmativas a seguir. I. O formato .CSV (Valores Separados por Vírgula) preserva fórmulas, formatação de células e gráficos. complexos, assim como o .XLSX. II. O formato .XLSX, padrão do Microsoft Excel, é baseado em texto puro (ASCII), o que facilita sua abertura em qualquer editor de texto, mas dificulta a execução de cálculos. III. O formato .ODS (OpenDocument Spreadsheet) é um padrão internacional aberto para planilhas, podendo ser aberto por suítes alternativas como LibreOffice e Google Sheets, além do próprio Microsoft Excel. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Bia, que trabalha no setor administrativo da Nittrans, migrou recentemente de um computador com Windows 7 para outro com Windows 8.1 e está com dificuldades para localizar funções que eram acessíveis pelo “Menu Iniciar”. Sobre as diferenças na interface do Windows 8/8.1 em comparação ao Windows 7, avalie as afirmativas a seguir. I. A tela inicial (Start Screen) substitui o Menu Iniciar tradicional e é composta por blocos dinâmicos (tiles) que podem exibir informações em tempo real. II. Para acessar o menu de desligar o sistema, o usuário deve abrir a “Barra de Charms” (movendo o mouse para um dos cantos da tela) e clicar em “Configurações”. III. O “Desktop” (Área de Trabalho) foi removido do Windows 8, sendo possível executar aplicativos apenas na interface moderna de tela inicial. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -365,14 +365,14 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Um agente da Nittrans precisa baixar um grande arquivo de vídeo de uma câmera de trânsito para análise. Ele nota que a velocidade de download está muito abaixo do esperado. Acerca de transferência de arquivos e conceitos de rede, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A velocidade de download é medida em megabytes por segundo (MB/s), enquanto a velocidade contratada da internet é anunciada em megabits por segundo (Mb/s); 1 MB/s equivale a 8 Mb/s.",
         "B": "O termo “banda larga” refere-se à capacidade de transmissão de dados de um link de comunicação, ou seja, quanto maior a banda, maior a velocidade potencial de upload e download.",
         "C": "Fazer upload de um arquivo significa excluí-lo de um servidor na internet, liberando espaço.",
         "D": "A velocidade de transferência depende exclusivamente da capacidade do computador do usuário, sendo independente da congestão da rede ou da distância do servidor.",
-        "E": "Browsers como Chrome e Firefox não possuem gerenciadores de download próprios, exigindo sempre um software de terceiros para pausar ou retomar transferências. Raciocínio Lógico e Matemático"
+        "E": "Browsers como Chrome e Firefox não possuem gerenciadores de download próprios, exigindo sempre um software de terceiros para pausar ou retomar transferências."
       },
       "answer": "B",
       "annulled": false,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma empresa de transportes possui vans de cinco modelos diferentes e todas usam mesmo tipo de combustível. No período de uma semana, foram anotados os números de quilômetros percorridos por cada uma das vans e a quantidade de combustível, em litros, que cada uma consumiu. Os dados estão na tabela abaixo. Quilômetros Litros Van A 180 20 Van B 250 30 Van C 310 32 Van D 360 34 Van E 400 40 Em consumo de combustível, km/litro, a van mais econômica é a",
       "alternatives": {
         "A": "Van A.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A figura abaixo mostra um retângulo ABCD e um paralelogramo MNPQ inscrito. São dadas as medidas: AM = 8, MB = 4, BN = 3 e NC = 6 em alguma unidade. Os pontos móveis X e Y são tais que: • X percorre o contorno do retângulo no sentido anti-horário partindo do ponto A; • Y percorre o contorno do paralelogramo no sentido anti- horário partindo do ponto M; • a velocidade de Y é o dobro da velocidade de X; • os dois móveis partem simultaneamente. No instante em que o móvel X termina sua oitava volta, o móvel Y está",
       "alternatives": {
         "A": "no ponto P.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma empresa de transportes interestaduais possui 160 funcionários: uns são motoristas e os demais trabalham na administração da empresa. Os funcionários com mais de 5 anos de casa são chamados de “antigos”, e os demais são os funcionários “novos”. Sabe-se que: • há 48 motoristas a mais do que funcionários administrativos. • os funcionários antigos são 62. • são 30 os funcionários novos que trabalham na administração. Nessa empresa, o número de motoristas novos supera o número de motoristas antigos em",
       "alternatives": {
         "A": "32.",
@@ -433,14 +433,14 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Dois dados comuns (com faces contendo os números de 1 a 6) são lançados simultaneamente. Seja P a probabilidade de que as faces superiores não mostrem números consecutivos. Entre as opções a seguir, a que mais se aproxima de P é:",
       "alternatives": {
         "A": "0,67.",
         "B": "0,72.",
         "C": "0,77.",
         "D": "0,81.",
-        "E": "0,86. Legislação"
+        "E": "0,86."
       },
       "answer": "B",
       "annulled": false,
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com a Lei Orgânica de Niterói, compete privativamente ao Município",
       "alternatives": {
         "A": "proporcionar os meios de acesso à cultura, à educação e à ciência.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei nº 13.303, de 2016, conhecida como Lei das Estatais, dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios. Com base nessa lei, em relação ao regime societário da empresa pública e da sociedade de economia mista, avalie se as afirmativas a seguir estão corretas. I. A sociedade de economia mista será constituída sob a forma de sociedade anônima. II. O estatuto da empresa pública, da sociedade de economia mista e de suas subsidiárias deverá observar regras de governança corporativa, de transparência e de estruturas, práticas de gestão de riscos e de controle interno, composição da administração e, havendo acionistas, mecanismos para sua proteção. III. Aplicam-se a todas as empresas públicas, as sociedades de economia mista de capital fechado e as suas subsidiárias as disposições da Lei nº 6.404, de 15 de dezembro de 1976, e as normas da Comissão de Valores Mobiliários sobre escrituração e elaboração de demonstrações financeiras, inclusive a obrigatoriedade de auditoria independente por auditor registrado nesse órgão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base no Código de Trânsito Brasileiro, avalie se competem aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição: I. Cumprir e fazer cumprir a legislação e as normas de trânsito, no âmbito de suas atribuições. II. Planejar, projetar, regulamentar e operar o trânsito de veículos, de pedestres e de animais e promover o desenvolvimento, temporário ou definitivo, da circulação, da segurança e das áreas de proteção de ciclistas. III. Implantar, manter e operar o sistema de sinalização, os dispositivos e os equipamentos de controle viário. IV. Coletar dados estatísticos e elaborar estudos sobre os sinistros de trânsito e suas causas. Estão corretos os itens",
       "alternatives": {
         "A": "I, II, III e IV.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei Municipal nº 2283, de 28/12/2005, autoriza o Poder Executivo a constituir e organizar a sociedade de economia mista, sob a forma de sociedade anônima, denominada Niterói Transporte e Trânsito S/A - NITTRANS. Com base nessa lei, as afirmativas a seguir estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "A NITTRANS, com personalidade jurídica de direito privado, terá sede e foro na Cidade de Niterói, prazo de duração indeterminado e jurisdição em todo o Município de Niterói.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base na Lei Municipal nº 2283, de 28/12/2005, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F): ( ) Nenhum servidor da NITTRANS poderá ser posto à disposição de quaisquer outros órgãos ou entidades com ônus para a companhia. ( ) No exercício de suas atividades a NITTRANS poderá estabelecer normas de acordo com a legislação relativa a transporte coletivo e individual de passageiros, tráfego, trânsito e Sistema Viário Municipal. ( ) A NITTRANS gozará de isenção Tributária Municipal. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com o Código de Trânsito Brasileiro, o coordenador do Sistema Nacional de Trânsito e órgão máximo normativo e consultivo é o(a)",
       "alternatives": {
         "A": "Conselho Nacional de Trânsito – CONTRAN.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie, com base na Lei Urbanística de Niterói (Lei nº 3.905, de 20 de maio de 2024), se as seguintes afirmativas a respeito das estratégias de ordenamento territorial estão corretas: I. Como Estratégia de Ordenamento Territorial, o território do Município de Niterói fica dividido em zonas de uso caracterizadas pelo conjunto de regras de parcelamento, ocupação e uso do solo aplicáveis às respectivas porções do território. II. A Estratégia de Integração entre Transporte e Uso do solo consiste em promover a mobilidade urbana sustentável a partir da forma urbana compacta, com densidades equilibradas ao longo dos eixos de estruturação e diferentes centralidades com diversificação de usos, de modo a promover o encurtamento das distâncias e reduzir a necessidade de viagens longas motorizadas, em especial, por automóveis. III. A Estratégia de Qualificação da Ocupação Urbana consiste em utilizar o térreo e o embasamento da edificação para conferir melhor relação entre o interior do lote e a rua, vinculando parâmetros qualificadores que promovam a integração entre espaços públicos e privados e ampliar a sensação de segurança dos espaços públicos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei Orgânica do Município de Niterói estabelece que compete ao Município prover tudo quanto diga respeito ao interesse local e ao bem-estar de sua população. Avalie se cabe ao Município, privativamente, entre outras, as seguintes atribuições: I. fixar locais para estabelecimentos de pontos de táxis e demais veículos. II. fixar e sinalizar as zonas de silêncio, de trânsito e tráfego em condições especiais. III. sinalizar as vias urbanas e as estradas municipais, bem como regulamentar e fiscalizar sua utilização. IV. ordenar as atividades urbanas, fixando condições e horários para funcionamento de estabelecimentos industriais, comerciais e de serviços, observadas as normas federais pertinentes. V. dispor sobre os serviços funerários e cemitérios. Estão corretos os itens",
       "alternatives": {
         "A": "I, II, III, IV e V.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios é denominada:",
       "alternatives": {
         "A": "sociedade de economia mista.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei nº 2283, de 28/12/2005 estabelece que a NITTRANS será administrada por um Conselho de Administração e uma Diretoria Executiva e contará com um Conselho Fiscal. Avalie se a referida lei prevê que à Assembleia Geral compete, sem exclusão de outros casos previstos em lei, entre outras, as seguintes atribuições: I. Aprovar o Estatuto Social. II. Tomar, anualmente, as contas dos administradores, examinar, discutir e votar as demonstrações financeiras. III. Discutir e fixar a correção da expressão monetária do Capital Social. IV. Deliberar sobre a destinação do lucro líquido do exercício. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em relação ao licenciamento de veículos, conforma estabelece o Código Brasileiro de Trânsito, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Todo veículo automotor, articulado, reboque ou semirreboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Município onde estiver registrado o veículo. ( ) O Certificado de Licenciamento Anual será expedido ao veículo licenciado, vinculado ao Certificado de Registro de Veículo, em meio físico e/ou digital, à escolha do proprietário, de acordo com o modelo e com as especificações estabelecidos pelo Contran. ( ) No caso de transferência de residência ou domicílio, é válido, durante o exercício, o licenciamento de origem. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei nº 3.905/2024 dispõe sobre a Lei Urbanística de Niterói, seu zoneamento, a aplicação de instrumentos de política urbana e as regras gerais de licenciamento da atividade edilícia e de fiscalização da execução de obras. O Art. 18 dessa lei define as Zonas de Uso que compõem os Territórios de Qualificação. Em relação ao tema, leia a descrição a seguir: são porções do território destinadas, predominantemente, à moradia digna para a população da baixa renda por intermédio de melhorias urbanísticas, recuperação ambiental e regularização fundiária de assentamentos precários e irregulares, bem como à provisão de novas Habitações de Interesse Social - HIS a serem dotadas de equipamentos sociais, infraestruturas, em especial de saneamento ambiental, áreas verdes e comércios e serviços locais, situadas na zona urbana. A descrição se refere a",
       "alternatives": {
         "A": "Zona Uso Misto (ZUM).",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei nº 3.905/2024 (Lei Urbanística de Niterói) estabelece, em seu Título III, as diretrizes para o parcelamento do solo. Com base nessa lei, avalie se as afirmativas a seguir estão corretas. I. As áreas de preservação permanente, as áreas declaradas de Especial Interesse Ambiental e as unidades de conservação da natureza cuja destinação não permita a ocupação humana não serão excluídas do cômputo de áreas em qualquer forma de parcelamento. II. Nos projetos de parcelamento do solo deverão ser respeitados os recuos, as áreas \"non aedificandi\", as áreas de preservação permanente e as restrições impostas por unidades de conservação da natureza estabelecidas pelo Município e/ou órgão ambientais competentes. III. Os projetos de parcelamento deverão indicar as faixas de drenagem \"Non aedificandi\" ao longo dos cursos d`água, quando for o caso, de forma a garantir o acesso público na sua manutenção, o perfeito escoamento das águas e a conservação da vegetação de mata ciliar nativa existente. IV. A edificação em glebas não parceladas, de qualquer área ou de qualquer volume da construção, não estará condicionada ao prévio parcelamento do solo. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e IV, apenas.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base na Lei Orgânica do Município de Niterói, avalie se a administração pública direta e indireta, de qualquer dos Poderes do Município, obedecerá aos seguintes princípios: I. Legalidade. II. Impessoalidade. III. Moralidade. IV. Publicidade. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A administração é uma prática presente em diferentes contextos sociais e organizacionais. Na raiz do uso tão frequente dessa palavra está o processo de resolução dos problemas e de manejo de recursos que a existência oferece para as pessoas, as famílias, as comunidades, as organizações e para a sociedade global. Diante disso, é correto afirmar que a administração",
       "alternatives": {
         "A": "refere-se primordialmente à gestão de empresas privadas.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Ao longo do tempo, a administração como campo de conhecimento consolidou diversas formas de pensar e agir nas organizações. Esse processo histórico é marcado pelo surgimento de escolas e teorias administrativas, que contribuíram para sistematizar práticas e princípios de gestão. Com base nessa evolução, é correto afirmar que:",
       "alternatives": {
         "A": "Escola da administração é definida pela atuação restrita de um pensador influente.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Administração Científica, formulada por Frederick W. Taylor no início do século XX, introduziu métodos racionais para aumentar a eficiência no trabalho. Entre seus princípios, está a busca por produtividade com base no estudo dos movimentos e do tempo. Com base nesse entendimento, é correto o que se afirma em:",
       "alternatives": {
         "A": "O trabalhador produz mais quando atua sem pausas durante a jornada.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Entre 1927 e 1933, os chamados Experimentos de Hawthorne, conduzidos por Elton Mayo, revelaram a importância dos fatores sociais e psicológicos no ambiente de trabalho. Essa descoberta marcou o surgimento da Teoria das Relações Humanas e provocou uma mudança na forma de entender a motivação e o comportamento dos trabalhadores nas organizações. Com base nos resultados desses estudos, é correto afirmar que:",
       "alternatives": {
         "A": "A motivação depende da execução mecânica das tarefas estabelecidas.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Teoria Comportamental da Administração valoriza os aspectos humanos das organizações e entende que o comportamento coletivo influencia diretamente o desempenho organizacional. Essa abordagem inclui a análise de processos como liderança, comunicação, cultura e clima organizacional. Com base nesse enfoque, assinale o conceito que se refere à formação espontânea ou formal de agrupamentos e aos processos interpessoais como liderança, comunicação e conflito:",
       "alternatives": {
         "A": "Dinâmica dos grupos.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A partir dos modelos propostos por Max Weber, como a burocracia racional-legal, estudiosos da administração passaram a investigar as condições sob as quais diferentes estruturas organizacionais são mais eficazes. Nesse contexto, a Teoria da Contingência afirma que a escolha entre modelos mecanicistas ou orgânicos deve considerar variáveis específicas de cada organização, como tecnologia, ambiente e recursos humanos. Com base nesse enfoque, é correto afirmar que:",
       "alternatives": {
         "A": "Estruturas burocráticas são mais eficazes que modelos flexíveis.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Ao atuar como função estruturante da administração, o planejamento oferece um modelo deliberado de ação orientado para o futuro. Esse processo envolve análise do presente, definição de resultados esperados e formulação de caminhos estratégicos e normativos para atingi-los. Com base nesse entendimento, é correto afirmar que o planejamento",
       "alternatives": {
         "A": "refere-se à execução tática das tarefas e ao uso de controles padronizados na operação.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A função organização representa a etapa da administração voltada à estruturação lógica e coordenada das atividades e recursos. Essa função exige clareza quanto à disposição dos meios disponíveis e à dinâmica de execução das tarefas no sistema. Com base nessa perspectiva, é correto afirmar que a organização",
       "alternatives": {
         "A": "consiste na mensuração de desvios entre resultados alcançados e esperados.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A história da administração registra contribuições significativas de diferentes civilizações e contextos históricos. Desde práticas rudimentares de controle até a formulação de teorias científicas, diversos eventos e ideias moldaram o campo da administração como o conhecemos hoje. Com base nessa perspectiva histórica, assinale a alternativa que apresenta uma associação correta entre o período e a contribuição para a administração:",
       "alternatives": {
         "A": "Renascença – sistematização da administração científica por Maquiavel em O Príncipe.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Carla foi contratada como gerente de contas estratégicas em uma empresa de tecnologia que fornece soluções para o setor varejista. Com menos de seis meses na função, conseguiu renegociar contratos com três grandes clientes, ajustando prazos e escopo para garantir a rentabilidade da empresa sem comprometer a satisfação dos clientes. Durante as reuniões, demonstrava facilidade em compreender os impactos financeiros das decisões, além de antecipar movimentos do mercado e adaptar-se rapidamente às dinâmicas dos parceiros comerciais. Com base no conceito de gestão por competências, a atuação de Carla evidencia principalmente a competência relacionada a",
       "alternatives": {
         "A": "liderança situacional com foco na mediação de tensões entre áreas internas.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Ao desenvolver a programação de um projeto, o gerente precisa avaliar se o conjunto de atividades poderá ser concluído dentro do prazo estabelecido. Essa etapa é essencial para organizar os recursos e prever possíveis atrasos. Com base nesse entendimento, é correto afirmar que a programação do projeto permite identificar",
       "alternatives": {
         "A": "os indicadores financeiros de retorno sobre investimento.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Juliana foi promovida recentemente a coordenadora de projetos e percebeu que precisava aprimorar suas habilidades em escuta ativa e solução de problemas. Para isso, decidiu buscar apoio de colegas mais experientes, ouvir atentamente os feedbacks recebidos e desenhar um plano com metas claras para seu crescimento profissional. Com base nas boas práticas de desenvolvimento de competências em gestão de projetos, é correto afirmar que Juliana",
       "alternatives": {
         "A": "adota uma postura alinhada à busca de mentoria, feedback e planejamento individual.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Empresas que atuam com produtos padronizados, como dispositivos médicos eletrônicos, costumam adotar uma estrutura organizacional que favorece o agrupamento de pessoas com funções semelhantes, promovendo excelência técnica e controle de custos. Com base nesse tipo de estrutura, é correto afirmar que a organização descrita adota o modelo",
       "alternatives": {
         "A": "divisional, com foco em unidades de negócio autônomas e orientadas por mercados.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Ao lidar com múltiplos projetos simultâneos e ainda buscar preservar a especialização técnica de suas equipes, uma empresa opta por uma estrutura organizacional que permita compartilhar recursos entre departamentos e projetos, promovendo integração e flexibilidade. Nessa estrutura, cada colaborador pode se reportar a mais de um gestor, dependendo da atividade desempenhada. Com base nesse arranjo organizacional, é correto afirmar que se trata de uma estrutura",
       "alternatives": {
         "A": "funcional, com definição única de autoridade baseada em especializações verticais.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Segundo Edgar Schein, a cultura organizacional pode ser analisada em diferentes níveis, que variam conforme a visibilidade e o grau de consciência dos seus elementos. Essa abordagem permite compreender desde manifestações visíveis e tangíveis até premissas profundas e inconscientes que moldam a forma como as organizações operam, influenciando inclusive os estilos de liderança adotados. Com base nessa perspectiva, assinale a alternativa que apresenta corretamente os três níveis de análise cultural:",
       "alternatives": {
         "A": "Estrutura, desempenho e controle simbólico.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A partir de um extenso estudo com colaboradores da IBM em diversos países, Geert Hofstede identificou dimensões culturais fundamentais que explicam como crenças, valores e pressupostos inconscientes moldam o comportamento organizacional em diferentes contextos nacionais. Tais dimensões representam premissas básicas das macroculturas e devem ser consideradas por líderes e gestores ao atuarem em ambientes multiculturais. Com base nessa perspectiva, assinale a alternativa que apresenta corretamente uma das dimensões básicas da cultura segundo Hofstede:",
       "alternatives": {
         "A": "Proximidade simbólica, que mede o alinhamento entre as identidades individuais e a missão institucional.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Mudanças culturais nas organizações geralmente exigem um processo estruturado de transição, que começa com a percepção de que práticas antigas não são mais eficazes. Esse processo passa por etapas como a desconfirmação de padrões estabelecidos, a criação de um ambiente seguro para experimentar novos comportamentos e, por fim, a internalização de novos valores. Nesse cenário, a atuação da liderança é determinante para promover um ambiente favorável ao aprendizado e à transformação. Com base nesse modelo de mudança organizacional, assinale a alternativa que descreve corretamente uma de suas etapas:",
       "alternatives": {
         "A": "Criação de segurança psicológica para permitir o aprendizado e a mudança.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O planejamento estratégico depende da definição clara da missão organizacional, que orienta a identidade e a razão de ser da instituição. Entretanto, a compreensão compartilhada da missão nem sempre se traduz automaticamente em coesão de metas, especialmente em contextos com múltiplas subculturas internas. Nesse sentido, o alinhamento entre missão, valores e metas operacionais exige a construção de uma linguagem comum e a articulação precisa dos objetivos. Considerando essa perspectiva, é correto afirmar que",
       "alternatives": {
         "A": "a missão detalha objetivos mensuráveis de curto prazo que substituem as metas organizacionais.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A empresa pública Transmobil, responsável pela operação de mobilidade urbana em uma capital brasileira, realizou uma análise SWOT para subsidiar a revisão de seu planejamento estratégico. Foram identificados como forças a expertise técnica da equipe e o domínio tecnológico do sistema de bilhetagem; como fraquezas, a rigidez contratual com fornecedores e limitações orçamentárias; como oportunidades, a ampliação de parcerias com startups de mobilidade e a crescente demanda por soluções sustentáveis; e como ameaças, a alta volatilidade do preço dos combustíveis e o sucateamento da frota terceirizada. Com base na abordagem SWOT cruzada, é correto afirmar que a Transmobil deveria priorizar uma estratégia que",
       "alternatives": {
         "A": "elimine os contratos com fornecedores legados, substituindo- os por soluções de mercado mais agressivas.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Secretaria Municipal de Mobilidade elaborou um novo plano estratégico com foco na ampliação do transporte público sustentável. Como parte do processo, definiu o seguinte conjunto de direcionadores: • Objetivo: Ampliar o acesso da população ao transporte coletivo sustentável. • Indicador: Percentual de linhas com ônibus elétricos em operação. • Meta: Dobrar, até 2028, a proporção de linhas operadas com veículos de baixa emissão. Durante uma reunião técnica, surgiu o questionamento sobre a clareza conceitual dessas definições, especialmente quanto à distinção entre objetivo, indicador e meta. Com base na distinção conceitual, é correto afirmar que",
       "alternatives": {
         "A": "o indicador expressa a missão institucional e pode permutar o objetivo estratégico.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O marketing, como área estratégica da administração, envolve atividades que vão além da simples promoção de produtos ou serviços. Com base nos fundamentos do marketing, é correto afirmar que",
       "alternatives": {
         "A": "a aplicação do marketing está limitada ao setor privado com fins lucrativos.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma empresa que comercializa roupas esportivas identificou que consumidores do Sul do país preferem tecidos mais quentes, enquanto no Nordeste há maior demanda por peças leves e respiráveis. Com base nessa distinção, decidiu personalizar sua linha de produtos de acordo com o local de residência dos clientes. Esse tipo de estratégia exemplifica a segmentação",
       "alternatives": {
         "A": "geográfica.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "No composto de marketing, também conhecido como os “4 Ps”, o componente relacionado à criação de valor está associado ao desenvolvimento de bens ou serviços que atendam às necessidades dos consumidores. Nesse contexto, é correto afirmar que o “P” responsável por essa etapa do marketing é:",
       "alternatives": {
         "A": "Preço.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante uma conferência do setor logístico, Rafael, representante de uma empresa B2B de soluções em rastreamento de frotas, aproveitou o evento para conversar com diversos gestores de transporte e coletar contatos de possíveis interessados. Após o evento, organizou os dados e classificou os contatos segundo o grau de interesse demonstrado. Com base nas estratégias de vendas, é correto afirmar que Rafael estava realizando",
       "alternatives": {
         "A": "a precificação de leads com base no potencial de consumo do cliente.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante uma reunião de alinhamento estratégico, Marcos — gestor financeiro de uma empresa de médio porte no setor de alimentos — apresentou três áreas decisórias prioritárias para a sustentabilidade financeira do negócio. Ele destacou que, ao analisar a aquisição de um novo maquinário para ampliar a linha de produção, foi necessário comparar o valor presente dos fluxos de caixa futuros esperados com o custo da aquisição. Marcos também alertou sobre a necessidade de captar recursos de terceiros a juros competitivos, uma vez que o capital próprio disponível era insuficiente. Por fim, ressaltou que era imprescindível manter o equilíbrio entre contas a pagar, contas a receber e estoques, evitando a paralisação das operações. Com base nesse contexto, é correto afirmar que Marcos descreveu, respectivamente, decisões relacionadas a",
       "alternatives": {
         "A": "Orçamento de capital, estrutura de capital e gestão do capital de giro.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante a elaboração do orçamento empresarial anual, a equipe de finanças da empresa TechMob analisou os principais fluxos de entrada e saída de recursos. O objetivo era garantir liquidez, otimizar o uso dos recursos disponíveis e avaliar alternativas para suprir eventuais déficits financeiros. Entre os aspectos observados estavam o volume de contas a receber, o cronograma de pagamentos a fornecedores e a viabilidade de aplicações no mercado financeiro. A empresa também considerou a necessidade de contratar novos empréstimos, caso o capital próprio se mostrasse insuficiente para cobrir os investimentos previstos. À luz da gestão financeira e das decisões orçamentárias, é correto afirmar que a equipe da TechMob atuou com base em",
       "alternatives": {
         "A": "uma abordagem operacional de curto prazo, voltada majoritariamente para redução de custos fixos.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante a análise do fluxo de caixa de uma organização, a equipe de finanças observou um conjunto de operações que impactaram a posição de liquidez da empresa. Entre os eventos relatados estavam: a venda de ações no mercado, a depreciação contábil de ativos fixos, o pagamento de dividendos em moeda e o aumento no estoque de mercadorias. Considerando os conceitos fundamentais de gestão financeira, é correto afirmar que",
       "alternatives": {
         "A": "a depreciação representa uma saída de caixa que reduz a necessidade de capital de giro.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma organização do setor público iniciou a análise da viabilidade de um projeto de modernização tecnológica, cujo custo corrente dos ativos envolvidos é de R$ 2.000.000,00. A equipe técnica estimou que os ativos gerarão fluxos de caixa futuros com valor presente equivalente a R$ 2.600.000,00 no horizonte de tempo definido. Com base na análise de retorno do investimento em termos de caixa, é correto afirmar que o Retorno do Investimento em Caixa (RIC) será",
       "alternatives": {
         "A": "inferior a 0,5, indicando que o investimento não é recomendável.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante uma reunião estratégica, a equipe de Recursos Humanos da empresa Transvia discutia os desafios de preencher rapidamente vagas críticas para operadores logísticos em uma nova filial. A gerente de RH alertou que, apesar de divulgarem amplamente as oportunidades, o número de candidatos qualificados que se apresentava era insuficiente. Para tentar resolver o problema, a equipe passou a considerar também profissionais empregados em outras empresas do setor, mesmo que estes não estivessem buscando ativamente recolocação. Com base na situação descrita e nos conceitos sobre o mercado de gestão humana, é correto afirmar que",
       "alternatives": {
         "A": "a empresa enfrenta um mercado em equilíbrio, o que justifica a escassez de candidatos.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A diretoria de Recursos Humanos de uma empresa do setor de tecnologia identificou que, embora os colaboradores fossem tecnicamente competentes, a organização enfrentava desafios na consolidação da sua imagem institucional e no fortalecimento de suas parcerias estratégicas. Para enfrentar essa lacuna, foi implementado um programa voltado à melhoria das interações com clientes e fornecedores, à gestão da reputação da marca e ao posicionamento da empresa em eventos corporativos. A expectativa era ampliar a confiança dos stakeholders e diferenciar a organização no mercado. À luz do conceito de capital intelectual, é correto afirmar que a iniciativa descrita busca essencialmente fortalecer:",
       "alternatives": {
         "A": "O capital externo, ao investir na reputação institucional, nas relações com clientes e fornecedores e na valorização da imagem da organização perante o mercado.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A equipe de Recursos Humanos da empresa Alfa revisou seu sistema de avaliação de desempenho após constatar que dois colaboradores com entregas técnicas semelhantes foram avaliados de forma significativamente distinta por gestores diferentes. A análise indicou que, embora os critérios definidos fossem aplicáveis, sua interpretação e aplicação variavam conforme o avaliador. Com base nas características de um critério de avaliação eficaz, é correto afirmar que o principal problema identificado no caso se refere à",
       "alternatives": {
         "A": "relevância.",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em uma tentativa de promover maior engajamento dos colaboradores, a direção da empresa Zeta decidiu implementar um programa de delegação de poder às equipes operacionais. Contudo, parte da liderança intermediária manifestou resistência, e alguns trabalhadores relataram frustração após perceberem que sua autonomia foi limitada após um curto período de maior liberdade decisória. Com base nos fatores que influenciam a eficácia da delegação de poder como estratégia motivacional, é correto afirmar que",
       "alternatives": {
         "A": "transferir autonomia rapidamente tende a produzir efeitos sustentáveis e imediatos.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante uma reunião de equipe na empresa Echo, os colaboradores observaram duas situações distintas. Rafael, analista sênior, apresentou propostas com clareza, foi ouvido com atenção e recebeu apoio imediato dos colegas. Já Vinícius, também experiente, demonstrou hesitação ao expor suas ideias e não foi consultado em momentos-chave da discussão. Embora nenhum dos dois ocupasse cargo de chefia, as atitudes da equipe indicavam um reconhecimento tácito da liderança de Rafael. Com base na perspectiva da atribuição de liderança, é correto afirmar que",
       "alternatives": {
         "A": "a liderança se baseia predominantemente no domínio técnico do colaborador.",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Na empresa DeltaTech, um supervisor recém-promovido foi alocado em uma equipe com forte coesão interna e normas de desempenho consolidadas há anos. Embora buscasse implementar novos métodos e incentivar práticas inovadoras, percebeu que suas tentativas geravam pouca ou nenhuma mudança nos comportamentos da equipe. Além disso, notou que os trabalhadores da linha de produção tinham pouco controle sobre o ritmo e a forma como executavam suas tarefas, altamente padronizadas. Por fim, as políticas salariais da empresa eram rigidamente definidas por acordos coletivos, o que limitava o uso de incentivos financeiros como estratégia motivacional. Com base nesse contexto, é correto afirmar que:",
       "alternatives": {
         "A": "A padronização do trabalho fortalece a liderança situacional e amplia sua eficácia.",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Nos últimos anos, o empreendedorismo tem se consolidado como uma prática fundamental tanto no setor privado quanto no setor público, em contextos de alta incerteza e competição. Com base nas abordagens contemporâneas sobre o empreendedorismo, é correto afirmar que:",
       "alternatives": {
         "A": "O empreendedor busca explorar oportunidades mesmo diante de escassez inicial de recursos, utilizando-os de forma criativa para gerar valor.",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O processo empreendedor depende do equilíbrio entre três elementos-chave: oportunidade, recursos e pessoas. Esses elementos são conectados por atributos como liderança, criatividade e comunicação, além de estarem sujeitos a forças como incerteza, ambiguidade e pressões externas. Com base nessa compreensão, é correto afirmar que:",
       "alternatives": {
         "A": "O plano de negócios tem como função principal mitigar a criatividade e padronizar a atuação das pessoas envolvidas no empreendimento.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante um evento interno de inovação, Camila, analista de uma grande empresa de tecnologia, foi selecionada para apresentar sua proposta de criação de uma nova plataforma digital voltada à educação corporativa. Ciente de que teria apenas dez minutos para expor sua ideia à diretoria, ela estruturou cuidadosamente seu plano de negócios, destacando a oportunidade de mercado, os diferenciais competitivos do projeto, os recursos necessários e os impactos esperados para a empresa. Com base nesse contexto e nos fundamentos sobre elaboração de planos de negócios, é correto afirmar que:",
       "alternatives": {
         "A": "O foco do plano de negócios, nesse tipo de situação, deve se restringir aos aspectos operacionais da proposta, sem incluir projeções de mercado ou argumentos estratégicos.",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante uma reunião de planejamento estratégico, a diretora de inovação Andrea, ao apresentar sugestões de reformulação em processos operacionais ultrapassados, ouviu de diferentes gestores comentários como “isso já foi tentado antes e não funcionou”, “não temos orçamento para isso”, “nosso foco agora é outro” e “essa ideia não se encaixa na nossa realidade”. Ao fim da apresentação, notou-se um visível desestímulo entre os membros da equipe, mesmo entre aqueles que demonstravam entusiasmo inicial. Com base nos princípios do pensamento criativo e nos bloqueios mais comuns à inovação nas organizações, é correto afirmar que:",
       "alternatives": {
         "A": "As reações dos gestores indicam uma postura típica de ambientes com alta autonomia criativa, mas baixa capacidade de execução.",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante uma conferência internacional, Renata Oliveira, diretora de sustentabilidade de uma multinacional do setor de tecnologia, relatou que a empresa revisou suas práticas empresariais, adotando diretrizes que consideram o impacto de suas atividades sobre empregados, fornecedores, clientes, governos e a comunidade local. Segundo ela, o objetivo é alinhar a estratégia organizacional a valores éticos, sociais e ambientais, em resposta às exigências de um mercado global mais consciente. Considerando os fundamentos da responsabilidade social corporativa (RSC), é correto afirmar que essa nova abordagem da empresa",
       "alternatives": {
         "A": "representa uma integração estratégica da RSC à governança corporativa, orientada por valores éticos, sociais e ambientais para aperfeiçoamento contínuo das práticas empresariais.",
@@ -1351,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante um seminário interno sobre governança ética, a administradora Luciana apresentou um caso que recentemente impactou sua organização: diante de uma situação inédita envolvendo o uso de inteligência artificial na triagem de currículos, surgiram questionamentos internos sobre a imparcialidade do algoritmo e a ausência de parâmetros éticos claramente definidos. A empresa, apesar de ter um código de conduta robusto, nunca havia previsto cenários envolvendo decisões automatizadas. Além disso, a reação dos gestores foi dividida — alguns minimizaram a questão como uma “falha tecnológica”, enquanto outros defenderam que a organização deveria rever suas práticas com base na diversidade cultural e na responsabilidade social. Diante do caso apresentado e dos desafios contemporâneos à ética corporativa, é correto afirmar que a organização enfrentou",
       "alternatives": {
         "A": "uma disfunção operacional típica de empresas que adotam inovação tecnológica sem alinhamento com objetivos estratégicos de curto prazo.",

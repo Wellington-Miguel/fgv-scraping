@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Niterói Trânsito (NITTRANS)",
   "cargo_title": "Técnico de Segurança do Trabalho",
   "exam_type": "Tipo 1",
-  "total_questions": 68,
+  "total_questions": 69,
   "questions": [
     {
       "question_number": 1,
@@ -134,7 +134,7 @@
         "B": "Os turistas requiseram seus documentos de volta.",
         "C": "Ela nunca mais fazerá isso.",
         "D": "Entre mim e a política há um abismo.",
-        "E": "O homem que viu-nos na loja era meu primo. História, Geografia e Atualidades de Niterói"
+        "E": "O homem que viu-nos na loja era meu primo."
       },
       "answer": "D",
       "annulled": false,
@@ -304,7 +304,7 @@
         "B": "Implementação da gratuidade nas passagens de ônibus entre o Rio de Janeiro e Niterói, com o objetivo de reduzir o uso de automóveis particulares.",
         "C": "Desenvolvimento das ciclovias no bairro Barreto como forma de transporte alternativo, com o objetivo de interligar a região com o Centro de Niterói.",
         "D": "Interdição de ruas nos finais de semana, na Região Oceânica, para uso exclusivo de pedestres, com o objetivo de melhorar a qualidade de vida dos moradores.",
-        "E": "Subsídio concedido pela Prefeitura para reduzir a tarifa do catamarã de Charitas, com o objetivo de aumentar o fluxo de passageiros e diminuir o tempo de deslocamento. Informática"
+        "E": "Subsídio concedido pela Prefeitura para reduzir a tarifa do catamarã de Charitas, com o objetivo de aumentar o fluxo de passageiros e diminuir o tempo de deslocamento."
       },
       "answer": "E",
       "annulled": false,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Um estagiário da Nittrans recebeu a tarefa de organizar uma pasta contendo documentos de fiscalização. Ele precisa identificar rapidamente o tipo de conteúdo de cada arquivo pela sua extensão para separar textos, planilhas e apresentações. Nesse sentido, associe o formato de arquivo à principal característica ou finalidade. 1. .DOCX 2. .XLSX 3. .PDF 4. .TXT ( ) Formato de documento de texto simples, sem formatação. ( ) Formato de planilha eletrônica do MS Excel (versão 2007 ou superior), contendo células, fórmulas e gráficos. ( ) Formato de documento portátil, ideal para distribuição pois mantém a formatação independente do software. ( ) Formato nativo do MS Word (versão 2007 ou superior) para documentos textuais com formatação avançada. Assinale a opção que apresenta a associação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "4 – 2 – 3 – 1.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Um técnico da Nittrans precisa criar um formulário eletrônico no MS Word 365 (BR) para a coleta padronizada de dados de ocorrências de trânsito. Acerca da criação e manipulação de formulários no MS Word 365 (BR), assinale a afirmativa correta.",
       "alternatives": {
         "A": "Formulários são criados apenas inserindo linhas em uma tabela e digitando os campos manualmente, sem controle sobre a entrada de dados.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Um estagiário da Nittrans precisa acessar o manual de procedimentos, que está disponível no endereço web https://www.nittrans.niteroi.rj.gov.br/manual.pdf. A esse respeito, é correto afirmar que a sentença “o endereço é um exemplo de URL, onde \"https\" especifica o protocolo de comunicação seguro e \"www.nittrans.niteroi.rj.gov.br\" é o nome do domínio que identifica exclusivamente o servidor onde o recurso (\"manual.pdf\") está hospedado” é",
       "alternatives": {
         "A": "verdadeira, pois a estrutura apresentada descreve com precisão os componentes fundamentais de um endereço web Uniform Resource Locator (URL).",
@@ -365,14 +365,14 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Para realizar uma busca eficiente sobre “sinalização viária vertical” no Google, um técnico da Nittrans precisa refinar sua pesquisa. Sobre técnicas de busca em mecanismos de pesquisa, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Usar aspas em uma expressão de busca, como “sinalização viária vertical”, retorna resultados que contêm essa expressão exata. ( ) Utilizar o sinal de menos (-) antes de uma palavra como, por exemplo, “sinalização -temporária”, exclui resultados que contenham a palavra “temporária”. ( ) Em mecanismos de busca modernos, a data de publicação de um site é sempre o fator mais importante para determinar sua posição nos resultados. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
         "B": "V – V – F.",
         "C": "V – F – F.",
         "D": "F – V – V.",
-        "E": "F – F – V. Raciocínio Lógico e Matemático"
+        "E": "F – F – V."
       },
       "answer": "B",
       "annulled": false,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Felipe tem um carro importado cujo velocímetro marca a velocidade em milhas por hora. Sabe-se que uma milha corresponde a 1,6 quilômetro. Felipe viaja em uma estrada cujo limite de velocidade máxima é de 80 quilômetros por hora. Para respeitar esse limite, a velocidade (em milhas por hora), marcada pelo velocímetro do carro de Felipe, não pode ultrapassar",
       "alternatives": {
         "A": "40.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um automóvel, com velocidade constante igual a V, percorre uma certa distância em 30 minutos. Esse automóvel, com velocidade constante 50% maior do que a anterior, percorre a mesma distância em",
       "alternatives": {
         "A": "10 minutos.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma caixa contém moedas de ouro. Quando as moedas são divididas igualmente entre 7 pessoas, sobram 4 moedas. Quando elas são divididas entre 5 pessoas, sobram 2 moedas. Sabe-se que o número de moedas na caixa é maior do que 50 e menor do que 100. O número de moedas, que sobram quando elas são divididas igualmente entre 6 pessoas, é",
       "alternatives": {
         "A": "1.",
@@ -433,14 +433,14 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "André, Bernardo, Carlos, Diogo, Ernesto e Fábio disputaram um torneio de pingue-pongue em que cada um deles jogou exatamente uma partida contra cada um dos outros cinco. As partidas de pingue-pongue não têm empate. André ganhou 3 partidas, Bernardo ganhou 1 partida, Carlos ganhou 2 partidas, Diogo ganhou 2 partidas e Ernesto ganhou 3 partidas. O número de partidas que Fábio ganhou foi",
       "alternatives": {
         "A": "1.",
         "B": "2.",
         "C": "3.",
         "D": "4.",
-        "E": "5. Legislação"
+        "E": "5."
       },
       "answer": "D",
       "annulled": false,
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei 13.303/2016 dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, abrangendo toda e qualquer empresa pública e sociedade de economia mista da União, dos Estados, do Distrito Federal e dos Municípios que explore atividade econômica de produção ou comercialização de bens ou de prestação de serviços, ainda que a atividade econômica esteja sujeita ao regime de monopólio da União ou seja de prestação de serviços públicos. De acordo com essa lei, as disposições aplicáveis às empresas públicas e às sociedades de economia mista especificam não se aplicam à empresa pública e à sociedade de economia mista que tiver, em conjunto com suas respectivas subsidiárias, no exercício social anterior, receita operacional bruta",
       "alternatives": {
         "A": "inferior a R$ 90.000.000,00.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Empresa pública é",
       "alternatives": {
         "A": "a entidade dotada de personalidade jurídica de direito público, com criação autorizada por lei e com patrimônio próprio, cujo capital social é parcialmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios.",
@@ -483,8 +483,25 @@
       "page_number": 8
     },
     {
+      "question_number": 29,
+      "discipline": "Legislação",
+      "statement": "Avalie, com base na Lei Federal 9.503/1997, que institui o Código de Trânsito Brasileiro, se são objetivos básicos do Sistema Nacional de Trânsito: I. Estabelecer diretrizes da Política Nacional de Trânsito, com vistas à segurança, à fluidez, ao conforto, à defesa ambiental e à educação para o trânsito, e fiscalizar seu cumprimento. II. Fixar, mediante normas e procedimentos, a padronização de critérios técnicos, financeiros e administrativos para a execução das atividades de trânsito. III. Estabelecer a sistemática de fluxos permanentes de informações entre os seus diversos órgãos e entidades, a fim de facilitar o processo decisório e a integração do Sistema. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O Art. 68 do Código de Trânsito Brasileiro estabelece que é assegurada ao pedestre a utilização dos passeios ou passagens apropriadas das vias urbanas e dos acostamentos das vias rurais para circulação, podendo a autoridade competente permitir a utilização de parte da calçada para outros fins, desde que não seja prejudicial ao fluxo de pedestres. Em relação ao tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O pedestre tem precedência em direitos e deveres em relação ao ciclista desmontado empurrando a bicicleta.",
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei Municipal 2.283/2005, autoriza o Poder Executivo municipal a constituir a NITTRANS. De acordo com essa lei, a NITTRANS será administrada por um Conselho de Administração e uma Diretoria Executiva e contará com um Conselho Fiscal. Além disso, a referida lei estabelece que o mandato dos membros do Conselho de Administração, da Diretoria e do Conselho Fiscal será de",
       "alternatives": {
         "A": "três anos, sem reeleição.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com a Lei Municipal nº 3.852/2023, a autoridade de trânsito competente para aplicar as penalidades previstas na legislação de trânsito é o",
       "alternatives": {
         "A": "Agente de Trânsito.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie, com base na Lei Orgânica do Município de Niterói, se as seguintes afirmativas em relação aos princípios, direitos e garantias fundamentais estão corretas: I. O Município de Niterói, sob a proteção de Deus e objetivando uma sociedade fraterna, democrática e sem preconceitos, garantirá ao seu povo o pleno exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça. II. Todo poder municipal emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Lei Orgânica. III. No Município de Niterói, por suas leis, agentes e órgãos, não haverá discriminação, em razão de local de nascimento, idade, raça, etnia, sexo, estado civil, trabalho, religião, orientação sexual, convicções políticas ou filosóficas, por deficiências de qualquer tipo, por ter cumprido pena ou por qualquer particularidade ou condição. IV. Lei Municipal estabelecerá sanções administrativas à pessoa jurídica que incorrer em qualquer tipo de discriminação. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie, com base na Lei Orgânica do Município de Niterói, se o Município como entidade autônoma e básica da Federação, garantirá vida digna ao seu povo e será administrado com: I. Transparência de seus atos e ações. II. Moralidade. III. Centralização administrativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com a Lei Orgânica do Município de Niterói, compete privativamente ao Município prover os seguintes serviços, à exceção de um, que está errado. Assinale-o.",
       "alternatives": {
         "A": "mercados, feiras e matadouros.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei Orgânica do Município de Niterói estabelece que compete à Câmara Municipal, com sanção do Prefeito, dispor sobre todas as matérias de competência do Município. Avalie se, entre tais matérias, encontram-se: I. Delimitar o perímetro urbano. II. Autorizar a alteração da denominação de próprios, vias e logradouros públicos. III. Aprovar os planos diretores, inclusive o de desenvolvimento urbano integrado. IV. Autorizar a alienação de bens imóveis. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base na Lei Orgânica do Município de Niterói, constituem infrações político-administrativas do Prefeito, entre outras, as seguintes, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Deixar de fazer declaração de bens.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base na Lei Orgânica do Município de Niterói, associe as seguintes entidades dotadas de personalidade jurídica própria que compõem a Administração Indireta do Município com suas respectivas classificações. I. Autarquia. II. Empresa pública. III. Sociedade de economia mista. IV. Fundação pública. ( ) Entidade dotada de personalidade jurídica de direito privado, criada em virtude de autorização legislativa, para o desenvolvimento de atividades que não exijam execução por órgão ou entidades de direito público, com autonomia administrativa, patrimônio próprio, gerido pelos respectivos órgãos de direção, e funcionamento custeado por recursos do Município e outras fontes, para atender às necessidades municipais no campo da assistência e atividades de lazer, esporte, cultura, educação e saúde. ( ) Entidade dotada de personalidade jurídica de direito privado, criada por lei, para exploração de atividades econômicas, sob a forma de sociedade anônima, cujas ações, com direito a voto, pertençam, em sua maioria, ao Município ou à entidade da administração indireta. ( ) Entidade dotada de personalidade jurídica de direito privado, com patrimônio e capital do Município, criada por lei para exploração de atividades econômicas que o Município seja levado a exercer, por força de contingência ou conveniência administrativa, podendo revestir-se de qualquer das formas admitidas em direito. ( ) Serviço autônomo, criado por lei, com personalidade jurídica, patrimônio e receita própria, para executar atividades típicas da administração pública que requeiram, para seu melhor funcionamento, gestão administrativa e financeira descentralizada. A correspondência correta, na ordem dada, é:",
       "alternatives": {
         "A": "4, 3, 2, 1.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com a Lei Orgânica do Município de Niterói, considere os seguintes atos administrativos de competência do Prefeito: I. regulamentação de lei. II. declaração de utilidade pública ou necessidade social, para fins de desapropriação ou de servidão administrativa. III. fixação e alteração de preços. IV. provimento e vacância dos cargos públicos. São atos que devem ser executados por decreto:",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base na Lei Urbanística de Niterói, os parâmetros de parcelamento do solo relativos ao sistema viário incluem os seguintes, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "área máxima das áreas verdes.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O histórico da segurança do trabalho no Brasil é marcado por leis e instituições que se desenvolvem desde o início do século XX até os dias atuais. No entanto, um marco nessa evolução foi a aprovação das Normas Regulamentadoras (NRs) relacionadas à Segurança e à Medicina do Trabalho. Essa aprovação de deu através da:",
       "alternatives": {
         "A": "Lei nº 5.161 de 1966.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Os acidentes de trabalho provocam impactos multidimensionais, que se estendem para além do trabalhador acidentado. Sobre esses efeitos, analise as afirmativas a seguir. I. Para a empresa, os impactos se limitam às despesas imediatas com indenizações e assistência médica. II. Para o trabalhador, podem ocorrer desde limitações físicas e psicológicas até perda de renda e afastamento social. III. Para a família, os efeitos incluem abalo emocional, sobrecarga nos cuidados ao acidentado e possíveis dificuldades financeiras em razão da redução de renda. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Os acidentes muitas vezes resultam da combinação entre atos e condições inseguras de trabalho, ou seja, são multicausais. Desse modo, dentre as alternativas a seguir, assinale aquela que apresenta, nessa ordem, um ato inseguro e uma condição insegura no trabalho:",
       "alternatives": {
         "A": "Nível de ruído elevado; e falta de equipamento de proteção individual.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Um colaborador de determinada empresa veio a óbito imediato em decorrência de acidente de trabalho ocorrido durante o exercício de suas funções. Considerando que o fato aconteceu em 8 de setembro de 2025, uma segunda-feira, a data máxima para a empresa emitir a Comunicação de Acidente de Trabalho (CAT), sem que haja aplicação de penalidade, é:",
       "alternatives": {
         "A": "8 de setembro de 2025.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante a execução de atividades em um canteiro de obras, um trabalhador sofre uma queda de altura moderada, apresentando- se inconsciente no momento do atendimento inicial. Antes da chegada do socorro especializado, um colega de trabalho, treinado em primeiros socorros, deve proceder à avaliação primária do acidentado. Nesse contexto, uma das etapas fundamentais é verificar os sinais vitais, especialmente pulso, temperatura e respiração. Sobre esses sinais, analise as afirmativas a seguir. I. O melhor local para avaliar o pulso do trabalhador nessa condição é o punho. II. A frequência respiratória deve ser avaliada colocando-se a mão sobre o tórax do trabalhador e, para ser considerada normal, deve estar entre 12 e 20 respirações por minuto. III. A temperatura axilar deve estar entre 35,5 °C e 37,0 °C, porém temperaturas mais baixas ou mais altas na pele podem ocorrer, por exemplo, por exposição ao ambiente. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante a execução de serviços de manutenção elétrica em uma indústria, um trabalhador sofre uma parada cardiorrespiratória após receber um choque elétrico. Um colega de trabalho inicia o atendimento de primeiros socorros, realizando massagem cardíaca. Nesse procedimento, o local de aplicação e a frequência das massagens e ventilações são, respectivamente:",
       "alternatives": {
         "A": "Na metade superior do osso esterno, com frequência de 50 a 60 compressões por minuto, com sequências de 10 compressões para 2 ventilações.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante uma auditoria em uma empresa de telemarketing, a equipe de saúde e segurança do trabalho identificou que vários trabalhadores apresentavam sintomas de exaustão extrema, irritabilidade, insônia e queda de rendimento. Após avaliação médica, alguns foram diagnosticados com Síndrome de Burnout, condição incluída na nova Lista de Doenças Relacionadas ao Trabalho (Portaria GM/MS nº 1.999/2023). Essa síndrome é caracterizada por:",
       "alternatives": {
         "A": "Transtorno exclusivamente genético que independe das condições de trabalho.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Durante a produção em uma indústria de montagem eletrônica, diversos operadores realizam movimentos repetitivos com as mãos e os braços, permanecendo longos períodos na mesma postura e realizando tarefas sem pausas suficientes. A equipe de segurança do trabalho precisa avaliar os riscos de LER/DORT (Lesões por Esforços Repetitivos/Distúrbios Osteomusculares Relacionados ao Trabalho). Sobre a LER/DORT, analise as afirmativas a seguir. I. O fator biomecânico determinante e suficiente para caracterização de uma LER/DORT é a repetitividade de uma ação. II. A LER/DORT resulta de atividades dinâmicas e, assim, o trabalho muscular estático (por exemplo, trabalho sentado) não gera LER/DORT. III. Aumenta-se a probabilidade de ocorrência de LER/DORT em trabalhos repetitivos que não variam em ciclos curtos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com relação ao uso e manutenção dos Equipamentos de Proteção Individual (EPI), tanto a organização quanto os trabalhadores têm responsabilidades. Desse modo, correlacione os responsáveis, com as obrigações: (1) Organização (2) Trabalhador ( ) Responsabilizar-se pela higienização e manutenção periódica, quando aplicáveis esses procedimentos, em conformidade com as informações fornecidas pelo fabricante ou importador. ( ) Responsabilizar-se pela limpeza, guarda e conservação ( ) Substituí-lo imediatamente, quando danificado ou extraviado. ( ) Utilizá-lo apenas para a finalidade que se destina. A sequência correta, de cima para baixo, é:",
       "alternatives": {
         "A": "1 – 2 – 2 – 1.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A segurança do trabalho se apoia na utilização de medidas de proteção que podem ser classificadas em Equipamentos de Proteção Individual (EPI) e Equipamentos de Proteção Coletiva (EPC). Assinale a alternativa que apresenta corretamente um exemplo de EPI e um exemplo de EPC, respectivamente:",
       "alternatives": {
         "A": "Óculos de proteção e protetor facial.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "As tubulações devem ser submetidas a inspeções periódicas que devem atender aos prazos máximos da inspeção interna do vaso ou da caldeira mais crítica a elas ligado. No entanto, esse prazo não deve superar o limite máximo de",
       "alternatives": {
         "A": "5 anos.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Um técnico de segurança do trabalho inspeciona um canteiro de obras onde há desníveis entre pisos, dificultando o transporte de materiais e expondo os trabalhadores a risco de queda. De acordo com a NR-18, nesses casos devem ser instaladas escadas ou rampas quando o desnível for superior a",
       "alternatives": {
         "A": "15 cm.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Existem extintores específicos para cada tipo de incêndio. O uso inadequado de um extintor pode colocar vidas em risco ou ser ineficaz no combate ao fogo. A seguir, a coluna da esquerda apresenta alguns tipos de extintores, enquanto a coluna da direita indica os materiais cujos incêndios eles são indicados para combater. (1) Agente saponificante ( ) Equipamentos elétricos (2) Pó químico especial ( ) Alumínio (3) Gás carbônico ( ) Madeira (4) Água ( ) Óleo de cozinha A sequência correta, de cima para baixo, é:",
       "alternatives": {
         "A": "1 – 2 – 3 – 4.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com a NR-9, devem ser tomadas medidas preventivas ou corretivas sempre que os níveis de ação para exposição ocupacional ao calor de um trabalhador excederem os limites estabelecidos. A alternativa que apresenta, nessa ordem, uma medida preventiva e outra corretiva para dirimir a ação nociva do calor nas atividades de um trabalhador é:",
       "alternatives": {
         "A": "Disponibilizar água fresca potável (ou outro líquido de reposição adequado) e incentivar a sua ingestão; e adequar os processos, as rotinas ou as operações de trabalho.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A NR-15 define que o limite de tolerância a um agente físico é a concentração ou intensidade máxima ou mínima, relacionada com a natureza e o tempo de exposição ao agente, que não causará dano à saúde do trabalhador durante a sua vida laboral. Desse modo, considerando que um trabalhador é exposto durante 8 horas diárias a um ruído contínuo de intensidade constante ao longo do tempo, o limite de tolerância para essa intensidade é de",
       "alternatives": {
         "A": "85 dB.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "As atividades humanas resultam em diferentes processos poluidores, que comprometem a qualidade da água consumida pela população. Relacione alguns desses processos, listados a seguir, com suas respectivas definições (1) Assoreamento (2) Contaminação (3) Eutrofização ( ) Introdução de substâncias nocivas à saúde e a espécies da vida aquática ( ) acúmulo de substâncias minerais ou orgânicas ( ) fertilização excessiva da água por recebimento de nutriente A sequência correta dos processos, de cima para baixo, é:",
       "alternatives": {
         "A": "1 – 3 – 2.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O tratamento de efluentes líquidos industriais compreende quatro etapas: tratamento preliminar, primário, secundário e terciário. Dois processos que são realizados no tratamento preliminar são:",
       "alternatives": {
         "A": "Tanque de aeração e adensamento de lodo",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "No processo de coleta seletiva de resíduos sólidos, os recipientes para condicionamento de materiais metálicos são identificados pela cor",
       "alternatives": {
         "A": "azul.",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Ergonomia se divide em diversos ramos de conhecimento. O ramo que se destina ao estudo dos ossos, músculos, ligamentos e tendões, que compõem a “máquina humana”, é denominado de",
       "alternatives": {
         "A": "biomecânica.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em ergonomia, é importante observar alguns fatores para garantir a postura adequada para realização das atividades e evitar doenças relacionadas ao trabalho. Um procedimento que deve ser observado para evitar a fadiga na realização das atividades é:",
       "alternatives": {
         "A": "Evitar torções no tronco.",
@@ -1011,7 +1028,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Existem diversos tipos de organização para controle de perdas em um processo produtivo. Uma característica do tipo de organização “por linha” é concentrar a responsabilidade",
       "alternatives": {
         "A": "a um comitê de trabalho.",
@@ -1028,7 +1045,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Existem diversas técnicas para análises de risco, em função do resultado que se deseja obter com o estudo. A técnica conhecida pela sigla AMFE consiste em",
       "alternatives": {
         "A": "Realizar uma análise lógica e sistemática de um evento muito indesejado, para estimar a probabilidade de sua ocorrência.",
@@ -1045,7 +1062,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Nos equipamentos de guindar, utilizados para elevação de pessoas para realização de trabalhos em altura, a função do liner é de",
       "alternatives": {
         "A": "garantir o isolamento elétrico da cesta.",
@@ -1062,14 +1079,14 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em segurança do trabalho, os ruídos de impacto são aqueles que se caracterizam por",
       "alternatives": {
         "A": "possuírem faixa de frequência muito agudas, sobrepondo-se aos demais ruídos",
         "B": "perturbarem o ambiente de forma contínua, causando perda sistemática de audição.",
         "C": "situarem-se muito próximos ao trabalhador, causando um inconveniente adicional.",
         "D": "ocorrerem de forma não regular, impedindo a previsibilidade na proteção contra o risco.",
-        "E": "apresentarem picos de duração inferior a um segundo e"
+        "E": "apresentarem picos de duração inferior a um segundo e intervalos superiores a um segundo."
       },
       "answer": "E",
       "annulled": false,
@@ -1079,7 +1096,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com relação às Normas Regulamentadoras (NR) de Segurança do Trabalho, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) as normas são aplicáveis tanto para trabalhadores urbanos como rurais. ( ) os exames médicos previstos nas normas são de caráter opcional para o trabalhador. ( ) a proposição de diretrizes e a supervisão das atividades de segurança e saúde do trabalho é de competência da SIT. As afirmativas são, respectivamente:",
       "alternatives": {
         "A": "V – F – F.",
@@ -1096,7 +1113,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em ambientes climatizados, a temperatura máxima estabelecida pela NR-17 para garantir o conforto térmico é de",
       "alternatives": {
         "A": "20 C.",
@@ -1113,7 +1130,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Os aerodispersóides são contaminantes presentes em um ambiente de trabalho em forma de partículas sólidas e líquidas, com tamanho inferior a 100 m. Alguns destes contaminantes são classificados como fibrogênicas quando",
       "alternatives": {
         "A": "alteram a estrutura celular dos alvéolos, restringindo a oxigenação.",
@@ -1130,7 +1147,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em relação às normas de trabalho de iluminação em segurança de trabalho, analise as afirmativas a seguir: I. A unidade de medida de iluminação para ambientes é conhecida pela sigla LUX. II. Quanto mais baixa for a temperatura de uma cor, mais alta é a tonalidade da luz emitida. III. O IRC é um índice utilizado para identificar a capacidade de uma iluminação artificial em reproduzir com precisão as cores dos objetos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
@@ -1147,7 +1164,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Dentre as radiações ionizantes a seguir, as que possuem menor poder de penetração no organismo, causando, portanto, menor risco, são os raios:",
       "alternatives": {
         "A": "Gama e raio-X.",

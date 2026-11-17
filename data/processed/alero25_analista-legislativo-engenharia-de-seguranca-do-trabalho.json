@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Assembleia Legislativa do Estado de Rondônia",
   "cargo_title": "Analista Legislativo Engenharia de Segurança do Trabalho",
   "exam_type": "Tipo 1",
-  "total_questions": 79,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
@@ -236,7 +236,7 @@
         "B": "Sou desastrado em relação aos assuntos de dinheiro; em minha casa, as questões pecuniárias são tratadas por minha mulher.",
         "C": "O cuidado com as armas é uma preocupação militar; as atividades bélicas exigem bom estado delas.",
         "D": "A cor de chumbo fica bem em algumas roupas, mas pouca gente gosta de sapatos plúmbeos.",
-        "E": "Como sou alérgico a leite, não posso ingerir nenhum produto lácteo. Raciocínio Lógico-matemático"
+        "E": "Como sou alérgico a leite, não posso ingerir nenhum produto lácteo."
       },
       "answer": "A",
       "annulled": false,
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Aumentos sucessivos de 30%, 40% e 50% são equivalentes a um único aumento de",
       "alternatives": {
         "A": "120%.",
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Sete bolas iguais, numeradas de 1 a 7, serão colocadas nas caixas A e B. A caixa A deverá conter 4 bolas e a caixa B, 3 bolas, de acordo com as seguintes regras: • As bolas 1 e 2 devem ficar em caixas diferentes. • As bolas 3 e 4 devem ficar na mesma caixa. O número de maneiras diferentes em que essa distribuição pode ser feita é",
       "alternatives": {
         "A": "4.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Há 24 números inteiros com 4 algarismos diferentes, que podem ser formados com os algarismos 3, 4, 6, e 8. Escrevendo esses 24 números em ordem crescente, o 15º número é o",
       "alternatives": {
         "A": "8346.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Em uma urna há apenas bolas amarelas, bolas azuis e bolas verdes. Sabe-se que são 12 bolas amarelas, 8 bolas azuis e que a probabilidade de se sortear aleatoriamente uma bola verde é 2/7. O número de bolas verdes, na urna, é",
       "alternatives": {
         "A": "5.",
@@ -314,14 +314,14 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Um grupo de estudantes está sentado ao redor de uma grande mesa circular. Uma cesta contendo 125 balas é entregue à Bruna, uma das estudantes, que pega uma bala e passa a cesta para o próximo estudante no sentido horário. Cada estudante que recebe a cesta pega uma bala e passa para o próximo estudante no sentido horário, até as balas acabarem. Sabe-se que Bruna foi a estudante que pegou a primeira (como já dito) e também a última bala. O número de estudantes sentados ao redor da mesa pode ser igual a",
       "alternatives": {
         "A": "17.",
         "B": "21.",
         "C": "24.",
         "D": "31.",
-        "E": "42. Noções de Informática"
+        "E": "42."
       },
       "answer": "D",
       "annulled": false,
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma sessão ordinária, na Assembleia Legislativa de Rondônia (ALE-RO), um Analista Legislativo precisa conectar seu notebook a um projetor multimídia na Tribuna para apresentar uma emenda e, ao mesmo tempo, conectar um disco externo contendo um backup de segurança dos documentos da propositura. O notebook possui apenas uma porta USB-A, uma porta HDMI e uma porta de rede (RJ-45). O projetor requer conexão HDMI, e o disco externo usa cabo USB-A. Nesse caso, o dispositivo de hardware, que permitiria ao analista realizar ambas as conexões simultaneamente com o notebook descrito, utilizando suas portas disponíveis, é um",
       "alternatives": {
         "A": "cabo conversor de HDMI para VGA.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma reunião de apresentação de dados, um Analista Legislativo da ALE-RO precisa alternar rapidamente entre uma planilha do Excel maximizada, um relatório no MS Word 365 (BR) e o navegador de internet, sem usar o mouse. Ele também precisa, em determinado momento, minimizar todas as janelas de uma vez para acessar um atalho na Área de Trabalho. Nesse caso, os atalhos de teclado do Windows 10 (BR) que atendem às necessidades de alternar janelas entre programas abertos e minimizar todas as janelas, são, respectivamente,",
       "alternatives": {
         "A": "Alt + F4 e Windows + D.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Um Analista Legislativo da ALE-RO precisa enviar uma correspondência oficial para 50 destinatários diferentes. Ele possui um documento base no MS Word 365 (BR) (carta-padrão) e uma lista no Excel com os nomes, cargos e endereços dos destinatários. Ele quer automatizar a criação de 50 cartas personalizadas, uma para cada pessoa da lista, sem ter que copiar e colar manualmente cada informação. Nesse caso, o recurso do MS Word 365 (BR) que deve ser utilizado para realizar essa tarefa de forma automatizada, mesclando dados do Excel com um documento base, é",
       "alternatives": {
         "A": "“Controlar Alterações”, na guia Revisão.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma reunião no Google Meet, para discutir um projeto de lei, um Analista Legislativo da ALE-RO precisa apresentar uma proposta escrita no Google Documentos. Ele deseja que os participantes não apenas vejam a tela, mas também possam, com sua permissão, fazer anotações ou editar diretamente o documento durante a discussão, sem sair da chamada do Google Meet. Para atender a essa necessidade de apresentação com interatividade total, durante a reunião, o Analista Legislativo deve",
       "alternatives": {
         "A": "compartilhar toda a sua tela (a janela do navegador).",
@@ -399,14 +399,14 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "O setor de TI da ALE-RO está implementando uma nova política de segurança. Além de exigir senhas fortes, ele quer adicionar uma camada extra de proteção ao acesso dos sistemas, especialmente para os servidores que contêm dados fiscais sensíveis. O objetivo é que, mesmo que uma senha seja comprometida, um invasor não consiga acessar a conta sem outra forma de validação. Considerando o objetivo de adicionar uma camada extra de proteção que vá além da senha, a medida de segurança mais adequada a ser implementada é",
       "alternatives": {
         "A": "exigir que todas as senhas sejam alteradas a cada 15 dias.",
         "B": "instalar um antivírus de última geração em todas as estações de trabalho.",
         "C": "implementar a Autenticação de Dois Fatores (2FA).",
         "D": "exigir que as senhas tenham no mínimo 25 caracteres.",
-        "E": "configurar o Firewall para bloquear todo o acesso à internet. Legislação Específica"
+        "E": "configurar o Firewall para bloquear todo o acesso à internet."
       },
       "answer": "C",
       "annulled": false,
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi solicitada, a uma Secretaria do Poder Executivo do Estado de Rondônia, a cedência de João, servidor ocupante de cargo de provimento efetivo no âmbito da referida estrutura orgânica. Ao ser consultado em relação ao requerimento apresentado, João analisou o Regime Jurídico dos Servidores Públicos Civis do Estado de Rondônia, tendo concluído corretamente que",
       "alternatives": {
         "A": "não poderá progredir na carreira durante o período de cedência.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Maria, servidora ocupante de cargo de provimento efetivo na Assembleia Legislativa do Estado de Rondônia, decidiu requerer a percepção do adicional de responsabilidade técnica (ADRT), por ter preenchido os requisitos exigidos pela Lei Complementar nº 731/2013. À luz dos balizamentos estabelecidos pela sistemática legal, é correto afirmar que Maria",
       "alternatives": {
         "A": "deve exercer a atividade técnica de Engenharia.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Em um processo administrativo que tramitou no âmbito da Assembleia Legislativa do Estado de Rondônia, o legítimo interessado obteve êxito em sua pretensão, no plano recursal, após percorrer o número máximo de instâncias previsto na Lei nº 3.830/2016, manejando os instrumentos legais cabíveis. Na situação descrita, considerando a sistemática legal vigente, é correto afirmar que",
       "alternatives": {
         "A": "o recurso administrativo teve efeito suspensivo, salvo disposição legal ou regulamentar em contrário.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Determinada estrutura orgânica da Assembleia Legislativa do Estado de Rondônia, ao identificar a necessidade de serem adquiridos materiais de escritório, constatou a existência de ata de registro de preços, no âmbito de certa estrutura federal, que apresentava condições vantajosas, admitia adesões e abrangia a integralidade dos materiais a serem adquiridos. Nesse caso, à luz da sistemática estabelecida na Resolução ALE/RO nº 593/2024, é correto afirmar que",
       "alternatives": {
         "A": "é necessária a elaboração de termo de referência pelo setor requisitante, detalhando os materiais a serem adquiridos, seu valor de mercado e as razões da vantajosidade da adesão.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi instaurado, no âmbito da Assembleia Legislativa do Estado de Rondônia, expediente cujo objetivo é o de instar a iniciativa privada a propor uma solução inovadora que contribua para a resolução de determinada demanda de relevância pública, o que permitirá a melhor instrução da etapa de planejamento da contratação. À luz da sistemática estabelecida na Resolução ALE/RO nº 593/2024, é correto afirmar que esse procedimento",
       "alternatives": {
         "A": "é o credenciamento.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Determinada estrutura administrativa da Administração Pública estadual começou a adotar as medidas necessárias com o objetivo de realizar licitação visando à contratação de obra pública. Nesse momento, foi concluído o documento que contém os levantamentos topográficos e o conjunto de elementos necessários e suficientes para definir e dimensionar a obra, de modo a assegurar a sua viabilidade técnica, o tratamento do impacto ambiental, a avaliação do custo e o prazo de execução, mas não a identificação de serviços, materiais e equipamentos a serem incorporados à obra, com suas especificações técnicas. O documento referido é o",
       "alternatives": {
         "A": "anteprojeto.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Pedro, servidor público ocupante de cargo efetivo na Administração Pública do Estado de Rondônia, foi condenado, no início do corrente mês, em sentença proferida por juízo monocrático, pela prática de ato de improbidade administrativa tipificado no Art. 11 da Lei nº 8.429/1992. Na situação descrita, é correto afirmar que",
       "alternatives": {
         "A": "a conduta de Pedro pode ter sido praticada com dolo ou culpa.",
@@ -535,14 +535,14 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi constatado que determinada estrutura de poder da Administração Pública estadual promoveu o tratamento de informações afetas a certo grupo de pessoas naturais e jurídicas, com total inobservância da sistemática estabelecida na legislação de regência. Considerando os balizamentos estabelecidos pela Lei nº 12.257/2011, é correto afirmar que esse diploma normativo",
       "alternatives": {
         "A": "somente dispõe sobre direitos e deveres, não incursionando na temática da responsabilização.",
         "B": "tipificou uma infração disciplinar para o servidor público que concorreu à prática do ilícito.",
         "C": "versa sobre a responsabilização pelos danos causados às pessoas naturais na situação descrita, não incursionando na temática das pessoas jurídicas.",
         "D": "consagra a possibilidade de responsabilização civil direta do servidor público que concorreu para a prática do ilícito, de modo solidário com a pessoa jurídica.",
-        "E": "admite a responsabilização direta do órgão ou da entidade pública, reconhecendo a apuração da responsabilidade funcional em caso de dolo ou culpa, assegurando o direito de regresso. História e Geografia de Rondônia"
+        "E": "admite a responsabilização direta do órgão ou da entidade pública, reconhecendo a apuração da responsabilidade funcional em caso de dolo ou culpa, assegurando o direito de regresso."
       },
       "answer": "E",
       "annulled": false,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A ocupação colonial da Amazônia, nos séculos XVII e XVIII, articulou estratégias militares, administrativas, religiosas e econômicas, para afirmar a soberania portuguesa, explorar recursos e controlar populações indígenas, sendo os rios Amazonas, Madeira, Guaporé e Mamoré decisivos para a incorporação da região ao Império Português. Sobre as bases da ocupação colonial da Amazônia e seus desdobramentos na região que hoje corresponde ao estado de Rondônia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Entre 1580-1640, a ocupação militar portuguesa concentrou- se nas regiões de fronteira entre a América Portuguesa e a Espanhola, tal como delimitado pelo Tratado de Tordesilhas, o que retardou a presença lusa na Amazônia.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Estrada de Ferro Madeira Mamoré (EFMM) foi o primeiro grandioso processo de desenvolvimento para a Amazônia Ocidental, potencializando um significativo fluxo humano para a região de Porto Velho e Guajará-Mirim. Por isso, é comum encontrar nos escritores regionais rondonienses a afirmativa de que a história de Rondônia se confunde, de tão próxima, com a própria história da EFMM. E eles têm razão ao fazerem isso. Adaptado de CAVALCANTE, Fábio Robson Casara. Formação Institucional e Desenvolvimento Regional no Estado do Rondônia. In: SILVA, Fábio Carlos e RAVENA, Nírvia. (Orgs.). Formação Institucional da Amazônia. Belém: Editora do NAEA, 2015, p 400-401. Ao analisar a formação histórica da região que corresponde ao atual estado de Rondônia, o autor enfatiza que a Estrada de Ferro Madeira-Mamoré (EFMM)",
       "alternatives": {
         "A": "teve impacto no escoamento da produção agrícola regional e na concentração populacional, sobretudo de trabalhadores africanos utilizados para construção da ferrovia.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sem dúvida alguma, o número de negros escravos entrados na Amazônia colonial foi bem menor que aquele introduzido no Nordeste, contudo, a questão que se coloca não é a de inverter as cifras do tráfico negreiro ou a de se comprovar que a Amazônia, enquanto região cultural é tão ou mais africana do que o Nordeste Agrário do Litoral. Trata-se, isso sim, de se duvidar do “vazio humano” (no caso, a presença africana) com o qual sempre se caracterizou a região. Adaptado de VERGOLINO-HENRY, Anaíza; FIGUEIREDO, Napoleão. A presença africana na Amazônia colonial: uma notícia histórica, Belém: Arquivo Público do Pará, 1990. p. 31. A respeito da formação social da Amazônia colonial e da presença africana na região, é correto informar que a interpretação do autor, no trecho apresentado,",
       "alternatives": {
         "A": "questiona a caracterização da sociedade colonial amazônica com base em dados quantitativos, pois esse procedimento oculta ou minimiza os papéis representados pela população de origem africana em solo Amazônico.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com base no processo de transformação econômica do Território Federal do Guaporé (atual Rondônia), no período posterior ao segundo ciclo da borracha, analise as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) Após o segundo ciclo da borracha, impulsionado pela Segunda Guerra Mundial, a economia de Rondônia retornou a um padrão de relativa estagnação, sustentado principalmente por atividades extrativistas tradicionais, como a borracha, a castanha, a poaia, peles de animais e óleos vegetais. ( ) A descoberta de diamantes no rio Ji-Paraná, no início dos anos 1950, nas proximidades da antiga Vila de Rondônia, estimulou a chegada de aventureiros oriundos sobretudo da região Centro-Oeste, atraídos pela exploração mineral no Território do Guaporé. ( ) A cassiterita, conhecida na região desde os anos 1930, teve exploração limitada em Rondônia, em razão da retração da demanda internacional por estanho, ocorrida a partir da década de 1970, quando a China se consolidou como principal produtora mundial do minério. ( ) O fechamento da lavra manual da cassiterita, em 1971, esteve associado principalmente à crescente preocupação do Estado com os impactos ambientais do garimpo, levando à adoção de medidas de proteção ecológica e de ordenamento sustentável da atividade mineradora em Rondônia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F – F.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A rede hidrográfica de Rondônia faz parte, num contexto mais amplo, da grande Bacia do Rio Madeira e é, localmente, formada pelas bacias tributárias dos rios Guaporé, Mamoré, Alto Madeira, Abunã, Jamari, Machado ou Ji-Paraná, e Roosevelt. Considerando a geografia de Rondônia e a organização da rede hidrográfica integrante da Bacia do rio Madeira, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O rio Guaporé nasce na Chapada dos Parecis (Mato Grosso) e deságua no rio Mamoré, (Rondônia) e, a partir de seu médio curso, ele representa a fronteira entre o Brasil e a Bolívia.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Segundo o IBGE, os povos e comunidades tradicionais são grupos culturalmente diferenciados, que possuem próprias formas próprias de organização social e mantêm relação direta e histórica com territórios e recursos naturais, indispensáveis à sua reprodução cultural, social, religiosa, ancestral e econômica, com base em conhecimentos, práticas e saberes transmitidos pela tradição. Em Rondônia, dentre esses grupos etnicamente diferenciados, destacam-se: (1) os que vivem às margens dos rios Madeira, Guaporé, Mamoré, Ji-Paraná, Jamari e seus afluentes, cujo modo de vida está associado à pesca artesanal, à agricultura de várzea, ao extrativismo vegetal e ao uso dos rios como principal via de transporte e sociabilidade; (2) os descendentes de migrantes nordestinos e amazônicos, que se fixaram na região durante os ciclos da borracha, atuam na extração de látex, castanha-do-brasil, óleos vegetais (andiroba, copaíba) e outros produtos florestais não madeireiros, especialmente em reservas extrativistas. Os grupos descritos nos itens (1) e (2) exemplificam, respectivamente,",
       "alternatives": {
         "A": "povos indígenas e ribeirinhos.",
@@ -653,15 +653,32 @@
       "page_number": 10
     },
     {
+      "question_number": 39,
+      "discipline": "História e Geografia de Rondônia",
+      "statement": "O processo de instalação da Assembleia Legislativa de Rondônia (ALE-RO) por meio da promulgação da Constituição de 1983 foi fundamental na transição de antigo Território Federal para a condição de estado-membro da Federação brasileira. A respeito da conjuntura política relativa à criação da ALE-RO, avalie as afirmativas a seguir. I. A Lei Complementar nº 41/1981 foi o instrumento jurídico que elevou o antigo Território Federal à categoria de Estado e foi sancionada pelo então presidente, João Figueiredo. O governo militar buscava garantir maior representatividade no Congresso Nacional. A criação de Rondônia permitiria a eleição de três senadores e oito deputados federais, com a expectativa de que o PDS, partido de sustentação do regime, vencesse o pleito de 1982. II. Apesar do esforço do PDS na criação do novo Estado e de sua Assembleia Legislativa, o partido saiu derrotado nas eleições executivas e legislativas estaduais de 1982 em Rondônia, sobretudo em função do movimento pela reconquista da democracia, com forte atuação da oposição organizada ao redor do PMDB e do PDT. III. A nova dinâmica da competição eleitoral no recém-criado estado de Rondônia alterou a composição das elites políticas e a própria configuração do sistema partidário, entre as décadas de 1980 e 1990, com a substituição da antiga elite política territorial, com bases na capital Porto Velho, para uma nova classe política dominante, oriunda majoritariamente do interior do estado, especificamente no eixo da BR-364 e associada ao PMDB. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/alero25_analista-legislativo-engenharia-de-seguranca-do-trabalho_q39.png",
+      "page_number": 10
+    },
+    {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre o processo de formação histórica e político-administrativa do atual estado de Rondônia ao longo do século XX, assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "A região onde hoje se localiza Rondônia foi marcada por sucessivos processos de colonização e povoamento ao longo do século XX, intensificados por políticas estatais de ocupação e integração territorial.",
         "B": "O Território Federal do Guaporé foi criado em 1943, durante o Estado Novo, incorporando áreas que anteriormente pertenciam aos estados do Mato Grosso e do Amazonas.",
         "C": "Em 1956, o Território Federal do Guaporé passou a denominar- se Território Federal de Rondônia, em homenagem ao Marechal Cândido Mariano da Silva Rondon.",
         "D": "A transformação de Rondônia em estado ocorreu em 1982, no contexto final do regime militar, encerrando um período de quase quatro décadas como território federal.",
-        "E": "O surgimento de Porto Velho como município se deu em função de sua elevação a capital do Território Federal do Guaporé, no segundo Governo Vargas. MÓDULO II Conhecimentos Específicos"
+        "E": "O surgimento de Porto Velho como município se deu em função de sua elevação a capital do Território Federal do Guaporé, no segundo Governo Vargas."
       },
       "answer": "E",
       "annulled": false,
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com a NR 29, a Comissão de Prevenção de Acidentes no Trabalho Portuário (CPATP) será constituída de forma paritária, por representantes dos trabalhadores portuários avulsos, dos operadores portuários e dos tomadores de serviço integrantes do OGMO (Órgão Gestor de Mão de Obra), com duração de dois anos. Assim, na formação da CPATP, os representantes dos operadores portuários e tomadores de serviço designarão, dentre seus representantes titulares, o",
       "alternatives": {
         "A": "presidente da CPATP durante os dois anos.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com a NR-29 (Segurança e Saúde no Trabalho Portuário), os membros da Comissão de Prevenção de Acidentes no Trabalho Portuário (CPATP) devem receber treinamento específico, com conteúdo compatível com as atividades desenvolvidas no porto organizado. A carga horária mínima desse treinamento deve ser de",
       "alternatives": {
         "A": "8 horas, devendo ser realizado antes da posse dos membros.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Para fins de dimensionamento do Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho (SESMT), devem ser considerados dados relativos à força de trabalho portuária do ano civil anterior. Em determinado porto organizado, foram registrados os seguintes dados: • 72.000 trabalhadores portuários avulsos tomados ao longo do ano; • 300 dias efetivamente trabalhados; • 180 empregados portuários com vínculo empregatício (média anual). Com base na NR-29, a base de cálculo a ser utilizada para o dimensionamento do SESMT é igual a",
       "alternatives": {
         "A": "360.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A NR 29 estabelece a necessidade de se realizarem inspeções de segurança das instalações de operadores portuários que exploram áreas no porto organizado e de titulares de instalações portuárias autorizadas. A inspeção dos trabalhadores dessas instalações deve ser realizada pela(o)",
       "alternatives": {
         "A": "CIPA.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante uma auditoria interna em uma planta industrial, um Engenheiro de Segurança do Trabalho observa que determinados trabalhadores da área de manutenção estão utilizando protetores auditivos que não possuem a marcação do número do Certificado de Aprovação (CA) gravada no equipamento, embora a nota fiscal de compra indique que o produto é certificado. Além disso, a empresa fornece os EPIs, mas não exige que os trabalhadores assinem qualquer documento no momento da entrega, alegando que o registro é feito por meio de biometria na entrada do almoxarifado. Com base nas disposições da NR 06, avalie as seguintes condutas e as responsabilidades: I. O fabricante ou importador tem a obrigação de comercializar o EPI com a marcação indelével do número do CA e do nome do fabricante. II. A guarda e conservação do EPI após a entrega são responsabilidade exclusiva da organização (empregador). III. A organização deve registrar o fornecimento do EPI ao trabalhador, podendo adotar livros, fichas ou sistemas eletrônicos, inclusive sistemas biométricos. Está correto o que se apresenta apenas em",
       "alternatives": {
         "A": "I.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um setor de usinagem com nível de ruído acima do nível de ação, foram propostas as seguintes medidas de controle: 1. Instalação de barreiras acústicas e enclausuramento de máquinas. 2. Fornecimento de protetores auditivos. 3. Substituição de componentes para reduzir o ruído na fonte. Com base nas normas regulamentadoras e na hierarquia das medidas de controle por meio de equipamentos de proteção individual (EPI) e coletiva (EPC) é correto afirmar que",
       "alternatives": {
         "A": "as medidas 1 e 3 são EPC, e a medida 2 é EPI, devendo o EPI ser priorizado por menor custo.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante uma auditoria em uma planta petroquímica, um engenheiro de segurança do trabalho avalia as atividades de um técnico de manutenção mecânica. Esse trabalhador acessa diariamente, por períodos curtos, a área de bombas e válvulas que operam com líquidos inflamáveis, permanecendo no local apenas para inspeções e pequenos ajustes, sem realizar suas atividades ali de forma contínua. Assim, considerando o disposto na NR 16, essa atividade",
       "alternatives": {
         "A": "somente caracteriza periculosidade se houver ocorrência efetiva de vazamento ou incêndio.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No setor administrativo de uma empresa, trabalhadores realizam suas atividades sentados, utilizando computador, com uso contínuo de teclado e mouse, postura estática prolongada e pausas insuficientes, passando a relatar dores nos ombros, nos punhos e na região cervical. Considerando essa atividade, avalie as medidas a seguir. 1. Garantir que a linha superior da tela do monitor ou do notebook esteja ao nível dos olhos, evitando flexão ou extensão cervical. 2. Ao sentar-se, alternar a distribuição do peso corporal, cruzando as pernas em intervalos regulares. Assim, evita-se a sobrecarga das articulações. 3. Mantenha o quadril e os joelhos alinhados, em uma flexão de 120 graus, assim como os cotovelos, que devem formar o mesmo ângulo em relação ao braço da cadeira ou à mesa. Entre essas medidas, aquela(s) eficiente(s) para a prevenção de LER/DORT é (são) apenas a(s) medida(s)",
       "alternatives": {
         "A": "1.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com a NR-17, as microempresas (ME) e as empresas de pequeno porte (EPP) com grau de risco 1 e 2 não são obrigadas a realizar a Análise Ergonômica do Trabalho (AET) da situação de trabalho de seus funcionários. Entretanto, essa desobrigação não se aplica em determinadas situações. Assinale a opção que apresenta apenas condições que tornam obrigatória a realização da AET por ME e EPP com grau de risco 1 e 2.",
       "alternatives": {
         "A": "Exercício de atividades administrativas com uso de computador / Observação de pausas insuficientes ao longo da jornada.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A NR 17 estabelece que, nos ambientes internos de locais de trabalho onde são executadas atividades que exijam manutenção da solicitação intelectual e atenção constante, devem ser adotadas medidas de conforto acústico e térmico. No que diz respeito ao conforto térmico, o parâmetro de faixa de temperatura do ar para ambientes climatizados deve ser entre",
       "alternatives": {
         "A": "16 e 20 °C.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um pequeno canteiro de obras, com 5,0 m de altura, emprega 8 operários. No entanto, a NR 18 estabelece que são obrigatórias a elaboração e a implementação do PGR mesmo nesses canteiros, contemplando os riscos ocupacionais e suas respectivas medidas de prevenção. Considerando as características dessa obra, e exclusivamente o exposto na NR 18, seu PGR pode ser elaborado",
       "alternatives": {
         "A": "por técnico de segurança do trabalho e implementado sob responsabilidade da organização.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com a NR 18, a adoção de soluções alternativas às medidas de proteção coletiva previstas é facultada às empresas construtoras, desde que, por exemplo, essas medidas propiciem avanços tecnológicos em segurança, higiene e saúde dos trabalhadores. Para que tais soluções alternativas possam ser adotadas, a norma estabelece que elas devem estar sob responsabilidade",
       "alternatives": {
         "A": "da construtora, desde que previstas no PGR e acompanhadas por registros internos de controle.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "As rotas de saída de emergência são percorridas no abandono de um edifício ou de uma área de risco, em situações como incêndio, explosão, vazamento de gás, desabamento ou pânico. Adicionalmente, devem ser vencidas com rapidez e segurança. Para tanto, desconsiderando a presença de obstáculos representados por vigas, vergas de portas e outros, o pé-direito mínimo a ser mantido nessas rotas de saída deve ser de",
       "alternatives": {
         "A": "2,10 m.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante uma inspeção de segurança em uma indústria metalúrgica, o engenheiro de segurança do trabalho identificou os seguintes riscos de incêndio nos ambientes abaixo: • Área 1: armazenamento de papel, madeira e embalagens. • Área 2: sala de painéis elétricos energizados. • Área 3: oficina com óleos lubrificantes e solventes inflamáveis. • Área 4: setor de usinagem com presença de magnésio e de alumínio em pó. Considerando as classes de incêndio e os agentes extintores adequados, assinale a opção que apresenta a associação correta entre o risco identificado e o tipo de extintor recomendado.",
       "alternatives": {
         "A": "Área 1 – Espuma | Área 2 – Espuma | Área 3 – CO₂ | Área 4 – Água.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A construção de um shopping center é executada por 600 operários, que se revezam em dois turnos de trabalho, com a mesma quantidade em cada turno. Ao engenheiro de segurança do trabalho contratado para verificar as condições sanitárias e de conforto desses operários, foram feitas as seguintes afirmativas pela equipe técnica do projeto: I. o deslocamento do trabalhador do seu posto de trabalho até a instalação sanitária mais próxima deve ser, no máximo, de 150 m; II. devem ser instaladas, no mínimo, 40 bacias sanitárias sifonadas, dotadas de assento com tampo; III. o fornecimento de água potável deve ser garantido de modo que, do posto de trabalho ao bebedouro ou ao dispositivo equivalente, não haja deslocamento superior a 50 m no plano horizontal. A equipe técnica está correta no que afirma apenas em",
       "alternatives": {
         "A": "I.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um engenheiro de segurança do trabalho foi convocado para avaliar as condições de conforto em um estabelecimento industrial onde trabalham 300 funcionários, em turno único. Sabendo que há distribuição de água potável para o estabelecimento, a disponibilidade de água prevista na NR 24 para esses funcionários é atendida com a instalação de, no mínimo,",
       "alternatives": {
         "A": "3 bebedouros.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A sinalização de segurança utiliza diversas cores para identificar e advertir sobre riscos. Desse modo, relacione as cores apresentadas na coluna à esquerda às suas respectivas utilizações indicadas na coluna à direita. 1. Laranja 2. Azul 3. Violeta ( ) Indica perigos decorrentes de radiações penetrantes e partículas nucleares. ( ) Utilizada em sinais de ação obrigatória. ( ) Utilizada para indicar “perigo”, podendo ser utilizada na pintura completa ou com contraste. A associação correta, na ordem dada, é",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Os componentes dos sistemas de sinalização de segurança fotoluminescente em edificações devem ser inspecionados visualmente por um técnico competente e limpos com o objetivo de garantir a sua operacionalidade em situação de emergência. De acordo com as normas técnicas aplicáveis, essa inspeção deve ocorrer, no mínimo, a cada",
       "alternatives": {
         "A": "3 meses.",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a investigação de um acidente em que um operador de empilhadeira colidiu contra uma estrutura de armazenagem, o Engenheiro de Segurança do Trabalho aplicou o Método da Árvore de Causas (ADC) para organizar os fatos levantados, incluindo falha no sistema de freios por ausência de manutenção preventiva, inexistência de treinamento de reciclagem do operador e presença de óleo no trajeto devido a vazamento não reportado. De acordo com o Método da Árvore de Causas, o procedimento adotado para a construção da análise do acidente é",
       "alternatives": {
         "A": "encerrar a investigação após a identificação do primeiro erro humano associado ao evento.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante uma fiscalização previdenciária em uma empresa do setor industrial, o auditor solicitou a apresentação do Perfil Profissiográfico Previdenciário (PPP) de diversos empregados expostos a agentes físicos e químicos. O engenheiro de segurança do trabalho da empresa foi acionado para verificar a conformidade do documento, especialmente quanto ao seu conteúdo técnico, à responsabilidade pela sua elaboração e à finalidade previdenciária. Considerando a legislação previdenciária vigente e as atribuições do engenheiro de segurança do trabalho, avalie as afirmativas a seguir sobre o Perfil Profissiográfico Previdenciário (PPP). I. O PPP é um documento opcional, exigido apenas quando o empregado solicita aposentadoria especial junto ao INSS. II. O PPP deve conter informações administrativas, registros ambientais e resultados de monitoração biológica, sendo elaborado com base em documentos, como o LTCAT, e mantido atualizado pela empresa. III. O PPP deve ser elaborado exclusivamente por médico do trabalho, sendo vedada a participação do engenheiro de segurança do trabalho na sua emissão. Está correto o que se afirma apenas em",
       "alternatives": {
         "A": "I.",
@@ -1011,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O antigo PPRA – Programa de Prevenção de Riscos Ambientais - PPRA foi incorporado ao PGR – Programa de Gerenciamento de Riscos. Com relação ao PGR, avalie as afirmativas a seguir e assinale V para a afirmativa verdadeira e F para a falsa. ( ) A avaliação dos riscos do PGR pode ser revista a cada três anos para organizações que possuam certificação em sistema de gestão de SST. ( ) O inventário de Riscos Ocupacionais é o documento onde se estabelecem as medidas para eliminar, reduzir ou controlar os riscos ocupacionais. ( ) O Microempreendedor Individual – MEI está dispensado de elaborar o PGR. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -1028,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O PCA – Programa de Controle Auditivo – estabelece que todo usuário de protetor auditivo deve ser submetido a um ensaio para determinar se o equipamento selecionado está funcionando de maneira adequada. Essa avaliação é denominada de ensaio de",
       "alternatives": {
         "A": "acuidade sonora.",
@@ -1045,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O Programa de Proteção Respiratória (PPR) prevê as figuras do empregador, do administrador e do empregado desse programa em uma empresa. As funções do administrador do programa incluem",
       "alternatives": {
         "A": "providenciar recursos adequados para garantir a eficácia do PPR, avaliar anualmente a eficácia do programa e investigar as causas de mau funcionamento do respirador.",
@@ -1062,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "As normas regulamentadoras estabelecem que o Prontuário de Instalações elétricas deve conter, entre outros itens, informações referentes a inspeções, medições de sistema de proteção contra descargas atmosféricas, documentação dos treinamentos realizados e certificações dos equipamentos e materiais elétricos em áreas classificadas. Esse prontuário é obrigatório para estabelecimentos com carga instalada superior a",
       "alternatives": {
         "A": "75 kW.",
@@ -1079,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um dos efeitos fisiológicos diretos da eletricidade é a tetanização, que é causada por",
       "alternatives": {
         "A": "corrente atravessando o tórax.",
@@ -1096,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em relação às normas para transporte, movimentação, armazenagem e manuseio de materiais, avalie as situações descritas a seguir. I. Um determinado operador de transporte motorizado está portando um cartão de identificação emitido há 14 meses. II. Um empregador realizou, sozinho, um transporte manual de um saco por uma distância de 50 metros. III. Em um processo de empilhamento não mecanizado, foi utilizada uma escada removível de madeira com altura de 2,25 metros em relação ao solo. Assinale a opção que indica o conjunto de situações que violaram as normas.",
       "alternatives": {
         "A": "I, apenas.",
@@ -1113,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A tabela a seguir mostra os limites de tolerância para alguns níveis de ruído contínuo ou intermitente, regulamentados pela NR-15 Em determinado dia, um trabalhador ficou exposto durante 10 minutos a um ruído de 108dB, e em seguida durante 15 minutos a um ruído de 102 dB. Caso ele tenha que realizar, no mesmo dia, um trabalho exposto a um ruído de 90 decibéis, o tempo máximo que ele pode permanecer nesse trabalho, de acordo com os limites permitidos em norma, é de",
       "alternatives": {
         "A": "20 minutos.",
@@ -1130,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O índice utilizado pelas normas regulamentadores do trabalho para avaliação da exposição ao calor é conhecido pela sigla",
       "alternatives": {
         "A": "ET.",
@@ -1147,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A forma fibrosa dos silicatos minerais pertencentes aos grupos de rochas metamórficas das serpentinas, e que é utilizada como referência para estabelecimento dos limites de tolerância para poeiras mineiras na NR-15, é denominada de",
       "alternatives": {
         "A": "calcita.",
@@ -1164,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Os agentes de risco podem ser classificados como físicos, químicos e biológicos. Um agente que pode ser classificado como físico são",
       "alternatives": {
         "A": "as poeiras.",
@@ -1181,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com relação ao trabalho em condições de insalubridade, e de acordo com as normas regulamentadoras, avalie as afirmativas a seguir e assinale V para a afirmativa verdadeira e F para a falsa. ( ) A neutralização de uma condição de insalubridade determina a cessação do pagamento do adicional relacionado a essa condição. ( ) No caso de trabalho sob mais de um fator de insalubridade, será considerada, para efeito de acréscimo salarial, a soma dos percentuais associados a cada fator ( ) A utilização de um equipamento de proteção individual adequado estabelece a eliminação de uma condição de insalubridade. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -1198,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A perda auditiva pelo ruído, normalmente, é produzida pela exposição do trabalhador a ambientes ruidosos (de caráter progressivo) e manifesta-se após muitos anos de exposição. Peixoto, Ferreira, “Higiene Ocupacional I”, rede-e-Tec, 2012 Relacione as três classificações de ruídos listadas a seguir, com suas respectivas definições: 1. Contínuos 2. Impulsivos 3. Intermitentes ( ) A variação de nível de intensidade sonora é muito pequena em função do tempo. ( ) Apresentam grandes variações de nível em função do tempo. ( ) Apresentam altos níveis de intensidade sonora, num intervalo de tempo muito pequeno. A sequência correta das classes de ruídos, na ordem apresentada, é:",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -1215,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um trabalhador esteve exposto a uma aceleração resultante de vibração de corpo inteiro de 1m/s2, em uma jornada diária de trabalho de duas horas. A Aceleração Resultante de Exposição Normalizada (AREN) desse trabalhador é de",
       "alternatives": {
         "A": "0,20 m/s2.",
@@ -1232,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em determinado laboratório sujeito a um gerenciamento para proteção radiológica, foi feita a seguinte classificação para duas áreas: • Área I: controlada • Área II: supervisionada Para fins práticos, essa distinção significa que, atualmente,",
       "alternatives": {
         "A": "a área I necessita adotar medidas específicas de proteção e segurança quanto à exposição para radiações, enquanto a área II não necessita de tais medidas.",
@@ -1249,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um trabalhador, ao ser submetido a um trabalho sob ar-comprimido, adquiriu uma embolia. Nessa situação, o trabalhador deve ser direcionado para uma",
       "alternatives": {
         "A": "campânula.",
@@ -1266,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Entre uma das medidas de prevenção aos riscos ocupacionais a agentes físicos, químicos e biológicos, cita-se a(o)",
       "alternatives": {
         "A": "avaliação periódica da exposição.",
@@ -1283,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um trabalhador está operando sob ambiente confinado. Um aparelho adequado para medir o principal risco ao qual ele está submetido é o(a)",
       "alternatives": {
         "A": "luxímetro.",
@@ -1300,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O mapa de riscos em determinado ambiente possui predominância da cor vermelha. Isso indica que o principal tipo de risco a que os trabalhadores deste ambiente estão submetidos é o risco",
       "alternatives": {
         "A": "físico.",
@@ -1317,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Para a elaboração de um programa de gerenciamento de riscos, a ordem em que as macroetapas a seguir deve ser executada é",
       "alternatives": {
         "A": "avaliação dos riscos, controle dos riscos e identificação dos perigos.",
@@ -1334,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um plano de ação para tratamento dos riscos ocupacionais em um ambiente de trabalho, as possíveis ações devem ser executadas na seguinte ordem, da mais efetiva para a menos efetiva:",
       "alternatives": {
         "A": "substituição, eliminação, controle administrativo, EPI e controle de engenharia.",

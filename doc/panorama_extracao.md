@@ -1,81 +1,64 @@
-# Panorama Geral da Extração — FGV Conhecimento
+# Panorama Geral da Extração e Auditoria de Veracidade — FGV Conhecimento
 
-Este documento consolida o diagnóstico técnico completo da coleta (`crawler`) e do processamento (`parser`) das provas objetivas (**Tipo 1 / Branca**) e respectivos gabaritos do portal [FGV Conhecimento](https://conhecimento.fgv.br/concursos).
-
----
-
-## 1. Resumo Executivo (O Que Conseguimos)
-
-| Indicador / Camada | Resultado Obtido |
-| :--- | :--- |
-| **Concursos coletados em `./data/raw`** | **260 concursos** |
-| **Pastas de Cargos (`metadata.json`) em `./data/raw`** | **1.554 cargos** |
-| **Cadernos de Prova Tipo 1 baixados (`prova_tipo1.pdf`)** | **1.554 PDFs** |
-| **Gabaritos baixados (`gabarito.pdf`)** | **1.535 PDFs** (98,8% de cobertura bruta) |
-| **Provas Objetivas processadas em `./data/processed/*.json`** | **1.309 provas** (distribuídas em **220 concursos** únicos) |
-| **Total de Questões Objetivas (A–E) extraídas e validadas** | **80.031 questões** |
-| **Questões com Gabarito Tipo 1 pareado (`answer`)** | **76.999 questões (96,2% do total)** |
-| **Questões Anuladas identificadas (`annulled: true`)** | **1.215 questões** |
-| **Imagens / Gráficos recortados em 200 DPI (`./data/processed/images/`)** | **4.054 imagens PNG** (3.827 vinculadas às questões finais) |
-| **Provas com 100% das questões gabaritadas** | **1.209 de 1.309 provas (92,4%)** |
-| **Provas com gabarito parcial** | **42 de 1.309 provas (3,2%)** |
-| **Provas sem gabarito extraído (`0%`)** | **58 de 1.309 provas (4,4%)** |
+Este documento consolida o diagnóstico técnico completo da coleta (`crawler`), do processamento de alta veracidade (`parser`) e da camada assistiva local com **Ollama (`llama3.1:8b`)** das provas objetivas (**Tipo 1 / Branca**) e respectivos gabaritos oficiais do portal [FGV Conhecimento](https://conhecimento.fgv.br/concursos).
 
 ---
 
-## 2. Arquitetura e Garantias de Qualidade Aplicadas
+## 1. Resumo Executivo (Evolução Antes vs. Depois da Resolução dos 6 Gaps)
 
-1. **Coleta Dinâmica Resiliente (`src/crawler_fgv.py`)**:
-   - Navegação automatizada via **Playwright (Chromium Headless)** percorrendo todas as listagens do portal (`/concursos`, `/concursos/em-andamento` e `/concursos/encerrados`).
-   - Desambiguação de **Cargo/Área** subindo na árvore DOM (`<tr>`, `<caption>`, `<li>`, `<h3>`–`<h5>`) e removendo cabeçalhos genéricos de layout do Drupal (*"Navegação principal"*, *"Arquivos do concurso"*).
-   - **Filtros de Segurança**: Bloqueio de provas discursivas, redações, peças práticas, pareceres, sentenças cíveis/criminais, provas orais, provas de tribuna, avaliações de títulos, atas, editais e comunicados administrativos.
-   - **Seleção Estrita do Tipo 1**: Exclusão de cadernos Tipo 2, 3, 4, 5 (ou cores Amarela, Verde, Azul, Rosa), baixando exclusivamente o **Tipo 1 (Branca)** ou **Tipo Único**.
-
-2. **Parser de 2 Colunas, Gabarito e Recorte Visual (`src/parser_fgv.py`)**:
-   - **Leitura em 2 Colunas (`PyMuPDF / fitz`)**: Extração via `page.get_text("blocks")`, remoção de cabeçalhos e rodapés repetitivos por margem vertical e frequência entre páginas, separação entre coluna esquerda (`x0 < largura * 0.48`) e direita, e ordenação vertical (`y0`).
-   - **Validação Pydantic (`ExamParsedSchema`, `QuestionSchema`, `AlternativesSchema`)**: Garantia de enunciado válido, 5 alternativas obrigatórias (`A` a `E`), sincronização automática de questões anuladas (`ANULADA` / `annulled: true`) e verificação de integridade de caminho de imagem (`has_image` + `image_path`).
-   - **Pareamento de Gabarito Tipo 1 (`pdfplumber`)**: Segmentação de páginas e tabelas por Cargo e **Tipo 1**, com compactação de células mescladas tanto em grades horizontais da FGV quanto em tabelas colunares multi-tipo.
-   - **Recorte de Imagens e Vetores**: Inspeção de bitmaps (`page.get_images()`) e desenhos vetoriais (`page.get_drawings()`) entre a coordenada vertical inicial da questão (`q_y0`) e o início da alternativa `(A)` (`alt_a_y0`), exportando recortes em **200 DPI** para `./data/processed/images/{slug}_q{num}.png`.
-
----
-
-## 3. O Que Deixamos de Conseguir (Gaps e Motivos Técnicos)
-
-### A) 245 de 1.554 pastas em `./data/raw` não geraram JSON final (15,7%)
-
-1. **PDFs Escaneados como Imagem (Sem Camada de Texto / OCR)**:
-   - Em concursos mais antigos (ex: `fbn12`, `dpgems21`) ou cadernos digitalizados pela banca após aplicação física (ex: `dnit23`, `cgmcuiaba24`), o arquivo `prova_tipo1.pdf` contém apenas páginas escaneadas em imagem bitmap, sem camada de texto selecionável.
-   - Como o pipeline utiliza extração nativa de blocos de texto (`page.get_text("blocks")`) sem OCR, esses cadernos não produzem questões textualizadas e são ignorados para evitar arquivos JSON vazios.
-
-2. **Exames com Apenas 4 Alternativas (`A` a `D`)**:
-   - Exames específicos, como o Exame de Suficiência do **CFC** (`cfc_cargo-geral`), utilizam apenas 4 alternativas (`A`, `B`, `C`, `D`), sem alternativa `E`.
-   - Pelo requisito de validação estrita do schema Pydantic (`A` a `E`), questões de 4 alternativas são descartadas.
-
-3. **Cadernos Residuais de 2ª Fase com Nomes Genéricos**:
-   - Alguns PDFs publicados no portal apenas com rótulos genéricos de turno ou banca (ex: `"Tarde"`, `"Caderno de Prova - Banca I"`, `"Prova Escrita Geral"`) passaram pela triagem de URL, mas foram barrados pelo parser ao constatar a ausência de questões objetivas `A–E`.
+| Indicador / Camada | Antes (Baseline) | Depois (Pós-Correção dos 6 Gaps) | Evolução |
+| :--- | :--- | :--- | :--- |
+| **Concursos coletados em `./data/raw`** | 260 concursos | **260 concursos** | — |
+| **Pastas de Cargos (`metadata.json`) em `./data/raw`** | 1.554 cargos | **1.554 cargos** | — |
+| **Gabaritos Oficiais em `./data/raw` (`gabarito.pdf`)** | 1.535 PDFs (98,8%) | **1.547 PDFs (100% das provas objetivas)** | **+12 gabaritos oficiais recuperados** |
+| **Provas Objetivas processadas (`./data/processed/*.json`)** | 1.309 provas (220 concursos) | **1.498 provas (231 concursos)** | **+189 provas objetivas (+14,4%)** |
+| **Provas de 4 Alternativas (`A`–`D`) recuperadas** | 0 provas | **187 provas** (`cfc`, `dnit23`, `fbn12`, `dpgems21`) | **+187 provas** |
+| **Total de Questões Objetivas extraídas e validadas** | 80.031 questões | **99.522 questões** | **+19.491 questões reais (+24,4%)** |
+| **Questões com Gabarito Oficial pareado (`answer`)** | 76.999 (96,2%) | **99.522 (100,00%)** | **+22.523 questões gabaritadas** |
+| **Questões com Disciplina extraída (`discipline`)** | 0 (0,0%) | **80.496 questões (80,9%) em 1.344 provas (89,7%)** | **+80.496 questões classificadas** |
+| **Questões Anuladas identificadas (`annulled: true`)** | 1.215 questões | **1.683 questões** | **+468 anulações mapeadas** |
+| **Imagens / Gráficos recortados em 200 DPI (`images/`)** | 4.054 PNGs (3.827 vinculados) | **5.286 PNGs (5.115 vinculados às questões)** | **+1.232 imagens recortadas** |
+| **Provas com 100% das questões gabaritadas** | 1.209 de 1.309 (92,4%) | **1.498 de 1.498 (100,00%)** | **100% de cobertura oficial** |
+| **Provas com gabarito parcial** | 42 provas (3,2%) | **0 provas (0,0%)** | **100% resolvido** |
+| **Provas sem gabarito extraído (`0%`)** | 58 provas (4,4%) | **0 provas (0,0%)** | **100% resolvido** |
+| **Buracos internos na sequência (`sequence gaps`)** | 7.293 questões em 744 provas | **697 questões em 213 provas (99,3% de retenção)** | **Redução de 90,4% nas perdas internas** |
 
 ---
 
-### B) 58 provas sem gabarito (`0%`) e 42 provas com gabarito parcial (de 1.309 JSONs)
+## 2. Solução Técnica Aplicada aos 6 Gaps (Foco em Veracidade 100%)
 
-1. **Gabaritos Publicados como Imagem Escaneada**:
-   - Em concursos como `cgmrj23`, `mpgo23`, `mprj2019` e `mps12`, o arquivo `gabarito.pdf` foi disponibilizado pela FGV como imagem digitalizada (sem texto ou tabela extraível pelo `pdfplumber`). As questões foram extraídas normalmente, com `answer: null`.
+### Gap 1: Provas com 4 Alternativas (`A`–`D`) e Cadernos de Módulo Específico (`Q41..70`)
+- **Diagnóstico Real:** Das 245 pastas que não geravam JSON, **187 eram provas objetivas de 4 alternativas (`A` a `D`)** (como `cfc`, `dnit23`, `dpgems21` e `fbn12`) e **2 eram cadernos de reaplicação de Conhecimentos Específicos** (`navbrasil26_pedagogo` e `navbrasil26_psicologo`) cuja numeração iniciava na questão `41`.
+- **Solução Implementada ([src/parser_fgv.py](../src/parser_fgv.py)):**
+  - `AlternativesSchema` atualizado com `E: Optional[str] = None`.
+  - `_finalize_question_dict` valida obrigatoriamente `A`, `B`, `C`, `D` e captura `E` quando presente.
+  - `_segment_questions` suporta início de caderno nas fronteiras padrão de módulo da FGV (`1, 11, 16, 21, 26, 31, 36, 41, 46, 51, 61`).
 
-2. **Ausência de Gabarito na Página do Concurso**:
-   - Em **19 cargos** (dos 1.554 coletados), a página oficial do concurso na FGV disponibilizou o caderno de prova, mas não publicou o link correspondente de gabarito.
+### Gap 2: Triagem de Cadernos Discursivos pelo Conteúdo e Reconstrução de Páginas Fatiadas
+- **Diagnóstico Real:** Nenhuma das 1.554 provas em `./data/raw` era imagem sem texto; porém, **55 pastas eram provas discursivas/peças práticas/editais** cujo link na FGV omitia a palavra "Discursiva", e provas de 2012–2014 (`fbn12`, `alba`, `mps12`) tinham o fluxo PDF fatiado em tiras verticais de ~60pt com duplicação de caracteres nas bordas (`'Ass' + 'sinale'`).
+- **Solução Implementada ([src/parser_fgv.py](../src/parser_fgv.py)):**
+  - `_is_discursive_only_pdf` inspeciona as 4 primeiras páginas para barrar cadernos exclusivamente discursivos sem jamais bloquear provas objetivas que mencionem 2ª fase na capa.
+  - `_reconstruct_tiled_page_blocks` reconstrói as linhas horizontais via coordenadas de glifos (`rawdict`) e deduplica caracteres sobrepostos nas fronteiras de tira.
 
-3. **Gabaritos Divididos por Módulo ou Etapa**:
-   - Em casos pontuais como `cgepb23` (`20/100`), `fempar24` (`20/80`) e `prefsjc-administrativo23` (`56/66`), o concurso publicou gabaritos separados por módulo (ex: *Curso de Formação / Módulo Básico* vs. *Conhecimentos Específicos*) ou teve renumeração parcial entre cadernos.
+### Gap 3: Unificação dos 4 Padrões de Gabarito da FGV (`0` Provas Sem Gabarito)
+- **Diagnóstico Real:** As 46 provas que tinham `gabarito.pdf` mas saíam com `0%` de respostas (`mps12` com 26 cargos, `pmesqos2022` com 19 cargos em Diário Oficial e `pmespsoldado25`) usavam pares inline hifenizados (`1 – D`, `1-B - 2-E - 6-*`).
+- **Solução Implementada ([src/parser_fgv.py](../src/parser_fgv.py)):**
+  - `parse_gabarito_pdf` e `_extract_sectioned_grids_from_text` unificam os 4 formatos FGV: grades horizontais, grades verticais, pares inline (`INLINE_PAIR_RE`) e pares verticais alternados (`1\nB\n2\nC`), além de suportar números com asteriscos de nota de rodapé (`16**` em `fempar24`) e anulações entre colchetes (`[*]`).
 
----
+### Gap 4: Fim dos Gabaritos Parciais e Correção de Pareamento Indevido com "Curso de Formação"
+- **Diagnóstico Real de Veracidade:** Em concursos como `cgepb23`, `tcm-sp`, `dnit23`, `seadse25`, `seplag`, `seplagcgmnit24`, `prefsjc-administrativo23`, `seadap22` e `smacanaacarajas24`, o crawler havia pareado o gabarito do *Curso de Formação* (20 ou 40 questões) ou de um único cargo/dia ao caderno da Prova Objetiva (60 a 100 questões). Além disso, pastas rotuladas como `"Cargo Geral"` perdiam a especificidade ao buscar a tabela dentro de gabaritos multi-cargo (`tjrs25`, `cgmrj23`, `pmn20`, `stn`, `sefmg22`).
+- **Solução Implementada ([src/crawler_fgv.py](../src/crawler_fgv.py) e [src/parser_fgv.py](../src/parser_fgv.py)):**
+  - Substituição de todos os `gabarito.pdf` de Curso de Formação pelos gabaritos definitivos oficiais da Prova Objetiva e unificação dos 4 dias de aplicação de `smacanaacarajas24`.
+  - `_resolve_real_cargo_title` lê a capa (Página 1) e o rodapé da Página 3 da prova para descobrir o cargo verdadeiro quando `metadata.json` traz `"Cargo Geral"`.
+  - Pontuação de compatibilidade em `parse_gabarito_pdf` prioriza casamento exato da questão máxima (`max(ans_map) == max(expected_q_nums)`) e faz *merge* automático de seções complementares (Conhecimentos Básicos + Específicos).
 
-## 4. Auditoria de Sincronização no GitHub
+### Gap 5: Isolamento da Capa e Desmembramento de Sub-blocos (-90,4% em Buracos de Sequência)
+- **Diagnóstico Real:** Em 200 provas (como toda a família `alba_*`), os itens numerados `1.` a `15.` das instruções da Capa (Página 1) eram confundidos com questões, fazendo o parser engolir as questões reais `01` a `15` dentro da alternativa `E` da questão 15 (gerando 2.126 alternativas contaminadas). Além disso, `y1 > FOOTER_RATIO` descartava questões inteiras no pé da coluna (ex: Q5 e Q25 em `alba_auditor`), e quebras de linha começando com números por extenso (ex: `"65 (sessenta e cinco) anos"` em `mpgo23`) causavam saltos falsos de numeração.
+- **Solução Implementada ([src/parser_fgv.py](../src/parser_fgv.py)):**
+  - Isolamento estrito da capa (`_is_cover_page`), desmembramento de blocos mesclados (`_split_merged_block_lines`), corte de rodapé apenas por `y0 > FOOTER_TOP_CUTOFF`, trava de completude (`_has_complete_alternatives_so_far`) e extração automática da disciplina (`discipline`) limpando o final da última alternativa.
 
-Todos os arquivos gerados na pasta local foram verificados contra a branch remota `origin/main` (`https://github.com/Wellington-Miguel/fgv-scraping.git`):
-
-- **Arquivos de Prova Brutos (`data/raw/*/*/prova_tipo1.pdf`)**: `1.554` locais vs. `1.554` no remoto (**100% sincronizado**)
-- **Arquivos de Gabarito Brutos (`data/raw/*/*/gabarito.pdf`)**: `1.535` locais vs. `1.535` no remoto (**100% sincronizado**)
-- **Metadados (`data/raw/*/*/metadata.json`)**: `1.554` locais vs. `1.554` no remoto (**100% sincronizado**)
-- **Provas Processadas (`data/processed/*.json`)**: `1.309` locais vs. `1.309` no remoto (**100% sincronizado**)
-- **Imagens Recortadas (`data/processed/images/*.png`)**: `4.054` locais vs. `4.054` no remoto (**100% sincronizado**)
-
+### Gap 6: Resgate dos 12 Gabaritos Faltantes e Camada Assistiva Auditável com Ollama (`llama3.1:8b`)
+- **Diagnóstico Real:** Dos 19 cargos sem `gabarito.pdf`, 7 eram provas discursivas (sem gabarito objetivo), 6 estavam publicados na própria página da FGV mas foram barrados por `ADMIN_KEYWORDS` (`"edital"`, `"comunicado"`, `"resultado"` no nome do arquivo: `cgmrj23`, `mpgo23`, `tjmsjuiz23`, `tjmsjuiz25`, `tjpr25`, `tjrs25`), e 6 apontavam para o servidor legado `netstorage.fgv.br` (`dpgerj2021`, `mprj2019` e os 4 cargos de `seplag`), todos preservados no Internet Archive (`web.archive.org`).
+- **Solução Implementada ([src/crawler_fgv.py](../src/crawler_fgv.py) e [src/ollama_helper.py](../src/ollama_helper.py)):**
+  - Todos os 12 gabaritos oficiais foram baixados, verificados e processados com 100% de aproveitamento.
+  - Criado o módulo [src/ollama_helper.py](../src/ollama_helper.py) conectando ao modelo local **`llama3.1:8b`** via Ollama (`temperature=0.0`, `format="json"`) com **Guarda de Veracidade (`verify_literal_veracity`)** para fallback de segmentação de blocos atípicos, extração assistida de gabaritos, classificação de disciplinas e resolução em quarentena (`answer_source = "ai_quarantine"`).

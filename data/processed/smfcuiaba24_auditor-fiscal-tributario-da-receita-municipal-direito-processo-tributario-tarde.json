@@ -8,7 +8,7 @@
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "Carlos, proprietário de um pequeno estabelecimento prestador de serviço em Cuiabá, recebeu a notícia de que a alíquota do ISSQN foi majorada em fevereiro do presente ano, por meio de publicação oficial. Inconformado, ele procura esclarecimentos junto à Secretaria Municipal de Finanças. Com base na legislação tributária aplicável ao Município de Cuiabá, foi corretamente informado a Carlos que majoração de tributos",
       "alternatives": {
         "A": "pode entrar em vigor a qualquer momento, desde que a lei seja publicada no Diário Oficial do Município.",
@@ -17,15 +17,15 @@
         "D": "entra em vigor imediatamente após a publicação no Diário Oficial.",
         "E": "pode ter vigência retroativa, desde que isso seja previsto em lei."
       },
-      "answer": "B",
-      "annulled": false,
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 2
     },
     {
       "question_number": 2,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "Considere a seguinte situação hipotética: a Sociedade Empresarial Fast Bus Ltda, prestadora de serviço de transporte municipal, foi autuada pelo Município de Cuiabá por não entregar a Declaração Eletrônica Direcionada de Prestação de Serviço (DEDPS). Em defesa, a empresa alegou que, por não haver fato gerador de tributo devido no período, não seria necessário cumprir a obrigação acessória. Com base na legislação tributária, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A sociedade empresarial está correta, pois a obrigação acessória está diretamente vinculada à ocorrência do fato gerador da obrigação principal.",
@@ -34,7 +34,7 @@
         "D": "A obrigação acessória, ainda que não cumprida, não se converte em obrigação principal, sendo ambas independentes.",
         "E": "A obrigação acessória é suspensa automaticamente quando não há fato gerador da obrigação principal no período."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -42,7 +42,7 @@
     },
     {
       "question_number": 3,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "A sociedade empresarial de eventos Festas e Festões Ltda. organiza feiras e festas em Cuiabá durante o período do verão. A Secretaria Municipal de Fazenda, ao analisar o volume e a modalidade da prestação de serviços da empresa, decidiu calcular o ISSQN da sociedade empresarial por estimativa. Após o período de vigência do regime de estimativa, foi apurada uma diferença entre o valor do ISSQN recolhido pela sociedade empresarial e o valor efetivamente apurado. Com base na legislação do Município de Cuiabá, e no caso concreto, assinale a afirmativa correta:",
       "alternatives": {
         "A": "Caso haja diferença apurada em favor do contribuinte, ela deverá ser restituída automaticamente pelo Município, sem necessidade de requerimento formal.",
@@ -51,7 +51,7 @@
         "D": "Se a diferença apurada for favorável ao contribuinte, ele poderá optar por compensar o valor em recolhimentos futuros, desde que não tenha débitos junto à Fazenda Pública Municipal.",
         "E": "Caso o contribuinte não forneça todos os documentos solicitados pela fiscalização, o lançamento por estimativa será automaticamente cancelado, e o ISSQN será recalculado com base no movimento econômico efetivo."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -59,7 +59,7 @@
     },
     {
       "question_number": 4,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "João é proprietário de um loteamento em Cuiabá-MT que ainda não está cadastrado no Sistema de Gestão da Administração Tributária do Município. Ao solicitar o cadastramento do imóvel, ele foi informado pela Secretaria Municipal de Fazenda sobre a necessidade de apresentar alguns documentos específicos. Com base na legislação municipal, assinale a afirmativa que reflete corretamente as obrigações de João para o cadastramento do loteamento.",
       "alternatives": {
         "A": "João poderá cadastrar seu imóvel apenas com a apresentação de uma cópia da matrícula emitida em até cinco anos, com base no princípio da efetividade.",
@@ -68,7 +68,7 @@
         "D": "O processo de cadastramento do imóvel de João será deferido automaticamente caso ele apresente comprovante de residência em seu nome e um documento de identificação.",
         "E": "João pode optar por não apresentar a matrícula do imóvel, desde que comprove a titularidade por meio de contrato particular de compra e venda."
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -76,7 +76,7 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "Carlos, Auditor Fiscal da Receita Municipal de Cuiabá, foi nomeado para atuar como Conselheiro no Conselho Administrativo de Recursos Tributários (CART). Durante um julgamento de segunda instância de um auto de infração envolvendo um contribuinte que questionava a legalidade de um decreto municipal, Carlos se viu diante de um impasse: o contribuinte argumentava que o decreto violava a Constituição Federal de 1988. Considerando a legislação sobre o tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O CART somente pode afastar a aplicação do decreto se houver entendimento pacificado do Supremo Tribunal Federal (STF) ou do Superior Tribunal de Justiça (STJ).",
@@ -85,7 +85,7 @@
         "D": "Carlos deve remeter o processo à Procuradoria-Geral do Município, que tem competência exclusiva para declarar a inconstitucionalidade do decreto.",
         "E": "Somente o Plenário do CART poderá, em julgamento unânime, declarar a inconstitucionalidade do decreto."
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -93,7 +93,7 @@
     },
     {
       "question_number": 6,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "Caio deseja cadastrar a vaga de garagem que adquiriu em um condomínio na cidade de Cuiabá. A vaga de garagem de Caio possui matrícula própria, desvinculada do apartamento que ele também possui no mesmo condomínio. Com base no Decreto Municipal nº 7.796, de 14 de fevereiro de 2020, que dispõe sobre os procedimentos de atualização e manutenção do cadastro imobiliário fiscal do município de Cuiabá, assinale a afirmativa correta quanto ao procedimento de cadastramento.",
       "alternatives": {
         "A": "A vaga de garagem de Caio deve ser cadastrada junto com o apartamento, sob uma única inscrição, somando as áreas da vaga e do apartamento.",
@@ -102,7 +102,7 @@
         "D": "A vaga de garagem de Caio deverá ser cadastrada junto com o apartamento, mas o padrão de construção será baseado nas características da unidade autônoma.",
         "E": "Caio não poderá realizar o cadastramento da vaga de garagem, pois ela está desvinculada do apartamento no condomínio."
       },
-      "answer": "B",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -110,7 +110,7 @@
     },
     {
       "question_number": 7,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "O Município X instituiu, por meio de lei específica, um programa de parcelamento do crédito tributário municipal. De acordo com a legislação tributária vigente, o parcelamento constitui hipótese de",
       "alternatives": {
         "A": "pagamento do crédito tributário, sob condição resolutiva.",
@@ -119,7 +119,7 @@
         "D": "exclusão do crédito tributário.",
         "E": "suspensão do crédito tributário."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -127,7 +127,7 @@
     },
     {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "Durante a revisão dos créditos tributários do Município de Cuiabá, foi identificado que um débito tributário da empresa XYZ havia prescrito sem que qualquer medida para sua cobrança fosse adotada pelos servidores municipais responsáveis. A administração pública iniciou um inquérito administrativo para apurar as responsabilidades pela prescrição. Considerando a legislação sobre o tema, assinale a afirmativa correta:",
       "alternatives": {
         "A": "O servidor não poderá ser responsabilizado, pois a prescrição do crédito tributário exime automaticamente qualquer obrigação por parte dos servidores.",
@@ -136,7 +136,7 @@
         "D": "A responsabilidade do servidor será limitada à esfera civil, devendo ressarcir o Município pelos valores prescritos, sem implicações criminais ou administrativas.",
         "E": "O servidor será exonerado cautelarmente e não precisará indenizar o Município pelo valor dos débitos prescritos."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -144,7 +144,7 @@
     },
     {
       "question_number": 9,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "O Município de Cuiabá, ao realizar uma operação fiscal, constatou que uma sociedade empresarial sujeita à fiscalização tributária municipal deixou de apresentar documentos necessários à verificação do fato gerador de tributos municipais. Diante disso, a fiscalização apreendeu livros e documentos da empresa para apuração de provas materiais. De acordo com a legislação sobre o tema, assinale a opção que preveja, corretamente, o que ocorre após a lavratura do Termo de Apreensão.",
       "alternatives": {
         "A": "A sociedade empresarial terá o prazo de 10 dias para impugnar o Termo de Apreensão ou entregar documentos solicitados pela fiscalização, sob pena de aplicação de multa.",
@@ -161,16 +161,16 @@
     },
     {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "A sociedade empresarial X foi autuada pelo Município de Cuiabá e apresentou defesa. A decisão administrativa da primeira instância manteve o auto de infração e a sociedade empresarial apresentou recurso ordinário. No entanto, a decisão administrativa de segunda instância também foi desfavorável à sociedade empresarial que, então, decidiu interpor um recurso especial. Com base na legislação aplicável, assinale a afirmativa que preveja como deve proceder a sociedade empresarial X ao interpor o recurso especial e o que deve ser considerado na sua admissibilidade.",
       "alternatives": {
         "A": "O recurso especial deve ser dirigido ao Procurador-Geral do Município e deve conter a indicação da decisão da turma julgadora anterior, sem necessidade de demonstração da divergência.",
         "B": "O recurso especial deve ser apresentado diretamente ao Prefeito do Município de Cuiabá e só será admitido se a decisão envolver valores acima de R$ 1.000.000,00 (um milhão de reais).",
         "C": "O recurso especial pode ser interposto para o Pleno do CART no prazo de 30 dias, contados da ciência da decisão, e será admissível se houver divergência entre decisões de instâncias superiores.",
         "D": "O recurso especial deve ser interposto ao Pleno do CART, contendo a indicação da decisão paradigmática e a demonstração da divergência, sendo inadmissível se não houver demonstração precisa da divergência.",
-        "E": "O recurso especial pode ser interposto para o Pleno do CART em qualquer fase processual e será julgado sem necessidade de análise de admissibilidade. Gestão e Liderança no Setor Público"
+        "E": "O recurso especial pode ser interposto para o Pleno do CART em qualquer fase processual e será julgado sem necessidade de análise de admissibilidade."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "O orçamento participativo é caracterizado pela participação ativa e direta das comunidades na elaboração e definição das propostas orçamentárias do governo, permitindo que a população influencie as decisões sobre a alocação de recursos e prioridades públicas. Três vantagens principais do orçamento participativo são:",
       "alternatives": {
         "A": "Controle total, aumento de impostos e redução de despesas.",
@@ -187,7 +187,7 @@
         "D": "Exclusão de grupos externos, aumento de controle e redução de custos.",
         "E": "Menor participação, aumento de burocracia e controle financeiro."
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "A expansão dos conselhos de gestão contribuiu para a complexificação da participação social, promovendo princípios como legitimidade, justiça, autorização e compartilhamento de poder. Um problema relacionado à participação de populações vulneráveis nos processos de tomada de decisão em conselhos de gestão é a",
       "alternatives": {
         "A": "alta centralização do poder e ausência de desigualdade social.",
@@ -204,7 +204,7 @@
         "D": "alta participação social e ausência de problemas no compartilhamento de poder.",
         "E": "participação equitativa e descentralização completa do poder."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "O governo eletrônico (e-gov) utiliza tecnologia da informação e comunicação (TICs) e mudanças organizacionais para melhorar as operações governamentais, aumentando a qualidade, acessibilidade, eficiência, e reduzindo o tempo e custo dos serviços prestados, em resposta às crescentes e mutáveis demandas dos cidadãos. Uma estratégia que o governo pode utilizar para incentivar os cidadãos a adotarem serviços de e-gov, promovendo confiança e confiabilidade é a de",
       "alternatives": {
         "A": "aumentar os impostos para financiar serviços online.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "A accountability está fundamentada na produção, concorrência, transparência e nas relações contratuais, representando um afastamento do modelo tradicional de administração pública, que se baseava predominantemente em processos e procedimentos de controle hierárquico, legalidade, confiança e tradições culturais. Assinale a opção que descreve uma implicação da accountability.",
       "alternatives": {
         "A": "Os governantes têm total autonomia para definir o que deve ser respondido à sociedade.",
@@ -238,7 +238,7 @@
         "D": "O dever de prestação de contas dos governantes e ocupantes de funções públicas é determinado por um processo democrático mais amplo, que inclui a criação de marcos legais e controles mútuos entre os poderes.",
         "E": "Accountability se refere apenas à transparência financeira das instituições públicas."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "O Guia de Orientações para Cumprimento da Lei de Acesso à Informação (LAI) para estados e municípios, elaborado pela Controladoria-Geral da União (CGU) como parte do Programa LAI para Todos, visa orientar gestores estaduais e municipais na implementação efetiva da LAI, fortalecendo o acesso à informação. Um benefício proporcionado pela LAI para a sociedade e a administração pública, é o de",
       "alternatives": {
         "A": "restringir o acesso a contratos governamentais.",
@@ -255,15 +255,15 @@
         "D": "reduzir o respeito aos direitos fundamentais dos cidadãos.",
         "E": "Estimular o controle social e prevenção da corrupção."
       },
-      "answer": "E",
-      "annulled": false,
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 5
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "A gestão por resultados na produção de serviços públicos foca em alcançar metas e objetivos específicos, utilizando indicadores de desempenho para melhorar a eficiência, a qualidade e a transparência das ações governamentais. Dentre o(s) requisito(s) necessário(s) para que uma instituição alcance os resultados esperados pode-se citar",
       "alternatives": {
         "A": "apenas o uso de tecnologia avançada.",
@@ -272,7 +272,7 @@
         "D": "apenas a dependência do desempenho institucional com as metas estabelecidas para as unidades administrativas, sem a necessidade de envolver os indivíduos.",
         "E": "que gestão por resultados não requer a adaptação dos processos de trabalho ou a qualificação dos profissionais envolvidos."
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "Diversas iniciativas inovadoras em termos de comunicação na gestão pública têm sido experimentadas e aprofundadas, contribuindo para reforçar a democracia e revelando um posicionamento mais aberto ao diálogo por parte de alguns governos. O termo utilizado para se referir ao uso das tecnologias da informação e comunicação com o objetivo de fortalecer a interação entre o Estado e a sociedade, ampliando e aprofundando os mecanismos democráticos, é:",
       "alternatives": {
         "A": "Democracia digital.",
@@ -289,7 +289,7 @@
         "D": "Autoritarismo virtual.",
         "E": "Centralização eletrônica."
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "Gestão de projetos é o processo de tomar e implementar decisões para escolher, planejar, executar, controlar e encerrar o projeto. Os métodos preditivos de gestão de projetos, são caracterizados por",
       "alternatives": {
         "A": "flexibilidade contínua para adaptar o escopo durante a execução do projeto.",
@@ -306,15 +306,15 @@
         "D": "planejamento completo e detalhado de todos os entregáveis antes do início da execução.",
         "E": "abordagem que permite iniciar a execução do projeto sem um escopo claramente definido."
       },
-      "answer": "E",
-      "annulled": false,
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 5
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "Métodos são procedimentos utilizados na gestão de projetos para avaliar ideias e alternativas com base em critérios pré-definidos, garantindo que as decisões sejam alinhadas aos objetivos estratégicos e que os recursos sejam alocados de forma eficiente. O método que envolve avaliações sucessivas, realizadas antes e durante a execução do projeto, onde as ideias que passam por todas os portais são aprovadas e transformadas em projetos do portfólio da organização, é denominado",
       "alternatives": {
         "A": "Analytic hierarchy process – AHP.",
@@ -331,16 +331,16 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Legislação Tributária Municipal",
       "statement": "A gestão de processos utiliza técnicas de representação para visualizar, analisar e otimizar as atividades organizacionais, garantindo maior eficiência, controle e alinhamento com os objetivos estratégicos da organização. A técnica usada para representar graficamente o fluxo de uma rotina, detalhando as operações realizadas em cada unidade de trabalho envolvida na análise, os empregados que as executam e como esses as executam, é denominada",
       "alternatives": {
         "A": "Lean.",
         "B": "Fluxograma.",
         "C": "Hierárquica.",
         "D": "Organograma.",
-        "E": "Harmonograma. Direito Processual Civil"
+        "E": "Harmonograma."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "O Tribunal de Justiça do Estado Beta, diante do elevado volume de ações judiciais em curso controvertendo sobre o dever de pagamento do adicional de insalubridade a guardas municipais do Município Alfa, instaurou, por ofício do desembargador relator de um recurso de apelação, incidente de resolução de demandas repetitivas (IRDR). Findo o julgamento do incidente, oportunidade em que o Tribunal firmou tese no sentido da existência do mencionado dever de pagamento, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Não observada a tese adotada no incidente por parte dos órgãos vinculados à tese firmada, caberá recurso especial ou extraordinário, conforme o caso, vedada a propositura de reclamação em face da decisão dissonante da tese vinculante.",
@@ -357,7 +357,7 @@
         "D": "Caso haja interposição de recurso extraordinário em face da decisão de mérito do IRDR, tal recurso terá efeito suspensivo, presumindo-se a repercussão geral de questão constitucional eventualmente discutida.",
         "E": "A tese jurídica vinculará todos os juízes e tribunais em âmbito nacional, independentemente da interposição de recurso em face da decisão de julgamento do mérito do incidente."
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "César é autor de ação ordinária em face do Hospital Saúde Boa, na qual pleiteia indenização a título de danos morais e materiais, fundando-se em alegado erro médico. Atendendo ao pedido formulado por ambas as partes, em sede de saneamento e organização do processo, o juízo determina a produção de prova pericial, nomeando Carlos como perito. Cinco dias após tomar ciência da nomeação de Carlos, César protocola petição arguindo o impedimento do perito. Segundo narrou, Carlos é membro da administração do Hospital Saúde Boa. Acolhendo o pedido, o juiz nomeou João como novo perito, que aceitou o encargo. Ato contínuo, João apresentou proposta de honorários, currículo, contatos profissionais e currículo. Tomando o caso acima como premissa, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Com efeito, o vínculo entre Carlos e o Hospital Saúde Boa constitui causa de suspeição do perito, não havendo que se falar em impedimento na hipótese.",
@@ -374,7 +374,7 @@
         "D": "As partes poderão se manifestar no prazo comum de 05 (cinco) dias acerca da proposta de honorários de João, após o qual o juiz arbitrará o valor devido ao perito.",
         "E": "Ainda que a perícia seja inconclusiva ou deficiente, é vedado ao juiz reduzir a remuneração arbitrada para o trabalho de João."
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Napoleão opôs embargos de declaração em face de sentença, a qual condenou Milton, seu cliente, ao pagamento de indenização a título de danos materiais em favor de Flávio. Os embargos foram fundados na ocorrência de contradição entre a fundamentação e o dispositivo da sentença. Ato contínuo, sete dias após a intimação da prolação da sentença, Flávio interpôs recurso de apelação, requerendo a reforma da sentença para majorar o valor da condenação. O recurso interposto por Napoleão foi conhecido e desprovido, mantendo-se a sentença em sua integralidade. Na sequência, no sexto dia após a intimação sobre a decisão que julgou os embargos de declaração, Milton interpôs recurso de apelação. Ato contínuo, o advogado de Milton foi intimado para apresentar contrarrazões ao recurso de apelação de Flávio. Em relação ao caso apresentado acima, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os embargos de declaração opostos por Napoleão interromperam o prazo para interposição do recurso de apelação, pelo que o recurso interposto por Milton deve ser considerado como tempestivo.",
@@ -391,7 +391,7 @@
         "D": "Como os embargos de declaração foram opostos com fundamento na ocorrência de contradição, não houve a interrupção de prazo para interposição de recurso de apelação, o que somente ocorre em relação aos recursos fundados na ocorrência de omissão.",
         "E": "Houve suspensão do prazo para interposição de recurso de apelação em razão da oposição dos embargos de declaração por parte de Napoleão."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Regina, no curso da fase de cumprimento de sentença que condenou a pessoa jurídica Camisas Legais Ltda, ao pagamento de indenização a título de danos materiais, requereu a desconsideração da personalidade jurídica da empresa com o fito de atingir os bens particulares do sócio João. O juízo deferiu o pedido após a intimação da pessoa jurídica, fundamentando-se em indícios de confusão patrimonial, apontados na petição que instruiu o pedido, que demonstram que bens sociais estão sendo entregues sem contrapartida por parte de João. Não houve a citação do sócio. Em tal caso, assinale a afirmação correta.",
       "alternatives": {
         "A": "A decisão que determinou a desconsideração da personalidade jurídica é correta, desde que a desconsideração seja feita de forma motivada e com a intimação da pessoa jurídica para se manifestar, dispensando a citação prévia do sócio cujo patrimônio se pretende atingir.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Denise, domiciliada em Saquarema (RJ), ajuizou ação de cobrança em face de Antônio, domiciliado na Comarca de São Paulo (SP), distribuída à 1ª Vara Cível daquela Comarca. No curso da fase instrutória, Antônio muda seu domicílio para Natal (RN) e, ato contínuo, requer a redistribuição do processo para uma das Varas Cíveis da Comarca de Natal. Em relação ao caso apresentado acima, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O pedido de Antônio poderá ser acolhido, pois a competência territorial tem natureza relativa, sendo lícita a redistribuição pretendida.",
@@ -425,15 +425,15 @@
         "D": "Malgrado inviável a redistribuição de ofício em razão da mudança de endereço de Antônio, as partes poderão, de comum acordo, requerer tal providência ao juízo.",
         "E": "Somente Denise poderá requerer tal redistribuição do processo, motivo pelo qual o pedido de Antônio deverá ser indeferido de plano pelo juízo."
       },
-      "answer": "ANULADA",
-      "annulled": true,
+      "answer": "E",
+      "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "João ajuizou ação ordinária em face de Regina. Ao exercer o juízo de admissibilidade da petição inicial, o juiz decidiu indeferir de plano a peça, por entender que a causa de pedir não estava formulada de maneira adequada. Por tal motivo, João interpõe recurso de apelação, pugnando pela declaração de nulidade da sentença em razão da ausência de oportunidade prévia de saneamento do vício. Em tal caso, é correto afirmar que:",
       "alternatives": {
         "A": "A decisão de indeferimento da petição inicial é nula, pois o juízo deve conceder prazo para o autor a emendar, indicando com precisão o vício que exige saneamento.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "No curso do julgamento de recurso de apelação, o órgão fracionário do Tribunal de Justiça do Estado Alfa acolheu a arguição de constitucionalidade formulada pelo apelante. Não há pronunciamento do pleno do tribunal ou do Supremo Tribunal Federal sobre a questão constitucional arguida. Em tal caso, o órgão fracionário deverá:",
       "alternatives": {
         "A": "Suspender o julgamento e remeter os autos ao Supremo Tribunal Federal para apreciar a controvérsia.",
@@ -459,15 +459,15 @@
         "D": "Declarar a inconstitucionalidade da lei, prosseguindo para o julgamento do mérito do recurso de apelação.",
         "E": "Instaurar incidente de arguição de inconstitucionalidade, determinando a intimação do arguido para apresentar resposta no prazo de 15 (quinze) dias."
       },
-      "answer": "ANULADA",
-      "annulled": true,
+      "answer": "C",
+      "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "João foi condenado ao pagamento de indenização a título de danos materiais em favor de Daniel. A sentença condenatória transitou em julgado em outubro de 2021. Em março de 2024, João tomou conhecimento da existência de prova nova, cuja existência ignorava, que é capaz de lhe assegurar pronunciamento favorável. Em outubro de 2024, João lhe procura, informa tais fatos e lhe indaga acerca das providências cabíveis para defesa de seus direitos. Tomando o caso acima como premissa, acerca do cabimento da ação rescisória, pode-se afirmar corretamente que:",
       "alternatives": {
         "A": "O prazo decadencial de um ano para propositura de ação rescisória já decorreu, logo não é possível desconstituir a sentença por essa via.",
@@ -476,7 +476,7 @@
         "D": "Por se tratar de meio de impugnação cuja propositura pode ser efetuada a qualquer tempo após o trânsito em julgado, a ação rescisória é cabível.",
         "E": "Em tal hipótese, João somente poderá arguir a existência da prova nova em sede de impugnação ao cumprimento de sentença, eis que já esvaído o prazo bienal para ajuizamento de ação rescisória."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Maria interpôs agravo de instrumento em face de decisão interlocutória, a qual rejeitou seu pedido de concessão de gratuidade de justiça, em ação movida em face de Regina. Ao protocolar seu recurso, Maria não efetuou a juntada de cópia das procurações outorgadas aos advogados que atuam no feito. Outrossim, Maria não requereu a juntada de cópia da petição do agravo de instrumentos aos autos do processo, o qual tramita em autos físicos. Em tal caso, assinale a afirmação correta.",
       "alternatives": {
         "A": "O advogado de Regina poderá suscitar a ausência de juntada de cópia da petição do agravo de instrumento aos autos do processo, o que acarretará a inadmissibilidade do agravo.",
@@ -493,7 +493,7 @@
         "D": "Conforme disposto no Código de Processo Civil, a juntada de cópias das procurações outorgadas aos advogados é dispensada na instrução do agravo de instrumento, ainda que o processo tramite em autos físicos.",
         "E": "O relator do agravo de instrumento poderá suspender a eficácia da decisão recorrida, se houve risco de dano grave ou ficar demonstrada a probabilidade de provimento do recurso."
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -501,16 +501,16 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Sandra, cidadã combativa na defesa dos interesses dos contribuintes do Município Beta, que não detém mandato eletivo, tomou ciência da promulgação e publicação da Lei X, a qual majorou a alíquota do IPTU incidente sobre os imóveis situados naquele Município. Inconformada com o teor da mencionada lei, Sandra deseja impetrar mandado de segurança em face do ato normativo, com vistas a obter sua declaração de nulidade, em razão de vício no processo legislativo. Por tal motivo, ela procura você com o intuito de obter orientação acerca do tema. Enquanto advogado, a orientação correta a ser dada para Sandra é a de que:",
       "alternatives": {
         "A": "A impetração de mandado de segurança, nesse caso, deverá ser realizada pelo Ministério Público ou por associação civil, vedada a iniciativa individual de Sandra.",
         "B": "A pretensão de Sandra deve ser manifestada por meio de ação popular, a qual é cabível em face de leis em tese, como na hipótese.",
         "C": "O meio processual adequado é a impetração de mandado de injunção, com vistas a obter norma que revogue a lei.",
         "D": "O mandado de segurança não é cabível em tal hipótese, em razão de se voltar em face de lei em tese.",
-        "E": "Sandra poderá impetrar mandado de segurança coletivo, diante da pretensão erga omnes que deseja manifestar em juízo. Direito Civil II e Direito Empresarial II"
+        "E": "Sandra poderá impetrar mandado de segurança coletivo, diante da pretensão erga omnes que deseja manifestar em juízo."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Em 2019, Antônio do Campestre adquiriu de Rita de Cássia, por meio de escritura pública, um imóvel na zona rural de Primavera do Leste, MT, que se encontrava em nome da vendedora na matrícula imobiliária competente. O imóvel era utilizado pela família de Rita para o cultivo de feijão. A aquisição deveu-se ao desejo de Antônio pela construção de uma pousada ecológica. Um mês após a imissão na posse, Antônio iniciou as obras e o plantio de diversas árvores frutíferas. Semana passada, ele foi surpreendido com uma ação reivindicatória promovida por João Batista, que demonstrou ser o registro em nome de Rita falso, sendo ele o legítimo proprietário do bem. Sobressaltado com a demanda e possível prejuízo financeiro e sabedor de sua boa-fé, Antônio procura apoio jurídico ao seu caso concreto. Diante da situação hipotética, assinale a afirmativa correta a respeito do tema posse de boa-fé.",
       "alternatives": {
         "A": "Os frutos pendentes ao tempo em que cessar a boa-fé pertencem ao proprietário, não tendo o possuidor direito à restituição.",
@@ -527,7 +527,7 @@
         "D": "Antônio não terá direito à indenização por quaisquer benfeitorias realizadas, tendo em vista a cessação da boa-fé com a citação.",
         "E": "O reivindicante é obrigado a indenizar as benfeitorias necessárias e úteis ao possuidor de boa-fé, pelo valor atual."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "A empreiteira Construções Felizes S.A. celebrou contrato com a sociedade empresarial Instalações de Ar Puro e Frio Ltda. para o fornecimento e instalação de um complexo sistema de ar condicionado em um empreendimento imobiliário de alto padrão no bairro Belvedere, em Cuiabá, Mato Grosso. O contrato previa a execução dos serviços em seis etapas, com pagamento ao final de cada etapa concluída, para garantir o fluxo contínuo da obra. Após a conclusão da segunda etapa, a empreiteira, alegando dificuldades financeiras temporárias, deixou de efetuar o pagamento correspondente, comprometendo a continuidade do serviço. Em razão disso, a empresa Instalações de Ar Puro e Frio Ltda. notificou a suspensão dos serviços até a regularização do pagamento. A empreiteira, por sua vez, contestou a interrupção, argumentando que a situação financeira justificava o atraso e que a suspensão prejudicaria gravemente o andamento do projeto, configurando, segundo ela, abuso de direito por parte da fornecedora. Diante da situação hipotética e com base no Código Civil, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Instalações de Ar Puro e Frio Ltda. não pode suspender unilateralmente o contrato, pois a suspensão contratual depende de decisão judicial para garantir a segurança jurídica entre as partes.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Joyce de Assis e Marcel Queirós são proprietários de imóveis vizinhos e limítrofes na zona urbana do município de Nobres, Mato Grosso. Marcel iniciou a construção de uma casa de três pavimentos em seu terreno, que bloqueia parcialmente a ventilação natural da casa de Joyce, alterando as condições de ventilação que ela desfruta há décadas. Preocupada com o impacto da obra sobre o bem-estar de sua família e o valor de seu imóvel, Joyce procura orientação jurídica para eventualmente buscar medidas legais. Com base no direito de propriedade e nos direitos de vizinhança previstos no Código Civil, é correto afirmar que",
       "alternatives": {
         "A": "o proprietário tem o direito de construir livremente em seu terreno desde que siga as normas municipais, sem necessidade de considerar eventuais prejuízos a imóveis vizinhos.",
@@ -569,16 +569,16 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "A sociedade empresária Turismo Melhor Ltda. decidiu empreender construção de um hotel em terreno de ótima localização em região urbana de expansão turística. Ao adquirir o terreno, as paredes divisórias com o terreno vizinho (desocupado e sem qualquer edificação) já estavam previamente definidas. Confiando que as medidas que constavam no registro correspondiam à realidade, a empresa realizou a obra e edificou por todo o seu terreno, respeitando as normas urbanísticas. De forma surpreendente, cinco anos depois, a empresa foi citada em ação na qual o proprietário do terreno vizinho alega que parte da construção atingiu 3% do seu terreno, denunciando que a parede divisória estava edificada de modo equivocado, diminuindo a área do seu imóvel conforme consta no registro. Considerando que o valor da edificação superou consideravelmente o valor do terreno e que a alegação do vizinho é verdadeira e devidamente comprovada, assinale a opção correta, identificando qual argumento a sociedade empresária pode invocar a seu favor, na forma da lei civil.",
       "alternatives": {
         "A": "A empresa pode alegar que adquiriu o terreno, por usucapião ordinária, em razão do exercício ininterrupto e pacífico da posse, de boa-fé, com intenção de ser dono, pelo prazo de 5 (cinco) anos.",
         "B": "A empresa pode alegar que o limite entre os prédios causou confusão entre as partes, razão pela qual deve ser redefinido conforme a posse justa, que está a seu favor.",
         "C": "A empresa pode alegar que adquiriu o terreno, por usucapião especial urbana, em razão do exercício ininterrupto e pacífico da posse, de boa-fé, com intenção de ser dono, pelo prazo de 5 (cinco) anos.",
         "D": "A empresa pode alegar que o vizinho perdeu o prazo para requerer a demolição da obra, adquirindo a propriedade do solo sem a necessidade de pagamento de indenização.",
-        "E": "A empresa pode alegar que construiu parcialmente em terreno"
+        "E": "A empresa pode alegar que construiu parcialmente em terreno alheio, de boa-fé, adquirindo a propriedade do solo, devendo apenas indenizar o vizinho em valor correspondente à área perdida e à desvalorização da área remanescente."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Bernardo Silva, filho mais velho de Maria e Augusto, assumiu a responsabilidade de cuidar de suas irmãs Ana e Glória após o falecimento dos pais. Em razão desse compromisso e de suas próprias convicções, Bernardo nunca se casou nem teve filhos. No último mês, Bernardo e sua irmã Ana sofreram um grave acidente de carro. Bernardo foi declarado morto no local, enquanto Ana foi levada com vida ao hospital, mas faleceu algumas horas após a internação. Ana, que era viúva, deixou dois filhos, Pedro e Marcos, ambos maiores e capazes. Glória, estarrecida com a situação e sem saber como proceder, contratou um(a) advogado(a) especializado(a) para orientá-la sobre as questões relativas ao inventário e à partilha dos bens deixados por Bernardo e Ana. Com base no Código Civil e considerando que Bernardo não deixou testamento, analise as assertivas abaixo I. Glória herda a totalidade dos bens de Bernardo, pois Ana não teve tempo para manifestar a aceitação da herança antes de falecer, e seus descendentes não podem aceitar a herança em seu lugar. II. Pedro e Marcos, desde que concordem em receber a herança de Ana, poderão aceitar ou renunciar a herança de Bernardo. III. No caso, Pedro e Marcos estão excluídos da herança de Bernardo, pois não há direito de representação na linha colateral. IV. Pedro e Marcos serão chamados na sucessão de Bernardo por direito de transmissão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -595,7 +595,7 @@
         "D": "IV, apenas.",
         "E": "II e IV, apenas."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Na relação de credores da sociedade empresária Coxipó Hotéis e Empreendimentos Imobiliários Ltda., em recuperação judicial, constam três créditos decorrentes de contratos celebrados pela sociedade, cujos fatos geradores são anteriores à data do pedido. O primeiro contrato foi celebrado pela recuperanda conjuntamente com uma de suas subsidiárias, Arruda & Cia Ltda., sendo essa devedora solidária com a primeira, com constituição de garantia real de bem do ativo não circulante da segunda. O segundo contrato tem sua execução garantida por nota promissória avalizada pelo sócio Antenor Ponce. O terceiro contrato conta com garantia fidejussória em favor da recuperanda prestada por Alba Murtinho, outra sócia. Os credores já tinham ajuizado execuções contra a sociedade e seus garantes – Arruda & Cia Ltda., Antenor Ponce e Alba Murtinho – antes do pedido recuperacional. Considerando-se os fatos e o entendimento sumulado do Superior Tribunal de Justiça (STJ) sobre as execuções ajuizadas antes do deferimento do processamento da recuperação judicial, é correto afirmar que",
       "alternatives": {
         "A": "todas as execuções terão prosseguimento com o processamento da recuperação judicial porque os devedores solidários ou coobrigados por garantia cambial, real ou fidejussória não se beneficiam da suspensão das execuções em face da devedora.",
@@ -612,7 +612,7 @@
         "D": "apenas a execução proposta em face do sócio Antenor Ponce terá prosseguimento, diante da garantia cambial ser autônoma em relação à avalizada; as demais ficarão suspensas por se tratar de créditos sujeitos aos efeitos da recuperação judicial.",
         "E": "apenas a execução proposta em face da sócia Alba Murtinho terá prosseguimento, diante da ausência de benefício de ordem em favor da fiadora; as demais ficarão suspensas por se tratar de créditos sujeitos aos efeitos da recuperação judicial."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Após a publicação do quadro-geral de credores no processo de falência de Movelaria Pedra Preta Ltda. foi constatada pelo administrador judicial a falsidade de um documento de constituição de hipoteca sobre um dos imóveis arrecadados que garantia uma dívida contraída pela devedora nove meses antes da decretação da falência, de modo que será necessária uma nova classificação do crédito, de garantia real para quirografário. Considerando essas informações e as disposições da Lei nº 11.101/2005 a respeito da ação cabível para este fim, é correto afirmar que",
       "alternatives": {
         "A": "a ação revisional de crédito por ser proposta até 2 (dois) anos após a trânsito em julgado da sentença de encerramento da falência.",
@@ -629,7 +629,7 @@
         "D": "proposta a ação revisional, o pagamento ao titular do crédito por ela atingido somente poderá ser realizado mediante a prestação de caução no mesmo valor do crédito questionado.",
         "E": "a ação revisional de crédito observará, no que couber, o procedimento dos embargos à execução, previsto no Código de Processo Civil."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Cláudia Guimarães ajuizou ação indenizatória em face da sociedade empresária Supermercados Acorizal Ltda. pleiteando reparação de danos materiais e morais. No curso da lide sobreveio a decretação da falência da sociedade, fato que motivou o pedido de reserva do crédito estimado determinado pelo juízo da X Vara Cível da Comarca de Cuiabá/MT. O juízo falimentar, comunicado da decisão do juízo cível, determinou ao administrador judicial a realização da reserva. Considerando-se os dados e a legislação falimentar, é correto afirmar que",
       "alternatives": {
         "A": "o valor relativo a reserva do crédito ficará depositado até o julgamento definitivo do crédito e, no caso de não ser reconhecido, será objeto de rateio suplementar entre os credores remanescentes.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "A restituição em dinheiro devida às Fazendas Públicas, decorrente de tributos retidos na fonte dos salários dos empregados pelo devedor, ora falido, e não recolhidos aos cofres públicos, será paga no processo falimentar",
       "alternatives": {
         "A": "antes do pagamento de qualquer outro crédito, por mais privilegiado que seja, exceto as restituições in natura.",
@@ -663,7 +663,7 @@
         "D": "conjuntamente e pro rata com os créditos tributários cujos fatos geradores ocorreram após a decretação da falência.",
         "E": "após o pagamento do valor efetivamente entregue ao devedor pelo financiador durante a recuperação judicial."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -671,16 +671,16 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "O plano de recuperação judicial da sociedade empresária Paiaguá & Nobres Ltda. foi rejeitado pelos credores na assembleia-geral convocada para deliberar sobre ele. Das três classes de credores presentes, o plano obteve a aprovação por 88% (oitenta e oito) por cento dos credores trabalhistas, mas foi rejeitado pelos credores das demais classes, ou seja, da classe III (credores quirografários) e da classe IV (credores enquadrados como microempresa e empresa de pequeno porte). Considerando-se este cenário, é correto afirmar que",
       "alternatives": {
         "A": "o administrador judicial encaminhará a ata da assembleia ao juiz para que ele decrete a convolação da recuperação judicial em falência pela rejeição do plano.",
         "B": "o administrador judicial submeterá, após a votação onde ficou constatada a rejeição do plano, proposta de deliberação da assembleia de credores no sentido de convolar a recuperação judicial em falência.",
         "C": "o administrador judicial submeterá à assembleia, após a votação onde ficou constatada a rejeição do plano, proposta de apresentação, no prazo de 30 (trinta) dias, de plano de recuperação judicial pelos credores.",
         "D": "o administrador judicial encaminhará a ata da assembleia ao juiz para que este declare a retomada das execuções em face da devedora, suspensas por ocasião da decisão de processamento da recuperação.",
-        "E": "o administrador judicial encaminhará a ata da assembleia ao juiz para que seja avaliada por ele a possibilidade de concessão da recuperação judicial de forma impositiva aos credores das duas classes que o rejeitaram. Direito Tributário II e Direito Processual Tributário"
+        "E": "o administrador judicial encaminhará a ata da assembleia ao juiz para que seja avaliada por ele a possibilidade de concessão da recuperação judicial de forma impositiva aos credores das duas classes que o rejeitaram."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Assinale, entre as ideias abaixo relacionadas, aquela que indica uma proposta reitora da nova Reforma Tributária levada a cabo pela Emenda Constitucional nº 132/2023 (EC 132/2023).",
       "alternatives": {
         "A": "Busca de atenuação dos efeitos regressivos dos tributos incidentes sobre o consumo.",
@@ -697,7 +697,7 @@
         "D": "Concentração da carga tributária na origem dos bens e serviços.",
         "E": "A implantação de um sistema de IVA unitário."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Um dos objetivos da Reforma Tributária da Emenda Constitucional 132/2023 (EC 132/2023) foi criar mecanismos tributários de auxílio à preservação do meio ambiente. Acerca de tais instrumentos presentes na EC nº 132/2023, avalie as afirmativas a seguir: I. O impacto ambiental passa a ser um dos possíveis critérios para a fixação de alíquotas diferenciadas de IPVA. II. A concessão de incentivo regional de diferimento temporário de tributos federais devidos por pessoa jurídica considerará, sempre que possível, critérios de sustentabilidade ambiental e redução das emissões de carbono. III. Do produto da arrecadação do Imposto sobre Bens e Serviços (IBS) distribuída aos Estados, certo percentual será creditado aos Municípios com base em indicadores de preservação ambiental de acordo com o que dispuser lei federal. IV. Na aplicação dos recursos do Fundo Nacional de Desenvolvimento Regional, os Estados e o Distrito Federal priorizarão projetos que prevejam ações de sustentabilidade ambiental e redução das emissões de carbono. Está correto o que se afirma em:",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -714,7 +714,7 @@
         "D": "I, II e IV, apenas.",
         "E": "I, II, III e IV."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "O novo cargo criado pela Reforma Tributária de Presidente do Comitê Gestor do novo Imposto sobre Bens e Serviços (IBS) apresentará um relevante papel na arrecadação tributária em nosso país. Em razão disso, a Emenda Constitucional nº 132/2023 (EC 132/2023) inseriu no próprio texto constitucional um regime especial para esse cargo. Assinale a opção que corretamente indica uma característica do regime desse cargo presente no atual texto da Constituição Federal de 1988.",
       "alternatives": {
         "A": "Apenas o Senado Federal poderá convocar o Presidente do Comitê Gestor do IBS para prestar, pessoalmente, informações sobre assunto previamente determinado.",
@@ -731,7 +731,7 @@
         "D": "Apenas a Mesa do Senado Federal poderá encaminhar pedidos escritos de informações ao Presidente do Comitê Gestor do IBS.",
         "E": "Apenas a Mesa do Congresso Nacional poderá encaminhar pedidos escritos de informações ao Presidente do Comitê Gestor do IBS."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "O Município Alfa pretende implantar um sistema de câmeras de monitoramento para segurança e preservação de logradouros públicos, mas necessita de recursos para fazê-lo. À luz das mudanças introduzidas pela Emenda Constitucional nº 132/2023 (EC 132/2023), tal Município poderá instituir",
       "alternatives": {
         "A": "taxa municipal voltada a custear o monitoramento para segurança e preservação de logradouros públicos, por se tratar de serviço público específico e divisível.",
@@ -748,7 +748,7 @@
         "D": "imposto municipal de monitoramento para segurança e preservação de logradouros públicos, cujo fato gerador é a prestação de tal serviço público específico e divisível.",
         "E": "taxa municipal voltada a custear o monitoramento para segurança e preservação de logradouros públicos, ainda que tal serviço público não seja específico e divisível."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Acerca do regime a ser aplicado tanto ao Imposto sobre Bens e Serviços (IBS) como à Contribuição sobre Bens e Serviços (CBS), a ser implantado com base nas normas da Emenda Constitucional nº 132/2023 (EC 132/2023), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Devem ser observadas as mesmas regras para o IBS e a CBS em relação às bases de cálculo e alíquotas. ( ) Embora as regras em relação aos fatos geradores do IBS e CBS devam ser as mesmas, tal obrigatoriedade de uniformidade não se coloca para as hipóteses de não incidência. ( ) O IBS e a CBS observarão as mesmas regras em relação a regras de creditamento, mas não em relação a regras de não cumulatividade. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – F.",
@@ -765,7 +765,7 @@
         "D": "V – V – V.",
         "E": "V – F – F."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Acerca do regime constitucional do Novo Imposto Seletivo incidente sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, julgue as afirmativas abaixo: I. Integrará sua própria base de cálculo. II. Terá suas alíquotas fixadas em lei complementar, podendo ser específicas, por unidade de medida adotada, ou ad valorem. III. Não incidirá sobre as operações com energia elétrica e com telecomunicações. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -782,7 +782,7 @@
         "D": "I e II, apenas.",
         "E": "II e III, apenas."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Maria faleceu em Cuiabá (MT) em 10/08/2024, mas era domiciliada no Distrito Federal. Como herança, deixou ações cotadas na bolsa de valores brasileira para Júlia, sua única filha e herdeira, maior e capaz, domiciliada em São Paulo (SP). Júlia resolveu realizar o inventário extrajudicial de sua mãe no Rio de Janeiro (RJ), pois ali atuava tabelião de sua confiança. À luz das regras sobre o Imposto de Transmissão Causa Mortis e Doações (ITCMD) trazidas pela Emenda Constitucional nº 132/2023, o ITCMD sobre tais ações deixadas em herança é devido",
       "alternatives": {
         "A": "ao Estado do Mato Grosso, local de falecimento de Maria.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "A Emenda Constitucional nº 132/2023 estabelece, em seu Art. 159 – A, que “Fica instituído o Fundo Nacional de Desenvolvimento Regional, com o objetivo de reduzir as desigualdades regionais e sociais, nos termos do Art. 3º, III, ...” Avalie se o referido fundo será instituído mediante a entrega de recursos da União aos Estados e ao Distrito Federal para: I. realização de estudos, projetos e obras de infraestrutura; II. fomento a atividades produtivas com elevado potencial de geração de emprego e renda, incluindo a concessão de subvenções econômicas e financeiras; III. promoção de ações com vistas ao desenvolvimento científico e tecnológico e à inovação. Está correto o que se apresenta em",
       "alternatives": {
         "A": "I, apenas.",
@@ -816,7 +816,7 @@
         "D": "II e III, apenas.",
         "E": "I, II e III."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Acerca das alíquotas do Imposto sobre Bens e Serviços (IBS) de competência compartilhada entre Estados, Distrito Federal e Municípios, inserido na Constituição Federal de 1988 pela Reforma Tributária advinda da Emenda Constitucional nº 132/2023, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Cada ente federativo fixará sua alíquota própria de IBS por lei específica.",
@@ -833,7 +833,7 @@
         "D": "A alíquota fixada pelo ente federativo será a mesma para todas as operações com bens materiais ou imateriais, inclusive direitos, ou com serviços, sem possibilidade de qualquer exceção.",
         "E": "Resolução do Senado Federal fixará alíquota de referência do imposto para cada esfera federativa, nos termos de lei complementar, a qual deverá ser obrigatoriamente seguida por cada ente federativo."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "A Emenda Constitucional nº 132/2023 trouxe novas regras sobre o sujeito passivo no Imposto sobre Bens e Serviços (IBS). A respeito desse tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Não incidirá o IBS quando a pessoa física que efetuar importação de bens materiais não se configurar como sujeito passivo habitual desse imposto.",
@@ -850,7 +850,7 @@
         "D": "Lei complementar poderá definir como sujeito passivo do IBS a pessoa que concorrer para a realização, a execução ou o pagamento da operação, ainda que residente ou domiciliada no exterior.",
         "E": "Lei ordinária disporá sobre as hipóteses de devolução do imposto a pessoas físicas que sejam sujeito passivo do IBS, inclusive os limites e os beneficiários, com o objetivo de reduzir as desigualdades de renda."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Os Estados, o Distrito Federal e os Municípios exercerão de forma integrada, exclusivamente por meio do Comitê Gestor do Imposto sobre Bens e Serviços (IBS), nos termos e limites estabelecidos na Constituição Federal de 1988 e em lei complementar, uma série de competências administrativas relativas ao IBS. Acerca do exercício dessas competências à luz da Emenda Constitucional nº 132/2023, é de atribuição do Comitê Gestor do IBS",
       "alternatives": {
         "A": "efetuar as compensações referentes ao IBS.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Dada a grande relevância do novo Comitê Gestor do Imposto sobre Bens e Serviços (IBS) para a arrecadação do novo imposto, vital para a sustentabilidade financeira de Estados, Distrito Federal e Municípios, a própria Constituição Federal de 1988 passa a veicular regras acerca de sua composição e modo de deliberação. A esse respeito, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O Presidente do Comitê Gestor do IBS deverá ter notórios conhecimentos de economia.",
@@ -884,7 +884,7 @@
         "D": "As deliberações no âmbito do Comitê Gestor do IBS serão consideradas aprovadas se obtiverem, quanto ao conjunto dos Municípios e do Distrito Federal, o voto da maioria simples de seus representantes.",
         "E": "A participação dos entes federativos na instância máxima de deliberação do Comitê Gestor do IBS observará a composição de 14 (quatorze) membros, representando o conjunto dos Municípios e do Distrito Federal."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "A Reforma Tributária trazida pela Emenda Constitucional nº 132/2023 realizou algumas alterações na dinâmica da repartição constitucional de receitas tributárias. A esse respeito, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Pertence aos Municípios 10% do produto da arrecadação do Imposto sobre Bens e Serviços (IBS) distribuída aos Estados.",
@@ -901,7 +901,7 @@
         "D": "A União entregará, do produto da arrecadação do Imposto Seletivo sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, 20,5% ao Fundo de Participação dos Estados e do Distrito Federal.",
         "E": "A União entregará, do produto da arrecadação do Imposto Seletivo sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente, 20% aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Acerca da nova Contribuição sobre Bens e Serviços (CBS), inserida na Constituição Federal de 1988 pela Emenda Constitucional nº 132/2023, julgue as afirmativas abaixo: I. Será de competência compartilhada entre União, Estados, Distrito Federal e Municípios. II. Poderá ter sua alíquota fixada em lei ordinária. III. Lei estabelecerá as hipóteses de devolução da CBS a pessoas físicas, inclusive em relação a limites e beneficiários, com o objetivo de reduzir as desigualdades de renda. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "A Reforma Tributária, por meio da Emenda Constitucional nº 132/2023 (EC 132/2023), veiculou diversas alterações no Ato das Disposições Constitucionais Transitórias envolvendo prazos fiscais. A respeito dessas alterações, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Foi prorrogado o prazo das Desvinculações de Receitas da União, Estados e Municípios para 31.12.2032.",
@@ -935,7 +935,7 @@
         "D": "A partir de 2026, será cobrada a nova Contribuição sobre Bens e Serviços (CBS).",
         "E": "A partir de 2027, será cobrado o novo Imposto Seletivo sobre produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Considere a seguinte situação hipotética: o Município de Cuiabá, por meio de sua Procuradoria, ajuíza execução fiscal em face da Empresa X. Nesse caso, o prazo correto para a oposição de embargos à execução fiscal pela Empresa x é de",
       "alternatives": {
         "A": "30 dias, contados da citação.",
@@ -952,7 +952,7 @@
         "D": "10 dias, contados do depósito.",
         "E": "15 dias, contados da intimação da penhora."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Em relação à ação rescisória no âmbito do direito tributário, analise as afirmativas a seguir: I. O direito à rescisão se extingue em 5 (cinco) anos contados do trânsito em julgado da última decisão proferida no processo. II. Cabe ação rescisória quando a decisão transitada em julgado estiver em harmonia com o entendimento firmado pelo Plenário do STF à época da formalização do acórdão rescindendo, desde que ocorra posterior superação do precedente pelo próprio STF. III. A decisão do STF declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a propositura de ação rescisória própria. Está correto o que se afirma em:",
       "alternatives": {
         "A": "III, apenas.",
@@ -969,7 +969,7 @@
         "D": "I e III, apenas.",
         "E": "I, II e III."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Considere que a Empresa XYZ foi atuada pelo Município de Cuiabá e apresentou defesa administrativa tempestiva. O auto de infração visa à cobrança de IPTU no valor de R$ 50.000,00. De acordo com o Código Tributário do Município, é correto afirmar que",
       "alternatives": {
         "A": "o fiscal autuante não analisará os documentos e alegações após a apresentação da defesa pela Empresa XYZ.",
@@ -986,7 +986,7 @@
         "D": "os prazos para defesa e recurso serão contados em dias úteis, excluindo-se, na sua contagem, o dia do início, incluindo-se o do vencimento.",
         "E": "eventual interposição de recurso voluntário pela Empresa XYZ não suspende a exigibilidade do crédito tributário."
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Com base no CTN e na jurisprudência sobre consignação em pagamento em matéria tributária, avalie as afirmativas a seguir e assinale (V) para a afirmativa verdadeira e (F) para a afirmativa falsa. ( ) Cabe ação consignatória para o reconhecimento do direito ao parcelamento negado administrativamente. ( ) Cabe ação consignatória quando dois municípios estiverem exigindo ISS sobre a mesma prestação de serviço. ( ) A procedência da ação, com a conversão em renda do valor depositado, extingue o crédito tributário. As afirmativas são, respectivamente",
       "alternatives": {
         "A": "F, V e F.",
@@ -1003,7 +1003,7 @@
         "D": "V, V e F.",
         "E": "F, F e V."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Considere a seguinte situação hipotética: um contribuinte é intimado de Notificação Fiscal, visando à cobrança de imposto, lavrado pelo Município de Cuiabá e protocola, junto à repartição competente, defesa administrativa. A decisão de 1ª instância administrativa mantém integramente o auto de infração, sendo desfavorável ao contribuinte. Diante da hipótese, é correto afirmar que",
       "alternatives": {
         "A": "o contribuinte poderá interpor recurso ao conselho de recursos tributários, podendo, na ocasião, oferecer qualquer meio de prova admitida em direito, exceto a prova testemunhal.",
@@ -1020,7 +1020,7 @@
         "D": "o contribuinte poderá interpor recurso administrativo, no prazo de 15 dias, se a decisão monocrática divergir de decisão do Pleno, quanto à interpretação e aplicação da legislação tributária.",
         "E": "o contribuinte poderá interpor recurso ao conselho de recursos tributários, no prazo de 30 dias, sendo vedada, na 2ª instância administrativa, a produção de novas provas. Direito Administrativo II e Direito Constitucional II"
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Geraldo foi aprovado no concurso público para o cargo de Auditor Fiscal Tributário da Receita Municipal da Secretaria Municipal de Fazenda de Cuiabá, em razão do que passou a analisar as normas constantes do Regime Jurídico dos Servidores Públicos do aludido Município (Lei Complementar nº 93/2003) em relação ao estágio probatório pelo qual irá passar quando for investido no referido cargo. Nesse contexto, Geraldo verificou corretamente que",
       "alternatives": {
         "A": "não é necessária a avaliação de desempenho para fins de aquisição da estabilidade, bastando, para tal finalidade, o transcurso do prazo do estágio probatório sem o cometimento de infração funcional.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Juliana, no exercício de suas atribuições como servidora pública do Município de Cuiabá, foi questionada acerca das peculiaridades atinentes aos contratos de prestação de serviços contínuos, notadamente nas situações que envolvam alocação de mão de obra, à luz do disposto na Lei nº 14.133/2021. Diante dessa situação hipotética, assinale a resposta correta a ser dada por Juliana.",
       "alternatives": {
         "A": "Nos contratos de serviços contínuos o critério de reajustamento, observado o interregno mínimo de um ano da data da formalização do contrato, mediante demonstração analítica da variação dos custos, é designado de reajustamento em sentido estrito, dependendo de requerimento e demonstração pelo contratado para a sua efetivação.",
@@ -1054,7 +1054,7 @@
         "D": "Nos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra, a repactuação deve ser realizada independentemente de requerimento do contratado, inexistindo prazo para que a Administração responda a tal pedido, caso venha a ser formulado mediante apresentação de documentos pelo interessado.",
         "E": "Nas contratações de serviços contínuos com dedicação exclusiva de mão de obra, para assegurar o cumprimento das obrigações trabalhistas pelo contratado, é vedado que o edital e o contrato prevejam, entre outras medidas, a de condicionar o pagamento à comprovação de quitação das obrigações trabalhistas vencidas relativas ao contrato."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "As autoridades competentes do órgão com atribuições de apurar e aplicar penalidades administrativas previstas na Lei nº 12.846/2013 (Lei anticorrupção) em âmbito municipal, observaram as seguintes situações: 1ª: prática de ato lesivo à Administração Municipal por determinada associação, sem fins lucrativos; 2ª: determinada sociedade empresária, após a prática de ato lesivo à Administração Municipal, foi incorporada por outra sociedade empresária, sem intuito fraudulento, fato que ocorreu no curso do processo administrativo de responsabilização Nesse cenário, considerando o disposto na norma em comento, é correto afirmar que",
       "alternatives": {
         "A": "em ambas as situações é possível a aplicação em âmbito administrativo da penalidade de multa, sendo certo que na 2ª situação a responsabilidade da sucessora (incorporadora) será restrita à obrigação de pagamento de multa até o limite do patrimônio transferido.",
@@ -1071,7 +1071,7 @@
         "D": "considerando que apenas a 2ª situação se refere à sociedade empresária, somente nesse caso seria possível na esfera administrativa aplicar à sucessora (incorporadora) as penalidades de suspensão ou interdição de suas atividades, que tem intuito lucrativo.",
         "E": "ambas as situações são excepcionadas da responsabilização administrativa em questão, sendo aplicáveis somente as penalidades decorrentes da responsabilização judicial, que incluem a dissolução compulsória da pessoa jurídica a depender das peculiaridades das infrações por elas cometidas."
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "José, servidor público de certo município, foi designado para exercer atribuições relacionadas ao controle das atividades realizadas pelas sociedades de economia mista e empresas públicas que integram a Administração Indireta de tal ente federativo. Em razão disso, ele passou a analisar as normas atinentes à fiscalização quanto à legitimidade, à economicidade e à eficácia da aplicação de recursos por tais entidades administrativas, sob o ponto de vista contábil, financeiro, operacional e patrimonial, na forma em que previsto na Lei nº 13.303/2016, vindo a concluir corretamente que.",
       "alternatives": {
         "A": "o órgão de controle, para a realização de tal atividade fiscalizatória, não poderá ter acesso a documentos classificados como sigilosos pela entidade fiscalizada, desde que a classificação tenha sido realizada em consonância com a Lei de Acesso à Informação.",
@@ -1088,7 +1088,7 @@
         "D": "o grau de confidencialidade será atribuído pela entidade fiscalizada no ato de entrega dos documentos e informações solicitados, não cabendo, contudo, a corresponsabilização do órgão de controle pela manutenção do sigilo da informação com ele compartilhada no exercício da atividade fiscalizatória.",
         "E": "as ações e deliberações do órgão de controle devem condicionar, interferindo, portanto, na gestão das empresas públicas e das sociedades de economia mista a ele submetidas, sendo inegável a ingerência da atividade fiscalizatória no exercício de suas competências ou na definição de políticas públicas."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Após a resposta a uma consulta, a Administração Pública de certo Município alterou a sua orientação acerca de determinado conceito jurídico indeterminado, que é um dos requisitos para o deferimento de determinado ato administrativo vinculado. Importante destacar que não houve modificação na norma, mas nova interpretação a ela conferida, diversa de orientação geral anterior, que importa na imposição de novo condicionamento para os interessados em se beneficiar do aludido ato administrativo. Considerando as normas acerca da interpretação e aplicação do direito público introduzidas pela Lei nº 13.655/2018 no Decreto- Lei nº 4.657/42, é correto afirmar que.",
       "alternatives": {
         "A": "é cabível a invalidação de atos deferidos e que tenham exaurido os seus efeitos com base na interpretação anterior, que não deve mais persistir diante da novel orientação.",
@@ -1105,7 +1105,7 @@
         "D": "é inviável a imposição de novo condicionamento por alteração de interpretação acerca de conceito jurídico indeterminado, sendo indispensável a modificação legislativa para tanto.",
         "E": "é vedado que a nova interpretação resulte na invalidação de situações plenamente constituídas com base nas orientações gerais da época de seu deferimento."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Com o objetivo de atualizar o regime jurídico dos servidores públicos do Município Sigma, editado em momento anterior à promulgação da Constituição da República de 1988, o Prefeito Municipal apresentou projeto de lei alterando a sistemática de promoção dos servidores. Ao analisar a proposição legislativa, a Câmara Municipal aprovou uma emenda parlamentar que promovia alterações no processo administrativo disciplinar, de modo a adequar as sanções cominadas ao referencial constitucional de proporcionalidade. Ao fim do processo legislativo, o Prefeito Municipal sancionou a Lei nº X. Por não concordar com as alterações promovidas, o Presidente do Partido Político Kappa, de oposição ao Prefeito Municipal, solicitou que sua assessoria analisasse a conformidade constitucional das alterações promovidas no processo administrativo disciplinar pela Lei nº X, sendo-lhe corretamente informado que",
       "alternatives": {
         "A": "como se trata de matéria de iniciativa privativa do Chefe do Poder Executivo, houve vício de iniciativa.",
@@ -1122,7 +1122,7 @@
         "D": "na medida em que o processo legislativo teve tramitação regular, sendo o projeto regularmente sancionado, estão preclusas as discussões sobre a sua juridicidade.",
         "E": "apesar de se tratar de matéria de iniciativa privativa do Chefe do Poder Executivo, em razão da pertinência temática, a emenda parlamentar observou a ordem constitucional."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "A sociedade de economia mista Alfa faz parte da administração pública indireta do Estado Sigma e não distribui lucros a acionistas privados. Atua, com exclusividade, a partir de concessão de Sigma, na exploração do serviço local de gás canalizado, e cobra tarifas dos usuários do serviço. Alfa, ao ver dos seus dirigentes, está imune ao pagamento do imposto sobre propriedade predial e territorial urbana (IPTU). À luz da sistemática constitucional, é correto afirmar em relação à narrativa apresentada que",
       "alternatives": {
         "A": "os dirigentes de Alfa estão certos.",
@@ -1139,7 +1139,7 @@
         "D": "a imunidade fruída por Alfa somente alcança os impostos de Sigma, não um imposto municipal.",
         "E": "os dirigentes de Alfa somente estarão certos em relação ao IPTU incidente sobre os imóveis diretamente utilizados na atividade finalística."
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "O projeto de lei orçamentária anual do Município Alfa previa a concessão de autorização do Poder Legislativo, ao Poder Executivo, para a realização de operação de crédito com instituição financeira, observados os limites de crescimento da dívida pública, sendo que a referida operação se daria por antecipação de receita. Ao ser analisado no âmbito da comissão competente da Câmara Municipal de Alfa, concluiu-se que o projeto, nessa parte",
       "alternatives": {
         "A": "veicula cauda orçamentária, o que é vedado.",
@@ -1156,7 +1156,7 @@
         "D": "se harmoniza com a ordem constitucional, por ser expressamente permitida a autorização dessa operação.",
         "E": "se harmoniza com a ordem constitucional, desde que a autorização tenha sido inicialmente prevista na lei de diretrizes orçamentárias."
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "João, logo após assumir a Secretaria de Promoção Social do Município Alfa, buscou se inteirar, junto à sua equipe, em relação aos aspectos conceituais das políticas públicas afetas à juventude. Um dos participantes dessa reunião observou que o plano nacional de juventude: I. é veiculado em decreto do Chefe do Poder Executivo federal; II. visa à articulação das diversas esferas do poder público; III. estabelece o percentual mínimo da receita corrente líquida a ser aplicado em prol da juventude; Ao analisar a sistemática constitucional, João concluiu corretamente, em relação a essas três assertivas, que.",
       "alternatives": {
         "A": "todas estão certas.",
@@ -1173,7 +1173,7 @@
         "D": "apenas a I e a III estão certas.",
         "E": "apenas a II e a III estão certas."
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Direito Processual Civil",
       "statement": "Logo após o julgamento da ação direta de inconstitucionalidade nº X e do decurso do prazo para a oposição de embargos de declaração, a Assembleia Legislativa do Estado Alfa constatou que o Supremo Tribunal Federal declarou a inconstitucionalidade da Lei estadual nº Y, sem ter levado em consideração, na fundamentação do acórdão, algumas alterações promovidas nesse diploma normativo no curso de sua vigência. Ao ver da Assembleia Legislativa, caso essas alterações fossem consideradas, o resultado do julgamento seria outro. À luz da sistemática normativa vigente, é correto afirmar que",
       "alternatives": {
         "A": "pode ser ajuizada ação rescisória.",
@@ -1190,7 +1190,7 @@
         "D": "podem ser opostos embargos de declaração com efeitos infringentes.",
         "E": "o Estado Alfa não pode editar outro diploma normativo de teor idêntico ao da Lei estadual nº Y. Realização"
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,

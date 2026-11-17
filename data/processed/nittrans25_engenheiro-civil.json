@@ -134,7 +134,7 @@
         "B": "A solidão é o destino de todos os espíritos eminentes.",
         "C": "A civilização converteu a solidão num dos bens mais preciosos que a alma humana possa desejar.",
         "D": "Não nascemos apenas para nós mesmos.",
-        "E": "O forte tem o máximo poder quando está só. História, Geografia e Atualidades de Niterói"
+        "E": "O forte tem o máximo poder quando está só."
       },
       "answer": "D",
       "annulled": false,
@@ -304,7 +304,7 @@
         "B": "3 – 1 – 2 – 4.",
         "C": "3 – 4 – 1 – 2.",
         "D": "1 – 3 – 4 – 2.",
-        "E": "2 – 3 – 4 – 1. Informática"
+        "E": "2 – 3 – 4 – 1."
       },
       "answer": "D",
       "annulled": false,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Francisco, agente da Nittrans, precisa enviar um manual de procedimentos por e-mail. Ele optou por salvar o documento original do MS Word 365 (BR) em PDF para garantir que todos os colegas consigam visualizá-lo da mesma forma, sem preocupações com edição. A esse respeito, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O formato PDF é ideal pois preserva a formatação do texto independentemente do sistema operacional ou software utilizado para abri-lo. ( ) Um arquivo PDF não pode ser protegido por senha, o que é um risco para a confidencialidade do manual. ( ) Ao salvar em PDF a partir do Word, Francisco perde a capacidade de editar o documento posteriormente, a menos que utilize software específico ou abra o arquivo original .DOCX. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Luciana, da administração da Nittrans, precisa criar uma planilha para controlar o consumo de combustível da frota de veículos. Acerca dos arquivos de planilha eletrônica, avalie as afirmativas a seguir. I. O formato .CSV (Valores Separados por Vírgula) preserva fórmulas, formatação de células e gráficos. complexos, assim como o .XLSX. II. O formato .XLSX, padrão do Microsoft Excel, é baseado em texto puro (ASCII), o que facilita sua abertura em qualquer editor de texto, mas dificulta a execução de cálculos. III. O formato .ODS (OpenDocument Spreadsheet) é um padrão internacional aberto para planilhas, podendo ser aberto por suítes alternativas como LibreOffice e Google Sheets, além do próprio Microsoft Excel. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Bia, que trabalha no setor administrativo da Nittrans, migrou recentemente de um computador com Windows 7 para outro com Windows 8.1 e está com dificuldades para localizar funções que eram acessíveis pelo “Menu Iniciar”. Sobre as diferenças na interface do Windows 8/8.1 em comparação ao Windows 7, avalie as afirmativas a seguir. I. A tela inicial (Start Screen) substitui o Menu Iniciar tradicional e é composta por blocos dinâmicos (tiles) que podem exibir informações em tempo real. II. Para acessar o menu de desligar o sistema, o usuário deve abrir a “Barra de Charms” (movendo o mouse para um dos cantos da tela) e clicar em “Configurações”. III. O “Desktop” (Área de Trabalho) foi removido do Windows 8, sendo possível executar aplicativos apenas na interface moderna de tela inicial. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -365,14 +365,14 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Informática",
       "statement": "Um agente da Nittrans precisa baixar um grande arquivo de vídeo de uma câmera de trânsito para análise. Ele nota que a velocidade de download está muito abaixo do esperado. Acerca de transferência de arquivos e conceitos de rede, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A velocidade de download é medida em megabytes por segundo (MB/s), enquanto a velocidade contratada da internet é anunciada em megabits por segundo (Mb/s); 1 MB/s equivale a 8 Mb/s.",
         "B": "O termo “banda larga” refere-se à capacidade de transmissão de dados de um link de comunicação, ou seja, quanto maior a banda, maior a velocidade potencial de upload e download.",
         "C": "Fazer upload de um arquivo significa excluí-lo de um servidor na internet, liberando espaço.",
         "D": "A velocidade de transferência depende exclusivamente da capacidade do computador do usuário, sendo independente da congestão da rede ou da distância do servidor.",
-        "E": "Browsers como Chrome e Firefox não possuem gerenciadores de download próprios, exigindo sempre um software de terceiros para pausar ou retomar transferências. Raciocínio Lógico e Matemático"
+        "E": "Browsers como Chrome e Firefox não possuem gerenciadores de download próprios, exigindo sempre um software de terceiros para pausar ou retomar transferências."
       },
       "answer": "B",
       "annulled": false,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma empresa de transportes possui vans de cinco modelos diferentes e todas usam mesmo tipo de combustível. No período de uma semana, foram anotados os números de quilômetros percorridos por cada uma das vans e a quantidade de combustível, em litros, que cada uma consumiu. Os dados estão na tabela abaixo. Quilômetros Litros Van A 180 20 Van B 250 30 Van C 310 32 Van D 360 34 Van E 400 40 Em consumo de combustível, km/litro, a van mais econômica é a",
       "alternatives": {
         "A": "Van A.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A figura abaixo mostra um retângulo ABCD e um paralelogramo MNPQ inscrito. São dadas as medidas: AM = 8, MB = 4, BN = 3 e NC = 6 em alguma unidade. Os pontos móveis X e Y são tais que: • X percorre o contorno do retângulo no sentido anti-horário partindo do ponto A; • Y percorre o contorno do paralelogramo no sentido anti- horário partindo do ponto M; • a velocidade de Y é o dobro da velocidade de X; • os dois móveis partem simultaneamente. No instante em que o móvel X termina sua oitava volta, o móvel Y está",
       "alternatives": {
         "A": "no ponto P.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma empresa de transportes interestaduais possui 160 funcionários: uns são motoristas e os demais trabalham na administração da empresa. Os funcionários com mais de 5 anos de casa são chamados de “antigos”, e os demais são os funcionários “novos”. Sabe-se que: • há 48 motoristas a mais do que funcionários administrativos. • os funcionários antigos são 62. • são 30 os funcionários novos que trabalham na administração. Nessa empresa, o número de motoristas novos supera o número de motoristas antigos em",
       "alternatives": {
         "A": "32.",
@@ -433,14 +433,14 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Dois dados comuns (com faces contendo os números de 1 a 6) são lançados simultaneamente. Seja P a probabilidade de que as faces superiores não mostrem números consecutivos. Entre as opções a seguir, a que mais se aproxima de P é:",
       "alternatives": {
         "A": "0,67.",
         "B": "0,72.",
         "C": "0,77.",
         "D": "0,81.",
-        "E": "0,86. Legislação"
+        "E": "0,86."
       },
       "answer": "B",
       "annulled": false,
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com a Lei Orgânica de Niterói, compete privativamente ao Município",
       "alternatives": {
         "A": "proporcionar os meios de acesso à cultura, à educação e à ciência.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei nº 13.303, de 2016, conhecida como Lei das Estatais, dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios. Com base nessa lei, em relação ao regime societário da empresa pública e da sociedade de economia mista, avalie se as afirmativas a seguir estão corretas. I. A sociedade de economia mista será constituída sob a forma de sociedade anônima. II. O estatuto da empresa pública, da sociedade de economia mista e de suas subsidiárias deverá observar regras de governança corporativa, de transparência e de estruturas, práticas de gestão de riscos e de controle interno, composição da administração e, havendo acionistas, mecanismos para sua proteção. III. Aplicam-se a todas as empresas públicas, as sociedades de economia mista de capital fechado e as suas subsidiárias as disposições da Lei nº 6.404, de 15 de dezembro de 1976, e as normas da Comissão de Valores Mobiliários sobre escrituração e elaboração de demonstrações financeiras, inclusive a obrigatoriedade de auditoria independente por auditor registrado nesse órgão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base no Código de Trânsito Brasileiro, avalie se competem aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição: I. Cumprir e fazer cumprir a legislação e as normas de trânsito, no âmbito de suas atribuições. II. Planejar, projetar, regulamentar e operar o trânsito de veículos, de pedestres e de animais e promover o desenvolvimento, temporário ou definitivo, da circulação, da segurança e das áreas de proteção de ciclistas. III. Implantar, manter e operar o sistema de sinalização, os dispositivos e os equipamentos de controle viário. IV. Coletar dados estatísticos e elaborar estudos sobre os sinistros de trânsito e suas causas. Estão corretos os itens",
       "alternatives": {
         "A": "I, II, III e IV.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei Municipal nº 2283, de 28/12/2005, autoriza o Poder Executivo a constituir e organizar a sociedade de economia mista, sob a forma de sociedade anônima, denominada Niterói Transporte e Trânsito S/A - NITTRANS. Com base nessa lei, as afirmativas a seguir estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "A NITTRANS, com personalidade jurídica de direito privado, terá sede e foro na Cidade de Niterói, prazo de duração indeterminado e jurisdição em todo o Município de Niterói.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base na Lei Municipal nº 2283, de 28/12/2005, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F): ( ) Nenhum servidor da NITTRANS poderá ser posto à disposição de quaisquer outros órgãos ou entidades com ônus para a companhia. ( ) No exercício de suas atividades a NITTRANS poderá estabelecer normas de acordo com a legislação relativa a transporte coletivo e individual de passageiros, tráfego, trânsito e Sistema Viário Municipal. ( ) A NITTRANS gozará de isenção Tributária Municipal. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com o Código de Trânsito Brasileiro, o coordenador do Sistema Nacional de Trânsito e órgão máximo normativo e consultivo é o(a)",
       "alternatives": {
         "A": "Conselho Nacional de Trânsito – CONTRAN.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie, com base na Lei Urbanística de Niterói (Lei nº 3.905, de 20 de maio de 2024), se as seguintes afirmativas a respeito das estratégias de ordenamento territorial estão corretas: I. Como Estratégia de Ordenamento Territorial, o território do Município de Niterói fica dividido em zonas de uso caracterizadas pelo conjunto de regras de parcelamento, ocupação e uso do solo aplicáveis às respectivas porções do território. II. A Estratégia de Integração entre Transporte e Uso do solo consiste em promover a mobilidade urbana sustentável a partir da forma urbana compacta, com densidades equilibradas ao longo dos eixos de estruturação e diferentes centralidades com diversificação de usos, de modo a promover o encurtamento das distâncias e reduzir a necessidade de viagens longas motorizadas, em especial, por automóveis. III. A Estratégia de Qualificação da Ocupação Urbana consiste em utilizar o térreo e o embasamento da edificação para conferir melhor relação entre o interior do lote e a rua, vinculando parâmetros qualificadores que promovam a integração entre espaços públicos e privados e ampliar a sensação de segurança dos espaços públicos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei Orgânica do Município de Niterói estabelece que compete ao Município prover tudo quanto diga respeito ao interesse local e ao bem-estar de sua população. Avalie se cabe ao Município, privativamente, entre outras, as seguintes atribuições: I. fixar locais para estabelecimentos de pontos de táxis e demais veículos. II. fixar e sinalizar as zonas de silêncio, de trânsito e tráfego em condições especiais. III. sinalizar as vias urbanas e as estradas municipais, bem como regulamentar e fiscalizar sua utilização. IV. ordenar as atividades urbanas, fixando condições e horários para funcionamento de estabelecimentos industriais, comerciais e de serviços, observadas as normas federais pertinentes. V. dispor sobre os serviços funerários e cemitérios. Estão corretos os itens",
       "alternatives": {
         "A": "I, II, III, IV e V.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios é denominada:",
       "alternatives": {
         "A": "sociedade de economia mista.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei nº 2283, de 28/12/2005 estabelece que a NITTRANS será administrada por um Conselho de Administração e uma Diretoria Executiva e contará com um Conselho Fiscal. Avalie se a referida lei prevê que à Assembleia Geral compete, sem exclusão de outros casos previstos em lei, entre outras, as seguintes atribuições: I. Aprovar o Estatuto Social. II. Tomar, anualmente, as contas dos administradores, examinar, discutir e votar as demonstrações financeiras. III. Discutir e fixar a correção da expressão monetária do Capital Social. IV. Deliberar sobre a destinação do lucro líquido do exercício. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em relação ao licenciamento de veículos, conforma estabelece o Código Brasileiro de Trânsito, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Todo veículo automotor, articulado, reboque ou semirreboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Município onde estiver registrado o veículo. ( ) O Certificado de Licenciamento Anual será expedido ao veículo licenciado, vinculado ao Certificado de Registro de Veículo, em meio físico e/ou digital, à escolha do proprietário, de acordo com o modelo e com as especificações estabelecidos pelo Contran. ( ) No caso de transferência de residência ou domicílio, é válido, durante o exercício, o licenciamento de origem. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei nº 3.905/2024 dispõe sobre a Lei Urbanística de Niterói, seu zoneamento, a aplicação de instrumentos de política urbana e as regras gerais de licenciamento da atividade edilícia e de fiscalização da execução de obras. O Art. 18 dessa lei define as Zonas de Uso que compõem os Territórios de Qualificação. Em relação ao tema, leia a descrição a seguir: são porções do território destinadas, predominantemente, à moradia digna para a população da baixa renda por intermédio de melhorias urbanísticas, recuperação ambiental e regularização fundiária de assentamentos precários e irregulares, bem como à provisão de novas Habitações de Interesse Social - HIS a serem dotadas de equipamentos sociais, infraestruturas, em especial de saneamento ambiental, áreas verdes e comércios e serviços locais, situadas na zona urbana. A descrição se refere a",
       "alternatives": {
         "A": "Zona Uso Misto (ZUM).",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei nº 3.905/2024 (Lei Urbanística de Niterói) estabelece, em seu Título III, as diretrizes para o parcelamento do solo. Com base nessa lei, avalie se as afirmativas a seguir estão corretas. I. As áreas de preservação permanente, as áreas declaradas de Especial Interesse Ambiental e as unidades de conservação da natureza cuja destinação não permita a ocupação humana não serão excluídas do cômputo de áreas em qualquer forma de parcelamento. II. Nos projetos de parcelamento do solo deverão ser respeitados os recuos, as áreas \"non aedificandi\", as áreas de preservação permanente e as restrições impostas por unidades de conservação da natureza estabelecidas pelo Município e/ou órgão ambientais competentes. III. Os projetos de parcelamento deverão indicar as faixas de drenagem \"Non aedificandi\" ao longo dos cursos d`água, quando for o caso, de forma a garantir o acesso público na sua manutenção, o perfeito escoamento das águas e a conservação da vegetação de mata ciliar nativa existente. IV. A edificação em glebas não parceladas, de qualquer área ou de qualquer volume da construção, não estará condicionada ao prévio parcelamento do solo. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e IV, apenas.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Com base na Lei Orgânica do Município de Niterói, avalie se a administração pública direta e indireta, de qualquer dos Poderes do Município, obedecerá aos seguintes princípios: I. Legalidade. II. Impessoalidade. III. Moralidade. IV. Publicidade. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O projeto de arquitetura é composto por várias plantas que têm por objetivo representar suas formas e distribuição no espaço, atribuindo as informações necessárias para o que será construído, modificado ou que já exista, seja compreendido e interpretado de apenas uma maneira. Desse modo, relacione a coluna da esquerda, que apresenta algumas plantas típicas de um projeto de arquitetura, com a coluna da direita, que indica seus objetivos. (1) Planta de situação ( ) Planta com a função de situar a área de intervenção no terreno em relação às áreas vizinhas ou aos terrenos vizinhos que compõem a(s) quadra(s) e ao(s) logradouro(s) que a limita(m). (2) Planta de implantação ( ) Planta que compreende a localização e as dimensões da edificação, conjunto edificado ou espaços não edificados, e do edifício isolado no lote ou na área de intervenção, indicando, em escala compatível, as dimensões do terreno, recuos, projeção da(s) cobertura(s) e áreas permeáveis e impermeáveis. (3) Planta de pavimento ( ) Vista superior resultante de um plano secante horizontal, que corta a edificação em uma determinada altura. A sequência correta, de cima para baixo, é:",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "No âmbito de um projeto de sistema de combate e prevenção a incêndios para uma edificação comercial de grande porte, a elaboração de um plano de emergência é fundamental. Sobre esse plano, analise as afirmativas a seguir. I. No plano de emergência deve constar o organograma da equipe de emergências, incluindo o organograma da brigada de emergências. II. Os materiais que compõem a edificação, bem como sua população fixa e/ou flutuante (incluindo suas características) são dois aspectos a serem considerados na elaboração de um plano de emergência. III. O plano de emergência deve ser autossuficiente, ou seja, na sua elaboração o corpo de bombeiros, polícias, defesa civil, SAMU e outros agentes públicos de resposta às emergências e à comunidade (principalmente as edificações do entorno) não devem ser considerados. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Administração Pública necessita contratar uma solução tecnológica inovadora para modernizar o sistema de transporte urbano de uma grande capital. Entretanto, não possui condições de definir, de forma precisa, qual a melhor alternativa técnica disponível no mercado para atender suas necessidades. Nessa situação, dentre as modalidades de licitação previstas na Lei nº 14.133/2021, a mais adequada para a Administração Pública seria o(a)",
       "alternatives": {
         "A": "leilão.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei no 14133/2021 e suas atualizações estabelecem algumas hipóteses para a dispensa de licitação para contratações pela Administração Pública. No caso de contratação de obras e serviços de engenharia, a lei indica que é dispensável a licitação quando o valor envolvido for de até",
       "alternatives": {
         "A": "R$ 100.000,00",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Os domínios de dimensionamento em estruturas de concreto armado estabelecem o estado de deformação da seção transversal de um elemento estrutural, condicionando seu comportamento frente às cargas aplicadas e definindo o modo de ruptura. Nesse sentido, o domínio caracterizado pela ruptura convencional por encurtamento-limite do concreto e escoamento do aço, quando esse elemento estrutural é submetido à flexão simples, é o domínio:",
       "alternatives": {
         "A": "1.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A figura a seguir apresenta uma laje maciça de concreto armado, apoiada sobre quatro vigas, utilizada como cobertura de uma pequena edificação. (Dimensões em cm) Considerando uma carga de projeto de 4,0 kN/m2 uniformemente distribuída pela a laje, a reação de apoio uniformemente distribuída na viga V2 vale:",
       "alternatives": {
         "A": "1,13 kN/m",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Um engenheiro projeta a armadura de uma viga de concreto armado com resistência à compressão característica de 30 MPa. A viga possui seção transversal retangular ilustrada na figura a seguir. (Cotas em cm; vista meramente ilustrativa) Bitola Área 5,0 mm 0,197 mm2 6,3 mm 0,300 mm2 8,0 mm 0,500 mm2 10,0 mm 0,800 mm2 Sabe-se que os estribos, nessa viga, possuem 5 mm de diâmetro e o cobrimento requerido para as armaduras é de 25 mm. Admitindo que o engenheiro determinou que a armadura de flexão positiva da viga corresponde à armadura mínima admissível e sabendo que a dimensão máxima característica do agregado graúdo a ser utilizado é de 10 mm, a armadura mais econômica (menor volume de aço) é:",
       "alternatives": {
         "A": "2 barras de 5,0 mm.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Um pilar de concreto armado possui de seção transversal quadrada de lado 20 cm e altura total de 3,0 m. Sua armadura transversal é constituída por 4 barras de aço CA-50 de bitola 10 mm. Assim, a armadura transversal mínima para esse pilar será composta por barras de:",
       "alternatives": {
         "A": "5 mm, espaçadas de 12 cm.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em estruturas metálicas, as cargas aplicadas podem ser classificadas de acordo com sua natureza e forma de atuação. Desse modo, a alternativa que apresenta um exemplo de carga permanente direta, permanente indireta e variável, nessa ordem, é:",
       "alternatives": {
         "A": "imperfeições geométricas, retração e fluência.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "De acordo com a NBR 7190:2022, na caracterização usual das propriedades de rigidez de um dado lote de material, os resultados de ensaios realizados com diferentes teores de umidade da madeira, contidos no intervalo entre 10 % e 25 %, devem ser apresentados com os valores corrigidos para a umidade-padrão de 12 %. Assim, em um lote em que se determinou que o módulo de elasticidade da madeira é de 1200 MPa considerando umidade de 20%, o módulo de elasticidade a 12% de umidade vale:",
       "alternatives": {
         "A": "1148 MPa",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A figura a seguir apresenta uma viga biapoiada com um trecho em balanço. Sabe-se que essa viga possui seção transversal quadrada de lado 10 cm. Assim, a máxima tensão normal de flexão na seção transversal localizada no meio do vão BC vale:",
       "alternatives": {
         "A": "12 MPa",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Na figura a seguir, apresentam-se três blocos de madeira, mantidos em contato em regiões de comprimento 50 mm e profundidade (plano perpendicular ao do desenho) de 200 mm. O bloco central é submetido a uma carga compressiva P e a máxima tensão cisalhante média admissível nas superfícies em contato é de 15 MPa. Assim, a máxima carga P que pode ser aplicada ao bloco central para que não haja ruptura das regiões de contato é de:",
       "alternatives": {
         "A": "25 kN",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A figura a seguir apresenta duas colunas compostas pelo mesmo material e geometricamente idênticas. (a) (b) Ambas as colunas estão submetidas a cargas compressivas axiais e seus apoios são do terceiro gênero (engastes). Desse modo, pode-se afirmar que a razão entre a carga crítica de flambagem de Euler da coluna (b) e a coluna (a), isto é, Pb / Pa, vale:",
       "alternatives": {
         "A": "16,0",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O controle tecnológico do concreto é fundamental para garantir a qualidade e a segurança das estruturas construídas com esse material. Na imagem a seguir, apresenta-se um ensaio realizado com o concreto ainda fresco. Esse teste tem por objetivo principal avaliar a(o):",
       "alternatives": {
         "A": "consistência do concreto.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Duas bombas, 1 e 2, possuem, respectivamente, vazão de 20 L/s e 30 L/s. O rendimento da bomba 1, em condição operacional, é de 50%, enquanto a bomba 2 tem rendimento de 60%. Essas bombas são associadas como indicado na figura. Nessa condição, o rendimento do conjunto é de, aproximadamente:",
       "alternatives": {
         "A": "50,4%",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A instalação predial de água fria de uma edificação é formada por diferentes tubulações. Associe as tubulações indicadas na coluna da esquerda com suas respectivas definições apresentadas na coluna da direita. (1) Alimentador predial ( ) Tubulação da qual derivam as colunas de distribuição. (2) Barrilete ( ) Tubulação compreendida entre a rede pública de abastecimento de água e a extremidade a montante, por exemplo, da rede predial de distribuição. (3) Ramal predial ( ) Tubulação que liga a fonte de abastecimento a um reservatório de água ou à rede de distribuição predial. A sequência correta, de cima para baixo, é:",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Portaria GM/MS nº 888/2021 define os padrões de potabilidade da água para consumo humano no Brasil. De acordo com essa portaria, é obrigatória a manutenção de uma concentração mínima de cloro residual livre de",
       "alternatives": {
         "A": "0,01 mg/L.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Os sistemas de lodo ativado podem ser de operação contínua ou de operação intermitente. Sobre esses sistemas, analise as afirmativas a seguir. I. Os sistemas de lodo ativado com operação contínua apresentam tanques de aeração, quando se pretende a remoção da matéria orgânica carbonácea com ou sem nitrificação. II. Nos sistemas de operação intermitente, as etapas de alimentação e aeração ocorrem simultaneamente quando se pretende a remoção do nitrogênio por desnitrificação. III. Os sistemas de lodo ativado com operação intermitente (em batelada) e com reação-decantação alternadas (operação contínua) devem ser automatizados. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei no 14026/2020, que atualizou o marco nacional do saneamento básico, estabelece que os contratos de prestação dos serviços públicos de saneamento básico deverão definir metas de universalização que garantam o atendimento, até 31 de dezembro de 2033, de",
       "alternatives": {
         "A": "90% da população com água potável e 80% da população com coleta e tratamento de esgotos.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A Lei no 12305/2010 instituiu a Política Nacional de Resíduos Sólidos, que prevê a elaboração de plano municipal de gestão integrada de resíduos sólidos, é condição para que os Municípios tenham acesso a recursos da União destinados, dentre outros, a empreendimentos e serviços relacionados à limpeza urbana e ao manejo de resíduos sólidos. Um dos aspectos a serem observados nesse plano é",
       "alternatives": {
         "A": "a periodicidade de sua revisão, observado o período máximo de 5 anos.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em relação ao planejamento e controle de obras, analise as afirmativas a seguir. I. O projeto executivo é um resumo do projeto básico, contendo os principais aspectos para avaliação da diretoria II. No ciclo conhecido pela sigla PDCA, a letra “C” corresponde à tomada de ações corretivas III. O comissionamento consiste na colocação do objeto da obra em funcionamento e testes do produto final Está correto o que se afirma em",
       "alternatives": {
         "A": "II, apenas.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "As sapatas, elementos de fundação direta muito utilizadas em construção civil, podem apresentar diferentes configurações. Relacione as três terminologias aplicadas a elas, listadas a seguir, com uma característica que justifica sua aplicação: (1) corrida ( ) o centro de gravidade da sapata não coincide com o do pilar (2) alavancada ( ) a sapata é comum a mais de um pilar (3) associada ( ) a sapata está sujeita a uma carga distribuída linearmente A sequência correta das terminologias, de cima para baixo, é:",
       "alternatives": {
         "A": "1 – 3 – 2.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma laje de concreto, com 4 metros de comprimento, 3 metros de largura e 20 cm de espessura, deve possuir taxa de armadura de 0,2% de aço em relação ao volume total da estrutura, utilizando um aço com densidade de 8,0g/cm3. Sabendo-se que o custo unitário do concreto é de R$ 250,00m3 e o de aço é de 4,5 R$/kg, a soma dos custos de material para essa estrutura será de",
       "alternatives": {
         "A": "R$ 772,80.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Leia atentamente o texto a seguir, que descreve um tipo de custo definido pelo Sistema de Custos Rodoviários do DNIT (SICRO) “são aqueles associados ao transporte, desde sua origem até o local onde se implantará o canteiro de obras, dos recursos humanos não disponíveis no local da obra, bem como todos os equipamentos móveis e fixos” Estes custos são conhecidos como sendo de",
       "alternatives": {
         "A": "mão de obra e materiais.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A figura abaixo mostra uma rede PERT, onde os números indicam a duração, em meses, dos processos de uma obra que conectam os diversos estados em que ela pode se situar. Considerando que não haverá atraso em nenhum processo, a duração máxima da obra, em meses, vale:",
       "alternatives": {
         "A": "22",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O esquema a seguir mostra a proporção, em volume, dos elementos constituintes de uma amostra de solo. Os valores aproximados de índice de vazios e o grau de saturação desse solo são, respectivamente:",
       "alternatives": {
         "A": "0,20 e 45,5%",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Existem diversos tipos de exploração do subsolo, cuja aplicação depende da profundidade e características do solo a ser investigado. Um método de exploração que é aplicado em terrenos rochosos é o/a",
       "alternatives": {
         "A": "por auscultação.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A figura a seguir mostra as vazões médias mensais que chegam a um reservatório de abastecimento de água, ao longo de um ano. Se o reservatório tiver plena capacidade de regularizar essa vazão, pode-se dizer que se garante, em cada mês, uma vazão de abastecimento, em m3/s, de:",
       "alternatives": {
         "A": "810",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em geral, o assentamento de pisos cerâmicos é feito com argamassa de cimento e areia. Entretanto, pode-se adicionar uma pequena quantidade de cal à mistura com os objetivos de",
       "alternatives": {
         "A": "acelerar a pega e reduzir o custo do serviço.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A adesividade dos materiais betuminosos é muito importante para prolongar a vida útil dos pavimentos asfálticos. Uma ação que pode ser feita aos materiais betuminosos para aumentar sua adesividade é",
       "alternatives": {
         "A": "incluir aditivos.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A quantidade de água utilizada na preparação do concreto faz com ele possa receber diversas denominações. Nas obras de concreto simples e armado, o tipo de concreto mais adotado é o",
       "alternatives": {
         "A": "fluido.",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A figura a seguir mostra as cotas do greide e do terreno natural entre as estacas 0 a 5 de uma estrada, onde se adotou o estaqueamento padrão de 20m. Havendo corte, este deve ser realizado até 0,70m abaixo do greide, para realização das camadas de pavimentação, e o material de corte pode ser utilizado para aterro na própria estrada. Considerando que a largura da estrada é de 10m e desprezando- se os movimentos de terra para execução de taludes de corte e aterro, o volume de material a ser enviado para bota-fora, resultante desse serviço de terraplenagem, é de:",
       "alternatives": {
         "A": "700 m3",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Um bueiro deve escoar o volume de água referente a uma intensidade de chuva de projeto de 150 mm/h, em uma área de 0,5km2 de um solo com coeficiente de escoamento 0,3. Dadas essas características, e utilizando o método racional, a vazão de projeto para esse bueiro, em m3/s, deve ser de:",
       "alternatives": {
         "A": "5,75",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "As licenças ambientais são atos administrativos pelos quais o órgão ambiental estabelece as condições, restrições e medidas de controle e monitoramento ambientais que deverão ser cumpridas pelo responsável pelo projeto, empreendimento, atividade, ou obra licenciados. Dentre as licenças ambientais que podem ser emitidas, a que é conhecida pela sigla “AO” refere-se a uma autorização",
       "alternatives": {
         "A": "para realização de outras atividades que afetam o meio ambiente e que transcendem a finalidade principal do empreendimento.",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A sinalização vertical em uma rodovia adota um código de cores, em função do tipo de informação a ser prestada. Relacione as cores listados a seguir, com o tipo de sinalização a que se refere: (1) Amarela ( ) sinal de regulamentação (2) Verde ( ) sinal de indicação (3) Vermelha ( ) sinal de advertência A sequência correta das cores, de cima para baixo, é:",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O levantamento planimétrico de uma região pode ser feito sem considerar explicitamente a curvatura da terra, porém realizando uma triangulação prévia e utilizando critérios e métodos de cálculo e distribuição de erros mais rigorosos. Com isto, permite-se a realização do levantamento em regiões mais extensas. O tipo de levantamento descrito acima é denominado",
       "alternatives": {
         "A": "trigonométrico.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Dentre os componentes de uma barragem de terra, a estrutura conhecida como “rip-rap” exerce a função de",
       "alternatives": {
         "A": "proteção do talude de montante.",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O tratamento superficial simples é uma técnica de pavimentação que resulta em revestimentos delgados. Três etapas dessa técnica, em ordem cronológica de elaboração, são:",
       "alternatives": {
         "A": "Terraplenagem, compactação e aplicação do asfalto.",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A figura a seguir mostra uma estrutura de drenagem que pode ser empregada em uma rodovia: Este dispositivo é conhecido como dreno",
       "alternatives": {
         "A": "em “V”.",
@@ -1351,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A figura a seguir mostra a relação entre facilidade de acesso e facilidade de percurso em quatro tipos de vias, classificadas de acordo com sua hierarquização funcional. A alternativa que indica corretamente o tipo de via associada a cada número, no gráfico acima, é:",
       "alternatives": {
         "A": "(1) local; (2) coletora; (3) expressa; (4) arterial",

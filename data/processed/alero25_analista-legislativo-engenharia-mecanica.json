@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Assembleia Legislativa do Estado de Rondônia",
   "cargo_title": "Analista Legislativo Engenharia Mecânica",
   "exam_type": "Tipo 1",
-  "total_questions": 79,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
@@ -236,7 +236,7 @@
         "B": "Sou desastrado em relação aos assuntos de dinheiro; em minha casa, as questões pecuniárias são tratadas por minha mulher.",
         "C": "O cuidado com as armas é uma preocupação militar; as atividades bélicas exigem bom estado delas.",
         "D": "A cor de chumbo fica bem em algumas roupas, mas pouca gente gosta de sapatos plúmbeos.",
-        "E": "Como sou alérgico a leite, não posso ingerir nenhum produto lácteo. Raciocínio Lógico-matemático"
+        "E": "Como sou alérgico a leite, não posso ingerir nenhum produto lácteo."
       },
       "answer": "A",
       "annulled": false,
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Aumentos sucessivos de 30%, 40% e 50% são equivalentes a um único aumento de",
       "alternatives": {
         "A": "120%.",
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Sete bolas iguais, numeradas de 1 a 7, serão colocadas nas caixas A e B. A caixa A deverá conter 4 bolas e a caixa B, 3 bolas, de acordo com as seguintes regras: • As bolas 1 e 2 devem ficar em caixas diferentes. • As bolas 3 e 4 devem ficar na mesma caixa. O número de maneiras diferentes em que essa distribuição pode ser feita é",
       "alternatives": {
         "A": "4.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Há 24 números inteiros com 4 algarismos diferentes, que podem ser formados com os algarismos 3, 4, 6, e 8. Escrevendo esses 24 números em ordem crescente, o 15º número é o",
       "alternatives": {
         "A": "8346.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Em uma urna há apenas bolas amarelas, bolas azuis e bolas verdes. Sabe-se que são 12 bolas amarelas, 8 bolas azuis e que a probabilidade de se sortear aleatoriamente uma bola verde é 2/7. O número de bolas verdes, na urna, é",
       "alternatives": {
         "A": "5.",
@@ -314,14 +314,14 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Um grupo de estudantes está sentado ao redor de uma grande mesa circular. Uma cesta contendo 125 balas é entregue à Bruna, uma das estudantes, que pega uma bala e passa a cesta para o próximo estudante no sentido horário. Cada estudante que recebe a cesta pega uma bala e passa para o próximo estudante no sentido horário, até as balas acabarem. Sabe-se que Bruna foi a estudante que pegou a primeira (como já dito) e também a última bala. O número de estudantes sentados ao redor da mesa pode ser igual a",
       "alternatives": {
         "A": "17.",
         "B": "21.",
         "C": "24.",
         "D": "31.",
-        "E": "42. Noções de Informática"
+        "E": "42."
       },
       "answer": "D",
       "annulled": false,
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma sessão ordinária, na Assembleia Legislativa de Rondônia (ALE-RO), um Analista Legislativo precisa conectar seu notebook a um projetor multimídia na Tribuna para apresentar uma emenda e, ao mesmo tempo, conectar um disco externo contendo um backup de segurança dos documentos da propositura. O notebook possui apenas uma porta USB-A, uma porta HDMI e uma porta de rede (RJ-45). O projetor requer conexão HDMI, e o disco externo usa cabo USB-A. Nesse caso, o dispositivo de hardware, que permitiria ao analista realizar ambas as conexões simultaneamente com o notebook descrito, utilizando suas portas disponíveis, é um",
       "alternatives": {
         "A": "cabo conversor de HDMI para VGA.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma reunião de apresentação de dados, um Analista Legislativo da ALE-RO precisa alternar rapidamente entre uma planilha do Excel maximizada, um relatório no MS Word 365 (BR) e o navegador de internet, sem usar o mouse. Ele também precisa, em determinado momento, minimizar todas as janelas de uma vez para acessar um atalho na Área de Trabalho. Nesse caso, os atalhos de teclado do Windows 10 (BR) que atendem às necessidades de alternar janelas entre programas abertos e minimizar todas as janelas, são, respectivamente,",
       "alternatives": {
         "A": "Alt + F4 e Windows + D.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Um Analista Legislativo da ALE-RO precisa enviar uma correspondência oficial para 50 destinatários diferentes. Ele possui um documento base no MS Word 365 (BR) (carta-padrão) e uma lista no Excel com os nomes, cargos e endereços dos destinatários. Ele quer automatizar a criação de 50 cartas personalizadas, uma para cada pessoa da lista, sem ter que copiar e colar manualmente cada informação. Nesse caso, o recurso do MS Word 365 (BR) que deve ser utilizado para realizar essa tarefa de forma automatizada, mesclando dados do Excel com um documento base, é",
       "alternatives": {
         "A": "“Controlar Alterações”, na guia Revisão.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma reunião no Google Meet, para discutir um projeto de lei, um Analista Legislativo da ALE-RO precisa apresentar uma proposta escrita no Google Documentos. Ele deseja que os participantes não apenas vejam a tela, mas também possam, com sua permissão, fazer anotações ou editar diretamente o documento durante a discussão, sem sair da chamada do Google Meet. Para atender a essa necessidade de apresentação com interatividade total, durante a reunião, o Analista Legislativo deve",
       "alternatives": {
         "A": "compartilhar toda a sua tela (a janela do navegador).",
@@ -399,14 +399,14 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "O setor de TI da ALE-RO está implementando uma nova política de segurança. Além de exigir senhas fortes, ele quer adicionar uma camada extra de proteção ao acesso dos sistemas, especialmente para os servidores que contêm dados fiscais sensíveis. O objetivo é que, mesmo que uma senha seja comprometida, um invasor não consiga acessar a conta sem outra forma de validação. Considerando o objetivo de adicionar uma camada extra de proteção que vá além da senha, a medida de segurança mais adequada a ser implementada é",
       "alternatives": {
         "A": "exigir que todas as senhas sejam alteradas a cada 15 dias.",
         "B": "instalar um antivírus de última geração em todas as estações de trabalho.",
         "C": "implementar a Autenticação de Dois Fatores (2FA).",
         "D": "exigir que as senhas tenham no mínimo 25 caracteres.",
-        "E": "configurar o Firewall para bloquear todo o acesso à internet. Legislação Específica"
+        "E": "configurar o Firewall para bloquear todo o acesso à internet."
       },
       "answer": "C",
       "annulled": false,
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi solicitada, a uma Secretaria do Poder Executivo do Estado de Rondônia, a cedência de João, servidor ocupante de cargo de provimento efetivo no âmbito da referida estrutura orgânica. Ao ser consultado em relação ao requerimento apresentado, João analisou o Regime Jurídico dos Servidores Públicos Civis do Estado de Rondônia, tendo concluído corretamente que",
       "alternatives": {
         "A": "não poderá progredir na carreira durante o período de cedência.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Maria, servidora ocupante de cargo de provimento efetivo na Assembleia Legislativa do Estado de Rondônia, decidiu requerer a percepção do adicional de responsabilidade técnica (ADRT), por ter preenchido os requisitos exigidos pela Lei Complementar nº 731/2013. À luz dos balizamentos estabelecidos pela sistemática legal, é correto afirmar que Maria",
       "alternatives": {
         "A": "deve exercer a atividade técnica de Engenharia.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Em um processo administrativo que tramitou no âmbito da Assembleia Legislativa do Estado de Rondônia, o legítimo interessado obteve êxito em sua pretensão, no plano recursal, após percorrer o número máximo de instâncias previsto na Lei nº 3.830/2016, manejando os instrumentos legais cabíveis. Na situação descrita, considerando a sistemática legal vigente, é correto afirmar que",
       "alternatives": {
         "A": "o recurso administrativo teve efeito suspensivo, salvo disposição legal ou regulamentar em contrário.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Determinada estrutura orgânica da Assembleia Legislativa do Estado de Rondônia, ao identificar a necessidade de serem adquiridos materiais de escritório, constatou a existência de ata de registro de preços, no âmbito de certa estrutura federal, que apresentava condições vantajosas, admitia adesões e abrangia a integralidade dos materiais a serem adquiridos. Nesse caso, à luz da sistemática estabelecida na Resolução ALE/RO nº 593/2024, é correto afirmar que",
       "alternatives": {
         "A": "é necessária a elaboração de termo de referência pelo setor requisitante, detalhando os materiais a serem adquiridos, seu valor de mercado e as razões da vantajosidade da adesão.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi instaurado, no âmbito da Assembleia Legislativa do Estado de Rondônia, expediente cujo objetivo é o de instar a iniciativa privada a propor uma solução inovadora que contribua para a resolução de determinada demanda de relevância pública, o que permitirá a melhor instrução da etapa de planejamento da contratação. À luz da sistemática estabelecida na Resolução ALE/RO nº 593/2024, é correto afirmar que esse procedimento",
       "alternatives": {
         "A": "é o credenciamento.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Determinada estrutura administrativa da Administração Pública estadual começou a adotar as medidas necessárias com o objetivo de realizar licitação visando à contratação de obra pública. Nesse momento, foi concluído o documento que contém os levantamentos topográficos e o conjunto de elementos necessários e suficientes para definir e dimensionar a obra, de modo a assegurar a sua viabilidade técnica, o tratamento do impacto ambiental, a avaliação do custo e o prazo de execução, mas não a identificação de serviços, materiais e equipamentos a serem incorporados à obra, com suas especificações técnicas. O documento referido é o",
       "alternatives": {
         "A": "anteprojeto.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Pedro, servidor público ocupante de cargo efetivo na Administração Pública do Estado de Rondônia, foi condenado, no início do corrente mês, em sentença proferida por juízo monocrático, pela prática de ato de improbidade administrativa tipificado no Art. 11 da Lei nº 8.429/1992. Na situação descrita, é correto afirmar que",
       "alternatives": {
         "A": "a conduta de Pedro pode ter sido praticada com dolo ou culpa.",
@@ -535,14 +535,14 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi constatado que determinada estrutura de poder da Administração Pública estadual promoveu o tratamento de informações afetas a certo grupo de pessoas naturais e jurídicas, com total inobservância da sistemática estabelecida na legislação de regência. Considerando os balizamentos estabelecidos pela Lei nº 12.257/2011, é correto afirmar que esse diploma normativo",
       "alternatives": {
         "A": "somente dispõe sobre direitos e deveres, não incursionando na temática da responsabilização.",
         "B": "tipificou uma infração disciplinar para o servidor público que concorreu à prática do ilícito.",
         "C": "versa sobre a responsabilização pelos danos causados às pessoas naturais na situação descrita, não incursionando na temática das pessoas jurídicas.",
         "D": "consagra a possibilidade de responsabilização civil direta do servidor público que concorreu para a prática do ilícito, de modo solidário com a pessoa jurídica.",
-        "E": "admite a responsabilização direta do órgão ou da entidade pública, reconhecendo a apuração da responsabilidade funcional em caso de dolo ou culpa, assegurando o direito de regresso. História e Geografia de Rondônia"
+        "E": "admite a responsabilização direta do órgão ou da entidade pública, reconhecendo a apuração da responsabilidade funcional em caso de dolo ou culpa, assegurando o direito de regresso."
       },
       "answer": "E",
       "annulled": false,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A ocupação colonial da Amazônia, nos séculos XVII e XVIII, articulou estratégias militares, administrativas, religiosas e econômicas, para afirmar a soberania portuguesa, explorar recursos e controlar populações indígenas, sendo os rios Amazonas, Madeira, Guaporé e Mamoré decisivos para a incorporação da região ao Império Português. Sobre as bases da ocupação colonial da Amazônia e seus desdobramentos na região que hoje corresponde ao estado de Rondônia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Entre 1580-1640, a ocupação militar portuguesa concentrou- se nas regiões de fronteira entre a América Portuguesa e a Espanhola, tal como delimitado pelo Tratado de Tordesilhas, o que retardou a presença lusa na Amazônia.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Estrada de Ferro Madeira Mamoré (EFMM) foi o primeiro grandioso processo de desenvolvimento para a Amazônia Ocidental, potencializando um significativo fluxo humano para a região de Porto Velho e Guajará-Mirim. Por isso, é comum encontrar nos escritores regionais rondonienses a afirmativa de que a história de Rondônia se confunde, de tão próxima, com a própria história da EFMM. E eles têm razão ao fazerem isso. Adaptado de CAVALCANTE, Fábio Robson Casara. Formação Institucional e Desenvolvimento Regional no Estado do Rondônia. In: SILVA, Fábio Carlos e RAVENA, Nírvia. (Orgs.). Formação Institucional da Amazônia. Belém: Editora do NAEA, 2015, p 400-401. Ao analisar a formação histórica da região que corresponde ao atual estado de Rondônia, o autor enfatiza que a Estrada de Ferro Madeira-Mamoré (EFMM)",
       "alternatives": {
         "A": "teve impacto no escoamento da produção agrícola regional e na concentração populacional, sobretudo de trabalhadores africanos utilizados para construção da ferrovia.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sem dúvida alguma, o número de negros escravos entrados na Amazônia colonial foi bem menor que aquele introduzido no Nordeste, contudo, a questão que se coloca não é a de inverter as cifras do tráfico negreiro ou a de se comprovar que a Amazônia, enquanto região cultural é tão ou mais africana do que o Nordeste Agrário do Litoral. Trata-se, isso sim, de se duvidar do “vazio humano” (no caso, a presença africana) com o qual sempre se caracterizou a região. Adaptado de VERGOLINO-HENRY, Anaíza; FIGUEIREDO, Napoleão. A presença africana na Amazônia colonial: uma notícia histórica, Belém: Arquivo Público do Pará, 1990. p. 31. A respeito da formação social da Amazônia colonial e da presença africana na região, é correto informar que a interpretação do autor, no trecho apresentado,",
       "alternatives": {
         "A": "questiona a caracterização da sociedade colonial amazônica com base em dados quantitativos, pois esse procedimento oculta ou minimiza os papéis representados pela população de origem africana em solo Amazônico.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com base no processo de transformação econômica do Território Federal do Guaporé (atual Rondônia), no período posterior ao segundo ciclo da borracha, analise as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) Após o segundo ciclo da borracha, impulsionado pela Segunda Guerra Mundial, a economia de Rondônia retornou a um padrão de relativa estagnação, sustentado principalmente por atividades extrativistas tradicionais, como a borracha, a castanha, a poaia, peles de animais e óleos vegetais. ( ) A descoberta de diamantes no rio Ji-Paraná, no início dos anos 1950, nas proximidades da antiga Vila de Rondônia, estimulou a chegada de aventureiros oriundos sobretudo da região Centro-Oeste, atraídos pela exploração mineral no Território do Guaporé. ( ) A cassiterita, conhecida na região desde os anos 1930, teve exploração limitada em Rondônia, em razão da retração da demanda internacional por estanho, ocorrida a partir da década de 1970, quando a China se consolidou como principal produtora mundial do minério. ( ) O fechamento da lavra manual da cassiterita, em 1971, esteve associado principalmente à crescente preocupação do Estado com os impactos ambientais do garimpo, levando à adoção de medidas de proteção ecológica e de ordenamento sustentável da atividade mineradora em Rondônia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F – F.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A rede hidrográfica de Rondônia faz parte, num contexto mais amplo, da grande Bacia do Rio Madeira e é, localmente, formada pelas bacias tributárias dos rios Guaporé, Mamoré, Alto Madeira, Abunã, Jamari, Machado ou Ji-Paraná, e Roosevelt. Considerando a geografia de Rondônia e a organização da rede hidrográfica integrante da Bacia do rio Madeira, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O rio Guaporé nasce na Chapada dos Parecis (Mato Grosso) e deságua no rio Mamoré, (Rondônia) e, a partir de seu médio curso, ele representa a fronteira entre o Brasil e a Bolívia.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Segundo o IBGE, os povos e comunidades tradicionais são grupos culturalmente diferenciados, que possuem próprias formas próprias de organização social e mantêm relação direta e histórica com territórios e recursos naturais, indispensáveis à sua reprodução cultural, social, religiosa, ancestral e econômica, com base em conhecimentos, práticas e saberes transmitidos pela tradição. Em Rondônia, dentre esses grupos etnicamente diferenciados, destacam-se: (1) os que vivem às margens dos rios Madeira, Guaporé, Mamoré, Ji-Paraná, Jamari e seus afluentes, cujo modo de vida está associado à pesca artesanal, à agricultura de várzea, ao extrativismo vegetal e ao uso dos rios como principal via de transporte e sociabilidade; (2) os descendentes de migrantes nordestinos e amazônicos, que se fixaram na região durante os ciclos da borracha, atuam na extração de látex, castanha-do-brasil, óleos vegetais (andiroba, copaíba) e outros produtos florestais não madeireiros, especialmente em reservas extrativistas. Os grupos descritos nos itens (1) e (2) exemplificam, respectivamente,",
       "alternatives": {
         "A": "povos indígenas e ribeirinhos.",
@@ -653,15 +653,32 @@
       "page_number": 10
     },
     {
+      "question_number": 39,
+      "discipline": "História e Geografia de Rondônia",
+      "statement": "O processo de instalação da Assembleia Legislativa de Rondônia (ALE-RO) por meio da promulgação da Constituição de 1983 foi fundamental na transição de antigo Território Federal para a condição de estado-membro da Federação brasileira. A respeito da conjuntura política relativa à criação da ALE-RO, avalie as afirmativas a seguir. I. A Lei Complementar nº 41/1981 foi o instrumento jurídico que elevou o antigo Território Federal à categoria de Estado e foi sancionada pelo então presidente, João Figueiredo. O governo militar buscava garantir maior representatividade no Congresso Nacional. A criação de Rondônia permitiria a eleição de três senadores e oito deputados federais, com a expectativa de que o PDS, partido de sustentação do regime, vencesse o pleito de 1982. II. Apesar do esforço do PDS na criação do novo Estado e de sua Assembleia Legislativa, o partido saiu derrotado nas eleições executivas e legislativas estaduais de 1982 em Rondônia, sobretudo em função do movimento pela reconquista da democracia, com forte atuação da oposição organizada ao redor do PMDB e do PDT. III. A nova dinâmica da competição eleitoral no recém-criado estado de Rondônia alterou a composição das elites políticas e a própria configuração do sistema partidário, entre as décadas de 1980 e 1990, com a substituição da antiga elite política territorial, com bases na capital Porto Velho, para uma nova classe política dominante, oriunda majoritariamente do interior do estado, especificamente no eixo da BR-364 e associada ao PMDB. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/alero25_analista-legislativo-engenharia-mecanica_q39.png",
+      "page_number": 10
+    },
+    {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre o processo de formação histórica e político-administrativa do atual estado de Rondônia ao longo do século XX, assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "A região onde hoje se localiza Rondônia foi marcada por sucessivos processos de colonização e povoamento ao longo do século XX, intensificados por políticas estatais de ocupação e integração territorial.",
         "B": "O Território Federal do Guaporé foi criado em 1943, durante o Estado Novo, incorporando áreas que anteriormente pertenciam aos estados do Mato Grosso e do Amazonas.",
         "C": "Em 1956, o Território Federal do Guaporé passou a denominar- se Território Federal de Rondônia, em homenagem ao Marechal Cândido Mariano da Silva Rondon.",
         "D": "A transformação de Rondônia em estado ocorreu em 1982, no contexto final do regime militar, encerrando um período de quase quatro décadas como território federal.",
-        "E": "O surgimento de Porto Velho como município se deu em função de sua elevação a capital do Território Federal do Guaporé, no segundo Governo Vargas. MÓDULO II Conhecimentos Específicos"
+        "E": "O surgimento de Porto Velho como município se deu em função de sua elevação a capital do Território Federal do Guaporé, no segundo Governo Vargas."
       },
       "answer": "E",
       "annulled": false,
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A figura a seguir apresenta uma viga biapoiada, com um trecho em balanço do lado direito, tendo o segmento AB (entre os apoios) com comprimento de 2 m, enquanto o segmento BC (trecho em balanço) tem comprimento de 1 m. O apoio em “A” é do tipo pino, enquanto “B” é do tipo rolete. Considerando uma força vertical de 10 kN aplicada em “C”, para baixo, e um binário de 2 kN.m, no sentido horário, também aplicado em “C”, a reação de apoio vertical em “B” vale",
       "alternatives": {
         "A": "8 kN.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A figura abaixo mostra um mecanismo formado por duas guias perpendiculares nas quais dois blocos se deslocam. Os blocos são ligados por uma barra rígida com 500 mm de comprimento. O bloco “A”, que se desloca na guia vertical, apresenta uma velocidade de 2 m/s para baixo. Considerando que o bloco “B” se desloca na guia horizontal, e que, no instante mostrado, o ângulo  vale 51,34° (tan() = 1,25), a velocidade do bloco “B” é de",
       "alternatives": {
         "A": "1,6 m/s.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma viga com seção transversal retangular tem eixos de referência conforme mostrado na figura (eixo z aponta para a esquerda, eixo y aponta para cima e eixo x aponta para fora do papel). A seção transversal tem base de 120 mm e altura de 100 mm. Nesta seção, a viga está submetida a um esforço de compressão de 12 kN e a um momento fletor Mz = 10 kN.m (positivo). Dessa forma, a maior tensão atuante nessa seção da viga vale, em módulo,",
       "alternatives": {
         "A": "48 MPa.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um reservatório fechado de água (massa específica de 1 kg/l) tem sua parte superior preenchida com um gás comprimido (pressão de 5 atm). A diferença de altura entre a interface gás-água e a saída do reservatório é de 3 m. Considerando g = 10 m/s2 e sabendo que 1 atm ≈ 0,1 MPa, a pressão da água na saída do reservatório (fechada) vale",
       "alternatives": {
         "A": "0,47 MPa.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um tubo de Pitot está sendo usado para medir a velocidade de um fluxo de ar que, nessa situação, pode ser considerado incompressível, conforme mostrado na figura a seguir. Considerando que o fluido manométrico possui massa específica igual a 2 g/cm3, que o fluido escoando é ar (massa específica 1 kg/m3), que a diferença entre as alturas das colunas de fluido manométrico no ponto e antes do ponto de medição vale 10 mm, e que g = 10 m/s2, a velocidade do escoamento é de",
       "alternatives": {
         "A": "10 m/s.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um reservatório fechado, com volume 60 litros, está cheio de ar pressurizado (assumir que a massa do ar pressurizado vale 100 gramas), a 26,85oC, quando o sistema recebe 7000 J de calor. Assumindo que o calor específico a volume constante do ar vale 700 J/kg.K e que a constante dos gases para o ar vale 300 J/kg.K, a pressão final no reservatório será de",
       "alternatives": {
         "A": "200 kPa.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma instalação industrial, um fluido é resfriado fazendo-o passar por um tubo no qual incide, perpendicularmente, um fluxo de ar com velocidade 5 m/s e temperatura 20 oC (a figura abaixo representa uma vista 2D do processo). O tubo tem comprimento de 50 cm e diâmetro externo 20 mm. Em regime permanente, a temperatura externa do tubo é constante e igual a 120 oC. Estimando que o processo de resfriamento retire 60 W de calor do fluido, é correto afirmar que o coeficiente de troca de calor por convecção vale",
       "alternatives": {
         "A": "20 W/m2.K.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a fabricação do aço em um conversor ou forno a oxigênio, a etapa de injeção de oxigênio tem como principal objetivo:",
       "alternatives": {
         "A": "aumentar o teor de carbono do ferro-gusa.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Seguindo a recomendação da ISO para um eixo de 25 mm de diâmetro que deve girar em um furo com grande precisão, um engenheiro adotou os ajustes H7 (tolerâncias +21 μm, 0) e g6 (tolerâncias -7 μm, -20 μm). Assim, a folga máxima que pode ocorrer nessa montagem é de",
       "alternatives": {
         "A": "0,007 mm.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um fio de aço de seção circular é trefilado em uma única passada, reduzindo seu diâmetro de 10 mm para 8 mm. O aço do fio possui limite de escoamento de 500 MPa. Assuma π = 3 e despreze os fatores de concentração de tensões. Desta forma, a maior força que pode ser exercida no fio durante a trefilação para evitar o escoamento é de",
       "alternatives": {
         "A": "19,5 kN.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A metodologia de projeto de eixos mecânicos leva em conta critérios de tensões máximas e fadiga, sobre a qual são feitas as três afirmações a seguir: I. Em carregamentos proporcionais, as tensões provenientes da flexão e da torção devem ser combinadas por meio de um critério de tensões equivalentes, considerando os fatores de concentração de tensões; II. A verificação da velocidade crítica é necessária quando o eixo está submetido a carregamentos dinâmicos variáveis, sendo dispensável em regimes de rotação constante; III. O dimensionamento de eixos com base em critérios de fadiga pode desconsiderar efeitos de concentração de tensões quando o material apresenta limite de resistência à fadiga bem definido. Assim, está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A seleção de engrenagens para uma dada aplicação depende da potência a ser transmitida e do material que a compõe. Uma engrenagem de módulo de 5 mm, com largura do dente de 30 mm (20 dentes), deve girar a 1200 rpm numa determinada aplicação. Considere um fator de velocidade igual a 2, um fator de forma igual a 0,3 e assuma π = 3. Se o material selecionado tem limite de escoamento de 250 MPa e deseja-se um fator de projeto de 2,5, a potência máxima que essa engrenagem pode transmitir é de",
       "alternatives": {
         "A": "10,5 kW.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A norma NBR 9386, parte 1, estabelece requisitos de segurança, dimensões e operação para plataformas de elevação motorizada destinadas a pessoas com mobilidade reduzida. Ele recomenda, por exemplo, que a velocidade de elevação da plataforma não exceda 0,15 m/s. Considerando g = 10 m/s2, se a massa total a ser elevada pela plataforma é de 600 kg (já considerando fatores de segurança) e a eficiência total do conjunto (motor e transmissão) é estimada em 50%, a potência nominal do motor de acionamento da plataforma deve ser de",
       "alternatives": {
         "A": "1000 W.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um processo industrial, deseja-se bombear um fluido que sai de um misturador para um reservatório localizado a 20 m de altura. A pressão na saída do misturador é de 149 kPa e a pressão na entrada do reservatório é de 100 kPa. As perdas de carga podem ser modeladas como uma altura equivalente a 2 m. O fluido bombeado tem massa específica de 700 kg/m3 e a vazão vale 0,01 m3/s. Assumindo g = 10 m/s2 e considerando que a eficiência da bomba é de 70%, a potência da bomba deve ser de",
       "alternatives": {
         "A": "1,0 kW.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma turbina a vapor opera em regime permanente, recebendo vapor d’água com vazão de 2,5 kg/s. A entalpia do vapor na entrada da turbina vale 3200 kJ/kg, e na saída, 2400 kJ/kg. Se a eficiência geral da turbina é de 80%, a sua potência efetiva vale",
       "alternatives": {
         "A": "800 kW.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Motores de combustão interna são máquinas térmicas que convertem energia química de combustíveis em energia mecânica, sendo essenciais em veículos e na indústria. Sobre essas máquinas avalie as seguintes afirmativas: I. Em motores de ignição por compressão, o combustível é injetado no cilindro antes do início da compressão, formando previamente a mistura ar–combustível; II. Em motores de quatro tempos, cada cilindro / pistão realiza dois tempos a cada rotação completa do virabrequim; III. O rendimento térmico dos motores Diesel é, em geral, superior ao dos motores Otto equivalentes, principalmente em função das maiores taxas de compressão admissíveis. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na seleção do tipo de compressor mais adequado para uma aplicação industrial, analise as afirmativas a seguir: I. Compressores de parafuso são amplamente utilizados em aplicações industriais de vazão contínua e relativamente elevada, apresentando boa confiabilidade operacional e menor pulsação de fluxo quando comparados aos compressores alternativos; II. Em compressores centrífugos, a operação afastada do ponto de projeto pode resultar em instabilidades como o surge, o que deve ser considerado como critério relevante na seleção do equipamento; III. Compressores alternativos são mais indicados para aplicações que exigem grandes vazões volumétricas contínuas associadas a baixas pressões. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma unidade de refrigeração funciona por meio do ciclo Carnot, como ilustrado na figura abaixo, em que os pontos 1, 2, 3 e 4 se localizam, respectivamente, após o evaporador, após o compressor, após o condensador e após o motor. A vazão do líquido refrigerante é de 2 kg/s. As entalpias nos pontos 1, 2, 3 e 4 foram retiradas de tabelas referentes ao fluido refrigerante e são: h1 = 340 kJ/kg, h2 = 365 kJ/kg, h3 = 235 kJ/kg, h4 = 230 kJ/kg. Dessa forma, o coeficiente de eficácia do ciclo (COP) vale",
       "alternatives": {
         "A": "2,8.",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um sistema de ventilação forçada para uma fundição, um engenheiro adotou, como base para o cálculo da potência do ventilador, o valor de 15 trocas por hora para a taxa de renovação do ar. O recinto onde funciona a fundição tem dimensões de 30 m X 20 m X 6 m. Adote o valor de 1,0 kg/m3 para a densidade do ar, e considere que o ventilador gera uma diferença de pressão de 500 Pa. Desta forma, se o ventilador tem uma eficiência de 60%, ele deve ser capaz de fornecer uma potência de",
       "alternatives": {
         "A": "12,5 kW.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com relação aos princípios de medição e à instrumentação aplicada a processos industriais, analise as afirmativas a seguir: I. A calibração de instrumentos de medição elimina completamente os erros aleatórios do sistema de medição, garantindo que as leituras coincidam com o valor verdadeiro da grandeza medida. II. Em sistemas industriais de instrumentação, o elemento primário pode gerar sinais de baixa energia ou não padronizados, sendo necessário o uso de condicionamento e transmissão do sinal para permitir sua integração confiável a sistemas de supervisão e controle. III. A precisão de um instrumento de medição pode ser avaliada exclusivamente por sua resolução, desde que apresente boa estabilidade térmica durante a operação. Está correto o que se afirma apenas em",
       "alternatives": {
         "A": "I.",
@@ -1011,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A barra da figura a seguir é formada por aço carbono, com módulo de Young igual a 200 GPa e coeficiente de Poisson igual a 0,3. Essa barra tem uma das suas extremidades engastada e, na extremidade oposta, há um apoio do tipo rolete, no qual se aplica uma carga axial de 10 kN. Sabendo que a barra possui seção transversal quadrada de lado 10 cm, a variação de seu volume devido à imposição da carga axial é de",
       "alternatives": {
         "A": "80 mm3.",
@@ -1028,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A figura a seguir apresenta o estado de tensões em um elemento plano de um componente estrutural. A máxima tensão cisalhante nesse elemento vale",
       "alternatives": {
         "A": "45 MPa.",
@@ -1045,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um eixo maciço circular de aço transmite torque a um redutor. O eixo tem comprimento 1,2 m, diâmetro 40 mm e aplica-se um torque de 1,6 kNm. Considerando o módulo de cisalhamento do aço igual a 80 GPa e fazendo  = 3, o ângulo de torção entre as extremidades é de",
       "alternatives": {
         "A": "0,02 rad.",
@@ -1062,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma ranhura passante, de largura 20 mm e comprimento 120 mm, será usinada por fresagem de topo em uma única passada, com uma fresa de topo de diâmetro 20 mm e 4 dentes. Considere que é necessário um aprofundamento/ultrapassagem de 10 mm na entrada e na saída, conforme a figura a seguir. (Dimensões em mm) Sabendo que a velocidade de corte é de 120 m/min e o avanço por dente é de 0,07 mm/dente e admitindo  = 3, o tempo de usinagem considerando o percurso total igual ao comprimento da ranhura acrescido do aprofundamento e da ultrapassagem vale",
       "alternatives": {
         "A": "35 s.",
@@ -1079,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um processo de laminação a frio, uma chapa de aço com espessura inicial de 6,0 mm deve ser reduzida para 4,8 mm em um único passe. O diâmetro dos cilindros (𝐷) é 300 mm e o coeficiente de atrito médio (𝜇) entre a chapa e os cilindros é 0,10. Considere a condição simplificada para que a chapa seja “puxada” pelos cilindros (mordida/entrada no passe): ∆ℎ𝑚𝑎𝑥= 𝜇2𝐷 2 em que ∆ℎ𝑚𝑎𝑥 é a máxima redução de espessura. Desse modo, se ∆ℎ é a variação de espessura da condição inicial para a final, assinale a afirmativa correta quanto à possibilidade de entrada da chapa no passe sem o uso de dispositivos auxiliares.",
       "alternatives": {
         "A": "A chapa entrará no passe, pois ∆ℎ< ∆ℎ𝑚𝑎𝑥.",
@@ -1096,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um sistema hidráulico industrial, uma bomba envia óleo sob pressão para um atuador. Para evitar danos ao circuito quando ocorre aumento excessivo de pressão (por exemplo, travamento do atuador ou obstrução na linha), instala-se um componente que desvia o fluido de volta ao reservatório quando a pressão ultrapassa um valor ajustado. Esse componente é denominado",
       "alternatives": {
         "A": "manômetro.",
@@ -1113,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a fabricação de uma estrutura metálica, será realizada a soldagem de chapas de aço carbono em posição plana. O inspetor de qualidade identificou a ocorrência de um defeito caracterizado por sulcos na borda do cordão, formando um entalhe longitudinal no metal de base, o que pode reduzir a resistência à fadiga da junta. Assinale a opção que apresenta esse defeito e uma medida corretiva típica para evitá-lo.",
       "alternatives": {
         "A": "Porosidade / Aumentar a umidade do eletrodo para melhorar a fusão.",
@@ -1130,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na fabricação de uma carcaça metálica por fundição em areia, o engenheiro responsável observa que, durante a solidificação, o metal líquido sofre contração volumétrica. Para evitar a formação de vazios internos (como cavidades de contração) nas regiões mais espessas da peça, o molde foi projetado com um dispositivo adicional acoplado à cavidade principal. Nesse contexto, o massalote (alimentador) tem como função principal",
       "alternatives": {
         "A": "formar canais internos na peça, substituindo o uso de machos.",
@@ -1147,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um sistema pneumático, o ar comprimido é preparado antes de alimentar válvulas e atuadores, visando aumentar a vida útil dos componentes e garantir melhor funcionamento. Para isso, é comum utilizar um conjunto responsável por filtrar impurezas, regular a pressão e, em alguns casos, lubrificar o ar. Esse conjunto é conhecido como",
       "alternatives": {
         "A": "silenciador.",
@@ -1164,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sistemas termomecânicos envolvem a conversão de energia entre formas térmica e mecânica, sendo comuns em geração de potência, refrigeração e processos industriais. A esse respeito, considere os sistemas a seguir: I. Turbina a vapor acoplada a um gerador elétrico, operando em ciclo fechado com caldeira e condensador. II. Geladeira doméstica, utilizando compressor e fluido refrigerante em ciclo fechado. III. Motor de combustão interna do tipo ciclo Otto, convertendo energia química do combustível em trabalho no eixo. Os sistemas I, II e III são classificados, respectivamente, como",
       "alternatives": {
         "A": "ciclo de refrigeração, ciclo de potência e motor térmico.",
@@ -1181,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um quadro de comando e proteção para acionamento de um motor trifásico, são utilizados dispositivos típicos de proteção e controle. Relacione os componentes da coluna à esquerda às suas funções principais apresentadas na coluna à direita. 1. Disjuntor-motor 2. Contator 3. Relé térmico 4. Botão de emergência (cogumelo) com contato NF ( ) Manobra do circuito de potência: liga/desliga o motor por acionamento do circuito de comando. ( ) Proteção contra curto-circuito e sobrecarga: permite seccionamento e disparo automático em condição de falha. ( ) Proteção contra sobrecarga: atua com temporização e interrompe o circuito de comando do contator. ( ) Parada imediata por segurança: interrompe o circuito de comando ao ser acionado. A associação correta, na ordem apresentada, é:",
       "alternatives": {
         "A": "1 – 2 – 3 – 4.",
@@ -1198,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um motor trifásico de indução, 4 polos, opera em regime nominal ligado a uma rede 500 V (tensão de linha) e 60 Hz. Durante uma inspeção preditiva, foram registrados os seguintes dados de placa/operação: • Potência mecânica no eixo: 45 kW • Fator de potência: 0,85 • Escorregamento = 2% • Rendimento: 0,90 Considere, para simplificação, que √3 = 1,7. Assim, a velocidade de rotação no eixo e a corrente de linha aproximadas do motor, em operação, valem, respectivamente,",
       "alternatives": {
         "A": "1764 rpm e 59 A.",
@@ -1215,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma planta industrial, um sistema de bombeamento apresentou vazamentos recorrentes no selo mecânico, ocasionando paradas não programadas e o aumento dos custos de manutenção. O engenheiro responsável decide aplicar duas metodologias para tratar o problema: FMEA e RCFA. Desse modo, assinale a opção que descreve corretamente a aplicação mais apropriada de FMEA e RCFA nesse contexto.",
       "alternatives": {
         "A": "O FMEA prioriza modos de falha potenciais, enquanto a RCFA investiga falhas ocorridas e identifica a causa raiz.",
@@ -1232,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma indústria metalmecânica adota diferentes estratégias de manutenção para garantir a confiabilidade de seus equipamentos e minimizar paradas não programadas. Desse modo, considere as situações a seguir. I. Após a quebra inesperada de um acoplamento de uma bomba centrífuga, a equipe realiza a substituição do componente para restabelecer o funcionamento do conjunto. II. Um motor elétrico de um exaustor industrial é desligado em data programada para a troca de rolamentos, conforme o plano periódico definido pelo setor de manutenção. III. Em um redutor, são realizadas medições periódicas de vibração e análise do óleo para identificar a tendência de degradação antes que ocorra uma falha funcional. IV. Em um sistema de proteção de uma caldeira, é realizado o teste rotineiro do circuito de intertravamento e dos sensores de segurança para identificar falhas ocultas que não se manifestam durante a operação normal. As situações I, II, III e IV correspondem, respectivamente, aos seguintes tipos de manutenção:",
       "alternatives": {
         "A": "corretiva, preventiva, preditiva e detectiva.",
@@ -1249,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Manutenção Produtiva Total (TPM) é uma filosofia gerencial que busca a eficiência máxima do sistema de produção, visando \"zero falhas\", \"zero defeitos\" e \"zero acidentes\". Sobre os pilares da TPM e as estratégias de organização industrial, avalie as afirmativas a seguir. I. O pilar da Manutenção Autônoma (Jishu Hozen) visa capacitar os operadores de produção para realizar atividades de rotina, como limpeza, lubrificação e inspeções básicas, promovendo a polivalência e liberando a equipe de manutenção especializada para tarefas de maior complexidade. II. O Programa 5S é considerado a base para a implementação da TPM, sendo o senso de Seiketsu (Saúde/Padronização) o responsável por garantir que as anomalias nas máquinas se tornem evidentes visualmente, por meio da organização e limpeza sistemáticas. III. A TPM foca exclusivamente na eliminação das quebras de máquinas, sem interferir nos índices de qualidade (refugo) ou na segurança do trabalho, que são geridos por sistemas independentes (ISO 9001 e ISO 45001). Está correto o que se afirma apenas em",
       "alternatives": {
         "A": "I.",
@@ -1266,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um compressor centrífugo crítico de uma planta industrial apresenta comportamento de falhas ao longo do tempo, conforme a curva da banheira da figura. O engenheiro, aplicando os princípios da Manutenção Centrada na Confiabilidade (RCM), deseja selecionar a ação mais adequada para a vida adulta do compressor, visando reduzir paradas não programadas sem aumentar custos desnecessários. Nessa condição, a decisão mais compatível com a lógica do RCM para a vida adulta do compressor é",
       "alternatives": {
         "A": "adotar manutenção por condição (monitoramento) e corretiva planejada, quando aplicável.",
@@ -1283,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No projeto de um posto de trabalho para uma linha de montagem de componentes mecânicos pesados, o engenheiro deve aplicar princípios de ergonomia para reduzir o risco de distúrbios osteomusculares. Considerando as diretrizes da NR-17 e os conceitos de antropometria, avalie as afirmativas a seguir. I. Para o trabalho manual sentado, a bancada deve ter altura compatível com a distância entre o cotovelo e o piso, garantindo que o plano de trabalho permita uma postura neutra da coluna e dos membros superiores. II. O mobiliário do posto de trabalho deve possuir ajustes que permitam a adaptação às variações antropométricas da população trabalhadora, priorizando a flexibilidade de altura e profundidade. III. Em atividades que exijam levantamento individual de cargas, o esforço físico deve ser compatível com a capacidade de força do trabalhador, sendo que a norma estabelece limites rígidos de peso, independentes da frequência e da duração da tarefa. Está correto o que se afirma apenas em",
       "alternatives": {
         "A": "I.",
@@ -1300,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante uma auditoria de segurança em uma indústria metalmecânica, foi identificada uma situação de risco em uma prensa hidráulica utilizada para a conformação de chapas: existe a possibilidade de a mão do operador ter acesso à zona de prensagem durante o ciclo, com potencial de esmagamento. O responsável técnico deverá propor medidas de controle do risco, considerando a hierarquia de proteção. Desse modo, assinale a opção que apresenta a sequência mais adequada de priorização para reduzir o risco identificado.",
       "alternatives": {
         "A": "Instalar placas de advertência, determinar supervisão permanente e exigir o uso de botas e capacete.",
@@ -1317,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma planta industrial metalmecânica, ocorre um princípio de incêndio em três situações distintas: I. Em uma área de almoxarifado, há combustão de papel e embalagens de madeira. II. Em uma grande área de manutenção, ocorrem vazamento e ignição de óleo lubrificante e graxa próximos a um equipamento. III. Em uma sala técnica, um painel elétrico de baixa tensão entra em curto e inicia combustão em equipamentos energizados. No combate a esse incêndio, deseja-se evitar resíduos que possam danificar componentes e dificultar a limpeza. Desse modo, relacione essas situações, indicadas na coluna à esquerda, aos tipos de extintores mais adequados para combatê- las, apresentados na coluna à direita. 1. Situação I 2. Situação II 3. Situação III ( ) CO2 ( ) Água pressurizada ( ) Pó químico seco (PQS) A sequência correta, na ordem apresentada, é",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -1334,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma grande empresa fabricante de produtos mecânicos, instalada na Zona Franca de Manaus (ZFM) e com projeto industrial aprovado pelo Conselho de Administração da Superintendência da Zona Franca de Manaus (SUFRAMA), emitiu seu primeiro Laudo de Produção em 10/12/2025. De acordo com as exigências aplicáveis à ZFM, a empresa deverá implantar um Sistema de Gestão da Qualidade, baseado nas normas ABNT NBR ISO 9000, e encaminhar à SUFRAMA os respectivos certificados de conformidade, expedidos pelo INMETRO ou por organismo de certificação por ele credenciado. Desconsiderando qualquer hipótese de prorrogação ou dispensa, a data-limite para cumprimento dessa obrigação é",
       "alternatives": {
         "A": "10/06/2026.",

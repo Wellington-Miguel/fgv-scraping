@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - Historiador",
   "exam_type": "Tipo 1",
-  "total_questions": 15,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-historiador_q12.png",
       "page_number": 3
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 21,
@@ -253,13 +355,676 @@
         "B": "O comportamento dos heróis homéricos, baseado na obediência estrita às leis da pólis democrática, era utilizado como modelo para incentivar a disciplina entre os gregos.",
         "C": "As histórias homéricas, que rejeitavam os valores aristocráticos, atuavam como modelo para gerar uma ética igualitária entre todos os cidadãos.",
         "D": "O ideal heroico homérico, que enfatizava a busca por honra e glória individual, funcionava como modelo de excelência e honra entre os gregos.",
-        "E": "As narrativas de superação heroica, elaboradas em um plano filosófico abstrato, operavam como modelos para gerar um sentimento de conquista entre a população grega. Os mongóis não entravam na categoria de quase humanos, de monstros que a cartografia medieval distribuía pelos confins da Ásia, nem se encaixavam nas categorias conhecidas pelos europeus, baseadas na divisão bíblica do gênero humano. Assim, foram classificados de diferentes formas: como flagelos de Deus, como um castigo pelos pecados, como demônios ou bestas. Segundo relatos às vezes contraditórios, seus costumes eram brutais, ladravam como cães e tinham o rosto plano como os macacos. Comiam carne crua e bebiam sangue, isso era verdade, visto que os habitantes da estepe, que não tinham vegetais ao seu alcance, deviam ingerir sangue fresco para obter a dose de aminoácidos para a saúde. Foram acusados inclusive de canibalismo. Mas essa acusação era falsa. Fontes chinesas, tibetanas, mongóis, armênias e georgianas também evidenciam a repulsa em relação aos mongóis, mas não lhes atribuem esse comportamento em particular. Tais acusações não são fruto da observação, mas das leituras, das elucubrações e do medo. Adaptado de FERNÁNDEZ-ARMESTO, Felipe. Os conquistadores do horizonte: uma história global da exploração. Barcelona: Ariel, 2012. Com base no trecho, analise as afirmativas a seguir acerca das representações europeias sobre os mongóis no período medieval. I. As classificações dos mongóis feitas pelos europeus revelaram os limites do repertório mental e narrativo disponível para descrever práticas distintas das conhecidas, configurando um desafio conceitual. II. As descrições europeias dos mongóis foram influenciadas por referenciais religiosos e imaginários, que os associavam a punições divinas e a figuras monstruosas, evidenciando a mediação cultural na construção dessas imagens. III. A representação europeia dos mongóis como incivilizados, associada ao canibalismo, baseou-se em observações diretas e foi reforçada por fontes extra europeias, legitimando sua escravização pelos europeus. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. O predomínio espiritual da tradição greco-latina no Ocidente medieval fez com que se continuasse a associar, ao longo de todo o período, os livros e a língua latina ao poder e às elites sociais. A atitude da maior parte dos governantes medievais alfabetizados em relação ao livro e às bibliotecas foi reverencial e, em alguns casos, quase “totêmica”. As bibliotecas dos reis da Antiguidade Tardia seguiram um modelo episcopal-monástico, uma vez que o modelo tardo romano de biblioteca palatina semipública ou pública havia caído no esquecimento. Contudo, a maior parte das bibliotecas dos reis da época feudal se enquadra melhor no modelo de biblioteca senhorial do que no de biblioteca monástica ou palatina ou “de Estado”. O chamado renascimento do século XII começaria a alterar essa dinâmica, quando os príncipes do Ocidente latino passariam a se tornar reis clericalizados, possuidores de bibliotecas cada vez maiores. Adaptado de RODRÍGUEZ DE LA PEÑA, Alejandro. “Los reyes bibliófilos: bibliotecas, cultura escrita y poder en el Occidente medieval”, En la España Medieval, n.º 33, 2010, p. 9. Com base no trecho, assinale a opção que apresenta corretamente aspectos da organização das bibliotecas no Ocidental medieval. (A) As bibliotecas funcionavam como dispositivos de legitimação das elites letradas, ao articularem o uso do latim às estruturas institucionais de caráter senhorial e eclesiástico. (B) As bibliotecas mantiveram uma continuidade institucional com o mundo tardo-romano, sobretudo no que se refere ao seu caráter público e à sua função na administração política, como espaços de registro e consulta de documentos oficiais. (C) As bibliotecas concentraram-se no âmbito eclesiástico, no qual o clero exerceu papel central em sua preservação e organização, sobretudo nos mosteiros, como espaços de guarda e transmissão da cultura escrita. (D) As bibliotecas foram ampliadas progressivamente desde a Antiguidade, acompanhando a maior circulação da cultura escrita e de manuscritos, o que implicou uma gradual desvinculação em relação aos grupos de poder. (E) As bibliotecas sofreram um processo de secularização das coleções régias, com a crescente incorporação de autores da Antiguidade, impulsionada pela redescoberta desses textos e por sua difusão mais ampla. Cortar o tempo em períodos é necessário para a história, seja ela entendida como o estudo da evolução das sociedades, como um tipo particular de saber e ensino, ou mesmo como a simples passagem do tempo. No entanto, esse recorte não é um mero fato cronológico, mas também expressa a ideia de transição, de mudança e até de contradição em relação à sociedade e aos valores do período precedente. Os períodos têm, portanto, um significado particular em sua própria sucessão, na continuidade temporal ou nas rupturas que tal sucessão evoca, e constituem um objeto fundamental de reflexão para o historiador. Adaptado de LE GOFF, Jacques. ¿Realmente es necesario cortar la historia en rebanadas? México: Fondo de Cultura Económica, 2016, pp. 11-12. Com base no trecho, assinale a opção que apresenta corretamente a interpretação do autor sobre a periodização na história. (A) A delimitação de períodos na história tem como objetivo estabelecer recortes temporais consensuais e estáveis que permitam situar os fenômenos ao longo do tempo. (B) Os períodos históricos são delimitados pelos próprios contemporâneos dos acontecimentos, que, ao reconhecerem as rupturas em curso, estabelecem a separação entre sua época e a anterior. (C) A divisão do tempo em períodos constitui uma operação analítica que permite ao historiador interpretar as dinâmicas de continuidade e ruptura na evolução das sociedades. (D) O recorte temporal da história configura-se como uma construção humana de caráter predominantemente pedagógico, desvinculada de critérios estritamente cronológicos. (E) A periodização histórica corresponde a uma escolha arbitrária do historiador, que fragmenta o tempo em unidades consideradas independentes entre si. Observe a imagen a seguir. Fonte: https://www.themorgan.org/collection/Histoire-Naturelle-des-Indes/111 A interdependência entre familiarização e predação nas Américas é evocada em uma pintura do final do século XVI: um caçador retorna com duas aves, uma para ser consumida e outra para ser alimentada. Enquanto na Europa a caça e a criação de animais coexistiam em tensão, nas Américas a predação e a familiarização eram modos complementares de interação. Alguns animais selvagens eram capturados e domesticados no sentido de serem incorporados como parentes. Tornar alguém parente reside no ato de alimentar. Uma vez que um ser era alimentado, deveria ser estimado, não consumido como comida. Nessa perspectiva, a essência da pecuária europeia — alimentar animais para transformá-los em alimento — simplesmente não faz sentido. Adaptado de NORTON, M. The tame and the wild. People and animals after 1492. Massachusetts: Harvard University Press, 2024, p. 7. Com base na imagem e no texto, assinale a opção que interpreta corretamente as diferenças nas formas de relação entre humanos e não humanos nas Américas e na Europa. (A) Nas Américas, em contraste com a Europa, todos os animais eram incorporados às unidades domésticas indígenas pela alimentação, ancorados em uma cosmologia de integração entre os seres da natureza. (B) Nas Américas, em contraste com a Europa, a alimentação dos animais tinha como finalidade principal sua domesticação produtiva, com vistas ao controle reprodutivo e ao abastecimento alimentar das comunidades. (C) Nas Américas, em contraste com a Europa, a alimentação dos animais configurava-se como prática de familiarização e produção de parentesco, distinguindo aqueles incorporados como parentes daqueles destinados ao consumo. (D) Na Europa, em contraste com as Américas, a dicotomia entre alimentar e consumir os animais estruturava formas distintas de relação com os não humanos, distinguindo aqueles incorporados como parentes daqueles para o consumo. (E) Na Europa, em contraste com as Américas, não se verificava uma forma de relação com os animais baseada na domesticação, prevalecendo sua inserção em regimes utilitários de consumo. Todo um trabalho de decifração se impõe a partir de indícios frágeis. Escrutinando os ex-votos, o pesquisador medirá pacientemente a superfície, respectivamente do espaço celeste de aparição e da cena terrestre; analisará, também, o gestual e o jogo dos olhares pelo qual se estabelece a ligação entre os dois universos. Analisando as representações do purgatório em sua evolução, sublinhará as mutações características de um panteão de intercessores que, paulatinamente, vai se despovoando do século XVII ao século XVIII. Adaptado de VOVELLE, Michel. Ideologias e mentalidades. São Paulo: Brasiliense, 1987, p.42. Com base no trecho, assinale a opção que identifica corretamente a corrente da Nova História a que ele se refere. (A) História conceitual que, em diálogo com a linguística, investiga as transformações semânticas ao longo do tempo na organização das experiências sociais e políticas. (B) História cultural que, vinculada à terceira geração da Escola dos Annales e à psicologia social, investiga representações e práticas simbólicas de diferentes grupos sociais. (C) História factual que, vinculada à tradição positivista do século XIX, privilegia documentos oficiais e a reconstituição objetiva dos acontecimentos, com ênfase na narrativa político- eventual. (D) História marxista que, em diálogo com a sociologia, analisa os processos históricos a partir das relações de produção e da centralidade dos grupos subalternos na dinâmica social. (E) História total que, formulada no âmbito da segunda geração da Escola dos Annales, propõe uma análise integrada das dimensões econômicas, sociais e culturais. 27 Se dizemos que tem o poder absoluto quem não está sujeito às leis, não se encontrará no mundo nenhum príncipe soberano, já que todos os príncipes da terra estão sujeitos às leis de Deus e da natureza, e a certas leis humanas comuns a todos os povos. É necessário que quem seja soberano não esteja de nenhum modo submetido ao império de outro e possa dar lei aos súditos e anular ou emendar as leis inúteis; isto não pode ser feito por quem esteja sujeito às leis de outra pessoa. Por isso se diz que o príncipe está isento da autoridade das leis. O próprio termo latino “ley” implica o mandato de quem tem a soberania. Adaptado de BODIN, J. Los seis libros de la república. Madrid: Editorial Tecnos, 1997, pp.52-3. Com base no trecho e nos fundamentos do absolutismo moderno, assinale a opção correta. (A) O poder absoluto do soberano decorre da ausência de qualquer limite jurídico, moral ou religioso à sua atuação. (B) A soberania, segundo Bodin, caracteriza-se pela autoridade suprema do príncipe para criar e modificar as leis do reino, embora permaneça submetido às leis divinas e naturais. (C) O autor defende que a legitimidade do poder político depende da aprovação dos representantes da sociedade reunidos em assembleias. (D) O texto sustenta que os súditos possuem autoridade para revogar as decisões do soberano quando estas contrariam o interesse coletivo. (E) Para Bodin, a soberania pertence ao conjunto da população, cabendo ao príncipe apenas executar as leis elaboradas pelos representantes do povo. Boa física é feita a priori. Teoria precede fato. Experiência é inútil, pois antes de ser realizada nós já possuímos o conhecimento que estamos buscando. Leis fundamentais do movimento e repouso, leis que determinam o comportamento espaço-temporal de corpos materiais, são formuladas segundo princípios abstratos e relações numéricas. Da mesma natureza daquelas que governam relações e leis das figuras e números. Nós as encontramos não na Natureza, mas em nós mesmos, em nossa mente, assim como Platão nos ensinou muito tempo atrás. Adaptado de KOYRE, A. Galileo and the scientific revolution of the seventeenth century. Philosophical Review, v. 52, n. 4, 1943, p. 347. Com base no trecho, assinale a opção que identifica o fundamento epistemológico da Revolução Científica do século XVII descrito por Galileu. (A) Empirismo. (B) Indutivismo. (C) Matematização. (D) Mecanicismo. (E) Método experimental. 29 Embora durante o período hispânico só tenham ocorrido três reuniões de Cortes no reino (1581, 1583 e 1619), estas, dotadas de grande poder simbólico de evocação de um pacto primordial dos povos com o rei, foram importantes agentes de coesão, ao legitimarem o poder do novo monarca, ao serem palco do juramento de fidelidade dos estados ao monarca e seu descendente (uma inovação de D. Filipe I), ao restabelecerem a harmonia social quebrada pela crise sucessória. Adaptado de Jean-Frédéric Schaub, Portugal na Monarquia Hispânica (1580-1640). Lisboa, Livros Horizonte, 2001, p. 149. Com base no trecho e na interpretação historiográfica do período da União Ibérica, assinale a afirmativa correta. (A) As Cortes de Tomar marcaram a incorporação definitiva de Portugal ao Reino de Castela, extinguindo suas instituições administrativas próprias e submetendo o reino à legislação castelhana. (B) A reduzida convocação das Cortes durante a União Ibérica demonstra que elas perderam completamente sua função política e simbólica, sendo substituídas por órgãos representativos permanentes da sociedade portuguesa. (C) A União Ibérica resultou da conquista militar de Portugal por Castela, eliminando a autonomia política do reino e impondo um processo de centralização administrativa uniforme em toda a Península. (D) As Cortes reunidas durante o período filipino desempenharam papel relevante na legitimação da nova dinastia, preservando a lógica pactista da monarquia e reafirmando compromissos com a autonomia institucional do reino português. (E) A principal causa da Restauração de 1640 foi o descumprimento integral e imediato dos acordos firmados nas Cortes de Tomar, fato que provocou uma reação nacional unificada desde o início da União Ibérica. No século XVII, não havia mais de 500 homens de origem europeia na província do Espírito Santo, mas, contavam-se nela quatro reduções de índios, formadas pelos Jesuítas, as de Reritygba, hoje Benevente, Guarapary, São João, Reis Mago. Estes estabelecimentos serviam de modelo à civilização dos Guaranis, do Paraguai, tão comentada pelos mais célebres escritores. Adaptado de SAINT-HILAIRE, A. de. Segunda Viagem ao Interior do Brasil: Espírito Santo. São Paulo: Comp. Editora Nacional, 1936, p. 17. Considerando o trecho e o contexto da colonização do Espírito Santo no século XVII, é correto afirmar que o processo de aldeamento no Espírito Santo colonial foi favorecido pela (A) adoção de práticas violentas que impediram as formas de resistência e reação indígena, o que facilitou sua inserção nas reduções. (B) ansiedade em relação ao contato com conquistadores europeus, o que levou os indígenas a buscarem as reduções como forma de preservar suas práticas culturais. (C) concentração no interior, em detrimento do litoral, onde o contato mais intenso com os colonizadores dificultava a organização das reduções sob controle missionário. (D) existência de conflitos interétnicos, que foram instrumentalizados por missionários e colonizadores para atrair ou submeter determinados grupos indígenas. (E) reduzida presença indígena na região em relação ao número de europeus, condição que possibilitou maior concentração dos grupos nas reduções. Vemos que desde o início os papéis do Conselho das Índias estavam ligados ao poder. Mas não se tratava de um poder que se estendia exclusivamente da metrópole à periferia, e sim de uma dinâmica dialógica, que mantinha íntegro um império em constante expansão. Essas comunicações eram polifônicas, e delas participaram não apenas conquistadores, oficiais régios ou inquisidores, mas muitos outros atores. Essa lógica comunicativa, somada à inesperada novidade das Índias, exigia uma organização maior do que aquela que os ministros podiam oferecer. Isso impediu que o Conselho se convertesse em um centro de poder autoritário. Além disso, conferiu ao Conselho um caráter dialógico que estava longe de ser epistemologicamente absoluto. O arquivo do Conselho, e, portanto, o Arquivo de Índias, nasce como instrumento de poder, sim, mas cocriado, malformado, incompleto, histórico, polifônico. Adaptado de MASTERS, Adrian. “Cómo usar un archivo colonial”, Memórias Digitais e os Acervos Coloniais, 2024, p. 352. As opções a seguir descrevem corretamente a interpretação do autor sobre o arquivo colonial, à exceção de uma. Assinale-a. (A) Uma construção histórica, cocriada, marcada pelos processos de produção documental e caracterizada por sua condição incompleta e situada. (B) Um espaço constituído por múltiplos processos de comunicação e marcado pela participação de diversos agentes envolvidos na produção do conhecimento sobre as Índias. (C) Um instrumento voltado à organização e à sistematização de informações necessárias à comunicação das novidades e ao governo dos territórios ultramarinos. (D) Uma instância atravessada por dinâmicas comunicativas, marcada pela pluralidade de vozes e incompatível com a consolidação de um poder plenamente autoritário do Conselho das Índias. (E) Um repositório documental independente, autossuficiente e capaz de oferecer, por si só, um conhecimento histórico epistemologicamente completo. 32 Trata-se de um processo histórico de constituição de uma nova coletividade, no qual se redefinem simultaneamente as formas de pertencimento e as condições materiais de existência, resultando em uma identidade própria que não corresponde diretamente às dos grupos de origem. O trecho caracteriza um processo histórico específico de formação social e cultural. Assinale a opção que apresenta corretamente o conceito ao qual ele se refere. (A) Aculturação. (B) Alteridade. (C) Etnogênese. (D) Etnocentrismo. (E) Sincretismo. Leia os trechos a seguir. I. O costume de alforriar escravos que apresentassem seu valor era largamente praticado, mas à revelia do Estado; não que o Estado se opusesse, mas porque não lhe era permitido sancioná-lo em lei, pela oposição daqueles mesmos que praticavam essa regra costumeira. Esse direito não existia em lei até 1871. É verdade que, antes dessa data, existiam circunstâncias excepcionais em que o Estado intervinha concedendo alforrias, mas, de qualquer forma, indenizavam-se os senhores, e cabia a estes a concessão da carta de alforria. Adaptado de CUNHA, Manuela da. Antropologia do Brasil. Mito, história, etnicidade. São Paulo: Brasiliense, 1987, pp.124-125. II. O tribunal, seja atuando de acordo com o costume, seja agindo segundo as normas de direito ou a consciência de seus membros, manteve uma posição que realmente interferiu nos destinos de senhores e escravos que a ele recorriam. Ações de liberdade, seus procedimentos e seus resultados, não eram uma prática anormal no Estado imperial brasileiro, mesmo que o acesso de escravos ao sistema judiciário tenha sido tão restrito. Adaptado de GRINBERG, Keila. Liberata. a lei da ambiguidade - as ações de liberdade da corte de apelação do Rio de Janeiro no século XIX. Rio de Janeiro: Centro Edelstein de Pesquisa Social, 2010, p. 25. Com base nos trechos, assinale a opção que apresenta corretamente a interpretação dos autores sobre a conquista da liberdade por pessoas escravizadas no Brasil imperial. (A) Ambos os trechos compreendem o processo de obtenção da liberdade como pertencente à esfera privada, mediado pelas relações entre senhores e escravizados. (B) O trecho I associa a liberdade à iniciativa do escravizado de demandar sua alforria, enquanto o trecho II a interpreta como concessão estatal. (C) Ambos os trechos concebem a liberdade como um direito positivo inscrito na tradição jurídica, cuja efetivação caberia ao Estado, mediante pagamento. (D) O trecho I entende a alforria como prática costumeira dependente da concessão senhorial, enquanto o trecho II a associa a ações judiciais no âmbito do Estado imperial. (E) Ambos os trechos interpretam a prática de alforriar escravizados como excepcional, em razão da ausência de respaldo jurídico e legal para libertar esses indivíduos. No início da década de 1960, a paleografia tratou de dispensar os rígidos hábitos que a acompanhavam praticamente desde suas origens e mostrou-se disposta a vestir-se com outras roupagens. A orientação positivista, técnica e auxiliar dos estudos paleográficos, estava incapacitada para resolver os diversos problemas suscitados pela escrita como prática sociocultural. Ao fixar seus objetivos na análise interna das formas gráficas, na datação temporal e tópica e na explicação do processo seguido na redação dos documentos, deixava sem resposta todas as interrogações que diziam respeito às identidades das pessoas que escrevem e as razões e os contextos em que se desenvolvem as práticas do escrito. Adaptado de GÓMEZ, A. Grafias no cotidiano: escrita e sociedade na História (séculos XVI a XX). RJ: Eduerj; Eduff, 2020, pp. 41-42. Com base no trecho, assinale a opção que identifica corretamente o processo de renovação da paleografia na segunda metade do século XX. (A) A paleografia começou a compreender a escrita como um fenômeno social historicamente condicionado e a articular sua análise às suas formas materiais. (B) A paleografia consolidou a primazia das fontes oficiais ao reforçar critérios tradicionais de validação e ao limitar a incorporação de testemunhos marginais. (C) A paleografia deslocou a análise formal dos documentos em favor de abordagens da história social, prescindindo de seus procedimentos técnicos tradicionais de análise. (D) A paleografia permitiu identificar padrões gerais na evolução da escrita, com etapas comparáveis de desenvolvimento histórico e cultural entre diferentes sociedades. (E) A paleografia sedimentou-se como ciência ao ter como objetivo central verificar a autenticidade dos documentos, contextualizando-os em seu processo de produção. 35 Leia a situação a seguir. Uma pintura do século XVIII, atribuída a um artista de destaque do período colonial, foi identificada em uma coleção particular durante a preparação de um leilão internacional. A obra, até então pouco conhecida, despertou o interesse de especialistas e foi submetida à análise técnica, sendo reconhecida por seu elevado valor histórico e artístico para o país. Diante do risco de sua saída definitiva do território nacional, o Instituto do Patrimônio Histórico e Artístico Nacional instaurou processo de tombamento com vistas à sua preservação, nos termos do Decreto-Lei nº 25/1937. O proprietário passou a questionar os efeitos jurídicos do tombamento sobre o uso, a circulação e a eventual alienação do bem. Considerando o caso descrito, assinale a opção que apresenta corretamente um efeito do tombamento. (A) O bem passa a integrar automaticamente o patrimônio da União, sendo vedada, em qualquer hipótese, sua saída do país. (B) O bem não pode ser objeto de qualquer forma de exploração econômica por seu proprietário, ainda que preservada sua titularidade. (C) O bem permanece sob a titularidade do proprietário, que fica obrigado à sua conservação, sendo necessária autorização do órgão competente para sua saída do país. (D) O bem perde o caráter de propriedade privada, tornando-se de uso coletivo, ainda que permaneça sob a guarda do proprietário, que deve permitir a visitação pública. (E) O bem pode ser utilizado pelo proprietário ou por terceiros, Leia os fragmentos a seguir. I. A preparação da guerra, especialmente em grande escala, leva os governantes, inevitavelmente, a extrair recursos da população. Com isso, cria-se uma estrutura de arrecadação, abastecimento e administração que precisa se manter e que muitas vezes cresce mais rápido do que os próprios exércitos e marinhas que sustenta. Os interesses e o poder dessa estrutura acabam limitando de forma significativa o tipo e a intensidade da guerra. Adaptado de TILLY, Charles. Coerción, capital y los Estados europeos, 990-1990. Madrid: Alianza Editorial, 1992, p. 46. II. É necessário revisar a ideia de que o desenvolvimento militar na Idade Moderna foi um processo conduzido principalmente pelo Estado, ligado à centralização e ao controle burocrático. Ao analisar as condições relacionadas à prática de fazer guerra por meio de contratantes privados a partir do século XVI, conclui-se que essa forma de organização não foi uma exceção nem resultado de governantes fracos ou irresponsáveis. Pelo contrário, tratava-se de uma solução lógica para mobilizar recursos, considerando as limitações dos governos da Idade Moderna e sua dependência dos recursos e da cooperação das elites. Adaptado de PARROT, David. “Military Revolution or Military Devolution?” Stud. his., H.ª mod., 35, 2013, p. 33. Considerando os fragmentos, assinale a opção que apresenta corretamente a interpretação dos autores sobre o desenvolvimento militar na Época Moderna. (A) O trecho I aponta que a mobilização de recursos gera uma estrutura fiscal autônoma que condiciona a guerra, enquanto o trecho II nega a agência estatal nessa organização. (B) O trecho I indica que a organização dos conflitos esteve condicionada ao tipo de guerra que o Estado planejava previamente empreender, enquanto o trecho II destaca a atuação de agentes privados na viabilização desses conflitos. (C) Ambos os trechos indicam que o Estado dependia da mobilização dos civis, por meio da arrecadação de recursos, para sustentar os conflitos. (D) Ambos os trechos evidenciam a limitada atuação estatal na organização dos conflitos, em razão da dependência de recursos e cooperação externos. (E) Ambos os trechos apontam a insuficiência de infraestrutura estatal no período moderno, o que explica o caráter improvisado dos conflitos. Eu diria que o historiador está em condições muito melhores do que o participante do presente, pela simples razão de que dispõe de um horizonte ampliado. Se o leitor pensa que o passado é uma paisagem, a história é a maneira como a representamos, e é justamente esse ato de representação que nos eleva acima do familiar para permitir-nos ter experiências substitutivas daquilo que não podemos experimentar diretamente: uma visão mais ampla. Adaptado de GADDIS, John Lewis. El paisaje de la historia: cómo los historiadores representan el pasado. Anagrama, 2004, pp. 21-22. Considerando a reflexão de John Lewis Gaddis, é correto afirmar que a representação do passado como paisagem (A) aponta que a história corresponde a uma paisagem fixa, dado que os acontecimentos já ocorreram e não são passíveis de modificação. (B) implica que a inteligibilidade histórica decorre da vivência imediata dos acontecimentos por parte de seus contemporâneos. (C) indica que o trabalho do historiador consiste em analisá-lo a partir de certa distância, a fim de atribuir sentido a processos não diretamente experienciáveis. (D) pressupõe que o historiador realize uma reconstrução integral do passado, prescindindo de procedimentos de abstração e de elementos subjetivos. (E) sugere os limites da representação histórica de um evento passado, ao privilegiar uma perspectiva ampla de conjunto em detrimento do exame minucioso dos acontecimentos. 38 A “segunda escravidão” se desenvolveu não como uma premissa histórica do capital produtivo, mas pressupondo sua existência como condição para sua reprodução. Adaptado de TOMICH, D. Through the Prism of Slavery. Labor, Capital, and World Economy. Lanham, Rowman & Littlefield, 2004, p. 87. Com base no trecho, é correto afirmar que a “segunda escravidão” conceituada por Dale Tomich consiste em uma (A) forma de escravidão integrada ao mercado mundial capitalista, cuja expansão decorreu principalmente da retração da indústria europeia e da autonomia das economias escravistas em relação ao capital industrial. (B) forma de escravidão que apresenta menor racionalização produtiva em relação aos séculos anteriores, com aumento da escala do tráfico, o que levou à dissolução da autoridade senhorial pelo capitalismo industrial. (C) interpretação da escravidão que decorre de uma concepção de acumulação de capital universalizante e abstrata, a qual homogeneíza as formas de divisão do trabalho em escala global sob uma mesma lógica histórica. (D) reconfiguração da escravidão articulada à expansão do capital industrial, cuja reprodução dependia da intensificação das economias exportadoras nas regiões periféricas do sistema global. (E) forma de escravidão caracterizada pela sua marginalização diante da expansão das economias liberais e do trabalho livre, tornando-se residual nas economias centrais do capitalismo. Em uma escala de inteligência, há o mesmo intervalo entre o negro e o europeu que entre o europeu e o macaco; e a raça negra é a mais inferior das raças humanas. Adaptado de GOBINEAU, Arthur de. Ensaio sobre a desigualdade das raças humanas. Paris, 1853-1855. Com base no trecho, assinale a opção que apresenta corretamente uma corrente científica do século XIX representada. (A) O evolucionismo cultural, que compreendia as diferenças entre os povos como estágios sucessivos de desenvolvimento histórico e tecnológico. (B) A antropologia cultural, que explicava as diferenças humanas a partir da diversidade de costumes e da historicidade das sociedades. (C) O racismo científico, que atribuía às características biológicas e raciais o fundamento das desigualdades entre os grupos humanos. (D) O positivismo, que defendia a observação objetiva da sociedade sem estabelecer hierarquias entre os diferentes povos. (E) O determinismo geográfico, que explicava as diferenças entre as populações exclusivamente pelas condições ambientais. 40 Assinale a opção que caracteriza corretamente a posição da Inglaterra diante da Santa Aliança no contexto da ordem europeia pós-napoleônica. (A) A Inglaterra aderiu à Santa Aliança com restrições, rejeitando intervenções na Península Ibérica, mas apoiando a repressão de revoluções liberais em outras regiões. (B) A Inglaterra adotou uma posição crítica à atuação intervencionista da Santa Aliança, por defender interesses comerciais incompatíveis com a restauração absolutista. (C) A Inglaterra integrou a Santa Aliança, alinhando-se às monarquias absolutistas na defesa da restauração e da repressão de movimentos liberais no continente europeu. (D) A Inglaterra liderou a Santa Aliança, utilizando-a como instrumento para consolidar sua hegemonia marítima e comercial no contexto pós-napoleônico. (E) A Inglaterra participou indiretamente da Santa Aliança, apoiando intervenções contra movimentos liberais, desde que estas não afetassem seus interesses coloniais. 41 Assinale a opção que apresenta corretamente uma medida aprovada pela Conferência de Berlim sobre os territórios africanos. (A) Determinação de que, em caso de conflito entre potências europeias, os territórios africanos seriam automaticamente envolvidos como aliados das respectivas metrópoles. (B) Estabelecimento de um regime de proteção exclusiva do comércio nas bacias do Congo e do Níger pelas potências europeias signatárias. (C) Proibição do tráfico de escravos e compromisso das potências europeias em combatê-lo nos territórios sob sua soberania ou influência. (D) Reconhecimento das autoridades africanas como instâncias formais de mediação e decisão na definição da ocupação e da administração colonial. (E) Reordenamento das possessões já estabelecidas, com redistribuição entre as potências signatárias, a fim de assegurar o equilíbrio territorial. Considere as afirmativas a seguir sobre a Constituição de 1946 e a experiência democrática brasileira entre 1946 e 1964. I. A Constituição de 1946 restabeleceu princípios democráticos, como a separação dos Poderes, o pluripartidarismo e a ampliação das liberdades civis, marcando o fim do Estado Novo. II. Durante o governo de Eurico Gaspar Dutra, o alinhamento do Brasil aos Estados Unidos no contexto da Guerra Fria refletiu- se, entre outras medidas, na cassação do registro do Partido Comunista Brasileiro (PCB). III. A adoção do parlamentarismo entre 1961 e 1963 resultou de uma reforma prevista originalmente pela Constituição de 1946 e foi implementada para consolidar um novo modelo permanente de organização do Estado brasileiro. Está correto o que se afirma em (A) I, apenas. (B) II, apenas. (C) I e II, apenas. (D) II e III, apenas. (E) I, II e III. 43 A força da história oral é a mesma de qualquer história que possua seriedade metodológica. Essa força decorre da diversidade das fontes consultadas e da inteligência com que foram utilizadas. A informação oral serve para verificar a confiabilidade de outras fontes, da mesma forma que estas são sua garantia. Também pode fornecer detalhes minuciosos que, de outro modo, seriam inacessíveis. A história oral, com sua riqueza de detalhes, sua humanidade, sua frequente emoção e sempre com seu ceticismo em relação ao fazer histórico, encontra-se melhor preparada para esses componentes vitais da tarefa do historiador: a tradição e a memória, o passado e o presente. Adaptado de PRINS, Gwyn. “Historia oral”, em Formas de hacer Historia. Madri: Alianza Universidad, 1996, pp. 174- 176. Com base no trecho, assinale a opção que interpreta corretamente a história oral segundo o autor. (A) A história oral alcança validade metodológica ao articular-se com outras fontes, permitindo sua verificação recíproca e a abertura de novas possibilidades de interpretação histórica. (B) A história oral concentra-se no estudo de sociedades com pouca tradição escrita, nas quais a memória intergeracional permite estabelecer sequências históricas coerentes. (C) A história oral incorpora dimensões subjetivas do passado e, por isso, apresenta limitações metodológicas que restringem sua integração em análises históricas mais amplas. (D) A história oral oferece aos historiadores garantia quanto ao estatuto epistemológico da verdade, ao considerar os sujeitos entrevistados como fontes irrefutáveis. (E) A história oral amplia o repertório de informações sobre eventos passados, devendo o historiador considerar todos os elementos relatados, sem selecioná-los ou hierarquizá-los. Observe a imagem a seguir. Novo Paraiso terrestre. Revista O malho, Rio de Janeiro, ano 1907, edição 248. A imagem retrata um casal de imigrantes na Ilha das Flores, no Rio de Janeiro, diante de um homem representado como uma figura divina, que diz: “Crescei e multiplicai-vos!”. Os imigrantes respondem: “Pelas cinzas de Adão e Eva, juramos que não faremos outra coisa.” Com base na imagem, assinale a opção que identifica corretamente a política de imigração implementada no Brasil entre o final do século XIX e o início do século XX. (A) A Lei de Terras de 1850, ao reconhecer a posse como forma de acesso à terra, facilitou a aquisição de propriedades por imigrantes europeus e seu assentamento no país. (B) As políticas de hospedarias funcionaram como instrumentos de inserção imediata dos imigrantes, articuladas à ideia de rápida miscigenação como estratégia de branqueamento. (C) O sistema de parceria nas fazendas de café remunerava com parte da produção e selecionava imigrantes com recursos para custear a viagem e a subsistência. (D) A abolição da escravidão criou demanda por mão de obra qualificada para a industrialização, o que levou à concentração de imigrantes europeus nos centros urbanos. (E) A nova ordem republicana definiu um perfil preferencial de imigrantes, o que implicou a limitação do ingresso de determinados grupos. Observe a imagem a seguir. Fonte: https://libarchives.unl.edu/project/ww1-posters/ A imagem é uma propaganda da United States Food Administration que circulou durante a Primeira Guerra Mundial. O cartaz recomenda que a população dos Estados Unidos: “Coma mais produtos de milho, aveia e centeio — peixe e aves — frutas, vegetais e batatas — alimentos assados, cozidos e grelhados. Coma menos trigo, carne, açúcar e gorduras para economizar para o exército e para os nossos aliados”. Com base na imagem, assinale a opção que apresenta corretamente o papel dessa propaganda durante a Primeira Guerra Mundial. (A) Aponta para a adoção de uma política nacional de racionamento compulsório de alimentos, com o objetivo de abastecer as tropas estadunidenses e aliadas nas trincheiras. (B) Evidencia o estímulo governamental ao consumo interno da superprodução agrícola, com o objetivo de criar uma demanda internacional por seus produtos industrializados. (C) Expressa a preocupação em projetar, no plano internacional, a população estadunidense bem alimentada como expressão de abundância em contraste com a carestia em outros países. (D) Indica um chamado à mobilização interna no esforço de guerra, com envolvimento da população civil em práticas não combativas. (E) Evidencia o interesse estatal em preservar práticas alimentares tradicionais frente à destruição cultural ocorrida durante o contexto de guerra. A constituição de uma história de gênero e o lugar atribuído à história das mulheres têm gerado controvérsias e debates. Campos distintos, mas complementares? Substituição da história das mulheres pela história de gênero? História de gênero como forma de neutralização do desafio fundador da história das mulheres? PINTO, Teresa e Teresa Alvarez. Introdução. História, História das mulheres, História do Gênero. Produção e transmissão do conhecimento histórico. ex æquo, nº 30, 2014, p. 14. Com base no trecho, é correto afirmar que a história de gênero, em contraste com a das mulheres, (A) ampliou o campo de análise para além da experiência feminina. (B) trata as relações entre homens e mulheres como universais, ao considerar a presença de assimetrias em todas as sociedades. (C) assume o paradigma da neutralidade humana como modelo para analisar processos sociais e históricos. (D) considera os elementos biológicos irrelevantes, priorizando construções sociais na análise das relações humanas. (E) enfatiza as desigualdades entre os sexos, secundarizando outras dimensões sociais para entender as relações de poder. 47 No Ceará, apesar das obras em açudes e rodovias que absorveu um número considerável de infelizes, muitos outros sobraram, constituindo um problema sério a resolver. Diante do número de pessoas a socorrer e da grande área em que se achavam espalhados, decidiu-se concentrá-las em acampamentos chamados “campos de concentração”. Adaptado de Relatório do Departamento Nacional de Saúde Pública, 1936, p. 133. Assinale a opção que apresenta corretamente os objetivos da criação dos “campos de concentração” durante a seca de 1932, no contexto do Governo Provisório. (A) Assegurar assistência à saúde às famílias atingidas pela seca, com a criação de unidades de atendimento temporárias, no contexto da ampliação dos direitos trabalhistas rurais. (B) Controlar e fixar a população atingida pela seca, restringindo sua circulação nos centros urbanos, como expressão de uma política higienista voltada à contenção e ao controle social. (C) Destinar mão de obra barata ao processo de industrialização em curso no Sudeste, considerado o objetivo prioritário pelo Estado brasileiro. (D) Instituir comunidades de apoio mútuo voltadas à população retirante mais vulnerável, em razão da ausência de órgão estatal responsável pelo abastecimento de água. (E) Recolher a população atingida pela seca para organizar a assistência com moradia e alimentação, no âmbito de políticas paternalistas do governo federal. Em 1940, Francisco Franco ordenou a construção de um complexo arquitetônico composto por um centro de estudos, uma basílica e um monastério na Espanha. Celebrava-se um ano de sua vitória na Guerra Civil. A construção do complexo foi realizada principalmente por prisioneiros políticos republicanos, submetidos a duras condições de trabalho. Com a aproximação da conclusão das obras, houve uma ressignificação das finalidades do monumento: de símbolo da vitória e homenagem aos franquistas mortos na Guerra Civil, passou a ser de “todos os caídos”, o que demonstra uma aspiração à reconciliação, fundamentada na ideia de que os dois lados tiveram perdas. Sem a autorização das famílias, os corpos de diversas vítimas do regime foram levados para o complexo, representando uma humilhação serem depositados no monumento de seus inimigos, como troféus de guerra. O complexo pode ser compreendido como monumento, lugar de memória e ponto de partida para problematizar a forma como os regimes democráticos gerenciaram as memórias sobre seus passados traumáticos, na tensão entre a memória e o esquecimento. Adaptado de BAUER, Caroline. “A eternidade do franquismo: lembranças e esquecimentos na Espanha pós-Franco”, Café História, 23 jun. 2019. Com base no trecho, assinale a opção que identifica corretamente a gestão da memória histórica pelo governo de Franco associada ao monumento descrito. (A) Abordagem crítica da memória histórica, que reconhece a exaltação pretérita de agentes hoje problematizados e utiliza o desconforto gerado como instrumento de reflexão. (B) Apagamento do passado violento por meio da destruição de sua materialidade, com o objetivo de afirmar um projeto nacionalista-cristão e apresentar o país como unificado. (C) Conservação da memória por meio de monumentos grandiosos fixos, como símbolo da cristalização do passado e consolidação de uma narrativa histórica positiva. (D) Preservação dos significados originais do monumento, vinculados ao projeto personalista de Franco, orientado à construção de uma imagem grandiosa e vitoriosa do regime. (E) Reconciliação com o passado, ao equiparar os lados do conflito, atenuando assimetrias e suprimindo as responsabilidades históricas. Em agosto de 1939, a Alemanha nazista e a União Soviética firmaram um tratado de não agressão conhecido como Pacto Molotov-Ribbentrop, o qual incluía um protocolo secreto destinado a delimitar esferas de influência na Europa Oriental. Esse acordo teve consequências decisivas na evolução do conflito europeu nos meses imediatamente posteriores. Com base nesse contexto, é correto afirmar que esse tratado foi relevante para o início da Segunda Guerra Mundial porque (A) consolidou uma aliança político-militar duradoura entre a Alemanha e a União Soviética, baseada na complementaridade de seus projetos territoriais. (B) estabeleceu a delimitação de esferas de influência, evitando conflitos territoriais imediatos entre as potências europeias. (C) foi concebido como um acordo destinado a evitar um confronto imediato e a responder a possíveis ameaças externas. (D) refletiu uma convergência ideológica segundo a qual o nazismo e o comunismo, apesar de suas diferenças, concebiam a expansão do Estado como eixo organizador da sociedade. (E) permitiu à Alemanha evitar, inicialmente, a abertura de uma frente oriental e facilitar o avanço de suas operações militares iniciais na Europa. 50 Era preciso produzir borracha para alimentar a máquina da guerra. As exportações do governo americano, mediante seus órgãos oficiais, e até mesmo um dramático apelo subscrito pelo próprio general Eisenhower chegavam ao Brasil que, por sua vez, além de figurar honrosamente entre as Nações Unidas, assumira o compromisso solene de incentivar a produção e a exportação da borracha. Adaptado de Diário da Assembléia Nacional da Constituinte 31/08/1946. p. 4517 Com base no trecho, é correto afirmar que a Campanha da Borracha decorreu (A) do compromisso brasileiro com os Estados Unidos, pelo qual, não tendo enviado tropas para apoiar os Aliados, o país contribuiu para o esforço de guerra por meio da produção de borracha. (B) de uma imposição dos Estados Unidos ao Brasil, após a interrupção do fornecimento asiático de borracha causada pela ofensiva japonesa no Pacífico. (C) de um plano estratégico dos Estados Unidos em relação ao Brasil, considerado uma área de interesse estratégico e fora do alcance das operações militares do Eixo. (D) de acordos bilaterais entre agências brasileiras e estadunidenses, que recrutaram mão de obra e organizaram seu envio para a Amazônia para a extração do látex. (E) das relações entre o Brasil e outros Estados, orientadas à assistência de imigrantes internacionais enviados à Amazônia para trabalhar na produção de borracha e ocupar áreas vazias. Serão estabelecidos dois Estados independentes, um árabe e um judeu, enquanto a cidade de Jerusalém será constituída como um corpo separado (corpus separatum), sob um regime internacional especial administrado pelas Nações Unidas. Resolução 181 da Assembleia Geral da ONU, 1947, adaptado. Com base na Resolução 181 da Organização das Nações Unidas (1947), que tratou da partilha da Palestina, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A Resolução previa a criação de dois Estados independentes, com a manutenção de mecanismos de cooperação econômica entre eles, especialmente em áreas de infraestrutura e circulação de recursos. ( ) A cidade de Jerusalém seria incorporada ao Estado árabe, sob administração compartilhada entre as lideranças locais judaicas e árabes. ( ) A implementação da partilha previa a permanência do mandato britânico na Palestina, com poderes ampliados para garantir a transição política entre os dois Estados. As afirmativas são, respectivamente, (A) V – F – F. (B) V – F – V. (C) F – F – V. (D) F – V – F. (E) V – V – V. Leia o texto a seguir. O bairro Waldsiedlung é atualmente um local muito desejado para se viver na Alemanha. Mas viver ali também significa lidar com o passado do país: o bairro foi construído no período da Segunda Guerra Mundial como uma comunidade para a guarda de elite do Reich nazista, cujas responsabilidades incluíam executar o Holocausto. O conjunto foi projetado para incorporar a ideologia nazista que exaltava a relação mística dos arianos com sua terra ancestral. A forma como os atuais moradores lidam com esse passado acompanha tendências culturais mais amplas. Durante décadas, o tema foi varrido para debaixo do tapete. Como resultado, alguns moradores desconhecem a história do lugar até serem informados por vizinhos. “Algumas pessoas dizem: ‘Isso foi há 80 anos, não tem nada a ver comigo’”, disse uma moradora que se mudou para lá em 2000. “Para mim, é o contrário. Quero saber o que aconteceu na minha casa. Não é possível avançar com o silêncio.” À medida que o tempo passa e as últimas testemunhas morrem, os lugares físicos tornam-se cada vez mais importantes para a memória do Holocausto. O lugar é uma conexão. Adaptado de https://www.nytimes.com/2025/05/27/realestate/berlin-holocaust- nazis-neighborhood.html Com base no texto, assinale a opção que analisa corretamente a relação entre espaço e memória. (A) A permanência do espaço físico estabelece vínculos entre passado e presente, ao mesmo tempo em que permite a atualização de seus sentidos. (B) A persistência da materialidade do espaço assegura a invariabilidade de seus usos e significados ao longo das transformações históricas e sociais. (C) A origem do espaço, assentada em uma violência amplamente conhecida, não admite interpretações plurais e impõe uma memória consensual sobre ele. (D) A conservação do espaço evidencia as dificuldades da sociedade em enfrentar temas sensíveis, favorecendo sua progressiva naturalização e esvaziamento crítico. (E) A reconfiguração funcional do espaço acarreta a ruptura com suas camadas pretéritas de significação, substituindo integralmente as memórias anteriores por novos sentidos. 53 Analise as afirmativas a seguir sobre a tecnologia atômica no início da Guerra Fria e suas implicações estratégicas. I. O monopólio nuclear dos Estados Unidos, vigente entre 1945 e 1949, assegurou superioridade militar, mas revelou eficácia política limitada, uma vez que não foi capaz de reverter a consolidação da influência soviética na Europa Oriental. II. A bomba atômica afirmou-se primordialmente como instrumento de dissuasão estratégica, sobretudo a partir da lógica de equilíbrio de poder emergente, em detrimento de seu emprego direto em conflitos armados. III. A União Soviética, ao priorizar a reconstrução econômica no pós-guerra, retardou deliberadamente o desenvolvimento de seu programa nuclear, alcançando apenas tardiamente a capacidade de testagem atômica ao final da década de 1940. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. Observe a imagem a seguir. https://memoriasdaditadura.org.br/fotografia/propaganda-do-mobral/ O cartaz é uma peça publicitária do Mobral, programa de alfabetização implementado durante a Ditadura Militar. Nele, convoca-se a população alfabetizada a ensinar aqueles que não sabem ler e incentiva-se os não alfabetizados a procurar o Mobral. Assinale a opção que apresenta corretamente os objetivos desse programa de alfabetização no contexto da Ditadura Militar. (A) Adotar um modelo educacional orientado ao Ensino Superior, visando ampliar o acesso às universidades públicas em expansão. (B) Empregar uma abordagem pedagógica baseada na vivência do estudante, visando acelerar a alfabetização e melhorar os indicadores educacionais nacionais. (C) Implementar uma educação nos moldes capitalistas, voltada ao desenvolvimento de habilidades intelectuais básicas, visando tornar os indivíduos funcionais ao sistema. (D) Instituir um modelo educacional de matriz europeia, caracterizado pelo afastamento de símbolos nacionais e pela valorização de referências internacionais. (E) Promover uma formação técnica, não ideológica, baseada na objetividade das avaliações, voltada à geração de mão de obra para as demandas do desenvolvimento do país. Leia o caso descrito a seguir. Um historiador ficou responsável pela organização e digitalização do acervo documental de um antigo órgão de segurança do Estado, produzido durante o período da ditadura. Parte significativa desse acervo contém informações sensíveis, incluindo dados pessoais de indivíduos ainda vivos e registros de investigações sigilosas. Durante o processo, o historiador identificou documentos que comprovam violações de direitos humanos e reconheceu o interesse público de sua divulgação. Ao mesmo tempo, depara-se com a necessidade de respeitar restrições legais relacionadas à proteção de dados pessoais. Com base no caso descrito, assinale a opção que apresenta corretamente uma medida que o historiador pode adotar de acordo com a Lei nº 12.527/2011 (Lei de Acesso à Informação). (A) Criar um repositório digital público para a divulgação integral e imediata de todos os documentos identificados como de interesse público, uma vez que a publicidade constitui regra geral da normativa. (B) Publicar em portal oficial os documentos de interesse público, garantindo amplo acesso por meios digitais, com a devida anonimização de dados pessoais sensíveis e a restrição de informações sigilosas. (C) Elaborar uma cartilha orientadora que determine a restrição integral de acesso ao acervo, em razão de informações sigilosas, reservando sua consulta exclusivamente a agentes estatais. (D) Produzir material educativo com contextualização histórica dos documentos, de modo a incentivar a população a solicitar informações sobre seu conteúdo, uma vez que sua divulgação depende de pedido. (E) Produzir um catálogo dos documentos e transferir a responsabilidade pela divulgação ao Poder Judiciário, em razão da presença de informações sensíveis que impede o historiador na publicização do acervo. 56 A Lei nº 11.645/2008 estabelece a obrigatoriedade do ensino da história e cultura dos povos indígenas, reconhecendo-os como sujeitos históricos e protagonistas na formação da sociedade brasileira. Considerando esse marco legal, sobre formas de assegurar esse protagonismo, analise as itens a seguir e assinale (V) para o verdadeiro e (F) para o falso. ( ) A apresentação dos povos indígenas nos livros didáticos como integrantes do folclore nacional, com destaque para sua contribuição cultural em uma perspectiva predominantemente simbólica. ( ) A utilização de materiais produzidos por autores indígenas em substituição às demais fontes históricas, com o objetivo de assegurar a valorização das perspectivas indígenas. ( ) A valorização de abordagens que superem a oposição entre resistência e assimilação, reconhecendo a agência histórica dos povos indígenas. Os itens são, respectivamente, (A) V – V – F. (B) V – F – V. (C) F – F – V. (D) F – V – F. (E) V – V – V. Sobre as transformações na infraestrutura e na economia do Espírito Santo, ocorridas a partir da década de 1960, em decorrência da instalação de grandes empreendimentos industriais, analise as afirmativas a seguir. I. A instalação da Companhia Vale do Rio Doce, vinculada à mineração em Minas Gerais, integrou a cidade de Vitória a uma dinâmica econômica mais ampla, superando sua subordinação à economia cafeeira. II. A instalação da Companhia Siderúrgica de Tubarão esteve associada à expansão do complexo portuário de Tubarão, impulsionando a industrialização e a inserção do estado nas cadeias siderúrgicas voltadas à exportação. III. A instalação da Aracruz Celulose contribuiu para a inserção do estado em cadeias produtivas globais e promoveu transformações no uso do território, marcadas pela predominância da monocultura de eucalipto. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. 58 Todo capixaba tem Uma panela de barro no peito Uma orquídea no gesto Um cafezinho no jeito Um trocadilho na brincadeira Um congo no andar Um chá de cidreira Uma moqueca perfeita Adaptado de Elisa Lucinda, in Dossiê IPHAN Ofício das Paneleiras de Goiabeiras A panela de barro mencionada no trecho remete ao Ofício das Paneleiras de Goiabeiras, reconhecido pelo IPHAN como patrimônio cultural imaterial brasileiro. Com base nesse reconhecimento, assinale a opção que identifica corretamente o Livro de Registro em que esse bem foi inscrito. (A) Livro de Registro das Artes, por se tratar de técnicas artesanais de produção cerâmica transmitidas entre gerações. (B) Livro de Registro das Celebrações, por estar associado ao preparo da moqueca capixaba em contextos festivos e religiosos, como a Semana Santa. (C) Livro de Registro das Formas de Expressão, por reunir elementos simbólicos das matrizes culturais indígena, africana e europeia. (D) Livro de Registro dos Lugares, por estar vinculado ao bairro de Goiabeiras Velha como espaço de referência cultural onde se concentram a prática do ofício das paneleiras. (E) Livro de Registro dos Saberes, por se tratar de um ofício tradicional transmitido no âmbito comunitário e relacionado ao modo de fazer artesanal. Analise as afirmativas a seguir sobre as abordagens historiográficas que questionam o chamado “nacionalismo metodológico”. I. A história global e a história conectada compartilham o objetivo de superar enquadramentos nacionais rígidos, privilegiando a análise das interações e das circulações entre diferentes espaços. II. A história transnacional parte do pressuposto de que os processos de formação dos Estados na modernidade foram simétricos, comparando-os e situando-os em escalas amplas que tendem a nivelá-los. III. A história global, a história conectada e a história transnacional privilegiam as dinâmicas globais, subordinando sistematicamente os processos locais a escalas mais amplas de interpretação. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. 60 Leia o caso descrito a seguir. Em um município, uma comunidade tradicional ingressou com ação judicial para reconhecimento de direitos territoriais. Durante o processo, foi localizado, no arquivo histórico estadual, um conjunto de documentos do século XIX, incluindo registros de ocupação, mapas e correspondências administrativas que comprovam a presença histórica da comunidade na área reivindicada. Embora esses documentos tenham passado a ser utilizados como prova documental no processo judicial, sua classificação arquivística quanto à idade documental permanece definida pelos critérios da Arquivologia. Considerando essa situação, assinale a opção que apresenta corretamente a classificação desses documentos quanto à idade documental. (A) Os documentos são classificados na idade corrente, pois estão sendo frequentemente consultados e utilizados no contexto do processo judicial. (B) Os documentos são classificados na idade intermediária, pois houve alteração de seu valor de uso, anteriormente histórico e agora voltado a fins legais. (C) Os documentos são classificados na idade intermediária, pois ainda se encontram em fase de avaliação quanto à sua destinação final. (D) Os documentos são classificados na idade permanente, pois possuem valor histórico e probatório, independentemente de seu uso atual. (E) Os documentos são classificados na idade permanente, pois são históricos e originais, não apresentando valor secundário e sendo preservados principalmente por sua antiguidade. 1 Texto I \"Os povos e comunidades tradicionais são grupos culturalmente diferenciados que possuem formas próprias de organização social, ocupam e utilizam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, práticas e saberes transmitidos pela tradição.\" Adaptado do Decreto nº 6.040/2007 Texto II Em procedimento instaurado pelo Ministério Público do Estado do Espírito Santo para acompanhar a implantação de um empreendimento de infraestrutura, comunidades tradicionais alegaram que a área afetada abriga referências culturais, lugares de memória e modos de vida construídos ao longo de gerações. Para subsidiar a atuação ministerial, foi determinada a elaboração de estudo técnico fundamentado em documentos históricos, registros cartográficos, fotografias, inventários culturais, depoimentos orais e demais fontes capazes de reconstruir a trajetória histórica dessas comunidades e avaliar a relevância cultural do território. Considerando a situação apresentada e os conhecimentos relativos à atuação do historiador, redija um texto dissertativo abordando, necessariamente, os seguintes aspectos: a. a importância da pesquisa histórica e da crítica das diferentes fontes documentais para a produção de conhecimento técnico confiável; b. as relações entre memória, patrimônio cultural, territorialidade e identidade na caracterização dos povos e comunidades tradicionais do Estado do Espírito Santos; e c. o papel do historiador na elaboração de laudos e pareceres técnicos destinados à proteção do patrimônio cultural e ao assessoramento do Ministério Público. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- O racismo estrutural no Brasil opera naturalizando desigualdades e apagando a agência histórica de populações marginalizadas. Diante disso, o Ministério Público do Estado do Espírito Santo (MPES), por meio do Centro de Apoio Operacional da Educação (CAOPE), executa o projeto institucional “Por Uma Educação Antirracista”. Essa iniciativa fiscaliza o cumprimento da Lei nº 10.639/2003 junto a gestores municipais e à Secretaria de Estado da Educação (SEDU). Na atuação de campo, o MPES depara-se frequentemente com conflitos territoriais e ideológicos, como a censura a projetos de história afro-brasileira em regiões com forte presença quilombola (como no Sapê do Norte) e denúncias de discriminação étnico-racial tratadas equivocadamente pelas escolas como meros \"atos de indisciplina\". Adaptado de https://mpes.mp.br/noticias/2025/02/26/audiencia-publica-com-gestores-da-educacao-trata-da-educacao-antirracista-e-lei-10-639-2003/ Com base no texto motivador e nas atribuições do historiador em equipes multidisciplinares do Ministério Público, redija um texto dissertativo abordando, necessariamente, os seguintes aspectos: a) relacione a escravização, as formas de resistência da população negra e a construção do racismo estrutural no Brasil com a importância da Lei nº 10.639/2003 para a promoção da educação das relações étnico-raciais; e b) indique duas medidas que o historiador, no exercício de suas atribuições junto ao Ministério Público, pode propor para promover a valorização da história e da cultura afro-brasileira e a reparação de violações de direitos de comunidades tradicionais. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+        "E": "As narrativas de superação heroica, elaboradas em um plano filosófico abstrato, operavam como modelos para gerar um sentimento de conquista entre a população grega."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "Os mongóis não entravam na categoria de quase humanos, de monstros que a cartografia medieval distribuía pelos confins da Ásia, nem se encaixavam nas categorias conhecidas pelos europeus, baseadas na divisão bíblica do gênero humano. Assim, foram classificados de diferentes formas: como flagelos de Deus, como um castigo pelos pecados, como demônios ou bestas. Segundo relatos às vezes contraditórios, seus costumes eram brutais, ladravam como cães e tinham o rosto plano como os macacos. Comiam carne crua e bebiam sangue, isso era verdade, visto que os habitantes da estepe, que não tinham vegetais ao seu alcance, deviam ingerir sangue fresco para obter a dose de aminoácidos para a saúde. Foram acusados inclusive de canibalismo. Mas essa acusação era falsa. Fontes chinesas, tibetanas, mongóis, armênias e georgianas também evidenciam a repulsa em relação aos mongóis, mas não lhes atribuem esse comportamento em particular. Tais acusações não são fruto da observação, mas das leituras, das elucubrações e do medo. Adaptado de FERNÁNDEZ-ARMESTO, Felipe. Os conquistadores do horizonte: uma história global da exploração. Barcelona: Ariel, 2012. Com base no trecho, analise as afirmativas a seguir acerca das representações europeias sobre os mongóis no período medieval. I. As classificações dos mongóis feitas pelos europeus revelaram os limites do repertório mental e narrativo disponível para descrever práticas distintas das conhecidas, configurando um desafio conceitual. II. As descrições europeias dos mongóis foram influenciadas por referenciais religiosos e imaginários, que os associavam a punições divinas e a figuras monstruosas, evidenciando a mediação cultural na construção dessas imagens. III. A representação europeia dos mongóis como incivilizados, associada ao canibalismo, baseou-se em observações diretas e foi reforçada por fontes extra europeias, legitimando sua escravização pelos europeus. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": null,
+      "statement": "O predomínio espiritual da tradição greco-latina no Ocidente medieval fez com que se continuasse a associar, ao longo de todo o período, os livros e a língua latina ao poder e às elites sociais. A atitude da maior parte dos governantes medievais alfabetizados em relação ao livro e às bibliotecas foi reverencial e, em alguns casos, quase “totêmica”. As bibliotecas dos reis da Antiguidade Tardia seguiram um modelo episcopal-monástico, uma vez que o modelo tardo romano de biblioteca palatina semipública ou pública havia caído no esquecimento. Contudo, a maior parte das bibliotecas dos reis da época feudal se enquadra melhor no modelo de biblioteca senhorial do que no de biblioteca monástica ou palatina ou “de Estado”. O chamado renascimento do século XII começaria a alterar essa dinâmica, quando os príncipes do Ocidente latino passariam a se tornar reis clericalizados, possuidores de bibliotecas cada vez maiores. Adaptado de RODRÍGUEZ DE LA PEÑA, Alejandro. “Los reyes bibliófilos: bibliotecas, cultura escrita y poder en el Occidente medieval”, En la España Medieval, n.º 33, 2010, p. 9. Com base no trecho, assinale a opção que apresenta corretamente aspectos da organização das bibliotecas no Ocidental medieval.",
+      "alternatives": {
+        "A": "As bibliotecas funcionavam como dispositivos de legitimação das elites letradas, ao articularem o uso do latim às estruturas institucionais de caráter senhorial e eclesiástico.",
+        "B": "As bibliotecas mantiveram uma continuidade institucional com o mundo tardo-romano, sobretudo no que se refere ao seu caráter público e à sua função na administração política, como espaços de registro e consulta de documentos oficiais.",
+        "C": "As bibliotecas concentraram-se no âmbito eclesiástico, no qual o clero exerceu papel central em sua preservação e organização, sobretudo nos mosteiros, como espaços de guarda e transmissão da cultura escrita.",
+        "D": "As bibliotecas foram ampliadas progressivamente desde a Antiguidade, acompanhando a maior circulação da cultura escrita e de manuscritos, o que implicou uma gradual desvinculação em relação aos grupos de poder.",
+        "E": "As bibliotecas sofreram um processo de secularização das coleções régias, com a crescente incorporação de autores da Antiguidade, impulsionada pela redescoberta desses textos e por sua difusão mais ampla."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 24,
+      "discipline": null,
+      "statement": "Cortar o tempo em períodos é necessário para a história, seja ela entendida como o estudo da evolução das sociedades, como um tipo particular de saber e ensino, ou mesmo como a simples passagem do tempo. No entanto, esse recorte não é um mero fato cronológico, mas também expressa a ideia de transição, de mudança e até de contradição em relação à sociedade e aos valores do período precedente. Os períodos têm, portanto, um significado particular em sua própria sucessão, na continuidade temporal ou nas rupturas que tal sucessão evoca, e constituem um objeto fundamental de reflexão para o historiador. Adaptado de LE GOFF, Jacques. ¿Realmente es necesario cortar la historia en rebanadas? México: Fondo de Cultura Económica, 2016, pp. 11-12. Com base no trecho, assinale a opção que apresenta corretamente a interpretação do autor sobre a periodização na história.",
+      "alternatives": {
+        "A": "A delimitação de períodos na história tem como objetivo estabelecer recortes temporais consensuais e estáveis que permitam situar os fenômenos ao longo do tempo.",
+        "B": "Os períodos históricos são delimitados pelos próprios contemporâneos dos acontecimentos, que, ao reconhecerem as rupturas em curso, estabelecem a separação entre sua época e a anterior.",
+        "C": "A divisão do tempo em períodos constitui uma operação analítica que permite ao historiador interpretar as dinâmicas de continuidade e ruptura na evolução das sociedades.",
+        "D": "O recorte temporal da história configura-se como uma construção humana de caráter predominantemente pedagógico, desvinculada de critérios estritamente cronológicos.",
+        "E": "A periodização histórica corresponde a uma escolha arbitrária do historiador, que fragmenta o tempo em unidades consideradas independentes entre si."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 25,
+      "discipline": null,
+      "statement": "Observe a imagen a seguir. Fonte: https://www.themorgan.org/collection/Histoire-Naturelle-des-Indes/111 A interdependência entre familiarização e predação nas Américas é evocada em uma pintura do final do século XVI: um caçador retorna com duas aves, uma para ser consumida e outra para ser alimentada. Enquanto na Europa a caça e a criação de animais coexistiam em tensão, nas Américas a predação e a familiarização eram modos complementares de interação. Alguns animais selvagens eram capturados e domesticados no sentido de serem incorporados como parentes. Tornar alguém parente reside no ato de alimentar. Uma vez que um ser era alimentado, deveria ser estimado, não consumido como comida. Nessa perspectiva, a essência da pecuária europeia — alimentar animais para transformá-los em alimento — simplesmente não faz sentido. Adaptado de NORTON, M. The tame and the wild. People and animals after 1492. Massachusetts: Harvard University Press, 2024, p. 7. Com base na imagem e no texto, assinale a opção que interpreta corretamente as diferenças nas formas de relação entre humanos e não humanos nas Américas e na Europa.",
+      "alternatives": {
+        "A": "Nas Américas, em contraste com a Europa, todos os animais eram incorporados às unidades domésticas indígenas pela alimentação, ancorados em uma cosmologia de integração entre os seres da natureza.",
+        "B": "Nas Américas, em contraste com a Europa, a alimentação dos animais tinha como finalidade principal sua domesticação produtiva, com vistas ao controle reprodutivo e ao abastecimento alimentar das comunidades.",
+        "C": "Nas Américas, em contraste com a Europa, a alimentação dos animais configurava-se como prática de familiarização e produção de parentesco, distinguindo aqueles incorporados como parentes daqueles destinados ao consumo.",
+        "D": "Na Europa, em contraste com as Américas, a dicotomia entre alimentar e consumir os animais estruturava formas distintas de relação com os não humanos, distinguindo aqueles incorporados como parentes daqueles para o consumo.",
+        "E": "Na Europa, em contraste com as Américas, não se verificava uma forma de relação com os animais baseada na domesticação, prevalecendo sua inserção em regimes utilitários de consumo."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-historiador_q25.png",
+      "page_number": 7
+    },
+    {
+      "question_number": 26,
+      "discipline": null,
+      "statement": "Todo um trabalho de decifração se impõe a partir de indícios frágeis. Escrutinando os ex-votos, o pesquisador medirá pacientemente a superfície, respectivamente do espaço celeste de aparição e da cena terrestre; analisará, também, o gestual e o jogo dos olhares pelo qual se estabelece a ligação entre os dois universos. Analisando as representações do purgatório em sua evolução, sublinhará as mutações características de um panteão de intercessores que, paulatinamente, vai se despovoando do século XVII ao século XVIII. Adaptado de VOVELLE, Michel. Ideologias e mentalidades. São Paulo: Brasiliense, 1987, p.42. Com base no trecho, assinale a opção que identifica corretamente a corrente da Nova História a que ele se refere.",
+      "alternatives": {
+        "A": "História conceitual que, em diálogo com a linguística, investiga as transformações semânticas ao longo do tempo na organização das experiências sociais e políticas.",
+        "B": "História cultural que, vinculada à terceira geração da Escola dos Annales e à psicologia social, investiga representações e práticas simbólicas de diferentes grupos sociais.",
+        "C": "História factual que, vinculada à tradição positivista do século XIX, privilegia documentos oficiais e a reconstituição objetiva dos acontecimentos, com ênfase na narrativa político- eventual.",
+        "D": "História marxista que, em diálogo com a sociologia, analisa os processos históricos a partir das relações de produção e da centralidade dos grupos subalternos na dinâmica social.",
+        "E": "História total que, formulada no âmbito da segunda geração da Escola dos Annales, propõe uma análise integrada das dimensões econômicas, sociais e culturais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 27,
+      "discipline": null,
+      "statement": "Se dizemos que tem o poder absoluto quem não está sujeito às leis, não se encontrará no mundo nenhum príncipe soberano, já que todos os príncipes da terra estão sujeitos às leis de Deus e da natureza, e a certas leis humanas comuns a todos os povos. É necessário que quem seja soberano não esteja de nenhum modo submetido ao império de outro e possa dar lei aos súditos e anular ou emendar as leis inúteis; isto não pode ser feito por quem esteja sujeito às leis de outra pessoa. Por isso se diz que o príncipe está isento da autoridade das leis. O próprio termo latino “ley” implica o mandato de quem tem a soberania. Adaptado de BODIN, J. Los seis libros de la república. Madrid: Editorial Tecnos, 1997, pp.52-3. Com base no trecho e nos fundamentos do absolutismo moderno, assinale a opção correta.",
+      "alternatives": {
+        "A": "O poder absoluto do soberano decorre da ausência de qualquer limite jurídico, moral ou religioso à sua atuação.",
+        "B": "A soberania, segundo Bodin, caracteriza-se pela autoridade suprema do príncipe para criar e modificar as leis do reino, embora permaneça submetido às leis divinas e naturais.",
+        "C": "O autor defende que a legitimidade do poder político depende da aprovação dos representantes da sociedade reunidos em assembleias.",
+        "D": "O texto sustenta que os súditos possuem autoridade para revogar as decisões do soberano quando estas contrariam o interesse coletivo.",
+        "E": "Para Bodin, a soberania pertence ao conjunto da população, cabendo ao príncipe apenas executar as leis elaboradas pelos representantes do povo."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "Boa física é feita a priori. Teoria precede fato. Experiência é inútil, pois antes de ser realizada nós já possuímos o conhecimento que estamos buscando. Leis fundamentais do movimento e repouso, leis que determinam o comportamento espaço-temporal de corpos materiais, são formuladas segundo princípios abstratos e relações numéricas. Da mesma natureza daquelas que governam relações e leis das figuras e números. Nós as encontramos não na Natureza, mas em nós mesmos, em nossa mente, assim como Platão nos ensinou muito tempo atrás. Adaptado de KOYRE,",
+      "alternatives": {
+        "A": "Galileo and the scientific revolution of the seventeenth century. Philosophical Review, v. 52, n. 4, 1943, p. 347. Com base no trecho, assinale a opção que identifica o fundamento epistemológico da Revolução Científica do século XVII descrito por Galileu. (A) Empirismo.",
+        "B": "Indutivismo.",
+        "C": "Matematização.",
+        "D": "Mecanicismo.",
+        "E": "Método experimental."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 29,
+      "discipline": null,
+      "statement": "Embora durante o período hispânico só tenham ocorrido três reuniões de Cortes no reino (1581, 1583 e 1619), estas, dotadas de grande poder simbólico de evocação de um pacto primordial dos povos com o rei, foram importantes agentes de coesão, ao legitimarem o poder do novo monarca, ao serem palco do juramento de fidelidade dos estados ao monarca e seu descendente (uma inovação de D. Filipe I), ao restabelecerem a harmonia social quebrada pela crise sucessória. Adaptado de Jean-Frédéric Schaub, Portugal na Monarquia Hispânica (1580-1640). Lisboa, Livros Horizonte, 2001, p. 149. Com base no trecho e na interpretação historiográfica do período da União Ibérica, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "As Cortes de Tomar marcaram a incorporação definitiva de Portugal ao Reino de Castela, extinguindo suas instituições administrativas próprias e submetendo o reino à legislação castelhana.",
+        "B": "A reduzida convocação das Cortes durante a União Ibérica demonstra que elas perderam completamente sua função política e simbólica, sendo substituídas por órgãos representativos permanentes da sociedade portuguesa.",
+        "C": "A União Ibérica resultou da conquista militar de Portugal por Castela, eliminando a autonomia política do reino e impondo um processo de centralização administrativa uniforme em toda a Península.",
+        "D": "As Cortes reunidas durante o período filipino desempenharam papel relevante na legitimação da nova dinastia, preservando a lógica pactista da monarquia e reafirmando compromissos com a autonomia institucional do reino português.",
+        "E": "A principal causa da Restauração de 1640 foi o descumprimento integral e imediato dos acordos firmados nas Cortes de Tomar, fato que provocou uma reação nacional unificada desde o início da União Ibérica."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 30,
+      "discipline": null,
+      "statement": "No século XVII, não havia mais de 500 homens de origem europeia na província do Espírito Santo, mas, contavam-se nela quatro reduções de índios, formadas pelos Jesuítas, as de Reritygba, hoje Benevente, Guarapary, São João, Reis Mago. Estes estabelecimentos serviam de modelo à civilização dos Guaranis, do Paraguai, tão comentada pelos mais célebres escritores. Adaptado de SAINT-HILAIRE,",
+      "alternatives": {
+        "A": "de. Segunda Viagem ao Interior do Brasil: Espírito Santo. São Paulo: Comp. Editora Nacional, 1936, p. 17. Considerando o trecho e o contexto da colonização do Espírito Santo no século XVII, é correto afirmar que o processo de aldeamento no Espírito Santo colonial foi favorecido pela (A) adoção de práticas violentas que impediram as formas de resistência e reação indígena, o que facilitou sua inserção nas reduções.",
+        "B": "ansiedade em relação ao contato com conquistadores europeus, o que levou os indígenas a buscarem as reduções como forma de preservar suas práticas culturais.",
+        "C": "concentração no interior, em detrimento do litoral, onde o contato mais intenso com os colonizadores dificultava a organização das reduções sob controle missionário.",
+        "D": "existência de conflitos interétnicos, que foram instrumentalizados por missionários e colonizadores para atrair ou submeter determinados grupos indígenas.",
+        "E": "reduzida presença indígena na região em relação ao número de europeus, condição que possibilitou maior concentração dos grupos nas reduções."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 31,
+      "discipline": null,
+      "statement": "Vemos que desde o início os papéis do Conselho das Índias estavam ligados ao poder. Mas não se tratava de um poder que se estendia exclusivamente da metrópole à periferia, e sim de uma dinâmica dialógica, que mantinha íntegro um império em constante expansão. Essas comunicações eram polifônicas, e delas participaram não apenas conquistadores, oficiais régios ou inquisidores, mas muitos outros atores. Essa lógica comunicativa, somada à inesperada novidade das Índias, exigia uma organização maior do que aquela que os ministros podiam oferecer. Isso impediu que o Conselho se convertesse em um centro de poder autoritário. Além disso, conferiu ao Conselho um caráter dialógico que estava longe de ser epistemologicamente absoluto. O arquivo do Conselho, e, portanto, o Arquivo de Índias, nasce como instrumento de poder, sim, mas cocriado, malformado, incompleto, histórico, polifônico. Adaptado de MASTERS, Adrian. “Cómo usar un archivo colonial”, Memórias Digitais e os Acervos Coloniais, 2024, p. 352. As opções a seguir descrevem corretamente a interpretação do autor sobre o arquivo colonial, à exceção de uma. Assinale-a.",
+      "alternatives": {
+        "A": "Uma construção histórica, cocriada, marcada pelos processos de produção documental e caracterizada por sua condição incompleta e situada.",
+        "B": "Um espaço constituído por múltiplos processos de comunicação e marcado pela participação de diversos agentes envolvidos na produção do conhecimento sobre as Índias.",
+        "C": "Um instrumento voltado à organização e à sistematização de informações necessárias à comunicação das novidades e ao governo dos territórios ultramarinos.",
+        "D": "Uma instância atravessada por dinâmicas comunicativas, marcada pela pluralidade de vozes e incompatível com a consolidação de um poder plenamente autoritário do Conselho das Índias.",
+        "E": "Um repositório documental independente, autossuficiente e capaz de oferecer, por si só, um conhecimento histórico epistemologicamente completo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 32,
+      "discipline": null,
+      "statement": "Trata-se de um processo histórico de constituição de uma nova coletividade, no qual se redefinem simultaneamente as formas de pertencimento e as condições materiais de existência, resultando em uma identidade própria que não corresponde diretamente às dos grupos de origem. O trecho caracteriza um processo histórico específico de formação social e cultural. Assinale a opção que apresenta corretamente o conceito ao qual ele se refere.",
+      "alternatives": {
+        "A": "Aculturação.",
+        "B": "Alteridade.",
+        "C": "Etnogênese.",
+        "D": "Etnocentrismo.",
+        "E": "Sincretismo."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 33,
+      "discipline": null,
+      "statement": "Leia os trechos a seguir. I. O costume de alforriar escravos que apresentassem seu valor era largamente praticado, mas à revelia do Estado; não que o Estado se opusesse, mas porque não lhe era permitido sancioná-lo em lei, pela oposição daqueles mesmos que praticavam essa regra costumeira. Esse direito não existia em lei até 1871. É verdade que, antes dessa data, existiam circunstâncias excepcionais em que o Estado intervinha concedendo alforrias, mas, de qualquer forma, indenizavam-se os senhores, e cabia a estes a concessão da carta de alforria. Adaptado de CUNHA, Manuela da. Antropologia do Brasil. Mito, história, etnicidade. São Paulo: Brasiliense, 1987, pp.124-125. II. O tribunal, seja atuando de acordo com o costume, seja agindo segundo as normas de direito ou a consciência de seus membros, manteve uma posição que realmente interferiu nos destinos de senhores e escravos que a ele recorriam. Ações de liberdade, seus procedimentos e seus resultados, não eram uma prática anormal no Estado imperial brasileiro, mesmo que o acesso de escravos ao sistema judiciário tenha sido tão restrito. Adaptado de GRINBERG, Keila. Liberata. a lei da ambiguidade - as ações de liberdade da corte de apelação do Rio de Janeiro no século XIX. Rio de Janeiro: Centro Edelstein de Pesquisa Social, 2010, p. 25. Com base nos trechos, assinale a opção que apresenta corretamente a interpretação dos autores sobre a conquista da liberdade por pessoas escravizadas no Brasil imperial.",
+      "alternatives": {
+        "A": "Ambos os trechos compreendem o processo de obtenção da liberdade como pertencente à esfera privada, mediado pelas relações entre senhores e escravizados.",
+        "B": "O trecho I associa a liberdade à iniciativa do escravizado de demandar sua alforria, enquanto o trecho II a interpreta como concessão estatal.",
+        "C": "Ambos os trechos concebem a liberdade como um direito positivo inscrito na tradição jurídica, cuja efetivação caberia ao Estado, mediante pagamento.",
+        "D": "O trecho I entende a alforria como prática costumeira dependente da concessão senhorial, enquanto o trecho II a associa a ações judiciais no âmbito do Estado imperial.",
+        "E": "Ambos os trechos interpretam a prática de alforriar escravizados como excepcional, em razão da ausência de respaldo jurídico e legal para libertar esses indivíduos."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 34,
+      "discipline": null,
+      "statement": "No início da década de 1960, a paleografia tratou de dispensar os rígidos hábitos que a acompanhavam praticamente desde suas origens e mostrou-se disposta a vestir-se com outras roupagens. A orientação positivista, técnica e auxiliar dos estudos paleográficos, estava incapacitada para resolver os diversos problemas suscitados pela escrita como prática sociocultural. Ao fixar seus objetivos na análise interna das formas gráficas, na datação temporal e tópica e na explicação do processo seguido na redação dos documentos, deixava sem resposta todas as interrogações que diziam respeito às identidades das pessoas que escrevem e as razões e os contextos em que se desenvolvem as práticas do escrito. Adaptado de GÓMEZ,",
+      "alternatives": {
+        "A": "Grafias no cotidiano: escrita e sociedade na História (séculos XVI a XX). RJ: Eduerj; Eduff, 2020, pp. 41-42. Com base no trecho, assinale a opção que identifica corretamente o processo de renovação da paleografia na segunda metade do século XX. (A) A paleografia começou a compreender a escrita como um fenômeno social historicamente condicionado e a articular sua análise às suas formas materiais.",
+        "B": "A paleografia consolidou a primazia das fontes oficiais ao reforçar critérios tradicionais de validação e ao limitar a incorporação de testemunhos marginais.",
+        "C": "A paleografia deslocou a análise formal dos documentos em favor de abordagens da história social, prescindindo de seus procedimentos técnicos tradicionais de análise.",
+        "D": "A paleografia permitiu identificar padrões gerais na evolução da escrita, com etapas comparáveis de desenvolvimento histórico e cultural entre diferentes sociedades.",
+        "E": "A paleografia sedimentou-se como ciência ao ter como objetivo central verificar a autenticidade dos documentos, contextualizando-os em seu processo de produção."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "Leia a situação a seguir. Uma pintura do século XVIII, atribuída a um artista de destaque do período colonial, foi identificada em uma coleção particular durante a preparação de um leilão internacional. A obra, até então pouco conhecida, despertou o interesse de especialistas e foi submetida à análise técnica, sendo reconhecida por seu elevado valor histórico e artístico para o país. Diante do risco de sua saída definitiva do território nacional, o Instituto do Patrimônio Histórico e Artístico Nacional instaurou processo de tombamento com vistas à sua preservação, nos termos do Decreto-Lei nº 25/1937. O proprietário passou a questionar os efeitos jurídicos do tombamento sobre o uso, a circulação e a eventual alienação do bem. Considerando o caso descrito, assinale a opção que apresenta corretamente um efeito do tombamento.",
+      "alternatives": {
+        "A": "O bem passa a integrar automaticamente o patrimônio da União, sendo vedada, em qualquer hipótese, sua saída do país.",
+        "B": "O bem não pode ser objeto de qualquer forma de exploração econômica por seu proprietário, ainda que preservada sua titularidade.",
+        "C": "O bem permanece sob a titularidade do proprietário, que fica obrigado à sua conservação, sendo necessária autorização do órgão competente para sua saída do país.",
+        "D": "O bem perde o caráter de propriedade privada, tornando-se de uso coletivo, ainda que permaneça sob a guarda do proprietário, que deve permitir a visitação pública.",
+        "E": "O bem pode ser utilizado pelo proprietário ou por terceiros, sendo vedada qualquer intervenção em sua materialidade, com o objetivo de preservar integralmente sua originalidade."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 36,
+      "discipline": null,
+      "statement": "Leia os fragmentos a seguir. I. A preparação da guerra, especialmente em grande escala, leva os governantes, inevitavelmente, a extrair recursos da população. Com isso, cria-se uma estrutura de arrecadação, abastecimento e administração que precisa se manter e que muitas vezes cresce mais rápido do que os próprios exércitos e marinhas que sustenta. Os interesses e o poder dessa estrutura acabam limitando de forma significativa o tipo e a intensidade da guerra. Adaptado de TILLY, Charles. Coerción, capital y los Estados europeos, 990-1990. Madrid: Alianza Editorial, 1992, p. 46. II. É necessário revisar a ideia de que o desenvolvimento militar na Idade Moderna foi um processo conduzido principalmente pelo Estado, ligado à centralização e ao controle burocrático. Ao analisar as condições relacionadas à prática de fazer guerra por meio de contratantes privados a partir do século XVI, conclui-se que essa forma de organização não foi uma exceção nem resultado de governantes fracos ou irresponsáveis. Pelo contrário, tratava-se de uma solução lógica para mobilizar recursos, considerando as limitações dos governos da Idade Moderna e sua dependência dos recursos e da cooperação das elites. Adaptado de PARROT, David. “Military Revolution or Military Devolution?” Stud. his., H.ª mod., 35, 2013, p. 33. Considerando os fragmentos, assinale a opção que apresenta corretamente a interpretação dos autores sobre o desenvolvimento militar na Época Moderna.",
+      "alternatives": {
+        "A": "O trecho I aponta que a mobilização de recursos gera uma estrutura fiscal autônoma que condiciona a guerra, enquanto o trecho II nega a agência estatal nessa organização.",
+        "B": "O trecho I indica que a organização dos conflitos esteve condicionada ao tipo de guerra que o Estado planejava previamente empreender, enquanto o trecho II destaca a atuação de agentes privados na viabilização desses conflitos.",
+        "C": "Ambos os trechos indicam que o Estado dependia da mobilização dos civis, por meio da arrecadação de recursos, para sustentar os conflitos.",
+        "D": "Ambos os trechos evidenciam a limitada atuação estatal na organização dos conflitos, em razão da dependência de recursos e cooperação externos.",
+        "E": "Ambos os trechos apontam a insuficiência de infraestrutura estatal no período moderno, o que explica o caráter improvisado dos conflitos."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 37,
+      "discipline": null,
+      "statement": "Eu diria que o historiador está em condições muito melhores do que o participante do presente, pela simples razão de que dispõe de um horizonte ampliado. Se o leitor pensa que o passado é uma paisagem, a história é a maneira como a representamos, e é justamente esse ato de representação que nos eleva acima do familiar para permitir-nos ter experiências substitutivas daquilo que não podemos experimentar diretamente: uma visão mais ampla. Adaptado de GADDIS, John Lewis. El paisaje de la historia: cómo los historiadores representan el pasado. Anagrama, 2004, pp. 21-22. Considerando a reflexão de John Lewis Gaddis, é correto afirmar que a representação do passado como paisagem",
+      "alternatives": {
+        "A": "aponta que a história corresponde a uma paisagem fixa, dado que os acontecimentos já ocorreram e não são passíveis de modificação.",
+        "B": "implica que a inteligibilidade histórica decorre da vivência imediata dos acontecimentos por parte de seus contemporâneos.",
+        "C": "indica que o trabalho do historiador consiste em analisá-lo a partir de certa distância, a fim de atribuir sentido a processos não diretamente experienciáveis.",
+        "D": "pressupõe que o historiador realize uma reconstrução integral do passado, prescindindo de procedimentos de abstração e de elementos subjetivos.",
+        "E": "sugere os limites da representação histórica de um evento passado, ao privilegiar uma perspectiva ampla de conjunto em detrimento do exame minucioso dos acontecimentos."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 38,
+      "discipline": null,
+      "statement": "A “segunda escravidão” se desenvolveu não como uma premissa histórica do capital produtivo, mas pressupondo sua existência como condição para sua reprodução. Adaptado de TOMICH, D. Through the Prism of Slavery. Labor, Capital, and World Economy. Lanham, Rowman & Littlefield, 2004, p. 87. Com base no trecho, é correto afirmar que a “segunda escravidão” conceituada por Dale Tomich consiste em uma",
+      "alternatives": {
+        "A": "forma de escravidão integrada ao mercado mundial capitalista, cuja expansão decorreu principalmente da retração da indústria europeia e da autonomia das economias escravistas em relação ao capital industrial.",
+        "B": "forma de escravidão que apresenta menor racionalização produtiva em relação aos séculos anteriores, com aumento da escala do tráfico, o que levou à dissolução da autoridade senhorial pelo capitalismo industrial.",
+        "C": "interpretação da escravidão que decorre de uma concepção de acumulação de capital universalizante e abstrata, a qual homogeneíza as formas de divisão do trabalho em escala global sob uma mesma lógica histórica.",
+        "D": "reconfiguração da escravidão articulada à expansão do capital industrial, cuja reprodução dependia da intensificação das economias exportadoras nas regiões periféricas do sistema global.",
+        "E": "forma de escravidão caracterizada pela sua marginalização diante da expansão das economias liberais e do trabalho livre, tornando-se residual nas economias centrais do capitalismo."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 39,
+      "discipline": null,
+      "statement": "Em uma escala de inteligência, há o mesmo intervalo entre o negro e o europeu que entre o europeu e o macaco; e a raça negra é a mais inferior das raças humanas. Adaptado de GOBINEAU, Arthur de. Ensaio sobre a desigualdade das raças humanas. Paris, 1853-1855. Com base no trecho, assinale a opção que apresenta corretamente uma corrente científica do século XIX representada.",
+      "alternatives": {
+        "A": "O evolucionismo cultural, que compreendia as diferenças entre os povos como estágios sucessivos de desenvolvimento histórico e tecnológico.",
+        "B": "A antropologia cultural, que explicava as diferenças humanas a partir da diversidade de costumes e da historicidade das sociedades.",
+        "C": "O racismo científico, que atribuía às características biológicas e raciais o fundamento das desigualdades entre os grupos humanos.",
+        "D": "O positivismo, que defendia a observação objetiva da sociedade sem estabelecer hierarquias entre os diferentes povos.",
+        "E": "O determinismo geográfico, que explicava as diferenças entre as populações exclusivamente pelas condições ambientais."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 40,
+      "discipline": null,
+      "statement": "Assinale a opção que caracteriza corretamente a posição da Inglaterra diante da Santa Aliança no contexto da ordem europeia pós-napoleônica.",
+      "alternatives": {
+        "A": "A Inglaterra aderiu à Santa Aliança com restrições, rejeitando intervenções na Península Ibérica, mas apoiando a repressão de revoluções liberais em outras regiões.",
+        "B": "A Inglaterra adotou uma posição crítica à atuação intervencionista da Santa Aliança, por defender interesses comerciais incompatíveis com a restauração absolutista.",
+        "C": "A Inglaterra integrou a Santa Aliança, alinhando-se às monarquias absolutistas na defesa da restauração e da repressão de movimentos liberais no continente europeu.",
+        "D": "A Inglaterra liderou a Santa Aliança, utilizando-a como instrumento para consolidar sua hegemonia marítima e comercial no contexto pós-napoleônico.",
+        "E": "A Inglaterra participou indiretamente da Santa Aliança, apoiando intervenções contra movimentos liberais, desde que estas não afetassem seus interesses coloniais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 41,
+      "discipline": null,
+      "statement": "Assinale a opção que apresenta corretamente uma medida aprovada pela Conferência de Berlim sobre os territórios africanos.",
+      "alternatives": {
+        "A": "Determinação de que, em caso de conflito entre potências europeias, os territórios africanos seriam automaticamente envolvidos como aliados das respectivas metrópoles.",
+        "B": "Estabelecimento de um regime de proteção exclusiva do comércio nas bacias do Congo e do Níger pelas potências europeias signatárias.",
+        "C": "Proibição do tráfico de escravos e compromisso das potências europeias em combatê-lo nos territórios sob sua soberania ou influência.",
+        "D": "Reconhecimento das autoridades africanas como instâncias formais de mediação e decisão na definição da ocupação e da administração colonial.",
+        "E": "Reordenamento das possessões já estabelecidas, com redistribuição entre as potências signatárias, a fim de assegurar o equilíbrio territorial."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "Considere as afirmativas a seguir sobre a Constituição de 1946 e a experiência democrática brasileira entre 1946 e 1964. I. A Constituição de 1946 restabeleceu princípios democráticos, como a separação dos Poderes, o pluripartidarismo e a ampliação das liberdades civis, marcando o fim do Estado Novo. II. Durante o governo de Eurico Gaspar Dutra, o alinhamento do Brasil aos Estados Unidos no contexto da Guerra Fria refletiu- se, entre outras medidas, na cassação do registro do Partido Comunista Brasileiro (PCB). III. A adoção do parlamentarismo entre 1961 e 1963 resultou de uma reforma prevista originalmente pela Constituição de 1946 e foi implementada para consolidar um novo modelo permanente de organização do Estado brasileiro. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 43,
+      "discipline": null,
+      "statement": "A força da história oral é a mesma de qualquer história que possua seriedade metodológica. Essa força decorre da diversidade das fontes consultadas e da inteligência com que foram utilizadas. A informação oral serve para verificar a confiabilidade de outras fontes, da mesma forma que estas são sua garantia. Também pode fornecer detalhes minuciosos que, de outro modo, seriam inacessíveis. A história oral, com sua riqueza de detalhes, sua humanidade, sua frequente emoção e sempre com seu ceticismo em relação ao fazer histórico, encontra-se melhor preparada para esses componentes vitais da tarefa do historiador: a tradição e a memória, o passado e o presente. Adaptado de PRINS, Gwyn. “Historia oral”, em Formas de hacer Historia. Madri: Alianza Universidad, 1996, pp. 174- 176. Com base no trecho, assinale a opção que interpreta corretamente a história oral segundo o autor.",
+      "alternatives": {
+        "A": "A história oral alcança validade metodológica ao articular-se com outras fontes, permitindo sua verificação recíproca e a abertura de novas possibilidades de interpretação histórica.",
+        "B": "A história oral concentra-se no estudo de sociedades com pouca tradição escrita, nas quais a memória intergeracional permite estabelecer sequências históricas coerentes.",
+        "C": "A história oral incorpora dimensões subjetivas do passado e, por isso, apresenta limitações metodológicas que restringem sua integração em análises históricas mais amplas.",
+        "D": "A história oral oferece aos historiadores garantia quanto ao estatuto epistemológico da verdade, ao considerar os sujeitos entrevistados como fontes irrefutáveis.",
+        "E": "A história oral amplia o repertório de informações sobre eventos passados, devendo o historiador considerar todos os elementos relatados, sem selecioná-los ou hierarquizá-los."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "Observe a imagem a seguir. Novo Paraiso terrestre. Revista O malho, Rio de Janeiro, ano 1907, edição 248. A imagem retrata um casal de imigrantes na Ilha das Flores, no Rio de Janeiro, diante de um homem representado como uma figura divina, que diz: “Crescei e multiplicai-vos!”. Os imigrantes respondem: “Pelas cinzas de Adão e Eva, juramos que não faremos outra coisa.” Com base na imagem, assinale a opção que identifica corretamente a política de imigração implementada no Brasil entre o final do século XIX e o início do século XX.",
+      "alternatives": {
+        "A": "A Lei de Terras de 1850, ao reconhecer a posse como forma de acesso à terra, facilitou a aquisição de propriedades por imigrantes europeus e seu assentamento no país.",
+        "B": "As políticas de hospedarias funcionaram como instrumentos de inserção imediata dos imigrantes, articuladas à ideia de rápida miscigenação como estratégia de branqueamento.",
+        "C": "O sistema de parceria nas fazendas de café remunerava com parte da produção e selecionava imigrantes com recursos para custear a viagem e a subsistência.",
+        "D": "A abolição da escravidão criou demanda por mão de obra qualificada para a industrialização, o que levou à concentração de imigrantes europeus nos centros urbanos.",
+        "E": "A nova ordem republicana definiu um perfil preferencial de imigrantes, o que implicou a limitação do ingresso de determinados grupos."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-historiador_q44.png",
+      "page_number": 12
+    },
+    {
+      "question_number": 45,
+      "discipline": null,
+      "statement": "Observe a imagem a seguir. Fonte: https://libarchives.unl.edu/project/ww1-posters/ A imagem é uma propaganda da United States Food Administration que circulou durante a Primeira Guerra Mundial. O cartaz recomenda que a população dos Estados Unidos: “Coma mais produtos de milho, aveia e centeio — peixe e aves — frutas, vegetais e batatas — alimentos assados, cozidos e grelhados. Coma menos trigo, carne, açúcar e gorduras para economizar para o exército e para os nossos aliados”. Com base na imagem, assinale a opção que apresenta corretamente o papel dessa propaganda durante a Primeira Guerra Mundial.",
+      "alternatives": {
+        "A": "Aponta para a adoção de uma política nacional de racionamento compulsório de alimentos, com o objetivo de abastecer as tropas estadunidenses e aliadas nas trincheiras.",
+        "B": "Evidencia o estímulo governamental ao consumo interno da superprodução agrícola, com o objetivo de criar uma demanda internacional por seus produtos industrializados.",
+        "C": "Expressa a preocupação em projetar, no plano internacional, a população estadunidense bem alimentada como expressão de abundância em contraste com a carestia em outros países.",
+        "D": "Indica um chamado à mobilização interna no esforço de guerra, com envolvimento da população civil em práticas não combativas.",
+        "E": "Evidencia o interesse estatal em preservar práticas alimentares tradicionais frente à destruição cultural ocorrida durante o contexto de guerra."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-historiador_q45.png",
+      "page_number": 13
+    },
+    {
+      "question_number": 46,
+      "discipline": null,
+      "statement": "A constituição de uma história de gênero e o lugar atribuído à história das mulheres têm gerado controvérsias e debates. Campos distintos, mas complementares? Substituição da história das mulheres pela história de gênero? História de gênero como forma de neutralização do desafio fundador da história das mulheres? PINTO, Teresa e Teresa Alvarez. Introdução. História, História das mulheres, História do Gênero. Produção e transmissão do conhecimento histórico. ex æquo, nº 30, 2014, p. 14. Com base no trecho, é correto afirmar que a história de gênero, em contraste com a das mulheres,",
+      "alternatives": {
+        "A": "ampliou o campo de análise para além da experiência feminina.",
+        "B": "trata as relações entre homens e mulheres como universais, ao considerar a presença de assimetrias em todas as sociedades.",
+        "C": "assume o paradigma da neutralidade humana como modelo para analisar processos sociais e históricos.",
+        "D": "considera os elementos biológicos irrelevantes, priorizando construções sociais na análise das relações humanas.",
+        "E": "enfatiza as desigualdades entre os sexos, secundarizando outras dimensões sociais para entender as relações de poder."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "No Ceará, apesar das obras em açudes e rodovias que absorveu um número considerável de infelizes, muitos outros sobraram, constituindo um problema sério a resolver. Diante do número de pessoas a socorrer e da grande área em que se achavam espalhados, decidiu-se concentrá-las em acampamentos chamados “campos de concentração”. Adaptado de Relatório do Departamento Nacional de Saúde Pública, 1936, p. 133. Assinale a opção que apresenta corretamente os objetivos da criação dos “campos de concentração” durante a seca de 1932, no contexto do Governo Provisório.",
+      "alternatives": {
+        "A": "Assegurar assistência à saúde às famílias atingidas pela seca, com a criação de unidades de atendimento temporárias, no contexto da ampliação dos direitos trabalhistas rurais.",
+        "B": "Controlar e fixar a população atingida pela seca, restringindo sua circulação nos centros urbanos, como expressão de uma política higienista voltada à contenção e ao controle social.",
+        "C": "Destinar mão de obra barata ao processo de industrialização em curso no Sudeste, considerado o objetivo prioritário pelo Estado brasileiro.",
+        "D": "Instituir comunidades de apoio mútuo voltadas à população retirante mais vulnerável, em razão da ausência de órgão estatal responsável pelo abastecimento de água.",
+        "E": "Recolher a população atingida pela seca para organizar a assistência com moradia e alimentação, no âmbito de políticas paternalistas do governo federal."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 48,
+      "discipline": null,
+      "statement": "Em 1940, Francisco Franco ordenou a construção de um complexo arquitetônico composto por um centro de estudos, uma basílica e um monastério na Espanha. Celebrava-se um ano de sua vitória na Guerra Civil. A construção do complexo foi realizada principalmente por prisioneiros políticos republicanos, submetidos a duras condições de trabalho. Com a aproximação da conclusão das obras, houve uma ressignificação das finalidades do monumento: de símbolo da vitória e homenagem aos franquistas mortos na Guerra Civil, passou a ser de “todos os caídos”, o que demonstra uma aspiração à reconciliação, fundamentada na ideia de que os dois lados tiveram perdas. Sem a autorização das famílias, os corpos de diversas vítimas do regime foram levados para o complexo, representando uma humilhação serem depositados no monumento de seus inimigos, como troféus de guerra. O complexo pode ser compreendido como monumento, lugar de memória e ponto de partida para problematizar a forma como os regimes democráticos gerenciaram as memórias sobre seus passados traumáticos, na tensão entre a memória e o esquecimento. Adaptado de BAUER, Caroline. “A eternidade do franquismo: lembranças e esquecimentos na Espanha pós-Franco”, Café História, 23 jun. 2019. Com base no trecho, assinale a opção que identifica corretamente a gestão da memória histórica pelo governo de Franco associada ao monumento descrito.",
+      "alternatives": {
+        "A": "Abordagem crítica da memória histórica, que reconhece a exaltação pretérita de agentes hoje problematizados e utiliza o desconforto gerado como instrumento de reflexão.",
+        "B": "Apagamento do passado violento por meio da destruição de sua materialidade, com o objetivo de afirmar um projeto nacionalista-cristão e apresentar o país como unificado.",
+        "C": "Conservação da memória por meio de monumentos grandiosos fixos, como símbolo da cristalização do passado e consolidação de uma narrativa histórica positiva.",
+        "D": "Preservação dos significados originais do monumento, vinculados ao projeto personalista de Franco, orientado à construção de uma imagem grandiosa e vitoriosa do regime.",
+        "E": "Reconciliação com o passado, ao equiparar os lados do conflito, atenuando assimetrias e suprimindo as responsabilidades históricas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 49,
+      "discipline": null,
+      "statement": "Em agosto de 1939, a Alemanha nazista e a União Soviética firmaram um tratado de não agressão conhecido como Pacto Molotov-Ribbentrop, o qual incluía um protocolo secreto destinado a delimitar esferas de influência na Europa Oriental. Esse acordo teve consequências decisivas na evolução do conflito europeu nos meses imediatamente posteriores. Com base nesse contexto, é correto afirmar que esse tratado foi relevante para o início da Segunda Guerra Mundial porque",
+      "alternatives": {
+        "A": "consolidou uma aliança político-militar duradoura entre a Alemanha e a União Soviética, baseada na complementaridade de seus projetos territoriais.",
+        "B": "estabeleceu a delimitação de esferas de influência, evitando conflitos territoriais imediatos entre as potências europeias.",
+        "C": "foi concebido como um acordo destinado a evitar um confronto imediato e a responder a possíveis ameaças externas.",
+        "D": "refletiu uma convergência ideológica segundo a qual o nazismo e o comunismo, apesar de suas diferenças, concebiam a expansão do Estado como eixo organizador da sociedade.",
+        "E": "permitiu à Alemanha evitar, inicialmente, a abertura de uma frente oriental e facilitar o avanço de suas operações militares iniciais na Europa."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 50,
+      "discipline": null,
+      "statement": "Era preciso produzir borracha para alimentar a máquina da guerra. As exportações do governo americano, mediante seus órgãos oficiais, e até mesmo um dramático apelo subscrito pelo próprio general Eisenhower chegavam ao Brasil que, por sua vez, além de figurar honrosamente entre as Nações Unidas, assumira o compromisso solene de incentivar a produção e a exportação da borracha. Adaptado de Diário da Assembléia Nacional da Constituinte 31/08/1946. p. 4517 Com base no trecho, é correto afirmar que a Campanha da Borracha decorreu",
+      "alternatives": {
+        "A": "do compromisso brasileiro com os Estados Unidos, pelo qual, não tendo enviado tropas para apoiar os Aliados, o país contribuiu para o esforço de guerra por meio da produção de borracha.",
+        "B": "de uma imposição dos Estados Unidos ao Brasil, após a interrupção do fornecimento asiático de borracha causada pela ofensiva japonesa no Pacífico.",
+        "C": "de um plano estratégico dos Estados Unidos em relação ao Brasil, considerado uma área de interesse estratégico e fora do alcance das operações militares do Eixo.",
+        "D": "de acordos bilaterais entre agências brasileiras e estadunidenses, que recrutaram mão de obra e organizaram seu envio para a Amazônia para a extração do látex.",
+        "E": "das relações entre o Brasil e outros Estados, orientadas à assistência de imigrantes internacionais enviados à Amazônia para trabalhar na produção de borracha e ocupar áreas vazias."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "Serão estabelecidos dois Estados independentes, um árabe e um judeu, enquanto a cidade de Jerusalém será constituída como um corpo separado (corpus separatum), sob um regime internacional especial administrado pelas Nações Unidas. Resolução 181 da Assembleia Geral da ONU, 1947, adaptado. Com base na Resolução 181 da Organização das Nações Unidas (1947), que tratou da partilha da Palestina, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A Resolução previa a criação de dois Estados independentes, com a manutenção de mecanismos de cooperação econômica entre eles, especialmente em áreas de infraestrutura e circulação de recursos. ( ) A cidade de Jerusalém seria incorporada ao Estado árabe, sob administração compartilhada entre as lideranças locais judaicas e árabes. ( ) A implementação da partilha previa a permanência do mandato britânico na Palestina, com poderes ampliados para garantir a transição política entre os dois Estados. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – F – F.",
+        "B": "V – F – V.",
+        "C": "F – F – V.",
+        "D": "F – V – F.",
+        "E": "V – V – V."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 52,
+      "discipline": null,
+      "statement": "Leia o texto a seguir. O bairro Waldsiedlung é atualmente um local muito desejado para se viver na Alemanha. Mas viver ali também significa lidar com o passado do país: o bairro foi construído no período da Segunda Guerra Mundial como uma comunidade para a guarda de elite do Reich nazista, cujas responsabilidades incluíam executar o Holocausto. O conjunto foi projetado para incorporar a ideologia nazista que exaltava a relação mística dos arianos com sua terra ancestral. A forma como os atuais moradores lidam com esse passado acompanha tendências culturais mais amplas. Durante décadas, o tema foi varrido para debaixo do tapete. Como resultado, alguns moradores desconhecem a história do lugar até serem informados por vizinhos. “Algumas pessoas dizem: ‘Isso foi há 80 anos, não tem nada a ver comigo’”, disse uma moradora que se mudou para lá em 2000. “Para mim, é o contrário. Quero saber o que aconteceu na minha casa. Não é possível avançar com o silêncio.” À medida que o tempo passa e as últimas testemunhas morrem, os lugares físicos tornam-se cada vez mais importantes para a memória do Holocausto. O lugar é uma conexão. Adaptado de https://www.nytimes.com/2025/05/27/realestate/berlin-holocaust- nazis-neighborhood.html Com base no texto, assinale a opção que analisa corretamente a relação entre espaço e memória.",
+      "alternatives": {
+        "A": "A permanência do espaço físico estabelece vínculos entre passado e presente, ao mesmo tempo em que permite a atualização de seus sentidos.",
+        "B": "A persistência da materialidade do espaço assegura a invariabilidade de seus usos e significados ao longo das transformações históricas e sociais.",
+        "C": "A origem do espaço, assentada em uma violência amplamente conhecida, não admite interpretações plurais e impõe uma memória consensual sobre ele.",
+        "D": "A conservação do espaço evidencia as dificuldades da sociedade em enfrentar temas sensíveis, favorecendo sua progressiva naturalização e esvaziamento crítico.",
+        "E": "A reconfiguração funcional do espaço acarreta a ruptura com suas camadas pretéritas de significação, substituindo integralmente as memórias anteriores por novos sentidos."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "Analise as afirmativas a seguir sobre a tecnologia atômica no início da Guerra Fria e suas implicações estratégicas. I. O monopólio nuclear dos Estados Unidos, vigente entre 1945 e 1949, assegurou superioridade militar, mas revelou eficácia política limitada, uma vez que não foi capaz de reverter a consolidação da influência soviética na Europa Oriental. II. A bomba atômica afirmou-se primordialmente como instrumento de dissuasão estratégica, sobretudo a partir da lógica de equilíbrio de poder emergente, em detrimento de seu emprego direto em conflitos armados. III. A União Soviética, ao priorizar a reconstrução econômica no pós-guerra, retardou deliberadamente o desenvolvimento de seu programa nuclear, alcançando apenas tardiamente a capacidade de testagem atômica ao final da década de 1940. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 54,
+      "discipline": null,
+      "statement": "Observe a imagem a seguir. https://memoriasdaditadura.org.br/fotografia/propaganda-do-mobral/ O cartaz é uma peça publicitária do Mobral, programa de alfabetização implementado durante a Ditadura Militar. Nele, convoca-se a população alfabetizada a ensinar aqueles que não sabem ler e incentiva-se os não alfabetizados a procurar o Mobral. Assinale a opção que apresenta corretamente os objetivos desse programa de alfabetização no contexto da Ditadura Militar.",
+      "alternatives": {
+        "A": "Adotar um modelo educacional orientado ao Ensino Superior, visando ampliar o acesso às universidades públicas em expansão.",
+        "B": "Empregar uma abordagem pedagógica baseada na vivência do estudante, visando acelerar a alfabetização e melhorar os indicadores educacionais nacionais.",
+        "C": "Implementar uma educação nos moldes capitalistas, voltada ao desenvolvimento de habilidades intelectuais básicas, visando tornar os indivíduos funcionais ao sistema.",
+        "D": "Instituir um modelo educacional de matriz europeia, caracterizado pelo afastamento de símbolos nacionais e pela valorização de referências internacionais.",
+        "E": "Promover uma formação técnica, não ideológica, baseada na objetividade das avaliações, voltada à geração de mão de obra para as demandas do desenvolvimento do país."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-historiador_q54.png",
+      "page_number": 16
+    },
+    {
+      "question_number": 55,
+      "discipline": null,
+      "statement": "Leia o caso descrito a seguir. Um historiador ficou responsável pela organização e digitalização do acervo documental de um antigo órgão de segurança do Estado, produzido durante o período da ditadura. Parte significativa desse acervo contém informações sensíveis, incluindo dados pessoais de indivíduos ainda vivos e registros de investigações sigilosas. Durante o processo, o historiador identificou documentos que comprovam violações de direitos humanos e reconheceu o interesse público de sua divulgação. Ao mesmo tempo, depara-se com a necessidade de respeitar restrições legais relacionadas à proteção de dados pessoais. Com base no caso descrito, assinale a opção que apresenta corretamente uma medida que o historiador pode adotar de acordo com a Lei nº 12.527/2011 (Lei de Acesso à Informação).",
+      "alternatives": {
+        "A": "Criar um repositório digital público para a divulgação integral e imediata de todos os documentos identificados como de interesse público, uma vez que a publicidade constitui regra geral da normativa.",
+        "B": "Publicar em portal oficial os documentos de interesse público, garantindo amplo acesso por meios digitais, com a devida anonimização de dados pessoais sensíveis e a restrição de informações sigilosas.",
+        "C": "Elaborar uma cartilha orientadora que determine a restrição integral de acesso ao acervo, em razão de informações sigilosas, reservando sua consulta exclusivamente a agentes estatais.",
+        "D": "Produzir material educativo com contextualização histórica dos documentos, de modo a incentivar a população a solicitar informações sobre seu conteúdo, uma vez que sua divulgação depende de pedido.",
+        "E": "Produzir um catálogo dos documentos e transferir a responsabilidade pela divulgação ao Poder Judiciário, em razão da presença de informações sensíveis que impede o historiador na publicização do acervo."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 16
+    },
+    {
+      "question_number": 56,
+      "discipline": null,
+      "statement": "A Lei nº 11.645/2008 estabelece a obrigatoriedade do ensino da história e cultura dos povos indígenas, reconhecendo-os como sujeitos históricos e protagonistas na formação da sociedade brasileira. Considerando esse marco legal, sobre formas de assegurar esse protagonismo, analise as itens a seguir e assinale (V) para o verdadeiro e (F) para o falso. ( ) A apresentação dos povos indígenas nos livros didáticos como integrantes do folclore nacional, com destaque para sua contribuição cultural em uma perspectiva predominantemente simbólica. ( ) A utilização de materiais produzidos por autores indígenas em substituição às demais fontes históricas, com o objetivo de assegurar a valorização das perspectivas indígenas. ( ) A valorização de abordagens que superem a oposição entre resistência e assimilação, reconhecendo a agência histórica dos povos indígenas. Os itens são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "V – F – V.",
+        "C": "F – F – V.",
+        "D": "F – V – F.",
+        "E": "V – V – V."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 16
+    },
+    {
+      "question_number": 57,
+      "discipline": null,
+      "statement": "Sobre as transformações na infraestrutura e na economia do Espírito Santo, ocorridas a partir da década de 1960, em decorrência da instalação de grandes empreendimentos industriais, analise as afirmativas a seguir. I. A instalação da Companhia Vale do Rio Doce, vinculada à mineração em Minas Gerais, integrou a cidade de Vitória a uma dinâmica econômica mais ampla, superando sua subordinação à economia cafeeira. II. A instalação da Companhia Siderúrgica de Tubarão esteve associada à expansão do complexo portuário de Tubarão, impulsionando a industrialização e a inserção do estado nas cadeias siderúrgicas voltadas à exportação. III. A instalação da Aracruz Celulose contribuiu para a inserção do estado em cadeias produtivas globais e promoveu transformações no uso do território, marcadas pela predominância da monocultura de eucalipto. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 17
+    },
+    {
+      "question_number": 58,
+      "discipline": null,
+      "statement": "Todo capixaba tem Uma panela de barro no peito Uma orquídea no gesto Um cafezinho no jeito Um trocadilho na brincadeira Um congo no andar Um chá de cidreira Uma moqueca perfeita Adaptado de Elisa Lucinda, in Dossiê IPHAN Ofício das Paneleiras de Goiabeiras A panela de barro mencionada no trecho remete ao Ofício das Paneleiras de Goiabeiras, reconhecido pelo IPHAN como patrimônio cultural imaterial brasileiro. Com base nesse reconhecimento, assinale a opção que identifica corretamente o Livro de Registro em que esse bem foi inscrito.",
+      "alternatives": {
+        "A": "Livro de Registro das Artes, por se tratar de técnicas artesanais de produção cerâmica transmitidas entre gerações.",
+        "B": "Livro de Registro das Celebrações, por estar associado ao preparo da moqueca capixaba em contextos festivos e religiosos, como a Semana Santa.",
+        "C": "Livro de Registro das Formas de Expressão, por reunir elementos simbólicos das matrizes culturais indígena, africana e europeia.",
+        "D": "Livro de Registro dos Lugares, por estar vinculado ao bairro de Goiabeiras Velha como espaço de referência cultural onde se concentram a prática do ofício das paneleiras.",
+        "E": "Livro de Registro dos Saberes, por se tratar de um ofício tradicional transmitido no âmbito comunitário e relacionado ao modo de fazer artesanal."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 17
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "Analise as afirmativas a seguir sobre as abordagens historiográficas que questionam o chamado “nacionalismo metodológico”. I. A história global e a história conectada compartilham o objetivo de superar enquadramentos nacionais rígidos, privilegiando a análise das interações e das circulações entre diferentes espaços. II. A história transnacional parte do pressuposto de que os processos de formação dos Estados na modernidade foram simétricos, comparando-os e situando-os em escalas amplas que tendem a nivelá-los. III. A história global, a história conectada e a história transnacional privilegiam as dinâmicas globais, subordinando sistematicamente os processos locais a escalas mais amplas de interpretação. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 17
+    },
+    {
+      "question_number": 60,
+      "discipline": null,
+      "statement": "Leia o caso descrito a seguir. Em um município, uma comunidade tradicional ingressou com ação judicial para reconhecimento de direitos territoriais. Durante o processo, foi localizado, no arquivo histórico estadual, um conjunto de documentos do século XIX, incluindo registros de ocupação, mapas e correspondências administrativas que comprovam a presença histórica da comunidade na área reivindicada. Embora esses documentos tenham passado a ser utilizados como prova documental no processo judicial, sua classificação arquivística quanto à idade documental permanece definida pelos critérios da Arquivologia. Considerando essa situação, assinale a opção que apresenta corretamente a classificação desses documentos quanto à idade documental.",
+      "alternatives": {
+        "A": "Os documentos são classificados na idade corrente, pois estão sendo frequentemente consultados e utilizados no contexto do processo judicial.",
+        "B": "Os documentos são classificados na idade intermediária, pois houve alteração de seu valor de uso, anteriormente histórico e agora voltado a fins legais.",
+        "C": "Os documentos são classificados na idade intermediária, pois ainda se encontram em fase de avaliação quanto à sua destinação final.",
+        "D": "Os documentos são classificados na idade permanente, pois possuem valor histórico e probatório, independentemente de seu uso atual.",
+        "E": "Os documentos são classificados na idade permanente, pois são históricos e originais, não apresentando valor secundário e sendo preservados principalmente por sua antiguidade. Prova Discursiva 1"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 17
     }
   ]
 }

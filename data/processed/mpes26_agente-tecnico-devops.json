@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - DevOps",
   "exam_type": "Tipo 1",
-  "total_questions": 35,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-devops_q12.png",
       "page_number": 4
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 21,
@@ -253,7 +355,24 @@
         "B": "V – V – F.",
         "C": "V – F – F.",
         "D": "F – V – F.",
-        "E": "F – F – V. Uma instituição pública passou a expor parte de seus serviços por meio de APIs utilizadas na comunicação entre sistemas internos e aplicações externas. Em uma revisão de segurança, a equipe técnica avaliou diferentes medidas de proteção dos recursos expostos, considerando aspectos ligados ao controle de acesso, à proteção das comunicações, ao tratamento das requisições recebidas e à limitação do uso dos serviços. Nesse contexto, assinale a opção que apresenta uma medida tecnicamente adequada. (A) Dispensar mecanismos específicos de autorização quando a API utilizar OAuth 2.0 ou JWT emitido por servidor confiável, pois a validade do token já é suficiente para legitimar o acesso aos recursos expostos. (B) Adotar tokens de longa duração como medida de segurança, a fim de reduzir a frequência de renovação e, com isso, diminuir a exposição da API a falhas associadas ao processo de reautenticação. (C) Implementar validação e saneamento dos dados de entrada recebidos pelas APIs, com verificação dos parâmetros e do payload da requisição, a fim de mitigar ataques de injeção e outros efeitos decorrentes do processamento de entradas maliciosas. (D) Adotar a utilização de certificados digitais no servidor nas requisições entre clientes e serviços, de modo a garantir que apenas clientes autorizados tenham acesso aos endpoints disponíveis. (E) Dispensar o uso de rate limiting nos servidores de recursos de APIs que adotam OAuth 2.0, uma vez que o controle de consumo por contador exige manutenção de estado entre requisições, contrariando o princípio de comunicação sem estado do protocolo OAuth."
+        "E": "F – F – V."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "Uma instituição pública passou a expor parte de seus serviços por meio de APIs utilizadas na comunicação entre sistemas internos e aplicações externas. Em uma revisão de segurança, a equipe técnica avaliou diferentes medidas de proteção dos recursos expostos, considerando aspectos ligados ao controle de acesso, à proteção das comunicações, ao tratamento das requisições recebidas e à limitação do uso dos serviços. Nesse contexto, assinale a opção que apresenta uma medida tecnicamente adequada.",
+      "alternatives": {
+        "A": "Dispensar mecanismos específicos de autorização quando a API utilizar OAuth 2.0 ou JWT emitido por servidor confiável, pois a validade do token já é suficiente para legitimar o acesso aos recursos expostos.",
+        "B": "Adotar tokens de longa duração como medida de segurança, a fim de reduzir a frequência de renovação e, com isso, diminuir a exposição da API a falhas associadas ao processo de reautenticação.",
+        "C": "Implementar validação e saneamento dos dados de entrada recebidos pelas APIs, com verificação dos parâmetros e do payload da requisição, a fim de mitigar ataques de injeção e outros efeitos decorrentes do processamento de entradas maliciosas.",
+        "D": "Adotar a utilização de certificados digitais no servidor nas requisições entre clientes e serviços, de modo a garantir que apenas clientes autorizados tenham acesso aos endpoints disponíveis.",
+        "E": "Dispensar o uso de rate limiting nos servidores de recursos de APIs que adotam OAuth 2.0, uma vez que o controle de consumo por contador exige manutenção de estado entre requisições, contrariando o princípio de comunicação sem estado do protocolo OAuth."
       },
       "answer": "C",
       "annulled": false,
@@ -270,13 +389,30 @@
         "B": "Declarar, em components/schemas, um objeto chamado Authorization, com um campo obrigatório token, e referenciá- lo nas operações que exigem autenticação.",
         "C": "Adicionar, em cada operação protegida, um parâmetro em header com o nome Authorization, sem definir esquema de segurança específico na especificação.",
         "D": "Definir, em components/securitySchemes, um esquema do tipo apiToken, com in: header e name: Authorization, e associá-lo às operações protegidas por meio de security.",
-        "E": "Definir, em components/securitySchemes, um esquema do Uma organização mantém integrações corporativas baseadas em serviços SOAP/XML, consumidos por aplicações internas e externas a partir de contrato formal previamente publicado. Em uma atualização do sistema provedor, a equipe pretende alterar a estrutura da mensagem de resposta, com renomeação de alguns elementos e mudança de tipos de dados, sem adotar uma estratégia de versionamento compatível, sob o argumento de que o endpoint e o protocolo de transporte permanecerão inalterados. Com base nesse cenário, analise as afirmativas a seguir. I. A renomeação de elementos na mensagem de resposta não compromete a compatibilidade da integração, porque os consumidores podem consultar o WSDL atualizado, que define o contrato de comunicação do serviço, e passar a interpretar os novos nomes corretamente. II. Em arquiteturas baseadas em SOAP, a interoperabilidade entre consumidor e provedor depende também da aderência das mensagens ao contrato formal do serviço, e não apenas da possibilidade de troca de documentos XML entre as partes. III. A manutenção do mesmo endpoint e do mesmo protocolo de transporte não é suficiente, por si só, para preservar a compatibilidade da integração, quando a resposta do serviço deixa de corresponder à estrutura contratualmente esperada pelos consumidores. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "Definir, em components/securitySchemes, um esquema do tipo http com scheme: basic e associá-lo às operações protegidas, informando que o token JWT será enviado no cabeçalho Authorization."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 24,
+      "discipline": null,
+      "statement": "Uma organização mantém integrações corporativas baseadas em serviços SOAP/XML, consumidos por aplicações internas e externas a partir de contrato formal previamente publicado. Em uma atualização do sistema provedor, a equipe pretende alterar a estrutura da mensagem de resposta, com renomeação de alguns elementos e mudança de tipos de dados, sem adotar uma estratégia de versionamento compatível, sob o argumento de que o endpoint e o protocolo de transporte permanecerão inalterados. Com base nesse cenário, analise as afirmativas a seguir. I. A renomeação de elementos na mensagem de resposta não compromete a compatibilidade da integração, porque os consumidores podem consultar o WSDL atualizado, que define o contrato de comunicação do serviço, e passar a interpretar os novos nomes corretamente. II. Em arquiteturas baseadas em SOAP, a interoperabilidade entre consumidor e provedor depende também da aderência das mensagens ao contrato formal do serviço, e não apenas da possibilidade de troca de documentos XML entre as partes. III. A manutenção do mesmo endpoint e do mesmo protocolo de transporte não é suficiente, por si só, para preservar a compatibilidade da integração, quando a resposta do serviço deixa de corresponder à estrutura contratualmente esperada pelos consumidores. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 25,
@@ -287,9 +423,26 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. No gerenciamento ágil de projetos, os métodos Scrum e Kanban são amplamente usados para o acompanhamento das atividades e gestão das entregas. Com relação às características desses dois métodos ágeis, assinale a afirmativa correta. (A) O Scrum prioriza times com número maior que dez integrantes para se manter ágil no trabalho. (B) O Kanban exige reuniões diárias obrigatórias com definição prévia de entregas priorizadas pelo cliente. (C) O Kanban utiliza papéis formais obrigatórios e cerimônias estruturadas para buscar flexibilidade na melhoria dos processos. (D) O Scrum não permite adaptação durante o ciclo de desenvolvimento, uma vez que foca principalmente em processos. (E) O Scrum é baseado em papéis definidos, como Product Owner e Scrum Master, enquanto o Kanban foca na gestão visual do fluxo de trabalho e na limitação do trabalho em progresso."
+        "E": "I, II e III."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 26,
+      "discipline": null,
+      "statement": "No gerenciamento ágil de projetos, os métodos Scrum e Kanban são amplamente usados para o acompanhamento das atividades e gestão das entregas. Com relação às características desses dois métodos ágeis, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O Scrum prioriza times com número maior que dez integrantes para se manter ágil no trabalho.",
+        "B": "O Kanban exige reuniões diárias obrigatórias com definição prévia de entregas priorizadas pelo cliente.",
+        "C": "O Kanban utiliza papéis formais obrigatórios e cerimônias estruturadas para buscar flexibilidade na melhoria dos processos.",
+        "D": "O Scrum não permite adaptação durante o ciclo de desenvolvimento, uma vez que foca principalmente em processos.",
+        "E": "O Scrum é baseado em papéis definidos, como Product Owner e Scrum Master, enquanto o Kanban foca na gestão visual do fluxo de trabalho e na limitação do trabalho em progresso."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -304,13 +457,30 @@
         "B": "A EAP é responsável por definir a sequência lógica das atividades do projeto, sendo essencial para a elaboração do cronograma detalhado.",
         "C": "A EAP permite a decomposição do escopo em pacotes de trabalho, contribuindo para estimativas mais precisas de prazo, custo e recursos do projeto.",
         "D": "A EAP é uma ferramenta de planejamento de custos, sendo sua principal finalidade a criação do fluxo de caixa e a definição da margem de lucro do projeto.",
-        "E": "O nível mais detalhado da EAP é denominado 'Dicionário da EAP', onde são registrados as datas de entrega e os responsáveis por cada tarefa do projeto. No gerenciamento de riscos de um projeto crítico de modernização da infraestrutura de dados de uma sociedade empresária, o Gerente de Projetos deve aplicar as diretrizes do Guia PMBOK para garantir execução e controle de projeto. Sobre esse tema, assinale a afirmativa correta. (A) A identificação de riscos é uma atividade de etapa única, devendo ser encerrada após a aprovação do Plano de Gerenciamento de Riscos para evitar paralisia por análise. (B) A análise quantitativa de riscos deve preceder obrigatoriamente a análise qualitativa, pois fornece a base numérica necessária para a priorização das ameaças. (C) O gerenciamento de riscos deve abordar tanto as ameaças quanto as oportunidades, buscando mitigar impactos negativos e maximizar eventos positivos que possam beneficiar os objetivos do projeto. (D) A estratégia de \"Transferência\" de riscos é a mais recomendada para riscos de alto impacto e alta probabilidade, pois elimina a responsabilidade legal e financeira da organização sobre o evento. (E) No monitoramento de riscos, a ocorrência de um \"risco residual\" (aquele que permanece após as respostas planejadas) indica falha no planejamento e deve ser reportada como uma não conformidade de qualidade."
+        "E": "O nível mais detalhado da EAP é denominado 'Dicionário da EAP', onde são registrados as datas de entrega e os responsáveis por cada tarefa do projeto."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "No gerenciamento de riscos de um projeto crítico de modernização da infraestrutura de dados de uma sociedade empresária, o Gerente de Projetos deve aplicar as diretrizes do Guia PMBOK para garantir execução e controle de projeto. Sobre esse tema, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A identificação de riscos é uma atividade de etapa única, devendo ser encerrada após a aprovação do Plano de Gerenciamento de Riscos para evitar paralisia por análise.",
+        "B": "A análise quantitativa de riscos deve preceder obrigatoriamente a análise qualitativa, pois fornece a base numérica necessária para a priorização das ameaças.",
+        "C": "O gerenciamento de riscos deve abordar tanto as ameaças quanto as oportunidades, buscando mitigar impactos negativos e maximizar eventos positivos que possam beneficiar os objetivos do projeto.",
+        "D": "A estratégia de \"Transferência\" de riscos é a mais recomendada para riscos de alto impacto e alta probabilidade, pois elimina a responsabilidade legal e financeira da organização sobre o evento.",
+        "E": "No monitoramento de riscos, a ocorrência de um \"risco residual\" (aquele que permanece após as respostas planejadas) indica falha no planejamento e deve ser reportada como uma não conformidade de qualidade."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
     },
     {
       "question_number": 29,
@@ -321,9 +491,26 @@
         "B": "V – F – V.",
         "C": "V – F – F.",
         "D": "F – F – V.",
-        "E": "F – V – V. Durante uma vistoria na infraestrutura de rede do edifício-sede, o analista identificou que as ligações VoIP do setor jurídico apresentavam perda de pacotes nos horários de maior acesso de visitantes à rede Wi-Fi. A análise revelou que os três perfis de usuário — administrativo, VoIP e visitantes — compartilhavam o mesmo domínio de broadcast. A solução adotada foi segmentar logicamente o tráfego nos switches existentes, sem aquisição de novos equipamentos, e configurar o enlace entre o switch de distribuição e o roteador central para transportar os três grupos simultaneamente. Sobre o funcionamento desse enlace, assinale a afirmativa correta. (A) Cada quadro Ethernet recebe uma marcação de 4 bytes com o identificador do grupo ao qual pertence, permitindo que o roteador processe cada fluxo de forma isolada. (B) O switch encapsula os quadros de cada grupo em pacotes IP distintos antes de encaminhá-los ao roteador, que os desencapsula e aplica as políticas de segurança. (C) A marcação do tráfego ocorre no cabeçalho IP, onde um campo específico identifica a qual segmento lógico o pacote pertence, sendo interpretado pelo roteador central. (D) A separação dos grupos é feita pelo roteador central por meio da leitura das portas TCP de destino em cada pacote, que são mapeadas para interfaces lógicas distintas. (E) O enlace entre switch e roteador opera com múltiplos endereços MAC virtuais, um para cada grupo, sendo o roteamento feito com base nesses identificadores de camada 2."
+        "E": "F – V – V."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 30,
+      "discipline": null,
+      "statement": "Durante uma vistoria na infraestrutura de rede do edifício-sede, o analista identificou que as ligações VoIP do setor jurídico apresentavam perda de pacotes nos horários de maior acesso de visitantes à rede Wi-Fi. A análise revelou que os três perfis de usuário — administrativo, VoIP e visitantes — compartilhavam o mesmo domínio de broadcast. A solução adotada foi segmentar logicamente o tráfego nos switches existentes, sem aquisição de novos equipamentos, e configurar o enlace entre o switch de distribuição e o roteador central para transportar os três grupos simultaneamente. Sobre o funcionamento desse enlace, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Cada quadro Ethernet recebe uma marcação de 4 bytes com o identificador do grupo ao qual pertence, permitindo que o roteador processe cada fluxo de forma isolada.",
+        "B": "O switch encapsula os quadros de cada grupo em pacotes IP distintos antes de encaminhá-los ao roteador, que os desencapsula e aplica as políticas de segurança.",
+        "C": "A marcação do tráfego ocorre no cabeçalho IP, onde um campo específico identifica a qual segmento lógico o pacote pertence, sendo interpretado pelo roteador central.",
+        "D": "A separação dos grupos é feita pelo roteador central por meio da leitura das portas TCP de destino em cada pacote, que são mapeadas para interfaces lógicas distintas.",
+        "E": "O enlace entre switch e roteador opera com múltiplos endereços MAC virtuais, um para cada grupo, sendo o roteamento feito com base nesses identificadores de camada 2."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -338,13 +525,30 @@
         "B": "O comando chmod 644 script.sh resulta em permissões rw-r-- r--, concedendo leitura e escrita ao proprietário, e leitura e execução ao grupo e aos demais usuários.",
         "C": "O comando chmod 736 script.sh resulta em permissões rwx- wxrw-, o que garante a permissão de execução direta do script pelo proprietário, pelos membros do grupo e pelos demais usuários.",
         "D": "A permissão octal 650 corresponde a rw-r-x---, concedendo leitura, escrita e execução ao proprietário, leitura e execução ao grupo e nenhuma permissão aos demais usuários.",
-        "E": "A permissão octal 421 corresponde a r---w---x, concedendo leitura ao proprietário, escrita ao grupo e execução aos demais usuários, sendo tecnicamente suficiente para permitir que os membros do grupo visualizem o código-fonte do script por meio do comando cat. Sobre os comandos básicos do gerenciador de pacotes APT em distribuições Linux baseadas em Debian/Ubuntu, assinale a afirmativa correta. (A) O comando apt install nginx atualiza automaticamente a lista de repositórios disponíveis antes de realizar a instalação do pacote nginx, dispensando a execução prévia de qualquer outro comando. (B) O comando apt update instala as atualizações disponíveis para todos os pacotes instalados no sistema, aplicando as novas versões encontradas nos repositórios configurados. (C) O comando apt remove nginx desinstala o pacote nginx e remove também todos os seus arquivos de configuração do sistema, deixando o ambiente completamente limpo. (D) O comando apt upgrade instala as versões mais recentes dos pacotes já instalados no sistema, utilizando as informações obtidas na última execução do comando apt update. (E) O comando apt search nginx realiza a instalação do pacote nginx diretamente a partir do repositório oficial, sem necessidade de confirmação por parte do administrador."
+        "E": "A permissão octal 421 corresponde a r---w---x, concedendo leitura ao proprietário, escrita ao grupo e execução aos demais usuários, sendo tecnicamente suficiente para permitir que os membros do grupo visualizem o código-fonte do script por meio do comando cat."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 8
+    },
+    {
+      "question_number": 32,
+      "discipline": null,
+      "statement": "Sobre os comandos básicos do gerenciador de pacotes APT em distribuições Linux baseadas em Debian/Ubuntu, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O comando apt install nginx atualiza automaticamente a lista de repositórios disponíveis antes de realizar a instalação do pacote nginx, dispensando a execução prévia de qualquer outro comando.",
+        "B": "O comando apt update instala as atualizações disponíveis para todos os pacotes instalados no sistema, aplicando as novas versões encontradas nos repositórios configurados.",
+        "C": "O comando apt remove nginx desinstala o pacote nginx e remove também todos os seus arquivos de configuração do sistema, deixando o ambiente completamente limpo.",
+        "D": "O comando apt upgrade instala as versões mais recentes dos pacotes já instalados no sistema, utilizando as informações obtidas na última execução do comando apt update.",
+        "E": "O comando apt search nginx realiza a instalação do pacote nginx diretamente a partir do repositório oficial, sem necessidade de confirmação por parte do administrador."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 33,
@@ -372,9 +576,26 @@
         "B": "ip addr add",
         "C": "netplan try",
         "D": "netplan apply",
-        "E": "systemctl restart networking A automação de backups frequentemente exige a compactação de diretórios para economizar espaço em disco e facilitar o transporte dos dados. O PowerShell possui cmdlets nativos que eliminam a necessidade de ferramentas externas como WinZip ou WinRAR. Nesse contexto, assinale o cmdlet usado para criar um arquivo compactado (arquivo de arquivo), a partir de uma pasta de origem. (A) Pack-Files (B) New-ZipFile (C) Zip-Directory (D) Set-Compression (E) Compress-Archive"
+        "E": "systemctl restart networking"
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "A automação de backups frequentemente exige a compactação de diretórios para economizar espaço em disco e facilitar o transporte dos dados. O PowerShell possui cmdlets nativos que eliminam a necessidade de ferramentas externas como WinZip ou WinRAR. Nesse contexto, assinale o cmdlet usado para criar um arquivo compactado (arquivo de arquivo), a partir de uma pasta de origem.",
+      "alternatives": {
+        "A": "Pack-Files",
+        "B": "New-ZipFile",
+        "C": "Zip-Directory",
+        "D": "Set-Compression",
+        "E": "Compress-Archive"
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -406,13 +627,64 @@
         "B": "NAS possui uma alta escalabilidade, pois tem melhor resposta em IOPS.",
         "C": "NAS possui o desempenho mais alto por utilizar a própria rede corporativa.",
         "D": "SAN possui complexidade mais baixa, por possuir protocolos simples como o SMB.",
-        "E": "Ambas dependem de uma rede exclusiva para tratar de armazenamento de arquivos. Seja para garantir a resistência a falhas ou proteger-se de ataques de ransomware, uma política de backup correta e alinhada com as necessidades corporativas é fundamental. Sobre as políticas de backup, analise as afirmativas a seguir. I. O backup completo é útil pois implementa a salvaguarda de todas as informações, entretanto acaba sendo feito de forma mais esporádica pois demanda muito tempo. II. O backup incremental armazena apenas os dados que foram modificados desde o último backup completo, economizando assim tempo durante o processo de backup. III. O backup em nuvem traz a vantagem de armazenar dados longe da localidade, aumentando a resistência a desastres naturais, entretanto enfrenta restrições quanto à soberania de dados. Está correto o que se afirma em (A) II, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. Um analista está implementando um pipeline no Logstash, da pilha ELK, para tratar registros de acesso HTTP oriundos de um servidor Apache. Para isso, foi usada a seguinte configuração de filtro: filter { grok { match => { \"message\" => \"%{IP:client_ip} - - \\[%{HTTPDATE:raw_date}\\] \\\"%{WORD:http_method} %{URIPATHPARAM:request} HTTP/%{NUMBER:http_version}\\\" %{NUMBER:status_code} %{NUMBER:bytes}\" } } date { match => [ \"raw_date\", \"dd/MMM/yyyy:HH:mm:ss Z\" ] } mutate { convert => { \"status_code\" => \"integer\" } rename => { \"client_ip\" => \"[source][ip]\" } } } Considere que uma linha de entrada válida seja: 192.168.1.10 - - [22/Mar/2026:14:09:58 +0000] \"GET /index.php HTTP/1.1\" 200 5120 Com base no funcionamento do Logstash e dos plugins utilizados, com a específica configuração e sintaxe apresentadas, assinale a afirmativa correta. (A) O plugin date converte o campo raw_date em inteiro epoch, sobrescrevendo automaticamente o campo status_code, desde que o grok tenha sido executado com sucesso. (B) O campo status_code será convertido para tipo numérico inteiro, enquanto o campo bytes permanecerá textual, salvo conversão adicional explícita. (C) O plugin grok já converte automaticamente os campos %{NUMBER:status_code} e %{NUMBER:bytes} para tipo numérico, tornando redundante o uso de mutate { convert => ... }. (D) O padrão %{URIPATHPARAM:request} captura exclusivamente o caminho da URI, mas nunca parâmetros de consulta (query string), razão pela qual o filtro falharia, caso a URL contenha ?id=10. (E) Após o processamento, o campo client_ip permanece no evento e, adicionalmente, é copiado para o campo aninhado [source][ip], já que a operação rename não remove o campo original. Em um ambiente de microsserviços, uma aplicação expõe a métrica: http_requests_total{job=\"api\", instance=\"10.0.0.5:8080\", method=\"GET\", code=\"500\"} A equipe deseja calcular, no Prometheus, a taxa média por segundo de crescimento dessa métrica ao longo dos últimos 5 minutos, suavizada ao longo da janela de tempo completa, para alimentar um painel de erro no Grafana. A expressão em PromQL conceitualmente mais adequada para esse objetivo é (A) rate(http_requests_total[5m]) (B) irate(http_requests_total[5m]) (C) delta(http_requests_total[5m]) (D) avg_over_time(http_requests_total[5m]) (E) count_over_time(http_requests_total[5m])"
+        "E": "Ambas dependem de uma rede exclusiva para tratar de armazenamento de arquivos."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 38,
+      "discipline": null,
+      "statement": "Seja para garantir a resistência a falhas ou proteger-se de ataques de ransomware, uma política de backup correta e alinhada com as necessidades corporativas é fundamental. Sobre as políticas de backup, analise as afirmativas a seguir. I. O backup completo é útil pois implementa a salvaguarda de todas as informações, entretanto acaba sendo feito de forma mais esporádica pois demanda muito tempo. II. O backup incremental armazena apenas os dados que foram modificados desde o último backup completo, economizando assim tempo durante o processo de backup. III. O backup em nuvem traz a vantagem de armazenar dados longe da localidade, aumentando a resistência a desastres naturais, entretanto enfrenta restrições quanto à soberania de dados. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "II, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 39,
+      "discipline": null,
+      "statement": "Um analista está implementando um pipeline no Logstash, da pilha ELK, para tratar registros de acesso HTTP oriundos de um servidor Apache. Para isso, foi usada a seguinte configuração de filtro: filter { grok { match => { \"message\" => \"%{IP:client_ip} - - \\[%{HTTPDATE:raw_date}\\] \\\"%{WORD:http_method} %{URIPATHPARAM:request} HTTP/%{NUMBER:http_version}\\\" %{NUMBER:status_code} %{NUMBER:bytes}\" } } date { match => [ \"raw_date\", \"dd/MMM/yyyy:HH:mm:ss Z\" ] } mutate { convert => { \"status_code\" => \"integer\" } rename => { \"client_ip\" => \"[source][ip]\" } } } Considere que uma linha de entrada válida seja: 192.168.1.10 - - [22/Mar/2026:14:09:58 +0000] \"GET /index.php HTTP/1.1\" 200 5120 Com base no funcionamento do Logstash e dos plugins utilizados, com a específica configuração e sintaxe apresentadas, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O plugin date converte o campo raw_date em inteiro epoch, sobrescrevendo automaticamente o campo status_code, desde que o grok tenha sido executado com sucesso.",
+        "B": "O campo status_code será convertido para tipo numérico inteiro, enquanto o campo bytes permanecerá textual, salvo conversão adicional explícita.",
+        "C": "O plugin grok já converte automaticamente os campos %{NUMBER:status_code} e %{NUMBER:bytes} para tipo numérico, tornando redundante o uso de mutate { convert => ... }.",
+        "D": "O padrão %{URIPATHPARAM:request} captura exclusivamente o caminho da URI, mas nunca parâmetros de consulta (query string), razão pela qual o filtro falharia, caso a URL contenha ?id=10.",
+        "E": "Após o processamento, o campo client_ip permanece no evento e, adicionalmente, é copiado para o campo aninhado [source][ip], já que a operação rename não remove o campo original."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 40,
+      "discipline": null,
+      "statement": "Em um ambiente de microsserviços, uma aplicação expõe a métrica: http_requests_total{job=\"api\", instance=\"10.0.0.5:8080\", method=\"GET\", code=\"500\"} A equipe deseja calcular, no Prometheus, a taxa média por segundo de crescimento dessa métrica ao longo dos últimos 5 minutos, suavizada ao longo da janela de tempo completa, para alimentar um painel de erro no Grafana. A expressão em PromQL conceitualmente mais adequada para esse objetivo é",
+      "alternatives": {
+        "A": "rate(http_requests_total[5m])",
+        "B": "irate(http_requests_total[5m])",
+        "C": "delta(http_requests_total[5m])",
+        "D": "avg_over_time(http_requests_total[5m])",
+        "E": "count_over_time(http_requests_total[5m])"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     },
     {
       "question_number": 41,
@@ -423,13 +695,47 @@
         "B": "O valor retornado pelo OID é interpretado como texto e não pode ser usado em triggers numéricas.",
         "C": "O Zabbix consulta periodicamente o OID via SNMP, caracterizando um modelo de polling para coleta de métricas.",
         "D": "O OID representa um endereço IP do dispositivo monitorado, sendo usado para identificação do host.",
-        "E": "O uso de OIDs elimina a necessidade de triggers, pois o SNMP já fornece alertas diretamente ao Zabbix. Uma equipe de SRE (Site Reliability Engineering) observou que, em uma ferramenta de monitoramento baseada em séries temporais, uma métrica foi modelada da seguinte forma: login_attempts_total{user_id=\"983421\", session_id=\"ab7d91f2\", request_id=\"rq-88931\"} Após algumas semanas, houve crescimento abrupto do consumo de memória e degradação no desempenho das consultas no sistema de monitoramento. Nesse cenário, assinale a opção que apresenta a interpretação mais adequada. (A) O problema decorreu do modelo de coleta periódica, que gera novas séries a cada ciclo de coleta. (B) O problema decorre da retenção prolongada de dados históricos, que impacta diretamente a cardinalidade das métricas. (C) O problema decorreu da utilização de métricas acumulativas, que tendem a crescer indefinidamente e consumir mais memória. (D) O problema decorreu da utilização de agregações dinâmicas em consultas, que aumentam o volume de dados processados em tempo de execução. (E) O problema decorreu do uso de atributos altamente variáveis como identificadores únicos, elevando o número de séries temporais distintas armazenadas. Considere os seguintes logs coletados durante o processamento de requisições em um sistema distribuído de e-commerce: </> JSON {\"time\":\"10:01:02\",\"service\":\"gateway\",\"level\":\"INFO\",\"message\" :\"Requisição recebida\",\"request_id\":\"abc123\"} {\"time\":\"10:01:02\",\"service\":\"A\",\"level\":\"INFO\",\"message\":\"Pedid o recebido\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"B\",\"level\":\"INFO\",\"message\":\"Proce ssando pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"C\",\"level\":\"ERROR\",\"message\":\"Err o no estoque\",\"request_id\":\"abc123\"} {\"time\":\"10:01:04\",\"service\":\"B\",\"level\":\"WARN\",\"message\":\"Retr y pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:05\",\"service\":\"D\",\"level\":\"INFO\",\"message\":\"Notifi cação enviada\",\"request_id\":\"abc123\"} {\"time\":\"10:01:06\",\"service\":\"gateway\",\"level\":\"ERROR\",\"messag e\":\"Falha na requisição\",\"request_id\":\"abc123\"} Durante a análise de um incidente, a equipe conseguiu reconstruir o fluxo completo da requisição entre os diferentes serviços envolvidos, identificando o ponto exato de falha e as tentativas de recuperação. Nesse cenário, assinale a opção que identifica corretamente a prática de estruturação de logs que foi determinante para viabilizar essa análise. (A) Separação dos logs por serviço, facilitando a análise individualizada de cada componente . (B) Registro de timestamps consistentes entre os serviços, viabilizando a ordenação cronológica dos eventos. (C) Inclusão de níveis de severidade nos registros, possibilitando a priorização dos eventos relevantes. (D) Padronização do formato dos logs em estrutura JSON, permitindo indexação e consulta eficiente dos registros. (E) Utilização de identificador único de requisição propagado entre os serviços, permitindo a correlação determinística dos eventos."
+        "E": "O uso de OIDs elimina a necessidade de triggers, pois o SNMP já fornece alertas diretamente ao Zabbix."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "Uma equipe de SRE (Site Reliability Engineering) observou que, em uma ferramenta de monitoramento baseada em séries temporais, uma métrica foi modelada da seguinte forma: login_attempts_total{user_id=\"983421\", session_id=\"ab7d91f2\", request_id=\"rq-88931\"} Após algumas semanas, houve crescimento abrupto do consumo de memória e degradação no desempenho das consultas no sistema de monitoramento. Nesse cenário, assinale a opção que apresenta a interpretação mais adequada.",
+      "alternatives": {
+        "A": "O problema decorreu do modelo de coleta periódica, que gera novas séries a cada ciclo de coleta.",
+        "B": "O problema decorre da retenção prolongada de dados históricos, que impacta diretamente a cardinalidade das métricas.",
+        "C": "O problema decorreu da utilização de métricas acumulativas, que tendem a crescer indefinidamente e consumir mais memória.",
+        "D": "O problema decorreu da utilização de agregações dinâmicas em consultas, que aumentam o volume de dados processados em tempo de execução.",
+        "E": "O problema decorreu do uso de atributos altamente variáveis como identificadores únicos, elevando o número de séries temporais distintas armazenadas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 43,
+      "discipline": null,
+      "statement": "Considere os seguintes logs coletados durante o processamento de requisições em um sistema distribuído de e-commerce: </> JSON {\"time\":\"10:01:02\",\"service\":\"gateway\",\"level\":\"INFO\",\"message\" :\"Requisição recebida\",\"request_id\":\"abc123\"} {\"time\":\"10:01:02\",\"service\":\"A\",\"level\":\"INFO\",\"message\":\"Pedid o recebido\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"B\",\"level\":\"INFO\",\"message\":\"Proce ssando pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"C\",\"level\":\"ERROR\",\"message\":\"Err o no estoque\",\"request_id\":\"abc123\"} {\"time\":\"10:01:04\",\"service\":\"B\",\"level\":\"WARN\",\"message\":\"Retr y pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:05\",\"service\":\"D\",\"level\":\"INFO\",\"message\":\"Notifi cação enviada\",\"request_id\":\"abc123\"} {\"time\":\"10:01:06\",\"service\":\"gateway\",\"level\":\"ERROR\",\"messag e\":\"Falha na requisição\",\"request_id\":\"abc123\"} Durante a análise de um incidente, a equipe conseguiu reconstruir o fluxo completo da requisição entre os diferentes serviços envolvidos, identificando o ponto exato de falha e as tentativas de recuperação. Nesse cenário, assinale a opção que identifica corretamente a prática de estruturação de logs que foi determinante para viabilizar essa análise.",
+      "alternatives": {
+        "A": "Separação dos logs por serviço, facilitando a análise individualizada de cada componente .",
+        "B": "Registro de timestamps consistentes entre os serviços, viabilizando a ordenação cronológica dos eventos.",
+        "C": "Inclusão de níveis de severidade nos registros, possibilitando a priorização dos eventos relevantes.",
+        "D": "Padronização do formato dos logs em estrutura JSON, permitindo indexação e consulta eficiente dos registros.",
+        "E": "Utilização de identificador único de requisição propagado entre os serviços, permitindo a correlação determinística dos eventos."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     },
     {
       "question_number": 44,
@@ -440,7 +746,24 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. A automação de tarefas operacionais por meio de scripts é um pilar fundamental para a implementação bem-sucedida de práticas de DevOps, especialmente na construção de pipelines de Integração Contínua e Entrega Contínua (CI/CD). Considerando o uso de scripts para a automação de builds, testes e deploys, assinale a afirmativa correta. (A) A integração contínua exige a execução manual dos scripts de build uma vez por semana pelos administradores de sistemas, visando agrupar o máximo de mudanças possíveis e reduzir a sobrecarga nos servidores de integração. (B) Os scripts de automação devem estar fortemente acoplados ao Ambiente de Desenvolvimento Integrado (IDE) de cada desenvolvedor, assegurando que o servidor de CI reproduza com exatidão as configurações locais da máquina onde o código foi criado. (C) Na automação de ambientes de CI/CD, os scripts responsáveis por alterações de banco de dados (DDL e DML) devem ser mantidos fora do sistema de controle de versão para garantir a segurança da informação e evitar que a integração contínua corrompa os dados. (D) A adoção de scripts em pipelines de CI/CD tem como objetivo principal transferir a execução de testes automatizados e compilações diretamente para o ambiente de produção, eliminando a necessidade de manter ambientes intermediários de teste e homologação. (E) Ferramentas de build (como Maven, Gradle ou Ant), quando integradas a um pipeline de CI/CD, são utilizadas para automatizar um processo repetível e consistente que compila o código-fonte e executa testes automatizados, gerando um artefato validado e pronto para ser implantado nos ambientes subsequentes."
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 45,
+      "discipline": null,
+      "statement": "A automação de tarefas operacionais por meio de scripts é um pilar fundamental para a implementação bem-sucedida de práticas de DevOps, especialmente na construção de pipelines de Integração Contínua e Entrega Contínua (CI/CD). Considerando o uso de scripts para a automação de builds, testes e deploys, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A integração contínua exige a execução manual dos scripts de build uma vez por semana pelos administradores de sistemas, visando agrupar o máximo de mudanças possíveis e reduzir a sobrecarga nos servidores de integração.",
+        "B": "Os scripts de automação devem estar fortemente acoplados ao Ambiente de Desenvolvimento Integrado (IDE) de cada desenvolvedor, assegurando que o servidor de CI reproduza com exatidão as configurações locais da máquina onde o código foi criado.",
+        "C": "Na automação de ambientes de CI/CD, os scripts responsáveis por alterações de banco de dados (DDL e DML) devem ser mantidos fora do sistema de controle de versão para garantir a segurança da informação e evitar que a integração contínua corrompa os dados.",
+        "D": "A adoção de scripts em pipelines de CI/CD tem como objetivo principal transferir a execução de testes automatizados e compilações diretamente para o ambiente de produção, eliminando a necessidade de manter ambientes intermediários de teste e homologação.",
+        "E": "Ferramentas de build (como Maven, Gradle ou Ant), quando integradas a um pipeline de CI/CD, são utilizadas para automatizar um processo repetível e consistente que compila o código-fonte e executa testes automatizados, gerando um artefato validado e pronto para ser implantado nos ambientes subsequentes."
       },
       "answer": "E",
       "annulled": false,
@@ -457,13 +780,30 @@
         "B": "Contêineres Docker não permitem o compartilhamento de dados entre si, em razão do isolamento proporcionado pelo sistema operacional.",
         "C": "O Docker permite executar aplicações em contêineres que compartilham o kernel do sistema operacional do host, tornando sua execução mais leve que máquinas virtuais.",
         "D": "O uso de mecanismos de armazenamento de dados compartilhados elimina o isolamento entre contêineres, fazendo com que passem a funcionar como uma única unidade.",
-        "E": "Os dados armazenados em contêineres Docker são automaticamente mantidos, independentemente de qualquer configuração adicional, mesmo após o encerramento do contêiner. A orquestração de contêineres permite automatizar a implantação, o escalonamento e o gerenciamento de aplicações distribuídas. Nesse contexto, ferramentas surgiram para administrar clusters de nós computacionais e garantir alta disponibilidade e eficiência operacional. Sobre o exposto, analise as afirmativas a seguir. I. O Kubernetes é uma plataforma de orquestração de contêineres que permite automatizar a implantação, o escalonamento e a gestão de aplicações em clusters de nós computacionais. II. O Rancher é uma ferramenta nativa do Kubernetes utilizada para o gerenciamento de clusters. III. Em um cluster Kubernetes, os nós de trabalho executam os pods, enquanto o plano de controle é responsável pelo gerenciamento do estado do cluster. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "Os dados armazenados em contêineres Docker são automaticamente mantidos, independentemente de qualquer configuração adicional, mesmo após o encerramento do contêiner."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "A orquestração de contêineres permite automatizar a implantação, o escalonamento e o gerenciamento de aplicações distribuídas. Nesse contexto, ferramentas surgiram para administrar clusters de nós computacionais e garantir alta disponibilidade e eficiência operacional. Sobre o exposto, analise as afirmativas a seguir. I. O Kubernetes é uma plataforma de orquestração de contêineres que permite automatizar a implantação, o escalonamento e a gestão de aplicações em clusters de nós computacionais. II. O Rancher é uma ferramenta nativa do Kubernetes utilizada para o gerenciamento de clusters. III. Em um cluster Kubernetes, os nós de trabalho executam os pods, enquanto o plano de controle é responsável pelo gerenciamento do estado do cluster. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
     },
     {
       "question_number": 48,
@@ -474,9 +814,26 @@
         "B": "F – F – V.",
         "C": "F – V – F.",
         "D": "V – V – V.",
-        "E": "V – F – F. Terraform é uma ferramenta que permite gerenciar a infraestrutura por meio de código, sendo fundamental no desenvolvimento de software para automatizar a criação, configuração e gerenciamento de recursos de TI, substituindo processos manuais propensos a erros. A respeito da Terraform, nesse contexto, assinale a afirmativa correta. (A) Permite definir recursos somente em infraestruturas locais (on-premise). (B) Os arquivos de configuração são escritos em linguagem imperativa. (C) Ainda não pode ser empregada em grandes players como AWS, Google Cloud Platform e Azure. (D) Init, plan e apply são 3 dos principais comandos disponíveis em sua interface de linha de comando (CLI). (E) Permite gerenciar componentes de baixo nível, como recursos de computação, armazenamento e rede, mas não suporta componentes de alto nível, como entradas de DNS."
+        "E": "V – F – F."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 49,
+      "discipline": null,
+      "statement": "Terraform é uma ferramenta que permite gerenciar a infraestrutura por meio de código, sendo fundamental no desenvolvimento de software para automatizar a criação, configuração e gerenciamento de recursos de TI, substituindo processos manuais propensos a erros. A respeito da Terraform, nesse contexto, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Permite definir recursos somente em infraestruturas locais (on-premise).",
+        "B": "Os arquivos de configuração são escritos em linguagem imperativa.",
+        "C": "Ainda não pode ser empregada em grandes players como AWS, Google Cloud Platform e Azure.",
+        "D": "Init, plan e apply são 3 dos principais comandos disponíveis em sua interface de linha de comando (CLI).",
+        "E": "Permite gerenciar componentes de baixo nível, como recursos de computação, armazenamento e rede, mas não suporta componentes de alto nível, como entradas de DNS."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -508,13 +865,30 @@
         "B": "A criptografia é citada na LGPD como uma medida técnica obrigatória para todos os tipos de tratamento de dados pessoais.",
         "C": "A LGPD permite o tratamento de dados pessoais sem medida de segurança, quando sejam utilizados apenas internamente pela organização.",
         "D": "O princípio da Prevenção na LGPD estabelece que os agentes de tratamento devem adotar medidas para prevenir a ocorrência de danos decorrentes do tratamento de dados pessoais.",
-        "E": "A LGPD determina que, em caso de incidente de segurança que possa acarretar risco aos titulares, o controlador deverá comunicar à Autoridade Nacional de Proteção de Dados (ANPD), não havendo necessidade de comunicar ao titular. Considerando na gestão de riscos a classificação de riscos e o tratamento dos riscos, analise o cenário a seguir. “Uma empresa de Segurança da Informação identifica um risco relacionado aos Testes de Software classificado com probabilidade 5 (muito alto) e Impacto 4 (alto) em sua matriz de riscos.” Sobre o nível de risco e a estratégia mais adequada para tratá-lo, assinale a afirmativa correta. (A) Trata-se de um risco alto, não sendo necessária a elaboração de Plano de Contingência e estratégia de tratamento. (B) Trata-se de um risco médio, sendo adequada uma estratégia de mitigação, com ações para reduzir a probabilidade ou o impacto do risco. (C) Trata-se de um risco médio, que deve ser transferido para um fornecedor externo especializado, apesar do custo / benefício adequado. (D) Trata-se de um risco extremo, exigindo a estratégia de evitação, com paralisação imediata das atividades de teste até que o risco seja completamente eliminado. (E) Trata-se de um risco extremo, sendo adequada uma estratégia de mitigação, com ações para redução de probabilidade ou o impacto do risco, em razão do custo / benefício adequado."
+        "E": "A LGPD determina que, em caso de incidente de segurança que possa acarretar risco aos titulares, o controlador deverá comunicar à Autoridade Nacional de Proteção de Dados (ANPD), não havendo necessidade de comunicar ao titular."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13
+    },
+    {
+      "question_number": 52,
+      "discipline": null,
+      "statement": "Considerando na gestão de riscos a classificação de riscos e o tratamento dos riscos, analise o cenário a seguir. “Uma empresa de Segurança da Informação identifica um risco relacionado aos Testes de Software classificado com probabilidade 5 (muito alto) e Impacto 4 (alto) em sua matriz de riscos.” Sobre o nível de risco e a estratégia mais adequada para tratá-lo, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Trata-se de um risco alto, não sendo necessária a elaboração de Plano de Contingência e estratégia de tratamento.",
+        "B": "Trata-se de um risco médio, sendo adequada uma estratégia de mitigação, com ações para reduzir a probabilidade ou o impacto do risco.",
+        "C": "Trata-se de um risco médio, que deve ser transferido para um fornecedor externo especializado, apesar do custo / benefício adequado.",
+        "D": "Trata-se de um risco extremo, exigindo a estratégia de evitação, com paralisação imediata das atividades de teste até que o risco seja completamente eliminado.",
+        "E": "Trata-se de um risco extremo, sendo adequada uma estratégia de mitigação, com ações para redução de probabilidade ou o impacto do risco, em razão do custo / benefício adequado."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
     },
     {
       "question_number": 53,
@@ -542,9 +916,26 @@
         "B": "A seção de identificação do laudo técnico é facultativa, podendo ser dispensada quando o documento se destinar ao uso interno da organização.",
         "C": "O escopo do laudo técnico deve ser definido ao final do documento, após a análise dos dados, a fim de refletir com maior precisão os resultados obtidos.",
         "D": "A seção de conclusão pode conter opiniões de caráter subjetivo, ainda que não estejam fundamentadas nas evidências obtidas durante a análise técnica.",
-        "E": "A metodologia deve explicitar os procedimentos, técnicas, ferramentas e normas adotados, de modo a permitir a reprodutibilidade e a verificação dos resultados apresentados. Em relação à Legislação e aos aspectos éticos na área de Tecnologia da Informação, assinale a afirmativa correta. (A) Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica. (B) A Responsabilidade Técnica limita-se à garantia de que os sistemas estejam disponíveis, não abrangendo as falhas de configuração que resultem em acessos indevidos. (C) O profissional de TI pode compartilhar dados internos da organização, desde que não haja identificação direta dos titulares das informações. (D) O dever de sigilo profissional cessa após o desligamento do colaborador, exceto se houver cláusula contratual específica de não divulgação. (E) A Ética Profissional em TI foca na eficiência técnica dos algoritmos, sendo as questões de privacidade de responsabilidade do setor jurídico."
+        "E": "A metodologia deve explicitar os procedimentos, técnicas, ferramentas e normas adotados, de modo a permitir a reprodutibilidade e a verificação dos resultados apresentados."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 55,
+      "discipline": null,
+      "statement": "Em relação à Legislação e aos aspectos éticos na área de Tecnologia da Informação, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica.",
+        "B": "A Responsabilidade Técnica limita-se à garantia de que os sistemas estejam disponíveis, não abrangendo as falhas de configuração que resultem em acessos indevidos.",
+        "C": "O profissional de TI pode compartilhar dados internos da organização, desde que não haja identificação direta dos titulares das informações.",
+        "D": "O dever de sigilo profissional cessa após o desligamento do colaborador, exceto se houver cláusula contratual específica de não divulgação.",
+        "E": "A Ética Profissional em TI foca na eficiência técnica dos algoritmos, sendo as questões de privacidade de responsabilidade do setor jurídico."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -559,13 +950,30 @@
         "B": "Os relatórios estatísticos da área de TI devem apresentar exclusivamente dados técnicos, sem interpretação ou análise gerencial.",
         "C": "Os indicadores de desempenho permitem avaliar a eficiência e a qualidade dos serviços de TI, apoiando a tomada de decisão e a melhoria contínua dos sistemas.",
         "D": "Os indicadores estatísticos em TI não podem ser utilizados para comparações entre diferentes períodos, devido à variabilidade dos sistemas tecnológicos.",
-        "E": "Os indicadores de desempenho em TI devem ser utilizados apenas para fins operacionais, não sendo adequados para avaliação estratégica de serviços públicos digitais. No que tange às contratações de bens e serviços de Tecnologia da Informação (TI), conforme disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. Nas contratações de TI, a Administração poderá definir o objeto da licitação com base exclusiva em marca ou modelo específico, desde que isso facilite a padronização tecnológica da organização. II. O Diálogo Competitivo é uma modalidade de licitação que pode ser aplicada em projetos de TI que envolvam inovação tecnológica ou quando a Administração não consegue definir, com precisão suficiente, as especificações técnicas do objeto. III. A contratação de soluções de TI deverá priorizar, sempre que possível, especificações baseadas em desempenho ou requisitos funcionais, evitando restrições indevidas à competitividade. Está correto o que se afirma em (A) II, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II, III."
+        "E": "Os indicadores de desempenho em TI devem ser utilizados apenas para fins operacionais, não sendo adequados para avaliação estratégica de serviços públicos digitais."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14
+    },
+    {
+      "question_number": 57,
+      "discipline": null,
+      "statement": "No que tange às contratações de bens e serviços de Tecnologia da Informação (TI), conforme disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. Nas contratações de TI, a Administração poderá definir o objeto da licitação com base exclusiva em marca ou modelo específico, desde que isso facilite a padronização tecnológica da organização. II. O Diálogo Competitivo é uma modalidade de licitação que pode ser aplicada em projetos de TI que envolvam inovação tecnológica ou quando a Administração não consegue definir, com precisão suficiente, as especificações técnicas do objeto. III. A contratação de soluções de TI deverá priorizar, sempre que possível, especificações baseadas em desempenho ou requisitos funcionais, evitando restrições indevidas à competitividade. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "II, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II, III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
     },
     {
       "question_number": 58,
@@ -576,9 +984,26 @@
         "B": "Feature Flag.",
         "C": "Canary Releases.",
         "D": "Recreate Deployment.",
-        "E": "Blue-Green Deployment. No contexto da segurança da informação, as boas práticas são integradas ao ciclo de desenvolvimento de softwares com o objetivo de reduzir vulnerabilidades em aplicações web, APIs e infraestrutura. Sobre o tema, analise as afirmativas a seguir. I. A revisão de código (code review) pode identificar vulnerabilidades de segurança, antes que o código seja integrado ao ambiente de produção. II. A automação de testes de segurança no pipeline de integração contínua (CI/CD) auxilia na detecção precoce de vulnerabilidades em aplicações web e APIs. III. No modelo DevSecOps, as práticas de segurança são aplicadas apenas na fase final de implantação da infraestrutura, a fim de evitar impacto no processo de desenvolvimento. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) II e III, apenas. (D) I e III, apenas. (E) I, II e III."
+        "E": "Blue-Green Deployment."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "No contexto da segurança da informação, as boas práticas são integradas ao ciclo de desenvolvimento de softwares com o objetivo de reduzir vulnerabilidades em aplicações web, APIs e infraestrutura. Sobre o tema, analise as afirmativas a seguir. I. A revisão de código (code review) pode identificar vulnerabilidades de segurança, antes que o código seja integrado ao ambiente de produção. II. A automação de testes de segurança no pipeline de integração contínua (CI/CD) auxilia na detecção precoce de vulnerabilidades em aplicações web e APIs. III. No modelo DevSecOps, as práticas de segurança são aplicadas apenas na fase final de implantação da infraestrutura, a fim de evitar impacto no processo de desenvolvimento. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e III, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -593,7 +1018,7 @@
         "B": "A anonimização e a pseudonimização são conceitos equivalentes para a LGPD, sendo assim, os dados deixam de ser considerados dados pessoais para todos os fins legais.",
         "C": "O Encarregado pelo Tratamento de Dados Pessoais (DPO) é o agente de tratamento a quem competem as decisões estratégicas e definitivas sobre o ciclo de vida dos dados.",
         "D": "Segundo o princípio da Prevenção, o controlador deve adotar medidas técnicas e administrativas aptas a prevenir a ocorrência de danos em virtude do tratamento de dados pessoais.",
-        "E": "A comunicação de incidentes de segurança à ANPD é obrigatória em qualquer evento de acesso não autorizado, independentemente da probabilidade de risco ou dano relevante aos titulares. 1 Suponha que o Ministério Público do Estado do Espírito Santo esteja modernizando seu principal sistema de gestão interna, adotando práticas de DevOps. A equipe responsável configurou um pipeline no GitLab CI, integrado a um cluster gerenciado via Rancher. O objetivo é que o código, após passar por testes automatizados, esteja sempre pronto para produção, mas que a implantação final ainda exija uma aprovação manual do gestor da área. Além disso, as atualizações devem ocorrer sem indisponibilidade (zero downtime). Com base no cenário exposto elabore uma resposta dissertativa contemplando os seguintes aspectos: a) caracterize o nível de maturidade do pipeline descrito (código pronto para produção, mas com aprovação manual) distinguindo Entrega Contínua e Implantação Contínua; b) considerando o requisito de zero downtime, descreva o funcionamento da estratégia de deploy Rolling Update, indicando uma vantagem técnica ou operacional em relação à estratégia Blue/Green; c) a descrição do principal objetivo da etapa de Deploy em um pipeline de DevOps; e d) a indicação de dois artefatos técnicos ou entregáveis esperados ao término da etapa de Release. a. o papel do gerenciamento de riscos em cada grupo de processos; b. os processos que compõem o gerenciamento de riscos; c. a influência dessa integração na tomada de decisão; d. a relação entre a identificação e análise de riscos e a constituição de reservas de contingência no cronograma e no orçamento. Realização"
+        "E": "A comunicação de incidentes de segurança à ANPD é obrigatória em qualquer evento de acesso não autorizado, independentemente da probabilidade de risco ou dano relevante aos titulares. Prova Discursiva 1 Suponha que o Ministério Público do Estado do Espírito Santo esteja modernizando seu principal sistema de gestão interna, adotando práticas de DevOps. A equipe responsável configurou um pipeline no GitLab CI, integrado a um cluster gerenciado via Rancher. O objetivo é que o código, após passar por testes automatizados, esteja sempre pronto para produção, mas que a implantação final ainda exija uma aprovação manual do gestor da área. Além disso, as atualizações devem ocorrer sem indisponibilidade (zero downtime). Com base no cenário exposto elabore uma resposta dissertativa contemplando os seguintes aspectos: a) caracterize o nível de maturidade do pipeline descrito (código pronto para produção, mas com aprovação manual) distinguindo Entrega Contínua e Implantação Contínua; b) considerando o requisito de zero downtime, descreva o funcionamento da estratégia de deploy Rolling Update, indicando uma vantagem técnica ou operacional em relação à estratégia Blue/Green; c) a descrição do principal objetivo da etapa de Deploy em um pipeline de DevOps; e d) a indicação de dois artefatos técnicos ou entregáveis esperados ao término da etapa de Release. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 No âmbito do gerenciamento de projetos, o gerenciamento dos riscos desempenha papel estratégico para o alcance dos objetivos, atuando de forma transversal ao longo do ciclo de vida e de maneira integrada aos grupos de processos. À luz das boas práticas do Guia PMBOK, discorra sobre a importância do gerenciamento dos riscos para o sucesso do projeto, relacionando essa área de conhecimento com os grupos de processos. Em sua resposta, aborde obrigatoriamente: a. o papel do gerenciamento de riscos em cada grupo de processos; b. os processos que compõem o gerenciamento de riscos; c. a influência dessa integração na tomada de decisão; d. a relação entre a identificação e análise de riscos e a constituição de reservas de contingência no cronograma e no orçamento. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
       "answer": "D",
       "annulled": false,

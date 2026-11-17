@@ -2,13 +2,13 @@
   "concurso_slug": "estagiomprj16",
   "cargo_slug": "cargo-geral",
   "concurso_title": "Ministério Público do Estado do Rio de Janeiro - VIII Exame de Admissão ao Estágio Forense",
-  "cargo_title": "Cargo Geral",
+  "cargo_title": "Prova Escrita Objetiva - VIII EXAME DE ADMISSÃO AO ESTÁGIO FORENSE",
   "exam_type": "Tipo 1",
   "total_questions": 50,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Uma pessoa recebe um tiro de revólver e, após encaminhada ao hospital, já em recuperação, vem a falecer por força do desabamento de uma parede de gesso situada em seu leito. É correto afirmar que o autor do disparo:",
       "alternatives": {
         "A": "responde pelo resultado, em virtude da teoria da equivalência dos antecedentes causais adotada pelo Código Penal de forma absoluta;",
@@ -25,7 +25,7 @@
     },
     {
       "question_number": 2,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "O homicídio difere-se tecnicamente do latrocínio pelo(a):",
       "alternatives": {
         "A": "resultado preterdoloso, que existe necessariamente no segundo e não ocorre no primeiro;",
@@ -42,7 +42,7 @@
     },
     {
       "question_number": 3,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em relação às causas de exclusão da culpabilidade, é correto afirmar que:",
       "alternatives": {
         "A": "o erro de proibição afasta o requisito da exigibilidade de conduta diversa;",
@@ -59,7 +59,7 @@
     },
     {
       "question_number": 4,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "É(são) causa(s) de extinção da punibilidade presente(s) apenas em relação a crimes de ação penal pública de iniciativa privada:",
       "alternatives": {
         "A": "perdão do ofendido;",
@@ -76,7 +76,7 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em relação à teoria da norma penal, no que concerne à aplicação da lei penal no tempo e no espaço, ao tempo do crime e ao princípio da legalidade, é correto afirmar que:",
       "alternatives": {
         "A": "considera-se cometido o crime tanto no momento da ação ou omissão, como no do implemento do resultado;",
@@ -93,7 +93,7 @@
     },
     {
       "question_number": 6,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Hugo, após mais uma discussão com seu sogro João em razão de disputas desportivas, entende que não mais suporta viver em constante conflito com seus familiares. Por esse motivo, decide matar João, e, para tanto, desfere uma facada em sua perna quando os dois estavam sozinhos. Durante a execução do delito, apesar de saber que aquela facada ainda não seria suficiente para causar a morte do sogro, opta por não mais seguir na empreitada criminosa, pensando no sofrimento que sua esposa sentiria com a morte do pai. Deixa, então, o local do crime, vindo João a ficar, em razão do ferimento causado pelo golpe, impossibilitado de exercer suas atividades habituais por 40 dias. Diante da situação narrada, é correto afirmar que Hugo:",
       "alternatives": {
         "A": "não responderá por qualquer crime, em razão do arrependimento eficaz;",
@@ -110,7 +110,7 @@
     },
     {
       "question_number": 7,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Durante um almoço de família em uma fazenda, Camila caminhava com sua filha Julia, de 02 anos, quando um touro selvagem surgiu e passou a atacar a criança. Diante da situação de risco para a integridade física de Julia, Camila pegou um machado que estava no chão e passou a golpear o animal, vindo a causar sua morte. Nesse caso, é correto afirmar que Camila:",
       "alternatives": {
         "A": "agiu em legítima defesa, causa de exclusão da antijuridicidade;",
@@ -127,14 +127,14 @@
     },
     {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Tício, 18 anos, durante a comemoração de sua aprovação no vestibular, ingere bebida alcoólica com seus amigos em um bar, apesar de não ter, com isso, qualquer intenção de ficar bêbado ou praticar crimes, mas tão só de comemorar seu sucesso nos estudos. Apesar disso, em razão da quantidade de cerveja que optou por ingerir, acaba ficando completamente embriagado e desfere quatro socos na face do ex-namorado de sua irmã, causando-lhe lesões gravíssimas. Considerando a hipótese narrada, é correto afirmar que a embriaguez de Tício era completa e:",
       "alternatives": {
         "A": "involuntária, logo exclui a imputabilidade penal;",
         "B": "culposa, logo exclui a imputabilidade penal;",
         "C": "voluntária em sentido estrito, não excluindo a imputabilidade penal e devendo ser reconhecida a agravante da embriaguez preordenada;",
         "D": "culposa, mas não exclui a imputabilidade penal;",
-        "E": "voluntária em sentido estrito, não excluindo a imputabilidade penal, mas não deve ser reconhecida a agravante da embriaguez preordenada. Direito Processual Penal"
+        "E": "voluntária em sentido estrito, não excluindo a imputabilidade penal, mas não deve ser reconhecida a agravante da embriaguez preordenada."
       },
       "answer": "D",
       "annulled": false,
@@ -144,7 +144,7 @@
     },
     {
       "question_number": 9,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Sobre o inquérito policial, é correto afirmar que:",
       "alternatives": {
         "A": "consiste em procedimento de natureza inquisitorial, que se destina à busca de elementos que indiquem a existência da infração penal e de indícios de autoria;",
@@ -161,7 +161,7 @@
     },
     {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em determinada hipótese de crime de ação de iniciativa privada, o delegado de polícia Thomas, tomando conhecimento da infração penal, determina, de ofício, a instauração de inquérito policial. No caso:",
       "alternatives": {
         "A": "a atividade de investigação penal autoriza a adoção de qualquer medida por parte da autoridade policial, independentemente da modalidade de ação penal prevista no Código de Processo Penal;",
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Paulo, Policial Militar do Estado do Rio de Janeiro, quando em serviço de ronda na Comarca de Duas Barras, ao volante de veículo da corporação militar, vem a atropelar Fabiano, médico plantonista local, que sofre lesões corporais leves. Sobre tal fato, em seara de competência penal, o policial militar deverá ser julgado, em primeira instância:",
       "alternatives": {
         "A": "pela Justiça Militar Federal;",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Quando em discussão, ocorrida entre o casal Luciano e Vanessa, casados há muitos anos, o cônjuge-varão vem a agredir sua esposa, causando-lhe lesões corporais leves. Levados à delegacia de polícia local, Luciano é preso em flagrante delito. Vanessa, por seu turno, se revela arrependida de ter acionado o aparato policial, razão pela qual afirma ao delegado de polícia seu desejo de “retirar a queixa”, tendo a autoridade policial esclarecido, à ocasião, que sua manifestação de vontade seria fator absolutamente irrelevante para o prosseguimento dos atos de investigação penal. No caso, a hipótese é de:",
       "alternatives": {
         "A": "lesão corporal qualificada pela violência doméstica, que se persegue pela via da ação penal pública condicionada, sendo, portanto, indispensável expressa autorização da vítima;",
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Reinaldo é levado à 15ª Delegacia Policial, ao argumento de que fora flagrado quando da prática do tráfico de entorpecentes (art. 33 da Lei nº 11.343/06), tendo a autoridade policial, após a lavratura do auto de prisão em flagrante, promovido o seu recolhimento à prisão, dando ciência ao juiz competente a respeito das formalidades que observara quando da prisão de Reinaldo. Não obstante todas as cautelas observadas pela autoridade policial, quando da chegada dos autos do inquérito ao Ministério Público, o Promotor de Justiça constata que a autoridade policial não teria expedido a respectiva nota de culpa, conforme determina o artigo 306, parágrafo 2º, do Código de Processo Penal. Diante de tal quadro, o Promotor de Justiça deverá:",
       "alternatives": {
         "A": "reconhecer a validade do auto de prisão em flagrante e oferecer denúncia em desfavor de Reinaldo, opinando pela decretação de sua prisão preventiva;",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "O processo, no âmbito dos Juizados Especiais Criminais, é regido pelos princípios:",
       "alternatives": {
         "A": "da integralidade e da consumação;",
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em sede de teoria geral das nulidades, é correto afirmar que:",
       "alternatives": {
         "A": "a nulidade absoluta somente pode ser declarada se arguida pelas partes, não podendo o magistrado, de ofício, reconhecê-la;",
@@ -263,14 +263,14 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Pela prática do crime de estelionato (artigo 171, caput, do CP), em continuidade delitiva (artigo 71, do CP), Valfrido é denunciado pelo Ministério Público Estadual. Quando do oferecimento da denúncia, o Promotor de Justiça deixa de oferecer a proposta de suspensão condicional do processo, ao argumento do descabimento da medida. No caso:",
       "alternatives": {
         "A": "o Promotor de Justiça não pode oferecer a suspensão condicional do processo porque tal medida não tem cabimento em crimes contra o patrimônio;",
         "B": "o Promotor de Justiça não pode oferecer a suspensão condicional do processo porque tal medida não tem cabimento à hipótese de estelionato;",
         "C": "a suspensão condicional do processo não tem cabimento, já que a continuidade delitiva impõe somatório que eleva de um ano a pena base;",
         "D": "a suspensão condicional do processo somente pode ser oferecida em hipótese de infrações de menor potencial ofensivo;",
-        "E": "a suspensão condicional do processo é de iniciativa reservada ao juiz, sendo certo dizer que somente poderá advir ao momento da sentença. Direito Civil"
+        "E": "a suspensão condicional do processo é de iniciativa reservada ao juiz, sendo certo dizer que somente poderá advir ao momento da sentença."
       },
       "answer": "C",
       "annulled": false,
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em matéria de usucapião, prevê o ordenamento jurídico brasileiro que adquire a propriedade, independentemente de justo título e boa-fé, podendo requerer ao juiz que assim o declare por sentença, aquele que, sem interrupção nem oposição, possuir como seu um imóvel por:",
       "alternatives": {
         "A": "20 anos;",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em matéria de responsabilidade civil, estabelece o Código Civil brasileiro que:",
       "alternatives": {
         "A": "constituem atos ilícitos os praticados em legítima defesa ou no exercício regular de um direito reconhecido;",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em matéria de negócios jurídicos, é correto afirmar que:",
       "alternatives": {
         "A": "o silêncio, enquanto modalidade de manifestação de vontade dos interessados, jamais implica anuência;",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em matéria de pessoas jurídicas, é correto afirmar que:",
       "alternatives": {
         "A": "os partidos políticos são pessoas jurídicas de direito privado;",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "É correto afirmar que o direito à prestação de alimentos entre pais e filhos:",
       "alternatives": {
         "A": "é recíproco, mas não é extensivo aos demais ascendentes;",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Com relação à união estável, é correto afirmar que:",
       "alternatives": {
         "A": "por determinação de lei, submete-se, quanto ao aspecto patrimonial, ao regime da comunhão universal de bens;",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "No que diz respeito ao poder familiar, é correto afirmar que:",
       "alternatives": {
         "A": "não tem aplicabilidade em caso de filhos decorrentes de união estável;",
@@ -399,14 +399,14 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Priscila era passageira em uma viagem de ônibus da empresa de transporte VIAGEM BEM LTDA., quando sofreu danos em decorrência de uma colisão. É correto afirmar que:",
       "alternatives": {
         "A": "haverá responsabilidade civil da entidade empresária de transporte, independentemente de culpa;",
         "B": "não há responsabilidade civil da entidade empresária de transporte, em hipótese alguma;",
         "C": "somente haverá responsabilidade civil da entidade empresária de transporte se ficar demonstrada culpa grave do motorista;",
         "D": "a responsabilidade civil da entidade empresária de transporte é subjetiva com culpa presumida;",
-        "E": "se trata de caso de responsabilidade civil extracontratual. Direito Processual Civil"
+        "E": "se trata de caso de responsabilidade civil extracontratual."
       },
       "answer": "A",
       "annulled": false,
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Prolata sentença sem aptidão para formar coisa julgada material o juiz que:",
       "alternatives": {
         "A": "reconhece a carência da ação, dada a ausência de interesse processual;",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "O ato por meio do qual o juiz põe fim à fase cognitiva do procedimento comum é classificado como:",
       "alternatives": {
         "A": "despacho;",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "No que concerne à incompetência relativa, é correto afirmar que:",
       "alternatives": {
         "A": "o órgão judicial pode conhecê-la ex officio;",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Sobre a revelia, é correto afirmar que:",
       "alternatives": {
         "A": "será decretada se o réu não contestar a ação, embora possa ser relevada caso a peça defensiva seja apresentada no quinquídio subsequente ao decurso do prazo legal;",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Citado em uma ação de cobrança, o réu peticionou, tempestivamente, afirmando, tal como já havia feito a parte autora em sua inicial, que não tinha interesse na realização de audiência de conciliação, a qual, todavia, fora designada pelo juiz para o mês seguinte. Nesse cenário, é correto afirmar que:",
       "alternatives": {
         "A": "o prazo para oferecer a contestação se iniciará a partir da juntada do mandado de citação aos autos;",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "Em decisão de saneamento e de organização do processo, o juiz, diante de peculiaridades da causa relacionadas à impossibilidade de a parte autora cumprir o encargo probatório que a princípio lhe incumbia, e de forma fundamentada, atribuiu o ônus da prova de modo diverso. Inconformada com essa decisão, poderá a parte ré:",
       "alternatives": {
         "A": "interpor apelação;",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "A petição inicial será considerada inepta quando:",
       "alternatives": {
         "A": "a parte for manifestamente ilegítima;",
@@ -535,14 +535,14 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "No cumprimento de sentença condenatória ao pagamento de prestação alimentícia, o juiz, a requerimento do demandante, mandará intimar o demandado pessoalmente para:",
       "alternatives": {
         "A": "em três dias, pagar o débito, provar que o fez ou justificar a impossibilidade de efetuá-lo;",
         "B": "em quinze dias, pagar o débito, provar que o fez ou justificar a impossibilidade de efetuá-lo;",
         "C": "em trinta dias, pagar o débito, provar que o fez ou justificar a impossibilidade de efetuá-lo;",
         "D": "em vinte e quatro horas, pagar o débito, provar que o fez ou justificar a impossibilidade de efetuá-lo;",
-        "E": "em quarenta e oito horas, pagar o débito, provar que o fez ou justificar a impossibilidade de efetuá-lo. Direito Constitucional"
+        "E": "em quarenta e oito horas, pagar o débito, provar que o fez ou justificar a impossibilidade de efetuá-lo."
       },
       "answer": "A",
       "annulled": false,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "De acordo com a Constituição Federal de 1988, o Presidente da República poderá ser impedido de exercer o mandato caso pratique crime comum ou de responsabilidade. Se o Presidente da República for acusado da prática de crime de responsabilidade, é correto afirmar que:",
       "alternatives": {
         "A": "instaurado o processo no Senado Federal, ele será suspenso das funções pelo prazo de cento e vinte dias;",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "A Constituição Federal de 1988 prevê que Estados, Distrito Federal e Municípios terão competência para criar e cobrar o imposto sobre serviços de qualquer natureza – ISS, o imposto sobre operações de circulação de mercadorias e serviços – ICMS, o imposto sobre a propriedade de veículo automotor – IPVA, o imposto sobre transmissão causa mortis e doação – ITCMD, o imposto sobre propriedade predial e territorial urbana – IPTU e o imposto sobre transmissão inter vivos, a qualquer título, por ato oneroso, de bens imóveis – ITBI. Sobre o tema, é correto afirmar que:",
       "alternatives": {
         "A": "o ISS é de competência municipal e o IPVA estadual;",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "James é americano e residia há mais de quinze anos no Rio de Janeiro quando obteve a nacionalidade brasileira. Em virtude de sua atividade profissional, viajou ao País Z com a finalidade de ali fixar residência e trabalho. Residindo naquele país, James soube que a lei local condicionava sua permanência e trabalho à aquisição da nacionalidade local, razão pela qual solicitou e obteve a nacionalidade do País Z. Três anos após obter tal nacionalidade, James retornou definitivamente ao Brasil e foi informado que seu título eleitoral havia sido cancelado, tendo como fundamento a perda da nacionalidade brasileira pela voluntária aquisição da nacionalidade no País Z. Ao tomar conhecimento desses fatos, o Promotor de Justiça com atribuição eleitoral solicitou ao corpo de estagiários que pesquisasse as regras da Constituição Federal de 1988 a respeito da nacionalidade brasileira. Considerando que os fatos narrados nesse hipotético caso sejam verdadeiros, se você fosse o estagiário forense encarregado de pesquisar na Constituição Federal brasileira a resposta para a situação de James e informar ao Promotor de Justiça, escolheria como opção correta:",
       "alternatives": {
         "A": "a aquisição de outra nacionalidade estrangeira ocasiona a perda da nacionalidade brasileira;",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "João, brasileiro, idoso e analfabeto, compareceu à Promotoria de Tutela Coletiva do Município onde reside e relatou, ao Promotor de Justiça com atribuição, fatos lesivos ao patrimônio público. Afirmou que os moradores da localidade sabiam da ocorrência de fraudes na escolha de empresas que realizavam obras no Município, algumas delas feitas com material de péssima qualidade. Na ocasião, após solicitar as providências cabíveis, João entregou fotos da queda de uma passarela e informou o nome e o endereço de duas pessoas que poderiam esclarecer a ligação dos sócios da empresa com funcionários da secretaria de obras. Com base nessa hipotética situação, e tendo em vista as normas da Constituição Federal de 1988 a respeito da atuação do Ministério Público, a correta providência a ser adotada pelo Promotor de Justiça é:",
       "alternatives": {
         "A": "ajuizar ação popular, visando a anular o ato lesivo ao patrimônio público;",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "O rol de direitos e garantias fundamentais previstos na Constituição Federal de 1988 permite concluir que no Brasil:",
       "alternatives": {
         "A": "não há possibilidade de uma pessoa ser condenada à pena de morte;",
@@ -637,14 +637,14 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Direito Penal",
       "statement": "De acordo com a Constituição Federal de 1988, pode(m) propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:",
       "alternatives": {
         "A": "o Presidente e o Vice-Presidente da República;",
         "B": "o Procurador-Geral da República;",
         "C": "os partidos políticos;",
         "D": "os Prefeitos municipais;",
-        "E": "o Presidente do Congresso Nacional. Direito Administrativo"
+        "E": "o Presidente do Congresso Nacional."
       },
       "answer": "B",
       "annulled": false,
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Prefeito Municipal determinou às diretoras das escolas municipais que promovessem a afixação de cartazes, na entrada de cada unidade de ensino, contendo a fotografia de sua esposa com os seguintes dizeres: “A primeira dama Maria, mulher guerreira e dedicada às causas filantrópicas, será candidata a Deputado Estadual nas próximas eleições e conta com o seu apoio”. A conduta do Prefeito viola frontalmente, a um só tempo, os princípios administrativos expressos no art. 37, caput, da Constituição Federal de 1988 da:",
       "alternatives": {
         "A": "isonomia e razoabilidade;",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Em tema de poderes administrativos, de acordo com a doutrina de Direito Administrativo, o poder de polícia pode ser conceituado como a prerrogativa de direito público que, calcada na lei, autoriza:",
       "alternatives": {
         "A": "a Polícia Civil a realizar diligências de busca e apreensão na casa dos investigados, independentemente de autorização judicial;",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Prefeito Municipal, após estudos estratégicos, usando critérios de oportunidade e conveniência, decidiu iniciar o asfaltamento das vias públicas da cidade pelas ruas do bairro X. Inconformada, a associação de moradores do bairro Y ajuizou ação judicial pleiteando que as ruas de seu bairro sejam as primeiras a receber pavimentação. No caso em tela, em tema de controle judicial dos atos administrativos, o pleito da associação de moradores:",
       "alternatives": {
         "A": "não merece prosperar, eis que, em se tratando de ato discricionário, ao Poder Judiciário, em regra, não cabe a análise do mérito administrativo, mas tão somente o controle da legalidade do ato;",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "De acordo com a doutrina de Direito Administrativo, as empresas públicas e as sociedades de economia mista integram a:",
       "alternatives": {
         "A": "Administração Direta e ostentam personalidade jurídica de direito público;",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "João, Policial Militar do Estado do Rio de Janeiro, ao realizar diligência para combater o tráfico de entorpecentes, abordou o menor Felipe e, agindo com abuso de autoridade e com emprego de desnecessária violência física e emocional, causou-lhe danos materiais (pois quebrou a bicicleta do menor) e morais (tortura psicológica). No caso em tela, de acordo com o texto constitucional, em matéria de indenização, aplica-se a:",
       "alternatives": {
         "A": "irresponsabilidade civil do Estado, razão pela qual o Policial deve responder diretamente pelos danos que causou ao menor, sem possibilidade de responsabilização do Estado;",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "O procedimento de direito público pelo qual o Poder Público transfere para si a propriedade de terceiro, por razões de utilidade pública ou de interesse social, normalmente mediante o pagamento de indenização, é chamado pelo ordenamento jurídico de:",
       "alternatives": {
         "A": "concessão;",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Eustáquio, Promotor de Justiça, foi informado por sua secretária que um influente político da localidade solicitaria ao Governador do Estado que se intrometesse no exercício de suas atividades. O objetivo era fazer que o Chefe do Poder Executivo determinasse a alteração de um posicionamento jurídico adotado pelo Promotor de Justiça em determinada investigação penal conduzida pelo Ministério Público. À luz das garantias e prerrogativas, constitucionais e infraconstitucionais, outorgadas ao Ministério Público e aos seus membros, é correto afirmar que determinação dessa natureza, caso exarada, NÃO precisará ser cumprida em razão do denominado princípio da:",
       "alternatives": {
         "A": "inamovibilidade;",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Irineu e Edna, estudantes de direito, travaram intensa discussão a respeito da existência, ou não, de órgãos de execução colegiados no âmbito do Ministério Público do Estado do Rio de Janeiro. É correto afirmar que consubstancia órgão dessa natureza:",
       "alternatives": {
         "A": "o Conselho Nacional do Ministério Público;",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Alexandre, recém-formado em direito, disse a Edson que o seu sonho era ser membro do Ministério Público do Estado do Rio de Janeiro. Indagado do motivo, respondeu que a Instituição propunha ações de grande impacto financeiro e que, por tal razão, os honorários de sucumbência repassados aos Promotores de Justiça eram muito elevados. Com os olhos voltados à ordem jurídica, é possível afirmar que essa conclusão é:",
       "alternatives": {
         "A": "falsa, pois os membros do Ministério Público são alcançados pela vedação constitucional de receber, a qualquer título e sob qualquer motivo, honorários advocatícios decorrentes do exercício de suas funções;",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Íngride, recém-aprovada no processo de seleção para estagiários do Ministério Público do Estado do Rio de Janeiro, realizou alentada pesquisa a respeito da autoridade competente para nomeá-la e do prazo máximo de estágio permitido pela Lei Orgânica Nacional. A esse respeito, é correto afirmar que:",
       "alternatives": {
         "A": "o Corregedor-Geral do Ministério Público é a autoridade competente e o prazo máximo é de três anos;",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Densivaldo, renomado Procurador de Justiça, ingresso no Ministério Público em 20 de janeiro de 2001, foi convidado, pelo Governador do Estado, para exercer a função de Secretário de Estado de Segurança Pública. Com base na sistemática constitucional, é correto afirmar que Densivaldo:",
       "alternatives": {
         "A": "pode ser nomeado para o referido cargo e exercê-lo juntamente com suas funções institucionais regulares;",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Direito Administrativo",
       "statement": "Ednaldo, estudante de direito, foi informado por Eustáquio, professor de direito constitucional, que os membros do Ministério Público do Estado do Rio de Janeiro são alcançados pelo denominado foro por prerrogativa de função. De acordo com essa prerrogativa, os referidos agentes devem ser processados e julgados pelo:",
       "alternatives": {
         "A": "Conselho Nacional do Ministério Público, nos crimes comuns e de responsabilidade;",

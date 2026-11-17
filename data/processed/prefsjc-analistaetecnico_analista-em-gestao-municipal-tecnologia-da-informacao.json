@@ -253,7 +253,7 @@
         "B": "A grande invenção polivalente de Deus foi o pato. Ele anda, nada e voa. E faz tudo isso pessimamente",
         "C": "Todas as flores que na terra fazem primavera / Em belíssimas cores gloriosamente surgiram.",
         "D": "O cão foi criado especialmente para as crianças. É o deus da brincadeira.",
-        "E": "Todas as especulações são cinza, meu amigo, mas a árvore de ouro da vida é eternamente verde. Raciocínio Lógico"
+        "E": "Todas as especulações são cinza, meu amigo, mas a árvore de ouro da vida é eternamente verde."
       },
       "answer": "E",
       "annulled": false,
@@ -423,7 +423,7 @@
         "B": "18,5.",
         "C": "18,0.",
         "D": "17,5.",
-        "E": "17,0. Noções de Informática"
+        "E": "17,0."
       },
       "answer": "B",
       "annulled": false,
@@ -593,7 +593,7 @@
         "B": "Drive.",
         "C": "OneDrive.",
         "D": "AWS.",
-        "E": "Bing. Atualidades"
+        "E": "Bing."
       },
       "answer": "C",
       "annulled": false,
@@ -678,7 +678,7 @@
         "B": "A OTAN é um tratado internacional que visa a estabelecer as bases de atuação dos países membros em temas de interesse da União Europeia. Para a Rússia, não é vantajoso ter um país que lhe faz fronteira neste grupo porque seus interesses no que toca ao comércio internacional e a adoção de políticas de sustentabilidade são muitas vezes contrários aos do bloco europeu.",
         "C": "A OTAN é uma aliança militar criada em 1990, após a queda do muro de Berlim, para defesa conjunta dos países que estavam fora dos domínios da União Soviética. O movimento da Ucrânia ameaça a soberania russa, porque o país é a principal fronteira da Rússia com o continente europeu.",
         "D": "A OTAN é um organismo multilateral que reúne 30 países com interesses comuns nas áreas de mudanças climáticas. A aproximação da Ucrânia à instituição significa a adoção de determinadas políticas de sustentabilidade que reduziriam a competitividade russa no mercado internacional da região.",
-        "E": "A OTAN é uma aliança político-militar criada em 1949, logo após o fim da Segunda Guerra Mundial, por 12 países, estabelecendo o compromisso de defesa conjunta num contexto marcado pela Guerra Fria, visando neutralizar o poder da então União Soviética. A aproximação da Ucrânia ao bloco significa a expansão da OTAN em território de influência política russa. Conhecimentos Específicos"
+        "E": "A OTAN é uma aliança político-militar criada em 1949, logo após o fim da Segunda Guerra Mundial, por 12 países, estabelecendo o compromisso de defesa conjunta num contexto marcado pela Guerra Fria, visando neutralizar o poder da então União Soviética. A aproximação da Ucrânia ao bloco significa a expansão da OTAN em território de influência política russa."
       },
       "answer": "E",
       "annulled": false,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "O Big Data é um conceito recente, sendo normalmente definido por um conjunto de termos, definidos como 5 “V”s. Relacione os termos a seguir com suas respectivas representações. 1. Volume. 2. Variedade. 3. Veracidade. 4. Velocidade. ( ) É um termo cunhado pela IBM que está sendo usado como o quarto “V” para descrever Big Data. Refere-se à conformidade com os fatos: precisão, qualidade ou confiabilidade dos dados. Ferramentas e técnicas são frequentemente usadas para lidar com Big Data, transformando os dados em insights de qualidade e confiáveis. ( ) Significa a celeridade com que os dados estão sendo produzidos e com que presteza os dados devem ser processados (ou seja, capturados, armazenados e analisados) para atender a necessidade ou demanda. Talvez seja a característica mais negligenciada do Big Data. ( ) É a característica mais comum do Big Data. Muitos fatores contribuíram ao aumento exponencial na quantidade de dados, como dados baseados em transações armazenados ao longo dos anos, os dados das mídias sociais, aumentando a quantidade de dados de sensores, dados RFID e GPS gerados automaticamente e assim por diante. ( ) Atualmente os dados hoje possuem diversos e tipos e formatos, desde bancos de dados relacionais aos XML e dados capturados por sensores, vídeo, áudio. Segundo estimativas, 80 a 85 por cento de todos os dados das organizações estão em algum tipo de formato não estruturado ou semiestruturado. A relação correta, na ordem dada, é",
       "alternatives": {
         "A": "4 – 2 – 3 – 1.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "As dimensões de qualidade de dados discutidas no DAMA- DMBOK2 descrevem características mensuráveis dos dados que ajudam a definir seus requisitos de qualidade. A dimensão que se refere ao grau em que os dados representam corretamente entidades da “vida real” é denominada",
       "alternatives": {
         "A": "validity.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com relação ao ETL, ELT e suas tecnologias, avalie as afirmativas a seguir e assinale V para a verdadeira e F para a falsa. ( ) ELT utiliza fluxos de trabalho de análise de dados e de aprendizado de máquina. O ELT é frequentemente usado por uma organização para: Extrair dados de sistemas legados, limpar os dados para melhorar sua qualidade e carregar dados em um banco de dados de destino. O ELT transforma dados no trânsito. ( ) ETL copia ou exporta os dados dos locais de origem, mas, em vez de carregá-los em uma área de preparação para transformação, ele carrega os dados em estado brutos diretamente no armazenamento de dados no destino para serem transformados conforme necessário. O ETL não transforma nenhum dado no trânsito. ( ) A ordem das etapas não é a única diferença entre ETL e ELT. No ELT, o armazenamento de dados de destino pode ser um armazém de dados, mas, mais frequentemente, é um data lake, que é um armazenamento central grande projetado para manter tanto dados estruturados quanto não estruturados em grande escala. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com relação ao Data Warehousing e ao Business Intelligence, avalie as afirmativas a seguir e assinale V para a afirmativa verdadeira e F para a falsa. ( ) Eles têm como meta construir e manter o ambiente técnico e os processos técnicos e de negócios necessários para fornecer dados integrados em apoio às funções operacionais, requisitos de conformidade e atividades de inteligência de negócios. ( ) Ambos visam apoiar e permitir análises de negócios e tomadas de decisões mais eficazes por parte dos trabalhadores do conhecimento. ( ) O Data Warehousing concentra-se em permitir um contexto de negócios histórico e integrado em dados operacionais, aplicando regras de negócios e mantendo relacionamentos de dados de negócios apropriados. O armazenamento de dados também inclui processos que interagem com repositórios de metadados. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – F.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "O DAMA-DMBOK2 apresenta uma visão abrangente dos desafios, complexidades e valor do gerenciamento eficaz de dados nas corporações. Os tipos de modelos operacionais de governança de dados discutidos no DAMA-DMBOK2 são",
       "alternatives": {
         "A": "startup e avançado.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere a modelagem de processos usando BPMN. Seja C um conjunto de construções de fluxo de controle. P = (N,E, tipo) é um modelo de processo se consistir em um conjunto N de nós e um conjunto E de arestas. Nesse caso, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). ( ) N = NA ∩ NE ∩ NG, onde NA é um conjunto de modelos de atividades, NE é um conjunto de modelos de eventos e NG é um conjunto de modelos de gateway. Esses conjuntos são mutuamente disjunto. ( ) E é um conjunto de arestas direcionadas entre nós, tal que E ⊆ N × N, representando controle de fluxo. ( ) tipo : NG → C atribui a cada modelo de gateway uma construção de fluxo de controle. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – F.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com relação aos spinlock no MS SQL Server 2019, avalie as afirmativas a seguir. I. Os spinlocks não são uma exclusividade do MS SQL Server. São utilizados pelo sistema operacional quando é necessário obter acesso a uma determinada estrutura de dados somente por um curto intervalo de tempo. Por exemplo, quando uma thread não consegue obter acesso ao tentar adquirir um spinlock, ela é executada de maneira periódica se o recurso está disponível ou não, em vez de fazer uma suspensão imediata. Após algum tempo, a thread que está aguardando o spinlock será suspenso antes de poder adquirir o recurso. A suspensão permite que outras threads em execução na mesma CPU sejam executadas. II. O MS SQL Server usa spinlocks para proteger o acesso a algumas estruturas internas de dados. Os spinlocks são usados no mecanismo para serializar o acesso a determinadas estruturas de dados de maneira semelhante aos locks. III. A principal diferença entre o lock e o spinlock é o fato de que os locks executar um loop por um período verificando a disponibilidade de uma estrutura de dados. Por outro lado, uma thread tentando obter acesso a uma estrutura protegida por spinlock cederá imediatamente se recurso não estiver disponível. A suspensão requer a alternância de contexto de uma thread fora da CPU para que outra thread possa ser executada. Está correto o que se afirma em",
       "alternatives": {
         "A": "III, apenas.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com relação aos sistemas de bancos de dados NoSQL, avalie as afirmativas a seguir. I. Estão sujeitos a uma arquitetura de armazenamento de dados massivamente distribuída. Os dados são armazenados em estruturas tabulares diferenciadas, dependendo do tipo de banco de dados. II. Os sistemas podem ser do tipo chave-valor, orientados a documentos, relacionais ou baseados em grafos e para garantir alta disponibilidade e protegerem- contra falhas os bancos de dados NoSQL adotam diferentes conceitos de replicação de dados. III. Nas redes de computadores massivamente distribuídas, conceitos de consistência diferenciados também são suportados pelos sistemas de bancos de dados NoSQL. Por exemplo, consistência forte significa que o sistema garante consistência de dados em todos os momentos. Consistência fraca significa que mudanças ocorridas em nós replicados são toleradas com atraso e podem levar a inconsistências de curto prazo. Está correto apenas o que se afirma em",
       "alternatives": {
         "A": "I e II.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "O PostgreSQL, versão 15, suporta 4 níveis de isolamento de transações. Com relação níveis de isolamento e aos fenômenos que eles isolam. Em relação ao tema, assinale V para a afirmativa verdadeira e F para a falsa. ( ) O nível de isolamento leitura sem compromisso permite a ocorrência de leitura fantasma. ( ) O nível de isolamento leitura confirmada não admite leitura fantasma e anomalia de serialização. ( ) O nível de isolamento mais rigoroso é o serializável, ele não permite a ocorrência de leitura suja, leitura não repetitível, leitura fantasma e anomalia de serialização. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "A combinação de CPU (Central Processing Unit) e GPU (Graphics Processing Unit), em conjunto com RAM suficiente, oferece um excelente ambiente de testes para aprendizagem profunda e IA. Neste contexto de computação de alto desempenho (HPC, High- performance computing), desponta a programação paralela empregando uma ampla classe de poderosos sistemas de computação que variam de simples (por ex., 1 CPU + 8 GPUs) até supercomputadores com multicores, multi GPU e multi Nós. Considerando as diferenças básicas entre as arquiteturas de CPU e GPU, analise os itens a seguir. I. As arquiteturas a GPU e a CPU diferem de modo significativo pois foram desenvolvidas e otimizadas para dois tipos significativamente diferentes de aplicações, tendo baixa similaridade na quantidade relativa de área da pastilha (número de transistores) dedicada à cache, à lógica de controle e à lógica de processamento. II. As GPUs podem esconder a latência da memória ao administrar a execução de mais threads do que os cores processadores disponíveis, além de simplesmente serem capazes de executar os mesmos threads de código em grandes quantidades de dados. III. O conhecimento das nuances de várias memórias de uma GPU são importantes no desenvolvimento da programação paralela, em especial quanto aos tempos de acesso relativos, as limitações de acessibilidade e a quantidade de MMU (Memory Management Unit). Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "MapReduce é um framework de processamento paralelo para clusters inspirado em programação funcional, que teve seu artigo seminal publicado em 2004 no artigo : “MapReduce: Simplified Data Processing on Large Clusters”. Com relação à tecnologia MapReduce, assinale V para a afirmativa verdadeira e F para a falsa. ( ) A ideia principal do MapReduce é dividir e processar tarefas e depois juntar as informações, o que permite dividir um grande problema em vários pedaços e distribuí-los em diversos computadores. ( ) Os principais passos correspondem a: (i) Input split, onde a entrada é dividida em várias partes, onde cada parte será consumida por um Map; (ii) Map, onde é criada uma lista de pares chave-valor; (iii) Shuffling , onde se classifica e agrupa a saída da etapa anterior para servir de entrada para a seguinte; (iv) Reduce, onde se processa a saída da etapa anterior e se agregam as informações; (v) Output, quando as informações são retornadas. ( ) As principais características do MapReduce se referem a esconder os detalhes do processamento em série, tolerância a falhas, otimização de localidade e balanceamento de memória, que resultam em modelo fácil de usar, mesmo para programadores sem experiência com sistemas paralelos e distribuídos. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "A integração do sistema ORACLE com a linguagem de programação R foi resultado da adesão da empresa ao R Consortium R/Database. A integração do R com Oracle Database e Oracle Autonomous Database, promovida por R API (Application Programming Interface) é denominada:",
       "alternatives": {
         "A": "Oracle Exadata",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "O gerenciamento de API é uma atividade crítica em aplicações IoT (Internet of Things) e pode demandar a contratação de uma plataforma de gerenciamento híbrida e multinuvem. Neste contexto, tem sido amplamente utilizados os protocolos de comunicação: REST (Representational State Transfer) e MQTT (Message Queue Telemetry Transport). Identifique o serviço do AZURE que usa o protocolo MQTT, para implementar um MQTT Broker, como base para a camada de mensagens:",
       "alternatives": {
         "A": "Azure MQTT Broker",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com relação aos frameworks Java, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Frameworks Java funcionam em múltiplas linguagens, portanto, não são específicos a essa linguagem de programação. ( ) O gerenciamento de bancos de dados relacionais pode ser implementado por mapeamento objeto-relacional (ORM) usando o framework hibernate, que pode executar consultas SQL com a ajuda das APIs da Java Database Connectivity (JDBC). ( ) A criação de aplicativos stand-alone é intuitiva com o Spring Boot pois ele emprega recursos que automatizam muitas das tarefas de configuração e implantação de aplicativos, e funciona sem nenhuma geração de código e nenhum requisito para configuração XML. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "O API Security Top 10 da Open Worldwide Application Security Project (OWASP) foi projetado para ajudar os desenvolvedores a entender e lidar com os riscos de segurança mais comuns associados às APIs. Relacione os vetores de ataque da OWASP com a explicação do cenário de ameaças de API relacionado a vulnerabilidade menciona na lista de 2023: 1. Broken Authentication 2. Broken Function Level Authorization 3. Improper Inventory Management 4. Server Side Request Forgery ( ) Invasores podem obter acesso aos recursos e/ou funções administrativas de outros usuários ao explorarem políticas complexas de controle de acesso com diferentes hierarquias, grupos e papéis, bem como sistemas com pouco clara separação entre funções administrativas e regulares. ( ) Falha explorada quando uma API está buscando um recurso remoto sem validar o URI fornecido pelo usuário, resultando em uma falsificação de solicitação permitindo que um invasor force a aplicação a enviar uma solicitação criada para um destino inesperado, mesmo quando protegido por um firewall ou VPN. ( ) Implementações incorretas podem comprometem a capacidade de um sistema de identificar o cliente/usuário, permitindo que os invasores comprometam os tokens de autenticação ou explorem falhas de implementação para assumir as identidades de outros usuários temporária ou permanentemente. ( ) Acessos não autorizados podem ser prevenidos ao focar a segurança na importância de rastrear e gerenciar as superfícies de ataque da organização, em especial realizando o manejo adequado de hosts e manutenção do versionamento atualizado de API implantadas. Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "3 – 4 – 2 – 1.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "As tecnologias de contêiner têm sido amplamente empregadas em ambientes de nuvem, em especial para implantação de microsserviços em diferentes plataformas. Com relação às tecnologias de contêiner, assinale V para a afirmativa verdadeira e F para a falsa. ( ) O Docker é uma tecnologia de tempo de execução de contêineres que empacota o software em unidades dinâmicas e flexíveis. ( ) Kubernetes é uma ferramenta de orquestração de contêineres para executar aplicações de nível de produção, sendo exclusiva para operação em grande escala por datacenters de nuvem. ( ) O Docker pode executar e escalar um ou vários contêineres ao mesmo tempo, sendo a ferramenta mais adequada para gerenciando de um cluster de instâncias de computação realizando a programação da execução de contêineres no cluster com base nos recursos computacionais disponíveis e nos requisitos de recursos de cada contêiner. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "A linguagem python tem sido empregada para automatização de processos, como por exemplo, fechar a conexão de um banco ao tratar um erro. No tratamento de exceções, a seguinte cláusula (ou bloco) garante a execução independentemente de uma exceção ter ocorrido ou não no código anterior:",
       "alternatives": {
         "A": "except",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "O ransomware é um malware (programa malicioso) de extorsão – do estilo cavalo de troia – capaz de bloquear seu computador/banco de dados e, depois, exigir resgate para desbloqueá-lo. Este tipo de ataque foi o ataque que mais cresceu nos últimos anos. Alguns dos mais utilizados são: Crypto ransomware, Locker ransomware, Bad Rabbit, B0r0nt0k, CryptoWall, Doxware e Medusa. Entre as estratégias de gestão de segurança da informação, após identificação de artefatos maliciosos hospedados em endereços de redes no Brasil, deve ser encaminhada notificação com o seguinte regramento:",
       "alternatives": {
         "A": "mensagem para ‘SEC.MIL.BR’, devendo ser realizado descritivo da ação do artefato malicioso para o qual se pede a remoção, com os registros de log anexos",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Contas de redes sociais são valiosas para atacantes, que tentam invadi-las e usá-las para espalhar malware e aplicar golpes na rede de contatos. Uma estratégia que vem sendo aplicada por grandes corporações é a verificação em duas etapas. São exemplos de softwares e dispositivos para autenticação com segundo fator: Authy, Google Authenticator e Yubikey. Com relação à demanda de cuidados no uso da tecnologia de verificação em duas etapas, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Os dados usados na verificação da identidade devem ser atualizados frequentemente, em especial o número principal do telefone celular para recebimento de códigos de verificação e os cadastros alternativos, como e-mails e números de telefone adicionais. ( ) Em caso de extravio de dispositivo cadastrado como confiável é contraindicada a imediata exclusão do equipamento nos serviços em que estiver configurado, devendo ser reportado a perda dos mecanismos de autenticação ao portal administrador do sistema, aguardando a apuração para efetivar a exclusão do equipamento nos serviços. ( ) Em caso de perda da chave de segurança física ela deve ser revogada e o serviço onde ela é usada deve ser notificado imediatamente, e em caso de perda ou desconfiança de acesso não autorizado, devem ser gerados novamente os códigos de backup. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "A Visão Computacional (CV) é um subdomínio da inteligência artificial (IA) que treina o sistema para identificar e interpretar o mundo visual. CV envolve várias tarefas importantes, como modelagem de cena tridimensional, geometria de câmera multimodelo, correspondência estéreo baseada em movimento, processamento de nuvem de pontos, estimativa de movimento e muito mais. Avalie se as três etapas básicas envolvidas nesse processo são as seguintes: I. Aquisição da imagem. II. Processamento da imagem. III. Segmentação da imagem. Está correto o que se apresenta em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Identificar o tipo de dados ausentes é crucial para se encontrar soluções que os resolvam. Avalie se os dados ausentes são categorizados como I. MCAR. Valores ausentes completamente aleatórios. II. Valores ausentes aleatórios. III. MICE. Valores ausentes usando imputação múltipla usando equações encadeadas. Está correto o que se apresenta em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Avalie se a ingestão de dados é um processo que consiste em: I. Extrair dados de uma fonte e carregá-los no destino, sem qualquer transformação. II. Extrair dados de uma fonte, transformá-los de acordo com as necessidades do sistema e carregá-los no destino. III. Transformar dados de uma fonte de acordo com as necessidades do sistema e carregá-los no destino. Está correto apenas o que se apresenta em",
       "alternatives": {
         "A": "II e III.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Algumas das características da linguagem de programação orientada a objetos são as listadas a seguir, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Os programas são decompostos em objetos.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Independente do modelo utilizado, um sistema de software passa por cinco fases, que constituem o ciclo de vida de desenvolvimento de software. As opções a seguir se referem corretamente acerca dessas fases, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Investigação e análise: requerimentos iniciais do sistema; especificação dos requerimentos necessários.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Avalie o fragmento de texto a seguir e, em seguida, assinale com (V) para a técnica verdadeira e (F) para a falsa. O Web Design Responsivo é uma técnica de web design que permite que um site se adapte e seja exibido adequadamente em diferentes dispositivos, como smartphones, tablets e desktops. A criação de um layout que possa ajustar e otimizar sua apresentação em uma variedade de telas envolve o uso de técnicas como ( ) layout de grade rígido; Imagens e mídias flexíveis; Consultas a bancos de dados. ( ) layout de grade flexível; Imagens e mídias flexíveis; Consultas midiáticas. ( ) layout de grade rígido; Imagens e mídias rígidas; Consultas midiáticas. As técnicas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Associe as atividades da gestão da mudança organizacional listadas a seguir a aspectos que elas ajudam a obter. I. Criação de um senso de urgência. II. Comunicação. III. Gestão de patrocinadores. IV. Empoderamento. ( ) Objetivos claros e relevantes. ( ) Boa vontade dos participantes. ( ) Liderança forte e comprometida. ( ) Participantes preparados. A associação correta, na ordem apresentada, é",
       "alternatives": {
         "A": "2 – 3 – 4 – 1.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Avalie o fragmento de texto a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa. H.323 é uma especificação abrangente que se refere a muitos outros documentos da União Internacional de Telecomunicações (ITU). Este protocolo descreve a arquitetura completa e a operação de um sistema de videoconferência em uma rede de pacotes. A estrutura do H.323 inclui a especificação de I. terminais de videoconferência. II. gateways entre uma rede H.323 e outras redes de voz e vídeo. III. unidades de controle multiponto, que são usadas para conferências multiponto e incluem uma unidade de controle chamada controlador de um ponto e uma ou mais unidades de mixagem de mídia chamadas processadores multiponto. Está correto apenas o que se apresenta em",
       "alternatives": {
         "A": "I e III.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "O risco de segurança da informação abrange os possíveis eventos ou circunstâncias que podem levar a perturbações dentro de uma organização, prejudicar a sua reputação ou resultar em perdas financeiras devido a falhas nos sistemas de informação. Avalie se, para evitar esses eventos, as seguintes ações podem ser executadas: I. Identificar riscos potenciais e avaliar a sua gravidade e probabilidade de ocorrência. II. Priorizar os riscos identificados e desenvolver estratégias para aceitá-los, transferi-los, mitigá-los ou evitá-los. III. A organização deve verificar os esforços de gestão de riscos ao finalizar o evento. Está correto o que se propõe em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "A política de resposta a incidentes descreve as ações necessárias relacionadas à comunicação, resposta e tratamento de incidentes de segurança da informação. Avalie se as afirmativas a seguir, destinadas a se obter uma política eficaz de resposta a incidentes, estão corretas. I. É um conjunto de procedimentos e processos que a empresa estabelece para detectar e responder a vulnerabilidades de segurança e incidentes. II. O objetivo principal é minimizar o impacto do incidente, conter a ameaça e restabelecer as operações normais tão rápido quanto possível. III. Estabelece uma abordagem estruturada e sistemática para lidar com incidentes de segurança. IV. Um plano de resposta bem documentado e testado é essencial. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",

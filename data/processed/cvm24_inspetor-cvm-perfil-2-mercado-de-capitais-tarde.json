@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Comissão de Valores Mobiliários - CVM",
   "cargo_title": "Inspetor CVM - Perfil 2 - Mercado de Capitais - Tarde",
   "exam_type": "Tipo 1",
-  "total_questions": 69,
+  "total_questions": 70,
   "questions": [
     {
       "question_number": 1,
@@ -338,7 +338,7 @@
         "B": "II, apenas;",
         "C": "I e III, apenas;",
         "D": "II e III, apenas;",
-        "E": "I, II e III. Economia e Finanças"
+        "E": "I, II e III."
       },
       "answer": "A",
       "annulled": false,
@@ -491,7 +491,7 @@
         "B": "relevar as questões de ESG no processo de decisão de investimento e focar apenas nos fundamentos financeiros das empresas, pois os riscos de reputação e os potenciais impactos negativos no valor são marginais a longo prazo;",
         "C": "diversificar igualmente o investimento entre as duas empresas, desconsiderando as diferenças significativas em seus históricos ESG, pois a empresa A obteve assurance e não há evidência de greenwashing por parte da empresa B;",
         "D": "investir somente em fundos de índice que replicam o Índice de Sustentabilidade Empresarial (ISE) e o IDVERSA, sem analisar a composição e as práticas específicas dos fundos ou das empresas incluídas, pois todos os fundos ESG são equivalentes em termos de risco e retorno;",
-        "E": "direcionar investimentos exclusivamente para a empresa A,"
+        "E": "direcionar investimentos exclusivamente para a empresa A, considerando seu histórico comprovado de práticas ESG e a conformidade com as normas do ISSB, o que representa uma escolha de menor risco, alinhada aos princípios de sustentabilidade do investidor."
       },
       "answer": "E",
       "annulled": false,
@@ -593,7 +593,7 @@
         "B": "uma estratégia de hedge delta-gama só é aplicável a carteiras que contêm exclusivamente opções de venda (puts), pois as opções de compra (calls) são naturalmente protegidas contra mudanças no preço do ativo subjacente (delta dinâmico);",
         "C": "testes de estresse são considerados redundantes quando o backtesting do VaR mostra resultados consistentemente precisos, pois esse resultado indica que a estratégia de hedge e as medidas de risco são inerentemente robustas sob todas as condições de mercado;",
         "D": "estratégias de hedge que utilizam opções devem ser ajustadas em resposta a mudanças na volatilidade implícita, pois ela afeta diretamente o prêmio das opções e pode sinalizar uma alteração na expectativa de mercado quanto à volatilidade futura do ativo subjacente;",
-        "E": "implementar um hedge delta-gama é menos eficaz do que estratégias de hedge baseadas unicamente no delta, pois, para zerar o gama de uma carteira, aumenta-se desnecessariamente a complexidade da estratégia, sem oferecer benefícios tangíveis em termos de redução de risco, já que o gama é uma variação de segunda ordem. Contabilidade"
+        "E": "implementar um hedge delta-gama é menos eficaz do que estratégias de hedge baseadas unicamente no delta, pois, para zerar o gama de uma carteira, aumenta-se desnecessariamente a complexidade da estratégia, sem oferecer benefícios tangíveis em termos de redução de risco, já que o gama é uma variação de segunda ordem."
       },
       "answer": "D",
       "annulled": false,
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa S.A. não elaborou as demonstrações financeiras referentes aos exercícios sociais em 2022 e 2023 e também não elaborou as demonstrações financeiras trimestrais que serviriam como base ao preenchimento dos formulários ITR de 2022 (2º e 3º) e de 2023 (1º, 2º e 3º). Considerando as informações apresentadas e os preceitos da Lei nº 6.404, o analista da CVM identificou que a elaboração das demonstrações financeiras era de responsabilidade do(a):",
       "alternatives": {
         "A": "conselho de administração;",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Em 31 de março de 2023, uma empresa S.A. decide vender três ativos que fazem parte de diferentes unidades geradoras de caixa para o mesmo adquirente. As informações a seguir foram fornecidas em 31 de março de 2023. Valor Contábil Antes da classificação Remensurado antes da classificação como mantido Ativo Valor justo como mantido para venda para venda A R$ 5.600,00 R$ 5.200,00 R$ 5.000,00 B R$ 8.200,00 R$ 8.000,00 R$ 8.000,00 C R$ 3.500,00 R$ 3.000,00 R$ 2.800,00 Considerando as informações apresentadas, o analista da CVM identificou uma perda por redução ao valor recuperável de ativos da empresa S.A. no total de:",
       "alternatives": {
         "A": "R$ 200,00;",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa S.A. celebra um contrato de um ano no qual o cliente recebe um telefone e um plano de dados por um preço de R$ 350,00 mensais. O telefone pode ser adquirido individualmente pelo preço de R$ 3.000,00 e a empresa oferece um plano de 12 meses sem telefone que inclui o mesmo nível de dados por um preço de R$ 150,00 mensais, fornecendo evidências observáveis desse padrão. Considerando as informações apresentadas, o analista da CVM identificou que a empresa deve alocar:",
       "alternatives": {
         "A": "R$ 4.800,00 para o plano de dados;",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa S.A. constrói uma fábrica de produtos químicos com vida útil de 30 anos. As leis ambientais exigem que a empresa desmonte a planta no final de sua vida útil, e a estimativa a valor presente dessa remoção é de R$ 500 milhões. A instalação e os testes da nova fábrica de produtos químicos da empresa resultam na contaminação do solo da fábrica. A empresa será obrigada a limpar a contaminação causada pela instalação quando a fábrica for desmontada; para essa tarefa a estimativa a valor presente é de R$ 350 milhões. Além disso, haverá danos contínuos ao meio ambiente pelas emissões de poluentes ao longo da vida operacional da fábrica durante a produção dos estoques; a estimativa de recuperação dos danos a valor presente é de R$ 250 milhões. Considerando as informações apresentadas, o analista da CVM identificou que a empresa reconheceu:",
       "alternatives": {
         "A": "uma provisão para custos de desmontagem e a contrapartida no custo do imobilizado fábrica no total de R$ 850 milhões e divulgou em nota explicativa um passivo contingente de R$ 250 milhões;",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Analise as três situações a seguir. 1. Uma empresa S.A. detém uma patente registrada em 1º de janeiro de 2024. Essa patente possui um valor contábil de R$ 288.000 e uma vida útil de 8 anos. Durante 2024, a empresa incorreu em custos de pesquisa de R$ 96.000 e moveu uma ação por violação de patente contra um concorrente. Em 1º de dezembro de 2024, a empresa recebeu a boa notícia de que sua patente era válida e que seu concorrente não poderia utilizá-la. A empresa incorreu em despesas de R$ 85.000 para defender a patente em 2024. 2. Uma empresa S.A. denominada C possui dois recursos principais: um software customizado que desenvolveu internamente e para os quais está registrada uma patente e o know-how do pessoal que opera o software. Os funcionários que o operam são obrigados a avisar com um mês de antecedência sobre sua demissão. 3. Uma empresa S.A. comprou uma patente por R$ 1.500.000 em 1º de janeiro de 2024. A patente está sendo amortizada ao longo de sua vida restante de 10 anos. Em 1º de janeiro de 2026, a empresa determinou que os benefícios econômicos da patente fossem de somente 6 anos a partir da data de aquisição. Considerando as informações apresentadas e os preceitos do CPC 04, o analista da CVM identificou que:",
       "alternatives": {
         "A": "na situação 1, o valor contábil da patente em 31 de dezembro 2024 é de R$ 336.000;",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Os segmentos reportáveis são apresentados de modo consistente com os relatórios internos revisados regularmente pelo principal responsável pela tomada de decisões operacionais de uma companhia S.A., o diretor presidente executivo, para fins de avaliação do desempenho de cada segmento e alocação de recursos para esses segmentos. Dessa forma, as informações por segmento são apresentadas em zonas geográficas, uma vez que os riscos e taxas de retorno são afetados predominantemente pelo fato de a companhia operar em diferentes regiões. Região Receitas Lucros (Prejuízos) A R$ 800.000 R$ 280.000 B R$ 500.000 (R$ 150.000) C R$ 2.300.000 (R$ 1.000.000) D R$ 900.000 (R$ 450.000) E R$ 800.000 R$ 200.000 F R$ 3.800.000 R$ 2.500.000 Considerando as informações apresentadas e os preceitos do CPC 22, o analista da CVM identificou:",
       "alternatives": {
         "A": "dois segmentos divulgáveis;",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa S.A denominada A possui 20% da empresa S.A. denominada B e classificada como coligada. Durante 2024, a empresa A vendeu para a empresa B, por R$ 150 mil, mercadorias que custaram R$ 50 mil. Na data de encerramento das demonstrações contábeis em 2024, esse estoque entre empresas não havia sido vendido pela coligada para terceiros. Durante 2025, a coligada vendeu o estoque para terceiros. Considerando as informações apresentadas e 34% de tributos, a empresa investidora:",
       "alternatives": {
         "A": "reconheceu um lucro de R$ 30.000,00 em 2025;",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa S.A. adquiriu 40% das ações de outra companhia S.A. denominada B. O preço pago foi de R$ 130.000. Os ativos e passivos da empresa B naquela data tinham os seguintes valores contábeis e justos: Valor contábil Valor justo Caixa R$ 10.000 R$ 10.000 Contas a Receber R$ 20.000 R$ 20.000 Estoques R$ 70.000 R$ 90.000 Terrenos R$ 20.000 R$ 40.000 Outros ativos imobilizados R$ 140.000 R$ 220.000 Total do Ativo R$ 260.000 R$ 380.000 Total do Passivo R$ 70.000 R$ 70.000 Patrimônio Líquido R$ 190.000 R$ 310.000 Considerando as informações apresentadas, o analista da CVM identificou que:",
       "alternatives": {
         "A": "haverá amortização do goodwill conforme a vida útil dos outros ativos imobilizados;",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa S.A. possui um grupo de máquinas com valor contábil agregado de R$ 123.000 em 31 de dezembro de 2023. Para a empresa, esse grupo de máquinas constitui uma unidade geradora de caixa. Com base na diminuição da produtividade esperada das máquinas à medida que envelhecem, e nos custos crescentes em que se incorrerá para gerar a produção, construiu- se a seguinte tabela em relação ao grupo de máquinas. Custos, excluindo depreciação Valor presente Ano Receitas dos fluxos de caixa 2024 R$ 75.000,00 R$ 28.000,00 R$ 44.700,00 2025 R$ 80.000,00 R$ 42.000,00 R$ 34.500,00 2026 R$ 65.000,00 R$ 55.000,00 R$ 8.700,00 2027 R$ 20.000,00 R$ 15.000,00 R$ 4.100,00 O justo valor da maquinaria na unidade geradora de caixa é determinado por avaliador externo. Após dedução dos custos estimados de alienação, o justo valor menos custos de venda é calculado em R$ 84.500. Considerando as informações apresentadas e os preceitos do CPC 01, o analista da CVM identificou uma perda por redução ao valor recuperável de:",
       "alternatives": {
         "A": "R$ 8.000,00;",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa S.A. patrocina um plano de pensão de benefício definido. O atuário da empresa fornece as seguintes informações sobre o plano: 01/01/24 31/12/24 Obrigação de benefício adquirido R$ 1.500,00 R$ 1.900,00 (vested) Obrigação de benefícios acumulados R$ 1.900,00 R$ 2.730,00 Obrigação de benefício definido R$ 2.500,00 R$ 3.300,00 Ativos do plano (valor justo) R$ 1.700,00 R$ 2.620,00 Contribuições (em 2024) R$ 700,00 O saldo do valor líquido do ativo/passivo do plano de pensão em 1º de janeiro de 2024 era de R$ 800,00. O custo do serviço foi de R$ 400,00 e os benefícios pagos de R$ 200,00, ambos em 2024. Os benefícios adquiridos são aqueles que o empregado tem direito a receber mesmo que não preste serviços adicionais no âmbito do plano. A empresa calcula a obrigação de pensão de benefícios adquiridos usando os níveis salariais atuais; essa obrigação inclui apenas benefícios adquiridos. A taxa de desconto (juros) é de 10%. Considerando as informações apresentadas, o analista da CVM calculou o retorno real dos ativos do plano no valor de:",
       "alternatives": {
         "A": "R$ 350,00;",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa S.A. assinou um contrato de arrendamento de um armazém. A vida útil do ativo é de 5 anos e seu valor justo é de R$ 20.000. O contrato estipula as seguintes regras: (i) os pagamentos de aluguel de R$ 4.638, totalizando R$ 23.190 (valor presente de R$ 20.000), deverão ser feitos no início de cada ano do arrendamento de 5 anos e nenhum valor residual é esperado no final do arrendamento; (ii) a empresa S.A. deverá reembolsar anualmente o arrendador por quaisquer impostos imobiliários incorridos no ano (no ano anterior, o custo dos impostos imobiliários foi de R$ 700, embora esses custos variem de ano para ano); (iii) a empresa S.A. deverá efetuar um pagamento de R$ 500, totalizando R$ 2.500 (valor presente de R$ 2.156), junto com o pagamento do aluguel a cada período, para cobrir o seguro que a arrendadora possui do armazém. A empresa S.A. pagou honorários advocatícios de R$ 1.000 na execução do arrendamento. Considerando as informações apresentadas e os preceitos do CPC 06, o analista da CVM identificou os seguintes lançamentos de reconhecimento inicial do arrendamento (desconsidere os efeitos do passivo circulante e não circulante):",
       "alternatives": {
         "A": "Débito: direito de uso R$ 23.156 Crédito: caixa R$ 1.000 Crédito: passivo de arrendamento R$ 22.156;",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Em 1º de janeiro de 2024, um banco emitiu um empréstimo de 1 milhão de reais para três anos e determinou as seguintes probabilidades em relação a esse empréstimo com base no histórico: 1. a probabilidade de o empréstimo entrar em inadimplência ao longo do prazo de três anos é de 3%, e o valor atual do fluxo de caixa contratual ao longo da vida do empréstimo que não será recuperado, dada a inadimplência, é de R$ 500.000; 2. a probabilidade de o empréstimo entrar em inadimplência nos próximos 12 meses é de 1%, e o valor presente dos fluxos de caixa contratuais devidos nos próximos 12 meses que não serão recuperados, dada a inadimplência, é de R$ 100.000; 3. a probabilidade de o empréstimo entrar em inadimplência nos próximos 12 meses é de 1%, e o valor atual dos fluxos de caixa contratuais ao longo da vida do empréstimo que não serão recuperados, dada a inadimplência, é de R$ 300.000. Considerando-se as informações apresentadas, e os preceitos do CPC 48, o analista da CVM identificou que se o risco de crédito:",
       "alternatives": {
         "A": "aumentar significativamente desde o reconhecimento inicial, o banco reconhecerá as perdas de crédito esperadas conforme a opção 1, mensurada em 3% de R$ 500.000, ou seja, R$ 15.000;",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Em 1º de janeiro de 2024, a empresa S.A. celebra um contrato com um cliente para vender condicionadores de ar por R$ 4.000 cada um. Se o cliente adquirir mais de 1.000 condicionadores de ar em um ano fiscal, o contrato estabelece que o preço será reduzido retroativamente para R$ 3.800 por unidade. Em 31 de março de 2023, a empresa S.A. vende e entrega 80 condicionadores de ar ao cliente. Nesse momento, a empresa estima que é altamente provável que a compra do cliente não venha a exceder o limite de 1.000 unidades exigidas para o desconto por volume no ano fiscal. Consequentemente, a empresa S.A. reconhece um valor de receitas para o primeiro trimestre findo em 31 de março de 2023. No início de junho de 2023, o cliente adquire outra empresa e, no final do segundo trimestre, 30 de junho de 2023, a empresa S.A. vende e entrega 500 aparelhos adicionais ao cliente. Diante do novo fato, a empresa S.A. estima que é altamente provável que as compras do cliente ultrapassarão o limite de 1.000 aparelhos para o ano fiscal. A empresa S.A. reconhece novamente receitas para o trimestre encerrado em 30 de junho de 2023. Considerando as informações apresentadas, a classificação da contraprestação presente no contrato e o montante de receitas reconhecidas em 30 de junho de 2023 são, respectivamente:",
       "alternatives": {
         "A": "variável e a receita de R$ 1.884.000;",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "A empresa ZZZ S.A. concluiu, em 1º de novembro de 2023, a aquisição de 100% das ações da YYY S.A. O preço de aquisição foi de R$ 2 milhões pagos à vista, em recursos financeiros. O patrimônio líquido da YYY S.A. era de R$ 200 mil. A YYY S.A. é a maior rede varejista especializada em produtos frescos, com foco em frutas, legumes e verduras, possuindo uma rede de 60 lojas em 6 estados brasileiros e sendo referência digital do setor no país, com as vendas online representando 30% do total. A ZZZ S.A., através de avaliação de consultores externos, efetuou os estudos para determinação do valor justo dos ativos e passivos para a alocação do preço de compra. O avaliador identificou passivos contingentes (não prováveis que sejam requeridas saídas de recursos para liquidar a obrigação) mensurados a valor justo com confiabilidade no valor de R$ 100.000,00. YYY S.A. Valor Justo (em reais) Contas de ativo Títulos e valores mobiliários 30.000,00 Depósitos judiciais 4.000,00 Imobilizado 350.000,00 Intangível 670.000,00 Ativo de direito de uso 420.000,00 Outros ativos circulantes e não circulantes 400.000,00 Contas de passivo Empréstimos, financiamentos e debêntures 540.000,00 Passivo de arrendamento 460.000,00 Imposto de renda e contribuição social diferido 150.000,00 Outros passivos circulantes e não circulantes 280.000,00 O ágio apurado até 31 de dezembro de 2023, data da operação concluída, foi pago principalmente pela expectativa de rentabilidade futura (goodwill), uma vez que a YYY S.A. oferece alta recorrência de compra, por meio da capilaridade, localização estratégica das lojas e integração digital. Considerando as informações apresentadas, o analista da CVM identificou um ágio de:",
       "alternatives": {
         "A": "R$ 144.000,00;",
@@ -841,14 +841,14 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Uma empresa B é de propriedade das empresas X, Y e Z na proporção de 55%, 40% e 5% dos direitos de voto, respectivamente. A gestão e as operações de B são regidas por um acordo de acionistas que requer o consentimento de X e Y. X detém uma opção de compra sobre as ações de Y, que é exercível pelo valor justo em caso de impasse entre as partes. Se X e Y não chegarem a um acordo, o acordo de acionistas inclui vários mecanismos não vinculativos desenhados para ajudar as partes a chegarem a um acordo. Contudo, se mesmo assim X e Y não chegarem a um acordo, então X poderá exercer a sua opção de compra para adquirir as ações de B detidas por Y. Não existem barreiras que impeçam X de exercer a opção. Considerando as informações apresentadas e os preceitos do CPC 36, o analista da CVM identificou que:",
       "alternatives": {
         "A": "se a empresa X avaliar a opção de compra das ações de Y, opção essa que pode ser exercida em caso de impasse, ela será considerada substantiva;",
         "B": "se a empresa B decidir vender as participações em X ou Y, deverá classificar como mantido para venda o grupo de ativos destinado a ser baixado;",
         "C": "se as empresas X e Y transacionarem, haverá necessidade de divulgações sobre partes relacionadas para a entidade que reporta X;",
         "D": "se a empresa B for um fundo de investimento em participações qualificado como entidade de investimento, as participações em X e Y deverão ser avaliadas pelo método de equivalência patrimonial;",
-        "E": "se a empresa B for um fundo de investimentos imobiliário, os ganhos resultantes da avaliação econômica dos ativos do fundo devem ser reconhecidos em outros resultados abrangentes. Auditoria"
+        "E": "se a empresa B for um fundo de investimentos imobiliário, os ganhos resultantes da avaliação econômica dos ativos do fundo devem ser reconhecidos em outros resultados abrangentes."
       },
       "answer": "A",
       "annulled": false,
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "No tocante aos procedimentos e evidências de auditoria, é correto afirmar que:",
       "alternatives": {
         "A": "procedimento substantivo é o procedimento de auditoria planejado para avaliar a efetividade operacional dos controles internos;",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Suponha que um auditor independente tenha sido responsável pela realização das auditorias de demonstrações financeiras de uma entidade nos últimos três exercícios. No exercício corrente, esse mesmo auditor foi novamente contratado para realizar a auditoria das demonstrações financeiras. Nesse contexto, o auditor percorreu os controles internos atinentes aos riscos de auditoria relativos ao reconhecimento de receitas de vendas e custos das mercadorias vendidas e obteve evidências de que determinados controles-chave recentemente modificados não estão operando de forma eficaz. Diante disso, optou por adotar uma abordagem de auditoria fundamentalmente substantiva. Nesse sentido, o auditor realizou a solicitação de confirmações externas de clientes selecionados e acompanhou o inventário físico de estoques de mercadorias em data próxima à data das demonstrações financeiras sob auditoria. Dentro desse contexto, é correto afirmar que:",
       "alternatives": {
         "A": "a realização de testes alternativos, quando a estratégia de confirmação junto a clientes não teve sucesso por falta de resposta, não é admitida pelas normas;",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Na realização de procedimentos analíticos substantivos na auditoria de afirmações relativas às transações de vendas e saldos de contas a receber de uma entidade, uma atividade típica é o(a):",
       "alternatives": {
         "A": "seleção de uma amostra de vendas realizadas no período sob auditoria para cotejo com documentação suporte;",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Suponha que um auditor tenha concluído que o uso da base contábil de continuidade operacional nas demonstrações financeiras é apropriado, mas também que existia incerteza relevante sobre a capacidade de continuidade operacional da entidade, tendo essa incerteza relevante sido adequadamente divulgada nas demonstrações financeiras. Nesse caso, o relatório do auditor independente deve:",
       "alternatives": {
         "A": "expressar uma opinião adversa;",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Considere os testes de auditoria a seguir. I. Observar a contagem física de estoques feita pela entidade que reporta e fazer testes de contagem para uma amostra de itens do estoque. II. Obter confirmações externas junto a credores da entidade com o objetivo de assegurar que todos os passivos que deviam ter sido registrados foram registrados III. Fazer teste substantivo das receitas no final do ano por meio de documentos que suportam as vendas realizadas antes e depois da data de encerramento das demonstrações financeiras para verificar a adequada contabilização no período de competência. IV. Recalcular o custo dos estoques para uma amostra de itens, cotejando com a documentação suporte de compras realizadas. V. Examinar se as notas explicativas contêm todas as informações relevantes que são requeridas pelas normas de contabilidade. As afirmações tratadas por cada um desses testes de auditoria são, respectivamente:",
       "alternatives": {
         "A": "Existência; Integridade; Corte; Valorização; Apresentação;",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Tendo em vista o objetivo do uso da amostragem em auditoria, que é o de proporcionar uma base razoável para o auditor chegar a uma conclusão quanto à população da qual a amostra é selecionada, analise os fatores a seguir. I. Incremento na distorção tolerável. II. Incremento no nível de segurança desejado pelo auditor de que uma distorção tolerável não é excedida pela distorção real na população. III. Incremento no risco de distorção relevante. IV. Maior uso de outros procedimentos de auditoria direcionados à mesma afirmação. Os efeitos de cada um desses quatro fatores, no tamanho da amostra selecionada para a realização de um teste substantivo direcionado a uma afirmação das demonstrações financeiras, são, respectivamente:",
       "alternatives": {
         "A": "aumento; aumento; aumento; diminuição;",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Com relação aos requerimentos de revisão interna, por parte das firmas de auditoria, da qualidade dos trabalhos, é correto afirmar que:",
       "alternatives": {
         "A": "o revisor de qualidade do trabalho pode ser membro da equipe de trabalho;",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "No tocante ao mecanismo de revisão externa de qualidade estipulado pelas normas brasileiras de contabilidade, é correto afirmar que:",
       "alternatives": {
         "A": "trata-se de mecanismo também conhecido como “revisão pelos pares”, em que dois auditores independentes (firmas ou pessoas físicas) revisam-se reciprocamente;",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Analise as situações a seguir. I. A entidade que reporta atua em um setor altamente volátil. II. O sistema de senhas do sistema informatizado da contabilidade é ineficaz porque todos conhecem a senha uns dos outros dentro da empresa auditada. III. Vendas de alto valor na entidade que reporta podem ser feitas a novos clientes sem a determinação de um limite de crédito, ou a clientes existentes em montantes acima de seus limites de crédito. IV. A amostra escolhida pelo auditor para testar um saldo contábil não é representativa da população. Os tipos de risco de auditoria a que se refere cada uma das quatro situações são, respectivamente:",
       "alternatives": {
         "A": "risco de detecção; risco de controle; risco inerente; risco de controle;",
@@ -1011,14 +1011,14 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Contabilidade",
       "statement": "Segundo as normas brasileiras de contabilidade aplicáveis aos trabalhos de asseguração, considera-se um risco de auditoria:",
       "alternatives": {
         "A": "o risco de que os procedimentos de auditoria não consigam detectar uma fraude significativa;",
         "B": "o risco de que o auditor expresse uma opinião de auditoria inadequada quando as demonstrações financeiras contiverem distorção relevante;",
         "C": "o risco derivado do eventual não cumprimento das leis e regulamentos aplicáveis à atividade da entidade que reporta;",
         "D": "o risco de que o auditor venha a ser influenciado pela administração de sorte a enviesar seu julgamento;",
-        "E": "o risco de ineficácia dos controles internos da entidade que reporta. Estatística Para a resolução das questões 61 a 70, pode ser necessário utilizar alguns dos resultados a seguir.  Probabilidades aproximadas da Normal padrão (Z ~ N(0,1): P(Z>0.25) = 0.40 P(Z>0.5) = 0.31 P(Z>0.8) = 0.21 P(Z>1) = 0.16 P(Z>1.2) = 0.12 P(Z>1.28) = 0.1, P(Z>1.5) = 0.07 P(Z>1.64) = 0.05 P(Z>1,96) = 0.025 P(Z>2) = 0.02 P(Z>2,33) = 0,01 P(Z>2.5) = 0.06; Pr(Z>2,575) = 0,005 P(Z>3) = 0.013  Valores aproximados da função exponencial: exp(-1/40) = 0.97 exp(-1) = 0,368 exp(-2) = 0,135 exp(-4) = 0,018  Valores aproximados da função logaritmo natural: ln(2) = 0,7 ln(3) = 1,1 ln(4) = 1,4. Também podem ser úteis os trechos de tabelas das distribuições a seguir.  Distribuição t de Student: Área de extremidade superior 10% 5% 2,5% 1% 0,5% 15 1,341 1,753 2.131 2,602 2,947 16 1,337 1,746 2,120 2,583 2,921 17 1,333 1,740 2,110 2,567 2,898 18 1,330 1,734 2,101 2,552 2,878 19 1,328 1,729 2,093 2,539 2,861 20 1,325 1,725 2,086 2,528 2,845  Distribuição qui-quadrado: Graus de Liberdade Área de extremidade superior 2,5% 2% 1% 0,2% 0,1% 6 14,449 15,033 16,812 20,791 22,457 7 16,013 16,622 18,472 22,601 24,322 8 17,534 18,168 20,090 24,352 26,125 9 19,023 19,679 21,666 26,056 27,877 10 20,483 21,161 23,209 27,722 29,588  Distribuição qui-quadrado: Graus de Liberdade Área de extremidade superior 99% 98% 97,5% 95% 90% 8 1,646 2,032 2,180 2,733 3,490 9 2,088 2.532 2,700 3,325 4,168 10 2,558 3,059 3,247 3,940 4,865 11 3,053 3,609 3,816 4,575 5,578 12 3,571 4,178 4,404 5,226 6,304 Graus de Liberdade"
+        "E": "o risco de ineficácia dos controles internos da entidade que reporta."
       },
       "answer": "B",
       "annulled": false,
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "Suponha que sejam usados indicadores para avaliar a possibilidade de inadimplência de títulos emitidos no mercado, e seja X um desses indicadores. Se X assume um valor inferior a 4, a probabilidade de que o emissor do título venha a se tornar inadimplente é 0,6. Por outro lado, se X estiver acima de 7, a probabilidade de inadimplência é de apenas 0,2. Finalmente, se o indicador estiver situado entre 4 e 7 (incluindo os extremos), o título emitido possui probabilidade de inadimplência de 0,4. Sabe-se ainda que, quando se considera o universo de todos os títulos emitidos no mercado, os valores de X seguem distribuição Normal com média 6 e variância 4. Um título emitido nesse mercado é selecionado ao acaso. A probabilidade de que seu emissor venha a se tornar inadimplente é:",
       "alternatives": {
         "A": "0,35;",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "Um aluno presta um exame de seleção no qual será submetido a 48 questões de múltipla escolha, cada uma com 4 alternativas, sendo apenas uma delas correta. O aluno é aprovado se acertar ao menos 19 questões. Porém, como esse aluno não domina o conteúdo, ele adota a estratégia de “chutar” todas as respostas, ou seja, sempre escolher, de forma totalmente aleatória, uma das 4 alternativas. A melhor aproximação para a probabilidade de que ele seja aprovado, condicional à informação de que ele acerte pelo menos 10 questões utilizando essa estratégia, é: (considere P(X ≥ k) = 1 – P(X ≤ k −1) antes de aplicar a aproximação e despreze o efeito da correção de continuidade)",
       "alternatives": {
         "A": "1/50;",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "Uma corretora decide inspecionar os procedimentos de seus escritórios por amostragem. Para isso, ela conduz uma amostragem de conglomerados simples e, em seguida, avalia todos os escritórios dentro de cada conglomerado selecionado. Esse procedimento, em relação à amostragem aleatória simples de todas as corretoras, costuma ter como principal(is) vantagem(ns):",
       "alternatives": {
         "A": "o ganho de eficiência estatística, mantendo-se o tamanho da amostra, embora operacionalmente seja mais complexo;",
@@ -1078,8 +1078,25 @@
       "page_number": 20
     },
     {
+      "question_number": 64,
+      "discipline": "Estatística",
+      "statement": "Os tempos Xi de solicitação de resgate de um fundo, por parte dos investidores, seguem distribuição de probabilidade lognormal com parâmetros  e 2. Com base em uma amostra aleatória de tamanho n, e considerando “ln” a função logaritmo natural, o estimador consistente para , sugerido pela Lei dos Grandes Números, é:",
+      "alternatives": {
+        "A": "∏ ln (Xi) n n i=1 ; ln ∑ Xi n i=1 n ;",
+        "B": "∑ Xi n i=1",
+        "C": "ln n ; ln( ∏ Xi n i=1 ) n ;",
+        "D": "∏ ln(Xi n i=1 ) n . (E)",
+        "E": null
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 21
+    },
+    {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "O número de denúncias a um órgão em um certo período segue distribuição de Poisson, cujo parâmetro é desconhecido. Nas últimas 5 horas, chegaram ao órgão as seguintes quantidades de reclamações/hora: 3, 2, 1, 1 e 3. Com base nesses dados, e considerando-os como observações de uma amostra aleatória simples, a estimativa de máxima verossimilhança para a probabilidade de que, nas próximas 2 horas, cheguem à agência ao menos 2 denúncias é:",
       "alternatives": {
         "A": "0,10;",
@@ -1096,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "Um investidor quer construir um intervalo de confiança para a variância dos retornos de um ativo, com base em uma amostra aleatória de 11 dias. A variância amostral dos retornos no período foi 19,7. Supondo que os retornos sigam distribuição normal, o limite superior do intervalo de 90% para a variância (considerando probabilidades iguais em cada cauda) é:",
       "alternatives": {
         "A": "35;",
@@ -1113,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "Queremos testar se a média anual de fraudes no mercado de capitais é superior a 4, com base nos registros do número de fraudes por ano ao longo dos últimos 16 anos, considerados como observações de uma amostra aleatória simples de uma população Normal. A variância dessa população é conhecida e é igual a 25. Considerando que a média na população seja igual a 4.1, a probabilidade de que se cometa o Erro Tipo II nesse teste, ou seja, de que não se encontre evidência estatística de que a média é maior do que 4, é, aproximadamente:",
       "alternatives": {
         "A": "0,12;",
@@ -1130,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "Um analista investiga, mediante um modelo de regressão linear, a relação entre a rentabilidade y de ofertas públicas disponíveis no mercado e um indicador de risco associado ao emissor, representado pela variável explicativa x. Foi utilizada uma amostra de 20 pares de observações mensais. Considerando que o termo de erro siga distribuição Normal, o modelo estimado está apresentado a seguir (os erros padrão estão entre parênteses). y = 0,528 (0,264) + 0,63 (0,300)𝑥 Quando se avalia a significância da estimativa do impacto de x sobre 𝑦, o p-valor associado ao teste de hipóteses bilateral correspondente está:",
       "alternatives": {
         "A": "abaixo de 0,01;",
@@ -1147,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "Seja o modelo de séries temporais MA(2): Yt = t – kt-1 + 0,5t-2, em que E(t) = 0, V(t) = 2 e corr(t, t-s) = 0, para s = 1, 2, ... . O coeficiente k assume um valor que não é fornecido. Sabemos, porém, que a função de autocovariância teórica desse modelo, avaliada no lag (defasagem) 1, assume um valor negativo igual a - 0,75. Assim, o valor de k é:",
       "alternatives": {
         "A": "0,15;",
@@ -1164,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Estatística",
       "statement": "Um assessor de investimentos tenta prever a rentabilidade mensal futura y de um ativo. Ele considera que y (em %) siga um modelo AR(1): yt = 0 + 1yt-1 + t, em que E(t) = 0 e corr(t, t-s) = 0, para s = 1, 2, ... . A estimativa obtida para 0 foi 8. A rentabilidade prevista pelo modelo, no longuíssimo prazo, é:",
       "alternatives": {
         "A": "4%, se a estimativa de 1 foi igual a -1;",

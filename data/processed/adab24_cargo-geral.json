@@ -2,7 +2,7 @@
   "concurso_slug": "adab24",
   "cargo_slug": "cargo-geral",
   "concurso_title": "Concurso Público para a Agência Estadual de Defesa Agropecuária da Bahia - ADAB",
-  "cargo_title": "Cargo Geral",
+  "cargo_title": "AGÊNCIA DE DEFESA - AGROPECUÁRIA DA BAHIA",
   "exam_type": "Tipo 1",
   "total_questions": 100,
   "questions": [
@@ -134,7 +134,7 @@
         "B": "Nenhum homem chegou a ser grande senão impelido por divina inspiração.",
         "C": "Quando o apocalipse vier, Senhor, que eu tenha, pelo menos, escovado os dentes.",
         "D": "Um devoto é aquele que, sob um rei ateu, seria ateu.",
-        "E": "Não acredito em astrologia. Acho horóscopo uma tremenda bobagem e todos nós de Libra sentimos o mesmo. Raciocínio Lógico Matemático"
+        "E": "Não acredito em astrologia. Acho horóscopo uma tremenda bobagem e todos nós de Libra sentimos o mesmo."
       },
       "answer": "E",
       "annulled": false,
@@ -144,7 +144,7 @@
     },
     {
       "question_number": 9,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "A seguir, são apresentados os 14 primeiros termos de uma sequência infinita de números inteiros positivos, construída de acordo com um padrão lógico. 4 5 5 6 6 7 7 8 8 9 9 10 10 11 ... Se esse padrão é mantido ao longo de toda a sequência, o 91º termo vale",
       "alternatives": {
         "A": "47.",
@@ -161,7 +161,7 @@
     },
     {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Considere verdadeira a seguinte proposição: “Todo matemático brasileiro conhece fractais” Por consequência lógica, se Richard",
       "alternatives": {
         "A": "é brasileiro mas não é matemático, então não conhece fractais.",
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Um cubo tem 4 de suas faces pintadas de branco e as demais pintadas de preto. Esse cubo será lançado 2 vezes seguidas e, em cada uma das ocasiões, será registrada a cor da face voltada para cima. Considerando-se que todas as faces do cubo têm igual chance de ficar para cima após um lançamento, a probabilidade de que se obtenha, ao menos uma vez, uma face preta como resultado é igual a",
       "alternatives": {
         "A": "4/9.",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Agnaldo faz aniversário 2 dias antes de Berenice e 3 dias depois de Cilene. Diógenes faz aniversário 3 dias antes de Eliodoro e 1 dia depois de Cilene. Se o aniversário de Diógenes é 16 de agosto, pode-se afirmar que",
       "alternatives": {
         "A": "em 19 de agosto, Agnaldo faz aniversário.",
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em uma lanchonete, Anaxágoras consumiu um suco e um salgado. Ele pagou com uma nota de R$ 20,00 e recebeu R$ 7,20 de troco. Se tivesse comido um salgado a mais, teria recebido R$ 2,30 de troco. Pode-se afirmar que o suco custou",
       "alternatives": {
         "A": "R$ 4,90.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Certa quantia Q foi repartida de modo que Parmênides ficou com 40% de Q e a Heráclito coube o restante. Dessa forma, Heráclito recebeu R$ 1.600,00 a mais do que Parmênides. O valor de Q",
       "alternatives": {
         "A": "é maior que R$ 7.950,00.",
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Seja P (3,4) um ponto no plano cartesiano. De todos os pontos pertencentes ao eixo das abscissas (eixo X), aquele que possui a menor distância para P é",
       "alternatives": {
         "A": "(0,4).",
@@ -263,14 +263,14 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em uma pesquisa realizada sobre o consumo regular de alimentos, foi constatado que: - 5% dos entrevistados não consomem regularmente nem legumes e nem verduras; - 60% dos entrevistados consomem regularmente legumes; - 47% dos entrevistados consomem regularmente verduras. A porcentagem de entrevistados que consomem regularmente tanto legumes quanto verduras é",
       "alternatives": {
         "A": "11%.",
         "B": "12%.",
         "C": "13%.",
         "D": "14%.",
-        "E": "15%. Conhecimentos de Informática"
+        "E": "15%."
       },
       "answer": "B",
       "annulled": false,
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Conhecimentos de Informática",
       "statement": "O menu de opções de desligamento do sistema operacional Microsoft Windows 10, em sua versão em português, apresenta várias alternativas possíveis. O tipo de desligamento que salva o estado atual do seu computador (incluindo todos os seus programas abertos e trabalho não salvo) em um arquivo temporário no disco rígido e, em seguida, desliga o computador é chamado de",
       "alternatives": {
         "A": "hibernação.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Conhecimentos de Informática",
       "statement": "No Windows 10 em português, para verificar a utilização de rede por cada processo na rede principal atual, podemos usar o programa utilitário",
       "alternatives": {
         "A": "Disk Manager.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Conhecimentos de Informática",
       "statement": "Considere duas pastas na área de trabalho de um computador instalado com Windows10 em português, denominadas PASTA1 e PASTA2, e a realização da seguinte sequência de comandos: 1. Abrir a PASTA1 2. Selecionar um arquivo nesta pasta denominado DADOS.txt 3. Executar um Ctrl-X 4. Abrir a PASTA2 5. Executar um Ctrl-V Após esta sequência de comandos o arquivo DADOS.txt será",
       "alternatives": {
         "A": "apontado por um atalho criado na PASTA1.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Conhecimentos de Informática",
       "statement": "Considere o trecho de planilha abaixo, gerada no Microsoft Excel 365, em sua versão em português: Ao se copiar o conteúdo da célula A7 para B7, usando a sequência de comandos de selecionar A7, teclar Ctrl-C, selecionar B7 e teclar ENTER, o valor mostrado em B7 será",
       "alternatives": {
         "A": "0",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Conhecimentos de Informática",
       "statement": "No navegador Google Chrome, para que um usuário possa navegar com mais privacidade, impedindo que outros usuários do computador tenham acesso à sua atividade e ao seu histórico de navegação, ele deve acionar",
       "alternatives": {
         "A": "o preenchimento automático de senhas.",
@@ -365,14 +365,14 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Conhecimentos de Informática",
       "statement": "O navegador Google Chrome permite diversas opções de configuração para adaptar e customizar seu funcionamento para cada usuário. Considere as possíveis opções de configuração listadas a seguir: I. Remover dados de navegação; II. Bloquear o envio de pop-ups ou o uso de redirecionamentos; III. Alterar o tamanho da fonte É opção presente no Google Chrome o que se apresenta em",
       "alternatives": {
         "A": "I e II, apenas.",
         "B": "II e III, apenas.",
         "C": "I e III, apenas.",
         "D": "I, apenas.",
-        "E": "I, II e III. Noções de Direito Administrativo"
+        "E": "I, II e III."
       },
       "answer": "E",
       "annulled": false,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Noções de Direito Administrativo",
       "statement": "João reside em um imóvel ao lado do aeroporto XYZ, gerido pela União Federal. Como regra geral, para chegar ao seu domicílio, ele deve contornar o aeroporto que dispõe de diversas cercas ao seu redor, para impedir o ingresso de pessoas não autorizadas, por questões de segurança. Um dia, João, caminhando em direção à sua casa, percebeu que uma das cercas estava furada por ausência de manutenção. Em assim sendo, ingressou no aeroporto, mesmo visualizando uma placa no sentido de ser proibido o trânsito de particulares no local. Na sequência, João foi atingido por um caminhão tanque, sofrendo graves danos físicos. Nesse cenário, considerando o entendimento doutrinário e jurisprudencial dominantes, é correto afirmar que",
       "alternatives": {
         "A": "existe responsabilidade civil da União Federal, sendo certo que a indenização será integral, em razão da ausência de qualquer causa concorrente para o evento danoso.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Noções de Direito Administrativo",
       "statement": "João participou de procedimento licitatório, no âmbito do qual a Administração Pública buscou alienar bens móveis legalmente apreendidos a quem oferecesse o maior lance. Verificou-se, ao final e em observância às formalidades legais, que João foi o vencedor da licitação. Nesse cenário, considerando as disposições da Lei no 14.133/2021, é correto afirmar que se está diante da seguinte modalidade de licitação",
       "alternatives": {
         "A": "diálogo competitivo.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Noções de Direito Administrativo",
       "statement": "Após o recebimento de diversas denúncias anônimas, agentes públicos compareceram à farmácia XYZ e verificaram a comercialização de medicamentos falsificados. Com efeito, os fiscais apreenderam os remédios oferecidos aos consumidores em inobservância aos regramentos legais aplicáveis à espécie, para proteger a saúde das pessoas, de forma a atender o interesse público primário. Nesse cenário, o atendimento do interesse público primário, consubstanciado na proteção da saúde das pessoas, caracteriza o seguinte elemento do ato administrativo de apreensão dos medicamentos falsificados:",
       "alternatives": {
         "A": "Competência.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Noções de Direito Administrativo",
       "statement": "João, agente público, concorreu, culposamente, em razão de conduta negligente praticada em fevereiro de 2024, para a indevida incorporação ao patrimônio de Tício, particular, de bens móveis pertencentes ao Município Alfa, avaliados em dois mil reais. Nesse contexto, o Ministério Público, ingressou com uma Ação de Improbidade Administrativa em face de João, que constituiu um renomado advogado para patrocinar os seus interesses em juízo. Nesse cenário, considerando as disposições da Lei no 8.429/1992, é correto afirmar que",
       "alternatives": {
         "A": "não restou caracterizado ato de improbidade administrativa, em razão da reduzida perda patrimonial suportada pelo Município Alfa.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Noções de Direito Administrativo",
       "statement": "João e Caio, servidores públicos estatutários no âmbito do Poder Executivo do Estado da Bahia, compareceram ao gabinete de Lucas, superior hierárquico em comum e o indagaram sobre a possibilidade de se ausentarem do serviço por motivo de casamento e para fins de alistamento eleitoral. Desta forma, o chefe da repartição pública apresentou resposta em observância à legislação de regência. Nesse cenário, considerando as disposições da Lei Estadual no 6.677/1994 (Estatuto dos Servidores Públicos Civis do Estado da Bahia), é correto afirmar que os servidores poderão se ausentar do serviço por",
       "alternatives": {
         "A": "dois dias, para alistamento eleitoral e por cinco dias consecutivos, por motivo de casamento.",
@@ -467,14 +467,14 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Noções de Direito Administrativo",
       "statement": "A União Federal, o Estado Alfa e o Município Beta contrataram um consórcio público, que ostenta natureza jurídica de direito público, para a realização de objetivos de interesse comum. Nesse contexto, os Chefes do Poder Executivo dos entes federativos envolvidos emitiram uma nota à imprensa, tecendo comentários sobre a associação pública constituída, em especial sobre os benefícios que seriam gerados para a população. Nesse cenário, considerando as disposições da Lei no 11.107/2005, é correto afirmar que o consórcio público criado integra a Administração",
       "alternatives": {
         "A": "Indireta da União Federal, do Estado Alfa e do Município Beta.",
         "B": "Direta da União Federal, do Estado Alfa e do Município Beta.",
         "C": "Indireta da União Federal e do Estado Alfa, apenas.",
         "D": "Indireta da União Federal, apenas.",
-        "E": "Direta da União Federal, apenas. Noções de Direito Constitucional"
+        "E": "Direta da União Federal, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Os crimes de responsabilidade são infrações político- administrativas praticadas por agentes públicos. Acerca do tema, é correto afirmar que",
       "alternatives": {
         "A": "serão definidos pelas Constituições de cada Estado, que estabelecerão as normas de processo e julgamento.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe processar e julgar, originariamente,",
       "alternatives": {
         "A": "a ação direta de inconstitucionalidade de lei ou ato normativo federal, estadual e municipal.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado. Acerca da referida instituição, é correto afirmar que",
       "alternatives": {
         "A": "é autorizado ao Membro do Ministério Público o exercício da Advocacia.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A advocacia foi prevista na Constituição Federal de 1988, para representar os entes políticos, judicial e extrajudicialmente, bem como desempenhar as atividades de consultoria e assessoramento jurídico do Poder Executivo. Diante do exposto, assinale a afirmação correta.",
       "alternatives": {
         "A": "Ao Advogado Público é vedado receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas processuais.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre direito fundamental à nacionalidade, assinale a afirmação correta.",
       "alternatives": {
         "A": "São brasileiros natos os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por dez anos ininterruptos e idoneidade moral.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "De acordo com a Constituição, é livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana. Diante do exposto, assinale a afirmação correta.",
       "alternatives": {
         "A": "É permitido o recebimento de recursos financeiros de entidade ou governo estrangeiros ou de subordinação a estes pelos partidos políticos.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O artigo 3º da Constituição Federal dispõe sobre os objetivos fundamentais da República Federativa do Brasil, neste contexto é correto afirmar que",
       "alternatives": {
         "A": "o Brasil é um país que não se preocupa com o discurso de ódio, uma vez que sempre prevalece a liberdade de expressão.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "De acordo com o artigo 4º da Constituição Federal, a República Federativa do Brasil deve observar alguns princípios nas suas relações internacionais. Nesse sentido, analise os itens a seguir: I. Dependência internacional; II. Prevalência dos direitos humanos; III. Defesa da paz, exceto nas situações de guerra; IV. Repúdio ao racismo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e IV, apenas.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A Bahia é o estado mais negro do Brasil, com 80,8% da população preta ou parda, portanto sua Constituição apresenta o capítulo XXIII: “Do Negro”. Sobre essa normativa, assinale V para a afirmativa verdadeira e F para a falsa. ( ) A sociedade baiana é cultural e historicamente marcada pela presença da comunidade afro-brasileira. ( ) O Estado não poderá manter intercâmbio cultural ou desportivo, através de delegações oficiais, com países que mantiverem política oficial de discriminação racial. ( ) A rede estadual poderá escolher incluir em seus programas disciplina que valorize a participação do negro na formação histórica da sociedade brasileira. As afirmativas são respectivamente",
       "alternatives": {
         "A": "F – V – F.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A Lei nº 7.716, de 5 de janeiro de 1989, denominada Lei Caó em homenagem ao advogado, jornalista e ex-deputado federal Carlos Alberto Oliveira dos Santos, define os crimes resultantes de preconceito de raça ou de cor. Sobre esta temática é correto afirmar que",
       "alternatives": {
         "A": "há previsão de modalidade qualificada de racismo, caso seja cometido no contexto de atividades esportivas, religiosas, artísticas ou culturais destinadas ao público.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Atualmente, há um vasto arcabouço normativo jurídico que pretende fomentar a equidade étnico-racial no Brasil com a instituição de políticas públicas diversas, além da criminalização das condutas racistas. Nesse contexto, marque a afirmativa correta.",
       "alternatives": {
         "A": "A Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Correlatas de Intolerância foi incorporada internamente pelo Brasil com o status de emenda constitucional.",
@@ -671,14 +671,14 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A violência de gênero, conceito amplo, engloba violência doméstica contra a mulher e outras formas de violência e discriminação. Sobre esta temática, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A Lei Maria da Penha não se aplica em favor de mulheres trans, uma vez que o prevalece a discriminação em razão do sexo biológico e não em decorrência do gênero, conforme julgados dos tribunais superiores.",
         "B": "A Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher, de 1979, foi aprovada pelo Brasil sem ressalvas, desde o primeiro decreto promulgado pelo Congresso Nacional no ano de 1983.",
         "C": "A vítima de violência doméstica deverá ser ouvida tantas vezes, quanto for necessário, para comprovação dos fatos, com a realização de sucessivas inquirições sobre o mesmo fato nos âmbitos criminal, cível e administrativo.",
         "D": "As medidas protetivas de urgência serão concedidas independentemente da tipificação penal da violência, do ajuizamento de ação penal ou cível, da existência de inquérito policial ou do registro de boletim de ocorrência.",
-        "E": "O Brasil assumiu o compromisso internacional de que irá garantir que o casamento com um estrangeiro acarretará a mudança automática da nacionalidade da esposa, obrigando a mulher a adotar a nacionalidade do cônjuge. Conhecimentos Específicos Defesa Sanitária e Inspeção Animal"
+        "E": "O Brasil assumiu o compromisso internacional de que irá garantir que o casamento com um estrangeiro acarretará a mudança automática da nacionalidade da esposa, obrigando a mulher a adotar a nacionalidade do cônjuge."
       },
       "answer": "D",
       "annulled": false,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "De acordo com a Lei nº 7.439, de 1999, que dispõe sobre a criação da Agência Estadual de Defesa Agropecuária da Bahia (ADAB), os membros do Conselho Estadual de Defesa Agropecuária são nomeados",
       "alternatives": {
         "A": "pelo Presidente da República.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Quando um produto de origem animal aparenta estar em más condições higiênico sanitárias, uma das medidas cabíveis é a apreensão desse produto, de acordo com a Lei nº 12.215, de 2011. Sobre essa apreensão, é correto afirmar que",
       "alternatives": {
         "A": "as despesas decorrentes da apreensão são custeadas pelo Governo estadual.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O objetivo principal do Programa Nacional de Controle da Raiva dos Herbívoros (PNCRH) é",
       "alternatives": {
         "A": "erradicar a raiva em bovinos e bubalinos.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Se um bovino é vacinado contra a raiva pela primeira vez, ele deve ser revacinado depois de",
       "alternatives": {
         "A": "15 dias.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Em relação ao trânsito de animais aquáticos, e os documentos necessários para o seu transporte, assinale a opção correta.",
       "alternatives": {
         "A": "A Guia de Trânsito Animal (GTA) não deve ser emitida quando a última origem for a pesca ou extrativismo.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Os criadores de abelhas devem estar sempre atentos às suas criações, sabendo identificar quaisquer problemas que as colmeias possam estar enfrentando, e chamando o Serviço Veterinário Oficial quando for necessário. Assinale a doença de abelhas ou infestação de colmeias que é de notificação imediata em qualquer caso suspeito ao Serviço Veterinário Oficial.",
       "alternatives": {
         "A": "Infestação por ácaro Acarapis woodi.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "De acordo com o Regulamento Técnico de Identidade e Qualidade do mel de abelha social sem ferrão, gênero Melipona, é correto afirmar que",
       "alternatives": {
         "A": "nos critérios microbiológicos desse mel, bolores e leveduras devem estar totalmente ausentes.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Assinale a afirmativa verdadeira sobre o selo ARTE.",
       "alternatives": {
         "A": "É um selo conferido aos estabelecimentos que comercializam produtos de origem animal produzidos de forma artesanal.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre os documentos necessários para uma pessoa que está transportando dois cães reprodutores de um estado a outro no Brasil, é correto afirmar que",
       "alternatives": {
         "A": "a GTA é necessária, pois se trata do trânsito interestadual de animais.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Quando um foco de Peste Suína Clássica (PSC) está em processo de extinção, pode ser feita a introdução de suídeos sentinela até a desinterdição do estabelecimento de criação. Sobre o uso de animais sentinela num foco de PSC, assinale a opção verdadeira.",
       "alternatives": {
         "A": "O estabelecimento de criação pode ser desinterditado após um mês caso os suídeos sentinela não aparentem ter nenhuma doença.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre a realização de testes de diagnóstico indireto para a brucelose, assinale aquele que pode ser utilizado como teste único, de acordo com a Instrução Normativa nº 10 de 2017, do MAPA.",
       "alternatives": {
         "A": "Teste de polarização fluorescente.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Assinale o estado do Brasil que faz parte da Zona Livre de Peste Suína Clássica.",
       "alternatives": {
         "A": "Tocantins.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Quando se tem um lote de aves produtoras de ovos controlados para a produção de vacinas inativadas, alguns padrões precisam ser obedecidos, de acordo com a Instrução Normativa nº 56 de 2007, do MAPA. Um desses padrões é que as galinhas devem estar livres do patógeno e dos anticorpos para",
       "alternatives": {
         "A": "doença de Marek.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "De acordo com o Plano Nacional de Prevenção da Influenza Aviária e de Controle e Prevenção da Doença de Newcastle, a realização do controle de produção e utilização de vacinas, por Unidade Federativa, além de sua avaliação e registro, é de responsabilidade",
       "alternatives": {
         "A": "do Departamento de Saúde Animal.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre o ingresso de animais em zonas com diferentes status sanitários para a febre aftosa, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Um animal suscetível à febre aftosa que vai de uma zona livre sem vacinação para uma zona livre com vacinação não pode regressar à zona livre sem vacinação.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O Programa Nacional de Prevenção e Vigilância da Encefalopatia Espongiforme Bovina (PNEEB) é composto por subprogramas com objetivos específicos. Assinale a opção que contém dois exemplos de programas do PNEEB.",
       "alternatives": {
         "A": "Subprograma de contratação de veterinários e subprograma de controle da importação de bovinos.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Assinale a opção que mostra uma doença que requer notificação mensal de qualquer caso confirmado ao Serviço Veterinário Oficial.",
       "alternatives": {
         "A": "Peste suína africana.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre a atuação de médicos veterinários privados no Programa Nacional de Sanidade dos Caprinos e Ovinos (PNSCO), assinale a afirmativa correta.",
       "alternatives": {
         "A": "O médico veterinário responsável pelo estabelecimento certificado é obrigado a participar de reuniões com assuntos pertinentes ao PNSCO em sua região.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A Instrução Normativa nº 17 de 2020, do MAPA, aborda a inspeção e fiscalização de produtos destinados à alimentação animal. De acordo com essa IN, alguns estabelecimentos ficam isentos de registro no sistema eletrônico do MAPA. São estabelecimentos isentos de registro",
       "alternatives": {
         "A": "os produtores de produtos destinados à alimentação animal.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O controle microbiológico em produtos de origem animal tem como objetivo não apenas prevenir que agentes patogênicos cheguem ao consumidor, como também serve para avaliar a higiene do processo. Em carne de bovinos, se faz a coleta de amostras para a análise de uma Escherichia coli específica, de acordo com a IN nº 60, de 2018, do MAPA. O tipo de Escherichia coli visado é a:",
       "alternatives": {
         "A": "Enteropatogênica (EPEC).",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Em abatedouros frigoríficos, a coleta de amostras para pesquisa de Enterobacteriaceae em suínos utiliza, segundo a IN nº 60, de 2018, do MAPA, amostra do tipo",
       "alternatives": {
         "A": "amostra de sangue do animal vivo.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Assinale a opção que contém, respectivamente, uma prova laboratorial de diagnóstico imunológico, e uma de diagnóstico micoplasmológico, para o diagnóstico da micoplasmose, conforme estabelecido pela Instrução Normativa nº 44, de 2001, do MAPA.",
       "alternatives": {
         "A": "Reação em cadeia da polimerase (PCR) e imunofluorescência indireta.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Para o teste do álcool/ alizarol 72% v/v aplicado em amostras de leite, assinale a aparência correta de um resultado considerado bom (leite estável e com acidez normal).",
       "alternatives": {
         "A": "Coloração violeta, sem grumos.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Uma zona que apresentou ausência de focos de Peste Suína Clássica nos últimos 12 meses, mas que possui riscos sanitários internos ou externos que podem levar ao ressurgimento dessa doença, é classificada como nível de risco",
       "alternatives": {
         "A": "I.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre o provimento de cargos públicos, é correto afirmar que a forma onde há o retorno do servidor estável, sem direito à indenização, ao cargo anteriormente ocupado, dentro da mesma carreira, em decorrência da reintegração do anterior ocupante, é chamada de",
       "alternatives": {
         "A": "recondução.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre o trânsito de animais no país por intermédio de transporte ferroviário, assinale a opção verdadeira.",
       "alternatives": {
         "A": "É proibida a alimentação dos animais durante a viagem.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "As atividades do Sistema Unificado de Atenção à Sanidade Agropecuária são executadas pelas instâncias: Central e Superior, Intermediárias e Locais. Assinale a opção correta sobre a atividade que cabe às diferentes instâncias no controle de pragas e doenças.",
       "alternatives": {
         "A": "As instâncias intermediárias estabelecem os requisitos sanitários e fitossanitários para o trânsito nacional de animais e vegetais.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "De acordo com o Decreto 5.053, de 22 de abril de 2004, que trata da fiscalização de produtos de uso veterinário e dos estabelecimentos que os fabricam ou comercializam, esses estabelecimentos deverão possuir um responsável técnico com qualificação comprovada pelo MAPA. Assinale a opção que apresenta corretamente qual deve ser o responsável técnico de acordo com o estabelecimento.",
       "alternatives": {
         "A": "Um estabelecimento fabricante de produto biológico deve ter responsabilidade técnica de químico industrial.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O oviduto da galinha é constituído por partes bem definidas. A parte do oviduto onde o ovo recebe as membranas interna e externa da casca, permanecendo por volta de uma hora a uma hora e meia, é chamada de",
       "alternatives": {
         "A": "infundíbulo.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Assinale a opção correta sobre o esquema de vacinação para as diferentes doenças abordadas pelo Programa Nacional de Sanidade Avícola (PNSA).",
       "alternatives": {
         "A": "É proibida a vacinação para influenza aviária em todo o território nacional.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Os canais de Havers são responsáveis por permitir a passagem de vasos sanguíneos",
       "alternatives": {
         "A": "na medula dos rins.",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Compõem a bainha de mielina que fornece o isolamento para os neurônios do sistema nervoso central",
       "alternatives": {
         "A": "as células de Purkinje.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Assinale a opção que contém dois músculos da parede torácica cuja função é retrair as costelas e contrair o tórax.",
       "alternatives": {
         "A": "Músculo serrátil dorsal cranial e músculos serráteis dorsais caudais.",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre a anatomia do rim de algumas espécies animais, a medula do rim e seu córtex associado se dividem em lobos piramidais. Rins com essa estrutura recebem a denominação de multipiramidal. O ápice de cada lobo se volta para o seio renal e forma uma papipla, a qual se encaixa no cálice renal no seio renal ou ureter. São espécies animais que apresentam rim multipiramidal",
       "alternatives": {
         "A": "suíno e bovino.",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O sistema nervoso pode ser classificado em dois sistemas, conhecidos como sistema nervoso central e sistema nervoso periférico. O sistema nervoso central é composto por",
       "alternatives": {
         "A": "nervos, gânglios espinhais, gânglios cranianos e receptores sensoriais.",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Quando a vasopressina, também conhecida como hormônio antidiurético, é secretada, ela tem como principal alvo",
       "alternatives": {
         "A": "os túbulos coletores corticais e ductos coletores medulares.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Quando se fala dos diferentes volumes e capacidades pulmonares, é correto afirmar que o volume de ar que ainda pode ser exalado após a expiração do volume corrente é chamado de",
       "alternatives": {
         "A": "volume de reserva inspiratório.",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A ingestão de vitaminas é essencial para todos os animais. O excesso, no entanto, pode acarretar em problemas de toxicidade, desequilíbrios metabólicos ou doenças. Quando bezerros jovens recebem doses de vitamina A em excesso, a consequência é",
       "alternatives": {
         "A": "um choque anafilático.",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Os cinco sintomas principais, também chamados de cinco sinais cardinais da inflamação, são: dor, calor, rubor, edema e",
       "alternatives": {
         "A": "sangramento.",
@@ -1351,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Dois exemplos de órgãos linfóides secundários são",
       "alternatives": {
         "A": "linfonodos e baço.",
@@ -1368,7 +1368,7 @@
     },
     {
       "question_number": 81,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "As moléculas de anticorpo são glicoproteínas chamadas de imunoglobulinas, e existem cinco classes estruturais de imunoglobulinas. A imunoglobulina que previne a aderência de patógenos invasores às superfícies do corpo e é predominante em secreções como saliva, leite e fluido intestinal é a",
       "alternatives": {
         "A": "IgM.",
@@ -1385,7 +1385,7 @@
     },
     {
       "question_number": 82,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "De acordo com a Portaria nº 79 de 2019, da ADAB, para que um estabelecimento seja caracterizado como agroindústria de pequeno porte, é necessário que ele tenha uma escala máxima de produção, dependendo de sua categoria. Sobre essa escala máxima de produção, é correto afirmar que",
       "alternatives": {
         "A": "estabelecimentos de abate de bovinos devem ter a produção máxima de 50 animais por dia.",
@@ -1402,7 +1402,7 @@
     },
     {
       "question_number": 83,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Diversas legislações são elaboradas com o propósito de proteger o consumidor de fraudes. Por exemplo, a Portaria nº 82 de 2020, da ADAB, que visa combater fraudes envolvendo o acréscimo de água aos pescados congelados. De acordo com essa Portaria, é correto afirmar que",
       "alternatives": {
         "A": "crustáceos como lagosta não possuem um limite máximo para glaciamento.",
@@ -1419,7 +1419,7 @@
     },
     {
       "question_number": 84,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre a utilização da expressão “PRODUTO ELABORADO COM LEITE DE PROPRIEDADE LIVRE DE BRUCELOSE E TUBERCULOSE” em embalagens de produtos lácteos, de acordo com a Portaria nº 157 de 2014, da ADAB, assinale a opção correta.",
       "alternatives": {
         "A": "É proibido o uso dessa expressão em embalagens de produtos lácteos.",
@@ -1436,7 +1436,7 @@
     },
     {
       "question_number": 85,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A multa aplicada a um infrator que está transportando animais sem Guia de Trânsito Animal (GTA) é de 50 Unidades Fiscais de Referência (UFIR) por animal, de acordo com o Decreto Estadual nº 7.854 de 2000. Uma penalidade nesse mesmo valor e padrão é aplicada quando o infrator",
       "alternatives": {
         "A": "não está cadastrado junto ao órgão executor da defesa sanitária animal.",
@@ -1453,7 +1453,7 @@
     },
     {
       "question_number": 86,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Existem diferentes tipos de amostragem em epidemiologia. Quando se divide uma população em partes de acordo com critérios diversos, e depois se obtém amostras aleatórias dentro de cada divisão dessas, de modo a constituir a amostra final, estamos falando de amostragem do tipo",
       "alternatives": {
         "A": "aleatória simples.",
@@ -1470,7 +1470,7 @@
     },
     {
       "question_number": 87,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Na realização de testes diagnósticos, a probabilidade de que um indivíduo com resultado positivo no teste esteja verdadeiramente infectado é calculada pela expressão: (verdadeiros positivos) ÷ (verdadeiros positivos + falsos positivos) x 100, é conhecida como",
       "alternatives": {
         "A": "valor preditivo positivo.",
@@ -1487,7 +1487,7 @@
     },
     {
       "question_number": 88,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Visando aumentar a eficácia de vacinas, substâncias conhecidas como adjuvantes são adicionadas. Esses adjuvantes podem aumentar a velocidade ou até mesmo a força da resposta do corpo às vacinas. Os adjuvantes mais comuns em vacinas são",
       "alternatives": {
         "A": "adjuvantes à base de saponina.",
@@ -1504,7 +1504,7 @@
     },
     {
       "question_number": 89,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Dentre os diferentes tipos de estudos epidemiológicos, o tipo de estudo que acompanha grupos em estudo por um determinado tempo e os resultados analisados são obtidos gradativamente, ao longo do período de estudo, muito utilizado para se conhecer a história natural de patologias, é conhecido como",
       "alternatives": {
         "A": "estudo caso-controle.",
@@ -1521,7 +1521,7 @@
     },
     {
       "question_number": 90,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O coeficiente que mede o risco que uma pessoa acometida por determinada doença morrer em consequência dessa doença é",
       "alternatives": {
         "A": "incidência.",
@@ -1538,7 +1538,7 @@
     },
     {
       "question_number": 91,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A análise chamada de teste de gotejamento (ou dripping test), realizada em carcaças de aves tem como objetivo",
       "alternatives": {
         "A": "checar a contaminação microbiológica das carcaças de aves após saírem da escaldagem.",
@@ -1555,7 +1555,7 @@
     },
     {
       "question_number": 92,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A determinação de cinzas em uma amostra de alimentos mostra a",
       "alternatives": {
         "A": "porcentagem de matéria seca.",
@@ -1572,7 +1572,7 @@
     },
     {
       "question_number": 93,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Conhecer a composição de meios de cultura é fundamental quando se realiza o diagnóstico microbiológico de amostras, já que a composição do meio afeta diretamente o crescimento de microrganismos presentes na amostra. Um meio de cultura seletivo muito utilizado para a detecção e isolamento de enterobactérias e outros microrganismos Gram- negativos, cuja composição inclui sais biliares e cristal violeta é",
       "alternatives": {
         "A": "o caldo BHI (Brain-Heart-Infusion).",
@@ -1589,7 +1589,7 @@
     },
     {
       "question_number": 94,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "O Plano Nacional de Controle de Resíduos e Contaminantes (PNCRC) visa promover a segurança de alimentos de origem animal, por meio da realização de testes para uma ampla gama de substâncias, sendo a dioxina uma delas. A dioxina é",
       "alternatives": {
         "A": "uma micotoxina.",
@@ -1606,7 +1606,7 @@
     },
     {
       "question_number": 95,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "A presença de metais pesados em produtos de origem animal pode levar à intoxicação de quem os ingeriu. A intoxicação conhecida como saturnismo refere-se a uma intoxicação causada por",
       "alternatives": {
         "A": "arsênio.",
@@ -1623,7 +1623,7 @@
     },
     {
       "question_number": 96,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "No ano de 2023, devido aos riscos de ingresso e disseminação da influenza aviária de alta patogenicidade no Brasil, diversas medidas emergenciais foram tomadas pelo MAPA. Na Portaria nº 572 de 2023 do MAPA, a principal medida preventiva tomada foi",
       "alternatives": {
         "A": "a suspensão de eventos com aglomerações de aves em todo o país, por 90 dias.",
@@ -1640,7 +1640,7 @@
     },
     {
       "question_number": 97,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Assinale a opção que mostra a relação correta entre o Brasil e o Codex Alimentarius.",
       "alternatives": {
         "A": "O Brasil foi o criador do Codex.",
@@ -1657,7 +1657,7 @@
     },
     {
       "question_number": 98,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "De acordo com o Manual de Métodos Oficiais para Diagnóstico de Doenças Animais, o tipo de amostras que são utilizadas no diagnóstico do mormo para detecção da resposta imune é",
       "alternatives": {
         "A": "o lavado brônquio-alveolar.",
@@ -1674,7 +1674,7 @@
     },
     {
       "question_number": 99,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Sobre a cólera, doença bacteriana infecciosa aguda, considerada uma doença transmitida por alimentos, assinale a opção verdadeira.",
       "alternatives": {
         "A": "A cólera causa diarreia leve ou pode também se apresentar de forma grave, mas nunca é assintomática.",
@@ -1691,14 +1691,14 @@
     },
     {
       "question_number": 100,
-      "discipline": null,
+      "discipline": "Noções de Direito Constitucional",
       "statement": "Assinale a afirmativa correta sobre a Febre do Nilo Ocidental.",
       "alternatives": {
         "A": "O agente etiológico da febre do Nilo Ocidental é uma bactéria.",
         "B": "A vacinação de equinos é recomendada a partir dos 3 meses de vida do animal.",
         "C": "A doença não afeta humanos.",
         "D": "Os equinos são considerados hospedeiros naturais da doença.",
-        "E": "A doença é transmitida pela picada de mosquitos infectados, Redação A qualidade de um produto de origem animal é de responsabilidade de seu estabelecimento produtor. Os estabelecimentos devem, por meio de diversos programas e procedimentos, garantir que o alimento que chega na mesa do consumidor é totalmente seguro, além da qualidade. Os Programas de Autocontrole (PAC), Boas Práticas de Fabricação (BPF), Procedimentos Padrão de Higiene Operacional (PPHO) e Análise de Perigos e Pontos Críticos de Controle (APPCC) foram todos criados com o objetivo final de assegurar que o processo de produção de um alimento, desde a produção e chegada da matéria-prima até a embalagem e comercialização do produto final, serão isentos de riscos e atendam às legislações nacionais e internacionais. Escreva um texto argumentativo-dissertativo de, no máximo, 30 linhas, explicando o objetivo de um sistema APPCC, dizendo quais são seus sete princípios básicos, e como esse sistema de APPCC se relaciona com os PAC e as BPF. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 16 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 17 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 18 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 20 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 21 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 22 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 23 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 24 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 25 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 26 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 27 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 28 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 29 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 30 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+        "E": "A doença é transmitida pela picada de mosquitos infectados, principalmente do gênero Culex. Redação A qualidade de um produto de origem animal é de responsabilidade de seu estabelecimento produtor. Os estabelecimentos devem, por meio de diversos programas e procedimentos, garantir que o alimento que chega na mesa do consumidor é totalmente seguro, além da qualidade. Os Programas de Autocontrole (PAC), Boas Práticas de Fabricação (BPF), Procedimentos Padrão de Higiene Operacional (PPHO) e Análise de Perigos e Pontos Críticos de Controle (APPCC) foram todos criados com o objetivo final de assegurar que o processo de produção de um alimento, desde a produção e chegada da matéria-prima até a embalagem e comercialização do produto final, serão isentos de riscos e atendam às legislações nacionais e internacionais. Escreva um texto argumentativo-dissertativo de, no máximo, 30 linhas, explicando o objetivo de um sistema APPCC, dizendo quais são seus sete princípios básicos, e como esse sistema de APPCC se relaciona com os PAC e as BPF. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 16 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 17 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 18 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 20 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 21 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 22 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 23 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 24 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 25 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 26 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 27 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 28 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 29 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 30 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
       "answer": "E",
       "annulled": false,

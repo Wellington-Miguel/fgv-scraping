@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Empresa Brasileira de Serviços Hospitalares - EBSERH - Área Médica",
   "cargo_title": "Grupo - Acupuntura",
   "exam_type": "Tipo 1",
-  "total_questions": 58,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Se tem problemas no pulmão, procure um pneumologista.",
         "C": "Se tem problemas no fígado, procure um dermatologista.",
         "D": "Se tem problemas nos ouvidos, procure um oncologista.",
-        "E": "Se tem problemas nos pés, procure um pediatra. Legislação EBSERH"
+        "E": "Se tem problemas nos pés, procure um pediatra."
       },
       "answer": "B",
       "annulled": false,
@@ -245,8 +245,25 @@
       "page_number": 5
     },
     {
-      "question_number": 16,
+      "question_number": 15,
       "discipline": null,
+      "statement": "Um empregado da Ebserh foi acusado de descumprir normas institucionais e de adotar conduta incompatível com as regras administrativas do Hospital Universitário. Para a apuração formal da conduta e garantia do contraditório e da ampla defesa, a administração decidiu instaurar procedimento disciplinar conforme as normas internas da empresa. Segundo a Norma Operacional de Controle Disciplinar da Ebserh, a apuração de infrações disciplinares pode ocorrer por meio de",
+      "alternatives": {
+        "A": "sindicância ou processo administrativo disciplinar.",
+        "B": "auditoria administrativa e decisão direta da diretoria.",
+        "C": "avaliação de desempenho extraordinária.",
+        "D": "procedimento sumário conduzido pela chefia imediata.",
+        "E": "análise exclusiva do Conselho Fiscal."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 16,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Considerando os fatores determinantes para a Reforma Sanitária Brasileira, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A crise do modelo previdenciário centralizado, associada à expansão da assistência privada, articulou-se à formulação de uma crítica baseada na medicina social e na análise histórico- estrutural da saúde. ( ) A Reforma Sanitária estruturou-se a partir da adoção da teoria funcionalista do Estado, orientada pela racionalização administrativa e pela busca de equilíbrio institucional no setor saúde. ( ) A abertura política da década de 1970, combinada à reorganização dos movimentos sociais, favoreceu a consolidação de um projeto que relacionava saúde, democracia e transformação das estruturas sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -263,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Tendo em vista os mecanismos institucionais de participação no âmbito do Sistema Único de Saúde, leia hipotética a situação a seguir. Camila participou, como representante dos profissionais de saúde, de uma instância colegiada municipal convocada para ocorrer naquele quadriênio. Durante o encontro, foi realizada avaliação ampla da situação de saúde do município, com apresentação de diagnósticos gerais e, ao final, foram propostas diretrizes para subsidiar a formulação da política de saúde nos anos subsequentes. De acordo com a descrição apresentada, a instância indicada na situação acima é o(a)",
       "alternatives": {
         "A": "Conselho Municipal de Saúde.",
@@ -280,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução RDC nº 36/2013, da ANVISA, institui ações para a promoção da segurança do paciente e apresenta conceitos relacionados à gestão de risco nos serviços de saúde. Considerando as definições estabelecidas na norma, um exemplo de evento adverso é a administração de medicamento",
       "alternatives": {
         "A": "em dose incorreta, resultando em insuficiência renal aguda no paciente internado.",
@@ -297,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com relação às características do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir. I. O sistema público de saúde instituído pela Constituição de 1988 rompeu com o modelo anterior restrito aos trabalhadores formais, passando a garantir acesso a toda a população. II. A organização do sistema, desde sua criação, passou a considerar as desigualdades sociais e regionais como critério para definição de prioridades na oferta de ações e serviços. III. A organização estabelecida a partir de 1988 definiu que toda decisão sobre políticas de saúde seria centralizada na esfera federal, de modo a garantir uniformidade administrativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -314,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução CNS nº 553/2017 estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, dispondo sobre responsabilidades individuais no âmbito do cuidado. Assinale a opção que apresenta uma violação dos deveres da pessoa usuária.",
       "alternatives": {
         "A": "Solicitar substituição do profissional responsável durante atendimento hospitalar regular.",
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Em um hospital geral de médio porte, foi identificado que um paciente recebeu dose duplicada de um anticoagulante após falha na comunicação durante a troca de plantão. O erro foi percebido horas depois, sem ocorrência de dano grave. A direção da instituição solicita que o Núcleo de Segurança do Paciente proponha medidas imediatas. Com base no Programa Nacional de Segurança do Paciente (PNSP), o encaminhamento prioritário deve ser",
       "alternatives": {
         "A": "formalizar advertência ao profissional envolvido e reforçar, em reunião de equipe, a necessidade de atenção redobrada na etapa de administração.",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Decreto nº 7.508/2011 define conceitos relativos à organização do Sistema Único de Saúde (SUS), considerando a articulação interfederativa e a regionalização das ações e serviços. Assinale a opção que descreve corretamente uma Região de Saúde.",
       "alternatives": {
         "A": "Conjunto de serviços municipais organizado para integrar ações assistenciais e planejamento sanitário local.",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A NOB/RH-SUS prevê que a gestão do trabalho no SUS deve obedecer ao princípio da participação bilateral. Assinale a opção que descreve corretamente esse princípio.",
       "alternatives": {
         "A": "Pactuação conjunta de diretrizes sobre carreira e condições laborais.",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Sistema Único de Saúde (SUS) é estruturado constitucionalmente por um conjunto de princípios e diretrizes que orientam sua organização, seu funcionamento e sua oferta de ações e serviços. Assinale a opção que apresenta uma ação incompatível com as diretrizes do SUS.",
       "alternatives": {
         "A": "Implantação de central de regulação regional para organizar o acesso a consultas e exames entre municípios de uma mesma região de saúde.",
@@ -399,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Durante atendimento em Unidade Básica de Saúde, um homem transexual solicitou encaminhamento para mastectomia. O profissional informou que o procedimento não poderia ser ofertado pelo SUS, pois se trataria de demanda estética não relacionada à saúde. A atitude do profissional de saúde está",
       "alternatives": {
         "A": "inadequada, pois a decisão sobre cirurgias depende exclusivamente de autorização prévia estadual.",
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com base no Código de Ética Médica (Resolução CFM nº 2.217/2018), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O médico pode recusar-se a exercer a profissão em instituição pública ou privada quando as condições de trabalho não forem dignas, devendo comunicar formalmente sua decisão ao Conselho Regional competente. ( ) É vedado ao médico divulgar, fora do meio científico, método terapêutico ainda não reconhecido por órgão competente, ainda que a divulgação tenha finalidade apenas educativa. ( ) O médico deve empregar todos os recursos diagnósticos e terapêuticos disponíveis nas situações clínicas irreversíveis, ainda que tais medidas não garantam benefício proporcional ao paciente. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Bioética parte do pressuposto de que nem tudo o que é cientificamente possível é também eticamente aceitável, exigindo que os avanços técnicos sejam avaliados quanto ao respeito à dignidade da pessoa humana. Assinale a opção que exemplifica uma ação cientificamente possível, porém eticamente inaceitável.",
       "alternatives": {
         "A": "Oferta de tratamento capaz de restaurar completamente funções orgânicas perdidas, ainda que inexistam recursos técnicos para a intervenção.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Política Nacional de Saúde Integral da População Negra estabelece diretrizes voltadas ao combate contra o racismo institucional e à redução das desigualdades étnico-raciais no âmbito do SUS. Assinale a opção que apresenta uma medida adequada à referida política.",
       "alternatives": {
         "A": "Implementação de metas específicas para redução de desigualdades étnico-raciais em saúde.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Os Determinantes Sociais da Saúde (DSS) referem-se a um conjunto de condições que influenciam diretamente a distribuição das doenças e dos fatores de risco na população. Assinale a opção que exemplifica corretamente um DSS.",
       "alternatives": {
         "A": "Elevada prevalência de hipertensão arterial associada ao envelhecimento progressivo da população brasileira.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Avalie se as diretrizes do HumanizaSUS incluem: I. implantação de modelo decisório que concentra na chefia a prerrogativa de alterar rotinas, com o objetivo de garantir maior eficiência no atendimento ao público; II. instituição de espaços regulares de deliberação coletiva para discutir impasses do cotidiano e redefinir responsabilidades entre trabalhadores, gestores e usuários; III. reorganização do acesso com redefinição dos critérios de entrada no serviço, priorizando necessidades avaliadas no momento do atendimento. É compatível com o escopo do HumanizaSUS o que se indica em",
       "alternatives": {
         "A": "II e III, apenas.",
         "B": "I, II e III.",
         "C": "I e III, apenas.",
         "D": "II, apenas.",
-        "E": "I e II, apenas. CONHECIMENTOS ESPECÍFICOS"
+        "E": "I e II, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Considerando os aspectos filosóficos e históricos da medicina tradicional chinesa, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O conceito de Yin e Yang nasceu na Grécia antiga com Platão e Aristóteles no contexto dual entre mundo das ideias e o mundo sensível.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O bom funcionamento do organismo humano requer um equilíbrio harmônico entre os elementos Yin e Yang. Uma vez que essa harmonia é comprometida, surgem desequilíbrios que se manifestam através de diferentes sinais e sintomas. Dentro do contexto das síndromes Yin e Yang que acometem o organismo, é correto afirmar que",
       "alternatives": {
         "A": "calafrios ou aversão ao frio, aumento do peristaltismo intestinal e hiperatividade parassimpática são características de síndromes Yang.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Face ao exposto, é correto afirmar que",
       "alternatives": {
         "A": "trata-se de uma estagnação do Qi do fígado com deficiência de Yin do rim.",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Ainda considerando o enunciado da questão anterior, assinale a opção que contém o conjunto de pontos que melhor se adequa ao tratamento da síndrome descrita acima.",
       "alternatives": {
         "A": "E36 – R7 – F8 – F3 – B23 – VC1 – VB34.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente masculino, 54 anos, militar, refere se sentir extremamente fadigado, sem motivação e muito desanimado. Refere queda de rendimento no trabalho e que está “aguardando o tempo passar para dar entrada na aposentadoria”. Ademais, relata que tem sentido muito mais frio que o normal, além de palpitações e insônia. Descreve também queda no desempenho sexual, que se acentuou nos últimos meses através de disfunção erétil e perda de libido. Ao exame físico, nota-se língua pálida e pulso lento, profundo e fraco. Assinale a opção que contém a melhor descrição para a síndrome descrita, assim como o conjunto de pontos mais adequado a seu tratamento.",
       "alternatives": {
         "A": "O princípio do tratamento consiste em tonificar o Yang do rim, tonificar o Qi do coração e nutrir o sangue do coração. Pode- se usar os pontos BP4 (à esquerda), PC6 (à direita), R3, R7, VC4, C5 e C7. Na região dorsal pode-se fazer VG4 e B23.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A teoria Yin-Yang rege diversos aspectos filosóficos da Medicina Tradicional Chinesa. Acerca da teoria Yin-Yang, avalie as seguintes afirmativas: I. Na sua forma mais pura e rarefeita, o Yang é totalmente imaterial e corresponde à energia pura. O Yin, por sua vez, em seu estado mais áspero e denso, é totalmente material e corresponde a substância. II. Embora sejam estágios opostos, Yin e Yang são complementares e formam uma unidade. III. É possível correlacionar as estações do ano com a teoria Yin- Yang. A primavera representa o florescer, o movimento madeira e o crescimento. Portanto, ela simboliza o Yang máximo. O verão representa o Yang dentro do Yin. O outono, por sua vez, o Yin dentro do Yang. E por fim, o inverno representa o Yin máximo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Leia a descrição a seguir. Manifestação clínica caracterizada por dor repentina no epigástrio, sensação de frio, preferência pelo calor, vômito de fluidos claros, sensação de piora após a ingestão de fluidos frios, preferência por líquidos quentes, com língua de saburra espessa e branca com pulso profundo e lento. A descrição corresponde a",
       "alternatives": {
         "A": "estagnação do Qi do fígado pelo frio; o quadro provavelmente é resultado de estresse crônico, frustração profissional e redução do limiar de tolerância.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Mulher de 39 anos refere quadro de desconforto ao urinar e prurido vaginal iniciado há 7 dias. Relata que observou que sua urina está mais concentrada e que tem urinado menos. Afirma também que nos últimos três dias, o quadro evoluiu com sensação de plenitude no tórax e dor nos hipocôndrios, náuseas, anorexia e sensação de gosto amargo na boca. Ao exame físico, observa-se pulso rápido, deslizante e em corda. A língua apresenta uma coloração vermelha com saburra amarela pegajosa. Face ao exposto, avalie as seguintes afirmações: I. A síndrome descrita se trata de acúmulo de calor e umidade nos meridianos do fígado e da vesícula biliar. Este acúmulo obstrui o fluxo suave de Qi e causa estagnação de Qi do fígado, resultando em distensão e dor no hipocôndrio e no tórax. II. O padrão descrito origina-se de uma combinação de calor e umidade no fígado, muitas vezes surgindo a partir de uma prévia deficiência do Qi do baço. III. A estagnação do Qi do fígado deriva do acúmulo de umidade, fazendo com que o Qi do fígado invada o estômago e origine náusea, anorexia e distensão abdominal. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente masculino, 40 anos, trabalhador da construção civil, relata que vem sentindo desconforto epigástrico caracterizado por dor em pontadas há cerca de dois meses. Refere que o desconforto piora ao tomar banho quente e após se alimentar. Refere quatro episódios eméticos no período, nos quais observou vômitos com presença de sangue de coloração escura. Foi consultado por um gastroenterologista há cerca de 3 dias que prescreveu pantoprazol e solicitou endoscopia digestiva alta. Ainda não realizou endoscopia, pois não dispõe de condições financeiras para arcar com os custos do exame. Ao exame físico nota-se língua de coloração vermelha escura, com pontos de cor púrpura escura. O pulso, por sua vez, se apresenta cheio, rápido e agitado. O abdome está doloroso à palpação profunda em região epigástrica. Em relação a esse caso, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Trata-se de um quadro de estagnação de Qi e sangue do coração. Podemos tratar com B15, B17, BP21, IG4 e CS6.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Avalie a descrição a seguir. Este ponto se encontra numa reentrância óssea localizada entre o músculo esternocleidomastóideo e inserção superior do músculo trapézio. É um ponto utilizado para pacificar o Yang do fígado, dispersar o vento-frio e o vento-calor, além de ter uma influência importante sobre os olhos e a visão. A descrição se refere ao seguinte ponto:",
       "alternatives": {
         "A": "VB20.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Cefaleias constituem uma das queixas mais frequentes na clínica diária. Segundo a medicina chinesa, elas podem ser classificadas segundo a origem e os principais canais de energia afetados. Avalie as seguintes afirmações acerca das cefaleias: I. As cefaleias Shao Yang manifestam-se por dores localizadas na região da artéria temporal, podem ser unilaterais ou bilaterais. Costumam se manifestar rapidamente, através de dores agudas de característica pulsátil. II. As cefaleias Shao Yang são provocadas pela estagnação do Qi no canal da vesícula biliar. A etiologia mais frequente que leva a esse quadro é a plenitude do Yang do fígado. Este estado ocasiona o aparecimento de vento interno, podendo por isso ser acompanhadas de sintomas como agressividade, raiva e vertigens. III. As cefaleias Jue Yin, na concepção da medicina chinesa, são provocadas por algum comprometimento no meridiano do fígado. Costumam ser cefaleias mais difusas e de instalação mais lenta, com características de serem mais profundas e contínuas. IV. As cefaleias Tai Yin são cefaleias caracterizadas por dor no topo da cabeça, iniciando-se na região paranasal e irradiando-se para a nuca. Essas cefaleias, na maioria das vezes, têm como causa a deficiência de Qi do rim. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e IV, apenas.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O.G.F., 43 anos de idade, relata sofrer com episódios de zumbido há 1 ano. Paciente relata que os episódios têm início súbito e o som é de intensidade alta. Descreve que o quadro se atenua ao descansar, porém piora no trabalho, local onde se estressa constantemente. Ao exame físico: bom estado geral, vígil, lúcido e orientado no tempo e no espaço. Pulso cheio e em corda, sendo ligeiramente rápido e levemente fraco nas duas posições posteriores. A língua, por sua vez, apresentava-se vermelha, mais vermelha nas laterais com saburra amarela. Olhos: Reflexos fotomotores diretos e consensuais presentes, reativos e fisiológicos. Aparelho respiratório: Murmúrio vesicular universalmente audível. Aparelho cardiovascular: Ritmo Cardíaco Regular em 2 tempos. Bulhas normofonéticas. Abdômen: Flácido, indolor à palpação superficial e profunda. Membros inferiores: Sem edemas. Pulsos pediosos palpáveis e simétricos. Assinale a opção que melhor descreve o quadro acima.",
       "alternatives": {
         "A": "Trata-se de um caso de deficiência de Qi do rim e uma possível deficiência de Yang do baço.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "No universo da Medicina Tradicional Chinesa, o processo de tratamento muitas vezes pode fazer uso de recursos que não sejam as agulhas de acupuntura e que podem trazer resultados satisfatórios. Avalie as seguintes afirmações acerca desses recursos: I. A ventosa é uma cúpula que quando aplicada à superfície da pele, produz uma pressão interna positiva que tem como finalidade tonificar o Yin e o Yang dos Zang Fu. II. A moxa é uma técnica que consiste em aquecer pontos de acupuntura pela queima de ervas, com a finalidade de aquecer o Qi e o sangue dos canais de energia principais e secundários. III. A moxa tem como finalidade restabelecer a deficiência de Yang Qi, circular e regular o Qi e o sangue e eliminar o frio. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A maneira de se introduzir e manipular a agulha de acupuntura pode condicionar um determinado processo de tonificação ou sedação dos canais de energia principais. Avalie as seguintes afirmativas sobre os processos de sedação e tonificação: I. A introdução da agulha obliquamente ao canal de energia, direcionando a ponta no sentido da circulação de Qi, estimula a circulação energética e promove a tonificação do canal e do Zang Fu em questão. II. Após se inserir a agulha de acupuntura no referido ponto, pode-se promover uma rotação desta agulha girando-a rapidamente no sentido anti-horário e em seguida, lentamente, no sentido horário. Este procedimento é uma outra forma de tonificar o canal em questão. III. Após se inserir a agulha de acupuntura no referido ponto, pode-se promover uma rotação desta agulha girando-a rapidamente no sentido horário e em seguida, lentamente, no sentido anti-horário. Este procedimento é uma forma de sedar o canal em questão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Na Medicina Tradicional Chinesa, os meridianos de energia constituem um meio de ligação entre o interior e o exterior, transmitindo e recebendo diversas formas de energia destes meios. Assinale a afirmativa correta acerca dos diferentes tipos de meridianos.",
       "alternatives": {
         "A": "Os canais de energia principais são no total de oito: Quatro canais Yin e quatro canais Yang.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Os meridianos tendíneo-musculares são uma classe de meridianos que conectam os tendões, músculos e tecidos, e são nutridos e supridos por seus meridianos regulares correspondentes. Considere as seguintes afirmações acerca dos meridianos tendíneo-musculares: I. Os meridianos tendíneo-musculares se iniciam no ponto distal das extremidades e passam através da proeminência dos músculos e então se dirigem as articulações. II. Os meridianos tendíneo-musculares integram o corpo de tal forma que os Zang Fu, membros, pele e ossos se integram em estrutura e funcionam sinergicamente, mantendo os movimentos normais dos músculos e das articulações. III. As patologias dos meridianos tendíneos manifestam-se principalmente em sintomas que envolvem músculos, tendões e ligamentos. Está correto o que se afirma em",
       "alternatives": {
         "A": "II, apenas.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Leia a descrição a seguir: Este fator patogênico externo é de natureza Yin e é capaz de causar constrição nos canais de energia, comprometendo o fluxo de Qi e Xue. Tende a enfraquecer o Yang Qi, podendo acarretar estagnação e retenção. Caso venha a comprometer meridianos, meridianos colaterais, músculos e articulações, a flexão e a extensão dos membros podem se tornar rígidas. A descrição se refere ao seguinte fator patogênico externo:",
       "alternatives": {
         "A": "secura.",
@@ -789,8 +806,25 @@
       "page_number": 12
     },
     {
+      "question_number": 48,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "statement": "Síncope é a denominação dada para a perda súbita e breve da consciência e do tônus postural devido a redução do fluxo sanguíneo para o cérebro. A respeito da síncope dentro do universo da Medicina Tradicional Chinesa, avalie as afirmativas a seguir. I. Uma das causas da síncope, segundo a Medicina Tradicional Chinesa, é o desequilíbrio decorrente de alterações emocionais como raiva, medo, susto ou estado de tensão emocional extremo, acarretando mudanças no fluxo de Qi e Xue. II. A síncope também pode ocorrer por deficiência do Qi. Nesse caso, quando a constituição física está enfraquecida, pode ocorrer síncope após esforço físico exaustivo, fome ou insônia. III. No caso de síncope por deficiência, deve-se agulhar pontos para expulsar o fator patogênico e aplicar moxa, para regularizar o fluxo de Qi. Pode-se usar o E40 para dispersar a umidade e aplicar moxa no ponto B2 para restaurar o Yang em colapso. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "II, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Considerando os aspectos da semiologia na Medicina Tradicional Chinesa, assinale a opção que correlaciona corretamente as características de inspeção do corpo do paciente, palpação de pulso e observação de língua às suas respectivas síndromes:",
       "alternatives": {
         "A": "Língua púrpura intensa, fina e seca é um sinal de consumo excessivo de Yang.",
@@ -807,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "No universo da Medicina Tradicional Chinesa, o Qi é uma substância fundamental muito ativa, que em constante movimento mantém as atividades vitais do organismo. Os diferentes tipos de Qi podem ser classificados de acordo com sua origem e características funcionais. Assinale a afirmativa correta em relação aos diferentes tipos de Qi que circulam no organismo.",
       "alternatives": {
         "A": "O Zhong QI, ou Qi primordial, se origina a partir do rim dos pais, que recebemos durante a concepção. Por essa razão, também é chamado de Qi congênito ou céu anterior.",
@@ -824,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A teoria dos cinco elementos (movimentos) defende que, de forma geral, os fenômenos no universo são regidos por cinco elementos básicos que são a madeira, o fogo, a terra, o metal e a água. Assinale a afirmativa correta sobre a teoria dos cinco movimentos na Medicina Tradicional Chinesa.",
       "alternatives": {
         "A": "O elemento fogo é gerado pelo elemento água, é dominado pelo elemento terra e gera o elemento madeira.",
@@ -841,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Leia a descrição a seguir. Seu trajeto se inicia na face medial do primeiro dedo do pé, segue pelo primeiro metatarso até o maléolo medial, sobe pela borda medial da tíbia, face medial do joelho e coxa, atingindo a região inguinal, a partir de onde sobe pela face anterolateral do abdome, atingindo os arcos costais e tórax. O trajeto descrito corresponde ao seguinte meridiano:",
       "alternatives": {
         "A": "vesícula biliar.",
@@ -858,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a opção que apresenta uma associação correta entre o Vaso Maravilhoso e seu ponto de abertura.",
       "alternatives": {
         "A": "Du Mai – ID3.",
@@ -875,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Leia a descrição a seguir. Esta víscera Fu se encontra localizada no abdômen. A sua principal função é promover a digestão dos conteúdos alimentares. Neste processo, ele separa a substância clara da substância turva. A substância clara é o Jing do alimento e é transportada e distribuída para todas as partes do corpo pelo Pi. A substância turva, por sua vez, é o dejeto que será direcionado para o Da Chang. A descrição se refere à seguinte víscera Fu:",
       "alternatives": {
         "A": "intestino grosso.",
@@ -892,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Leia a descrição a seguir. Este ponto de acupuntura é usado como referência anatômica na região torácica, com uma característica muito peculiar. Ele é um ponto que se diferencia dos demais, pois, classicamente, não se utiliza o tratamento com acupuntura ou moxabustão neste ponto. Essa descrição se refere ao seguinte ponto:",
       "alternatives": {
         "A": "E19.",
@@ -909,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Assinale a opção que correlaciona corretamente o ponto de acupuntura com sua localização e função.",
       "alternatives": {
         "A": "O ponto B17 se localiza no dorso, abaixo do processo espinhoso da sétima vértebra torácica, 1,5 cun lateral à linha mediana posterior. Ele é o ponto de influência sobre o Xue, sendo indicado no tratamento de diversos distúrbios sanguíneos.",
@@ -926,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "De acordo com a Medicina Tradicional Chinesa, a saúde é o resultado do equilíbrio harmonioso entre diversos fatores no organismo. Quando o equilíbrio é perturbado, aparece a doença. Assinale a afirmativa correta acerca dos mecanismos de doença e dos fatores patogênicos.",
       "alternatives": {
         "A": "A Medicina Tradicional Chinesa concentra seus estudos quase que exclusivamente no tratamento de doenças e aborda poucos aspectos acerca da prevenção.",
@@ -943,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Os tônicos sanguíneos tratam de sintomas que podem resultar de uma perda excessiva de sangue, ou uma pobre absorção de nutrientes. A respeito do tema, avalie as afirmativas a seguir. I. A carne de boi tonifica o baço e o estômago, resultando em maior produção de sangue. II. O consumo de espinafre está indicado para a anemia, hipertensão arterial sistêmica e constipação intestinal. III. O açúcar mascavo tonifica os rins, remove o calor interno e está contraindicado no pós-parto. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -960,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Segundo a Farmacoterapia Chinesa, é possível tratar síndromes respiratórias por meio de fórmulas magistrais. De acordo com os princípios da Farmacoterapia Chinesa, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Na Síndrome Respiratória ocasionada pela invasão de fator patogênico externo vento-calor, está indicada a utilização da Fórmula Magistral Gui Zhi Tang que contém, entre outros componentes, Ramulus Cinnamomi e Rhizoma Zingiberis Recens.",
@@ -977,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Com base na Auriculoterapia Chinesa, avalie as afirmativas a seguir. I. Após conduzida a anamnese e estabelecido o diagnóstico nosológico e exame da língua e do pulso, a ectoscopia e a palpação da orelha podem ser úteis como diagnóstico auxiliar, antes da execução do tratamento por acupuntura médica. II. Estabelecido o diagnóstico, a localização do ponto auricular pode ser realizada através de utilização de sonda metálica com ponta romba ou cabeça de alfinete, pressionados levemente na área da orelha correspondente ao diagnóstico realizado. III. Na avaliação dos pontos auriculares, com sonda de medição elétrica, os pontos de menor resistência elétrica devem ser selecionados para a terapia. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",

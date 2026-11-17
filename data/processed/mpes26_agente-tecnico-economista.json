@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - Economista",
   "exam_type": "Tipo 1",
-  "total_questions": 37,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-economista_q12.png",
       "page_number": 3
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Ética"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 21,
@@ -253,9 +355,26 @@
         "B": "Para um bem de Giffen, o efeito-renda atua no mesmo sentido do efeito-substituição, reforçando a queda na quantidade demandada quando o preço aumenta.",
         "C": "O efeito-substituição atua sempre no mesmo sentido da variação do preço do próprio bem, independentemente de sua classificação.",
         "D": "Na decomposição de Hicks, a renda é ajustada para manter o consumidor no mesmo nível de poder aquisitivo da cesta original, diferindo da abordagem de Slutsky.",
-        "E": "Se o bem 𝑋 for um bem inferior, o efeito-renda reforçará o efeito-substituição, fazendo com que o aumento total da quantidade demandada seja maior que o efeito-substituição. Uma firma opera no curto prazo com uma função de produção 𝑄= 𝑓(𝐿, 𝐾¯ ), em que 𝐿 é o fator trabalho e 𝐾¯ é o capital fixo. Suponha que o salário nominal 𝑤 seja constante. Sobre as relações entre produtividade e custos no curto prazo, assinale a afirmativa correta. (A) Se a produtividade marginal do trabalho for decrescente, o custo marginal também será decrescente. (B) No curto prazo, o custo fixo médio (𝐶𝐹𝑀𝑒) é constante, independentemente do nível de produção. (C) O custo marginal (𝐶𝑀𝑔) atinge seu ponto mínimo quando a produtividade marginal do trabalho (𝑃𝑀𝑔௅) atinge seu valor máximo. (D) Quando a produtividade média do trabalho (𝑃𝑀𝑒௅) é crescente, o custo variável médio (𝐶𝑉𝑀𝑒) também é crescente. (E) A curva de custo marginal intercepta as curvas de custo variável médio e custo total médio em seus respectivos pontos de máximo."
+        "E": "Se o bem 𝑋 for um bem inferior, o efeito-renda reforçará o efeito-substituição, fazendo com que o aumento total da quantidade demandada seja maior que o efeito-substituição."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "Uma firma opera no curto prazo com uma função de produção 𝑄= 𝑓(𝐿, 𝐾¯ ), em que 𝐿 é o fator trabalho e 𝐾¯ é o capital fixo. Suponha que o salário nominal 𝑤 seja constante. Sobre as relações entre produtividade e custos no curto prazo, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Se a produtividade marginal do trabalho for decrescente, o custo marginal também será decrescente.",
+        "B": "No curto prazo, o custo fixo médio (𝐶𝐹𝑀𝑒) é constante, independentemente do nível de produção.",
+        "C": "O custo marginal (𝐶𝑀𝑔) atinge seu ponto mínimo quando a produtividade marginal do trabalho (𝑃𝑀𝑔௅) atinge seu valor máximo.",
+        "D": "Quando a produtividade média do trabalho (𝑃𝑀𝑒௅) é crescente, o custo variável médio (𝐶𝑉𝑀𝑒) também é crescente.",
+        "E": "A curva de custo marginal intercepta as curvas de custo variável médio e custo total médio em seus respectivos pontos de máximo."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -287,13 +406,30 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. Um órgão regulador está analisando o mercado de planos de saúde. Observou-se que indivíduos com maior probabilidade de adoecer tendem a demandar coberturas mais amplas, enquanto indivíduos de menor risco preferem não contratar seguro ou escolher planos mais básicos. Essa situação descreve um problema de assimetria de informação que ocorre antes da celebração do contrato, em que a seguradora não consegue distinguir perfeitamente os diferentes perfis de risco dos consumidores. O conceito econômico que descreve corretamente essa falha de mercado e uma possível solução via desenho de mecanismos são, respectivamente, (A) perigo moral (moral hazard) e monitoramento direto das ações do agente. (B) sinalização (signaling) e imposição de barreiras à entrada de novos competidores. (C) tragédia dos comuns e definição clara de direitos de propriedade. (D) seleção adversa e oferecimento de um menu de contratos que induza à auto-seleção dos consumidores. (E) externalidade negativa e aplicação de um imposto pigouviano sobre o prêmio do seguro."
+        "E": "I, II e III."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 25,
+      "discipline": null,
+      "statement": "Um órgão regulador está analisando o mercado de planos de saúde. Observou-se que indivíduos com maior probabilidade de adoecer tendem a demandar coberturas mais amplas, enquanto indivíduos de menor risco preferem não contratar seguro ou escolher planos mais básicos. Essa situação descreve um problema de assimetria de informação que ocorre antes da celebração do contrato, em que a seguradora não consegue distinguir perfeitamente os diferentes perfis de risco dos consumidores. O conceito econômico que descreve corretamente essa falha de mercado e uma possível solução via desenho de mecanismos são, respectivamente,",
+      "alternatives": {
+        "A": "perigo moral (moral hazard) e monitoramento direto das ações do agente.",
+        "B": "sinalização (signaling) e imposição de barreiras à entrada de novos competidores.",
+        "C": "tragédia dos comuns e definição clara de direitos de propriedade.",
+        "D": "seleção adversa e oferecimento de um menu de contratos que induza à auto-seleção dos consumidores.",
+        "E": "externalidade negativa e aplicação de um imposto pigouviano sobre o prêmio do seguro."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 26,
@@ -321,9 +457,26 @@
         "B": "produz no nível em que o custo médio é mínimo, atingindo plena eficiência produtiva.",
         "C": "maximiza o lucro igualando o preço ao custo variável médio, independentemente do custo fixo.",
         "D": "enfrenta uma curva de demanda perfeitamente elástica, comportando-se como tomadora de preços.",
-        "E": "obtém lucro econômico positivo de forma persistente, em razão da existência de fortes barreiras à entrada de novos concorrentes. Considere o modelo IS-LM para uma economia fechada, com preços dados. O governo decide implementar uma política fiscal expansionista por meio do aumento dos gastos públicos, financiados pela emissão de dívida. No modelo IS-LM, mantidos constantes os demais parâmetros, a intensidade do efeito de crowding-out sobre o investimento privado depende da resposta da taxa de juros ao deslocamento da curva IS e, portanto, da inclinação da curva LM. O efeito de crowding-out será máximo quando (A) a economia estiver operando com elevada capacidade ociosa e alto desemprego. (B) o multiplicador keynesiano for nulo, impedindo o deslocamento da curva IS. (C) a demanda por moeda for totalmente insensível à taxa de juros, de modo que a curva LM seja vertical. (D) a sensibilidade do investimento em relação à taxa de juros for nula, de modo que a curva IS seja vertical. (E) a demanda por moeda for perfeitamente sensível à taxa de juros, de modo que a curva LM seja horizontal."
+        "E": "obtém lucro econômico positivo de forma persistente, em razão da existência de fortes barreiras à entrada de novos concorrentes."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "Considere o modelo IS-LM para uma economia fechada, com preços dados. O governo decide implementar uma política fiscal expansionista por meio do aumento dos gastos públicos, financiados pela emissão de dívida. No modelo IS-LM, mantidos constantes os demais parâmetros, a intensidade do efeito de crowding-out sobre o investimento privado depende da resposta da taxa de juros ao deslocamento da curva IS e, portanto, da inclinação da curva LM. O efeito de crowding-out será máximo quando",
+      "alternatives": {
+        "A": "a economia estiver operando com elevada capacidade ociosa e alto desemprego.",
+        "B": "o multiplicador keynesiano for nulo, impedindo o deslocamento da curva IS.",
+        "C": "a demanda por moeda for totalmente insensível à taxa de juros, de modo que a curva LM seja vertical.",
+        "D": "a sensibilidade do investimento em relação à taxa de juros for nula, de modo que a curva IS seja vertical.",
+        "E": "a demanda por moeda for perfeitamente sensível à taxa de juros, de modo que a curva LM seja horizontal."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -355,13 +508,30 @@
         "B": "um nível de capital por trabalhador (𝑘∗) maior, embora o produto por trabalhador permaneça constante.",
         "C": "uma taxa de crescimento do produto por trabalhador permanentemente mais elevada.",
         "D": "um aumento no consumo por trabalhador, independentemente da Regra de Ouro.",
-        "E": "a manutenção do mesmo nível de produto por trabalhador, pois apenas a tecnologia pode alterar variáveis per capita no longo prazo. A teoria macroeconômica moderna discute a sustentabilidade da política fiscal e a dinâmica da dívida pública. Um dos conceitos centrais nesse debate é a Equivalência Ricardiana, associada a Robert Barro e baseada em fundamentos intertemporais do consumo. A Equivalência Ricardiana sustenta que, sob hipóteses restritivas — como mercados de capitais perfeitos, agentes racionais, ausência de restrições de liquidez e impostos não distorcivos —, financiar o gasto público por meio de impostos hoje ou por meio de dívida hoje e impostos no futuro produz efeitos equivalentes sobre as decisões de consumo privado. Se a Equivalência Ricardiana for válida, uma redução de impostos financiada por déficit público terá como resultado (A) uma redução da taxa de juros real, em razão do aumento da poupança pública. (B) um deslocamento da demanda agregada para a direita, com elevação do nível de preços. (C) um aumento do investimento privado, em razão do maior otimismo dos agentes com a redução dos tributos. (D) uma elevação da poupança privada em montante equivalente ao déficit público, mantendo o consumo inalterado. (E) um aumento imediato no consumo das famílias, produzindo forte efeito multiplicador sobre a demanda agregada."
+        "E": "a manutenção do mesmo nível de produto por trabalhador, pois apenas a tecnologia pode alterar variáveis per capita no longo prazo."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 31,
+      "discipline": null,
+      "statement": "A teoria macroeconômica moderna discute a sustentabilidade da política fiscal e a dinâmica da dívida pública. Um dos conceitos centrais nesse debate é a Equivalência Ricardiana, associada a Robert Barro e baseada em fundamentos intertemporais do consumo. A Equivalência Ricardiana sustenta que, sob hipóteses restritivas — como mercados de capitais perfeitos, agentes racionais, ausência de restrições de liquidez e impostos não distorcivos —, financiar o gasto público por meio de impostos hoje ou por meio de dívida hoje e impostos no futuro produz efeitos equivalentes sobre as decisões de consumo privado. Se a Equivalência Ricardiana for válida, uma redução de impostos financiada por déficit público terá como resultado",
+      "alternatives": {
+        "A": "uma redução da taxa de juros real, em razão do aumento da poupança pública.",
+        "B": "um deslocamento da demanda agregada para a direita, com elevação do nível de preços.",
+        "C": "um aumento do investimento privado, em razão do maior otimismo dos agentes com a redução dos tributos.",
+        "D": "uma elevação da poupança privada em montante equivalente ao déficit público, mantendo o consumo inalterado.",
+        "E": "um aumento imediato no consumo das famílias, produzindo forte efeito multiplicador sobre a demanda agregada."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 32,
@@ -372,7 +542,24 @@
         "B": "Implementou o confisco temporário de depósitos bancários e aplicações financeiras acima de determinado valor.",
         "C": "Baseou-se em um choque heterodoxo, com congelamento generalizado de preços e salários e medidas de desindexação da economia.",
         "D": "Obteve estabilização duradoura principalmente por meio de uma âncora fiscal rígida e do controle estrito da expansão monetária.",
-        "E": "Introduziu a Unidade Real de Valor (URV) como referência transitória para realinhar preços relativos antes da reforma monetária. A partir da segunda metade do século XX, o Brasil aprofundou sua industrialização por substituição de importações. Um marco importante desse processo foi o Plano de Metas, implementado no governo Juscelino Kubitschek (1956-1961). Sobre as características e os efeitos do Plano de Metas, assinale a afirmativa correta. (A) Teve como eixo central a reforma agrária e a redistribuição de renda como condição prévia para a industrialização. (B) Baseou-se em ampla liberalização comercial, com forte redução tarifária para expor a indústria nacional à concorrência externa. (C) Baseou-se no tripé de investimentos: o Estado em infraestrutura e indústria de base, o capital nacional em bens de consumo e o capital estrangeiro em bens duráveis. (D) Produziu estagnação econômica e queda persistente dos preços, em razão de uma política rigorosa de contenção do gasto público e da dívida externa. (E) Concentrou-se exclusivamente na produção de bens de consumo não duráveis, deixando em segundo plano os investimentos em energia e transportes."
+        "E": "Introduziu a Unidade Real de Valor (URV) como referência transitória para realinhar preços relativos antes da reforma monetária."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 33,
+      "discipline": null,
+      "statement": "A partir da segunda metade do século XX, o Brasil aprofundou sua industrialização por substituição de importações. Um marco importante desse processo foi o Plano de Metas, implementado no governo Juscelino Kubitschek (1956-1961). Sobre as características e os efeitos do Plano de Metas, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Teve como eixo central a reforma agrária e a redistribuição de renda como condição prévia para a industrialização.",
+        "B": "Baseou-se em ampla liberalização comercial, com forte redução tarifária para expor a indústria nacional à concorrência externa.",
+        "C": "Baseou-se no tripé de investimentos: o Estado em infraestrutura e indústria de base, o capital nacional em bens de consumo e o capital estrangeiro em bens duráveis.",
+        "D": "Produziu estagnação econômica e queda persistente dos preços, em razão de uma política rigorosa de contenção do gasto público e da dívida externa.",
+        "E": "Concentrou-se exclusivamente na produção de bens de consumo não duráveis, deixando em segundo plano os investimentos em energia e transportes."
       },
       "answer": "C",
       "annulled": false,
@@ -389,13 +576,30 @@
         "B": "Compreender o orçamento fiscal, o orçamento de investimento das empresas estatais e o orçamento da seguridade social.",
         "C": "Autorizar a abertura de créditos suplementares e especiais por decreto do Poder Executivo, independentemente de autorização legislativa específica.",
         "D": "Estabelecer as metas fiscais, inclusive a de resultado primário, e dispor sobre alterações na legislação tributária e sobre a política de aplicação das agências financeiras oficiais de fomento.",
-        "E": "Estabelecer, de forma regionalizada, as diretrizes, os objetivos e as metas da administração pública para as despesas de capital e outras delas decorrentes, para um período de quatro anos. Na execução da despesa pública, o empenho é o ato emanado de autoridade competente que cria para o Estado a obrigação de pagamento, pendente ou não de implemento de condição. Sobre os tipos de empenho previstos na Lei nº 4.320/1964, assinale a opção que descreve corretamente o empenho global. (A) É utilizado para despesas cujo montante não possa ser previamente determinado, como gastos com energia elétrica ou telefone. (B) É destinado a despesas contratuais ou outras de valor previamente determinado, sujeitas a parcelamento, como aluguéis e certos contratos de prestação de serviços. (C) É o tipo de empenho obrigatório para todas as despesas de capital relacionadas a obras públicas com duração superior a um exercício financeiro. (D) Refere-se a despesas de valor determinado e pagamento único, em que a obrigação é liquidada integralmente de uma só vez. (E) Corresponde a uma reserva de contingência destinada exclusivamente a situações excepcionais, como calamidade pública ou guerra."
+        "E": "Estabelecer, de forma regionalizada, as diretrizes, os objetivos e as metas da administração pública para as despesas de capital e outras delas decorrentes, para um período de quatro anos."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "Na execução da despesa pública, o empenho é o ato emanado de autoridade competente que cria para o Estado a obrigação de pagamento, pendente ou não de implemento de condição. Sobre os tipos de empenho previstos na Lei nº 4.320/1964, assinale a opção que descreve corretamente o empenho global.",
+      "alternatives": {
+        "A": "É utilizado para despesas cujo montante não possa ser previamente determinado, como gastos com energia elétrica ou telefone.",
+        "B": "É destinado a despesas contratuais ou outras de valor previamente determinado, sujeitas a parcelamento, como aluguéis e certos contratos de prestação de serviços.",
+        "C": "É o tipo de empenho obrigatório para todas as despesas de capital relacionadas a obras públicas com duração superior a um exercício financeiro.",
+        "D": "Refere-se a despesas de valor determinado e pagamento único, em que a obrigação é liquidada integralmente de uma só vez.",
+        "E": "Corresponde a uma reserva de contingência destinada exclusivamente a situações excepcionais, como calamidade pública ou guerra."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
     },
     {
       "question_number": 36,
@@ -406,7 +610,24 @@
         "B": "deverá obrigatoriamente alienar ativos públicos em até 30 dias para abater o excedente da dívida.",
         "C": "ficará proibido de realizar operações de crédito, inclusive por antecipação de receita, ressalvadas as destinadas ao pagamento de dívidas mobiliárias, enquanto perdurar o excesso.",
         "D": "terá suas contas automaticamente rejeitadas pelo Tribunal de Contas, ainda que demonstre medidas de recondução da dívida.",
-        "E": "poderá emitir títulos da dívida para financiar despesas correntes, desde que haja autorização do Poder Executivo federal. A avaliação de políticas públicas é um processo sistemático que busca mensurar eficiência, eficácia e efetividade das ações governamentais. No desenho da avaliação, a escolha dos indicadores é crucial para a correta interpretação dos resultados. Considere um programa governamental de qualificação profissional. O indicador que mede a proporção de alunos egressos que conseguiram inserção no mercado de trabalho em até seis meses após a conclusão do curso é classificado como indicador de (A) eficiência, pois relaciona os custos do programa aos bens ou serviços produzidos. (B) produto (ou output), pois quantifica o número de certificados emitidos ao final do curso. (C) resultado, pois mensura a inserção profissional dos egressos após a conclusão da intervenção. (D) insumo (ou input), pois se refere aos recursos financeiros, humanos e materiais empregados na execução do programa. (E) processo, pois monitora a execução das atividades do curso, como frequência, carga horária e cumprimento do conteúdo programático."
+        "E": "poderá emitir títulos da dívida para financiar despesas correntes, desde que haja autorização do Poder Executivo federal."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 37,
+      "discipline": null,
+      "statement": "A avaliação de políticas públicas é um processo sistemático que busca mensurar eficiência, eficácia e efetividade das ações governamentais. No desenho da avaliação, a escolha dos indicadores é crucial para a correta interpretação dos resultados. Considere um programa governamental de qualificação profissional. O indicador que mede a proporção de alunos egressos que conseguiram inserção no mercado de trabalho em até seis meses após a conclusão do curso é classificado como indicador de",
+      "alternatives": {
+        "A": "eficiência, pois relaciona os custos do programa aos bens ou serviços produzidos.",
+        "B": "produto (ou output), pois quantifica o número de certificados emitidos ao final do curso.",
+        "C": "resultado, pois mensura a inserção profissional dos egressos após a conclusão da intervenção.",
+        "D": "insumo (ou input), pois se refere aos recursos financeiros, humanos e materiais empregados na execução do programa.",
+        "E": "processo, pois monitora a execução das atividades do curso, como frequência, carga horária e cumprimento do conteúdo programático."
       },
       "answer": "C",
       "annulled": false,
@@ -440,13 +661,30 @@
         "B": "a atividade seja exercida em regime de monopólio natural, com fortes economias de escala.",
         "C": "o bem envolvido seja um bem público puro, caracterizado por não rivalidade e não excludibilidade.",
         "D": "os direitos de propriedade estejam bem definidos e os custos de transação sejam nulos ou suficientemente baixos.",
-        "E": "a responsabilidade pelo dano recaia necessariamente sobre o agente poluidor, segundo o princípio do poluidor-pagador. A Teoria da Tributação analisa como os tributos afetam preços, quantidades e bem-estar econômico. Um dos conceitos centrais dessa análise é o peso morto do imposto (ou perda de eficiência), isto é, a redução do excedente total provocada pela contração das trocas. Mantidos constantes os demais fatores (ceteris paribus), a perda de bem-estar gerada pela instituição de um imposto sobre as vendas de um produto será tanto maior quanto (A) mais elástica for a oferta e mais elástica for a demanda. (B) mais inelástica for a oferta e mais inelástica for a demanda. (C) menor for a alíquota do imposto incidente sobre o mercado. (D) mais inelástica for a demanda, independentemente da elasticidade da oferta. (E) maior for a participação de bens complementares no consumo do produto tributado."
+        "E": "a responsabilidade pelo dano recaia necessariamente sobre o agente poluidor, segundo o princípio do poluidor-pagador."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 8
+    },
+    {
+      "question_number": 40,
+      "discipline": null,
+      "statement": "A Teoria da Tributação analisa como os tributos afetam preços, quantidades e bem-estar econômico. Um dos conceitos centrais dessa análise é o peso morto do imposto (ou perda de eficiência), isto é, a redução do excedente total provocada pela contração das trocas. Mantidos constantes os demais fatores (ceteris paribus), a perda de bem-estar gerada pela instituição de um imposto sobre as vendas de um produto será tanto maior quanto",
+      "alternatives": {
+        "A": "mais elástica for a oferta e mais elástica for a demanda.",
+        "B": "mais inelástica for a oferta e mais inelástica for a demanda.",
+        "C": "menor for a alíquota do imposto incidente sobre o mercado.",
+        "D": "mais inelástica for a demanda, independentemente da elasticidade da oferta.",
+        "E": "maior for a participação de bens complementares no consumo do produto tributado."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 41,
@@ -457,9 +695,26 @@
         "B": "as empresas reguladas possuem maior capacidade de organização, pressão política e lobby, influenciando as decisões da agência em benefício próprio.",
         "C": "o governo utiliza as agências reguladoras prioritariamente para elevar a arrecadação tributária no curto prazo e financiar outras políticas públicas.",
         "D": "o uso do regime de price cap reduz os incentivos das firmas reguladas à inovação tecnológica, à redução de custos e ao aumento da eficiência produtiva.",
-        "E": "a elevada rotatividade dos dirigentes das agências impede a formação de uma burocracia tecnicamente qualificada e compromete a continuidade da política regulatória. A dinâmica da dívida pública é tema central da economia do setor público, especialmente no debate sobre sustentabilidade fiscal. A evolução da razão Dívida/PIB depende, entre outros fatores, da taxa de juros real incidente sobre a dívida, da taxa de crescimento real da economia e do resultado primário do governo. Considere a equação usual da dinâmica da razão Dívida/PIB, em termos reais, desprezando outros fatores além dos juros, do crescimento econômico (PIB), do estoque da dívida e do resultado primário. Para que a razão Dívida/PIB permaneça estável em um cenário no qual a taxa de juros real 𝑟 é superior à taxa de crescimento real do produto 𝑔, o governo deve (A) financiar o pagamento de juros exclusivamente com emissão de nova dívida. (B) reduzir a carga tributária para elevar o consumo e ampliar a arrecadação futura. (C) gerar superávit primário suficiente para compensar o diferencial positivo entre 𝑟 e 𝑔. (D) promover desvalorização cambial para elevar o PIB nominal e reduzir automaticamente o peso da dívida pública. (E) manter resultado primário nulo, pois o crescimento econômico seria suficiente, por si só, para compensar o diferencial positivo entre 𝑟e 𝑔."
+        "E": "a elevada rotatividade dos dirigentes das agências impede a formação de uma burocracia tecnicamente qualificada e compromete a continuidade da política regulatória."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "A dinâmica da dívida pública é tema central da economia do setor público, especialmente no debate sobre sustentabilidade fiscal. A evolução da razão Dívida/PIB depende, entre outros fatores, da taxa de juros real incidente sobre a dívida, da taxa de crescimento real da economia e do resultado primário do governo. Considere a equação usual da dinâmica da razão Dívida/PIB, em termos reais, desprezando outros fatores além dos juros, do crescimento econômico (PIB), do estoque da dívida e do resultado primário. Para que a razão Dívida/PIB permaneça estável em um cenário no qual a taxa de juros real 𝑟 é superior à taxa de crescimento real do produto 𝑔, o governo deve",
+      "alternatives": {
+        "A": "financiar o pagamento de juros exclusivamente com emissão de nova dívida.",
+        "B": "reduzir a carga tributária para elevar o consumo e ampliar a arrecadação futura.",
+        "C": "gerar superávit primário suficiente para compensar o diferencial positivo entre 𝑟 e 𝑔.",
+        "D": "promover desvalorização cambial para elevar o PIB nominal e reduzir automaticamente o peso da dívida pública.",
+        "E": "manter resultado primário nulo, pois o crescimento econômico seria suficiente, por si só, para compensar o diferencial positivo entre 𝑟e 𝑔."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -474,13 +729,30 @@
         "B": "Desvia recursos produtivos para atividades de lobby e pressão política, visando obter privilégios econômicos, proteção regulatória ou transferências públicas em condições favorecidas.",
         "C": "Pode enfraquecer a concorrência e criar barreiras à entrada, mas aumenta o bem-estar coletivo ao garantir maior estabilidade institucional aos setores protegidos.",
         "D": "Estimula a destinação de recursos para disputas regulatórias e judiciais, o que pode elevar custos sociais, mas também favorece a alocação eficiente ao selecionar os setores mais rentáveis.",
-        "E": "Gera concentração de benefícios em grupos organizados e pode ampliar desigualdades, mas tende a elevar a produtividade agregada ao premiar os agentes politicamente mais influentes. Um economista está avaliando dois projetos de investimento mutuamente excludentes, A e B, por meio dos critérios do Valor Presente Líquido (VPL) e da Taxa Interna de Retorno (TIR). Ambos apresentam fluxos de caixa convencionais, isto é, um desembolso inicial seguido de entradas líquidas de caixa. Ao comparar esses critérios, assinale a afirmativa correta. (A) O método do VPL não pode ser aplicado a projetos com fluxos de caixa negativos em períodos intermediários. (B) O método do VPL supõe que os fluxos de caixa intermediários são reinvestidos à própria TIR do projeto. (C) O VPL de um projeto sendo positivo, então sua TIR será superior à taxa de desconto utilizada no cálculo. (D) O projeto com maior TIR será sempre aquele com maior VPL, independentemente da escala e do prazo do investimento. (E) A TIR é o critério preferencial quando os projetos têm diferentes escalas e durações, por ser uma medida absoluta de criação de valor."
+        "E": "Gera concentração de benefícios em grupos organizados e pode ampliar desigualdades, mas tende a elevar a produtividade agregada ao premiar os agentes politicamente mais influentes."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "Um economista está avaliando dois projetos de investimento mutuamente excludentes, A e B, por meio dos critérios do Valor Presente Líquido (VPL) e da Taxa Interna de Retorno (TIR). Ambos apresentam fluxos de caixa convencionais, isto é, um desembolso inicial seguido de entradas líquidas de caixa. Ao comparar esses critérios, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O método do VPL não pode ser aplicado a projetos com fluxos de caixa negativos em períodos intermediários.",
+        "B": "O método do VPL supõe que os fluxos de caixa intermediários são reinvestidos à própria TIR do projeto.",
+        "C": "O VPL de um projeto sendo positivo, então sua TIR será superior à taxa de desconto utilizada no cálculo.",
+        "D": "O projeto com maior TIR será sempre aquele com maior VPL, independentemente da escala e do prazo do investimento.",
+        "E": "A TIR é o critério preferencial quando os projetos têm diferentes escalas e durações, por ser uma medida absoluta de criação de valor."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 45,
@@ -508,9 +780,26 @@
         "B": "marcação a mercado – liquidez",
         "C": "marcação a mercado – risco de contraparte",
         "D": "prêmio de opção – volatilidade",
-        "E": "swap cambial – risco operacional A hipótese de Eficiência de Mercado classifica a eficiência do mercado de capitais em diferentes níveis, de acordo com o conjunto de informações incorporadas aos preços dos ativos. Relacione os níveis de eficiência listados a seguir às suas respectivas definições. (1) Eficiência na forma fraca (2) Eficiência na forma semiforte (3) Eficiência na forma forte ( ) Os preços refletem todas as informações públicas disponíveis, como demonstrações financeiras, anúncios de dividendos e demais fatos relevantes. ( ) Os preços refletem todas as informações disponíveis, inclusive as informações privilegiadas. ( ) Os preços incorporam informações contidas nos dados históricos de mercado, como preços e volumes passados. Assinale a opção que apresenta a sequência correta, segundo a ordem apresentada. (A) 1, 2 e 3. (B) 2, 3 e 1. (C) 3, 1 e 2. (D) 2, 1 e 3. (E) 3, 2 e 1."
+        "E": "swap cambial – risco operacional"
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "A hipótese de Eficiência de Mercado classifica a eficiência do mercado de capitais em diferentes níveis, de acordo com o conjunto de informações incorporadas aos preços dos ativos. Relacione os níveis de eficiência listados a seguir às suas respectivas definições. (1) Eficiência na forma fraca (2) Eficiência na forma semiforte (3) Eficiência na forma forte ( ) Os preços refletem todas as informações públicas disponíveis, como demonstrações financeiras, anúncios de dividendos e demais fatos relevantes. ( ) Os preços refletem todas as informações disponíveis, inclusive as informações privilegiadas. ( ) Os preços incorporam informações contidas nos dados históricos de mercado, como preços e volumes passados. Assinale a opção que apresenta a sequência correta, segundo a ordem apresentada.",
+      "alternatives": {
+        "A": "1, 2 e 3.",
+        "B": "2, 3 e 1.",
+        "C": "3, 1 e 2.",
+        "D": "2, 1 e 3.",
+        "E": "3, 2 e 1."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -525,13 +814,30 @@
         "B": "1, 2 e 3.",
         "C": "3, 1 e 2.",
         "D": "2, 1 e 3.",
-        "E": "3, 2 e 1. No controle da poluição, o governo pode utilizar instrumentos de comando e controle ou instrumentos de mercado. Entre os instrumentos de mercado, destacam-se os impostos pigouvianos e os sistemas de comércio de emissões (cap-and-trade). A esse respeito, leia o texto a seguir. “Enquanto os instrumentos de comando e controle impõem padrões tecnológicos ou limites diretos de emissão, os instrumentos de mercado buscam maior eficiência ao permitir que as firmas com menores __________ reduzam mais a poluição. No sistema de comércio de emissões, o governo fixa a __________ correspondente ao total de emissões permitidas, e o preço das permissões é determinado no mercado, incentivando a inovação e reduzindo o custo social da política ambiental.” Assinale a opção que apresenta os termos que preenchem corretamente as lacunas do texto acima. (A) custos marginais de abatimento – quantidade máxima (B) lucros operacionais – alíquota tributária (C) passivos ambientais – qualidade do ar (D) custos fixos de produção – intensidade energética (E) subsídios governamentais – oferta de energia"
+        "E": "3, 2 e 1."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 49,
+      "discipline": null,
+      "statement": "No controle da poluição, o governo pode utilizar instrumentos de comando e controle ou instrumentos de mercado. Entre os instrumentos de mercado, destacam-se os impostos pigouvianos e os sistemas de comércio de emissões (cap-and-trade). A esse respeito, leia o texto a seguir. “Enquanto os instrumentos de comando e controle impõem padrões tecnológicos ou limites diretos de emissão, os instrumentos de mercado buscam maior eficiência ao permitir que as firmas com menores __________ reduzam mais a poluição. No sistema de comércio de emissões, o governo fixa a __________ correspondente ao total de emissões permitidas, e o preço das permissões é determinado no mercado, incentivando a inovação e reduzindo o custo social da política ambiental.” Assinale a opção que apresenta os termos que preenchem corretamente as lacunas do texto acima.",
+      "alternatives": {
+        "A": "custos marginais de abatimento – quantidade máxima",
+        "B": "lucros operacionais – alíquota tributária",
+        "C": "passivos ambientais – qualidade do ar",
+        "D": "custos fixos de produção – intensidade energética",
+        "E": "subsídios governamentais – oferta de energia"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     },
     {
       "question_number": 50,
@@ -542,9 +848,26 @@
         "B": "V – V – F.",
         "C": "V – F – V.",
         "D": "F – V – F.",
-        "E": "F – F – V. Um dos desafios centrais da Economia Ambiental é valorar os benefícios que não decorrem do uso direto do recurso ambiental, como o valor atribuído à simples existência de uma floresta tropical ou de uma espécie ameaçada de extinção. Assinale a opção que indica o método primário de valoração ambiental mais adequado para estimar diretamente valor de existência — isto é, valor de não uso — por não depender de comportamentos observados em mercados relacionados. (A) O Método de Valoração Contingente, pois utiliza questionários para estimar a disposição dos indivíduos para pagar, em um mercado hipotético. (B) O Método dos Preços Hedônicos, pois isola o valor dos atributos ambientais com base em diferenças nos preços de imóveis. (C) O Método do Custo de Viagem, pois estima a demanda por serviços ecossistêmicos a partir dos gastos de deslocamento dos usuários. (D) O Método da Função de Produção, pois mensura como mudanças na qualidade ambiental afetam a produtividade ou o lucro de atividades econômicas. (E) O Método de Transferência de Benefícios, pois utiliza estimativas obtidas em estudos anteriores realizados em outros contextos."
+        "E": "F – F – V."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "Um dos desafios centrais da Economia Ambiental é valorar os benefícios que não decorrem do uso direto do recurso ambiental, como o valor atribuído à simples existência de uma floresta tropical ou de uma espécie ameaçada de extinção. Assinale a opção que indica o método primário de valoração ambiental mais adequado para estimar diretamente valor de existência — isto é, valor de não uso — por não depender de comportamentos observados em mercados relacionados.",
+      "alternatives": {
+        "A": "O Método de Valoração Contingente, pois utiliza questionários para estimar a disposição dos indivíduos para pagar, em um mercado hipotético.",
+        "B": "O Método dos Preços Hedônicos, pois isola o valor dos atributos ambientais com base em diferenças nos preços de imóveis.",
+        "C": "O Método do Custo de Viagem, pois estima a demanda por serviços ecossistêmicos a partir dos gastos de deslocamento dos usuários.",
+        "D": "O Método da Função de Produção, pois mensura como mudanças na qualidade ambiental afetam a produtividade ou o lucro de atividades econômicas.",
+        "E": "O Método de Transferência de Benefícios, pois utiliza estimativas obtidas em estudos anteriores realizados em outros contextos."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -559,13 +882,30 @@
         "B": "Uma taxa de desconto elevada favorece projetos cujos custos ocorrem no presente e cujos benefícios ambientais se manifestam apenas no longo prazo.",
         "C": "O uso de taxas de desconto negativas é o procedimento padrão adotado pelo Banco Mundial para avaliar investimentos em infraestrutura verde.",
         "D": "O custo de oportunidade do capital privado constitui, de forma inequívoca, a taxa tecnicamente mais adequada para descontar benefícios associados a bens públicos globais.",
-        "E": "Taxas de desconto mais baixas elevam o valor presente dos benefícios futuros, tornando projetos de preservação e mitigação ambiental mais atrativos do ponto de vista econômico. No modelo de regressão linear clássica, especialmente em regressões múltiplas, podem surgir problemas econométricos que afetam a precisão dos estimadores ou a validade dos testes usuais. Relacione os problemas estatísticos listados a seguir à sua respectiva característica ou consequência. (1) Heterocedasticidade (2) Autocorrelação (3) Multicolinearidade ( ) Ocorre quando as variáveis explicativas são fortemente correlacionadas entre si, dificultando a identificação do efeito individual de cada uma sobre a variável dependente. ( ) A variância do termo de erro não é constante entre as observações, o que compromete a validade dos testes usuais na forma padrão, embora os estimadores de MQO permaneçam não viesados sob exogeneidade. ( ) Os termos de erro de diferentes observações são correlacionados entre si, fenômeno frequente em séries temporais. Assinale a opção que indica a sequência correta, segundo a ordem apresentada. (A) 1, 2 e 3. (B) 1, 3 e 2. (C) 2, 1 e 3. (D) 3, 2 e 1. (E) 3, 1 e 2."
+        "E": "Taxas de desconto mais baixas elevam o valor presente dos benefícios futuros, tornando projetos de preservação e mitigação ambiental mais atrativos do ponto de vista econômico."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "No modelo de regressão linear clássica, especialmente em regressões múltiplas, podem surgir problemas econométricos que afetam a precisão dos estimadores ou a validade dos testes usuais. Relacione os problemas estatísticos listados a seguir à sua respectiva característica ou consequência. (1) Heterocedasticidade (2) Autocorrelação (3) Multicolinearidade ( ) Ocorre quando as variáveis explicativas são fortemente correlacionadas entre si, dificultando a identificação do efeito individual de cada uma sobre a variável dependente. ( ) A variância do termo de erro não é constante entre as observações, o que compromete a validade dos testes usuais na forma padrão, embora os estimadores de MQO permaneçam não viesados sob exogeneidade. ( ) Os termos de erro de diferentes observações são correlacionados entre si, fenômeno frequente em séries temporais. Assinale a opção que indica a sequência correta, segundo a ordem apresentada.",
+      "alternatives": {
+        "A": "1, 2 e 3.",
+        "B": "1, 3 e 2.",
+        "C": "2, 1 e 3.",
+        "D": "3, 2 e 1.",
+        "E": "3, 1 e 2."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     },
     {
       "question_number": 54,
@@ -576,7 +916,24 @@
         "B": "rejeita — falsa — poder",
         "C": "aceita — verdadeira — significância",
         "D": "rejeita — verdadeira — significância",
-        "E": "rejeita — verdadeira — poder O Teorema de Gauss-Markov estabelece as condições sob as quais o estimador de Mínimos Quadrados Ordinários (MQO) é o melhor estimador linear não viesado (BLUE). Sobre as propriedades dos estimadores, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Um estimador é dito não viesado quando seu valor esperado é igual ao verdadeiro parâmetro populacional. ( ) Um estimador é consistente quando, à medida que o tamanho da amostra cresce, ele converge em probabilidade para o verdadeiro valor do parâmetro. ( ) Segundo o Teorema de Gauss-Markov, o estimador de MQO permanece BLUE mesmo quando há endogeneidade, isto é, correlação entre regressor e termo de erro. As afirmativas são, respectivamente, (A) V – V – V. (B) V – F – V. (C) F – V – F. (D) V – V – F. (E) F – F – V."
+        "E": "rejeita — verdadeira — poder"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 55,
+      "discipline": null,
+      "statement": "O Teorema de Gauss-Markov estabelece as condições sob as quais o estimador de Mínimos Quadrados Ordinários (MQO) é o melhor estimador linear não viesado (BLUE). Sobre as propriedades dos estimadores, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Um estimador é dito não viesado quando seu valor esperado é igual ao verdadeiro parâmetro populacional. ( ) Um estimador é consistente quando, à medida que o tamanho da amostra cresce, ele converge em probabilidade para o verdadeiro valor do parâmetro. ( ) Segundo o Teorema de Gauss-Markov, o estimador de MQO permanece BLUE mesmo quando há endogeneidade, isto é, correlação entre regressor e termo de erro. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "V – F – V.",
+        "C": "F – V – F.",
+        "D": "V – V – F.",
+        "E": "F – F – V."
       },
       "answer": "D",
       "annulled": false,
@@ -610,13 +967,47 @@
         "B": "0,50 e 0,10.",
         "C": "0,25 e 0,00.",
         "D": "0,20 e 0,20.",
-        "E": "0,50 e 0,00. Na elaboração de documentos técnicos, a estrutura e a fundamentação são essenciais para garantir clareza, rastreabilidade e utilidade decisória do documento. Sobre a estrutura de laudos e pareceres técnicos, assinale a afirmativa correta. (A) O parecer técnico pode concentrar-se predominantemente na conclusão final do especialista, sendo dispensável a apresentação explícita do método, das fontes utilizadas e da delimitação precisa do objeto analisado, desde que a redação seja técnica. (B) Um parecer técnico bem elaborado deve delimitar o objeto de análise, explicitar as fontes e os procedimentos adotados, desenvolver a fundamentação de forma lógica e apresentar conclusão coerente com os elementos examinados. (C) Em laudos e pareceres, a descrição detalhada da análise pode ser substituída por referências à experiência profissional do responsável técnico, desde que o documento contenha linguagem formal e uma recomendação final objetiva. (D) A estrutura de documentos técnicos deve priorizar a emissão de opinião conclusiva, podendo a exposição dos dados, critérios de análise e eventuais limitações do exame ser feita apenas de modo resumido ou implícito ao longo do texto. (E) A organização lógica das seções e a indicação dos fundamentos técnicos tornam-se secundárias se o documento circula apenas internamente, pois a exigência de maior rigor estrutural se aplica sobretudo a trabalhos acadêmicos e publicações formais. Um projeto de lei estadual cria uma vantagem pecuniária mensal para determinada categoria de servidores, com execução obrigatória por prazo indeterminado. No que se refere à estimativa de impacto orçamentário-financeiro exigida pelo art. 16, inciso I, da Lei de Responsabilidade Fiscal, aplicável à despesa obrigatória de caráter continuado nos termos do art. 17, § 1º, da mesma lei, essa medida deve considerar (A) o exercício em que a despesa deva entrar em vigor. (B) o exercício em que a despesa deva entrar em vigor e o exercício seguinte. (C) o exercício em que a despesa deva entrar em vigor e os dois subsequentes. (D) o exercício em que a despesa deva entrar em vigor e os quatro subsequentes. (E) todo o período de execução da despesa."
+        "E": "0,50 e 0,00."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12
+    },
+    {
+      "question_number": 58,
+      "discipline": null,
+      "statement": "Na elaboração de documentos técnicos, a estrutura e a fundamentação são essenciais para garantir clareza, rastreabilidade e utilidade decisória do documento. Sobre a estrutura de laudos e pareceres técnicos, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O parecer técnico pode concentrar-se predominantemente na conclusão final do especialista, sendo dispensável a apresentação explícita do método, das fontes utilizadas e da delimitação precisa do objeto analisado, desde que a redação seja técnica.",
+        "B": "Um parecer técnico bem elaborado deve delimitar o objeto de análise, explicitar as fontes e os procedimentos adotados, desenvolver a fundamentação de forma lógica e apresentar conclusão coerente com os elementos examinados.",
+        "C": "Em laudos e pareceres, a descrição detalhada da análise pode ser substituída por referências à experiência profissional do responsável técnico, desde que o documento contenha linguagem formal e uma recomendação final objetiva.",
+        "D": "A estrutura de documentos técnicos deve priorizar a emissão de opinião conclusiva, podendo a exposição dos dados, critérios de análise e eventuais limitações do exame ser feita apenas de modo resumido ou implícito ao longo do texto.",
+        "E": "A organização lógica das seções e a indicação dos fundamentos técnicos tornam-se secundárias se o documento circula apenas internamente, pois a exigência de maior rigor estrutural se aplica sobretudo a trabalhos acadêmicos e publicações formais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "Um projeto de lei estadual cria uma vantagem pecuniária mensal para determinada categoria de servidores, com execução obrigatória por prazo indeterminado. No que se refere à estimativa de impacto orçamentário-financeiro exigida pelo art. 16, inciso I, da Lei de Responsabilidade Fiscal, aplicável à despesa obrigatória de caráter continuado nos termos do art. 17, § 1º, da mesma lei, essa medida deve considerar",
+      "alternatives": {
+        "A": "o exercício em que a despesa deva entrar em vigor.",
+        "B": "o exercício em que a despesa deva entrar em vigor e o exercício seguinte.",
+        "C": "o exercício em que a despesa deva entrar em vigor e os dois subsequentes.",
+        "D": "o exercício em que a despesa deva entrar em vigor e os quatro subsequentes.",
+        "E": "todo o período de execução da despesa."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
     },
     {
       "question_number": 60,
@@ -627,7 +1018,7 @@
         "B": "Restos a pagar não processados sempre constituem passivo exigível e devem ser reconhecidos patrimonialmente desde o momento da inscrição, ainda que o fato gerador da obrigação não tenha ocorrido.",
         "C": "A aquisição à vista de um veículo constitui, por definição, despesa orçamentária efetiva, pois a saída de caixa reduz a situação patrimonial líquida, ainda que haja incorporação simultânea do bem ao ativo.",
         "D": "A aquisição à vista de ativo imobilizado e a amortização do principal de dívida anteriormente reconhecida correspondem, em regra, a despesas orçamentárias não efetivas, por representarem fatos permutativos.",
-        "E": "A amortização do principal de dívida anteriormente reconhecida constitui despesa orçamentária efetiva, pois sua quitação gera variação patrimonial diminutiva no momento do pagamento, ainda que haja baixa simultânea do passivo. 1 Durante a elaboração da proposta orçamentária anual do Ministério Público do Estado do Espírito Santo, a equipe técnica identificou a necessidade de compatibilizar novas demandas institucionais com as metas fiscais e as prioridades estabelecidas para o exercício seguinte. Nesse contexto, a Lei de Diretrizes Orçamentárias (LDO) desempenha papel fundamental na articulação entre o planejamento governamental e a elaboração do orçamento anual. Com base nessa situação e na legislação aplicável, elabore um texto dissertativo que contemple os itens a seguir: a) explique a função da Lei de Diretrizes Orçamentárias (LDO) na elaboração da proposta orçamentária anual do MPES, destacando sua relação com o Plano Plurianual (PPA) e com a Lei Orçamentária Anual (LOA); e b) indique e explique brevemente dois conteúdos ou matérias que, nos termos da Constituição Federal e da Lei de Responsabilidade Fiscal, devem constar da LDO. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Durante a elaboração de nota técnica destinada a subsidiar o planejamento orçamentário do Ministério Público do Estado do Espírito Santo, a equipe econômica analisa o cenário macrofiscal e seus possíveis efeitos sobre as receitas públicas e a sustentabilidade fiscal. Em uma das discussões, observou-se que o resultado primário apurado em determinado exercício pode refletir efeitos temporários do ciclo econômico, dificultando a identificação da orientação discricionária da política fiscal e avaliação de seus impactos sobre a trajetória da dívida pública. Com base nessa situação, elabore um texto dissertativo respondendo aos itens a seguir: a) diferencie o resultado primário observado (não ajustado ao ciclo) do resultado primário ciclicamente ajustado, indicando por que este último pode ser mais informativo para avaliar a orientação discricionária da política fiscal; e b) explique as condições necessárias para a estabilização da relação dívida/PIB, destacando o papel da diferença entre a taxa real de juros e a taxa real de crescimento do PIB. Em seguida, comente como a hipótese de equivalência ricardiana influencia a análise de cortes de tributos financiados por emissão de dívida pública. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+        "E": "A amortização do principal de dívida anteriormente reconhecida constitui despesa orçamentária efetiva, pois sua quitação gera variação patrimonial diminutiva no momento do pagamento, ainda que haja baixa simultânea do passivo. Prova Discursiva 1 Durante a elaboração da proposta orçamentária anual do Ministério Público do Estado do Espírito Santo, a equipe técnica identificou a necessidade de compatibilizar novas demandas institucionais com as metas fiscais e as prioridades estabelecidas para o exercício seguinte. Nesse contexto, a Lei de Diretrizes Orçamentárias (LDO) desempenha papel fundamental na articulação entre o planejamento governamental e a elaboração do orçamento anual. Com base nessa situação e na legislação aplicável, elabore um texto dissertativo que contemple os itens a seguir: a) explique a função da Lei de Diretrizes Orçamentárias (LDO) na elaboração da proposta orçamentária anual do MPES, destacando sua relação com o Plano Plurianual (PPA) e com a Lei Orçamentária Anual (LOA); e b) indique e explique brevemente dois conteúdos ou matérias que, nos termos da Constituição Federal e da Lei de Responsabilidade Fiscal, devem constar da LDO. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 Durante a elaboração de nota técnica destinada a subsidiar o planejamento orçamentário do Ministério Público do Estado do Espírito Santo, a equipe econômica analisa o cenário macrofiscal e seus possíveis efeitos sobre as receitas públicas e a sustentabilidade fiscal. Em uma das discussões, observou-se que o resultado primário apurado em determinado exercício pode refletir efeitos temporários do ciclo econômico, dificultando a identificação da orientação discricionária da política fiscal e avaliação de seus impactos sobre a trajetória da dívida pública. Com base nessa situação, elabore um texto dissertativo respondendo aos itens a seguir: a) diferencie o resultado primário observado (não ajustado ao ciclo) do resultado primário ciclicamente ajustado, indicando por que este último pode ser mais informativo para avaliar a orientação discricionária da política fiscal; e b) explique as condições necessárias para a estabilização da relação dívida/PIB, destacando o papel da diferença entre a taxa real de juros e a taxa real de crescimento do PIB. Em seguida, comente como a hipótese de equivalência ricardiana influencia a análise de cortes de tributos financiados por emissão de dívida pública. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
       "answer": "D",
       "annulled": false,

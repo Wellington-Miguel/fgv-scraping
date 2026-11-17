@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - Biólogo",
   "exam_type": "Tipo 1",
-  "total_questions": 33,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-biologo_q12.png",
       "page_number": 3
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 21,
@@ -270,9 +372,26 @@
         "B": "Strongyloides stercoralis; controle de vetores hematófagos.",
         "C": "Ancylostoma duodenale; uso de calçados e medidas sanitárias.",
         "D": "Trichuris trichiura; tratamento em massa com anti- helmínticos.",
-        "E": "Ascaris lumbricoides; tratamento da água e higienização dos alimentos. “O Espírito Santo vem registrando um aumento significativo de casos de arboviroses [...] Dados do Painel de Monitoramento de Arboviroses mostram que, em 2024, o Espírito Santo contabilizou 152,8 mil casos prováveis de dengue [...] Os números indicam ainda que, dos 9,6 mil casos de febre do Oropouche registrados no país este ano, o Espírito Santo respondeu por 1.763 casos. Já entre os 363,5 mil casos prováveis de chikungunya, o estado concentrou 13.309. Por fim, dos 6,4 mil casos prováveis de zika, 516 infecções foram identificadas no estado.” https://agenciabrasil.ebc.com.br/saude/noticia/2024-12/espirito-santo-tem- aumento-significativo-de-casos-de-arboviroses>(adaptado) Arboviroses são doenças virais transmitidas pela picada de mosquitos, principalmente fêmeas. Geralmente apresentam sinais e sintomas comuns incluindo febre, dor no corpo e ocorrência de manchas no corpo. Mas também há sinais e sintomas específicos e que permitem, muitas vezes, a distinção entre as doenças. A ocorrência de complicações neurológicas como microcefalia congênita e síndrome de Guillain-Barré (SGB) são comuns nos casos de (A) Zika. (B) Dengue. (C) Chikungunya. (D) Febre Amarela. (E) Febre Oropouche."
+        "E": "Ascaris lumbricoides; tratamento da água e higienização dos alimentos."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": null,
+      "statement": "“O Espírito Santo vem registrando um aumento significativo de casos de arboviroses [...] Dados do Painel de Monitoramento de Arboviroses mostram que, em 2024, o Espírito Santo contabilizou 152,8 mil casos prováveis de dengue [...] Os números indicam ainda que, dos 9,6 mil casos de febre do Oropouche registrados no país este ano, o Espírito Santo respondeu por 1.763 casos. Já entre os 363,5 mil casos prováveis de chikungunya, o estado concentrou 13.309. Por fim, dos 6,4 mil casos prováveis de zika, 516 infecções foram identificadas no estado.” https://agenciabrasil.ebc.com.br/saude/noticia/2024-12/espirito-santo-tem- aumento-significativo-de-casos-de-arboviroses>(adaptado) Arboviroses são doenças virais transmitidas pela picada de mosquitos, principalmente fêmeas. Geralmente apresentam sinais e sintomas comuns incluindo febre, dor no corpo e ocorrência de manchas no corpo. Mas também há sinais e sintomas específicos e que permitem, muitas vezes, a distinção entre as doenças. A ocorrência de complicações neurológicas como microcefalia congênita e síndrome de Guillain-Barré (SGB) são comuns nos casos de",
+      "alternatives": {
+        "A": "Zika.",
+        "B": "Dengue.",
+        "C": "Chikungunya.",
+        "D": "Febre Amarela.",
+        "E": "Febre Oropouche."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -287,13 +406,30 @@
         "B": "Exclusão competitiva e atuação como engenheiros de ecossistemas.",
         "C": "Hibridização com espécies nativas, reduzindo a diversidade genética e evolutiva.",
         "D": "Introdução de patógenos específicos que afetam apenas as espécies nativas.",
-        "E": "Ampliação da diversidade funcional por meio da alteração na distribuição de recursos. A legislação que trata das Espécies da Fauna Ameaçadas de Extinção no Brasil (Portarias MMA n° 444/2014, 445/2014 e 148/2022) dispõe que as espécies classificadas nas categorias Extintas na Natureza (EW), Criticamente em Perigo (CR), Em Perigo (EN) e Vulnerável (VU) podem ter sua captura, transporte, armazenamento, guarda e manejo de exemplares permitido para fins de pesquisa ou para a conservação em unidades de conservação federais. A autorização para esse tipo de uso deve ser obtida junto ao (A) Instituto Estadual de Meio Ambiente. (B) Conselho Nacional do Meio Ambiente. (C) Ministério do Meio Ambiente e Mudança do Clima. (D) Instituto Chico Mendes de Conservação da Biodiversidade. (E) Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis."
+        "E": "Ampliação da diversidade funcional por meio da alteração na distribuição de recursos."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 25,
+      "discipline": null,
+      "statement": "A legislação que trata das Espécies da Fauna Ameaçadas de Extinção no Brasil (Portarias MMA n° 444/2014, 445/2014 e 148/2022) dispõe que as espécies classificadas nas categorias Extintas na Natureza (EW), Criticamente em Perigo (CR), Em Perigo (EN) e Vulnerável (VU) podem ter sua captura, transporte, armazenamento, guarda e manejo de exemplares permitido para fins de pesquisa ou para a conservação em unidades de conservação federais. A autorização para esse tipo de uso deve ser obtida junto ao",
+      "alternatives": {
+        "A": "Instituto Estadual de Meio Ambiente.",
+        "B": "Conselho Nacional do Meio Ambiente.",
+        "C": "Ministério do Meio Ambiente e Mudança do Clima.",
+        "D": "Instituto Chico Mendes de Conservação da Biodiversidade.",
+        "E": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 26,
@@ -304,13 +440,47 @@
         "B": "Manter-se no caso, pois não há vínculo atual com a sociedade empresária.",
         "C": "Prosseguir normalmente, desde que sua análise seja tecnicamente correta.",
         "D": "Delegar parte da análise a outro profissional, mantendo-se como responsável técnico.",
-        "E": "Informar o vínculo anterior e avaliar com a equipe a possibilidade de impedimento. O litoral norte do Espírito Santo, próximo à foz do Rio Doce, foi atingido por um derramamento de óleo cru que provocou a contaminação de sedimentos e manguezais, afetando diretamente as comunidades de organismos bentônicos e a atividade pesqueira local. Estudos preliminares indicaram a presença de hidrocarbonetos policíclicos aromáticos (HPAs) persistentes no ambiente, com baixa taxa de degradação natural. Uma equipe multidisciplinar foi acionada para propor uma estratégia de biorremediação. Considerando fatores como salinidade, disponibilidade de nutrientes e atividade microbiana autóctone, assinale a opção que, para mitigar o impacto ambiental descrito, apresenta a abordagem eficiente, ambientalmente sustentável e aplicável às condições locais. (A) Promover a adição controlada de nutrientes limitantes (nitrogênio e fósforo), ajustando a razão C:N:P para favorecer a atividade de consórcios microbianos autóctones degradadores de hidrocarbonetos, mantendo as condições ambientais locais. (B) Realizar a introdução de cepas bacterianas previamente isoladas de ambientes marinhos contaminados, selecionadas por sua elevada eficiência na degradação de HPAs, independentemente de sua origem geográfica. (C) Empregar biorremediação ex situ com dragagem seletiva dos sedimentos mais contaminados, seguida de tratamento biológico em biorreatores aeróbios, com posterior reintrodução do material tratado no ambiente original. (D) Aplicar técnicas combinadas de atenuação natural monitorada e bioestimulação leve, priorizando a manutenção das condições naturais e evitando alterações significativas na dinâmica biogeoquímica do sedimento. (E) Estimular a degradação por meio da oxigenação artificial do sedimento (bioventilação), aumentando a atividade microbiana aeróbia sem necessidade de adição de nutrientes externos. No litoral norte do estado do Espírito Santo, uma sociedade empresária do setor de energia propôs a instalação de um terminal marítimo para apoio às atividades offshore, incluindo a dragagem de canal de acesso, a construção de píer e o aumento do tráfego de embarcações. A área de influência direta do empreendimento abrange ecossistemas sensíveis, como recifes, áreas de reprodução de tartarugas marinhas e unidades de conservação federais próximas. Durante a fase inicial do processo, verificou-se que os impactos potenciais extrapolam os limites estaduais, podendo afetar correntes marinhas e áreas costeiras de outros estados. Considerando o disposto na Instrução Normativa IBAMA nº 14/2011, assinale a opção que apresenta o procedimento adequado para a condução do licenciamento ambiental do empreendimento. (A) O licenciamento deve ser conduzido pelo IEMA, com apoio técnico do IBAMA apenas na fase de monitoramento, devido à localização do empreendimento em território capixaba. (B) O empreendedor deve solicitar diretamente a Licença de Operação ao IBAMA, uma vez que o impacto ambiental já foi previamente identificado em estudos preliminares. (C) O licenciamento deve ser conduzido pelo IBAMA, com exigência de Estudo de Impacto Ambiental e do Relatório de Impacto Ambiental, considerando o potencial impacto interestadual e em bens da União. (D) O licenciamento pode ser dispensado caso o empreendimento apresente medidas compensatórias suficientes para mitigar impactos sobre a fauna marinha. (E) O processo deve ser conduzido de forma simplificada pelo Município, desde que haja concordância dos órgãos estaduais e federais envolvidos."
+        "E": "Informar o vínculo anterior e avaliar com a equipe a possibilidade de impedimento."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 27,
+      "discipline": null,
+      "statement": "O litoral norte do Espírito Santo, próximo à foz do Rio Doce, foi atingido por um derramamento de óleo cru que provocou a contaminação de sedimentos e manguezais, afetando diretamente as comunidades de organismos bentônicos e a atividade pesqueira local. Estudos preliminares indicaram a presença de hidrocarbonetos policíclicos aromáticos (HPAs) persistentes no ambiente, com baixa taxa de degradação natural. Uma equipe multidisciplinar foi acionada para propor uma estratégia de biorremediação. Considerando fatores como salinidade, disponibilidade de nutrientes e atividade microbiana autóctone, assinale a opção que, para mitigar o impacto ambiental descrito, apresenta a abordagem eficiente, ambientalmente sustentável e aplicável às condições locais.",
+      "alternatives": {
+        "A": "Promover a adição controlada de nutrientes limitantes (nitrogênio e fósforo), ajustando a razão C:N:P para favorecer a atividade de consórcios microbianos autóctones degradadores de hidrocarbonetos, mantendo as condições ambientais locais.",
+        "B": "Realizar a introdução de cepas bacterianas previamente isoladas de ambientes marinhos contaminados, selecionadas por sua elevada eficiência na degradação de HPAs, independentemente de sua origem geográfica.",
+        "C": "Empregar biorremediação ex situ com dragagem seletiva dos sedimentos mais contaminados, seguida de tratamento biológico em biorreatores aeróbios, com posterior reintrodução do material tratado no ambiente original.",
+        "D": "Aplicar técnicas combinadas de atenuação natural monitorada e bioestimulação leve, priorizando a manutenção das condições naturais e evitando alterações significativas na dinâmica biogeoquímica do sedimento.",
+        "E": "Estimular a degradação por meio da oxigenação artificial do sedimento (bioventilação), aumentando a atividade microbiana aeróbia sem necessidade de adição de nutrientes externos."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "No litoral norte do estado do Espírito Santo, uma sociedade empresária do setor de energia propôs a instalação de um terminal marítimo para apoio às atividades offshore, incluindo a dragagem de canal de acesso, a construção de píer e o aumento do tráfego de embarcações. A área de influência direta do empreendimento abrange ecossistemas sensíveis, como recifes, áreas de reprodução de tartarugas marinhas e unidades de conservação federais próximas. Durante a fase inicial do processo, verificou-se que os impactos potenciais extrapolam os limites estaduais, podendo afetar correntes marinhas e áreas costeiras de outros estados. Considerando o disposto na Instrução Normativa IBAMA nº 14/2011, assinale a opção que apresenta o procedimento adequado para a condução do licenciamento ambiental do empreendimento.",
+      "alternatives": {
+        "A": "O licenciamento deve ser conduzido pelo IEMA, com apoio técnico do IBAMA apenas na fase de monitoramento, devido à localização do empreendimento em território capixaba.",
+        "B": "O empreendedor deve solicitar diretamente a Licença de Operação ao IBAMA, uma vez que o impacto ambiental já foi previamente identificado em estudos preliminares.",
+        "C": "O licenciamento deve ser conduzido pelo IBAMA, com exigência de Estudo de Impacto Ambiental e do Relatório de Impacto Ambiental, considerando o potencial impacto interestadual e em bens da União.",
+        "D": "O licenciamento pode ser dispensado caso o empreendimento apresente medidas compensatórias suficientes para mitigar impactos sobre a fauna marinha.",
+        "E": "O processo deve ser conduzido de forma simplificada pelo Município, desde que haja concordância dos órgãos estaduais e federais envolvidos."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 29,
@@ -321,9 +491,26 @@
         "B": "Apenas responsabilização criminal dos gestores, sem aplicação de sanções administrativas à sociedade empresária.",
         "C": "Aplicação de penalidades somente após decisão judicial definitiva, sem possibilidade de atuação administrativa imediata.",
         "D": "Suspensão das atividades e aplicação de sanções administrativas, tais como multa, sem prejuízo de outras penalidades civis e penais cabíveis.",
-        "E": "Aplicação somente de uma advertência, independentemente da gravidade da infração, com recomendação expressa de regularização imediata das atividades. Uma sociedade empresária do agronegócio pretende expandir sua produção de soja utilizando sementes geneticamente modificadas resistentes a herbicidas, associadas ao uso intensivo de agrotóxicos. O projeto envolve desmatamento de área significativa, próxima a uma unidade de conservação federal, além do uso de um novo produto ainda em fase de registro no Brasil. Durante a análise do empreendimento, foram identificados potenciais impactos cumulativos sobre a biodiversidade local e risco de contaminação de recursos hídricos. Considerando a atuação integrada dos órgãos públicos competentes e a legislação pertinente (Lei nº 11.105/2005, Lei nº 14.785/2023 e Instrução Normativa IBAMA Lei nº 14/2011), assinale a opção que apresenta a abordagem correta. (A) Delegar toda a análise à CTNBio, por se tratar de organismo geneticamente modificado. (B) Autorizar o empreendimento com base apenas na análise agronômica da produtividade da cultura. (C) Autorizar o empreendimento com base em estudos simplificados, devido à grande relevância econômica do projeto. (D) Permitir o uso do agrotóxico em fase de registro, desde que associado ao cultivo de organismo geneticamente modificado aprovado. (E) Exigir o licenciamento ambiental, a avaliação da CTNBio quanto ao organismo geneticamente modificado e o uso de agrotóxicos devidamente registrados."
+        "E": "Aplicação somente de uma advertência, independentemente da gravidade da infração, com recomendação expressa de regularização imediata das atividades."
       },
       "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 30,
+      "discipline": null,
+      "statement": "Uma sociedade empresária do agronegócio pretende expandir sua produção de soja utilizando sementes geneticamente modificadas resistentes a herbicidas, associadas ao uso intensivo de agrotóxicos. O projeto envolve desmatamento de área significativa, próxima a uma unidade de conservação federal, além do uso de um novo produto ainda em fase de registro no Brasil. Durante a análise do empreendimento, foram identificados potenciais impactos cumulativos sobre a biodiversidade local e risco de contaminação de recursos hídricos. Considerando a atuação integrada dos órgãos públicos competentes e a legislação pertinente (Lei nº 11.105/2005, Lei nº 14.785/2023 e Instrução Normativa IBAMA Lei nº 14/2011), assinale a opção que apresenta a abordagem correta.",
+      "alternatives": {
+        "A": "Delegar toda a análise à CTNBio, por se tratar de organismo geneticamente modificado.",
+        "B": "Autorizar o empreendimento com base apenas na análise agronômica da produtividade da cultura.",
+        "C": "Autorizar o empreendimento com base em estudos simplificados, devido à grande relevância econômica do projeto.",
+        "D": "Permitir o uso do agrotóxico em fase de registro, desde que associado ao cultivo de organismo geneticamente modificado aprovado.",
+        "E": "Exigir o licenciamento ambiental, a avaliação da CTNBio quanto ao organismo geneticamente modificado e o uso de agrotóxicos devidamente registrados."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -338,13 +525,30 @@
         "B": "ontológicos.",
         "C": "homoplásicos.",
         "D": "plesiomórficos.",
-        "E": "sinapomórficos. No que se refere à Biologia da Conservação e às estratégias voltadas à conservação de espécies, habitats e paisagens no Brasil, assinale a afirmativa correta. (A) A abordagem conservacionista da paisagem considera exclusivamente os fragmentos naturais preservados para a manutenção da biodiversidade. (B) O uso direto de recursos naturais em unidades de proteção integral é permitido apenas em algumas categorias, tais como os Parques Nacionais e as Reservas Biológicas. (C) A extração seletiva de recursos e a implantação de sistemas agroflorestais podem ocorrer em áreas de reserva legal, conforme as condições especificadas em lei. (D) A biologia da conservação se baseia na aplicação de princípios ecológicos e genéticos sob análise técnico-científica e desconsidera fatores sociais, políticos ou econômicos. (E) A conservação de recursos genéticos por meio de bancos genéticos (ex situ) e a preservação de espécies em seus hábitats naturais (in situ) não devem ser utilizadas conjuntamente no enfrentamento das mudanças climáticas."
+        "E": "sinapomórficos."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 32,
+      "discipline": null,
+      "statement": "No que se refere à Biologia da Conservação e às estratégias voltadas à conservação de espécies, habitats e paisagens no Brasil, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A abordagem conservacionista da paisagem considera exclusivamente os fragmentos naturais preservados para a manutenção da biodiversidade.",
+        "B": "O uso direto de recursos naturais em unidades de proteção integral é permitido apenas em algumas categorias, tais como os Parques Nacionais e as Reservas Biológicas.",
+        "C": "A extração seletiva de recursos e a implantação de sistemas agroflorestais podem ocorrer em áreas de reserva legal, conforme as condições especificadas em lei.",
+        "D": "A biologia da conservação se baseia na aplicação de princípios ecológicos e genéticos sob análise técnico-científica e desconsidera fatores sociais, políticos ou econômicos.",
+        "E": "A conservação de recursos genéticos por meio de bancos genéticos (ex situ) e a preservação de espécies em seus hábitats naturais (in situ) não devem ser utilizadas conjuntamente no enfrentamento das mudanças climáticas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
     },
     {
       "question_number": 33,
@@ -372,7 +576,24 @@
         "B": "O MP não pode requisitar informações técnicas durante o inquérito civil.",
         "C": "O MP tem atuação limitada em casos envolvendo sociedades empresárias privadas.",
         "D": "O inquérito civil possui natureza judicial e depende de autorização do Poder Judiciário.",
-        "E": "O inquérito civil é o instrumento investigativo extrajudicial que pode subsidiar a ação civil pública. Uma unidade de conservação sofre pressões antrópicas devido à ocupação irregular. Como o órgão gestor não adotou as medidas eficazes de controle, o Ministério Público (MP) decidiu intervir. Assinale a opção que apresenta a medida que o MP adotou. (A) Promover apenas campanhas educativas. (B) Realizar diretamente a fiscalização ambiental. (C) Delegar a responsabilidade à polícia ambiental. (D) Substituir o órgão gestor da unidade de conservação. (E) Exigir judicialmente que o poder público adote medidas de proteção."
+        "E": "O inquérito civil é o instrumento investigativo extrajudicial que pode subsidiar a ação civil pública."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "Uma unidade de conservação sofre pressões antrópicas devido à ocupação irregular. Como o órgão gestor não adotou as medidas eficazes de controle, o Ministério Público (MP) decidiu intervir. Assinale a opção que apresenta a medida que o MP adotou.",
+      "alternatives": {
+        "A": "Promover apenas campanhas educativas.",
+        "B": "Realizar diretamente a fiscalização ambiental.",
+        "C": "Delegar a responsabilidade à polícia ambiental.",
+        "D": "Substituir o órgão gestor da unidade de conservação.",
+        "E": "Exigir judicialmente que o poder público adote medidas de proteção."
       },
       "answer": "E",
       "annulled": false,
@@ -389,13 +610,81 @@
         "B": "A amplificação por PCR de regiões altamente conservadas do genoma nuclear permite a identificação inequívoca da espécie, uma vez que tais regiões não sofrem pressão seletiva e acumulam mutações neutras específicas.",
         "C": "O sequenciamento de DNA em produtos processados depende da integridade de longos fragmentos genômicos, razão pela qual o sucesso da técnica está condicionado à mínima degradação do material genético original.",
         "D": "O uso de marcadores genéticos padronizados baseia-se na existência de regiões do genoma com baixa variabilidade intraespecífica e alta divergência interespecífica, permitindo discriminação confiável quando comparadas a bancos de dados de referência.",
-        "E": "As regiões do DNA mitocondrial apresentam alta taxa de mutação e herança exclusivamente materna, o que garante variabilidade intraespecífica suficiente para distinguir indivíduos da mesma espécie e, simultaneamente, uniformidade interespecífica adequada para separar espécies próximas. Uma população de mamíferos silvestres endêmica de uma ilha oceânica vem sendo monitorada há décadas por pesquisadores. Estudos recentes indicam uma redução significativa do tamanho populacional devido à fragmentação do habitat e à introdução de patógenos exóticos. As análises genéticas revelaram baixa heterozigosidade e a redução na diversidade alélica em genes associados à resposta imune. Como estratégia de conservação, foi discutida a introdução controlada de indivíduos de uma população geneticamente próxima, visando a aumentar a variabilidade genética e a capacidade adaptativa da população insular. À luz dos princípios da genética de populações e da seleção natural, assinale a opção que indica, corretamente, a justificativa da importância da variabilidade genética. (A) O aumento da heterozigosidade reduz a probabilidade de expressão de alelos recessivos deletérios e pode elevar o fitness médio da população, embora não garanta necessariamente maior adaptação a novos patógenos. (B) A introdução de novos alelos eleva a diversidade genética, ampliando o espectro de respostas possíveis à seleção natural, o que pode favorecer a sobrevivência frente a mudanças ambientais e pressões bióticas emergentes. (C) A variabilidade genética promove maior eficiência da seleção natural ao acelerar a fixação de alelos vantajosos, independentemente do tamanho populacional e da intensidade da deriva genética. (D) O incremento da diversidade genética reduz automaticamente a carga genética da população, eliminando alelos deletérios por recombinação e restabelecendo o equilíbrio de Hardy- Weinberg. (E) A introdução de indivíduos de outra população garante o aumento da aptidão média, uma vez que a mistura genética elimina efeitos da deriva genética e impede a perda futura de variabilidade. Um órgão ambiental realizou o monitoramento contínuo de uma área de floresta tropical sujeita à pressão antrópica, usando séries temporais de imagens provenientes de sensores orbitais multiespectrais. Ao longo de vários anos, os analistas observaram padrões distintos de variação na reflectância da vegetação, incluindo reduções abruptas associadas a eventos de desmatamento e flutuações cíclicas relacionadas à fenologia e à sazonalidade climática. Para aumentar a confiabilidade da detecção de mudanças, foram aplicados algoritmos que exploram tendências temporais e anomalias nos perfis espectrais dos pixels. Considerando esse contexto, assinale a opção que indica, corretamente, porque o uso de séries temporais é particularmente importante. (A) Permite diferenciar alterações estruturais permanentes na cobertura vegetal de variações sazonais, ao analisar padrões temporais consistentes nos dados espectrais. (B) Possibilita a eliminação de incertezas associadas à classificação, ao integrar múltiplas observações independentes de um mesmo alvo ao longo do tempo. (C) Reduz a necessidade de calibração radiométrica entre imagens, uma vez que as tendências temporais compensam diferenças entre sensores e condições atmosféricas. (D) Substitui a necessidade de validação em campo, pois a repetição temporal garante a veracidade das mudanças detectadas. (E) Aumenta a resolução espacial efetiva das análises, ao combinar múltiplas imagens em diferentes datas para um mesmo pixel. No âmbito de um inquérito civil instaurado pelo Ministério Público Estadual, um biólogo é designado para realizar vistoria técnica em trecho de um curso d’água com suspeita de lançamento intermitente de efluentes industriais. As informações preliminares indicam variação temporal na coloração da água e episódios pouco frequentes de mortandade de peixes, sugerindo descargas não contínuas. Durante o planejamento e execução da inspeção, o profissional deve definir estratégias de amostragem, registro e documentação que garantam a representatividade dos dados, a rastreabilidade das evidências e a robustez técnica do laudo, considerando também sua possível utilização em demanda judicial. Diante desse cenário, assinale a opção que indica, corretamente, o procedimento que o biólogo deve adotar. (A) Realizar uma única coleta em campo, priorizando a retirada das numerosas amostras e a análise laboratorial detalhada, com a integração dos dados secundários disponíveis na análise dos dados. (B) Estruturar a coleta em pontos à jusante do trecho de possível lançamento, com base em evidências visuais mais recentes, adotando o georreferenciamento e o registro fotográfico detalhado. (C) Definir os pontos amostrais georreferenciados ao longo de todo o trecho do curso d’água, realizar múltiplas coletas em momentos distintos, seguir os protocolos de coleta e de preservação e manter o registro formal da cadeia de custódia. (D) Selecionar os pontos de coleta à montante do curso d’água com base na acessibilidade e na segurança operacional, o que garante a padronização dos procedimentos, e documentar as etapas de coleta e transporte. (E) Realizar a amostragem nos locais com maior evidência de impacto visível, com repetição de coletas nesses pontos para aumentar a confiabilidade analítica, associando o registro georreferenciado ao controle de custódia. No âmbito de um inquérito civil conduzido pelo Ministério Público Estadual, um Biólogo é designado para subsidiar tecnicamente a atuação institucional em um caso envolvendo a implantação de um complexo industrial em área periurbana, próxima a comunidades vulneráveis e a um fragmento de Mata Atlântica. Durante a análise, verificou-se que o Estudo de Impacto Ambiental (EIA/RIMA) contemplou programas de Educação Ambiental (EA) com enfoque predominantemente informativo (realização de algumas palestras e distribuição de cartilhas), direcionado aos trabalhadores do empreendimento, os principais agentes geradores de impacto ambiental direto. O biólogo elaborou um relatório técnico, considerando as políticas e as diretrizes da Educação Ambiental crítica-emancipatória e o papel do Ministério Público na tutela de interesses difusos. Ao final, ele recomendou a readequação do programa de EA. Assinale a opção que, corretamente, a apresenta. (A) Delegar a condução das ações de Educação Ambiental às consultorias especializadas, garantindo maior eficiência técnica e a padronização metodológica das atividades. (B) Ampliar a quantidade de ações educativas com base em conteúdos técnico-científicos sobre impactos ambientais, de modo a garantir a correta transmissão de informações. (C) Incorporar a comunidade na identificação dos problemas, na construção de soluções e no monitoramento dos impactos, com a integração entre os saberes locais e os científicos. (D) Substituir o programa de EA por medidas compensatórias financeiras destinadas à comunidade, uma vez que estas têm maior efetividade imediata na mitigação de impactos sociais. (E) Priorizar campanhas de sensibilização ambiental baseadas em mudanças de comportamento, com foco na redução do consumo e na adoção de práticas sustentáveis no cotidiano."
+        "E": "As regiões do DNA mitocondrial apresentam alta taxa de mutação e herança exclusivamente materna, o que garante variabilidade intraespecífica suficiente para distinguir indivíduos da mesma espécie e, simultaneamente, uniformidade interespecífica adequada para separar espécies próximas."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 8
+    },
+    {
+      "question_number": 37,
+      "discipline": null,
+      "statement": "Uma população de mamíferos silvestres endêmica de uma ilha oceânica vem sendo monitorada há décadas por pesquisadores. Estudos recentes indicam uma redução significativa do tamanho populacional devido à fragmentação do habitat e à introdução de patógenos exóticos. As análises genéticas revelaram baixa heterozigosidade e a redução na diversidade alélica em genes associados à resposta imune. Como estratégia de conservação, foi discutida a introdução controlada de indivíduos de uma população geneticamente próxima, visando a aumentar a variabilidade genética e a capacidade adaptativa da população insular. À luz dos princípios da genética de populações e da seleção natural, assinale a opção que indica, corretamente, a justificativa da importância da variabilidade genética.",
+      "alternatives": {
+        "A": "O aumento da heterozigosidade reduz a probabilidade de expressão de alelos recessivos deletérios e pode elevar o fitness médio da população, embora não garanta necessariamente maior adaptação a novos patógenos.",
+        "B": "A introdução de novos alelos eleva a diversidade genética, ampliando o espectro de respostas possíveis à seleção natural, o que pode favorecer a sobrevivência frente a mudanças ambientais e pressões bióticas emergentes.",
+        "C": "A variabilidade genética promove maior eficiência da seleção natural ao acelerar a fixação de alelos vantajosos, independentemente do tamanho populacional e da intensidade da deriva genética.",
+        "D": "O incremento da diversidade genética reduz automaticamente a carga genética da população, eliminando alelos deletérios por recombinação e restabelecendo o equilíbrio de Hardy- Weinberg.",
+        "E": "A introdução de indivíduos de outra população garante o aumento da aptidão média, uma vez que a mistura genética elimina efeitos da deriva genética e impede a perda futura de variabilidade."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 38,
+      "discipline": null,
+      "statement": "Um órgão ambiental realizou o monitoramento contínuo de uma área de floresta tropical sujeita à pressão antrópica, usando séries temporais de imagens provenientes de sensores orbitais multiespectrais. Ao longo de vários anos, os analistas observaram padrões distintos de variação na reflectância da vegetação, incluindo reduções abruptas associadas a eventos de desmatamento e flutuações cíclicas relacionadas à fenologia e à sazonalidade climática. Para aumentar a confiabilidade da detecção de mudanças, foram aplicados algoritmos que exploram tendências temporais e anomalias nos perfis espectrais dos pixels. Considerando esse contexto, assinale a opção que indica, corretamente, porque o uso de séries temporais é particularmente importante.",
+      "alternatives": {
+        "A": "Permite diferenciar alterações estruturais permanentes na cobertura vegetal de variações sazonais, ao analisar padrões temporais consistentes nos dados espectrais.",
+        "B": "Possibilita a eliminação de incertezas associadas à classificação, ao integrar múltiplas observações independentes de um mesmo alvo ao longo do tempo.",
+        "C": "Reduz a necessidade de calibração radiométrica entre imagens, uma vez que as tendências temporais compensam diferenças entre sensores e condições atmosféricas.",
+        "D": "Substitui a necessidade de validação em campo, pois a repetição temporal garante a veracidade das mudanças detectadas.",
+        "E": "Aumenta a resolução espacial efetiva das análises, ao combinar múltiplas imagens em diferentes datas para um mesmo pixel."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 39,
+      "discipline": null,
+      "statement": "No âmbito de um inquérito civil instaurado pelo Ministério Público Estadual, um biólogo é designado para realizar vistoria técnica em trecho de um curso d’água com suspeita de lançamento intermitente de efluentes industriais. As informações preliminares indicam variação temporal na coloração da água e episódios pouco frequentes de mortandade de peixes, sugerindo descargas não contínuas. Durante o planejamento e execução da inspeção, o profissional deve definir estratégias de amostragem, registro e documentação que garantam a representatividade dos dados, a rastreabilidade das evidências e a robustez técnica do laudo, considerando também sua possível utilização em demanda judicial. Diante desse cenário, assinale a opção que indica, corretamente, o procedimento que o biólogo deve adotar.",
+      "alternatives": {
+        "A": "Realizar uma única coleta em campo, priorizando a retirada das numerosas amostras e a análise laboratorial detalhada, com a integração dos dados secundários disponíveis na análise dos dados.",
+        "B": "Estruturar a coleta em pontos à jusante do trecho de possível lançamento, com base em evidências visuais mais recentes, adotando o georreferenciamento e o registro fotográfico detalhado.",
+        "C": "Definir os pontos amostrais georreferenciados ao longo de todo o trecho do curso d’água, realizar múltiplas coletas em momentos distintos, seguir os protocolos de coleta e de preservação e manter o registro formal da cadeia de custódia.",
+        "D": "Selecionar os pontos de coleta à montante do curso d’água com base na acessibilidade e na segurança operacional, o que garante a padronização dos procedimentos, e documentar as etapas de coleta e transporte.",
+        "E": "Realizar a amostragem nos locais com maior evidência de impacto visível, com repetição de coletas nesses pontos para aumentar a confiabilidade analítica, associando o registro georreferenciado ao controle de custódia."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 40,
+      "discipline": null,
+      "statement": "No âmbito de um inquérito civil conduzido pelo Ministério Público Estadual, um Biólogo é designado para subsidiar tecnicamente a atuação institucional em um caso envolvendo a implantação de um complexo industrial em área periurbana, próxima a comunidades vulneráveis e a um fragmento de Mata Atlântica. Durante a análise, verificou-se que o Estudo de Impacto Ambiental (EIA/RIMA) contemplou programas de Educação Ambiental (EA) com enfoque predominantemente informativo (realização de algumas palestras e distribuição de cartilhas), direcionado aos trabalhadores do empreendimento, os principais agentes geradores de impacto ambiental direto. O biólogo elaborou um relatório técnico, considerando as políticas e as diretrizes da Educação Ambiental crítica-emancipatória e o papel do Ministério Público na tutela de interesses difusos. Ao final, ele recomendou a readequação do programa de EA. Assinale a opção que, corretamente, a apresenta.",
+      "alternatives": {
+        "A": "Delegar a condução das ações de Educação Ambiental às consultorias especializadas, garantindo maior eficiência técnica e a padronização metodológica das atividades.",
+        "B": "Ampliar a quantidade de ações educativas com base em conteúdos técnico-científicos sobre impactos ambientais, de modo a garantir a correta transmissão de informações.",
+        "C": "Incorporar a comunidade na identificação dos problemas, na construção de soluções e no monitoramento dos impactos, com a integração entre os saberes locais e os científicos.",
+        "D": "Substituir o programa de EA por medidas compensatórias financeiras destinadas à comunidade, uma vez que estas têm maior efetividade imediata na mitigação de impactos sociais.",
+        "E": "Priorizar campanhas de sensibilização ambiental baseadas em mudanças de comportamento, com foco na redução do consumo e na adoção de práticas sustentáveis no cotidiano."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 41,
@@ -406,13 +695,30 @@
         "B": "A glicoproteína gp120 do HIV interage com receptores CD8 presentes em linfócitos citotóxicos, facilitando a entrada viral e levando à diminuição da resposta imune celular.",
         "C": "A baixa contagem de linfócitos T CD4⁺ resulta exclusivamente da lise celular causada pela liberação de novos vírions, sem envolvimento de mecanismos imunológicos adicionais.",
         "D": "A progressão para AIDS ocorre principalmente pela capacidade dos macrófagos em fagocitar partículas virais livres, que duplicam nesta célula e aumentam a carga viral e reduzem a eficiência da resposta imune inata.",
-        "E": "A alta carga viral decorre da integração do DNA viral ao genoma do hospedeiro, permitindo replicação contínua, enquanto a redução de linfócitos T CD4⁺ compromete a ativação de linfócitos B e T citotóxicos, favorecendo infecções oportunistas. Os índices de cura de Hanseníase da Secretaria de Estado da Saúde do Espírito Santo, de 2019, indicam que esse estado é um dos cinco melhores do Brasil. Durante o planejamento das ações, discutiu-se a importância de medidas que interrompam a cadeia de transmissão da doença, promovam um diagnóstico precoce e garantam a adesão ao tratamento. Nesse cenário, assinale a opção que apresenta a estratégia mais eficaz para o controle da Hanseníase. (A) O isolamento compulsório de indivíduos diagnosticados com hanseníase multibacilar, como forma de evitar a transmissão comunitária da doença. (B) O uso exclusivo de antibióticos em dose única para todos os indivíduos expostos, independentemente de avaliação clínica, como estratégia de profilaxia em massa. (C) A identificação ativa de casos, exame de contatos intradomiciliares e início precoce da poliquimioterapia (PQT), visando interromper a transmissão e reduzir a carga bacilar na população. (D) A ampliação da vacinação com BCG em toda a população adulta, como principal medida de controle, uma vez que confere proteção completa contra a infecção pelo Mycobacterium leprae. (E) A priorização de campanhas educativas sem necessidade de diagnóstico laboratorial ou clínico, uma vez que a resposta imunológica do hospedeiro é suficiente para controlar a infecção na maioria dos casos."
+        "E": "A alta carga viral decorre da integração do DNA viral ao genoma do hospedeiro, permitindo replicação contínua, enquanto a redução de linfócitos T CD4⁺ compromete a ativação de linfócitos B e T citotóxicos, favorecendo infecções oportunistas."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "Os índices de cura de Hanseníase da Secretaria de Estado da Saúde do Espírito Santo, de 2019, indicam que esse estado é um dos cinco melhores do Brasil. Durante o planejamento das ações, discutiu-se a importância de medidas que interrompam a cadeia de transmissão da doença, promovam um diagnóstico precoce e garantam a adesão ao tratamento. Nesse cenário, assinale a opção que apresenta a estratégia mais eficaz para o controle da Hanseníase.",
+      "alternatives": {
+        "A": "O isolamento compulsório de indivíduos diagnosticados com hanseníase multibacilar, como forma de evitar a transmissão comunitária da doença.",
+        "B": "O uso exclusivo de antibióticos em dose única para todos os indivíduos expostos, independentemente de avaliação clínica, como estratégia de profilaxia em massa.",
+        "C": "A identificação ativa de casos, exame de contatos intradomiciliares e início precoce da poliquimioterapia (PQT), visando interromper a transmissão e reduzir a carga bacilar na população.",
+        "D": "A ampliação da vacinação com BCG em toda a população adulta, como principal medida de controle, uma vez que confere proteção completa contra a infecção pelo Mycobacterium leprae.",
+        "E": "A priorização de campanhas educativas sem necessidade de diagnóstico laboratorial ou clínico, uma vez que a resposta imunológica do hospedeiro é suficiente para controlar a infecção na maioria dos casos."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     },
     {
       "question_number": 43,
@@ -423,9 +729,26 @@
         "B": "O acúmulo de EROs resulta exclusivamente da respiração mitocondrial, sem relação com a atividade fotossintética ou com o estresse luminoso.",
         "C": "A redução da eficiência do PSII está diretamente associada ao aumento da disponibilidade de água no solo, que causa saturação hídrica e limita o transporte de elétrons.",
         "D": "O aumento da radiação luminosa eleva diretamente a fixação de carbono pela Rubisco, independentemente da disponibilidade de CO₂, reduzindo a ocorrência de fotorrespiração.",
-        "E": "O fechamento estomático limita a entrada de CO₂, favorecendo a atividade da Rubisco como oxigenase, o que aumenta a fotorrespiração e reduz a eficiência fotossintética, podendo levar à formação de EROs. Os manguezais são ecossistemas altamente produtivos, caracterizados por intensa ciclagem de matéria orgânica e fluxo de energia entre os compartimentos biológicos e físicos. No Espírito Santo, os manguezais encontram-se impactados por diferentes tipos de poluição e apresentam redução da cobertura vegetal, o que ocasiona a redução da biomassa de espécies detritívoras. Assinale a opção que apresenta, corretamente, uma consequência dessas alterações. (A) A compensação da via detritívora por meio da via heterotrófica por ingestão. (B) O aumento do processo de decomposição devido à perda de cobertura vegetal. (C) A manutenção da cadeia alimentar que é independente do processo de remineralização. (D) A diminuição da transferência de energia para os níveis tróficos superiores devido à redução da via detritívora. (E) A substituição das espécies detritívoras por espécies autotróficas, o que mantém o fluxo de energia em perfeita harmonia."
+        "E": "O fechamento estomático limita a entrada de CO₂, favorecendo a atividade da Rubisco como oxigenase, o que aumenta a fotorrespiração e reduz a eficiência fotossintética, podendo levar à formação de EROs."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "Os manguezais são ecossistemas altamente produtivos, caracterizados por intensa ciclagem de matéria orgânica e fluxo de energia entre os compartimentos biológicos e físicos. No Espírito Santo, os manguezais encontram-se impactados por diferentes tipos de poluição e apresentam redução da cobertura vegetal, o que ocasiona a redução da biomassa de espécies detritívoras. Assinale a opção que apresenta, corretamente, uma consequência dessas alterações.",
+      "alternatives": {
+        "A": "A compensação da via detritívora por meio da via heterotrófica por ingestão.",
+        "B": "O aumento do processo de decomposição devido à perda de cobertura vegetal.",
+        "C": "A manutenção da cadeia alimentar que é independente do processo de remineralização.",
+        "D": "A diminuição da transferência de energia para os níveis tróficos superiores devido à redução da via detritívora.",
+        "E": "A substituição das espécies detritívoras por espécies autotróficas, o que mantém o fluxo de energia em perfeita harmonia."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -440,13 +763,47 @@
         "B": "Manter o nome Callinectes maracaiboensis Pereira, 1990, pois representa a descrição mais recente e incorpora dados mais atualizados.",
         "C": "Manter o nome Callinectes maracaiboensis Taissoun, 1972, por este ser mais amplamente utilizado na literatura, independentemente da prioridade nomenclatural.",
         "D": "Manter ambos os nomes, Callinectes boucourti A.Milne- Edwars, 1879 e Callinectes maracaiboensis Taissoun, 1972, como válidos, uma vez que foram descritos independentemente.",
-        "E": "Validar Callinectes boucourti A.Milne-Edwars, 1879, pois possui prioridade temporal sobre Callinectes maracaiboensis Taissoun, 1972, sendo este último considerado sinônimo júnior. Uma área abandonada de Mata Atlântica no Espírito Santo, que foi previamente submetida a desmatamento para agricultura, encontra-se em processo de regeneração natural há aproximadamente 40 anos. Estudos realizados na área indicam aumento da biomassa arbórea e na diversidade de espécies lenhosas, com maior sombreamento do sub-bosque. Entretanto, pesquisadores observaram que espécies consideradas típicas de estágios clímax ainda apresentam baixa abundância e recrutamento limitado, mesmo após décadas de regeneração. De acordo com os conceitos ecológicos relacionados às espécies clímax e à dinâmica sucessional na Mata Atlântica, assinale a afirmativa correta. (A) A baixa abundância de espécies clímax decorre principalmente do fato de que essas espécies exigem alta disponibilidade luminosa para germinação e crescimento inicial. (B) A lenta substituição de espécies secundárias por espécies clímax pode se dar pela limitação de dispersão e pela existência de um déficit de conectividade funcional da paisagem. (C) A persistência de espécies secundárias em áreas em regeneração está associada ao aumento da biomassa e à maior estabilidade microclimática, condições que tendem a favorecer espécies heliófitas de crescimento rápido em detrimento das espécies tolerantes à sombra. (D) O recrutamento restrito de espécies clímax resulta, sobretudo, da superioridade competitiva permanente das espécies secundárias iniciais, que monopolizam os recursos do ambiente e inviabilizam a substituição das espécies vegetais mesmo em estágios avançados da sucessão. (E) A baixa representatividade de espécies clímax indica que o sistema já atingiu seu estado de equilíbrio dinâmico, no qual espécies tardias permanecem naturalmente raras devido à menor eficiência no uso de nutrientes em solos secundários. Na região litorânea do Município de Serra (ES), episódios recorrentes de lançamento de efluentes domésticos sem tratamento adequado têm sido associados à degradação da qualidade ambiental de praias urbanas, levando a alterações na estrutura da comunidade bentônica, com predominância de espécies tolerantes à hipoxia. Adicionalmente, análises microbiológicas indicaram altos níveis de coliformes termotolerantes. A sequência de eventos responsável pelas alterações dos processos ecológicos e biogeoquímicos envolvidos na poluição orgânica em ambientes costeiros, inclui (A) o incremento de matéria orgânica lábil, que intensifica a respiração microbiana heterotrófica, elevando a demanda bioquímica de oxigênio e reduzindo o oxigênio dissolvido. (B) a presença elevada de coliformes termotolerantes sugere que a matéria orgânica está sendo rapidamente mineralizada, reduzindo a demanda por oxigênio e contribuindo para a recuperação do equilíbrio ecológico. (C) a predominância de organismos bentônicos tolerantes à hipoxia reflete a estabilidade ecológica do ambiente, no qual a ciclagem de nutrientes se torna mais eficiente devido à especialização metabólica da espécie. (D) a elevação da demanda bioquímica de oxigênio indica maior disponibilidade de substrato orgânico, o que promove aumento da eficiência da decomposição aeróbia sem impacto significativo nos níveis de oxigênio dissolvido. (E) o aumento da matéria orgânica estimula simultaneamente a produção primária e a respiração microbiana, mas o balanço líquido tende a favorecer a oxigenação da água devido à maior eficiência fotossintética em ambientes enriquecidos."
+        "E": "Validar Callinectes boucourti A.Milne-Edwars, 1879, pois possui prioridade temporal sobre Callinectes maracaiboensis Taissoun, 1972, sendo este último considerado sinônimo júnior."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11
+    },
+    {
+      "question_number": 46,
+      "discipline": null,
+      "statement": "Uma área abandonada de Mata Atlântica no Espírito Santo, que foi previamente submetida a desmatamento para agricultura, encontra-se em processo de regeneração natural há aproximadamente 40 anos. Estudos realizados na área indicam aumento da biomassa arbórea e na diversidade de espécies lenhosas, com maior sombreamento do sub-bosque. Entretanto, pesquisadores observaram que espécies consideradas típicas de estágios clímax ainda apresentam baixa abundância e recrutamento limitado, mesmo após décadas de regeneração. De acordo com os conceitos ecológicos relacionados às espécies clímax e à dinâmica sucessional na Mata Atlântica, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A baixa abundância de espécies clímax decorre principalmente do fato de que essas espécies exigem alta disponibilidade luminosa para germinação e crescimento inicial.",
+        "B": "A lenta substituição de espécies secundárias por espécies clímax pode se dar pela limitação de dispersão e pela existência de um déficit de conectividade funcional da paisagem.",
+        "C": "A persistência de espécies secundárias em áreas em regeneração está associada ao aumento da biomassa e à maior estabilidade microclimática, condições que tendem a favorecer espécies heliófitas de crescimento rápido em detrimento das espécies tolerantes à sombra.",
+        "D": "O recrutamento restrito de espécies clímax resulta, sobretudo, da superioridade competitiva permanente das espécies secundárias iniciais, que monopolizam os recursos do ambiente e inviabilizam a substituição das espécies vegetais mesmo em estágios avançados da sucessão.",
+        "E": "A baixa representatividade de espécies clímax indica que o sistema já atingiu seu estado de equilíbrio dinâmico, no qual espécies tardias permanecem naturalmente raras devido à menor eficiência no uso de nutrientes em solos secundários."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "Na região litorânea do Município de Serra (ES), episódios recorrentes de lançamento de efluentes domésticos sem tratamento adequado têm sido associados à degradação da qualidade ambiental de praias urbanas, levando a alterações na estrutura da comunidade bentônica, com predominância de espécies tolerantes à hipoxia. Adicionalmente, análises microbiológicas indicaram altos níveis de coliformes termotolerantes. A sequência de eventos responsável pelas alterações dos processos ecológicos e biogeoquímicos envolvidos na poluição orgânica em ambientes costeiros, inclui",
+      "alternatives": {
+        "A": "o incremento de matéria orgânica lábil, que intensifica a respiração microbiana heterotrófica, elevando a demanda bioquímica de oxigênio e reduzindo o oxigênio dissolvido.",
+        "B": "a presença elevada de coliformes termotolerantes sugere que a matéria orgânica está sendo rapidamente mineralizada, reduzindo a demanda por oxigênio e contribuindo para a recuperação do equilíbrio ecológico.",
+        "C": "a predominância de organismos bentônicos tolerantes à hipoxia reflete a estabilidade ecológica do ambiente, no qual a ciclagem de nutrientes se torna mais eficiente devido à especialização metabólica da espécie.",
+        "D": "a elevação da demanda bioquímica de oxigênio indica maior disponibilidade de substrato orgânico, o que promove aumento da eficiência da decomposição aeróbia sem impacto significativo nos níveis de oxigênio dissolvido.",
+        "E": "o aumento da matéria orgânica estimula simultaneamente a produção primária e a respiração microbiana, mas o balanço líquido tende a favorecer a oxigenação da água devido à maior eficiência fotossintética em ambientes enriquecidos."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     },
     {
       "question_number": 48,
@@ -457,13 +814,30 @@
         "B": "Baga plurisseminada, com sementes livres no interior do pericarpo.",
         "C": "Cápsula deiscente, que se abre espontaneamente para liberar múltiplas sementes.",
         "D": "Fruto com pericarpo seco e indeiscente, no qual a semente não está aderida.",
-        "E": "Drupa, com mesocarpo carnoso e endocarpo endurecido envolvendo uma única semente. No estado do Espírito Santo, a extração de areia na Área de Proteção Ambiental (APA) de Setiba tem gerado impactos ambientais significativos, incluindo supressão de vegetação e alteração da dinâmica sedimentar. Em um estudo conduzido por uma equipe multidisciplinar, foi necessário desenvolver uma estratégia de monitoramento contínuo para identificar áreas de extração ilegal, avaliar a degradação da cobertura vegetal e acompanhar a recuperação ambiental ao longo do tempo. Considerando as limitações de acesso em campo e a necessidade de análises em escala regional, a técnica de sensoriamento remoto a ser escolhida para o monitoramento e controle das áreas impactadas deve usar (A) imagens termais obtidas por meio de VANTs. (B) imagens multiespectrais de sensores orbitais. (C) imagens pancromáticas de alta resolução espacial. (D) sensores ópticos de baixa resolução espacial, mas com pixels grandes. (E) sensores hiperespectrais em campanhas de amostragens pontuais."
+        "E": "Drupa, com mesocarpo carnoso e endocarpo endurecido envolvendo uma única semente."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12
+    },
+    {
+      "question_number": 49,
+      "discipline": null,
+      "statement": "No estado do Espírito Santo, a extração de areia na Área de Proteção Ambiental (APA) de Setiba tem gerado impactos ambientais significativos, incluindo supressão de vegetação e alteração da dinâmica sedimentar. Em um estudo conduzido por uma equipe multidisciplinar, foi necessário desenvolver uma estratégia de monitoramento contínuo para identificar áreas de extração ilegal, avaliar a degradação da cobertura vegetal e acompanhar a recuperação ambiental ao longo do tempo. Considerando as limitações de acesso em campo e a necessidade de análises em escala regional, a técnica de sensoriamento remoto a ser escolhida para o monitoramento e controle das áreas impactadas deve usar",
+      "alternatives": {
+        "A": "imagens termais obtidas por meio de VANTs.",
+        "B": "imagens multiespectrais de sensores orbitais.",
+        "C": "imagens pancromáticas de alta resolução espacial.",
+        "D": "sensores ópticos de baixa resolução espacial, mas com pixels grandes.",
+        "E": "sensores hiperespectrais em campanhas de amostragens pontuais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
     },
     {
       "question_number": 50,
@@ -474,9 +848,26 @@
         "B": "Distância euclidiana e custo acumulado usando camadas raster de uso da terra.",
         "C": "Conversão obrigatória de todas as camadas raster em formato vetorial antes da análise.",
         "D": "Sobreposição de camadas vetoriais sem considerar a resolução espacial dos dados.",
-        "E": "Utilização exclusiva de imagens de satélite sem integração com outros dados geográficos. A expansão da exploração de rochas ornamentais no estado do Espírito Santo tem gerado impactos ambientais significativos, como supressão de vegetação nativa, alteração da paisagem, geração de resíduos sólidos oriundos de rejeitos de corte e assoreamento de corpos d’água. Em uma região serrana do estado, um empreendimento minerário foi autuado por degradação ambiental. A equipe técnica responsável necessita propor estratégias que conciliem a continuidade da atividade econômica com a redução dos impactos ambientais e a recuperação funcional dos ecossistemas afetados. Nesse contexto, a elaboração de um plano de recuperação de áreas degradadas deve incluir a(o) (A) revegetação com espécies nativas e exóticas combinadas, visando acelerar a cobertura do solo, associado ao monitoramento contínuo da área. (B) regeneração natural assistida, sem intervenções estruturais no solo ou manejo de rejeitos, considerando que os processos ecológicos locais são suficientes para restaurar a área. (C) replantio de espécies nativas e manejo básico de rejeitos, priorizando indicadores físicos do solo, sem necessidade de incluir indicadores biológicos ou ecológicos no monitoramento. (D) replantio de espécies nativas e regionais, associado à estabilização física do solo, manejo e disposição controlada de rejeitos e monitoramento de indicadores ecológicos para avaliar a trajetória de recuperação. (E) replantio espécies nativas, porém com foco exclusivo na revegetação da área diretamente impactada, sem necessidade de integrar ações de manejo de rejeitos ou monitoramento ecológico contínuo."
+        "E": "Utilização exclusiva de imagens de satélite sem integração com outros dados geográficos."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "A expansão da exploração de rochas ornamentais no estado do Espírito Santo tem gerado impactos ambientais significativos, como supressão de vegetação nativa, alteração da paisagem, geração de resíduos sólidos oriundos de rejeitos de corte e assoreamento de corpos d’água. Em uma região serrana do estado, um empreendimento minerário foi autuado por degradação ambiental. A equipe técnica responsável necessita propor estratégias que conciliem a continuidade da atividade econômica com a redução dos impactos ambientais e a recuperação funcional dos ecossistemas afetados. Nesse contexto, a elaboração de um plano de recuperação de áreas degradadas deve incluir a(o)",
+      "alternatives": {
+        "A": "revegetação com espécies nativas e exóticas combinadas, visando acelerar a cobertura do solo, associado ao monitoramento contínuo da área.",
+        "B": "regeneração natural assistida, sem intervenções estruturais no solo ou manejo de rejeitos, considerando que os processos ecológicos locais são suficientes para restaurar a área.",
+        "C": "replantio de espécies nativas e manejo básico de rejeitos, priorizando indicadores físicos do solo, sem necessidade de incluir indicadores biológicos ou ecológicos no monitoramento.",
+        "D": "replantio de espécies nativas e regionais, associado à estabilização física do solo, manejo e disposição controlada de rejeitos e monitoramento de indicadores ecológicos para avaliar a trajetória de recuperação.",
+        "E": "replantio espécies nativas, porém com foco exclusivo na revegetação da área diretamente impactada, sem necessidade de integrar ações de manejo de rejeitos ou monitoramento ecológico contínuo."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -491,13 +882,30 @@
         "B": "linha verde do IBAMA.",
         "C": "linha verde do ICMBIO.",
         "D": "linha verde do SISNAMA.",
-        "E": "disque denúncia da Polícia Civil. Em uma bacia hidrográfica estratégica do estado do Espírito Santo foram identificados problemas relacionados a captação irregular de água, o lançamento de efluentes e conflitos entre usuários. Diante desse cenário, assinale a opção que indica, corretamente, a atuação da equipe técnica da Secretaria de Estado de Meio Ambiente e Recursos Hídricos (SEMA). (A) Implementar somente medidas de controle de poluição, deixando os conflitos para serem ser resolvidos na esfera judicial. (B) Priorizar exclusivamente ações de fiscalização punitiva, sem integração com instrumentos de planejamento e gestão participativa. (C) Aplicar sanção criminal aos poluidores da bacia hidrográfica e restringir a participação de usuários e da sociedade civil na tomada de decisão. (D) Delegar integralmente a gestão da bacia hidrográfica a entes privados que solucionarão os problemas ambientais e os conflitos dos usuários. (E) Fortalecer a gestão descentralizada, o uso racional e a conservação dos recursos hídricos por meio do estabelecimento da cobrança pelo uso da água."
+        "E": "disque denúncia da Polícia Civil."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "Em uma bacia hidrográfica estratégica do estado do Espírito Santo foram identificados problemas relacionados a captação irregular de água, o lançamento de efluentes e conflitos entre usuários. Diante desse cenário, assinale a opção que indica, corretamente, a atuação da equipe técnica da Secretaria de Estado de Meio Ambiente e Recursos Hídricos (SEMA).",
+      "alternatives": {
+        "A": "Implementar somente medidas de controle de poluição, deixando os conflitos para serem ser resolvidos na esfera judicial.",
+        "B": "Priorizar exclusivamente ações de fiscalização punitiva, sem integração com instrumentos de planejamento e gestão participativa.",
+        "C": "Aplicar sanção criminal aos poluidores da bacia hidrográfica e restringir a participação de usuários e da sociedade civil na tomada de decisão.",
+        "D": "Delegar integralmente a gestão da bacia hidrográfica a entes privados que solucionarão os problemas ambientais e os conflitos dos usuários.",
+        "E": "Fortalecer a gestão descentralizada, o uso racional e a conservação dos recursos hídricos por meio do estabelecimento da cobrança pelo uso da água."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
     },
     {
       "question_number": 54,
@@ -525,9 +933,26 @@
         "B": "consultivo-deliberativo.",
         "C": "consultivo-fiscalizatório.",
         "D": "deliberativo-fiscalizatório.",
-        "E": "democrático-fiscalizatório. A criação de uma Unidade de Conservação deve ser precedida de estudos técnicos e de consulta pública que permitam identificar a localização, a dimensão e os limites mais adequados para a unidade. Sobre a criação das unidades de conservação federais, assinale a opção que indica a que não precisou de consulta pública. (A) Reserva Biológica Sooretama. (B) Floresta Nacional do Rio Preto. (C) Parque Nacional da Serra dos Órgãos. (D) Reserva Extrativista Verde para Sempre. (E) Área de Proteção Ambiental de Fernando de Noronha."
+        "E": "democrático-fiscalizatório."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 56,
+      "discipline": null,
+      "statement": "A criação de uma Unidade de Conservação deve ser precedida de estudos técnicos e de consulta pública que permitam identificar a localização, a dimensão e os limites mais adequados para a unidade. Sobre a criação das unidades de conservação federais, assinale a opção que indica a que não precisou de consulta pública.",
+      "alternatives": {
+        "A": "Reserva Biológica Sooretama.",
+        "B": "Floresta Nacional do Rio Preto.",
+        "C": "Parque Nacional da Serra dos Órgãos.",
+        "D": "Reserva Extrativista Verde para Sempre.",
+        "E": "Área de Proteção Ambiental de Fernando de Noronha."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -542,13 +967,30 @@
         "B": "a dragagem dos sedimentos contaminados e estabelecer medidas compensatórias em ecossistemas distintos da área impactada.",
         "C": "a apresentação de relatórios técnicos produzidos exclusivamente pela própria empresa e assinados por responsável técnico habilitado.",
         "D": "o monitoramento com bioindicadores, estabelecimento de metas ecológicas mensuráveis e cláusula de revisão periódica baseada em resultados.",
-        "E": "a substituição de medidas corretivas por compromissos de investimento em pesquisa científica, sem necessidade de aplicação direta dos resultados na área impactada. Um programa de monitoramento da qualidade da água de uma praia dissipativa do litoral do Espírito Santo, inserida em área urbana com histórico de lançamento difuso de efluentes, indicou elevada variabilidade nos resultados de coliformes termotolerantes, enterococos e dos parâmetros físico-químicos (OD, turbidez e nutrientes). Durante uma auditoria técnica foi evidenciado que o protocolo de amostragem pode estar subestimando picos de contaminação e gerando inconsistências analíticas. A equipe foi, então, incumbida de redefinir o delineamento amostral e os procedimentos de coleta considerando a dinâmica costeira local. Neste caso, assinale a opção que indica o procedimento mais adequado para a obtenção de dados representativos e confiáveis. (A) A realização de coletas pontuais do lençol freático, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C). (B) A realização de coletas superficiais (0–5 cm) na coluna d’água, voltando o frasco contra a corrente, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C). (C) A realização de coletas pontuais na coluna d’água, a cerca de 30 cm de profundidade, voltando o frasco contra a corrente, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C). (D) A realização de coletas pontuais na coluna d’água, a cerca de 30 cm de profundidade, voltando o frasco a favor da corrente de maré, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C). (E) A realização de coletas ao longo de toda a extensão da praia, misturando volumes de diferentes pontos em um único frasco, de modo a representar a média espacial da qualidade da água, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C)."
+        "E": "a substituição de medidas corretivas por compromissos de investimento em pesquisa científica, sem necessidade de aplicação direta dos resultados na área impactada."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14
+    },
+    {
+      "question_number": 58,
+      "discipline": null,
+      "statement": "Um programa de monitoramento da qualidade da água de uma praia dissipativa do litoral do Espírito Santo, inserida em área urbana com histórico de lançamento difuso de efluentes, indicou elevada variabilidade nos resultados de coliformes termotolerantes, enterococos e dos parâmetros físico-químicos (OD, turbidez e nutrientes). Durante uma auditoria técnica foi evidenciado que o protocolo de amostragem pode estar subestimando picos de contaminação e gerando inconsistências analíticas. A equipe foi, então, incumbida de redefinir o delineamento amostral e os procedimentos de coleta considerando a dinâmica costeira local. Neste caso, assinale a opção que indica o procedimento mais adequado para a obtenção de dados representativos e confiáveis.",
+      "alternatives": {
+        "A": "A realização de coletas pontuais do lençol freático, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C).",
+        "B": "A realização de coletas superficiais (0–5 cm) na coluna d’água, voltando o frasco contra a corrente, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C).",
+        "C": "A realização de coletas pontuais na coluna d’água, a cerca de 30 cm de profundidade, voltando o frasco contra a corrente, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C).",
+        "D": "A realização de coletas pontuais na coluna d’água, a cerca de 30 cm de profundidade, voltando o frasco a favor da corrente de maré, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C).",
+        "E": "A realização de coletas ao longo de toda a extensão da praia, misturando volumes de diferentes pontos em um único frasco, de modo a representar a média espacial da qualidade da água, utilizando recipientes estéreis e preservando as amostras sob refrigeração (≈4 °C)."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
     },
     {
       "question_number": 59,
@@ -559,9 +1001,26 @@
         "B": "somente as espécies classificadas como “Quase Ameaçada (NT)” que integram formalmente a lista de espécies ameaçadas da Portaria MMA nº 148/2022.",
         "C": "as espécies classificadas como “Em Perigo (EN)” por apresentarem risco de extinção elevado, caso não haja espécies “Criticamente em Perigo (CR)” na área.",
         "D": "as categorias “Vulnerável”, “Em Perigo” e “Criticamente Ameaçada”, já que todas representam o mesmo nível de risco de extinção, diferindo apenas quanto à distribuição geográfica.",
-        "E": "o registro de ocorrência das espécies classificadas como “Vulnerável” e “Em Perigo” no relatório ambiental, sem obrigatoriedade de adoção de medidas específicas de conservação. Um biólogo necessita elaborar um parecer técnico sobre a proposta de criação de um corredor ecológico que conecte três maciços com campos de altitude isolados por uma faixa extensa de cerrado. A área está sujeita a impactos antrópicos oriundos de expansão agrícola e mineração, mas abriga várias espécies vegetais endêmicas. Estudos prévios indicam que (i) essas espécies compartilham características morfofisiológicas semelhantes; (ii) as linhagens desses campos são mais antigas do que as de áreas de florestas ombrófilas adjacentes; (iii) há padrões de similaridade florística entre campos distantes embora separados pelos campos de cerrados; e (iv) simulações climáticas projetam retração dos campos de altitude em cenários de aquecimento global, com possível aumento da matriz de vegetação seca entre as “ilhas” de habitat. Assinale a opção que apresenta a justificativa do biólogo em seu relatório final para a criação do corredor ecológico. (A) Reforçar a conectividade entre áreas já artificialmente homogeneizadas porque a distribuição atual das espécies é resultado de dispersão antrópica recente. (B) Facilitar a manutenção de padrões de similaridade florística em um contexto atual de fragmentação porque a origem das espécies pode ser explicada principalmente por deriva genética. (C) Garantir a reocupação das áreas por linhagens afins porque a similaridade entre os campos de altitude é resultado da formação simultânea desses ambientes por rebaixamento das margens continentais. (D) Facilitar a troca de indivíduos de espécies afins, aumentando a diversidade genética local já que a semelhança entre os campos de altitude é oriunda do processo de convergência evolutiva. (E) Compensar a dispersão naturalmente limitada entre as “ilhas” de habitat, porque a presença de espécies endêmicas e linhagens antigas sugere que as áreas podem representar remanescentes de uma distribuição ancestral, posteriormente fragmentada. 1 No curso de um procedimento administrativo instaurado pelo Ministério Público do Estado do Espírito Santo para apurar possível irregularidade no acesso ao patrimônio genético de uma espécie de anfíbio endêmica da Mata Atlântica, verificou-se que um laboratório privado de biotecnologia, sediado no Brasil, celebrou contrato de cooperação científica com uma empresa farmacêutica estrangeira para a bioprospecção de metabólitos secundários de interesse para o desenvolvimento de um novo fármaco. Constatou-se que a espécie é classificada como Quase Ameaçada (NT) em âmbito nacional e como Em Perigo (EN) na lista estadual de espécies ameaçadas do Espírito Santo. O projeto prevê a coleta de exemplares, a obtenção de amostras de tecidos e DNA e a remessa desse material para laboratórios localizados no exterior, no contexto de pesquisa envolvendo acesso ao patrimônio genético e cooperação científica internacional. Diante dessa situação, o Promotor de Justiça responsável solicita ao Agente Técnico (Biólogo) a elaboração de parecer técnico acerca da regularidade das atividades planejadas. Redija um texto apresentando o parecer técnico solicitado, abordando, necessariamente: a. os principais requisitos legais brasileiros aplicáveis à coleta, ao acesso ao patrimônio genético e à remessa de material ao exterior, considerando a legislação vigente e os compromissos internacionais assumidos pelo Brasil; b. as possíveis consequências decorrentes do descumprimento da legislação aplicável, inclusive no que se refere à proteção do patrimônio genético nacional. No estado do Espírito Santo, um zoológico licenciado passou a receber, por meio de apreensões realizadas por órgãos ambientais, indivíduos de espécies ameaçadas de extinção da Mata Atlântica, incluindo primatas e aves listadas na Portaria MMA nº 148/2022. Esses indivíduos passaram a compor o plantel da instituição, com a finalidade declarada de manutenção em cativeiro e apoio a ações de conservação ex situ. Durante uma auditoria técnica realizada pelo Instituto Estadual de Meio Ambiente, foram identificadas irregularidades relacionadas à gestão do plantel, incluindo ausência de plano de manejo atualizado, fragilidades no controle genealógico dos indivíduos, inexistência de programa estruturado de conservação ex situ voltado à manutenção da variabilidade genética e à eventual reintrodução, além de falhas na rastreabilidade dos animais. Além disso, constatou-se que alguns indivíduos foram transferidos entre instituições públicas do Brasil sem o devido registro e autorização formal nos sistemas de controle de fauna, em possível desconformidade com as normas estabelecidas pela Instrução Normativa IBAMA nº 07/2015, que regula o funcionamento de empreendimentos de fauna silvestre, incluindo zoológicos. Diante desse cenário, para subsidiar tecnicamente a atuação ministerial, elabore um parecer técnico abordando os seguintes pontos: a. a importância dos zoológicos na conservação de espécies ameaçadas, com ênfase em conservação ex situ e manejo genético; b. a análise técnico-normativa da situação à luz da Portaria MMA nº 148/2022 e da IN IBAMA nº 07/2015; e c. a identificação fundamentada das possíveis não conformidades e dos dispositivos normativos eventualmente descumpridos. Realização"
+        "E": "o registro de ocorrência das espécies classificadas como “Vulnerável” e “Em Perigo” no relatório ambiental, sem obrigatoriedade de adoção de medidas específicas de conservação."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 60,
+      "discipline": null,
+      "statement": "Um biólogo necessita elaborar um parecer técnico sobre a proposta de criação de um corredor ecológico que conecte três maciços com campos de altitude isolados por uma faixa extensa de cerrado. A área está sujeita a impactos antrópicos oriundos de expansão agrícola e mineração, mas abriga várias espécies vegetais endêmicas. Estudos prévios indicam que (i) essas espécies compartilham características morfofisiológicas semelhantes; (ii) as linhagens desses campos são mais antigas do que as de áreas de florestas ombrófilas adjacentes; (iii) há padrões de similaridade florística entre campos distantes embora separados pelos campos de cerrados; e (iv) simulações climáticas projetam retração dos campos de altitude em cenários de aquecimento global, com possível aumento da matriz de vegetação seca entre as “ilhas” de habitat. Assinale a opção que apresenta a justificativa do biólogo em seu relatório final para a criação do corredor ecológico.",
+      "alternatives": {
+        "A": "Reforçar a conectividade entre áreas já artificialmente homogeneizadas porque a distribuição atual das espécies é resultado de dispersão antrópica recente.",
+        "B": "Facilitar a manutenção de padrões de similaridade florística em um contexto atual de fragmentação porque a origem das espécies pode ser explicada principalmente por deriva genética.",
+        "C": "Garantir a reocupação das áreas por linhagens afins porque a similaridade entre os campos de altitude é resultado da formação simultânea desses ambientes por rebaixamento das margens continentais.",
+        "D": "Facilitar a troca de indivíduos de espécies afins, aumentando a diversidade genética local já que a semelhança entre os campos de altitude é oriunda do processo de convergência evolutiva.",
+        "E": "Compensar a dispersão naturalmente limitada entre as “ilhas” de habitat, porque a presença de espécies endêmicas e linhagens antigas sugere que as áreas podem representar remanescentes de uma distribuição ancestral, posteriormente fragmentada. Prova Discursiva 1 No curso de um procedimento administrativo instaurado pelo Ministério Público do Estado do Espírito Santo para apurar possível irregularidade no acesso ao patrimônio genético de uma espécie de anfíbio endêmica da Mata Atlântica, verificou-se que um laboratório privado de biotecnologia, sediado no Brasil, celebrou contrato de cooperação científica com uma empresa farmacêutica estrangeira para a bioprospecção de metabólitos secundários de interesse para o desenvolvimento de um novo fármaco. Constatou-se que a espécie é classificada como Quase Ameaçada (NT) em âmbito nacional e como Em Perigo (EN) na lista estadual de espécies ameaçadas do Espírito Santo. O projeto prevê a coleta de exemplares, a obtenção de amostras de tecidos e DNA e a remessa desse material para laboratórios localizados no exterior, no contexto de pesquisa envolvendo acesso ao patrimônio genético e cooperação científica internacional. Diante dessa situação, o Promotor de Justiça responsável solicita ao Agente Técnico (Biólogo) a elaboração de parecer técnico acerca da regularidade das atividades planejadas. Redija um texto apresentando o parecer técnico solicitado, abordando, necessariamente: a. os principais requisitos legais brasileiros aplicáveis à coleta, ao acesso ao patrimônio genético e à remessa de material ao exterior, considerando a legislação vigente e os compromissos internacionais assumidos pelo Brasil; b. as possíveis consequências decorrentes do descumprimento da legislação aplicável, inclusive no que se refere à proteção do patrimônio genético nacional. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 No estado do Espírito Santo, um zoológico licenciado passou a receber, por meio de apreensões realizadas por órgãos ambientais, indivíduos de espécies ameaçadas de extinção da Mata Atlântica, incluindo primatas e aves listadas na Portaria MMA nº 148/2022. Esses indivíduos passaram a compor o plantel da instituição, com a finalidade declarada de manutenção em cativeiro e apoio a ações de conservação ex situ. Durante uma auditoria técnica realizada pelo Instituto Estadual de Meio Ambiente, foram identificadas irregularidades relacionadas à gestão do plantel, incluindo ausência de plano de manejo atualizado, fragilidades no controle genealógico dos indivíduos, inexistência de programa estruturado de conservação ex situ voltado à manutenção da variabilidade genética e à eventual reintrodução, além de falhas na rastreabilidade dos animais. Além disso, constatou-se que alguns indivíduos foram transferidos entre instituições públicas do Brasil sem o devido registro e autorização formal nos sistemas de controle de fauna, em possível desconformidade com as normas estabelecidas pela Instrução Normativa IBAMA nº 07/2015, que regula o funcionamento de empreendimentos de fauna silvestre, incluindo zoológicos. Diante desse cenário, para subsidiar tecnicamente a atuação ministerial, elabore um parecer técnico abordando os seguintes pontos: a. a importância dos zoológicos na conservação de espécies ameaçadas, com ênfase em conservação ex situ e manejo genético; b. a análise técnico-normativa da situação à luz da Portaria MMA nº 148/2022 e da IN IBAMA nº 07/2015; e c. a identificação fundamentada das possíveis não conformidades e dos dispositivos normativos eventualmente descumpridos. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,

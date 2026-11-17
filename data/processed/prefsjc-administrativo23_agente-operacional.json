@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Prefeitura de São José dos Campos - Administrativo",
   "cargo_title": "Agente Operacional",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -253,7 +253,7 @@
         "B": "Na palavra porão, o til marca a sílaba tônica.",
         "C": "As palavras cômico e quilômetro têm distintos acentos em Portugal e Brasil.",
         "D": "No segmento “Veio ágil e velozmente”, a forma sublinhada deve vir com acento.",
-        "E": "Os prefixos seguem a mesma regra dos demais vocábulos: ánti, ânfi. Raciocínio Lógico Matemático"
+        "E": "Os prefixos seguem a mesma regra dos demais vocábulos: ánti, ânfi."
       },
       "answer": "E",
       "annulled": false,
@@ -381,6 +381,23 @@
       "page_number": 5
     },
     {
+      "question_number": 23,
+      "discipline": null,
+      "statement": "Em uma urna há 6 bolas: 2 brancas, 2 vermelhas e 2 azuis. A probabilidade de qualquer uma das bolas ser sorteada aleatoriamente é a mesma. Antônia sorteia, em sequência e aleatoriamente, 2 bolas da urna. A seguir, Beatriz também sorteia, em sequência e aleatoriamente, 2 bolas das 4 que restaram na urna. Finalmente, Carla retira da urna as 2 bolas que sobraram. A probabilidade de que as 2 bolas retiradas por Carla sejam da mesma cor é 1",
+      "alternatives": {
+        "A": "8 . 1",
+        "B": "6 . 1",
+        "C": "5 . 1",
+        "D": "4 . 1",
+        "E": "3 ."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
       "question_number": 24,
       "discipline": null,
       "statement": "Considere a amostra de 5 valores 7, X, 3, 12, 3. Sabe-se que a mediana dessa amostra é igual a 6. A diferença entre a média e a moda dessa amostra é igual a",
@@ -406,7 +423,7 @@
         "B": "10.",
         "C": "11.",
         "D": "12.",
-        "E": "14. Noções de Informática"
+        "E": "14."
       },
       "answer": "D",
       "annulled": false,
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Com relação ao Google Drive, analise as afirmativas a seguir. I. Oferece acesso criptografado e seguro aos seus arquivos. II. É nativo da nuvem, o que diminui muito a necessidade de arquivos locais, bem como o risco para seus dispositivos. III. Os arquivos compartilhados podem ser verificados e removidos proativamente se forem malware, spam, ransomware ou phishing. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Acerca da autenticação em dois fatores (2FA), avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Nesse modelo de autenticação, os usuários não precisam carregar ou baixar um gerador de token ou um aplicativo associado a ele. ( ) Usa um método de segurança de gerenciamento de identidade e acesso que requer uma forma de identificação para acessar recursos e dados. ( ) É usado para ajudar a proteger os ativos pessoais e comerciais para evitar que cibercriminosos roubem, destruam ou acessem seus registros de dados internos para uso próprio. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que melhor descreve o conceito de cloud storage.",
       "alternatives": {
         "A": "Armazenamento físico de dados em discos rígidos locais.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que indica o navegador de Internet que é conhecido por sua extensa variedade de extensões e por ser de código aberto.",
       "alternatives": {
         "A": "Microsoft Internet Explorer.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que indica o atalho de teclado usado no Microsoft Excel para inserir a função de soma automática em um intervalo de células.",
       "alternatives": {
         "A": "Alt + S",
         "B": "Ctrl + S",
         "C": "Shift + S",
         "D": "Alt + =",
-        "E": "Ctrl + = Atualidades"
+        "E": "Ctrl + ="
       },
       "answer": "D",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A expressão “tripé macroeconômico” designa um conceito que foi instituído no Brasil, a partir dos anos 1990, para sintetizar um programa de estabilização da economia a longo prazo. Com relação ao tripé econômico, relacione os elementos que o compõem a seus respectivos conteúdos. 1. Câmbio flutuante 2. Meta de inflação 3. Responsabilidade fiscal ( ) Regime que estabelece um parâmetro claro para a taxa de inflação a ser atingido mediante medidas adotadas pelo banco central. ( ) Sistema em que o valor da moeda é determinado pela lei da oferta e da demanda, sem que o banco central intervenha. ( ) Meta pela qual as contas públicas não devem ser deficitárias, respeitando a Lei Orçamentária Anual (LOA). Assinale a opção que mostra a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Biocombustíveis são derivados de biomassa renovável que podem substituir, parcial ou totalmente, combustíveis derivados de petróleo e gás natural em motores a combustão ou em outro tipo de geração de energia. Ou seja, são fontes de energia que são produzidas a partir de matéria biológica e que podem ser substitutas de combustíveis fósseis. Adapatado de https://www.gov.br/anp/ Assinale a afirmativa que exemplifica corretamente um biocombustível alternativo à gasolina para os meios de transporte.",
       "alternatives": {
         "A": "Etanol.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "O ataque a Israel pelo Hamas em 2023 recolocou na ordem do dia o problema da paz no Oriente Médio e o longo histórico de tensões e conflitos entre o Estado de Israel e os grupos que representam a chamada “causa palestina”. A respeito das principais questões envolvidas no conflito entre Israel e Palestina, assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) A proposta de criação de dois estados, redimensionado o atual território de Israel para instituir um estado autônomo para os palestinos na Cisjordânia e na Faixa de Gaza. ( ) A legalidade dos assentamentos judaicos nas terras ocupadas por Israel em 1967, defendida pelo Estado de Israel, mas contestada pelos palestinos e pela comunidade internacional. ( ) A manutenção de Jerusalém ocidental como capital do Estado de Israel e de Jerusalém oriental como ocupação jordaniana. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "O desenvolvimento e industrialização de São José dos Campos esteve intimamente ligado à tecnologia, desde a criação do Centro Técnico de Aeronáutica em 1946 (mais tarde denominado Departamento de Ciência e Tecnologia Aeroespacial – DCTA), de onde se originaram o Instituto Tecnológico de Aeronáutica (ITA) em 1950, o Instituto Nacional de Pesquisas Espaciais (INPE) em 1961, e a Embraer em 1969, formando o primeiro e grande ecossistema tecnológico do país. Em outubro de 2023, a Boeing inaugurou uma nova unidade em São José dos Campos, para sediar seu centro de engenharia e tecnologia no Brasil, confirmando o título da cidade de “capital da aviação”. Adaptado de https://pitsjc.org.br/institucional/historia/ O trecho caracteriza a cidade de São José dos Campos como um “tecnopolo”, uma vez que:",
       "alternatives": {
         "A": "relaciona os processos de inovação tecnológica à instalação de empresas multinacionais, como a Boeing.",
@@ -569,14 +586,14 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A Amazônia é um bioma que abrange a floresta amazônica e outras vegetações menores não florestais, ocupando o território de vários países da América do Sul, além do brasileiro. O bioma amazônico",
       "alternatives": {
         "A": "está distribuído por todos os países da América do Sul, entre os quais o Brasil é o com a maior porcentagem, em relação à área total do bioma.",
         "B": "é constituído principalmente por uma floresta tropical, caracterizada por vegetação de tipo savana, com árvores com troncos tortuosos, além de arbustos e gramíneas.",
         "C": "tem sua preservação comprometida por queimadas, garimpo ilegal, desmatamento para o agro pastoreio e biopirataria, entre os principais desafios que prejudicam sua biodiversidade.",
         "D": "é formado por bosques esparsos, arbustos, musgo e gramíneas em terra firme e florestas de igapó, campos alagados e várzeas nas partes inundadas.",
-        "E": "contribui para conter o aquecimento global mediante a absorção do gás metano pela floresta em pé, o que compensa a emissão desse gás pelas queimadas. CONHECIMENTOS ESPECÍFICOS"
+        "E": "contribui para conter o aquecimento global mediante a absorção do gás metano pela floresta em pé, o que compensa a emissão desse gás pelas queimadas."
       },
       "answer": "C",
       "annulled": false,
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A figura a seguir apresenta parte da instalação elétrica de uma edificação. Para que a instalação funcione adequadamente, o eletroduto X deve conter apenas",
       "alternatives": {
         "A": "1 fio neutro e 1 fio fase.",
@@ -595,7 +612,7 @@
         "D": "1 fio neutro, 1 fio fase e 2 fios de retorno.",
         "E": "1 fio neutro, 1 fio fase, 1 fio terra e 1 fio de retorno."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefsjc-administrativo23_agente-operacional_q36.png",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No projeto de uma instalação elétrica de uma residência, é necessário projetar o disjuntor que irá proteger um circuito que contém um chuveiro elétrico, que funciona em 220V. Para esse circuito, o disjuntor mais adequado é aquele com curva característica de disparo do tipo",
       "alternatives": {
         "A": "B.",
@@ -612,7 +629,7 @@
         "D": "K.",
         "E": "KM."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Os condutores utilizados em instalações elétricas podem ser identificados pelas cores dos seus revestimentos. Desse modo, relacione a cor do revestimento à esquerda com o tipo de condutor à direita. 1. Azul 2. Vermelho 3. Verde ( ) Neutro ( ) Terra ( ) Fase ou retorno Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -629,7 +646,7 @@
         "D": "2 – 3 – 1.",
         "E": "3 – 2 – 1."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A figura a seguir apresenta, esquematicamente, parte da instalação hidráulica de uma edificação. Nessa figura, as tubulações indicadas pelos números 1, 2 e 3 são conhecidas, respectivamente, como",
       "alternatives": {
         "A": "tubulação de recalque, barrilete e coluna de distribuição.",
@@ -646,7 +663,7 @@
         "D": "barrilete, tubulação de recalque e coluna de distribuição",
         "E": "coluna de distribuição, barrilete e tubulação de recalque."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefsjc-administrativo23_agente-operacional_q39.png",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A figura a seguir apresenta parte da instalação de esgoto sanitário de uma edificação. Nessa instalação, os elementos 1 e 2 são denominados, respectivamente,",
       "alternatives": {
         "A": "caixa coletora e caixa sifonada.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A instalação de águas pluviais de uma edificação é composta por condutores horizontais e verticais e, nesses condutores, a água escoa por gravidade. Desse modo, a declividade mínima dos condutores horizontais, para que a água escoe adequadamente, é de",
       "alternatives": {
         "A": "0,2%.",
@@ -680,7 +697,7 @@
         "D": "1,5%.",
         "E": "2,0%."
       },
-      "answer": "C",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Parte de uma folha de desenho com tamanho A1 é apresentada a seguir. Nessa folha, a margem X e a largura Y da linha indicada valem, respectivamente",
       "alternatives": {
         "A": "20mm e 0,5mm.",
@@ -697,7 +714,7 @@
         "D": "25mm e 0,7mm.",
         "E": "25mm e 1,0mm."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefsjc-administrativo23_agente-operacional_q42.png",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Em um projeto arquitetônico, a planta que compreende a localização e as dimensões da edificação, conjunto edificado ou espaços não edificados, e do edifício isolado no lote ou na área de intervenção, indicando, em escala compatível, as dimensões do terreno, recuos, projeção da cobertura e áreas permeáveis e impermeáveis, é denominada",
       "alternatives": {
         "A": "croqui.",
@@ -714,7 +731,7 @@
         "D": "planta de situação.",
         "E": "planta de implantação."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Os óleos lubrificantes para motores de automóveis se classificam de acordo com sua viscosidade SAE. Considerando esse critério de classificação, o óleo multiviscoso mais adequado para utilização em baixas temperaturas, dentre os apresentados nas alternativas a seguir, é",
       "alternatives": {
         "A": "20.",
@@ -731,7 +748,7 @@
         "D": "10W50.",
         "E": "25W40."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Sobre o alinhamento e balanceamento das rodas de um veículo, analise as afirmativas a seguir. I. O cáster não tem influência no desgaste do pneu, mas a não observância do ângulo adequado pode acarretar instabilidade em altas velocidades. II. O balanceamento das rodas de um veículo tem como finalidade eliminar vibrações e consequentemente os múltiplos danos na suspensão e distúrbios causados por ela. III. A convergência é a diferença entre a abertura traseira e dianteira das rodas, medida entre os pneus na altura da ponta dos eixos, e está diretamente ligada ao aumento da vida útil dos pneus em veículos com tração dianteira. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -748,7 +765,7 @@
         "D": "II e III, apenas.",
         "E": "I, II e III."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "As figuras a seguir apresentam duas luzes encontradas nos painéis de veículos. (1) (2) Quando cada uma das luzes (1) e (2) acende, elas podem indicar, respectivamente,",
       "alternatives": {
         "A": "falha no alternador e falta de pressão de óleo.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Em relação às responsabilidades sobre os equipamentos de proteção individual no exercício de atividades laborais, analise as afirmativas a seguir. I. Cabe ao empregador responsabilizar-se pela higienização e manutenção periódica, quando aplicáveis esses procedimentos. II. Cabe ao empregado responsabilizar-se pela limpeza, guarda e conservação do EPI. III. A seleção do EPI deve ser realizada pela organização sendo suficiente ouvir apenas os membros da CIPA. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A massagem cardíaca externa ou compressão torácica é um método efetivo de ressuscitação cardíaca. Sobre esse método, analise as afirmativas a seguir. I. Para realizar a massagem, o socorrista deve apoiar as mãos uma sobre a outra, na metade superior do esterno sobre o apêndice xifoide. II. A frequência das compressões torácicas deve ser mantida entre 80 e 100 por minuto. III. É absolutamente contraindicado cessar as massagens por um tempo superior a alguns segundos, pois qualquer interrupção maior no processo diminuirá a afluência de sangue no organismo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -799,7 +816,7 @@
         "D": "I e II, apenas.",
         "E": "II e III, apenas."
       },
-      "answer": "B",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Durante a execução de peças de concreto armado, um artifício utilizado para evitar o desaprumo das formas é",
       "alternatives": {
         "A": "a armação.",
@@ -816,7 +833,7 @@
         "D": "o estaqueamento.",
         "E": "a vibração."
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Uma argamassa de cimento, cal e areia possui traço 1:2:8 e um fator água-cimento de 0,5, todos medidos em peso. Os pesos específicos dos materiais constituintes dessa mistura são mostrados na tabela a seguir. Material Peso específico (kg/dm3) Cimento 1,6 Cal 1,5 Areia 1,8 água 1,0 Para elaborar cada m3 dessa argamassa, a quantidade de água que deve ser adicionada é de, aproximadamente,",
       "alternatives": {
         "A": "48,0 litros.",
@@ -833,7 +850,7 @@
         "D": "72,4 litros.",
         "E": "96,1 litros."
       },
-      "answer": "E",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Os tijolos devem possuir algumas características técnicas de forma a conferir vedação e suporte de cargas adequados. Essas características incluem as seguintes:",
       "alternatives": {
         "A": "superfícies ásperas, facilidade de corte e arestas vivas.",
@@ -850,7 +867,7 @@
         "D": "superfícies lisas, dificuldade de corte e arestas arredondadas.",
         "E": "superfícies lisas, facilidade de corte e arestas vivas."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A dureza de um aço caracteriza-se pela resistência do material a",
       "alternatives": {
         "A": "risco.",
@@ -867,7 +884,7 @@
         "D": "cisalhamento.",
         "E": "dilatação térmica."
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Com relação à estrutura de fundação em radier, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) É uma fundação direta, do tipo profunda. ( ) Devido a sua estrutura monolítica, minimiza os efeitos de recalques diferenciais. ( ) A armação no centro é colocada na face superior da placa, enquanto a armação no apoio dos pilares é colocada na face inferior da placa. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -884,7 +901,7 @@
         "D": "F – V – F.",
         "E": "F – V – V."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Com relação à realização de um revestimento em azulejo de uma parede, avalie as afirmativas a seguir. I. A execução do revestimento deve ser feita de cima para baixo. II. As argamassas de gesso não devem ser utilizadas se a superfície for externa. III. As peças devem estar perfeitamente secas antes do assentamento. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
@@ -901,7 +918,7 @@
         "D": "II e III, somente.",
         "E": "I, II e III."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A figura a seguir mostra um equipamento utilizado para aplainar madeiras, onde se indicam, por meio de números, algumas de suas peças. A peça que tem como função ejetar cavacos é a indicada pelo número",
       "alternatives": {
         "A": "1.",
@@ -918,7 +935,7 @@
         "D": "4.",
         "E": "5."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefsjc-administrativo23_agente-operacional_q55.png",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Com relação às instruções para a operação de uma serra circular, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) A máquina deve ser ligada somente após estar encostada na peça a ser trabalhada. ( ) Se a lâmina ou disco de corte flexionar durante a operação do equipamento, a ferramenta deve ser imediatamente puxada para trás. ( ) A execução de peças chanfradas pode ser feita ajustando-se o ângulo de trabalho. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -935,7 +952,7 @@
         "D": "F – F – V.",
         "E": "F – V – F."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A figura a seguir mostra um instrumento utilizado para realizar marcações com pontos em uma peça, com utilização de um martelo. Esse instrumento é denominado",
       "alternatives": {
         "A": "compasso circular.",
@@ -952,7 +969,7 @@
         "D": "martelete de ponta.",
         "E": "caneta marcadora."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefsjc-administrativo23_agente-operacional_q57.png",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Cavilhas, espigas postiças e talas são instrumentos utilizados para",
       "alternatives": {
         "A": "envernizar peças de madeira.",
@@ -969,7 +986,7 @@
         "D": "fixar peças de madeira na parede.",
         "E": "juntar peças de madeira."
       },
-      "answer": "B",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Relacione os processos associados ao envernizamento de madeiras com suas respectivas definições ( ) banho que põe em evidência e realça as belezas das madeiras ( ) pintura que dissimula, encobre as 1. Coloração cores, as veias e os nós de certas madeiras 2. Imitação 3. Lavagem ( ) operação para desembaraçar a madeira de sua tintura natural, facilitando a pega do mordente artificial Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -986,7 +1003,7 @@
         "D": "2 – 3 – 3.",
         "E": "3 – 2 – 1."
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "O procedimento de adicionar pesos a um trator para reduzir a perda de força de tração, resultando em um maior rendimento operacional e menor desgaste dos pneus, é conhecido como",
       "alternatives": {
         "A": "acoplamento.",
@@ -1003,7 +1020,7 @@
         "D": "carregamento.",
         "E": "lastreamento. Realização"
       },
-      "answer": "B",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,

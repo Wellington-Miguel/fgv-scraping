@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Secretaria de Planejamento, Orçamento e Modernização da Gestão e Controladoria Geral do Município de Niterói",
   "cargo_title": "APPGG - Gestão de Tecnologia da Informação e Comunicação",
   "exam_type": "Tipo 1",
-  "total_questions": 20,
+  "total_questions": 18,
   "questions": [
     {
       "question_number": 1,
@@ -126,55 +126,21 @@
       "page_number": 3
     },
     {
-      "question_number": 8,
+      "question_number": 10,
       "discipline": null,
-      "statement": "A Análise de Pontos de Função (APF) é amplamente utilizada para medir o tamanho funcional de sistemas de software, com base nas funcionalidades fornecidas ao usuário final. Essa técnica é independente da tecnologia utilizada e considera entradas, saídas, consultas, arquivos internos e arquivos externos, ponderados por complexidade. A tabela a seguir apresenta um levantamento simplificado de funcionalidades identificadas em um sistema de cadastro de clientes. Tipo Qtd. Complexidade Peso por Complexidade EE 6 Média 5 SE 2 Alta 8 CE 3 Baixa 3 ALI 4 Média 9 AIE 1 Alta 10 Com base na tabela acima, assinale a opção que corresponde ao total de Pontos de Função Não Ajustados do Sistema.",
+      "statement": "Com base na tabela acima, assinale a opção que corresponde ao total de Pontos de Função Não Ajustados do Sistema.",
       "alternatives": {
         "A": "1.",
         "B": "16.",
         "C": "35.",
         "D": "98.",
-        "E": "101."
+        "E": "101. 9 A normalização em banco de dados é fundamental para garantir a integridade dos dados e otimizar o armazenamento, facilitando a manutenção, a consistência e a escalabilidade das informações ao longo do tempo. Analisando as opções a seguir, avalie as tabelas a seguir. Tabela: Cliente ID Nome Telefone 00193 Ana Guimarães (21)99976-3231, (32)98665-7321 I. 00274 Joel Fernandes (14)98778-9233 01653 Leila Cóes 99932-8876 Tabela: Pedido n_pedido Tipo Itens 123 auto-atendimento [Arroz, Feijão, Óleo] II. 176 whatsapp [Farinha, Arroz] 124 presencial [Sabão em barra, Amaciante] Tabela: Produto Código Nome Preço 001 Caneta 3.40 III. 002 Caderno 12.37 003 Borracha 0.83 Assinale a opção que indica a(s) tabela(s) que atende(em) à primeira forma normal. (A) I, apenas. (B) II, apenas. (C) III, apenas. (D) II e III, apenas. (E) I, II e III. 10 Considere uma organização que está passando por um projeto de transformação digital e usa a modelagem de processos como ferramenta de análise e redesenho organizacional. Assinale a opção que apresenta a abordagem mais adequada para garantir a eficiência, a integração e o alinhamento estratégico dos processos modelados. (A) Focar na automação de tarefas operacionais, priorizando redução de custos a curto prazo. (B) Aplicar modelagem ad hoc, desenvolvidos por cada departamento da organização, para refletir sua autonomia. (C) Implementar modelos baseados em casos de uso, direcionando a visão dos processos organizacionais ao nível de sistemas de informação. (D) Utilizar BPM (Business Process Management) centrada nas áreas e serviços de TI, já que a modelagem é restrita à lógica de softwares corporativos. (E) Adotar uma abordagem BPM (Business Process Management) centrada no ciclo de vida do processo, com foco na melhoria contínua e no alinhamento estratégico."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
-    },
-    {
-      "question_number": 9,
-      "discipline": null,
-      "statement": "A normalização em banco de dados é fundamental para garantir a integridade dos dados e otimizar o armazenamento, facilitando a manutenção, a consistência e a escalabilidade das informações ao longo do tempo. Analisando as opções a seguir, avalie as tabelas a seguir. Tabela: Cliente ID Nome Telefone 00193 Ana Guimarães (21)99976-3231, (32)98665-7321 I. 00274 Joel Fernandes (14)98778-9233 01653 Leila Cóes 99932-8876 Tabela: Pedido n_pedido Tipo Itens 123 auto-atendimento [Arroz, Feijão, Óleo] II. 176 whatsapp [Farinha, Arroz] 124 presencial [Sabão em barra, Amaciante] Tabela: Produto Código Nome Preço 001 Caneta 3.40 III. 002 Caderno 12.37 003 Borracha 0.83 Assinale a opção que indica a(s) tabela(s) que atende(em) à primeira forma normal.",
-      "alternatives": {
-        "A": "I, apenas.",
-        "B": "II, apenas.",
-        "C": "III, apenas.",
-        "D": "II e III, apenas.",
-        "E": "I, II e III."
-      },
-      "answer": "C",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 4
-    },
-    {
-      "question_number": 10,
-      "discipline": null,
-      "statement": "Considere uma organização que está passando por um projeto de transformação digital e usa a modelagem de processos como ferramenta de análise e redesenho organizacional. Assinale a opção que apresenta a abordagem mais adequada para garantir a eficiência, a integração e o alinhamento estratégico dos processos modelados.",
-      "alternatives": {
-        "A": "Focar na automação de tarefas operacionais, priorizando redução de custos a curto prazo.",
-        "B": "Aplicar modelagem ad hoc, desenvolvidos por cada departamento da organização, para refletir sua autonomia.",
-        "C": "Implementar modelos baseados em casos de uso, direcionando a visão dos processos organizacionais ao nível de sistemas de informação.",
-        "D": "Utilizar BPM (Business Process Management) centrada nas áreas e serviços de TI, já que a modelagem é restrita à lógica de softwares corporativos.",
-        "E": "Adotar uma abordagem BPM (Business Process Management) centrada no ciclo de vida do processo, com foco na melhoria contínua e no alinhamento estratégico."
-      },
-      "answer": "E",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 4
     },
     {
       "question_number": 11,

@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - Qualidade e Testes de Software",
   "exam_type": "Tipo 1",
-  "total_questions": 35,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-qualidade-e-testes-de-software_q12.png",
       "page_number": 4
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 21,
@@ -253,13 +355,64 @@
         "B": "V – V – F.",
         "C": "V – F – F.",
         "D": "F – V – F.",
-        "E": "F – F – V. Uma instituição pública passou a expor parte de seus serviços por meio de APIs utilizadas na comunicação entre sistemas internos e aplicações externas. Em uma revisão de segurança, a equipe técnica avaliou diferentes medidas de proteção dos recursos expostos, considerando aspectos ligados ao controle de acesso, à proteção das comunicações, ao tratamento das requisições recebidas e à limitação do uso dos serviços. Nesse contexto, assinale a opção que apresenta uma medida tecnicamente adequada. (A) Adotar a utilização de certificados digitais no servidor nas requisições entre clientes e serviços, de modo a garantir que apenas clientes autorizados tenham acesso aos endpoints disponíveis. (B) Adotar tokens de longa duração como medida de segurança, a fim de reduzir a frequência de renovação e, com isso, diminuir a exposição da API a falhas associadas ao processo de reautenticação. (C) Dispensar mecanismos específicos de autorização quando a API utilizar OAuth 2.0 ou JWT emitido por servidor confiável, pois a validade do token já é suficiente para legitimar o acesso aos recursos expostos. (D) Implementar validação e saneamento dos dados de entrada recebidos pelas APIs, com verificação dos parâmetros e do payload da requisição, a fim de mitigar ataques de injeção e outros efeitos decorrentes do processamento de entradas maliciosas. (E) Dispensar o uso de rate limiting nos servidores de recursos de APIs que adotam OAuth 2.0, uma vez que o controle de consumo por contador exige manutenção de estado entre requisições, contrariando o princípio de comunicação sem estado do protocolo OAuth. Considerando a especificação oficial do GraphQL, analise a operação a seguir, elaborada por uma equipe para consultas de clientes e pedidos em uma API. query BuscarCliente($id: ID!, $limite: Int = 10) { c1: cliente(id: $id) { id nome pedidos(limite: $limite) { total itens } } c2: cliente(id: $id) { id nome } } Com base no código e nas regras da linguagem, avalie as afirmativas a seguir. I. Os aliases c1 e c2 definem nomes distintos, na resposta, para duas seleções de consulta ao mesmo cliente. II. Se o campo itens for do tipo objeto ou lista de objetos, a operação será inválida por faltar subseleção para esse campo. III. Caso a variável $limite não seja informada na execução da operação, será utilizado o valor padrão 10. Está correto o que se afirma em (A) II, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. Uma equipe mantém uma API REST documentada por meio de uma especificação OpenAPI 3.x, exibida no Swagger UI. Parte dos endpoints exige autenticação por token do tipo bearer no formato JWT, enviado no cabeçalho Authorization. Contudo, na interface gerada, essas operações não exibem o botão Authorize nem ficam corretamente marcadas como protegidas. Sem alterar a implementação da API e atuando apenas na especificação OpenAPI, a equipe precisa configurar a documentação para que o Swagger UI reconheça formalmente esse mecanismo de segurança e permita seu uso nas operações protegidas. Nesse contexto, assinale a opção que apresenta a medida tecnicamente correta. (A) Definir, em components/securitySchemes, um esquema de segurança do tipo http com scheme: bearer, podendo indicar bearerFormat: JWT, e aplicá-lo por meio de security no nível global ou apenas nas operações protegidas. (B) Declarar, em components/schemas, um objeto chamado Authorization, com um campo obrigatório token, e referenciá- lo nas operações que exigem autenticação. (C) Adicionar, em cada operação protegida, um parâmetro em header com o nome Authorization, sem definir esquema de segurança específico na especificação. (D) Definir, em components/securitySchemes, um esquema do tipo apiToken, com in: header e name: Authorization, e associá-lo às operações protegidas por meio de security. (E) Definir, em components/securitySchemes, um esquema do tipo http com scheme: basic e associá-lo às operações protegidas, informando que o token JWT será enviado no cabeçalho Authorization."
+        "E": "F – F – V."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "Uma instituição pública passou a expor parte de seus serviços por meio de APIs utilizadas na comunicação entre sistemas internos e aplicações externas. Em uma revisão de segurança, a equipe técnica avaliou diferentes medidas de proteção dos recursos expostos, considerando aspectos ligados ao controle de acesso, à proteção das comunicações, ao tratamento das requisições recebidas e à limitação do uso dos serviços. Nesse contexto, assinale a opção que apresenta uma medida tecnicamente adequada.",
+      "alternatives": {
+        "A": "Adotar a utilização de certificados digitais no servidor nas requisições entre clientes e serviços, de modo a garantir que apenas clientes autorizados tenham acesso aos endpoints disponíveis.",
+        "B": "Adotar tokens de longa duração como medida de segurança, a fim de reduzir a frequência de renovação e, com isso, diminuir a exposição da API a falhas associadas ao processo de reautenticação.",
+        "C": "Dispensar mecanismos específicos de autorização quando a API utilizar OAuth 2.0 ou JWT emitido por servidor confiável, pois a validade do token já é suficiente para legitimar o acesso aos recursos expostos.",
+        "D": "Implementar validação e saneamento dos dados de entrada recebidos pelas APIs, com verificação dos parâmetros e do payload da requisição, a fim de mitigar ataques de injeção e outros efeitos decorrentes do processamento de entradas maliciosas.",
+        "E": "Dispensar o uso de rate limiting nos servidores de recursos de APIs que adotam OAuth 2.0, uma vez que o controle de consumo por contador exige manutenção de estado entre requisições, contrariando o princípio de comunicação sem estado do protocolo OAuth."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 23,
+      "discipline": null,
+      "statement": "Considerando a especificação oficial do GraphQL, analise a operação a seguir, elaborada por uma equipe para consultas de clientes e pedidos em uma API. query BuscarCliente($id: ID!, $limite: Int = 10) { c1: cliente(id: $id) { id nome pedidos(limite: $limite) { total itens } } c2: cliente(id: $id) { id nome } } Com base no código e nas regras da linguagem, avalie as afirmativas a seguir. I. Os aliases c1 e c2 definem nomes distintos, na resposta, para duas seleções de consulta ao mesmo cliente. II. Se o campo itens for do tipo objeto ou lista de objetos, a operação será inválida por faltar subseleção para esse campo. III. Caso a variável $limite não seja informada na execução da operação, será utilizado o valor padrão 10. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "II, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 24,
+      "discipline": null,
+      "statement": "Uma equipe mantém uma API REST documentada por meio de uma especificação OpenAPI 3.x, exibida no Swagger UI. Parte dos endpoints exige autenticação por token do tipo bearer no formato JWT, enviado no cabeçalho Authorization. Contudo, na interface gerada, essas operações não exibem o botão Authorize nem ficam corretamente marcadas como protegidas. Sem alterar a implementação da API e atuando apenas na especificação OpenAPI, a equipe precisa configurar a documentação para que o Swagger UI reconheça formalmente esse mecanismo de segurança e permita seu uso nas operações protegidas. Nesse contexto, assinale a opção que apresenta a medida tecnicamente correta.",
+      "alternatives": {
+        "A": "Definir, em components/securitySchemes, um esquema de segurança do tipo http com scheme: bearer, podendo indicar bearerFormat: JWT, e aplicá-lo por meio de security no nível global ou apenas nas operações protegidas.",
+        "B": "Declarar, em components/schemas, um objeto chamado Authorization, com um campo obrigatório token, e referenciá- lo nas operações que exigem autenticação.",
+        "C": "Adicionar, em cada operação protegida, um parâmetro em header com o nome Authorization, sem definir esquema de segurança específico na especificação.",
+        "D": "Definir, em components/securitySchemes, um esquema do tipo apiToken, com in: header e name: Authorization, e associá-lo às operações protegidas por meio de security.",
+        "E": "Definir, em components/securitySchemes, um esquema do tipo http com scheme: basic e associá-lo às operações protegidas, informando que o token JWT será enviado no cabeçalho Authorization."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 25,
@@ -270,13 +423,30 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. Um estudante de segurança da informação realizou uma avaliação de segurança de uma aplicação web em ambiente de testes, e acessou a aplicação por meio de um navegador, inserindo o seguinte código em um campo de entrada de dados: <script>alert('teste')</script> Ao submeter a requisição, a aplicação retornou uma resposta que resultou na exibição de um alerta no navegador, evidenciando a execução do script inserido. A técnica empregada caracteriza um tipo de análise de software conhecido como (A) análise estática de código, pois o comportamento da aplicação foi avaliado sem a necessidade de execução. (B) revisão de código manual, com foco na identificação de vulnerabilidades diretamente no código-fonte. (C) análise dinâmica de software, baseada na interação com a aplicação em execução e na avaliação de seu comportamento em tempo de execução. (D) uso de linters, para identificação de falhas sintáticas e más práticas de programação. (E) teste unitário, voltado à validação de componentes isolados do sistema."
+        "E": "I, II e III."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 26,
+      "discipline": null,
+      "statement": "Um estudante de segurança da informação realizou uma avaliação de segurança de uma aplicação web em ambiente de testes, e acessou a aplicação por meio de um navegador, inserindo o seguinte código em um campo de entrada de dados: <script>alert('teste')</script> Ao submeter a requisição, a aplicação retornou uma resposta que resultou na exibição de um alerta no navegador, evidenciando a execução do script inserido. A técnica empregada caracteriza um tipo de análise de software conhecido como",
+      "alternatives": {
+        "A": "análise estática de código, pois o comportamento da aplicação foi avaliado sem a necessidade de execução.",
+        "B": "revisão de código manual, com foco na identificação de vulnerabilidades diretamente no código-fonte.",
+        "C": "análise dinâmica de software, baseada na interação com a aplicação em execução e na avaliação de seu comportamento em tempo de execução.",
+        "D": "uso de linters, para identificação de falhas sintáticas e más práticas de programação.",
+        "E": "teste unitário, voltado à validação de componentes isolados do sistema."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
     },
     {
       "question_number": 27,
@@ -287,9 +457,26 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. As primeiras abordagens no processo de desenvolvimento de software estavam fortemente centradas na funcionalidade e no desempenho, com pouca preocupação com a legibilidade e a manutenção do código. Com o avanço das práticas de engenharia de software, especialmente a partir da adoção da programação estruturada e, posteriormente, da programação orientada a objetos, passou-se a valorizar a organização, a modularização e a clareza do código. Com isso, surgiram princípios e práticas voltados à melhoria da qualidade interna do software, como o Clean Code, que tem como objetivo tornar o código mais compreensível, coeso e de fácil manutenção. Com base nesse contexto, analise as afirmativas a seguir. I. As funções devem concentrar o maior número possível de operações, a fim de evitar fragmentação do código e melhorar a eficiência. II. A escrita de código limpo prioriza a legibilidade e a facilidade de manutenção, considerando que o código será frequentemente lido por outros desenvolvedores. III. O uso de nomes significativos para variáveis e funções contribui para a compreensão do código, reduzindo a necessidade de comentários explicativos. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "I, II e III."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "As primeiras abordagens no processo de desenvolvimento de software estavam fortemente centradas na funcionalidade e no desempenho, com pouca preocupação com a legibilidade e a manutenção do código. Com o avanço das práticas de engenharia de software, especialmente a partir da adoção da programação estruturada e, posteriormente, da programação orientada a objetos, passou-se a valorizar a organização, a modularização e a clareza do código. Com isso, surgiram princípios e práticas voltados à melhoria da qualidade interna do software, como o Clean Code, que tem como objetivo tornar o código mais compreensível, coeso e de fácil manutenção. Com base nesse contexto, analise as afirmativas a seguir. I. As funções devem concentrar o maior número possível de operações, a fim de evitar fragmentação do código e melhorar a eficiência. II. A escrita de código limpo prioriza a legibilidade e a facilidade de manutenção, considerando que o código será frequentemente lido por outros desenvolvedores. III. O uso de nomes significativos para variáveis e funções contribui para a compreensão do código, reduzindo a necessidade de comentários explicativos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -304,13 +491,30 @@
         "B": "Ferramenta de teste funcional.",
         "C": "Ferramenta de análise dinâmica.",
         "D": "Ferramenta de teste automatizado.",
-        "E": "Ferramenta de análise geral voltada a métricas de qualidade do código. Um Engenheiro de Testes acaba de receber uma demanda para conduzir um teste de sistema com sua equipe. Nesse contexto, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Deve ser conduzido antes dos testes de integração e conduzido preferencialmente por uma equipe de testes. ( ) Tem como objetivo confrontar o software em funcionamento com seus requisitos funcionais e não funcionais, sendo executado em um ambiente muito semelhante ao de produção. ( ) Pode ser dividido em fases alfa (em ambiente de desenvolvimento) e beta (em ambiente que emula a produção) e realizado integralmente pela equipe de testes. As afirmativas são, respectivamente, (A) V – V – V. (B) V – F – F. (C) F – V – F. (D) F – V – V. (E) F – F – V."
+        "E": "Ferramenta de análise geral voltada a métricas de qualidade do código."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 8
+    },
+    {
+      "question_number": 30,
+      "discipline": null,
+      "statement": "Um Engenheiro de Testes acaba de receber uma demanda para conduzir um teste de sistema com sua equipe. Nesse contexto, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Deve ser conduzido antes dos testes de integração e conduzido preferencialmente por uma equipe de testes. ( ) Tem como objetivo confrontar o software em funcionamento com seus requisitos funcionais e não funcionais, sendo executado em um ambiente muito semelhante ao de produção. ( ) Pode ser dividido em fases alfa (em ambiente de desenvolvimento) e beta (em ambiente que emula a produção) e realizado integralmente pela equipe de testes. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "V – F – F.",
+        "C": "F – V – F.",
+        "D": "F – V – V.",
+        "E": "F – F – V."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 31,
@@ -321,9 +525,26 @@
         "B": "1, 1, 2 e 1.",
         "C": "1, 2, 1 e 1.",
         "D": "1, 2, 1 e 2.",
-        "E": "2, 1, 1 e 2. As metodologias de desenvolvimento de software evoluíram de abordagens rígidas e sequenciais, como o modelo em cascata, para modelos iterativos e incrementais, que favorecem adaptação a mudanças e redução de riscos. Com as práticas ágeis, passaram a priorizar ciclos curtos, feedback contínuo e maior integração entre desenvolvimento e validação. Nesse contexto, surgem metodologias que colocam os testes no centro do desenvolvimento, não apenas para verificação, mas como guia para construção do software, melhorando qualidade e alinhamento com o negócio. Em uma delas, utilizam-se especificações em linguagem natural, permitindo entendimento comum entre clientes, analistas e desenvolvedores; surge também a chamada living documentation, que se mantém atualizada por ser executável como testes automatizados. Assinale a opção que indica a metodologia em questão. (A) TDD (Test Driven Development). (B) BDD (Behavior Driven Development). (C) DDT (Data Driven Development). (D) RUP (Rational Unifed Process). (E) UCD (User-Centered Design)."
+        "E": "2, 1, 1 e 2."
       },
       "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 32,
+      "discipline": null,
+      "statement": "As metodologias de desenvolvimento de software evoluíram de abordagens rígidas e sequenciais, como o modelo em cascata, para modelos iterativos e incrementais, que favorecem adaptação a mudanças e redução de riscos. Com as práticas ágeis, passaram a priorizar ciclos curtos, feedback contínuo e maior integração entre desenvolvimento e validação. Nesse contexto, surgem metodologias que colocam os testes no centro do desenvolvimento, não apenas para verificação, mas como guia para construção do software, melhorando qualidade e alinhamento com o negócio. Em uma delas, utilizam-se especificações em linguagem natural, permitindo entendimento comum entre clientes, analistas e desenvolvedores; surge também a chamada living documentation, que se mantém atualizada por ser executável como testes automatizados. Assinale a opção que indica a metodologia em questão.",
+      "alternatives": {
+        "A": "TDD (Test Driven Development).",
+        "B": "BDD (Behavior Driven Development).",
+        "C": "DDT (Data Driven Development).",
+        "D": "RUP (Rational Unifed Process).",
+        "E": "UCD (User-Centered Design)."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -355,13 +576,30 @@
         "B": "1, 2 e 2.",
         "C": "1, 1 e 1.",
         "D": "2, 1 e 1.",
-        "E": "2, 2 e 2. O CMMI é um conjunto de melhores práticas projetado para orientar organizações na melhoria de seus processos de engenharia de software e sistemas. Ele funciona como um mapa para transformar processos caóticos ou imaturos em processos disciplinados, previsíveis e de alta qualidade, avaliando e elevando a maturidade de uma organização em níveis (1 a 5). Assinale a opção que indica o nível de maturidade CMMI em que já há um foco no controle de projetos, onde os processos básicos são planejados e monitorados, e há uma gestão de requisitos eficiente. (A) Inicial. (B) Definido. (C) Gerenciado. (D) Otimização. (E) Quantitativamente Gerenciado."
+        "E": "2, 2 e 2."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "O CMMI é um conjunto de melhores práticas projetado para orientar organizações na melhoria de seus processos de engenharia de software e sistemas. Ele funciona como um mapa para transformar processos caóticos ou imaturos em processos disciplinados, previsíveis e de alta qualidade, avaliando e elevando a maturidade de uma organização em níveis (1 a 5). Assinale a opção que indica o nível de maturidade CMMI em que já há um foco no controle de projetos, onde os processos básicos são planejados e monitorados, e há uma gestão de requisitos eficiente.",
+      "alternatives": {
+        "A": "Inicial.",
+        "B": "Definido.",
+        "C": "Gerenciado.",
+        "D": "Otimização.",
+        "E": "Quantitativamente Gerenciado."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 36,
@@ -372,9 +610,26 @@
         "B": "I – Monitoramento e Controle; II – Planejamento; III – Planejamento; IV – Execução; V – Iniciação.",
         "C": "I – Monitoramento e Controle; II – Planejamento; III – Execução; IV – Execução; V – Planejamento.",
         "D": "I – Planejamento; II – Execução; III – Planejamento; IV – Execução; V – Iniciação.",
-        "E": "I – Monitoramento e Controle; II – Execução; III – Planejamento; IV – Planejamento; V – Iniciação. No gerenciamento de projetos de Tecnologia da Informação, o PMBOK organiza os processos em Áreas de Conhecimento, responsáveis por coordenar atividades específicas necessárias ao sucesso do projeto. Considerando as atividades descritas a seguir, assinale a afirmativa correta. (A) As atividades destinadas a garantir que o projeto seja concluído dentro do orçamento aprovado pertencem à área de conhecimento Gerenciamento da Qualidade. (B) A atividade de identificar e documentar as necessidades e expectativas dos stakeholders pertence à área de conhecimento Gerenciamento das Aquisições. (C) As atividades de planejar, gerenciar e controlar o fluxo de informações entre os stakeholders do projeto pertencem à área de conhecimento Gerenciamento das Comunicações. (D) A atividade de monitorar o desempenho do cronograma, comparando o progresso real com o planejado e adotando ações corretivas quando necessário, pertence à área de conhecimento Gerenciamento do Escopo. (E) A atividade de realizar a análise quantitativa dos riscos identificados para prever o impacto financeiro de incertezas pertence à área de conhecimento Gerenciamento do Cronograma."
+        "E": "I – Monitoramento e Controle; II – Execução; III – Planejamento; IV – Planejamento; V – Iniciação."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 37,
+      "discipline": null,
+      "statement": "No gerenciamento de projetos de Tecnologia da Informação, o PMBOK organiza os processos em Áreas de Conhecimento, responsáveis por coordenar atividades específicas necessárias ao sucesso do projeto. Considerando as atividades descritas a seguir, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "As atividades destinadas a garantir que o projeto seja concluído dentro do orçamento aprovado pertencem à área de conhecimento Gerenciamento da Qualidade.",
+        "B": "A atividade de identificar e documentar as necessidades e expectativas dos stakeholders pertence à área de conhecimento Gerenciamento das Aquisições.",
+        "C": "As atividades de planejar, gerenciar e controlar o fluxo de informações entre os stakeholders do projeto pertencem à área de conhecimento Gerenciamento das Comunicações.",
+        "D": "A atividade de monitorar o desempenho do cronograma, comparando o progresso real com o planejado e adotando ações corretivas quando necessário, pertence à área de conhecimento Gerenciamento do Escopo.",
+        "E": "A atividade de realizar a análise quantitativa dos riscos identificados para prever o impacto financeiro de incertezas pertence à área de conhecimento Gerenciamento do Cronograma."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -389,13 +644,30 @@
         "B": "O Kanban exige reuniões diárias obrigatórias com definição prévia de entregas priorizadas pelo cliente.",
         "C": "O Scrum não permite adaptação durante o ciclo de desenvolvimento, uma vez que foca principalmente em processos.",
         "D": "O Kanban usa papéis formais obrigatórios e cerimônias estruturadas para buscar flexibilidade na melhoria dos processos.",
-        "E": "O Scrum é baseado em papéis definidos, como Product Owner e Scrum Master, enquanto o Kanban foca na gestão visual do fluxo de trabalho e na limitação do trabalho em progresso. A Estrutura Analítica do Projeto (EAP), no contexto do gerenciamento de projetos, é utilizada como ferramenta fundamental no processo de planejamento, permitindo a decomposição do escopo do projeto em componentes menores e mais gerenciáveis. A respeito das características e aplicações da EAP, assinale a afirmativa correta. (A) A EAP é responsável por definir a sequência lógica das atividades do projeto, sendo essencial para a elaboração do cronograma detalhado. (B) A EAP permite a decomposição do escopo em pacotes de trabalho, contribuindo para estimativas mais precisas de prazo, custo e recursos do projeto. (C) O nível mais detalhado da EAP é denominado 'Dicionário da EAP', onde são registrados as datas de entrega e os responsáveis por cada tarefa do projeto. (D) A EAP é uma ferramenta de planejamento de custos, sendo sua principal finalidade a criação do fluxo de caixa e a definição da margem de lucro do projeto. (E) A EAP é elaborada após a definição do cronograma, com o objetivo de organizar as atividades já sequenciadas."
+        "E": "O Scrum é baseado em papéis definidos, como Product Owner e Scrum Master, enquanto o Kanban foca na gestão visual do fluxo de trabalho e na limitação do trabalho em progresso."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 39,
+      "discipline": null,
+      "statement": "A Estrutura Analítica do Projeto (EAP), no contexto do gerenciamento de projetos, é utilizada como ferramenta fundamental no processo de planejamento, permitindo a decomposição do escopo do projeto em componentes menores e mais gerenciáveis. A respeito das características e aplicações da EAP, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A EAP é responsável por definir a sequência lógica das atividades do projeto, sendo essencial para a elaboração do cronograma detalhado.",
+        "B": "A EAP permite a decomposição do escopo em pacotes de trabalho, contribuindo para estimativas mais precisas de prazo, custo e recursos do projeto.",
+        "C": "O nível mais detalhado da EAP é denominado 'Dicionário da EAP', onde são registrados as datas de entrega e os responsáveis por cada tarefa do projeto.",
+        "D": "A EAP é uma ferramenta de planejamento de custos, sendo sua principal finalidade a criação do fluxo de caixa e a definição da margem de lucro do projeto.",
+        "E": "A EAP é elaborada após a definição do cronograma, com o objetivo de organizar as atividades já sequenciadas."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     },
     {
       "question_number": 40,
@@ -406,9 +678,26 @@
         "B": "A análise quantitativa de riscos deve preceder obrigatoriamente a análise qualitativa, pois fornece a base numérica necessária para a priorização das ameaças.",
         "C": "O gerenciamento de riscos deve abordar tanto as ameaças quanto as oportunidades, buscando mitigar impactos negativos e maximizar eventos positivos que possam beneficiar os objetivos do projeto.",
         "D": "A estratégia de \"transferência\" de riscos é a mais recomendada para riscos de alto impacto e alta probabilidade, pois elimina a responsabilidade legal e financeira da organização sobre o evento.",
-        "E": "No monitoramento de riscos, a ocorrência de um \"risco residual\" (aquele que permanece após as respostas planejadas) indica falha no planejamento e deve ser reportada como uma não conformidade de qualidade. Uma empresa de Tecnologia da Informação decidiu implementar um Sistema de Gestão da Qualidade baseado na ISO 9001 para melhorar a confiabilidade de seus serviços e a satisfação dos clientes. Com base nos requisitos e boas práticas de gestão de serviços de TI, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O registro estruturado de chamados e a análise de causa raiz de incidentes contribuem para a melhoria contínua dos processos e para a tomada de decisão baseada em evidências. ( ) Na gestão de infraestrutura de TI, processos como controle de mudanças e gestão de configuração contribuem para a estabilidade operacional e para a rastreabilidade das alterações no ambiente tecnológico. ( ) O controle de versões no desenvolvimento de software constitui uma ferramenta operacional de apoio aos desenvolvedores, não sendo relevante para os requisitos de controle de informação documentada previstos na ISO 9001. As afirmativas são, respectivamente, (A) F – V – F. (B) F – V – V. (C) V – F – F. (D) V – V – F. (E) F – F – V."
+        "E": "No monitoramento de riscos, a ocorrência de um \"risco residual\" (aquele que permanece após as respostas planejadas) indica falha no planejamento e deve ser reportada como uma não conformidade de qualidade."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 41,
+      "discipline": null,
+      "statement": "Uma empresa de Tecnologia da Informação decidiu implementar um Sistema de Gestão da Qualidade baseado na ISO 9001 para melhorar a confiabilidade de seus serviços e a satisfação dos clientes. Com base nos requisitos e boas práticas de gestão de serviços de TI, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O registro estruturado de chamados e a análise de causa raiz de incidentes contribuem para a melhoria contínua dos processos e para a tomada de decisão baseada em evidências. ( ) Na gestão de infraestrutura de TI, processos como controle de mudanças e gestão de configuração contribuem para a estabilidade operacional e para a rastreabilidade das alterações no ambiente tecnológico. ( ) O controle de versões no desenvolvimento de software constitui uma ferramenta operacional de apoio aos desenvolvedores, não sendo relevante para os requisitos de controle de informação documentada previstos na ISO 9001. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "F – V – F.",
+        "B": "F – V – V.",
+        "C": "V – F – F.",
+        "D": "V – V – F.",
+        "E": "F – F – V."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -440,13 +729,30 @@
         "B": "F – V – V.",
         "C": "V – F – F.",
         "D": "V – V – F.",
-        "E": "F – F – V. Em ambientes Linux, scripts podem ser executados de diferentes formas, dependendo do interpretador de comandos utilizado, das permissões de execução e da forma como são invocados pelo usuário. Nesse sentido, considerando que o nome do arquivo criado é meuscript.sh, analise as afirmativas a seguir. I. Se o script contém #!/bin/bash, na primeira linha, será executado pelo interpretador Bash quando chamado diretamente no terminal com o comando ./meuscript.sh, desde que possua permissão de execução. II. Ao usar o comando: bash meuscript.sh (no terminal), o script será executado, mesmo sem permissão de execução e sem definição de interpretador na primeira linha do arquivo. III. O comando chmod 644 meuscript.sh é suficiente para permitir a execução direta do script (./meuscript.sh), pois concede permissões de leitura e execução ao proprietário. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "F – F – V."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "Em ambientes Linux, scripts podem ser executados de diferentes formas, dependendo do interpretador de comandos utilizado, das permissões de execução e da forma como são invocados pelo usuário. Nesse sentido, considerando que o nome do arquivo criado é meuscript.sh, analise as afirmativas a seguir. I. Se o script contém #!/bin/bash, na primeira linha, será executado pelo interpretador Bash quando chamado diretamente no terminal com o comando ./meuscript.sh, desde que possua permissão de execução. II. Ao usar o comando: bash meuscript.sh (no terminal), o script será executado, mesmo sem permissão de execução e sem definição de interpretador na primeira linha do arquivo. III. O comando chmod 644 meuscript.sh é suficiente para permitir a execução direta do script (./meuscript.sh), pois concede permissões de leitura e execução ao proprietário. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     },
     {
       "question_number": 45,
@@ -457,9 +763,26 @@
         "B": "New-ZipFile",
         "C": "Zip-Directory",
         "D": "Set-Compression",
-        "E": "Compress-Archive A automação de tarefas operacionais por meio de scripts é um pilar fundamental para a implementação bem-sucedida de práticas de DevOps, especialmente na construção de pipelines de Integração Contínua e Entrega Contínua (CI/CD). Considerando o uso de scripts para a automação de builds, testes e deploys, assinale a afirmativa correta. (A) Os scripts de automação devem estar fortemente acoplados ao Ambiente de Desenvolvimento Integrado (IDE) de cada desenvolvedor, assegurando que o servidor de CI reproduza com exatidão as configurações locais da máquina onde o código foi criado. (B) Ferramentas de build (como Maven, Gradle ou Ant), quando integradas a um pipeline de CI/CD, são utilizadas para automatizar um processo repetível e consistente que compila o código-fonte e executa testes automatizados, gerando um artefato validado e pronto para ser implantado nos ambientes subsequentes. (C) A adoção de scripts em pipelines de CI/CD tem como objetivo principal transferir a execução de testes automatizados e compilações diretamente para o ambiente de produção, eliminando a necessidade de manter ambientes intermediários de teste e homologação. (D) Na automação de ambientes de CI/CD, os scripts responsáveis por alterações de banco de dados (DDL e DML) devem ser mantidos fora do sistema de controle de versão para garantir a segurança da informação e evitar que a integração contínua corrompa os dados. (E) A integração contínua exige a execução manual dos scripts de build uma vez por semana pelos administradores de sistemas, visando agrupar o máximo de mudanças possíveis e reduzir a sobrecarga nos servidores de integração."
+        "E": "Compress-Archive"
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 46,
+      "discipline": null,
+      "statement": "A automação de tarefas operacionais por meio de scripts é um pilar fundamental para a implementação bem-sucedida de práticas de DevOps, especialmente na construção de pipelines de Integração Contínua e Entrega Contínua (CI/CD). Considerando o uso de scripts para a automação de builds, testes e deploys, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os scripts de automação devem estar fortemente acoplados ao Ambiente de Desenvolvimento Integrado (IDE) de cada desenvolvedor, assegurando que o servidor de CI reproduza com exatidão as configurações locais da máquina onde o código foi criado.",
+        "B": "Ferramentas de build (como Maven, Gradle ou Ant), quando integradas a um pipeline de CI/CD, são utilizadas para automatizar um processo repetível e consistente que compila o código-fonte e executa testes automatizados, gerando um artefato validado e pronto para ser implantado nos ambientes subsequentes.",
+        "C": "A adoção de scripts em pipelines de CI/CD tem como objetivo principal transferir a execução de testes automatizados e compilações diretamente para o ambiente de produção, eliminando a necessidade de manter ambientes intermediários de teste e homologação.",
+        "D": "Na automação de ambientes de CI/CD, os scripts responsáveis por alterações de banco de dados (DDL e DML) devem ser mantidos fora do sistema de controle de versão para garantir a segurança da informação e evitar que a integração contínua corrompa os dados.",
+        "E": "A integração contínua exige a execução manual dos scripts de build uma vez por semana pelos administradores de sistemas, visando agrupar o máximo de mudanças possíveis e reduzir a sobrecarga nos servidores de integração."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -474,13 +797,30 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. O OWASP Top 10:2025 apresenta as principais categorias de riscos de segurança em aplicações web, incluindo falhas relacionadas à manipulação inadequada de entradas fornecidas pelo usuário. Uma aplicação web, hospedada no endereço http://www.eth0123.com, permite acesso a informações jornalísticas por meio do seguinte endereço: http://www.eth0123.com/acesso.php?arq=jornal Durante uma análise de segurança, verificou-se que o parâmetro “arq” é utilizado pela aplicação para carregar conteúdos armazenados no servidor. Em razão de falha na validação de entradas fornecidas pelo usuário, foi possível manipular o endereço de acesso conforme apresentado a seguir, permitindo visualizar o conteúdo de um arquivo sensível do sistema. http://www.eth0123.com/acesso.php?arq=../../etc/passwd Assinale a opção que apresenta a técnica de exploração usada nesse cenário. (A) SQL Injection (B) LFI – Local File Inclusion (C) XSS – Cross-Site Scripting (D) RFI – Remote File Inclusion (E) FPD – Full Path Disclosure"
+        "E": "I, II e III."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12
+    },
+    {
+      "question_number": 48,
+      "discipline": null,
+      "statement": "O OWASP Top 10:2025 apresenta as principais categorias de riscos de segurança em aplicações web, incluindo falhas relacionadas à manipulação inadequada de entradas fornecidas pelo usuário. Uma aplicação web, hospedada no endereço http://www.eth0123.com, permite acesso a informações jornalísticas por meio do seguinte endereço: http://www.eth0123.com/acesso.php?arq=jornal Durante uma análise de segurança, verificou-se que o parâmetro “arq” é utilizado pela aplicação para carregar conteúdos armazenados no servidor. Em razão de falha na validação de entradas fornecidas pelo usuário, foi possível manipular o endereço de acesso conforme apresentado a seguir, permitindo visualizar o conteúdo de um arquivo sensível do sistema. http://www.eth0123.com/acesso.php?arq=../../etc/passwd Assinale a opção que apresenta a técnica de exploração usada nesse cenário.",
+      "alternatives": {
+        "A": "SQL Injection",
+        "B": "LFI – Local File Inclusion",
+        "C": "XSS – Cross-Site Scripting",
+        "D": "RFI – Remote File Inclusion",
+        "E": "FPD – Full Path Disclosure"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
     },
     {
       "question_number": 49,
@@ -508,7 +848,24 @@
         "B": "A seção de conclusão pode conter opiniões de caráter subjetivo, ainda que não estejam fundamentadas nas evidências obtidas durante a análise técnica.",
         "C": "A seção de identificação do laudo técnico é facultativa, podendo ser dispensada quando o documento se destinar ao uso interno da organização.",
         "D": "O laudo técnico caracteriza-se predominantemente por seu caráter opinativo, baseado na interpretação do profissional responsável.",
-        "E": "O escopo do laudo técnico deve ser definido ao final do documento, após a análise dos dados, a fim de refletir com maior precisão os resultados obtidos. Em relação à Legislação e aos aspectos éticos na área de Tecnologia da Informação, assinale a afirmativa correta. (A) Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica. (B) A Responsabilidade Técnica limita-se à garantia de que os sistemas estejam disponíveis, não abrangendo as falhas de configuração que resultem em acessos indevidos. (C) O profissional de TI pode compartilhar dados internos da organização, desde que não haja identificação direta dos titulares das informações. (D) O dever de sigilo profissional cessa após o desligamento do colaborador, exceto se houver cláusula contratual específica de não divulgação. (E) A Ética Profissional em TI foca na eficiência técnica dos algoritmos, sendo as questões de privacidade de responsabilidade do setor jurídico."
+        "E": "O escopo do laudo técnico deve ser definido ao final do documento, após a análise dos dados, a fim de refletir com maior precisão os resultados obtidos."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "Em relação à Legislação e aos aspectos éticos na área de Tecnologia da Informação, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica.",
+        "B": "A Responsabilidade Técnica limita-se à garantia de que os sistemas estejam disponíveis, não abrangendo as falhas de configuração que resultem em acessos indevidos.",
+        "C": "O profissional de TI pode compartilhar dados internos da organização, desde que não haja identificação direta dos titulares das informações.",
+        "D": "O dever de sigilo profissional cessa após o desligamento do colaborador, exceto se houver cláusula contratual específica de não divulgação.",
+        "E": "A Ética Profissional em TI foca na eficiência técnica dos algoritmos, sendo as questões de privacidade de responsabilidade do setor jurídico."
       },
       "answer": "A",
       "annulled": false,
@@ -525,13 +882,30 @@
         "B": "Os indicadores de desempenho permitem avaliar a eficiência e a qualidade dos serviços de TI, apoiando a tomada de decisão e a melhoria contínua dos sistemas.",
         "C": "Os indicadores estatísticos em TI não podem ser utilizados para comparações entre diferentes períodos, devido à variabilidade dos sistemas tecnológicos.",
         "D": "Os relatórios estatísticos na área de TI devem apresentar exclusivamente dados técnicos, sem interpretação ou análise gerencial.",
-        "E": "A utilização de dados institucionais limita a criação de novos indicadores de desempenho em ambientes de TI. No que tange às contratações de bens e serviços de Tecnologia da Informação (TI), conforme disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. Nas contratações de TI, a Administração poderá definir o objeto da licitação com base exclusiva em marca ou modelo específico, desde que isso facilite a padronização tecnológica da organização. II. O Diálogo Competitivo é uma modalidade de licitação que pode ser aplicada em projetos de TI que envolvam inovação tecnológica ou quando a Administração não consegue definir, com precisão suficiente, as especificações técnicas do objeto. III. A contratação de soluções de TI deverá priorizar, sempre que possível, especificações baseadas em desempenho ou requisitos funcionais, evitando restrições indevidas à competitividade. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "A utilização de dados institucionais limita a criação de novos indicadores de desempenho em ambientes de TI."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "No que tange às contratações de bens e serviços de Tecnologia da Informação (TI), conforme disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. Nas contratações de TI, a Administração poderá definir o objeto da licitação com base exclusiva em marca ou modelo específico, desde que isso facilite a padronização tecnológica da organização. II. O Diálogo Competitivo é uma modalidade de licitação que pode ser aplicada em projetos de TI que envolvam inovação tecnológica ou quando a Administração não consegue definir, com precisão suficiente, as especificações técnicas do objeto. III. A contratação de soluções de TI deverá priorizar, sempre que possível, especificações baseadas em desempenho ou requisitos funcionais, evitando restrições indevidas à competitividade. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
     },
     {
       "question_number": 54,
@@ -542,9 +916,26 @@
         "B": "F – V – V.",
         "C": "V – F – F.",
         "D": "V – V – F.",
-        "E": "F – F – V. No contexto da engenharia de software, métricas são variáveis quantificáveis atribuídas a atributos específicos, essenciais para transformar julgamentos subjetivos em avaliações objetivas baseadas em evidências. Elas permitem monitorar o progresso, prever resultados e identificar áreas problemáticas para melhoria contínua. Neste contexto, relacione os conceitos apresentados a seguir às suas características. 1. Métricas de Processo 2. Métricas de Produto ( ) Tempo de resposta do sistema. ( ) Produtividade (linhas de código produzidas por pessoa/mês). ( ) Densidade de defeitos. ( ) Taxa de defeitos encontrados por fase. Assinale a opção que apresenta a relação correta, segundo a ordem apresentada. (A) 1, 1, 2 e 2. (B) 2, 1, 2 e 2. (C) 2, 1, 2 e 1. (D) 1, 2, 1 e 1. (E) 2, 2, 1 e 2."
+        "E": "F – F – V."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 55,
+      "discipline": null,
+      "statement": "No contexto da engenharia de software, métricas são variáveis quantificáveis atribuídas a atributos específicos, essenciais para transformar julgamentos subjetivos em avaliações objetivas baseadas em evidências. Elas permitem monitorar o progresso, prever resultados e identificar áreas problemáticas para melhoria contínua. Neste contexto, relacione os conceitos apresentados a seguir às suas características. 1. Métricas de Processo 2. Métricas de Produto ( ) Tempo de resposta do sistema. ( ) Produtividade (linhas de código produzidas por pessoa/mês). ( ) Densidade de defeitos. ( ) Taxa de defeitos encontrados por fase. Assinale a opção que apresenta a relação correta, segundo a ordem apresentada.",
+      "alternatives": {
+        "A": "1, 1, 2 e 2.",
+        "B": "2, 1, 2 e 2.",
+        "C": "2, 1, 2 e 1.",
+        "D": "1, 2, 1 e 1.",
+        "E": "2, 2, 1 e 2."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -559,13 +950,30 @@
         "B": "3, 1, 3 e 2.",
         "C": "1, 2, 3 e 2.",
         "D": "2, 1, 2 e 1.",
-        "E": "2, 1, 3 e 2. Na Engenharia de Requisitos, a prototipação atua como um mecanismo de redução de incertezas, mitigando falhas na interpretação das necessidades dos stakeholders. A escolha do nível de fidelidade do protótipo deve ser alinhada às necessidades específicas de cada etapa do processo, variando entre a exploração conceitual na elicitação e o refinamento detalhado na validação. Relacione os níveis de fidelidade de prototipagem apresentados a seguir às suas características e propriedades. 1. Alta Fidelidade 2. Baixa Fidelidade ( ) Prioriza a validação da arquitetura de informação e dos fluxos lógicos de navegação com baixo investimento de tempo. ( ) Fornece uma representação funcional próxima ao produto final, permitindo avaliar a usabilidade e a experiência do usuário de forma realista. ( ) Possibilita a análise de aspectos de design de interface, como paleta de cores, tipografia e tempos de resposta do sistema. ( ) Técnica de custo reduzido que visa o descarte imediato após a elicitação dos requisitos fundamentais. ( ) Apresenta o risco de distrair os stakeholders com elementos cosméticos, prejudicando a crítica sobre a lógica de negócio subjacente. Assinale a opção que apresenta a relação correta, segundo a ordem apresentada. (A) 1, 2, 1, 2 e 1. (B) 1, 2, 1, 2 e 2. (C) 1, 2, 2, 1 e 2. (D) 2, 1, 2, 2 e 1. (E) 2, 2, 1, 1 e 1."
+        "E": "2, 1, 3 e 2."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14
+    },
+    {
+      "question_number": 57,
+      "discipline": null,
+      "statement": "Na Engenharia de Requisitos, a prototipação atua como um mecanismo de redução de incertezas, mitigando falhas na interpretação das necessidades dos stakeholders. A escolha do nível de fidelidade do protótipo deve ser alinhada às necessidades específicas de cada etapa do processo, variando entre a exploração conceitual na elicitação e o refinamento detalhado na validação. Relacione os níveis de fidelidade de prototipagem apresentados a seguir às suas características e propriedades. 1. Alta Fidelidade 2. Baixa Fidelidade ( ) Prioriza a validação da arquitetura de informação e dos fluxos lógicos de navegação com baixo investimento de tempo. ( ) Fornece uma representação funcional próxima ao produto final, permitindo avaliar a usabilidade e a experiência do usuário de forma realista. ( ) Possibilita a análise de aspectos de design de interface, como paleta de cores, tipografia e tempos de resposta do sistema. ( ) Técnica de custo reduzido que visa o descarte imediato após a elicitação dos requisitos fundamentais. ( ) Apresenta o risco de distrair os stakeholders com elementos cosméticos, prejudicando a crítica sobre a lógica de negócio subjacente. Assinale a opção que apresenta a relação correta, segundo a ordem apresentada.",
+      "alternatives": {
+        "A": "1, 2, 1, 2 e 1.",
+        "B": "1, 2, 1, 2 e 2.",
+        "C": "1, 2, 2, 1 e 2.",
+        "D": "2, 1, 2, 2 e 1.",
+        "E": "2, 2, 1, 1 e 1."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
     },
     {
       "question_number": 58,
@@ -576,9 +984,26 @@
         "B": "1, 2, 1 e 1.",
         "C": "2, 2, 2 e 1.",
         "D": "1, 1, 2 e 2.",
-        "E": "2, 2, 1 e 1. No ciclo de vida de desenvolvimento de software, a garantia de qualidade depende diretamente da conexão entre os requisitos funcionais e as validações finais. Nesse cenário, os critérios de aceitação são descritos como uma forma de documentar os anseios e as necessidades do cliente, especificando como o sistema deve operar para ser aceito. Eles servem como o elo fundamental de rastreabilidade, transformando regras de negócio em cenários de teste verificáveis. Sobre os critérios de aceitação, analise as afirmativas a seguir. I. Servem para verificar se o sistema como um todo adere aos critérios contratuais acordados com o usuário final. II. Ajudam a confirmar que o software cumpre todos os seus requisitos funcionais e não funcionais. III. Auxiliam na tomada de decisão dos stakeholders sobre o \"go- live\" (entrada em produção). Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "2, 2, 1 e 1."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "No ciclo de vida de desenvolvimento de software, a garantia de qualidade depende diretamente da conexão entre os requisitos funcionais e as validações finais. Nesse cenário, os critérios de aceitação são descritos como uma forma de documentar os anseios e as necessidades do cliente, especificando como o sistema deve operar para ser aceito. Eles servem como o elo fundamental de rastreabilidade, transformando regras de negócio em cenários de teste verificáveis. Sobre os critérios de aceitação, analise as afirmativas a seguir. I. Servem para verificar se o sistema como um todo adere aos critérios contratuais acordados com o usuário final. II. Ajudam a confirmar que o software cumpre todos os seus requisitos funcionais e não funcionais. III. Auxiliam na tomada de decisão dos stakeholders sobre o \"go- live\" (entrada em produção). Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -593,7 +1018,7 @@
         "B": "bloqueia respostas inválidas do servidor.",
         "C": "corrige automaticamente códigos HTTP incorretos.",
         "D": "valida automaticamente a semântica dos códigos HTTP.",
-        "E": "permite identificar inconsistências no comportamento da API. 1 No Ministério Público do Estado do Espírito Santo (MPES), os sistemas de Tecnologia da Informação desempenham papel fundamental no suporte às atividades institucionais, exigindo soluções confiáveis, seguras e aderentes às necessidades dos usuários. Nesse contexto, testar sistemas é uma estratégia essencial para garantir a qualidade, segurança e satisfação do usuário. Mais que uma verificação final, é um processo preventivo que assegura o funcionamento esperado e reduz custos. Com relação ao processo de testes de sistemas, responda com um texto dissertativo, contemplando os itens a seguir: a) explique brevemente a diferença entre nível de teste e tipo de teste; b) cite dois níveis de teste e dois tipos de teste; c) explique o objetivo do teste funcional; e d) caracterize brevemente as abordagens TDD (Test-Driven Development) e BDD (Behavior-Driven Development), destacando uma característica de cada uma relacionada à qualidade do software. No contexto da governança e gestão de TI, as organizações buscam alinhar a estratégia organizacional aos objetivos operacionais por meio de ferramentas como OKRs (Objectives and Key Results), KPIs (Key Performance Indicators) e sistemas de gestão da qualidade baseados na ISO 9001. Com base nos conceitos de Gestão Estratégica e Gestão da Qualidade aplicados à TI, elabore um texto dissertativo sobre a aplicação e o acompanhamento de OKRs e KPIs no ambiente de TI, relacionando-os com os princípios da gestão da qualidade estabelecidos pela ISO 9001. Em sua resposta, aborde obrigatoriamente: a) o conceito e a finalidade dos OKRs e dos KPIs, destacando suas diferenças e complementaridades; b) a aplicação prática de OKRs e KPIs na gestão de serviços e processos de TI; c) a relação entre indicadores de desempenho e os princípios da qualidade da ISO 9001; e d) o acompanhamento dos indicadores para o controle, a melhoria dos processos e a geração de valor na TI. Realização"
+        "E": "permite identificar inconsistências no comportamento da API. Prova Discursiva 1 No Ministério Público do Estado do Espírito Santo (MPES), os sistemas de Tecnologia da Informação desempenham papel fundamental no suporte às atividades institucionais, exigindo soluções confiáveis, seguras e aderentes às necessidades dos usuários. Nesse contexto, testar sistemas é uma estratégia essencial para garantir a qualidade, segurança e satisfação do usuário. Mais que uma verificação final, é um processo preventivo que assegura o funcionamento esperado e reduz custos. Com relação ao processo de testes de sistemas, responda com um texto dissertativo, contemplando os itens a seguir: a) explique brevemente a diferença entre nível de teste e tipo de teste; b) cite dois níveis de teste e dois tipos de teste; c) explique o objetivo do teste funcional; e d) caracterize brevemente as abordagens TDD (Test-Driven Development) e BDD (Behavior-Driven Development), destacando uma característica de cada uma relacionada à qualidade do software. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 No contexto da governança e gestão de TI, as organizações buscam alinhar a estratégia organizacional aos objetivos operacionais por meio de ferramentas como OKRs (Objectives and Key Results), KPIs (Key Performance Indicators) e sistemas de gestão da qualidade baseados na ISO 9001. Com base nos conceitos de Gestão Estratégica e Gestão da Qualidade aplicados à TI, elabore um texto dissertativo sobre a aplicação e o acompanhamento de OKRs e KPIs no ambiente de TI, relacionando-os com os princípios da gestão da qualidade estabelecidos pela ISO 9001. Em sua resposta, aborde obrigatoriamente: a) o conceito e a finalidade dos OKRs e dos KPIs, destacando suas diferenças e complementaridades; b) a aplicação prática de OKRs e KPIs na gestão de serviços e processos de TI; c) a relação entre indicadores de desempenho e os princípios da qualidade da ISO 9001; e d) o acompanhamento dos indicadores para o controle, a melhoria dos processos e a geração de valor na TI. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
       "answer": "E",
       "annulled": false,

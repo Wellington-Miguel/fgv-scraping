@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Receita Federal do Brasil",
   "cargo_title": "Analista - Tributário da Receita Federal do Brasil",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -100,7 +100,7 @@
         "B": "As ações da fiscalização podem se resumir a verificações documentais no canal amarelo, na exportação, ou no canal laranja, na importação.",
         "C": "As ações de fiscalização podem abranger operações mais complexas, de verificação da origem dos recursos aplicados no comércio exterior, combate à interposição fraudulenta e à lavagem de dinheiro, no canal vermelho, na importação, e no canal cinza, na exportação.",
         "D": "A fiscalização, no canal cinza, por ser a mais rigorosa, só pode ser efetuada em recinto alfandegado de zona secundária, e inclui a verificação física das mercadorias, documental e de origem dos recursos, assim como o combate à interposição fraudulenta e à lavagem de dinheiro.",
-        "E": "As ações de fiscalização aduaneira podem abranger as verificações documental e física das mercadorias no chamado canal vermelho, tanto na exportação como na importação. Controle de Carga, Fluxo de Informações e Gestão Coordenada de Fronteiras - CCA"
+        "E": "As ações de fiscalização aduaneira podem abranger as verificações documental e física das mercadorias no chamado canal vermelho, tanto na exportação como na importação. Controle de Carga, Fluxo de Informações"
       },
       "answer": "D",
       "annulled": false,
@@ -253,7 +253,7 @@
         "B": "O despacho com embarque antecipado ocorre quando o exportador registra a DU-E após o embarque da mercadoria.",
         "C": "No gerenciamento de risco da DU-E, os canais de conferência aduaneira possíveis são: verde, amarelo, vermelho e cinza, conforme a intensidade da fiscalização necessária.",
         "D": "A averbação do embarque é a confirmação da saída da mercadoria do País, podendo ocorrer automaticamente desde que a DU-E esteja desembaraçada, não haja exigências fiscais ativas e o evento “Carga Completamente Exportada (CCE)” tenha ocorrido.",
-        "E": "O cancelamento da DU-E depende sempre de requerimento do exportador e somente pode ser autorizado pela Receita Federal, não sendo possível o cancelamento automático pelo sistema. Arrecadação, Cobrança e Controle do Crédito Tributário"
+        "E": "O cancelamento da DU-E depende sempre de requerimento do exportador e somente pode ser autorizado pela Receita Federal, não sendo possível o cancelamento automático pelo sistema."
       },
       "answer": "E",
       "annulled": false,
@@ -426,6 +426,23 @@
         "E": "I, II e III."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 26,
+      "discipline": null,
+      "statement": "A restituição, o ressarcimento e o reembolso são três conceitos distintos no direito creditório, mas usualmente tratados como sinônimos no dia a dia. No uso cotidiano, esses três conceitos referem-se à devolução de valores. O direito creditório, todavia, trata cada um com sua especificidade. Sobre esses três conceitos, avalie as afirmativas a seguir. I. Os tributos PIS e Cofins podem gerar tanto restituição quanto ressarcimento. II. O reembolso decorre de pagamento a maior, na forma de antecipação, de contribuições previdenciárias III. A restituição da declaração de imposto de renda da pessoa física é, de fato, uma forma de restituição no seu conceito específico do direito creditório. IV. A diferença entre os conceitos está no sujeito passivo; a restituição é típica da pessoa física enquanto o ressarcimento é típico da pessoa jurídica. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e III, apenas. (C) II e III, apenas.",
+        "D": "I, II e III.",
+        "E": null
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,

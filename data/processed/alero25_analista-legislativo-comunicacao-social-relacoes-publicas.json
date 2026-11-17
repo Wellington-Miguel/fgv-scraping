@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Assembleia Legislativa do Estado de Rondônia",
   "cargo_title": "Analista Legislativo Comunicação Social - Relações Públicas",
   "exam_type": "Tipo 1",
-  "total_questions": 68,
+  "total_questions": 69,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Você e sua esposa estão convidados para a festa na minha casa de praia. / Ambiguidade.",
         "C": "Embora a chuva tenha durado pouco tempo, foi o suficiente para encher algumas ruas. / Uso inadequado de conectivos.",
         "D": "Todos os moradores da cidade requereram mais policiamento nas ruas. / Mau emprego de formas verbais.",
-        "E": "Como havia tempestade, o avião teve que aterrissar em outro aeroporto do estado. / A segunda frase não é uma sequência lógica da primeira. Raciocínio Lógico-matemático"
+        "E": "Como havia tempestade, o avião teve que aterrissar em outro aeroporto do estado. / A segunda frase não é uma sequência lógica da primeira."
       },
       "answer": "A",
       "annulled": false,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Aumentos sucessivos de 30%, 40% e 50% são equivalentes a um único aumento de",
       "alternatives": {
         "A": "120%.",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Sete bolas iguais, numeradas de 1 a 7, serão colocadas nas caixas A e B. A caixa A deverá conter 4 bolas e a caixa B, 3 bolas, de acordo com as seguintes regras: • As bolas 1 e 2 devem ficar em caixas diferentes. • As bolas 3 e 4 devem ficar na mesma caixa. O número de maneiras diferentes em que essa distribuição pode ser feita é",
       "alternatives": {
         "A": "4.",
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Há 24 números inteiros com 4 algarismos diferentes, que podem ser formados com os algarismos 3, 4, 6, e 8. Escrevendo esses 24 números em ordem crescente, o 15º número é o",
       "alternatives": {
         "A": "8346.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Em uma urna há apenas bolas amarelas, bolas azuis e bolas verdes. Sabe-se que são 12 bolas amarelas, 8 bolas azuis e que a probabilidade de se sortear aleatoriamente uma bola verde é 2/7. O número de bolas verdes, na urna, é",
       "alternatives": {
         "A": "5.",
@@ -246,14 +246,14 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Um grupo de estudantes está sentado ao redor de uma grande mesa circular. Uma cesta contendo 125 balas é entregue à Bruna, uma das estudantes, que pega uma bala e passa a cesta para o próximo estudante no sentido horário. Cada estudante que recebe a cesta pega uma bala e passa para o próximo estudante no sentido horário, até as balas acabarem. Sabe-se que Bruna foi a estudante que pegou a primeira (como já dito) e também a última bala. O número de estudantes sentados ao redor da mesa pode ser igual a",
       "alternatives": {
         "A": "17.",
         "B": "21.",
         "C": "24.",
         "D": "31.",
-        "E": "42. Noções de Informática"
+        "E": "42."
       },
       "answer": "D",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma sessão ordinária, na Assembleia Legislativa de Rondônia (ALE-RO), um Analista Legislativo precisa conectar seu notebook a um projetor multimídia na Tribuna para apresentar uma emenda e, ao mesmo tempo, conectar um disco externo contendo um backup de segurança dos documentos da propositura. O notebook possui apenas uma porta USB-A, uma porta HDMI e uma porta de rede (RJ-45). O projetor requer conexão HDMI, e o disco externo usa cabo USB-A. Nesse caso, o dispositivo de hardware, que permitiria ao analista realizar ambas as conexões simultaneamente com o notebook descrito, utilizando suas portas disponíveis, é um",
       "alternatives": {
         "A": "cabo conversor de HDMI para VGA.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma reunião de apresentação de dados, um Analista Legislativo da ALE-RO precisa alternar rapidamente entre uma planilha do Excel maximizada, um relatório no MS Word 365 (BR) e o navegador de internet, sem usar o mouse. Ele também precisa, em determinado momento, minimizar todas as janelas de uma vez para acessar um atalho na Área de Trabalho. Nesse caso, os atalhos de teclado do Windows 10 (BR) que atendem às necessidades de alternar janelas entre programas abertos e minimizar todas as janelas, são, respectivamente,",
       "alternatives": {
         "A": "Alt + F4 e Windows + D.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Um Analista Legislativo da ALE-RO precisa enviar uma correspondência oficial para 50 destinatários diferentes. Ele possui um documento base no MS Word 365 (BR) (carta-padrão) e uma lista no Excel com os nomes, cargos e endereços dos destinatários. Ele quer automatizar a criação de 50 cartas personalizadas, uma para cada pessoa da lista, sem ter que copiar e colar manualmente cada informação. Nesse caso, o recurso do MS Word 365 (BR) que deve ser utilizado para realizar essa tarefa de forma automatizada, mesclando dados do Excel com um documento base, é",
       "alternatives": {
         "A": "“Controlar Alterações”, na guia Revisão.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "Durante uma reunião no Google Meet, para discutir um projeto de lei, um Analista Legislativo da ALE-RO precisa apresentar uma proposta escrita no Google Documentos. Ele deseja que os participantes não apenas vejam a tela, mas também possam, com sua permissão, fazer anotações ou editar diretamente o documento durante a discussão, sem sair da chamada do Google Meet. Para atender a essa necessidade de apresentação com interatividade total, durante a reunião, o Analista Legislativo deve",
       "alternatives": {
         "A": "compartilhar toda a sua tela (a janela do navegador).",
@@ -331,14 +331,14 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-matemático",
       "statement": "O setor de TI da ALE-RO está implementando uma nova política de segurança. Além de exigir senhas fortes, ele quer adicionar uma camada extra de proteção ao acesso dos sistemas, especialmente para os servidores que contêm dados fiscais sensíveis. O objetivo é que, mesmo que uma senha seja comprometida, um invasor não consiga acessar a conta sem outra forma de validação. Considerando o objetivo de adicionar uma camada extra de proteção que vá além da senha, a medida de segurança mais adequada a ser implementada é",
       "alternatives": {
         "A": "exigir que todas as senhas sejam alteradas a cada 15 dias.",
         "B": "instalar um antivírus de última geração em todas as estações de trabalho.",
         "C": "implementar a Autenticação de Dois Fatores (2FA).",
         "D": "exigir que as senhas tenham no mínimo 25 caracteres.",
-        "E": "configurar o Firewall para bloquear todo o acesso à internet. Legislação Específica"
+        "E": "configurar o Firewall para bloquear todo o acesso à internet."
       },
       "answer": "C",
       "annulled": false,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi solicitada, a uma Secretaria do Poder Executivo do Estado de Rondônia, a cedência de João, servidor ocupante de cargo de provimento efetivo no âmbito da referida estrutura orgânica. Ao ser consultado em relação ao requerimento apresentado, João analisou o Regime Jurídico dos Servidores Públicos Civis do Estado de Rondônia, tendo concluído corretamente que",
       "alternatives": {
         "A": "não poderá progredir na carreira durante o período de cedência.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Maria, servidora ocupante de cargo de provimento efetivo na Assembleia Legislativa do Estado de Rondônia, decidiu requerer a percepção do adicional de responsabilidade técnica (ADRT), por ter preenchido os requisitos exigidos pela Lei Complementar nº 731/2013. À luz dos balizamentos estabelecidos pela sistemática legal, é correto afirmar que Maria",
       "alternatives": {
         "A": "deve exercer a atividade técnica de Engenharia.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Em um processo administrativo que tramitou no âmbito da Assembleia Legislativa do Estado de Rondônia, o legítimo interessado obteve êxito em sua pretensão, no plano recursal, após percorrer o número máximo de instâncias previsto na Lei nº 3.830/2016, manejando os instrumentos legais cabíveis. Na situação descrita, considerando a sistemática legal vigente, é correto afirmar que",
       "alternatives": {
         "A": "o recurso administrativo teve efeito suspensivo, salvo disposição legal ou regulamentar em contrário.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Determinada estrutura orgânica da Assembleia Legislativa do Estado de Rondônia, ao identificar a necessidade de serem adquiridos materiais de escritório, constatou a existência de ata de registro de preços, no âmbito de certa estrutura federal, que apresentava condições vantajosas, admitia adesões e abrangia a integralidade dos materiais a serem adquiridos. Nesse caso, à luz da sistemática estabelecida na Resolução ALE/RO nº 593/2024, é correto afirmar que",
       "alternatives": {
         "A": "é necessária a elaboração de termo de referência pelo setor requisitante, detalhando os materiais a serem adquiridos, seu valor de mercado e as razões da vantajosidade da adesão.",
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi instaurado, no âmbito da Assembleia Legislativa do Estado de Rondônia, expediente cujo objetivo é o de instar a iniciativa privada a propor uma solução inovadora que contribua para a resolução de determinada demanda de relevância pública, o que permitirá a melhor instrução da etapa de planejamento da contratação. À luz da sistemática estabelecida na Resolução ALE/RO nº 593/2024, é correto afirmar que esse procedimento",
       "alternatives": {
         "A": "é o credenciamento.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Determinada estrutura administrativa da Administração Pública estadual começou a adotar as medidas necessárias com o objetivo de realizar licitação visando à contratação de obra pública. Nesse momento, foi concluído o documento que contém os levantamentos topográficos e o conjunto de elementos necessários e suficientes para definir e dimensionar a obra, de modo a assegurar a sua viabilidade técnica, o tratamento do impacto ambiental, a avaliação do custo e o prazo de execução, mas não a identificação de serviços, materiais e equipamentos a serem incorporados à obra, com suas especificações técnicas. O documento referido é o",
       "alternatives": {
         "A": "anteprojeto.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Pedro, servidor público ocupante de cargo efetivo na Administração Pública do Estado de Rondônia, foi condenado, no início do corrente mês, em sentença proferida por juízo monocrático, pela prática de ato de improbidade administrativa tipificado no Art. 11 da Lei nº 8.429/1992. Na situação descrita, é correto afirmar que",
       "alternatives": {
         "A": "a conduta de Pedro pode ter sido praticada com dolo ou culpa.",
@@ -467,14 +467,14 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Foi constatado que determinada estrutura de poder da Administração Pública estadual promoveu o tratamento de informações afetas a certo grupo de pessoas naturais e jurídicas, com total inobservância da sistemática estabelecida na legislação de regência. Considerando os balizamentos estabelecidos pela Lei nº 12.257/2011, é correto afirmar que esse diploma normativo",
       "alternatives": {
         "A": "somente dispõe sobre direitos e deveres, não incursionando na temática da responsabilização.",
         "B": "tipificou uma infração disciplinar para o servidor público que concorreu à prática do ilícito.",
         "C": "versa sobre a responsabilização pelos danos causados às pessoas naturais na situação descrita, não incursionando na temática das pessoas jurídicas.",
         "D": "consagra a possibilidade de responsabilização civil direta do servidor público que concorreu para a prática do ilícito, de modo solidário com a pessoa jurídica.",
-        "E": "admite a responsabilização direta do órgão ou da entidade pública, reconhecendo a apuração da responsabilidade funcional em caso de dolo ou culpa, assegurando o direito de regresso. História e Geografia de Rondônia"
+        "E": "admite a responsabilização direta do órgão ou da entidade pública, reconhecendo a apuração da responsabilidade funcional em caso de dolo ou culpa, assegurando o direito de regresso."
       },
       "answer": "E",
       "annulled": false,
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A ocupação colonial da Amazônia, nos séculos XVII e XVIII, articulou estratégias militares, administrativas, religiosas e econômicas, para afirmar a soberania portuguesa, explorar recursos e controlar populações indígenas, sendo os rios Amazonas, Madeira, Guaporé e Mamoré decisivos para a incorporação da região ao Império Português. Sobre as bases da ocupação colonial da Amazônia e seus desdobramentos na região que hoje corresponde ao estado de Rondônia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Entre 1580-1640, a ocupação militar portuguesa concentrou- se nas regiões de fronteira entre a América Portuguesa e a Espanhola, tal como delimitado pelo Tratado de Tordesilhas, o que retardou a presença lusa na Amazônia.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Estrada de Ferro Madeira Mamoré (EFMM) foi o primeiro grandioso processo de desenvolvimento para a Amazônia Ocidental, potencializando um significativo fluxo humano para a região de Porto Velho e Guajará-Mirim. Por isso, é comum encontrar nos escritores regionais rondonienses a afirmativa de que a história de Rondônia se confunde, de tão próxima, com a própria história da EFMM. E eles têm razão ao fazerem isso. Adaptado de CAVALCANTE, Fábio Robson Casara. Formação Institucional e Desenvolvimento Regional no Estado do Rondônia. In: SILVA, Fábio Carlos e RAVENA, Nírvia. (Orgs.). Formação Institucional da Amazônia. Belém: Editora do NAEA, 2015, p 400-401. Ao analisar a formação histórica da região que corresponde ao atual estado de Rondônia, o autor enfatiza que a Estrada de Ferro Madeira-Mamoré (EFMM)",
       "alternatives": {
         "A": "teve impacto no escoamento da produção agrícola regional e na concentração populacional, sobretudo de trabalhadores africanos utilizados para construção da ferrovia.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sem dúvida alguma, o número de negros escravos entrados na Amazônia colonial foi bem menor que aquele introduzido no Nordeste, contudo, a questão que se coloca não é a de inverter as cifras do tráfico negreiro ou a de se comprovar que a Amazônia, enquanto região cultural é tão ou mais africana do que o Nordeste Agrário do Litoral. Trata-se, isso sim, de se duvidar do “vazio humano” (no caso, a presença africana) com o qual sempre se caracterizou a região. Adaptado de VERGOLINO-HENRY, Anaíza; FIGUEIREDO, Napoleão. A presença africana na Amazônia colonial: uma notícia histórica, Belém: Arquivo Público do Pará, 1990. p. 31. A respeito da formação social da Amazônia colonial e da presença africana na região, é correto informar que a interpretação do autor, no trecho apresentado,",
       "alternatives": {
         "A": "questiona a caracterização da sociedade colonial amazônica com base em dados quantitativos, pois esse procedimento oculta ou minimiza os papéis representados pela população de origem africana em solo Amazônico.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com base no processo de transformação econômica do Território Federal do Guaporé (atual Rondônia), no período posterior ao segundo ciclo da borracha, analise as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) Após o segundo ciclo da borracha, impulsionado pela Segunda Guerra Mundial, a economia de Rondônia retornou a um padrão de relativa estagnação, sustentado principalmente por atividades extrativistas tradicionais, como a borracha, a castanha, a poaia, peles de animais e óleos vegetais. ( ) A descoberta de diamantes no rio Ji-Paraná, no início dos anos 1950, nas proximidades da antiga Vila de Rondônia, estimulou a chegada de aventureiros oriundos sobretudo da região Centro-Oeste, atraídos pela exploração mineral no Território do Guaporé. ( ) A cassiterita, conhecida na região desde os anos 1930, teve exploração limitada em Rondônia, em razão da retração da demanda internacional por estanho, ocorrida a partir da década de 1970, quando a China se consolidou como principal produtora mundial do minério. ( ) O fechamento da lavra manual da cassiterita, em 1971, esteve associado principalmente à crescente preocupação do Estado com os impactos ambientais do garimpo, levando à adoção de medidas de proteção ecológica e de ordenamento sustentável da atividade mineradora em Rondônia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F – F.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A rede hidrográfica de Rondônia faz parte, num contexto mais amplo, da grande Bacia do Rio Madeira e é, localmente, formada pelas bacias tributárias dos rios Guaporé, Mamoré, Alto Madeira, Abunã, Jamari, Machado ou Ji-Paraná, e Roosevelt. Considerando a geografia de Rondônia e a organização da rede hidrográfica integrante da Bacia do rio Madeira, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O rio Guaporé nasce na Chapada dos Parecis (Mato Grosso) e deságua no rio Mamoré, (Rondônia) e, a partir de seu médio curso, ele representa a fronteira entre o Brasil e a Bolívia.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Segundo o IBGE, os povos e comunidades tradicionais são grupos culturalmente diferenciados, que possuem próprias formas próprias de organização social e mantêm relação direta e histórica com territórios e recursos naturais, indispensáveis à sua reprodução cultural, social, religiosa, ancestral e econômica, com base em conhecimentos, práticas e saberes transmitidos pela tradição. Em Rondônia, dentre esses grupos etnicamente diferenciados, destacam-se: (1) os que vivem às margens dos rios Madeira, Guaporé, Mamoré, Ji-Paraná, Jamari e seus afluentes, cujo modo de vida está associado à pesca artesanal, à agricultura de várzea, ao extrativismo vegetal e ao uso dos rios como principal via de transporte e sociabilidade; (2) os descendentes de migrantes nordestinos e amazônicos, que se fixaram na região durante os ciclos da borracha, atuam na extração de látex, castanha-do-brasil, óleos vegetais (andiroba, copaíba) e outros produtos florestais não madeireiros, especialmente em reservas extrativistas. Os grupos descritos nos itens (1) e (2) exemplificam, respectivamente,",
       "alternatives": {
         "A": "povos indígenas e ribeirinhos.",
@@ -585,8 +585,25 @@
       "page_number": 10
     },
     {
+      "question_number": 35,
+      "discipline": "História e Geografia de Rondônia",
+      "statement": "O processo de instalação da Assembleia Legislativa de Rondônia (ALE-RO) por meio da promulgação da Constituição de 1983 foi fundamental na transição de antigo Território Federal para a condição de estado-membro da Federação brasileira. A respeito da conjuntura política relativa à criação da ALE-RO, avalie as afirmativas a seguir. I. A Lei Complementar nº 41/1981 foi o instrumento jurídico que elevou o antigo Território Federal à categoria de Estado e foi sancionada pelo então presidente, João Figueiredo. O governo militar buscava garantir maior representatividade no Congresso Nacional. A criação de Rondônia permitiria a eleição de três senadores e oito deputados federais, com a expectativa de que o PDS, partido de sustentação do regime, vencesse o pleito de 1982. II. Apesar do esforço do PDS na criação do novo Estado e de sua Assembleia Legislativa, o partido saiu derrotado nas eleições executivas e legislativas estaduais de 1982 em Rondônia, sobretudo em função do movimento pela reconquista da democracia, com forte atuação da oposição organizada ao redor do PMDB e do PDT. III. A nova dinâmica da competição eleitoral no recém-criado estado de Rondônia alterou a composição das elites políticas e a própria configuração do sistema partidário, entre as décadas de 1980 e 1990, com a substituição da antiga elite política territorial, com bases na capital Porto Velho, para uma nova classe política dominante, oriunda majoritariamente do interior do estado, especificamente no eixo da BR-364 e associada ao PMDB. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/alero25_analista-legislativo-comunicacao-social-relacoes-publicas_q35.png",
+      "page_number": 10
+    },
+    {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em Communication and Communication Systems, Lee Thayer trata de algumas qualidades ou critérios de comunicação, tais como eficácia; economia; compreensibilidade e validade. Sobre a economia da comunicação, é correto afirmar que",
       "alternatives": {
         "A": "toda comunicação requer um investimento de tempo, dinheiro, energia, envolvimento ou emoção.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Horkheimer, Adorno, Marcuse e outros autores da Escola de Frankfurt referiam-se à “conversão da cultura em mercadoria, ao processo de subordinação da consciência à realidade capitalista, ocorrido nas primeiras décadas do século XX” (RUDIGER in HOHLFELDT et.al., 2001:138) usando a expressão",
       "alternatives": {
         "A": "modernidade líquida.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Observe as imagens a seguir. Elas foram criadas com Inteligência Artificial e apresentadas pela pesquisadora Mariana Ochs, a partir de imagens da London Interdisciplinary School. Elas refletem um fenômeno conhecido como",
       "alternatives": {
         "A": "transparência algorítmica.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Leia o fragmento a seguir, publicado no Guia de Comunicação Pública. Ainda na Constituição Federal de 1988, o artigo 37 aborda como deve ser o comportamento da administração pública direta e indireta de qualquer dos Poderes da União (Executivo, Judiciário e Legislativo), dos Estados, do Distrito Federal e dos Municípios. O texto diz que todas as autoridades devem obedecer aos “princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência [...]”. (...) Mas a regulamentação do Direito à Informação, tendo como premissa a obediência da administração pública aos princípios de Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência, foi feita em 2011 com a promulgação da Lei de Acesso à Informação (LAI). Com relação ao princípio de publicidade, a LAI preconiza que",
       "alternatives": {
         "A": "a divulgação das informações públicas busca desenvolver a cultura de transparência na administração pública e ainda estimular o controle social da administração pública.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em audiências jurídicas e processos judiciais em geral, antes que uma pessoa surdo-cega assine qualquer documento, uma das opções para que seus termos sejam compreendidos, é explicitá-los utilizando",
       "alternatives": {
         "A": "tipologia ampliada.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um evento teatral promovido pela Assembleia Legislativa de Rondônia contará com audiodescrição. Para isso, foi necessário redigir uma nota introdutória com descrições que, por falta de tempo hábil, não poderiam ser fornecidas no decorrer do evento. As seguintes informações a serem fornecidas nessa nota introdutória, segundo as normas da ABNT, estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Descrição do ambiente e da localização de recursos e serviços disponíveis.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No Manual de Linguagem Simples - Como planejar, desenvolver e testar textos que funcionam, editado pela Câmara dos Deputados, a autora Patrícia Roedel define Linguagem Simples como “o nome dado no Brasil a um conjunto de técnicas de redação e de design da informação para produzir textos claros. O objetivo é que o público-alvo consiga encontrar, entender e usar as informações de que precisa sem ter que ler o texto várias vezes ou pedir ajuda a um especialista”. Embora de uso menos frequente, para se referir à linguagem simples pode-se usar a expressão",
       "alternatives": {
         "A": "linguagem neutra.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com o disposto na Lei de Acesso à Informação (LAI), os sites dos órgãos e entidades públicas deverão atender aos requisitos a seguir, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "Divulgar em detalhes os formatos utilizados para estruturação da informação.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Associação Brasileira de Comunicação Pública definiu um conjunto de premissas intituladas “Princípios da Comunicação Pública”. As opções a seguir apresentam afirmativas corretas, a partir do entendimento do que seja essa comunicação, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "A comunicação pública deve ser personalista, priorizando a publicidade dos governantes e de suas ações em prol da população, de modo a criar uma imagem positiva dos dirigentes de cada órgão público.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre os modelos de fecho das comunicações oficiais, o Manual de Redação da Presidência da República - 3º edição, revista, atualizada e ampliada estabelece que deve-se usar",
       "alternatives": {
         "A": "Atenciosamente, para autoridades de hierarquia superior a do remetente, inclusive o Presidente da República e Respeitosamente, para autoridades de mesma hierarquia, de hierarquia inferior ou demais casos.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um dos tipos de documento previstos no Manual de Redação da Presidência da República - 3º edição, revista, atualizada e ampliada, é a exposição de motivos (EM). Sobre ela, avalie as afirmativas a seguir. I. A exposição de motivos é o expediente dirigido, prioritariamente, ao Presidente do Senado Federal ou da Câmara dos Deputados para propor alguma medida; submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto. II. As exposições de motivos que encaminham proposições devem ser instruídas com parecer jurídico e parecer de mérito que permitam a adequada avaliação da proposta. III. A exposição de motivos é a principal modalidade de comunicação dirigida ao Presidente da República pelos ministros e, em certos casos, pode ser encaminhada cópia ao Congresso Nacional ou ao Poder Judiciário. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Leia o texto a seguir, disponível na seção “história” da Escola do Legislativo do Estado de Rondônia. Sua finalidade precípua é promover a permanente habilitação, qualificação e especialização dos servidores da Assembleia Legislativa do Estado de Rondônia, aprimorando e ampliando sua formação em assuntos técnicos, administrativos e legislativos. Essa frase define",
       "alternatives": {
         "A": "a missão da Elero.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Leia a definição a seguir: “o conjunto de características, valores e crenças com que a organização se autoidentifica e se autodiferencia das outras organizações concorrentes em seu mercado” (Capriotti apud Fascione, 2006, p.159). De forma simplificada, “o que a organização é” refere-se ao conceito de",
       "alternatives": {
         "A": "imagem corporativa.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No processo de media training, ao lidar com equipes de televisão, os entrevistados devem ser orientados a",
       "alternatives": {
         "A": "usar linguagem rebuscada e abusar dos termos técnicos para obter respeitabilidade tanto por parte do repórter quanto da opinião pública.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Edson Crescitelli, Marcos Campomar e Camila Gil, ao explorarem as noções de Brand Placement e Product Placement, pontuam que as ações de Product Placement em três níveis. O nível que tende a proporcionar melhor efeito ao dar mais relevância ao produto dentro do contexto é o de",
       "alternatives": {
         "A": "exposição da marca e a demonstração de alguns produtos da mesma linha, pois o uso dos produtos pelos personagens de uma determinada trama, garante a motivação de compra.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Edney Souza e Barbara Neves (2021), ao tratarem do marketing digital, dividem o processo de aquisição de audiência para atingir um determinado objetivo em um negócio em cinco fases organizadas em forma de funil, a saber: 1. visibilidade, 2.engajamento, 3. conversão, 4. fidelização e 5. indicações. Na quarta fase mede-se",
       "alternatives": {
         "A": "o número de curtidas em uma postagem indicando quantas pessoas aprovaram o conteúdo.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre o uso dos instrumentos e canais de comunicação pública para a comunicação de risco junto à população, é correto afirmar que",
       "alternatives": {
         "A": "o uso de redes sociais e aplicativos de mensageria, como o WhatsApp, deve ser descartado, devido à baixa confiabilidade e ao alto custo de disseminação de conteúdos.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No marketing, existem duas estratégias principais a seguir no contexto da produção de conteúdo: o branded content e o content marketing. Uma estratégia de content marketing seria",
       "alternatives": {
         "A": "inserir a marca como patrocinadora de eventos relacionados a seu corebusiness no sentido de obter visibilidade noticiosa.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O Art. 7º do Decreto nº 70.274, que aprovou as normas do cerimonial público e a ordem geral de precedência, refere-se à precedência nos Estados, Distrito Federal e Territórios. No respectivo Estado, o cerimonial estaria corretamente cumprido se ao Presidente da Assembleia Legislativa precedesse",
       "alternatives": {
         "A": "o Prefeito da cidade em que se processa a cerimônia.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com Decreto nº 70.274, que aprovou as normas do cerimonial público e a ordem geral de precedência, o Presidente da Assembleia Legislativa, ao ser convidado,",
       "alternatives": {
         "A": "só poderá enviar representantes em cerimônias que ocorram fora de seu Estado e na qual não esteja presente o Presidente do Supremo Tribunal Federal.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Observe as imagens abaixo e leia um trecho da matéria publicada, em 2024, no Canaltech. “Esse termo também é utilizado no ambiente virtual para designar conteúdos gerados por IA indesejados e espalhados pela internet, como redes sociais. No geral, esses conteúdos apostam em ideias para lá de surreais, como uma imagem de Jesus com um corpo de camarão encontrada pelo jornal britânico Guardian e que já circula pelo Facebook. O (...) vem de um termo inglês que dá a visão de sujeira, lavagem, aquilo que traz uma visão deturpada. Na prática, é a geração de conteúdo gerada por IA de forma não direcionada”, explica ao Canaltech o head da Unidade de Negócios de Cibersegurança da Think IT, Marcos Pires”. O termo adequado para se referir a esse fenômeno é IA",
       "alternatives": {
         "A": "Spam.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "As pesquisas de opinião pública podem envolver tanto métodos quantitativos quanto qualitativos. Sobre esses métodos é correto afirmar que",
       "alternatives": {
         "A": "pesquisas quantitativas buscam coletar e analisar dados não passíveis de mensuração, como “comportamentos, sentimentos, sensações, intenções e pensamentos.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No Brasil, na história das atividades de Relações Públicas, atribui- se o pioneirismo à criação do primeiro departamento de Relações Públicas, em 1914, no(a)",
       "alternatives": {
         "A": "The São Paulo Tramway Light and Power Co..",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Segundo James Grunig, a maior parte das crises é causada por decisões gerenciais, e não por acidentes ou desastres naturais. O autor sugere quatro princípios de comunicação de crise a serem considerados, a saber: 1. Princípio de relacionamento; 2. Princípio de responsabilidade; 3. Princípio de Transparência; e 4. Princípio de comunicação simétrica. Sobre o primeiro, é correto afirmar que",
       "alternatives": {
         "A": "o diálogo com os stakeholders e deve ser mediado pelo comitê de crise, que subordinará a segurança e o bem-estar públicos às necessidades de manutenção dos níveis de lucro.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com base na Seção VII do Código de Ética dos Profissionais de Relações Públicas, que trata das relações com a Justiça, avalie as afirmativas a seguir. I. O profissional de Relações Públicas tem por obrigação declinar convites para atuar como perito, mesmo quando outro profissional de Relações Públicas for parte envolvida na questão. II. O profissional de Relações Públicas deve escusar-se de funcionar em perícia que escape à sua competência ou por motivos de força maior, desde que dê a devida consideração à autoridade que o nomeou. III. É permitido, em situações específicas, que o profissional de Relações Públicas atue como perito em processos em que sejam parte seu cliente, parente até o segundo grau, ou afim, amigo ou inimigo e concorrente de cliente seu. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1011,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O Plano de Sustentabilidade consolidado da COP30 tinha como propósito assegurar que a conferência fosse “planejada e realizada de forma sustentável, envolvendo as partes interessadas e deixando um legado positivo para a sociedade”. Para tal, enumerou, entre outros, o seguinte princípio:",
       "alternatives": {
         "A": "Transparência, que envolve disponibilizar informações exclusivamente para os governos participantes, a fim de permitir o acompanhamento e a fiscalização das ações desenvolvidas no evento.",
@@ -1028,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em dois de dezembro é comemorado o Dia Nacional das Relações Públicas. A escolha dessa data para marcar a profissão reflete o dia de",
       "alternatives": {
         "A": "criação do primeiro departamento de Relações Públicas em uma empresa brasileira - a Companhia Siderúrgica Nacional, em 1941.",
@@ -1045,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Observe os ícones a seguir: (1) (2) (3) Em termos de acessibilidade comunicacional, eles indicam respectivamente",
       "alternatives": {
         "A": "disponibilidade de janela da Libras; descrição textual dos sons; audição assistida.",
@@ -1062,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em novembro de 2025, foi sancionada a Lei nº 15.263, que “institui a Política Nacional de Linguagem Simples nos órgãos e entidades da administração pública direta e indireta de todos os Poderes da União, dos Estados, do Distrito Federal e dos Municípios”. Esse ato gerou algumas críticas por indicar que",
       "alternatives": {
         "A": "o uso de listas, tabelas, recursos gráficos, termos técnicos e estrangeirismos, mesmo que legendados, traduzidos ou explicados, estivesse proibido nas comunicações oficiais.",
@@ -1079,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No âmbito do Executivo Federal existem diretrizes, geralmente seguidas pelos Estados e Municípios, que permitem a divulgação, por meio de publicidade paga, de assuntos considerados relevantes para os cidadãos. O Guia de Comunicação Pública, da Associação Brasileira de Comunicação Pública, informa que essas ações de publicidade podem ser de quatro tipos: 1. mercadológica; 2. de utilidade pública; 3. institucional e 4. legal. O segundo tipo objetiva",
       "alternatives": {
         "A": "lançar, reposicionar ou promover produtos e serviços de órgãos, entidades ou empresas públicas que atuem em relação de concorrência no mercado.",
@@ -1096,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Considere o evento definido como “Conversa entre oradores, com ponto de vista antagônico e polêmico. Pode ser aberto ao público ou transmitido por veículos de mídia. Conta com a presença de um moderador que coordena os trabalhos, ditando as regras do evento” (Turati, 2025). Esse evento é um (a)",
       "alternatives": {
         "A": "debate.",
@@ -1113,14 +1130,14 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Para nortear a comunicação em situações de crise, James Grunig sugere considerar os princípios listados a seguir, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "Princípio de comunicação simétrica: baseia-se no diálogo no qual a organização busca um entendimento com o público, equilibrando seus interesses com as necessidades e preocupações dos afetados.",
         "B": "Princípio de transparência: a organização deve ser aberta e honesta, para divulgar informações relevantes de forma clara para evitar boatos e desinformação.",
         "C": "Princípio do Obscurecimento Estratégico: a organização deve priorizar a proteção absoluta de sua imagem e ativos financeiros, utilizando a comunicação como ferramenta de controle, desvio de atenção e silenciamento.",
         "D": "Princípio de relacionamento: Organizações que mantêm relacionamentos sólidos e de longo prazo com seus públicos antes de uma crise tendem a enfrentá-la melhor, pois já estabeleceram uma base de confiança.",
-        "E": "Princípio de responsabilidade: a organização deve aceitar a"
+        "E": "Princípio de responsabilidade: a organização deve aceitar a responsabilidade pelo problema, agindo prontamente para remediar a situação e assumindo o protagonismo nas ações de comunicação."
       },
       "answer": "C",
       "annulled": false,
@@ -1130,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma mesma palavra pode ter significados bastante diferentes dependendo do contexto. Por exemplo, no jornalismo, ele designa uma parte relevante do texto noticioso, já no marketing, ele se refere a um consumidor em potencial. O termo adequado a essas duas situações é o",
       "alternatives": {
         "A": "prospect.",
@@ -1147,7 +1164,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Observe o mapa a seguir. Uma das 14 atividades listadas no site da ONU para Rondônia trata de um projeto que visa “fortalecer a capacidade do Departamento de Saúde do Estado de Rondônia, desenvolvendo projetos para um novo hospital, concluindo a construção de dois hospitais inacabados e capacitando para a gestão e operação hospitalar”. Esse projeto está alinhado com o seguinte Objetivo de Desenvolvimento Sustentável no Brasil:",
       "alternatives": {
         "A": "Reforçar a prevenção e o tratamento do abuso de substâncias, incluindo o abuso de drogas entorpecentes e uso nocivo do álcool.",

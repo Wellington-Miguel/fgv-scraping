@@ -2,9 +2,9 @@
   "concurso_slug": "fhemig23",
   "cargo_slug": "cargo-geral",
   "concurso_title": "Concurso Público para a Fundação Hospitalar do Estado de Minas Gerais - FHEMIG",
-  "cargo_title": "Cargo Geral",
+  "cargo_title": "FUNDAÇÃO HOSPITALAR DO - ESTADO DE MINAS GERAIS",
   "exam_type": "Tipo 1",
-  "total_questions": 39,
+  "total_questions": 40,
   "questions": [
     {
       "question_number": 1,
@@ -17,7 +17,7 @@
         "D": "literário.",
         "E": "publicitário."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -34,7 +34,7 @@
         "D": "mostrar opiniões importantes do autor do texto.",
         "E": "indicar o desenvolvimento urbano do Rio de Janeiro."
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -51,7 +51,7 @@
         "D": "Os termos “diversos” e “novas” mudam de sentido conforme sua posição em face do substantivo determinado.",
         "E": "O segmento “que deve seu nome a esse fato” tem caráter metalinguístico."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -68,7 +68,7 @@
         "D": "“O Rio de Janeiro, de hoje, cidade abastecida de todos os gêneros alimentícios,” / o Rio de Janeiro produz muitos alimentos.",
         "E": "“O único local que abastecia a cidade estava situado nas imediações do Mercado Velho,” / a cidade passou a enfrentar um período de decadência."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -85,7 +85,7 @@
         "D": "O Brasil é um investimento, uma fazenda que o homem da cidade comprou, lá nos confins do Judas, para ganhar dinheiro / em lugar satânico.",
         "E": "Só agora é que meus ex-funcionários tiraram o pé da lama / se atrasaram."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -102,8 +102,8 @@
         "D": "biotério – lugar de moradia de biólogos.",
         "E": "monastério – lugar de monges."
       },
-      "answer": "ANULADA",
-      "annulled": true,
+      "answer": "E",
+      "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
@@ -117,9 +117,9 @@
         "B": "Todas as famílias felizes têm semelhanças: cada família Infeliz é infeliz à sua maneira / se assimilam.",
         "C": "Famílias com bebê e famílias sem bebê têm dó umas das outras / se apenalizam.",
         "D": "Muitos cariocas só têm prazer no Carnaval / se aprazem.",
-        "E": "Muitos médicos não têm tempo para o lazer / se voltam."
+        "E": "Muitos médicos não têm tempo para o lazer / se voltam. FGV"
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -136,7 +136,7 @@
         "D": "Um cão velho já não deve latir, pois já não é capaz de morder.",
         "E": "O maior homem do mundo é aquele que não perde seu coração de criança."
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -153,7 +153,7 @@
         "D": "Ria e o mundo rirá com você.",
         "E": "O sorriso custa menos que a eletricidade e dá mais luz."
       },
-      "answer": "E",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -168,9 +168,9 @@
         "B": "Não se encontra a solidão. Nós a fazemos.",
         "C": "Um bajulador é aquele que alimenta um crocodilo, esperando comê-lo no final.",
         "D": "Todo adulador vive às custas de quem o escuta.",
-        "E": "O problema é que a maioria dos homens prefere um elogio que os prejudique a uma crítica que os beneficie. Raciocínio Lógico"
+        "E": "O problema é que a maioria dos homens prefere um elogio que os prejudique a uma crítica que os beneficie."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -187,7 +187,7 @@
         "D": "há, no mínimo, 3 portas fechadas.",
         "E": "há, no máximo, 3 portas fechadas."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -204,7 +204,7 @@
         "D": "3 elementos.",
         "E": "2 elementos."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -221,8 +221,25 @@
         "D": "20.",
         "E": "21."
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 14,
+      "discipline": null,
+      "statement": "Em uma sacola, há exclusivamente balas de coco e de tamarindo. A razão entre as quantidades de balas de coco e de tamarindo 7 é 5 . Se uma bala for sorteada ao acaso, a probabilidade de que ela seja de tamarindo é 2",
+      "alternatives": {
+        "A": "5. 2",
+        "B": "7. 5",
+        "C": "7. 5",
+        "D": "12. 7",
+        "E": "12."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 4
@@ -236,9 +253,9 @@
         "B": "5.",
         "C": "7.",
         "D": "8.",
-        "E": "9. Informática Básica"
+        "E": "9."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -253,9 +270,9 @@
         "B": ".exe",
         "C": ".jpeg",
         "D": ".pdf",
-        "E": ".txt"
+        "E": ".txt FGV"
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -306,7 +323,7 @@
         "D": "Ctrl+V, Ctrl+X e Ctrl+C.",
         "E": "Ctrl+X, Ctrl+V e Ctrl+C."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -321,9 +338,9 @@
         "B": "=soma(A1+A2 +A3 + A4)",
         "C": "=soma(A1:A4)",
         "D": "=soma(A1:D1)",
-        "E": "=soma(A[1:4]) MÓDULO II - CONHECIMENTOS ESPECÍFICOS Legislação"
+        "E": "=soma(A[1:4])"
       },
-      "answer": "E",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -340,7 +357,7 @@
         "D": "Direito à informação, às pessoas assistidas, sobre sua saúde.",
         "E": "Integração em nível executivo das ações de saúde, meio ambiente e saneamento básico."
       },
-      "answer": "D",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -357,7 +374,7 @@
         "D": "Equidade.",
         "E": "Regionalização."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -374,7 +391,7 @@
         "D": "Ampliar a governança no desenvolvimento de ações de promoção da saúde que sejam sustentáveis nas dimensões política, social, cultural, econômica e ambiental.",
         "E": "Apoiar o desenvolvimento de espaços de produção social e ambientes saudáveis, favoráveis ao desenvolvimento humano e ao bem-viver."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -389,9 +406,9 @@
         "B": "educação e formação.",
         "C": "vigilância, monitoramento e avaliação.",
         "D": "articulação e cooperação intrassetorial e intersetorial.",
-        "E": "produção e disseminação de conhecimentos e saberes."
+        "E": "produção e disseminação de conhecimentos e saberes. FGV"
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -406,9 +423,9 @@
         "B": "Acolhimento.",
         "C": "Transversalidade.",
         "D": "Gestão participativa e cogestão",
-        "E": "Defesa dos direitos dos usuários. Conhecimentos Específicos"
+        "E": "Defesa dos direitos dos usuários."
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -442,7 +459,7 @@
         "D": "O Integrador Químico Classe 5 é um indicador projetado para reagir com até duas variáveis críticas.",
         "E": "O uso de caixas metálicas sem furos só é permitido na esterilização de produtos de conformação não complexa."
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -459,7 +476,7 @@
         "D": "12 horas.",
         "E": "24 horas."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -476,7 +493,7 @@
         "D": "desconforto respiratório.",
         "E": "febre de início súbito."
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -493,7 +510,7 @@
         "D": "F – F – F.",
         "E": "F – F – V."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -510,8 +527,8 @@
         "D": "I e II, apenas.",
         "E": "II e III, apenas."
       },
-      "answer": "ANULADA",
-      "annulled": true,
+      "answer": "D",
+      "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
@@ -525,9 +542,9 @@
         "B": "Máscara simples.",
         "C": "Máscara de Venturi.",
         "D": "Máscara não reinalante.",
-        "E": "Máscara de reinalação parcial."
+        "E": "Máscara de reinalação parcial. FGV"
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -544,7 +561,7 @@
         "D": "V – V – V.",
         "E": "F – V – V."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -561,7 +578,7 @@
         "D": "A coleta de urina para urocultura deve ser realizada durante 24 horas, desprezando somente o primeiro jato e coletando o restante.",
         "E": "Para coleta de amostra da orofaringe, deve-se coletar swab na área posterior da faringe e tonsilas, evitando tocar na língua."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -578,7 +595,7 @@
         "D": "F – V – F.",
         "E": "V – V – V."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -612,7 +629,7 @@
         "D": "0,5mL – subcutânea.",
         "E": "0,5mL – intramuscular."
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -629,7 +646,7 @@
         "D": "É uma doença infecciosa, febril aguda e de gravidade variável.",
         "E": "Os sintomas mais importantes são febre, náuseas e vômito."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -661,9 +678,9 @@
         "B": "F – V – V.",
         "C": "V – V – V.",
         "D": "F – V – F.",
-        "E": "V – F – F. Redação Veja o que nos diz um texto da Internet sobre nosso sistema de saúde: Saúde pública no Brasil: avanços e problemas A oferta de saúde pública no Brasil foi uma conquista social importante, pois permitiu o acesso a consultas, exames e tratamentos de forma democrática. Em vez de se restringir a pessoas que possam pagar ou a determinadas parcelas da população, a Constituição de 1988 passou a garantir a cobertura universal. O que significa que qualquer indivíduo que recorra ao Sistema Único de Saúde (SUS) deve receber assistência necessária para sua recuperação completa, conforme o Art. 196 da lei: “A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.” Assim, a saúde pública no país se baseia em três diretrizes: I. Descentralização, com direção única em cada esfera de governo; II. Atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais; III. Participação da comunidade. A estrutura idealizada pela Constituição Federal ganhou vida com a estruturação do SUS, que dividiu as responsabilidades entre as esferas federal, estadual e municipal. Esse foi o caminho determinado para atender à premissa de descentralização, distribuindo as demandas de gestão para facilitar ações e auditorias. Contudo, esse modelo inspirador apresenta problemas na prática. Principalmente em relação a desigualdades na oferta de serviços, escassez de recursos e mão de obra e falhas na comunicação entre os entes federativos. Vêm daí as longas filas de espera, dificuldades no tratamento e falta de ações que foquem na prevenção e atenção primária à saúde. Enunciados alguns problemas do atendimento de saúde no Brasil, o que se pode esperar do futuro desse sistema? Apresente suas opiniões a respeito do tema em um texto dissertativo-argumentativo, de no máximo 30 linhas, redigido em linguagem culta. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 16 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 17 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 18 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 20 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 21 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 22 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 23 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 24 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 25 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 26 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 27 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 28 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 29 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 30 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+        "E": "V – F – F. FGV Redação Veja o que nos diz um texto da Internet sobre nosso sistema de saúde: Saúde pública no Brasil: avanços e problemas A oferta de saúde pública no Brasil foi uma conquista social importante, pois permitiu o acesso a consultas, exames e tratamentos de forma democrática. Em vez de se restringir a pessoas que possam pagar ou a determinadas parcelas da população, a Constituição de 1988 passou a garantir a cobertura universal. O que significa que qualquer indivíduo que recorra ao Sistema Único de Saúde (SUS) deve receber assistência necessária para sua recuperação completa, conforme o Art. 196 da lei: “A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.” Assim, a saúde pública no país se baseia em três diretrizes: I. Descentralização, com direção única em cada esfera de governo; II. Atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais; III. Participação da comunidade. A estrutura idealizada pela Constituição Federal ganhou vida com a estruturação do SUS, que dividiu as responsabilidades entre as esferas federal, estadual e municipal. Esse foi o caminho determinado para atender à premissa de descentralização, distribuindo as demandas de gestão para facilitar ações e auditorias. Contudo, esse modelo inspirador apresenta problemas na prática. Principalmente em relação a desigualdades na oferta de serviços, escassez de recursos e mão de obra e falhas na comunicação entre os entes federativos. Vêm daí as longas filas de espera, dificuldades no tratamento e falta de ações que foquem na prevenção e atenção primária à saúde. Enunciados alguns problemas do atendimento de saúde no Brasil, o que se pode esperar do futuro desse sistema? Apresente suas opiniões a respeito do tema em um texto dissertativo-argumentativo, de no máximo 30 linhas, redigido em linguagem culta. FGV 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 16 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 17 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 18 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 20 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 21 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 22 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 23 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 24 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 25 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 26 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 27 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 28 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 29 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 30 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
-      "answer": "B",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,

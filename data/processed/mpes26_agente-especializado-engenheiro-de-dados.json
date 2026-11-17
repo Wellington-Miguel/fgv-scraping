@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Especializado - Engenheiro de Dados",
   "exam_type": "Tipo 1",
-  "total_questions": 35,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-especializado-engenheiro-de-dados_q12.png",
       "page_number": 4
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 21,
@@ -253,13 +355,64 @@
         "B": "V – V – F.",
         "C": "V – F – F.",
         "D": "F – V – F.",
-        "E": "F – F – V. Uma instituição pública passou a expor parte de seus serviços por meio de APIs utilizadas na comunicação entre sistemas internos e aplicações externas. Em uma revisão de segurança, a equipe técnica avaliou diferentes medidas de proteção dos recursos expostos, considerando aspectos ligados a controle de acesso, proteção das comunicações, tratamento das requisições recebidas e limitação do uso dos serviços. Sobre esse contexto, assinale a opção que apresenta uma medida tecnicamente adequada. (A) Dispensar mecanismos específicos de autorização quando a API utilizar OAuth 2.0 ou JWT emitido por servidor confiável, pois a validade do token já é suficiente para legitimar o acesso aos recursos expostos. (B) Adotar tokens de longa duração como medida de segurança, a fim de reduzir a frequência de renovação e, com isso, diminuir a exposição da API a falhas associadas ao processo de reautenticação. (C) Implementar validação e saneamento dos dados de entrada recebidos pelas APIs, com verificação dos parâmetros e do payload da requisição, a fim de mitigar ataques de injeção e outros efeitos decorrentes do processamento de entradas maliciosas. (D) Adotar a utilização de certificados digitais no servidor nas requisições entre clientes e serviços, de modo a garantir que apenas clientes autorizados tenham acesso aos endpoints disponíveis. (E) Dispensar o uso de rate limiting nos servidores de recursos de APIs que adotam OAuth 2.0, uma vez que o controle de consumo por contador exige manutenção de estado entre requisições, contrariando o princípio de comunicação sem estado do protocolo OAuth. Considerando a especificação oficial do GraphQL, analise a operação a seguir, elaborada por uma equipe para consultas de clientes e pedidos em uma API. query BuscarCliente($id: ID!, $limite: Int = 10) { c1: cliente(id: $id) { id nome pedidos(limite: $limite) { total itens } } c2: cliente(id: $id) { id nome } } Com base no código e nas regras da linguagem, avalie as afirmativas a seguir. I. Os aliases c1 e c2 definem nomes distintos, na resposta, para duas seleções de consulta ao mesmo cliente. II. Se o campo itens for do tipo objeto ou lista de objetos, a operação será inválida por faltar subseleção para esse campo. III. Caso a variável $limite não seja informada na execução da operação, será utilizado o valor padrão 10. Está correto o que se afirma em (A) II, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. Em projetos de Tecnologia da Informação, o gerenciamento eficaz requer alinhamento entre Grupos de Processo, conforme preconizado pela metodologia PMBOK. Analise as situações a seguir, relacionadas a um projeto de implantação de sistema corporativo e classifique-as de acordo com o Grupo de Processo correspondente. I. Revisão do cronograma e orçamento, comparando com o planejado, aplicando ações corretivas quando necessário. II. Definição de métricas de qualidade e critérios de aceitação, garantindo que o software entregue, atenda aos requisitos do cliente. III. Realização das análises qualitativa e quantitativa dos riscos identificados, estabelecendo a priorização de eventos que possam impactar o projeto. IV. Compras de servidores e contratação de fornecedores externos para implementação da infraestrutura de TI. V. Elaboração do Termo de Abertura do Projeto e identificação dos stakeholders, determinando papéis e responsabilidades. Assinale a opção que apresenta a sequência correta. (A) I – Execução; II – Monitoramento e Controle; III – Planejamento; IV – Execução; V – Iniciação. (B) I – Monitoramento e Controle; II – Planejamento; III – Planejamento; IV – Execução; V – Iniciação. (C) I – Monitoramento e Controle; II – Planejamento; III – Execução; IV – Execução; V – Planejamento. (D) I – Planejamento; II – Execução; III – Planejamento; IV – Execução; V – Iniciação. (E) I – Monitoramento e Controle; II – Execução; III – Planejamento; IV – Planejamento; V – Iniciação."
+        "E": "F – F – V."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "Uma instituição pública passou a expor parte de seus serviços por meio de APIs utilizadas na comunicação entre sistemas internos e aplicações externas. Em uma revisão de segurança, a equipe técnica avaliou diferentes medidas de proteção dos recursos expostos, considerando aspectos ligados a controle de acesso, proteção das comunicações, tratamento das requisições recebidas e limitação do uso dos serviços. Sobre esse contexto, assinale a opção que apresenta uma medida tecnicamente adequada.",
+      "alternatives": {
+        "A": "Dispensar mecanismos específicos de autorização quando a API utilizar OAuth 2.0 ou JWT emitido por servidor confiável, pois a validade do token já é suficiente para legitimar o acesso aos recursos expostos.",
+        "B": "Adotar tokens de longa duração como medida de segurança, a fim de reduzir a frequência de renovação e, com isso, diminuir a exposição da API a falhas associadas ao processo de reautenticação.",
+        "C": "Implementar validação e saneamento dos dados de entrada recebidos pelas APIs, com verificação dos parâmetros e do payload da requisição, a fim de mitigar ataques de injeção e outros efeitos decorrentes do processamento de entradas maliciosas.",
+        "D": "Adotar a utilização de certificados digitais no servidor nas requisições entre clientes e serviços, de modo a garantir que apenas clientes autorizados tenham acesso aos endpoints disponíveis.",
+        "E": "Dispensar o uso de rate limiting nos servidores de recursos de APIs que adotam OAuth 2.0, uma vez que o controle de consumo por contador exige manutenção de estado entre requisições, contrariando o princípio de comunicação sem estado do protocolo OAuth."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 23,
+      "discipline": null,
+      "statement": "Considerando a especificação oficial do GraphQL, analise a operação a seguir, elaborada por uma equipe para consultas de clientes e pedidos em uma API. query BuscarCliente($id: ID!, $limite: Int = 10) { c1: cliente(id: $id) { id nome pedidos(limite: $limite) { total itens } } c2: cliente(id: $id) { id nome } } Com base no código e nas regras da linguagem, avalie as afirmativas a seguir. I. Os aliases c1 e c2 definem nomes distintos, na resposta, para duas seleções de consulta ao mesmo cliente. II. Se o campo itens for do tipo objeto ou lista de objetos, a operação será inválida por faltar subseleção para esse campo. III. Caso a variável $limite não seja informada na execução da operação, será utilizado o valor padrão 10. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "II, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 24,
+      "discipline": null,
+      "statement": "Em projetos de Tecnologia da Informação, o gerenciamento eficaz requer alinhamento entre Grupos de Processo, conforme preconizado pela metodologia PMBOK. Analise as situações a seguir, relacionadas a um projeto de implantação de sistema corporativo e classifique-as de acordo com o Grupo de Processo correspondente. I. Revisão do cronograma e orçamento, comparando com o planejado, aplicando ações corretivas quando necessário. II. Definição de métricas de qualidade e critérios de aceitação, garantindo que o software entregue, atenda aos requisitos do cliente. III. Realização das análises qualitativa e quantitativa dos riscos identificados, estabelecendo a priorização de eventos que possam impactar o projeto. IV. Compras de servidores e contratação de fornecedores externos para implementação da infraestrutura de TI. V. Elaboração do Termo de Abertura do Projeto e identificação dos stakeholders, determinando papéis e responsabilidades. Assinale a opção que apresenta a sequência correta.",
+      "alternatives": {
+        "A": "I – Execução; II – Monitoramento e Controle; III – Planejamento; IV – Execução; V – Iniciação.",
+        "B": "I – Monitoramento e Controle; II – Planejamento; III – Planejamento; IV – Execução; V – Iniciação.",
+        "C": "I – Monitoramento e Controle; II – Planejamento; III – Execução; IV – Execução; V – Planejamento.",
+        "D": "I – Planejamento; II – Execução; III – Planejamento; IV – Execução; V – Iniciação.",
+        "E": "I – Monitoramento e Controle; II – Execução; III – Planejamento; IV – Planejamento; V – Iniciação."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 25,
@@ -270,13 +423,64 @@
         "B": "A EAP permite a decomposição do escopo em pacotes de trabalho, contribuindo para estimativas mais precisas de prazo, custo e recursos do projeto.",
         "C": "O nível mais detalhado da EAP é denominado 'Dicionário da EAP', onde são registrados as datas de entrega e os responsáveis por cada tarefa do projeto.",
         "D": "A EAP é uma ferramenta de planejamento de custos, sendo sua principal finalidade a criação do fluxo de caixa e a definição da margem de lucro do projeto.",
-        "E": "A EAP é elaborada após a definição do cronograma, com o objetivo de organizar as atividades já sequenciadas. O MPES está evoluindo sua infraestrutura de TI com a adoção de ambientes heterogêneos baseados em Linux e Windows, exigindo da equipe técnica domínio aprofundado sobre instalação, gerenciamento de usuários, controle de privilégios e organização interna dos sistemas. Dessa forma, com base nas características de instalação e administração básica de sistemas operacionais Linux e Windows, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) No Windows, o SID (Security Identifier) de um usuário é derivado do nome da conta, assim, ao excluir e recriar um usuário com o mesmo nome, o sistema reaproveita o SID anterior, preservando automaticamente as permissões associadas. ( ) No Linux, o arquivo /etc/shadow armazena hashes de senha e possui permissões restritas, enquanto o /etc/passwd é legível por usuários comuns para permitir a correta resolução de nomes de usuários e identificadores. ( ) No Linux, a aplicação do comando chmod 1777 /tmp permite que qualquer usuário crie arquivos nesse diretório, porém a exclusão ou renomeação de arquivos é restrita ao respectivo proprietário, ao proprietário do diretório ou ao superusuário. As afirmativas são, respectivamente, (A) V – F – V. (B) F – V – V. (C) F – V – F. (D) V – V – F. (E) F – F – V. Um analista está implementando um pipeline no Logstash, da pilha ELK, para tratar registros de acesso HTTP oriundos de um servidor Apache. Para isso, foi usada a seguinte configuração de filtro: filter { grok { match => { \"message\" => \"%{IP:client_ip} - - \\[%{HTTPDATE:raw_date}\\] \\\"%{WORD:http_method} %{URIPATHPARAM:request} HTTP/%{NUMBER:http_version}\\\" %{NUMBER:status_code} %{NUMBER:bytes}\" } } date { match => [ \"raw_date\", \"dd/MMM/yyyy:HH:mm:ss Z\" ] } mutate { convert => { \"status_code\" => \"integer\" } rename => { \"client_ip\" => \"[source][ip]\" } } } Considere que uma linha de entrada válida seja: 192.168.1.10 - - [22/Mar/2026:14:09:58 +0000] \"GET /index.php HTTP/1.1\" 200 5120 Com base no funcionamento do Logstash e dos plugins utilizados, com a específica configuração e sintaxe apresentados, assinale a afirmativa correta. (A) O plugin date converte o campo raw_date em inteiro epoch, sobrescrevendo automaticamene o campo status_code, desde que o grok tenha sido executado com sucesso. (B) Após o processamento, o campo client_ip permanece no evento e, adicionalmente, é copiado para o campo aninhado [source][ip], já que a operação rename não remove o campo original. (C) O campo status_code será convertido para tipo numérico inteiro, enquanto o campo bytes permanecerá textual, salvo conversão adicional explícita. (D) O padrão %{URIPATHPARAM:request} captura exclusivamente o caminho da URI, mas nunca parâmetros de consulta (query string), razão pela qual o filtro falharia, caso a URL contenha ?id=10. (E) O plugin grok já converte automaticamente os campos %{NUMBER:status_code} e %{NUMBER:bytes} para tipo numérico, tornando redundante o uso de mutate { convert => ... }. Em um ambiente de microsserviços, uma aplicação expõe a métrica: http_requests_total{job=\"api\", instance=\"10.0.0.5:8080\", method=\"GET\", code=\"500\"} A equipe deseja calcular, no Prometheus, a taxa média por segundo de crescimento dessa métrica ao longo dos últimos 5 minutos, suavizada ao longo da janela de tempo completa, para alimentar um painel de erro no Grafana. Assinale a opção que apresenta a expressão em PromQL conceitualmente mais adequada para esse objetivo. (A) delta(http_requests_total[5m]) (B) avg_over_time(http_requests_total[5m]) (C) irate(http_requests_total[5m]) (D) rate(http_requests_total[5m]) (E) count_over_time(http_requests_total[5m])"
+        "E": "A EAP é elaborada após a definição do cronograma, com o objetivo de organizar as atividades já sequenciadas."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 26,
+      "discipline": null,
+      "statement": "O MPES está evoluindo sua infraestrutura de TI com a adoção de ambientes heterogêneos baseados em Linux e Windows, exigindo da equipe técnica domínio aprofundado sobre instalação, gerenciamento de usuários, controle de privilégios e organização interna dos sistemas. Dessa forma, com base nas características de instalação e administração básica de sistemas operacionais Linux e Windows, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) No Windows, o SID (Security Identifier) de um usuário é derivado do nome da conta, assim, ao excluir e recriar um usuário com o mesmo nome, o sistema reaproveita o SID anterior, preservando automaticamente as permissões associadas. ( ) No Linux, o arquivo /etc/shadow armazena hashes de senha e possui permissões restritas, enquanto o /etc/passwd é legível por usuários comuns para permitir a correta resolução de nomes de usuários e identificadores. ( ) No Linux, a aplicação do comando chmod 1777 /tmp permite que qualquer usuário crie arquivos nesse diretório, porém a exclusão ou renomeação de arquivos é restrita ao respectivo proprietário, ao proprietário do diretório ou ao superusuário. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – F – V.",
+        "B": "F – V – V.",
+        "C": "F – V – F.",
+        "D": "V – V – F.",
+        "E": "F – F – V."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 27,
+      "discipline": null,
+      "statement": "Um analista está implementando um pipeline no Logstash, da pilha ELK, para tratar registros de acesso HTTP oriundos de um servidor Apache. Para isso, foi usada a seguinte configuração de filtro: filter { grok { match => { \"message\" => \"%{IP:client_ip} - - \\[%{HTTPDATE:raw_date}\\] \\\"%{WORD:http_method} %{URIPATHPARAM:request} HTTP/%{NUMBER:http_version}\\\" %{NUMBER:status_code} %{NUMBER:bytes}\" } } date { match => [ \"raw_date\", \"dd/MMM/yyyy:HH:mm:ss Z\" ] } mutate { convert => { \"status_code\" => \"integer\" } rename => { \"client_ip\" => \"[source][ip]\" } } } Considere que uma linha de entrada válida seja: 192.168.1.10 - - [22/Mar/2026:14:09:58 +0000] \"GET /index.php HTTP/1.1\" 200 5120 Com base no funcionamento do Logstash e dos plugins utilizados, com a específica configuração e sintaxe apresentados, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O plugin date converte o campo raw_date em inteiro epoch, sobrescrevendo automaticamene o campo status_code, desde que o grok tenha sido executado com sucesso.",
+        "B": "Após o processamento, o campo client_ip permanece no evento e, adicionalmente, é copiado para o campo aninhado [source][ip], já que a operação rename não remove o campo original.",
+        "C": "O campo status_code será convertido para tipo numérico inteiro, enquanto o campo bytes permanecerá textual, salvo conversão adicional explícita.",
+        "D": "O padrão %{URIPATHPARAM:request} captura exclusivamente o caminho da URI, mas nunca parâmetros de consulta (query string), razão pela qual o filtro falharia, caso a URL contenha ?id=10.",
+        "E": "O plugin grok já converte automaticamente os campos %{NUMBER:status_code} e %{NUMBER:bytes} para tipo numérico, tornando redundante o uso de mutate { convert => ... }."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "Em um ambiente de microsserviços, uma aplicação expõe a métrica: http_requests_total{job=\"api\", instance=\"10.0.0.5:8080\", method=\"GET\", code=\"500\"} A equipe deseja calcular, no Prometheus, a taxa média por segundo de crescimento dessa métrica ao longo dos últimos 5 minutos, suavizada ao longo da janela de tempo completa, para alimentar um painel de erro no Grafana. Assinale a opção que apresenta a expressão em PromQL conceitualmente mais adequada para esse objetivo.",
+      "alternatives": {
+        "A": "delta(http_requests_total[5m])",
+        "B": "avg_over_time(http_requests_total[5m])",
+        "C": "irate(http_requests_total[5m])",
+        "D": "rate(http_requests_total[5m])",
+        "E": "count_over_time(http_requests_total[5m])"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 29,
@@ -287,9 +491,26 @@
         "B": "O problema decorre do uso de atributos altamente variáveis como identificadores únicos, elevando o número de séries temporais distintas armazenadas.",
         "C": "O problema decorre da utilização de métricas acumulativas, que tendem a crescer indefinidamente e consumir mais memória.",
         "D": "O problema decorre do modelo de coleta periódica, que gera novas séries a cada ciclo de coleta.",
-        "E": "O problema decorre da retenção prolongada de dados históricos, que impacta diretamente a cardinalidade das métricas. Considere os logs coletados durante o processamento de requisições em um sistema distribuído de e-commerce. </> JSON {\"time\":\"10:01:02\",\"service\":\"gateway\",\"level\":\"INFO\",\"message\" :\"Requisição recebida\",\"request_id\":\"abc123\"} {\"time\":\"10:01:02\",\"service\":\"A\",\"level\":\"INFO\",\"message\":\"Pedid o recebido\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"B\",\"level\":\"INFO\",\"message\":\"Proce ssando pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"C\",\"level\":\"ERROR\",\"message\":\"Err o no estoque\",\"request_id\":\"abc123\"} {\"time\":\"10:01:04\",\"service\":\"B\",\"level\":\"WARN\",\"message\":\"Retr y pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:05\",\"service\":\"D\",\"level\":\"INFO\",\"message\":\"Notifi cação enviada\",\"request_id\":\"abc123\"} {\"time\":\"10:01:06\",\"service\":\"gateway\",\"level\":\"ERROR\",\"messag e\":\"Falha na requisição\",\"request_id\":\"abc123\"} Durante a análise de um incidente, a equipe conseguiu reconstruir o fluxo completo da requisição entre os diferentes serviços envolvidos, identificando o ponto exato de falha e as tentativas de recuperação. Nesse cenário, assinale a opção que identifica corretamente a prática de estruturação de logs que foi determinante para viabilizar essa análise. (A) Padronização do formato dos logs em estrutura JSON, permitindo indexação e consulta eficiente dos registros. (B) Inclusão de níveis de severidade nos registros, possibilitando a priorização dos eventos relevantes. (C) Utilização de identificador único de requisição propagado entre os serviços, permitindo a correlação determinística dos eventos. (D) Registro de timestamps consistentes entre os serviços, viabilizando a ordenação cronológica dos eventos. (E) Separação dos logs por serviço, facilitando a análise individualizada de cada componente."
+        "E": "O problema decorre da retenção prolongada de dados históricos, que impacta diretamente a cardinalidade das métricas."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 30,
+      "discipline": null,
+      "statement": "Considere os logs coletados durante o processamento de requisições em um sistema distribuído de e-commerce. </> JSON {\"time\":\"10:01:02\",\"service\":\"gateway\",\"level\":\"INFO\",\"message\" :\"Requisição recebida\",\"request_id\":\"abc123\"} {\"time\":\"10:01:02\",\"service\":\"A\",\"level\":\"INFO\",\"message\":\"Pedid o recebido\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"B\",\"level\":\"INFO\",\"message\":\"Proce ssando pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:03\",\"service\":\"C\",\"level\":\"ERROR\",\"message\":\"Err o no estoque\",\"request_id\":\"abc123\"} {\"time\":\"10:01:04\",\"service\":\"B\",\"level\":\"WARN\",\"message\":\"Retr y pagamento\",\"request_id\":\"abc123\"} {\"time\":\"10:01:05\",\"service\":\"D\",\"level\":\"INFO\",\"message\":\"Notifi cação enviada\",\"request_id\":\"abc123\"} {\"time\":\"10:01:06\",\"service\":\"gateway\",\"level\":\"ERROR\",\"messag e\":\"Falha na requisição\",\"request_id\":\"abc123\"} Durante a análise de um incidente, a equipe conseguiu reconstruir o fluxo completo da requisição entre os diferentes serviços envolvidos, identificando o ponto exato de falha e as tentativas de recuperação. Nesse cenário, assinale a opção que identifica corretamente a prática de estruturação de logs que foi determinante para viabilizar essa análise.",
+      "alternatives": {
+        "A": "Padronização do formato dos logs em estrutura JSON, permitindo indexação e consulta eficiente dos registros.",
+        "B": "Inclusão de níveis de severidade nos registros, possibilitando a priorização dos eventos relevantes.",
+        "C": "Utilização de identificador único de requisição propagado entre os serviços, permitindo a correlação determinística dos eventos.",
+        "D": "Registro de timestamps consistentes entre os serviços, viabilizando a ordenação cronológica dos eventos.",
+        "E": "Separação dos logs por serviço, facilitando a análise individualizada de cada componente."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -304,13 +525,30 @@
         "B": "A criptografia é citada na LGPD como uma medida técnica obrigatória para todos os tipos de tratamento de dados pessoais.",
         "C": "O princípio da Prevenção na LGPD estabelece que os agentes de tratamento devem adotar medidas para prevenir a ocorrência de danos decorrentes do tratamento de dados pessoais.",
         "D": "A LGPD permite o tratamento de dados pessoais sem medida de segurança, quando sejam utilizados apenas internamente pela organização.",
-        "E": "A LGPD não classifica informações sobre religião e dados relacionados à saúde como dados pessoais sensíveis. No contexto da segurança da informação, a criptografia pode ser aplicada em diferentes estados dos dados. Sobre o tema, assinale a afirmativa correta. (A) O protocolo HTTPS é utilizado para proteger dados armazenados em dispositivos físicos. (B) A criptografia de disco em notebooks institucionais e o uso de túneis VPN para acesso remoto à rede interna visam proteger, prioritariamente, a confidencialidade dos dados em repouso e em trânsito. (C) FDE (Full Disk Encryption) e TDE (Transparent Data Encryption) são mecanismos de proteção de dados em trânsito. (D) A criptografia de disco e o uso de VPN têm como objetivo principal garantir a autenticidade dos dados. (E) Protocolos como S/MIME e SFTP são usados para proteção de dados em repouso."
+        "E": "A LGPD não classifica informações sobre religião e dados relacionados à saúde como dados pessoais sensíveis."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 32,
+      "discipline": null,
+      "statement": "No contexto da segurança da informação, a criptografia pode ser aplicada em diferentes estados dos dados. Sobre o tema, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O protocolo HTTPS é utilizado para proteger dados armazenados em dispositivos físicos.",
+        "B": "A criptografia de disco em notebooks institucionais e o uso de túneis VPN para acesso remoto à rede interna visam proteger, prioritariamente, a confidencialidade dos dados em repouso e em trânsito.",
+        "C": "FDE (Full Disk Encryption) e TDE (Transparent Data Encryption) são mecanismos de proteção de dados em trânsito.",
+        "D": "A criptografia de disco e o uso de VPN têm como objetivo principal garantir a autenticidade dos dados.",
+        "E": "Protocolos como S/MIME e SFTP são usados para proteção de dados em repouso."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 33,
@@ -338,9 +576,26 @@
         "B": "existe pelo menos uma chave estrangeira vinculada a outra tabela normalizada.",
         "C": "não existem dependências parciais, ou seja, todos os atributos dependem da chave primária total.",
         "D": "não existem dependências transitivas entre atributos não chave.",
-        "E": "todos os seus atributos possuem apenas valores atômicos e não existem grupos repetitivos. Em uma repartição há 150 funcionários lotados em 12 departamentos. Cada departamento possui diferentes estruturas funcionais, de modo que os salários dos funcionários oscilam conforme a função exercida. Uma consulta solicitada por meio da Lei de Acesso à Informação (LAI) pede para listar todos os departamentos que possuem uma média salarial superior a R$ 5.000,00 (cinco mil reais). Assinale a opção que indica a cláusula SQL que deve ser usada para filtrar esse resultado, após o agrupamento dos dados. (A) GROUP BY (B) GROUP FILTER (C) HAVING (D) ORDER BY (E) WHERE"
+        "E": "todos os seus atributos possuem apenas valores atômicos e não existem grupos repetitivos."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "Em uma repartição há 150 funcionários lotados em 12 departamentos. Cada departamento possui diferentes estruturas funcionais, de modo que os salários dos funcionários oscilam conforme a função exercida. Uma consulta solicitada por meio da Lei de Acesso à Informação (LAI) pede para listar todos os departamentos que possuem uma média salarial superior a R$ 5.000,00 (cinco mil reais). Assinale a opção que indica a cláusula SQL que deve ser usada para filtrar esse resultado, após o agrupamento dos dados.",
+      "alternatives": {
+        "A": "GROUP BY",
+        "B": "GROUP FILTER",
+        "C": "HAVING",
+        "D": "ORDER BY",
+        "E": "WHERE"
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -372,13 +627,30 @@
         "B": "Se for necessário auditar qual usuário realizou a última alteração em um registro específico da tabela.",
         "C": "Se for necessário garantir que os dados sensíveis de uma tabela sejam criptografados antes do armazenamento.",
         "D": "Quando o desenvolvedor deseja alterar permanentemente a ordem física das linhas no disco rígido.",
-        "E": "Quando for criada uma cópia física de segurança (backup) de uma visão materializada. Para que uma instância do Microsoft SQL Server opere corretamente, o motor de banco de dados depende de um conjunto de bancos de dados de sistema, cada um com responsabilidades específicas que variam desde o armazenamento de metadados de configuração até a automação de rotinas administrativas. Considerando essa arquitetura, o banco de dados aonde estão armazenadas, de forma centralizada, as informações sobre o agendamento de tarefas (SQL Server Agent), metadados de Service Broker e o histórico completo de operações de backup e restore é o banco da opção (A) master. (B) model. (C) msdb. (D) resource. (E) tempdb."
+        "E": "Quando for criada uma cópia física de segurança (backup) de uma visão materializada."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 38,
+      "discipline": null,
+      "statement": "Para que uma instância do Microsoft SQL Server opere corretamente, o motor de banco de dados depende de um conjunto de bancos de dados de sistema, cada um com responsabilidades específicas que variam desde o armazenamento de metadados de configuração até a automação de rotinas administrativas. Considerando essa arquitetura, o banco de dados aonde estão armazenadas, de forma centralizada, as informações sobre o agendamento de tarefas (SQL Server Agent), metadados de Service Broker e o histórico completo de operações de backup e restore é o banco da opção",
+      "alternatives": {
+        "A": "master.",
+        "B": "model.",
+        "C": "msdb.",
+        "D": "resource.",
+        "E": "tempdb."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     },
     {
       "question_number": 39,
@@ -406,9 +678,26 @@
         "B": "A Staging Area é uma área integrada e persistente com o objetivo de permitir acessos externos.",
         "C": "O Carregamento é a última etapa do pipeline ETL. A carga só é possível de ser executada em lotes (batches).",
         "D": "A etapa de Transformação é responsável por converter arquivos CSV em JSON, garantindo um acesso uniforme.",
-        "E": "Discretização é um processo que consiste em transformar variáveis contínuas em discretas, e pode ser útil durante a etapa de Transformação. Em relação aos bancos de dados NoSQL orientados a documentos e às técnicas empregadas nesse tipo de NoSQL, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A normalização dos dados é frequentemente utilizada, garantindo a consistência dos dados, escalabilidade e evitando redundância. ( ) Utilizam um modelo de dados flexível (schemaless), e empregam preferencialmente o armazenado de dados em formatos como PDF e TXT. ( ) São comumente mais escaláveis horizontalmente do que bancos de dados relacionais, permitindo dessa forma a distribuição de dados entre múltiplos servidores. As afirmativas são, respectivamente, (A) F – F – V. (B) F – V – V. (C) V – V – V. (D) V – F – V. (E) F – F – F."
+        "E": "Discretização é um processo que consiste em transformar variáveis contínuas em discretas, e pode ser útil durante a etapa de Transformação."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 41,
+      "discipline": null,
+      "statement": "Em relação aos bancos de dados NoSQL orientados a documentos e às técnicas empregadas nesse tipo de NoSQL, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A normalização dos dados é frequentemente utilizada, garantindo a consistência dos dados, escalabilidade e evitando redundância. ( ) Utilizam um modelo de dados flexível (schemaless), e empregam preferencialmente o armazenado de dados em formatos como PDF e TXT. ( ) São comumente mais escaláveis horizontalmente do que bancos de dados relacionais, permitindo dessa forma a distribuição de dados entre múltiplos servidores. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "F – F – V.",
+        "B": "F – V – V.",
+        "C": "V – V – V.",
+        "D": "V – F – V.",
+        "E": "F – F – F."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -440,13 +729,30 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. Um relatório analítico é estruturado para subsidiar a tomada de decisão, iniciando com a apresentação de um indicador consolidado e, na sequência, explorando desdobramentos por diferentes dimensões, como região e período, com destaque para variações relevantes. Essa forma de organização da informação está associada ao princípio de storytelling com dados, que consiste em (A) usar múltiplas codificações visuais redundantes, para reforçar a leitura dos dados. (B) apresentar inicialmente detalhes específicos para, posteriormente, contextualizar os resultados de forma agregada. (C) aplicar o design progressivo de informação, priorizando a visão macro antes do detalhamento analítico. (D) maximizar a quantidade de informação exibida, priorizando a densidade informacional em detrimento da hierarquia visual. (E) evitar qualquer forma de direcionamento interpretativo, mantendo a neutralidade na apresentação dos dados."
+        "E": "I, II e III."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "Um relatório analítico é estruturado para subsidiar a tomada de decisão, iniciando com a apresentação de um indicador consolidado e, na sequência, explorando desdobramentos por diferentes dimensões, como região e período, com destaque para variações relevantes. Essa forma de organização da informação está associada ao princípio de storytelling com dados, que consiste em",
+      "alternatives": {
+        "A": "usar múltiplas codificações visuais redundantes, para reforçar a leitura dos dados.",
+        "B": "apresentar inicialmente detalhes específicos para, posteriormente, contextualizar os resultados de forma agregada.",
+        "C": "aplicar o design progressivo de informação, priorizando a visão macro antes do detalhamento analítico.",
+        "D": "maximizar a quantidade de informação exibida, priorizando a densidade informacional em detrimento da hierarquia visual.",
+        "E": "evitar qualquer forma de direcionamento interpretativo, mantendo a neutralidade na apresentação dos dados."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     },
     {
       "question_number": 45,
@@ -457,9 +763,26 @@
         "B": "I, III e II.",
         "C": "III, I e II.",
         "D": "III, II e I.",
-        "E": "II, III e I. Quanto à utilização do Superset, observa-se que a ferramenta permite a criação de abstrações sobre fontes de dados por meio de datasets, possibilitando a definição de métricas e colunas calculadas. Considerando esse mecanismo de abstração de dados, assinale a afirmativa correta. (A) Exige a criação de uma camada de armazenamento intermediária (Stage Area), onde os dados são replicados fisicamente para otimizar o tempo de resposta. (B) Permite definir métricas e colunas calculadas como metadados, que são traduzidos em consultas SQL executadas na fonte de dados subjacente. (C) É restrito ao processamento de arquivos locais, como CSV e Excel, não suportando a conexão com bancos de dados relacionais. (D) Centraliza o processamento analítico no servidor da aplicação, reduzindo o uso do mecanismo de consulta da fonte de dados. (E) Impede que uma mesma tabela física seja reutilizada na criação de múltiplos datasets lógicos."
+        "E": "II, III e I."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 46,
+      "discipline": null,
+      "statement": "Quanto à utilização do Superset, observa-se que a ferramenta permite a criação de abstrações sobre fontes de dados por meio de datasets, possibilitando a definição de métricas e colunas calculadas. Considerando esse mecanismo de abstração de dados, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Exige a criação de uma camada de armazenamento intermediária (Stage Area), onde os dados são replicados fisicamente para otimizar o tempo de resposta.",
+        "B": "Permite definir métricas e colunas calculadas como metadados, que são traduzidos em consultas SQL executadas na fonte de dados subjacente.",
+        "C": "É restrito ao processamento de arquivos locais, como CSV e Excel, não suportando a conexão com bancos de dados relacionais.",
+        "D": "Centraliza o processamento analítico no servidor da aplicação, reduzindo o uso do mecanismo de consulta da fonte de dados.",
+        "E": "Impede que uma mesma tabela física seja reutilizada na criação de múltiplos datasets lógicos."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -474,13 +797,30 @@
         "B": "O filtro de dashboard, uma vez criado, torna-se obrigatoriamente global, não sendo possível desvinculá-lo de cartões específicos que compartilhem a mesma fonte de dados.",
         "C": "A variável {{filtro_regiao}} deve ser substituída por um parâmetro de texto simples ([[and regiao = X]]), pois o Metabase não suporta múltiplos valores em filtros de interface para SQL nativo.",
         "D": "É necessário criar um drill-through manual em cada gráfico, visto que filtros de interface (UI) só funcionam em perguntas criadas via \"Editor de Consultas\" (Custom Questions), e não em SQL nativo.",
-        "E": "Definir a variável no SQL como uma \"Variável de Texto\" simples, o que permitirá que a interface do dashboard a reconheça automaticamente como um filtro global imutável. Analise a tabela a seguir. x 0 0,1 0,2 0,3 0,4 P(v < x) 0,5 0,5398 0,5793 0,6179 0,6554 x 0,5 0,6 0,7 0,8 0,9 P(v < x) 0,6915 0,7257 0,758 0,7881 0,8159 x 1,0 1,1 1,2 1,3 1,4 P(v < x) 0,8413 0,8643 0,8849 0,9032 0,9192 x 1,5 1,6 1,7 1,8 1,9 P(v < x) 0,9332 0,9452 0,9554 0,9641 0,9713 Seja v uma amostra de uma variável aleatória gaussiana de média 0 e variância 1. A tabela acima mostra a probabilidade de v ser menor que alguns valores x entre 0,0 e 1,9. Uma segunda variável aleatória w também é uma distribuição gaussiana, porém de média 1 e variância 4. A probabilidade da soma de 16 amostras independentes de w ser maior que 24 é (A) 0,2119. (B) 0,0548. (C) 0,0668. (D) 0,3075. (E) 0,1587."
+        "E": "Definir a variável no SQL como uma \"Variável de Texto\" simples, o que permitirá que a interface do dashboard a reconheça automaticamente como um filtro global imutável."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12
+    },
+    {
+      "question_number": 48,
+      "discipline": null,
+      "statement": "Analise a tabela a seguir. x 0 0,1 0,2 0,3 0,4 P(v < x) 0,5 0,5398 0,5793 0,6179 0,6554 x 0,5 0,6 0,7 0,8 0,9 P(v < x) 0,6915 0,7257 0,758 0,7881 0,8159 x 1,0 1,1 1,2 1,3 1,4 P(v < x) 0,8413 0,8643 0,8849 0,9032 0,9192 x 1,5 1,6 1,7 1,8 1,9 P(v < x) 0,9332 0,9452 0,9554 0,9641 0,9713 Seja v uma amostra de uma variável aleatória gaussiana de média 0 e variância 1. A tabela acima mostra a probabilidade de v ser menor que alguns valores x entre 0,0 e 1,9. Uma segunda variável aleatória w também é uma distribuição gaussiana, porém de média 1 e variância 4. A probabilidade da soma de 16 amostras independentes de w ser maior que 24 é",
+      "alternatives": {
+        "A": "0,2119.",
+        "B": "0,0548.",
+        "C": "0,0668.",
+        "D": "0,3075.",
+        "E": "0,1587."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-especializado-engenheiro-de-dados_q48.png",
+      "page_number": 13
     },
     {
       "question_number": 49,
@@ -491,9 +831,26 @@
         "B": "Construção do intervalo de confiança.",
         "C": "Cálculo da estatística t de Student.",
         "D": "Inferência bayesiana.",
-        "E": "Análise de correlação. No âmbito de uma investigação sobre eficiência administrativa, um analista de dados modelou a relação entre o tempo de tramitação de procedimentos (Y, em dias) e o número de apensos (X) utilizando uma técnica de Regressão Linear, cujo modelo se apresenta na forma 𝑌ො= 𝛽ො0 + 𝛽ො1𝑋 O relatório de sumarização do modelo apresentou os seguintes parâmetros:  Coeficiente de Intercepto: 15  Coeficiente Angular: 5 Com base estritamente nos estimadores fornecidos e assumindo que o valor de X = 8 pertence ao domínio de validade do modelo, a estimativa pontual para o valor esperado do tempo de tramitação dos procedimentos investigatórios é de (A) 40 dias. (B) 45 dias. (C) 55 dias. (D) 120 dias. (E) 160 dias."
+        "E": "Análise de correlação."
       },
       "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 50,
+      "discipline": null,
+      "statement": "No âmbito de uma investigação sobre eficiência administrativa, um analista de dados modelou a relação entre o tempo de tramitação de procedimentos (Y, em dias) e o número de apensos (X) utilizando uma técnica de Regressão Linear, cujo modelo se apresenta na forma 𝑌ො= 𝛽ො0 + 𝛽ො1𝑋 O relatório de sumarização do modelo apresentou os seguintes parâmetros:  Coeficiente de Intercepto: 15  Coeficiente Angular: 5 Com base estritamente nos estimadores fornecidos e assumindo que o valor de X = 8 pertence ao domínio de validade do modelo, a estimativa pontual para o valor esperado do tempo de tramitação dos procedimentos investigatórios é de",
+      "alternatives": {
+        "A": "40 dias.",
+        "B": "45 dias.",
+        "C": "55 dias.",
+        "D": "120 dias.",
+        "E": "160 dias."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -508,13 +865,30 @@
         "B": "Platform as a Service (PaaS).",
         "C": "Software as a Service (SaaS).",
         "D": "Containers as a Service (CaaS).",
-        "E": "Serverless (Function as a Service – FaaS). A computação em nuvem representa uma mudança de paradigma na provisão de recursos computacionais, permitindo a substituição da dependência de hardware físico dedicado por recursos virtualizados e gerenciados sob demanda. Nesse contexto, provedores de nuvem oferecem serviços que auxiliam no controle de custos, na gestão de identidades e no estabelecimento de conexões seguras entre ambientes. Com base nos serviços e boas práticas da AWS (Amazon Web Services), analise as afirmativas a seguir. I. O AWS Budgets possibilita a configuração de alertas que notificam os administradores quando os custos, reais ou previstos, ultrapassam limites orçamentários definidos. II. O AWS IAM utiliza o conceito de Roles (Papéis) para fornecer credenciais temporárias a usuários, aplicações ou serviços, reduzindo a necessidade de uso de credenciais de longa duração. III. O AWS Direct Connect estabelece uma conexão de rede dedicada entre o ambiente local (on-premises) e a nuvem, evitando o tráfego pela internet pública e proporcionando maior previsibilidade na latência e no desempenho da comunicação. Está correto o que se afirma em (A) II, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "Serverless (Function as a Service – FaaS)."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13
+    },
+    {
+      "question_number": 52,
+      "discipline": null,
+      "statement": "A computação em nuvem representa uma mudança de paradigma na provisão de recursos computacionais, permitindo a substituição da dependência de hardware físico dedicado por recursos virtualizados e gerenciados sob demanda. Nesse contexto, provedores de nuvem oferecem serviços que auxiliam no controle de custos, na gestão de identidades e no estabelecimento de conexões seguras entre ambientes. Com base nos serviços e boas práticas da AWS (Amazon Web Services), analise as afirmativas a seguir. I. O AWS Budgets possibilita a configuração de alertas que notificam os administradores quando os custos, reais ou previstos, ultrapassam limites orçamentários definidos. II. O AWS IAM utiliza o conceito de Roles (Papéis) para fornecer credenciais temporárias a usuários, aplicações ou serviços, reduzindo a necessidade de uso de credenciais de longa duração. III. O AWS Direct Connect estabelece uma conexão de rede dedicada entre o ambiente local (on-premises) e a nuvem, evitando o tráfego pela internet pública e proporcionando maior previsibilidade na latência e no desempenho da comunicação. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "II, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
     },
     {
       "question_number": 53,
@@ -525,9 +899,26 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. No que tange à elaboração de laudos técnicos, assinale a afirmativa correta. (A) A metodologia deve explicitar os procedimentos, técnicas, ferramentas e normas adotadas, de modo a permitir a reprodutibilidade e a verificação dos resultados apresentados. (B) A seção de conclusão pode conter opiniões de caráter subjetivo, ainda que não estejam fundamentadas nas evidências obtidas durante a análise técnica. (C) A seção de identificação do laudo técnico é facultativa, podendo ser dispensada quando o documento se destinar ao uso interno da organização. (D) O laudo técnico caracteriza-se predominantemente por seu caráter opinativo, baseado na interpretação do profissional responsável. (E) O escopo do laudo técnico deve ser definido ao final do documento, após a análise dos dados, a fim de refletir com maior precisão os resultados obtidos."
+        "E": "I, II e III."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 54,
+      "discipline": null,
+      "statement": "No que tange à elaboração de laudos técnicos, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A metodologia deve explicitar os procedimentos, técnicas, ferramentas e normas adotadas, de modo a permitir a reprodutibilidade e a verificação dos resultados apresentados.",
+        "B": "A seção de conclusão pode conter opiniões de caráter subjetivo, ainda que não estejam fundamentadas nas evidências obtidas durante a análise técnica.",
+        "C": "A seção de identificação do laudo técnico é facultativa, podendo ser dispensada quando o documento se destinar ao uso interno da organização.",
+        "D": "O laudo técnico caracteriza-se predominantemente por seu caráter opinativo, baseado na interpretação do profissional responsável.",
+        "E": "O escopo do laudo técnico deve ser definido ao final do documento, após a análise dos dados, a fim de refletir com maior precisão os resultados obtidos."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -559,13 +950,30 @@
         "B": "Indicadores de desempenho permitem avaliar a eficiência e a qualidade dos serviços de TI, apoiando a tomada de decisão e a melhoria contínua dos sistemas.",
         "C": "Indicadores estatísticos em TI não podem ser utilizados para comparações entre diferentes períodos, devido à variabilidade dos sistemas tecnológicos.",
         "D": "Relatórios estatísticos na área de TI devem apresentar exclusivamente dados técnicos, sem interpretação ou análise gerencial.",
-        "E": "A utilização de dados institucionais limita a criação de novos indicadores de desempenho em ambientes de TI. No que tange às contratações de bens e serviços de Tecnologia da Informação (TI), conforme disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. Nas contratações de TI, a Administração poderá definir o objeto da licitação com base exclusiva em marca ou modelo específico, desde que isso facilite a padronização tecnológica da organização. II. O Diálogo Competitivo é uma modalidade de licitação que pode ser aplicada em projetos de TI que envolvam inovação tecnológica ou quando a Administração não consegue definir, com precisão suficiente, as especificações técnicas do objeto. III. A Lei nº 14.133/2021 dispensa a elaboração de Estudo Técnico Preliminar (ETP) para contratações de software de prateleira, visando à celeridade administrativa em itens de baixa complexidade. IV. A contratação de soluções de TI deverá priorizar, sempre que possível, especificações baseadas em desempenho ou requisitos funcionais, evitando restrições indevidas à competitividade. Está correto o que se afirma em (A) I e II, apenas. (B) III e IV, apenas. (C) II e IV, apenas. (D) II, III e IV, apenas. (E) I, II, III e IV."
+        "E": "A utilização de dados institucionais limita a criação de novos indicadores de desempenho em ambientes de TI."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14
+    },
+    {
+      "question_number": 57,
+      "discipline": null,
+      "statement": "No que tange às contratações de bens e serviços de Tecnologia da Informação (TI), conforme disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. Nas contratações de TI, a Administração poderá definir o objeto da licitação com base exclusiva em marca ou modelo específico, desde que isso facilite a padronização tecnológica da organização. II. O Diálogo Competitivo é uma modalidade de licitação que pode ser aplicada em projetos de TI que envolvam inovação tecnológica ou quando a Administração não consegue definir, com precisão suficiente, as especificações técnicas do objeto. III. A Lei nº 14.133/2021 dispensa a elaboração de Estudo Técnico Preliminar (ETP) para contratações de software de prateleira, visando à celeridade administrativa em itens de baixa complexidade. IV. A contratação de soluções de TI deverá priorizar, sempre que possível, especificações baseadas em desempenho ou requisitos funcionais, evitando restrições indevidas à competitividade. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I e II, apenas.",
+        "B": "III e IV, apenas.",
+        "C": "II e IV, apenas.",
+        "D": "II, III e IV, apenas.",
+        "E": "I, II, III e IV."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
     },
     {
       "question_number": 58,
@@ -576,10 +984,27 @@
         "B": "Disciplina diretamente os procedimentos licitatórios aplicáveis às contratações de soluções de TI realizadas pelas empresas estatais.",
         "C": "Admite que a remuneração variável dos administradores esteja vinculada ao cumprimento de metas e indicadores de desempenho previamente estabelecidos.",
         "D": "Autoriza a contratação direta de soluções de TI consideradas essenciais à continuidade operacional, desde que previamente aprovada pelo conselho de administração.",
-        "E": "Determina que os contratos de TI das empresas estatais sejam avaliados obrigatoriamente por indicadores financeiros. A respeito do Apache Hadoop, ecossistema muito usado no contexto de processamento de grandes volumes de dados, analise os itens a seguir. I. O Hadoop MapReduce é um framework de software que facilita a criação de aplicações para processar vastas quantidades de dados (datasets de múltiplos terabytes) em paralelo, utilizando grandes clusters (milhares de nós) de hardware comum, de maneira confiável e tolerante a falhas. II. O Hadoop Distributed File System (HDFS) é um sistema de arquivos distribuído, projetado para ser executado em hardware comum. III. A ideia fundamental do YARN é dividir as funcionalidades de gerenciamento de recursos e o agendamento/monitoramento de tarefas em daemons distintos. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "Determina que os contratos de TI das empresas estatais sejam avaliados obrigatoriamente por indicadores financeiros."
       },
       "answer": "ANULADA",
       "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "A respeito do Apache Hadoop, ecossistema muito usado no contexto de processamento de grandes volumes de dados, analise os itens a seguir. I. O Hadoop MapReduce é um framework de software que facilita a criação de aplicações para processar vastas quantidades de dados (datasets de múltiplos terabytes) em paralelo, utilizando grandes clusters (milhares de nós) de hardware comum, de maneira confiável e tolerante a falhas. II. O Hadoop Distributed File System (HDFS) é um sistema de arquivos distribuído, projetado para ser executado em hardware comum. III. A ideia fundamental do YARN é dividir as funcionalidades de gerenciamento de recursos e o agendamento/monitoramento de tarefas em daemons distintos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 15
@@ -593,7 +1018,7 @@
         "B": "A comunicação de incidentes de segurança à ANPD é obrigatória em qualquer evento de acesso não autorizado, independentemente da probabilidade de risco ou dano relevante aos titulares.",
         "C": "Segundo o princípio da prevenção, o controlador deve adotar medidas técnicas e administrativas aptas a prevenir a ocorrência de danos em virtude do tratamento de dados pessoais.",
         "D": "O Encarregado pelo Tratamento de Dados Pessoais (DPO) é o agente de tratamento a quem competem as decisões estratégicas e definitivas sobre o ciclo de vida dos dados.",
-        "E": "O emprego da técnica de pseudonimização desobriga o controlador de realizar a notificação à ANPD, uma vez que o dado deixa de ser passível de identificação direta. 1 O Ministério Público do Estado do Espírito Santo pretende aprimorar sua capacidade de análise estratégica por meio da utilização de dados institucionais, mas enfrenta dificuldades em sua gestão estratégica. Segundo relatos, as consultas complexas para suporte à decisão estão degradando o desempenho dos sistemas de banco de dados que registram as operações diárias. Além disso, os gestores queixam-se de que não conseguem visualizar a evolução dos dados ao longo dos últimos cinco anos, pois o sistema atual mantém apenas o estado mais recente de cada registro. Diante dessa situação, a equipe de TI avalia a implementação de um ecossistema de dados específico e a aplicação de técnicas de estruturação de dados para análise. Nesse contexto, elabore um texto dissertativo respondendo aos seguintes pontos: a) conceitue Data Warehouse (DW) e apresente suas quatro características fundamentais segundo William H. Inmon; e b) explique se a implementação de um DW é uma solução tecnológica adequada para o problema apresentado, relacionando a sua resposta a, pelo menos, duas características identificadas no cenário. O Ministério Público do Estado do Espírito Santo celebrou contrato de Tecnologia da Informação para desenvolvimento e implantação de uma nova solução institucional. Durante a execução contratual, a equipe responsável pela fiscalização o alinhamento entre o escopo contratado e o cronograma de execução, considerado essencial para a governança e o cumprimento dos marcos contratuais. Para tanto, examinou a Estrutura Analítica do Projeto (EAP) e o método do Caminho Crítico (CPM), ferramentas fundamentais para a organização e o controle das entregas. Com base nos conceitos do Guia PMBOK e nas boas práticas de gestão de projetos, elabore um texto dissertativo abordando, obrigatoriamente: a) o conceito e a finalidade da EAP na gestão de contratos de TI; b) a aplicação da EAP na decomposição do escopo contratual em pacotes de trabalho, com vistas ao planejamento e controle das entregas; c) o conceito de caminho crítico e sua relação com a duração total do projeto; e d) a integração entre EAP e caminho crítico no monitoramento de cronograma, níveis de serviço (SLA) e obrigações contratuais. Realização"
+        "E": "O emprego da técnica de pseudonimização desobriga o controlador de realizar a notificação à ANPD, uma vez que o dado deixa de ser passível de identificação direta. Prova Discursiva 1 O Ministério Público do Estado do Espírito Santo pretende aprimorar sua capacidade de análise estratégica por meio da utilização de dados institucionais, mas enfrenta dificuldades em sua gestão estratégica. Segundo relatos, as consultas complexas para suporte à decisão estão degradando o desempenho dos sistemas de banco de dados que registram as operações diárias. Além disso, os gestores queixam-se de que não conseguem visualizar a evolução dos dados ao longo dos últimos cinco anos, pois o sistema atual mantém apenas o estado mais recente de cada registro. Diante dessa situação, a equipe de TI avalia a implementação de um ecossistema de dados específico e a aplicação de técnicas de estruturação de dados para análise. Nesse contexto, elabore um texto dissertativo respondendo aos seguintes pontos: a) conceitue Data Warehouse (DW) e apresente suas quatro características fundamentais segundo William H. Inmon; e b) explique se a implementação de um DW é uma solução tecnológica adequada para o problema apresentado, relacionando a sua resposta a, pelo menos, duas características identificadas no cenário. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 O Ministério Público do Estado do Espírito Santo celebrou contrato de Tecnologia da Informação para desenvolvimento e implantação de uma nova solução institucional. Durante a execução contratual, a equipe responsável pela fiscalização o alinhamento entre o escopo contratado e o cronograma de execução, considerado essencial para a governança e o cumprimento dos marcos contratuais. Para tanto, examinou a Estrutura Analítica do Projeto (EAP) e o método do Caminho Crítico (CPM), ferramentas fundamentais para a organização e o controle das entregas. Com base nos conceitos do Guia PMBOK e nas boas práticas de gestão de projetos, elabore um texto dissertativo abordando, obrigatoriamente: a) o conceito e a finalidade da EAP na gestão de contratos de TI; b) a aplicação da EAP na decomposição do escopo contratual em pacotes de trabalho, com vistas ao planejamento e controle das entregas; c) o conceito de caminho crítico e sua relação com a duração total do projeto; e d) a integração entre EAP e caminho crítico no monitoramento de cronograma, níveis de serviço (SLA) e obrigações contratuais. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
       "answer": "C",
       "annulled": false,

@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Empresa Brasileira de Serviços Hospitalares - EBSERH - Área Médica",
   "cargo_title": "Grupo - Patologia",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Se tem problemas no pulmão, procure um pneumologista.",
         "C": "Se tem problemas no fígado, procure um dermatologista.",
         "D": "Se tem problemas nos ouvidos, procure um oncologista.",
-        "E": "Se tem problemas nos pés, procure um pediatra. Legislação EBSERH"
+        "E": "Se tem problemas nos pés, procure um pediatra."
       },
       "answer": "B",
       "annulled": false,
@@ -245,8 +245,25 @@
       "page_number": 5
     },
     {
-      "question_number": 16,
+      "question_number": 15,
       "discipline": null,
+      "statement": "Um empregado da Ebserh foi acusado de descumprir normas institucionais e de adotar conduta incompatível com as regras administrativas do Hospital Universitário. Para a apuração formal da conduta e garantia do contraditório e da ampla defesa, a administração decidiu instaurar procedimento disciplinar conforme as normas internas da empresa. Segundo a Norma Operacional de Controle Disciplinar da Ebserh, a apuração de infrações disciplinares pode ocorrer por meio de",
+      "alternatives": {
+        "A": "sindicância ou processo administrativo disciplinar.",
+        "B": "auditoria administrativa e decisão direta da diretoria.",
+        "C": "avaliação de desempenho extraordinária.",
+        "D": "procedimento sumário conduzido pela chefia imediata.",
+        "E": "análise exclusiva do Conselho Fiscal."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 16,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Considerando os fatores determinantes para a Reforma Sanitária Brasileira, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A crise do modelo previdenciário centralizado, associada à expansão da assistência privada, articulou-se à formulação de uma crítica baseada na medicina social e na análise histórico- estrutural da saúde. ( ) A Reforma Sanitária estruturou-se a partir da adoção da teoria funcionalista do Estado, orientada pela racionalização administrativa e pela busca de equilíbrio institucional no setor saúde. ( ) A abertura política da década de 1970, combinada à reorganização dos movimentos sociais, favoreceu a consolidação de um projeto que relacionava saúde, democracia e transformação das estruturas sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -263,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Tendo em vista os mecanismos institucionais de participação no âmbito do Sistema Único de Saúde, leia hipotética a situação a seguir. Camila participou, como representante dos profissionais de saúde, de uma instância colegiada municipal convocada para ocorrer naquele quadriênio. Durante o encontro, foi realizada avaliação ampla da situação de saúde do município, com apresentação de diagnósticos gerais e, ao final, foram propostas diretrizes para subsidiar a formulação da política de saúde nos anos subsequentes. De acordo com a descrição apresentada, a instância indicada na situação acima é o(a)",
       "alternatives": {
         "A": "Conselho Municipal de Saúde.",
@@ -280,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução RDC nº 36/2013, da ANVISA, institui ações para a promoção da segurança do paciente e apresenta conceitos relacionados à gestão de risco nos serviços de saúde. Considerando as definições estabelecidas na norma, um exemplo de evento adverso é a administração de medicamento",
       "alternatives": {
         "A": "em dose incorreta, resultando em insuficiência renal aguda no paciente internado.",
@@ -297,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com relação às características do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir. I. O sistema público de saúde instituído pela Constituição de 1988 rompeu com o modelo anterior restrito aos trabalhadores formais, passando a garantir acesso a toda a população. II. A organização do sistema, desde sua criação, passou a considerar as desigualdades sociais e regionais como critério para definição de prioridades na oferta de ações e serviços. III. A organização estabelecida a partir de 1988 definiu que toda decisão sobre políticas de saúde seria centralizada na esfera federal, de modo a garantir uniformidade administrativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -314,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução CNS nº 553/2017 estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, dispondo sobre responsabilidades individuais no âmbito do cuidado. Assinale a opção que apresenta uma violação dos deveres da pessoa usuária.",
       "alternatives": {
         "A": "Solicitar substituição do profissional responsável durante atendimento hospitalar regular.",
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Em um hospital geral de médio porte, foi identificado que um paciente recebeu dose duplicada de um anticoagulante após falha na comunicação durante a troca de plantão. O erro foi percebido horas depois, sem ocorrência de dano grave. A direção da instituição solicita que o Núcleo de Segurança do Paciente proponha medidas imediatas. Com base no Programa Nacional de Segurança do Paciente (PNSP), o encaminhamento prioritário deve ser",
       "alternatives": {
         "A": "formalizar advertência ao profissional envolvido e reforçar, em reunião de equipe, a necessidade de atenção redobrada na etapa de administração.",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Decreto nº 7.508/2011 define conceitos relativos à organização do Sistema Único de Saúde (SUS), considerando a articulação interfederativa e a regionalização das ações e serviços. Assinale a opção que descreve corretamente uma Região de Saúde.",
       "alternatives": {
         "A": "Conjunto de serviços municipais organizado para integrar ações assistenciais e planejamento sanitário local.",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A NOB/RH-SUS prevê que a gestão do trabalho no SUS deve obedecer ao princípio da participação bilateral. Assinale a opção que descreve corretamente esse princípio.",
       "alternatives": {
         "A": "Pactuação conjunta de diretrizes sobre carreira e condições laborais.",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Sistema Único de Saúde (SUS) é estruturado constitucionalmente por um conjunto de princípios e diretrizes que orientam sua organização, seu funcionamento e sua oferta de ações e serviços. Assinale a opção que apresenta uma ação incompatível com as diretrizes do SUS.",
       "alternatives": {
         "A": "Implantação de central de regulação regional para organizar o acesso a consultas e exames entre municípios de uma mesma região de saúde.",
@@ -399,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Durante atendimento em Unidade Básica de Saúde, um homem transexual solicitou encaminhamento para mastectomia. O profissional informou que o procedimento não poderia ser ofertado pelo SUS, pois se trataria de demanda estética não relacionada à saúde. A atitude do profissional de saúde está",
       "alternatives": {
         "A": "inadequada, pois a decisão sobre cirurgias depende exclusivamente de autorização prévia estadual.",
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com base no Código de Ética Médica (Resolução CFM nº 2.217/2018), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O médico pode recusar-se a exercer a profissão em instituição pública ou privada quando as condições de trabalho não forem dignas, devendo comunicar formalmente sua decisão ao Conselho Regional competente. ( ) É vedado ao médico divulgar, fora do meio científico, método terapêutico ainda não reconhecido por órgão competente, ainda que a divulgação tenha finalidade apenas educativa. ( ) O médico deve empregar todos os recursos diagnósticos e terapêuticos disponíveis nas situações clínicas irreversíveis, ainda que tais medidas não garantam benefício proporcional ao paciente. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Bioética parte do pressuposto de que nem tudo o que é cientificamente possível é também eticamente aceitável, exigindo que os avanços técnicos sejam avaliados quanto ao respeito à dignidade da pessoa humana. Assinale a opção que exemplifica uma ação cientificamente possível, porém eticamente inaceitável.",
       "alternatives": {
         "A": "Oferta de tratamento capaz de restaurar completamente funções orgânicas perdidas, ainda que inexistam recursos técnicos para a intervenção.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Política Nacional de Saúde Integral da População Negra estabelece diretrizes voltadas ao combate contra o racismo institucional e à redução das desigualdades étnico-raciais no âmbito do SUS. Assinale a opção que apresenta uma medida adequada à referida política.",
       "alternatives": {
         "A": "Implementação de metas específicas para redução de desigualdades étnico-raciais em saúde.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Os Determinantes Sociais da Saúde (DSS) referem-se a um conjunto de condições que influenciam diretamente a distribuição das doenças e dos fatores de risco na população. Assinale a opção que exemplifica corretamente um DSS.",
       "alternatives": {
         "A": "Elevada prevalência de hipertensão arterial associada ao envelhecimento progressivo da população brasileira.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Avalie se as diretrizes do HumanizaSUS incluem: I. implantação de modelo decisório que concentra na chefia a prerrogativa de alterar rotinas, com o objetivo de garantir maior eficiência no atendimento ao público; II. instituição de espaços regulares de deliberação coletiva para discutir impasses do cotidiano e redefinir responsabilidades entre trabalhadores, gestores e usuários; III. reorganização do acesso com redefinição dos critérios de entrada no serviço, priorizando necessidades avaliadas no momento do atendimento. É compatível com o escopo do HumanizaSUS o que se indica em",
       "alternatives": {
         "A": "II e III, apenas.",
         "B": "I, II e III.",
         "C": "I e III, apenas.",
         "D": "II, apenas.",
-        "E": "I e II, apenas. CONHECIMENTOS ESPECÍFICOS"
+        "E": "I e II, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Atualmente, o estudo molecular é de grande valor muitas vezes para o diagnóstico e tratamento de várias neoplasias malignas. Os fatores pré-analíticos são de grande importância na produção de um laudo correto. Assinale o fator que mais influencia nesse processo.",
       "alternatives": {
         "A": "Tempo de estabilização.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O processo inflamatório agudo é uma resposta inespecífica e imediata a um agente agressor fundamental para defesa do organismo. Para que o processo aconteça, precisamos de moléculas de adesão que nele atuem. O recrutamento de leucócitos para o foco inflamatório ocorre por uma sequência coordenada de eventos mediados por moléculas de adesão expressas tanto nos leucócitos quanto no endotélio vascular. Considerando a ordem correta dos fenômenos celulares e as principais moléculas envolvidas, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O rolamento leucocitário é mediado principalmente por integrinas β2 (LFA-1 e Mac-1) presentes nos neutrófilos, que interagem com ICAM-1 no endotélio, processo dependente da ativação por quimiocinas.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente de 32 anos com queixa de emagrecimento, febre baixa vespertina e adenomegalia cervical. A biópsia do linfonodo mostrou um processo inflamatório crônico granulomatoso com necrose caseosa. Diante desse padrão de resposta tecidual ao agente agressor, assinale a opção correta quanto ao mecanismo imunológico envolvido.",
       "alternatives": {
         "A": "Predomínio de resposta imune humoral mediada por linfócitos B, com produção de anticorpos IgG e ativação da via clássica do complemento.",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A biópsia líquida baseada na detecção de DNA tumoral circulante (ctDNA) tem se tornado uma ferramenta importante no manejo oncológico. Considerando sua relação com tamanho tumoral, velocidade de crescimento, definição de alvos terapêuticos e mecanismos de resistência, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A biópsia líquida permite identificar mutações acionáveis para terapia-alvo, porém não é útil no monitoramento de resistência adquirida durante o tratamento sistêmico.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente de 66 anos, sexo feminino, com história de síndrome de Sjögren e uso crônico de colírios lubrificantes, refere hiperemia ocular persistente e aumento lento de volume na conjuntiva há cerca de 1 ano. Ao exame oftalmológico observa-se lesão plana, salmão-avermelhada, envolvendo conjuntiva bulbar e fórnice inferior. Não há dor nem alteração visual significativa. A biópsia mostra infiltrado linfoide denso, predominantemente difuso, composto por linfócitos pequenos a médios, núcleos com cromatina condensada, citoplasmas escassos, envolvendo glândulas acessórias com preservação parcial da arquitetura. Presença de plasmócitos. O índice mitótico é baixo. A imunohistoquímica revelou positividade para: CD20, CD79A, BCL2 e KI67 de 10%. Negatividade para CD5, CD10, BCL6 e ciclinaD1. Com base nesses achados, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Trata-se de linfoma folicular, sendo a negatividade do CD10 explicada por artefato técnico; espera-se rearranjo do gene BCL2.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente de 55 anos, sexo feminino, é submetida a colonoscopia por história familiar de câncer colorretal. O exame evidencia múltiplos pólipos serrilhados, predominantemente sésseis, distribuídos ao longo do cólon, com predomínio no cólon direito, alguns com mais de 1 cm. A histologia mostra serrilhamento envolvendo toda a extensão das criptas, com dilatação basal. Com base nos achados descritos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro é compatível com pólipos hiperplásicos múltiplos, geralmente limitados ao reto e sigmoide, sem impacto no risco de câncer colorretal.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente de 74 anos, sexo masculino, com história de fibrilação atrial crônica, hipertensão arterial e aterosclerose difusa, dá entrada no pronto-socorro com dor abdominal súbita, intensa e desproporcional ao exame físico, seguida de distensão abdominal e sinais de irritação peritoneal. Evolui com choque séptico e é submetido a laparotomia exploradora, que evidencia extensa área de necrose intestinal. Com base no quadro clínico-patológico descrito, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O íleo é o segmento mais frequentemente acometido, devido à irrigação exclusiva pela artéria mesentérica inferior, sendo a perfuração a complicação mais comum.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Mulher de 52 anos, sem hepatopatia crônica conhecida, é submetida à ressecção de um nódulo hepático sólido de 4,2 cm descoberto incidentalmente. A macroscopia mostra lesão bem delimitada, amolecida, com áreas focais de hemorragia. Histologicamente, observa-se proliferação de hepatócitos benignos dispostos em placas de 1–2 células de espessura, com atipia citológica discreta, pseudoglândulas ocasionais, vasos anômalos e reticulina focalmente rarefeita, sem critérios inequívocos de CHC. Imuno-histoquímica: • Glutamina sintetase (GS): difusa homogênea • β-catenina: nuclear ausente • CD34: difuso no tumor Estudo molecular revela mutação ativadora do CTNNB1 em éxon 3 (não S45). Com base nos achados, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O quadro corresponde a adenoma hepatocelular β-catenina ativado, com alto risco de transformação maligna, mesmo na ausência de β-catenina nuclear evidente.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O HTLV-1 é um retrovírus humano que pode se manifestar com comprometimento cutâneo. Com base na epidemiologia, vias de transmissão, tempo de latência, achados cutâneos e perfil imuno-histoquímico, assinale a opção correta.",
       "alternatives": {
         "A": "O HTLV-1 é endêmico no Japão, no Caribe, na África Subsaariana e na América do Sul; a transmissão ocorre principalmente por contato sexual, transfusão sanguínea e aleitamento materno. As lesões cutâneas mostram infiltrado dérmico de linfócitos T CD4+, CD25+, com preservação consistente de CD7.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente feminina, 32 anos, com tosse, febre e emagrecimento. A tomografia de tórax evidenciou grande massa de mediastino sem outras adenomegalia associadas. Feita a biópsia da massa que revelou linfócitos grandes, com nucléolos evidentes citoplasmas amplos em meio a fibrose. O diagnóstico foi linfoma de grandes células do mediastino. Nesse caso, os seguintes marcadores devem ser positivos na maioria dos casos:",
       "alternatives": {
         "A": "CD20 – CD3 – CD79A – CD30 – CD23 – CD15.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo feminino, 28 anos, com exantema malar (lesão em asa de borboleta) e fotossensibilidade. O diagnóstico clínico foi de lúpus eritematoso cutâneo. O padrão morfológico mais encontrado nesse contexto é",
       "alternatives": {
         "A": "dermatite espongiótica com vesiculação intraepidérmica, exocitose linfocitária e paraceratose focal.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O quadro morfológico clivagem intraepidérmica alta (subcórnea) com células acantolíticas é característico de",
       "alternatives": {
         "A": "penfigoide bolhoso.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente masculino, 58 anos com hematúria macroscópica. Na cistoscopia foi evidenciada uma lesão exofítica única de 3 mm. A alteração morfológica que define a lesão como papiloma urotelial é a lesão",
       "alternatives": {
         "A": "papilífera com eixo fibrovascular revestido por células com queratinização sem atipias nucleares.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 26 anos, massa renal sólida de 4,9 cm. Histologia: neoplasia composta por células epitelioides de citoplasma eosinofílico a levemente claro, com padrão tubular, sólido e cribriforme, além de áreas com estroma mixoide e discreto infiltrado inflamatório. Não há padrão típico de carcinoma de células claras, nem arquitetura papilífera bem formada. Imunohistoquímica revela: • PAX8: positivo; • CK AE1/AE3: positivo; • EMA: positivo; • CK7: positivo difuso; • AMACR: negativo; • CAIX: negativo; • CD10: negativo; • TFE3: negativo; • TFEB: negativo; • FH: preservado; • SDHB: preservado; • INI1: preservado. Considerando a classificação atual da OMS, o exame complementar mais indicado para a confirmação diagnóstica é a(o)",
       "alternatives": {
         "A": "pesquisa de mutação de VHL por NGS.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 24 anos, com massa testicular sólida ao exame físico. Realizada orquiectomia radical. A microscopia evidenciou neoplasia com áreas de células grandes e pleomórficas, com núcleos vesiculosos e nucléolos proeminentes, por vezes formando glândulas. Observa-se pequena área com células mononucleares associadas a células multinucleadas gigantes, em meio a hemorragia. A Imuno-histoquímica mostrou positividade para OCT3/4, CD30, SALL4, β-hCG. PLAP focal e AFP negativo. O diagnóstico mais provável é",
       "alternatives": {
         "A": "seminoma clássico + teratoma pós-puberal.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em uma biópsia hepática, observam-se dois padrões distintos de morte celular. No primeiro, há células isoladas retraídas, com citoplasma intensamente eosinofílico, núcleo picnótico e fragmentado, sem reação inflamatória importante ao redor. No segundo, há áreas confluentes de lise celular, com perda da arquitetura, extravasamento de conteúdo celular e infiltrado neutrofílico adjacente. O primeiro padrão descrito e o segundo padrão descrito são, respectivamente,",
       "alternatives": {
         "A": "necrose coagulativa e apoptose.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Mulher de 46 anos com carcinoma invasivo de mama confirmado em biópsia por agulha grossa. O patologista discute com a equipe quais achados histológicos e imuno-histoquímicos aumentam a suspeita de tumor associado a BRCA1 em comparação com BRCA2, com base nos padrões descritos em grandes séries. Assinale a opção que descreve corretamente as diferenças mais típicas entre carcinomas de mama associados a BRCA1 e BRCA2.",
       "alternatives": {
         "A": "BRCA1: tumores mais frequentemente ER positivos, grau 1–2 e com CDIS isolado. BRCA2: mais frequentemente triplo- negativos, padrão medular e metaplásico.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Mulher, 52 anos, refere prurido e descamação persistente no mamilo direito há 8 meses, com piora progressiva. Ao exame físico, observa-se placa eritematosa e eczematosa envolvendo mamilo e aréola, com pequena área erosiva. Não há massa palpável. Biópsia do mamilo/aréola: • epiderme com células grandes intraepidérmicas, isoladas e em pequenos agrupamentos, predominando na junção dermo- epidérmica; • citoplasma pálido/vacuolado, núcleos pleomórficos, nucléolos evidentes; • sem queratinização, sem pontes intercelulares. Assinale a opção que apresenta o principal diagnóstico, o diagnóstico diferencial mais provável e quais marcadores devem ser solicitados.",
       "alternatives": {
         "A": "Doença de Paget mamária / Melanoma in situ / Solicitar CK7, HER2, GATA3, p63.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Mulher jovem, tentando engravidar, com ciclos regulares de 28 dias, realiza biópsia endometrial no 25º dia do ciclo menstrual. No exame histopatológico, o achado mais esperado para essa data e o principal marcador imunohistoquímico utilizado para avaliação de endometrite são:",
       "alternatives": {
         "A": "glândulas tubulares retas com mitoses e pseudoestratificação nuclear, estroma compacto; marcador principal para endometrite: CD79A.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Mulher, 52 anos, com sangramento uterino anormal há 8 meses. USG: massa ovariana direita 10 cm, sólido-cística, com hemorragia. CA-125 normal. β-inibina sérica elevada. Na microscopia foi evidenciada neoplasia formada por células monótonas, em padrões mistos: difuso, cordões/trabéculas e com células fusiformes. Núcleos ovais com membrana irregular e sulcos nucleares em parte do tumor. Mitose baixa. Reticulina: predomina marcação envolvendo grupos celulares. O estudo imuno- histoquímico mostrou inibina+ (heterogênea), calretinina+, PAX8−, EMA−, CK7−. AE1/AE3 focal+, ER focal+. Assinale a opção que contém o diagnóstico mais provável, o principal diagnóstico diferencial, e a mutação mais característica do tumor principal.",
       "alternatives": {
         "A": "Tumor de células da granulosa tipo adulto + Fibroma celular. Mutação: FOXL2.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 32 anos, com nódulo na face volar do dedo indicador há 10 meses, crescimento lento, medindo 1,5 cm. Lesão firme, bem delimitada. Na microscopia, observa-se lesão nodular bem circunscrita, composta por células fusiformes escassas, sem atipia, distribuídas em estroma de colágeno denso e hialinizado, com áreas hipocelulares alternando com áreas discretamente mais celulares. Presença de foco mixoide. Observam-se pequenas fendas e espaços alongados entre feixes colágenos. Mitoses raras. Ausência de necrose. O estudo imunohistoquímico foi negativo para ALK1, STAT6, desmina, S100, SOX10 e β-catenina. O diagnóstico mais provável e o principal diagnóstico diferencial são:",
       "alternatives": {
         "A": "fibroma da bainha do tendão e fasceíte nodular.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um homem de 52 anos apresenta dor óssea crônica em membros. A tomografia evidencia esclerose metafisária simétrica bilateral em ossos longos. Há também espessamento periaórtico e infiltração retroperitoneal. Biópsia óssea mostrou infiltrado difuso por histiócitos espumosos (xantomatosos) em estroma fibroso, com células gigantes tipo Touton ocasionais, presença de infiltrado inflamatório linfo- plasmocitário associado, ausência de necrose ou granulomas bem formados. O estudo imunohistoquímico mostrou positividade para CD68, CD163 e BRAF. Negatividade para S100, CD1a e CD207. O diagnóstico mais provável é",
       "alternatives": {
         "A": "histiocitose de células de Langerhans.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 62 anos, submetido à ressecção de massa extra-axial dural na convexidade parietal. Ao microscópio observa-se neoplasia meningotelial com áreas de padrão meningotelial clássico e focos extensos de crescimento em lençóis. Há discreta hipercelularidade em algumas áreas. Não há padrão papilar ou rabdoide. Não há necrose geográfica evidente. A contagem mitótica foi realizada nas áreas mais ativas, com resultado de 5 mitoses por 10 campos de grande aumento (CGA). Com base nos critérios atuais da OMS, assinale a afirmativa correta a respeito dos critérios diagnósticos para meningioma OMS grau 2.",
       "alternatives": {
         "A": "O meningioma OMS grau 2 exige obrigatoriamente necrose tumoral extensa e índice mitótico ≥ 20 mitoses/10 CGA.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 41 anos, apresenta crises convulsivas há 6 meses. RM evidencia lesão cortical-subcortical frontal, infiltrativa, com calcificações e discreta captação heterogênea. Foi realizada biópsia. Microscopia: neoplasia glial difusa com células monomórficas com halo perinuclear, rede capilar delicada em padrão “chicken-wire”, calcificações focais, ausência de necrose. O estudo Imuno- histoquímico mostrou positividade para GFAP, OLIG2, ATRX e IDH1 R132H: positivo difuso. P53 com raras células positivas. Estudo molecular: 1p/19q: codeleção detectada e TERT promotor: mutação detectada. Com base nos critérios atuais da OMS para o diagnóstico de oligodendroglioma, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O diagnóstico de oligodendroglioma pode ser firmado apenas por morfologia típica (“ovo frito” e chicken-wire), mesmo na ausência de confirmação molecular.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em peça de ressecção pulmonar, há nódulo periférico único de 2,8 cm, totalmente incluído. A histologia mostra padrão predominantemente lepídico, com um foco único de invasão estromal medindo 6 mm. Em outro caso, há extensos lagos de mucina extracelular distendendo espaços alveolares, com destruição de septos e apagamento do parênquima. Em um terceiro caso, o tumor mostra em pelo menos 50% da área morfologia semelhante a adenocarcinoma colorretal, com positividade para CDX2, e investigação clínica sem neoplasia primária gastrointestinal. Assinale a opção que apresenta descrições corretas para os três casos.",
       "alternatives": {
         "A": "1º adenocarcinoma minimamente invasivo; 2º adenocarcinoma mucinoso invasivo; 3º adenocarcinoma fetal.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A imunohistoquímica para p16 é utilizada na prática como marcador substituto de infecção por papilomavírus humano de alto risco em carcinomas escamosos. Considerando os diferentes sítios anatômicos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A positividade difusa e forte para p16 é marcador substituto validado para carcinoma escamoso relacionado ao papilomavírus humano na cavidade oral (língua móvel e assoalho) e na laringe.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 62 anos, com massa de crescimento lento na parótida há 18 meses, recentemente com piora e dor local. A ressecção mostra neoplasia infiltrativa composta por células epiteliais e mioepiteliais formando estruturas tubulares e cribriformes, com áreas sólidas de células basalioides. Observa-se invasão perineural proeminente. Na imunohistoquímica, as células ductais são positivas para pancitoqueratinas, enquanto as células mioepiteliais são positivas para p63 e actina de músculo liso. O diagnóstico mais provável é",
       "alternatives": {
         "A": "carcinoma secretor.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 46 anos, nódulo encapsulado na tireoide (3,2 cm). Microscopia mostra neoplasia folicular encapsulada, com arquitetura predominantemente microfolicular e macrofolicular. Núcleos mostram discreta sobreposição, alongamento, irregularidade de contorno, fendas nucleares mais evidentes na periferia do nódulo. Não há necrose. Mitoses raras (< 1/2 mm²). Papilas verdadeiras ausentes. O exame histológico mostra um foco de tumor atravessando toda a espessura da cápsula, com continuidade para o tecido adjacente. O diagnóstico mais apropriado é",
       "alternatives": {
         "A": "NIFTP (neoplasia folicular não invasiva com características nucleares de carcinoma papilífero).",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 72 anos, apresenta nódulo eritemato-violáceo de crescimento rápido em antebraço, com 2,1 cm. Foi realizada biópsia incisional. Microscopia: derme ocupada por neoplasia maligna difusa composta por células grandes e pleomórficas, com alto índice núcleo/citoplasma, cromatina fina a granular, nucléolos pouco evidentes e numerosas mitoses, incluindo figuras atípicas. Há focos de necrose e apoptose. A epiderme está preservada, sem conexão evidente com a lesão. Observa-se padrão de infiltração difusa na derme, com extensão para hipoderme. Não há formação glandular ou queratinização. Assinale a opção que apresenta o diagnóstico mais provável e o painel imunohistoquímico mais compatível.",
       "alternatives": {
         "A": "Carcinoma de células de Merkel. Imuno: CK20 positivo em padrão perinuclear dot-like, INSM1 positivo, sinaptofisina positivo, cromogranina positivo, TTF-1 negativo, CK7 negativo.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação aos mecanismos de reparo tecidual cutâneo, uma característica morfofuncional tipicamente associada ao reparo por segunda intenção é",
       "alternatives": {
         "A": "A formação exuberante de tecido de granulação com contração significativa da ferida.",

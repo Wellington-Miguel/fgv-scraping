@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Prefeitura Municipal de Canaã dos Carajás/PA",
   "cargo_title": "Agente de Serviços Técnicos em Radiologia",
   "exam_type": "Tipo 1",
-  "total_questions": 49,
+  "total_questions": 50,
   "questions": [
     {
       "question_number": 1,
@@ -33,6 +33,23 @@
         "C": "demonstração de como a escrita é fonte de verdade, destacando os livros fundadores das religiões.",
         "D": "exemplo das funções da língua escrita citadas no primeiro parágrafo.",
         "E": "dado comprovador de que a escrita facilita a comunicação humana."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 3,
+      "discipline": null,
+      "statement": "“Na engrenagem da sociedade moderna, a comunicação escrita senta-se em trono.” A imagem da escrita nessa frase mostra",
+      "alternatives": {
+        "A": "o poder da língua escrita entre os nobres.",
+        "B": "a superioridade da escrita em nossa cultura.",
+        "C": "o domínio dos que usam a escrita sobre os demais.",
+        "D": "a superioridade da língua escrita sobre a língua oral.",
+        "E": "a recepção de homenagens culturais por parte da escrita."
       },
       "answer": "B",
       "annulled": false,
@@ -151,7 +168,7 @@
         "B": "exemplos de usos da língua escrita.",
         "C": "casos de obras que acompanham a vida humana.",
         "D": "obras de cultura que só usam língua escrita.",
-        "E": "exemplos didáticos da comunicação escrita. Raciocínio Lógico Matemático"
+        "E": "exemplos didáticos da comunicação escrita."
       },
       "answer": "B",
       "annulled": false,
@@ -321,7 +338,7 @@
         "B": "4.",
         "C": "5.",
         "D": "6.",
-        "E": "7. Noções de Informática"
+        "E": "7."
       },
       "answer": "C",
       "annulled": false,
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Sobre servidores proxies, analise as afirmativas a seguir I. É um software que impede que os usuários conheçam detalhes do endereçamento dos recursos da rede acessada; ele interpreta uma solicitação e, caso possa ser atendida, a remete para um servidor interno cujo endereço é desconhecido para o remetente. II. É um elemento que se encontra com frequência em roteadores Wi-Fi de redes locais, mas também em servidores de correios eletrônico e de bancos de dados. III. Pode-se ter uma máquina na rede periférica tão somente com a função de proxy; neste caso, por extensão, a máquina é também denominada proxy (processador ou computador ou servidor proxy). Como normalmente a máquina proxy é um roteador, ela é, por si só, um firewall. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Leo usa o navegador Google Chrome e deseja atualizar a página atual e limpar o cache do navegador. Assinale a opção que indica a tecla de atalho de teclado a ser usada.",
       "alternatives": {
         "A": "Ctrl + Shift + Del",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Mauro necessita proteger sua conta no WhatsApp. Considerando como referencial a opção configurações avançadas do menu privacidade, disponível no menu configurações da ferramenta, analise as afirmativas a seguir. I. A opção bloquear mensagens de contas desconhecidas protege a conta e melhora o desempenho do seu dispositivo. II. A opção descobrir o endereço IP nas ligações facilita a descoberta da localização dos invasores, onde as ligações recebidas pelo dispositivo serão monitoradas usando diferentes servidores do WhatsApp. III. A opção ativar pré-visualização de links maliciosos evita que sites maliciosos descubram seu endereço IP e o WhatsApp não exibirá mensagem de alerta dos links compartilhados em uma conversa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Observe a planilha elaborada no MS Excel. Considere a sequência de etapas a seguir. I. A célula D1 contém a fórmula =SE($A$2>=B1;\"T\";\"F\"), ela é selecionada e copiada com CTRL + C. II. A região que compreende as células D2 a D5 é selecionada. III. O conteúdo copiado na etapa 1 é colado na região selecionada com CTRL + V. Os valores a serem exibidos nas células D1, D2, D3, D4 e D5 são, respectivamente,",
       "alternatives": {
         "A": "#N/D, #N/D, #N/D, #Error, #Error",
@@ -399,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Existem diversos tipos de barramento de E/S em um computador. Um barramento é um conjunto de linhas de comunicação pelas quais se estabelecem as interligações entre dispositivos de computação e seu desempenho pode ser medido de diversas formas. Com relação ao desempenho dos barramentos, analise as afirmativas a seguir. I. É medido pela sua largura de banda (quantidade de bits que podem ser transmitidos simultaneamente), geralmente potências de 2: 8 bits, 16 bits, 32 bits, 64 bits. II. Pode ser expresso pela velocidade da transmissão que permite, medida em bps (bits por segundo) e seus múltiplos: 10 bps, 160 Kbps, 100 Mbps, 1 Gbps. III. Pode ser expresso pelo comprimento das linhas de comunicação (em quantidade de nanômetros), geralmente potências de 10: 100 nm, 1.000 nm, 10.000 nm. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Observe a tela de e-mail elaborada no Web Mail do MS Outlook. Considere que Jorge necessita confirmar uma reunião online com Maria. As opções de envio desse e-mail, por meio do botão enviar, são, respectivamente,",
       "alternatives": {
         "A": "enviar, enviar com confirmação.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Mariana está redigindo um contrato de locação de equipamentos e precisa usar as funcionalidades de revisão de texto oferecidas pelo MS Word. As opções disponíveis em botão marcação simples do menu revisão são",
       "alternatives": {
         "A": "marcação simples, marcações compostas, sem marcação.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Elton é um técnico de informática recém-contratado pela Prefeitura, o qual precisa usar serviços de armazenamento e recuperação de qualquer quantidade de dados em nuvem. Assinale a opção que indica os serviços que podem ser usados a qualquer momento e de qualquer lugar na web.",
       "alternatives": {
         "A": "s3 e dropbox.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "O Impress 7.0 do Pacote LibreOffice permite editar vários itens dos slides mestres. São edições válidas, exceto:",
       "alternatives": {
         "A": "plano de fundo.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Paulo está elaborando uma planilha muito grande no Calc 7.0. Sobre o recurso dividir uma janela, analise as afirmativas a seguir I. Existem três métodos de dividir uma tela: horizontalmente, verticalmente ou diagonalmente. II. Método Um: 1) clique no cabeçalho da linha abaixo das linhas onde deseja dividir a tela horizontalmente ou clique no cabeçalho da coluna à direita das colunas em que deseja dividir a tela verticalmente. 2) Vá em “Exibir” na barra de menus e selecione “Dividir janela”. Uma linha espessa aparece entre as linhas ou colunas, indicando onde a divisão foi colocada. III. Método Dois: para uma divisão diagonal, clique na linha preta grossa inclinada na parte superior da barra de rolagem vertical e arraste a linha de divisão abaixo da linha em que deseja posicionar a divisão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "II, apenas.",
         "C": "III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I e III, apenas. Módulo II – Conhecimentos Específicos"
+        "E": "I e III, apenas."
       },
       "answer": "B",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "O termo levantamento radiométrico refere-se à(ao)",
       "alternatives": {
         "A": "avaliação dos níveis de radiação nas áreas de uma instalação.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que apresenta, corretamente, o texto com as orientações de proteção radiológica que deve estar visível nas portas de acesso e nas salas de exames radiológicos.",
       "alternatives": {
         "A": "Nesta sala podem permanecer até 2 pacientes de cada vez.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Em relação à dosimetria individual, assinale a opção que indica a instituição que estabelece o nível de registro da monitoração.",
       "alternatives": {
         "A": "Ministério da Saúde (MS).",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Em relação aos efeitos biológicos das radiações, pode-se citar a leucemia em uma exposição crônica à radiação. Em relação a essa doença, assinale a opção que indica o exame que deve ser feito, periodicamente, como um dos controles médicos ocupacionais.",
       "alternatives": {
         "A": "Hemograma completo.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A respeito da cabine (sala) de comando do equipamento que emite radiação ionizante. Assinale a afirmativa correta.",
       "alternatives": {
         "A": "Dispensa qualquer tipo de proteção plumbífera.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Em relação aos artefatos de movimento durante a realização de um exame de tomografia computadorizada, assinale a opção que apresenta o procedimento que não consegue evitar os efeitos desses artefatos.",
       "alternatives": {
         "A": "Garantir a contenção do paciente.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Nos equipamentos de Ressonância Magnética, o ruído acústico associa-se ao trabalho de ativação e desativação da corrente elétrica que induz vibrações mecânicas nas bobinas de gradientes de campo. Assinale a opção que apresenta o que deve ser feito para reduzir os níveis de ruídos para o paciente.",
       "alternatives": {
         "A": "Baixar a luz do ambiente ou mesmo desligá-la.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No processo de finalização da imagem radiográfica digital, antes do envio dos dados ao servidor, a imagem pode ser alterada em vários parâmetros, tais como: brilho, enegrecimento, ampliação, inversão da imagem lateral e horizontal. Assinale a opção que indica onde o técnico deve fazer essa finalização.",
       "alternatives": {
         "A": "Na estação de trabalho da RC ou no console do aparelho de Raios X DR (radiografia direta).",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que apresenta as estruturas que fazem parte do sistema urinário.",
       "alternatives": {
         "A": "Rins, ureteres, bexiga e uretra.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que indica a região do corpo humano em que se situam os arcos zigomáticos.",
       "alternatives": {
         "A": "Bacia.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que indica a posição em que o estudo radiográfico do cavum deve ser feito.",
       "alternatives": {
         "A": "Decúbito dorsal.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No estudo radiográfico da coluna cervical a incidência na qual os buracos de conjugação não são evidenciados, quando há erro no posicionamento do corpo e da cabeça é a",
       "alternatives": {
         "A": "Antero-posterior.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que indica o estudo radiológico contrastado do sistema reprodutor (genital) feminino, que deve ser feito entre o 7º e o 10º dia após o início da menstruação.",
       "alternatives": {
         "A": "Sialografia.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que apresenta a incidência usada como complementar no estudo radiográfico do ápice dos pulmões, do lobo médio e dos segmentos lingulares (língula).",
       "alternatives": {
         "A": "Perfil",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Em Medicina Nuclear, o radioisótopo usado para realizar cintilografia óssea é o",
       "alternatives": {
         "A": "Gadolínio.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Em relação à segurança do trabalho, todo profissional necessário ao funcionamento de uma sala com equipamento que emita radiação ionizante deve",
       "alternatives": {
         "A": "usar as maiores doses possíveis.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Assinale a opção que indica o equipamento que não é um Equipamento de Proteção Individual (EPI) usado nas salas de exames radiológicos, incluindo raio-X e tomografia computadorizada.",
       "alternatives": {
         "A": "Dosímetro.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Na radiologia, a ergonomia concentra-se em criar um ambiente de trabalho seguro para os profissionais, adaptando o local de trabalho, os equipamentos e as técnicas utilizadas para garantir o máximo conforto e a eficiência durante os exames. Com relação ao local de trabalho, assinale a opção que indica quem deve informar a chefia imediata sobre quaisquer problemas existentes com os equipamentos, as fontes emissoras de radiação, os acessórios e os equipamentos de proteção radiológicas.",
       "alternatives": {
         "A": "O técnico rotina.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "A sinalização luminosa vermelha deve estar visível e acima da face externa da(s) porta(s) de acesso às salas de exames radiológicos. A sinalização luminosa deve estar acompanhada do símbolo internacional da radiação ionizante e da seguinte inscrição:",
       "alternatives": {
         "A": "Proibida a entrada de objetos ferromagnéticos.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "De acordo com o Código de Ética dos Profissionais das Técnicas Radiológicas do CONTER (Conselho Nacional de Técnicos em Radiologia), são objeto da profissão do tecnólogo, do técnico e do auxiliar em Radiologia, as áreas apresentadas a seguir, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Radiologia, no setor de Diagnóstico Médico.",

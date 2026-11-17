@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - Arquiteto",
   "exam_type": "Tipo 1",
-  "total_questions": 33,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-arquiteto_q12.png",
       "page_number": 3
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 21,
@@ -253,9 +355,26 @@
         "B": "As duas cidades passaram por processos de urbanização semelhantes ao longo do século XX, marcados pelo crescimento populacional e pela expansão das áreas residenciais, mas, a disponibilidade de terras, o relevo e a localização continental, exerceram papel determinante sobre a forma e a intensidade da expansão urbana apenas em Vila Velha.",
         "C": "Vila Velha desenvolveu-se como um importante centro industrial e logístico, com empreendimentos ligados ao comércio regional, enquanto Vitória manteve, por mais tempo, as características periurbanas, com presença significativa de áreas pouco urbanizadas, de vegetação nativa e de ocupações dispersas em parte de seu território.",
         "D": "Vitória, por ser uma ilha, teve sua expansão territorial limitada, resultando em um crescimento mais verticalizado, enquanto Vila Velha, localizada em área continental e com maior disponibilidade de terras planas, apresentou uma expansão urbana mais dispersa.",
-        "E": "O crescimento urbano de Vitória foi determinado exclusivamente por fatores climáticos, sem relação com sua localização geográfica, enquanto o de Vila Velha foi determinado por sua geografia. Assinale a opção que apresenta, corretamente, as principais diferenças entre as diretrizes técnico-científicas de produção da cidade modernista e da cidade contemporânea. (A) A cidade modernista é orientada pelo planejamento funcionalista, com separação de usos. / A cidade contemporânea prioriza a diversidade de usos e a multifuncionalidade. (B) A cidade modernista e a cidade contemporânea possuem os mesmos princípios, diferenciando-se apenas pela tecnologia utilizada nas construções. (C) A cidade modernista prioriza a diversidade de usos e a participação popular. / A cidade contemporânea defende o zoneamento rígido e a separação de funções urbanas. (D) A cidade modernista não possuía qualquer tipo de organização espacial. / A cidade contemporânea elimina totalmente o planejamento urbano. (E) A cidade modernista é caracterizada pela sustentabilidade ambiental e a inclusão social. / A cidade contemporânea ignora essas questões em favor do crescimento econômico."
+        "E": "O crescimento urbano de Vitória foi determinado exclusivamente por fatores climáticos, sem relação com sua localização geográfica, enquanto o de Vila Velha foi determinado por sua geografia."
       },
       "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "Assinale a opção que apresenta, corretamente, as principais diferenças entre as diretrizes técnico-científicas de produção da cidade modernista e da cidade contemporânea.",
+      "alternatives": {
+        "A": "A cidade modernista é orientada pelo planejamento funcionalista, com separação de usos. / A cidade contemporânea prioriza a diversidade de usos e a multifuncionalidade.",
+        "B": "A cidade modernista e a cidade contemporânea possuem os mesmos princípios, diferenciando-se apenas pela tecnologia utilizada nas construções.",
+        "C": "A cidade modernista prioriza a diversidade de usos e a participação popular. / A cidade contemporânea defende o zoneamento rígido e a separação de funções urbanas.",
+        "D": "A cidade modernista não possuía qualquer tipo de organização espacial. / A cidade contemporânea elimina totalmente o planejamento urbano.",
+        "E": "A cidade modernista é caracterizada pela sustentabilidade ambiental e a inclusão social. / A cidade contemporânea ignora essas questões em favor do crescimento econômico."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -286,14 +405,31 @@
         "A": "Devem buscar a total reconstrução arquitetônica, de forma a uniformizar o conjunto urbano conforme padrões da época.",
         "B": "Devem priorizar a modernização estética do bem, permitindo reconstruções parciais com materiais contemporâneos, mesmo que alterem a autenticidade histórica original.",
         "C": "Devem respeitar a autenticidade e a integridade do bem, evitando reconstruções conjecturais e garantindo o reconhecimento de qualquer intervenção, sem comprometer os valores históricos e culturais do monumento.",
-        "D": "Devem permitir a reconstrução parcial do monumento com Assinale a opção que indica o principal objetivo da adoção de corredores de vista no planejamento urbano, em cidades com relevo exuberante como o de Vitória (ES) e o de Vila Velha (ES). (A) Direcionar exclusivamente o fluxo de veículos e pedestres por meio de vias estruturais preservando, quando possível, a paisagem urbana ou os marcos visuais. (B) Garantir a preservação de eixos visuais que conectam espaços públicos a ícones paisagísticos, orientando o controle da altura e volumetria das edificações. (C) Promover a verticalização intensiva em áreas centrais para a exploração da vista das montanhas e do mar, maximizando o aproveitamento econômico do solo urbano. (D) Explorar áreas naturais e elementos paisagísticos em novas construções de alto padrão, com foco na valorização do turismo e do mercado imobiliário e, também, no aumento da arrecadação municipal.",
-        "E": "Padronizar rigidamente o desenho arquitetônico e os materiais das edificações, buscando criar uma uniformidade estética homogênea em toda a cidade, de modo a complementar o contexto paisagístico natural."
+        "D": "Devem permitir a reconstrução parcial do monumento com base em interpretações livres, ainda que dialogando com evidências históricas, visando valorizar o turismo local.",
+        "E": "Devem adaptar o bem histórico às necessidades contemporâneas com poucas restrições, podendo alterar, materiais e estrutura original conforme a demanda turística e econômica."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 25,
+      "discipline": null,
+      "statement": "Assinale a opção que indica o principal objetivo da adoção de corredores de vista no planejamento urbano, em cidades com relevo exuberante como o de Vitória (ES) e o de Vila Velha (ES).",
+      "alternatives": {
+        "A": "Direcionar exclusivamente o fluxo de veículos e pedestres por meio de vias estruturais preservando, quando possível, a paisagem urbana ou os marcos visuais.",
+        "B": "Garantir a preservação de eixos visuais que conectam espaços públicos a ícones paisagísticos, orientando o controle da altura e volumetria das edificações.",
+        "C": "Promover a verticalização intensiva em áreas centrais para a exploração da vista das montanhas e do mar, maximizando o aproveitamento econômico do solo urbano.",
+        "D": "Explorar áreas naturais e elementos paisagísticos em novas construções de alto padrão, com foco na valorização do turismo e do mercado imobiliário e, também, no aumento da arrecadação municipal.",
+        "E": "Padronizar rigidamente o desenho arquitetônico e os materiais das edificações, buscando criar uma uniformidade estética homogênea em toda a cidade, de modo a complementar o contexto paisagístico natural."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 26,
@@ -304,9 +440,26 @@
         "B": "Implantação de coberturas vegetadas extensivas, uso de materiais de alta refletância e redistribuição do tráfego para vias perimetrais.",
         "C": "Adoção de pavimentos impermeabilizantes, sombreamento artificial leve e controle de gabarito para favorecer a ventilação natural.",
         "D": "Criação de zonas de uso misto com redução de deslocamentos, incentivo à mobilidade ativa e aumento da arborização urbana.",
-        "E": "Ampliação de superfícies impermeáveis de alta durabilidade, verticalização com fachadas reflexivas e concentração de corredores viários de alta capacidade em áreas centrais. No planejamento urbano contemporâneo brasileiro, especialmente em intervenções habitacionais de interesse social, considerando os impactos na morfologia urbana, nas redes de mobilidade e no acesso a oportunidades socioeconômicas, assinale a opção que distingue, conceitualmente, inserção urbana de integração urbana. (A) A inserção urbana e a integração urbana são etapas sucessivas de um mesmo processo, sendo a primeira voltada à implantação física do projeto e a segunda à sua adaptação progressiva às dinâmicas urbanas ao longo do tempo. (B) A inserção urbana é à incorporação do projeto ao tecido urbano existente em termos formais e regulatórios; a integração urbana envolve a articulação entre espaços públicos, dinâmicas sociais e usos urbanos diversos. (C) A inserção urbana está relacionada à compatibilização do empreendimento com instrumentos de planejamento urbano, como zoneamento e uso do solo; a integração urbana se refere à consolidação jurídica e institucional da ocupação no território. (D) A inserção urbana é a adequação do empreendimento aos parâmetros físico-territoriais locais, como densidade e tipologia; a integração urbana corresponde à provisão e à continuidade das redes de infraestrutura e serviços urbanos no entorno imediato. (E) A inserção urbana refere-se à localização geográfica do empreendimento na malha urbana; a integração urbana implica a conexão funcional do projeto com a cidade existente, incluindo acessibilidade, diversidade de usos e articulação com as redes urbanas."
+        "E": "Ampliação de superfícies impermeáveis de alta durabilidade, verticalização com fachadas reflexivas e concentração de corredores viários de alta capacidade em áreas centrais."
       },
       "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 27,
+      "discipline": null,
+      "statement": "No planejamento urbano contemporâneo brasileiro, especialmente em intervenções habitacionais de interesse social, considerando os impactos na morfologia urbana, nas redes de mobilidade e no acesso a oportunidades socioeconômicas, assinale a opção que distingue, conceitualmente, inserção urbana de integração urbana.",
+      "alternatives": {
+        "A": "A inserção urbana e a integração urbana são etapas sucessivas de um mesmo processo, sendo a primeira voltada à implantação física do projeto e a segunda à sua adaptação progressiva às dinâmicas urbanas ao longo do tempo.",
+        "B": "A inserção urbana é à incorporação do projeto ao tecido urbano existente em termos formais e regulatórios; a integração urbana envolve a articulação entre espaços públicos, dinâmicas sociais e usos urbanos diversos.",
+        "C": "A inserção urbana está relacionada à compatibilização do empreendimento com instrumentos de planejamento urbano, como zoneamento e uso do solo; a integração urbana se refere à consolidação jurídica e institucional da ocupação no território.",
+        "D": "A inserção urbana é a adequação do empreendimento aos parâmetros físico-territoriais locais, como densidade e tipologia; a integração urbana corresponde à provisão e à continuidade das redes de infraestrutura e serviços urbanos no entorno imediato.",
+        "E": "A inserção urbana refere-se à localização geográfica do empreendimento na malha urbana; a integração urbana implica a conexão funcional do projeto com a cidade existente, incluindo acessibilidade, diversidade de usos e articulação com as redes urbanas."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -321,13 +474,30 @@
         "B": "O direito à moradia foi incorporado à Constituição de 88 como princípio da ordem econômica, sendo detalhado posteriormente pela Lei nº 11.977/2009, que estabeleceu sua aplicação no âmbito das políticas habitacionais.",
         "C": "Foi introduzido na Constituição Federal por meio de decisão do Supremo Tribunal Federal, sendo posteriormente consolidado como direito social por legislação infraconstitucional específica.",
         "D": "Estava na Constituição de 88 como desdobramento do direito de propriedade, mas foi desvinculado deste e elevado à categoria de direito social por meio de legislação complementar.",
-        "E": "Ampliou o conteúdo do Art. 6º da Constituição de 88, impondo ao Estado o dever de formular políticas públicas voltadas à garantia de acesso à habitação digna. No contexto da política urbana brasileira, os dispositivos da Constituição Federal de 1988 foram regulamentados pela Lei nº 10.257/2001, conhecido como Estatuto da Cidade. Assinale a opção que mostra, corretamente, o alcance jurídico dessa regulamentação para a gestão democrática das cidades. (A) O Art. 182 e o Art. 183 da Constituição Federal de 1988 estabeleceram as diretrizes da política urbana, os instrumentos de ordenação do uso do solo e os mecanismos de gestão democrática, como planos diretores e participação social. (B) O Art. 5º, inciso XXIII, e o Art. 170 da Constituição Federal de 1988, definiram a função social da propriedade e sua aplicação prioritária nas políticas de desenvolvimento econômico urbano. (C) O Art. 21, inciso XX, e o Art. 23, IX, da Constituição Federal de 1988 disciplinaram a competência da União e dos entes federativos na execução direta de políticas habitacionais. (D) O Arts. 6º e o Art. 7º da Constituição Federal de 1988 asseguraram o direito à moradia e estabeleceram parâmetros para sua implementação por meio de políticas urbanas integradas. (E) Os Art. 182 e o Art. 225 da Constituição Federal de 1988 articularam a política urbana com a proteção ambiental e definindo instrumentos para o desenvolvimento sustentável nas cidades."
+        "E": "Ampliou o conteúdo do Art. 6º da Constituição de 88, impondo ao Estado o dever de formular políticas públicas voltadas à garantia de acesso à habitação digna."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 29,
+      "discipline": null,
+      "statement": "No contexto da política urbana brasileira, os dispositivos da Constituição Federal de 1988 foram regulamentados pela Lei nº 10.257/2001, conhecido como Estatuto da Cidade. Assinale a opção que mostra, corretamente, o alcance jurídico dessa regulamentação para a gestão democrática das cidades.",
+      "alternatives": {
+        "A": "O Art. 182 e o Art. 183 da Constituição Federal de 1988 estabeleceram as diretrizes da política urbana, os instrumentos de ordenação do uso do solo e os mecanismos de gestão democrática, como planos diretores e participação social.",
+        "B": "O Art. 5º, inciso XXIII, e o Art. 170 da Constituição Federal de 1988, definiram a função social da propriedade e sua aplicação prioritária nas políticas de desenvolvimento econômico urbano.",
+        "C": "O Art. 21, inciso XX, e o Art. 23, IX, da Constituição Federal de 1988 disciplinaram a competência da União e dos entes federativos na execução direta de políticas habitacionais.",
+        "D": "O Arts. 6º e o Art. 7º da Constituição Federal de 1988 asseguraram o direito à moradia e estabeleceram parâmetros para sua implementação por meio de políticas urbanas integradas.",
+        "E": "Os Art. 182 e o Art. 225 da Constituição Federal de 1988 articularam a política urbana com a proteção ambiental e definindo instrumentos para o desenvolvimento sustentável nas cidades."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 30,
@@ -338,7 +508,24 @@
         "B": "O planejamento urbano refere-se à elaboração de propostas arquitetônicas detalhadas para áreas específicas; o projeto urbano consiste na formulação de políticas públicas e instrumentos legais de ordenamento territorial em escala municipal.",
         "C": "O planejamento urbano opera em escala macro, com definição de diretrizes e estratégias de ordenamento territorial; o projeto urbano atua em escala localizada, materializando espacialmente intervenções específicas por meio de soluções formais.",
         "D": "O planejamento urbano concentra-se exclusivamente na regulação do uso do solo por meio de legislação; o projeto urbano limita-se à definição de parâmetros econômicos e financeiros para viabilização de intervenções.",
-        "E": "O planejamento urbano corresponde à organização estética da paisagem urbana em escala local; o projeto urbano trata da coordenação institucional entre entes federativos para implementação de políticas urbanas. À luz das transformações contemporâneas no uso do solo urbano, o processo denominado amazonização — associado à expansão do comércio eletrônico por plataformas como a Amazon — reconfigura a funcionalidade urbana e as dinâmicas de centralidade, especialmente no que se refere à substituição de usos comerciais tradicionais por estruturas logísticas e seus efeitos sobre a vitalidade dos espaços urbanos. Sobre o tema, analise as afirmativas a seguir. I. A “amazonização” invariavelmente promove a intensificação do uso comercial do solo em áreas centrais, ampliando a presença de lojas físicas e reforçando a multifuncionalidade urbana por meio da integração entre varejo digital e espaços tradicionais de consumo. II. A “amazonização” resulta na homogeneização do uso do solo urbano, eliminando a necessidade de infraestruturas logísticas e consolidando o comércio exclusivamente em plataformas digitais, sem resultar em efeitos territoriais relevantes. III. A “amazonização” tende a reconfigurar o uso do solo urbano ao reduzir a demanda por comércio físico, substituindo lojas por centros logísticos e alterando a funcionalidade de áreas comerciais, com impactos na vitalidade urbana e nas dinâmicas de centralidade. Está correto o que se afirma em (A) I, apenas. (B) II, apenas. (C) III, apenas. (D) I e II, apenas. (E) I e III, apenas."
+        "E": "O planejamento urbano corresponde à organização estética da paisagem urbana em escala local; o projeto urbano trata da coordenação institucional entre entes federativos para implementação de políticas urbanas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 31,
+      "discipline": null,
+      "statement": "À luz das transformações contemporâneas no uso do solo urbano, o processo denominado amazonização — associado à expansão do comércio eletrônico por plataformas como a Amazon — reconfigura a funcionalidade urbana e as dinâmicas de centralidade, especialmente no que se refere à substituição de usos comerciais tradicionais por estruturas logísticas e seus efeitos sobre a vitalidade dos espaços urbanos. Sobre o tema, analise as afirmativas a seguir. I. A “amazonização” invariavelmente promove a intensificação do uso comercial do solo em áreas centrais, ampliando a presença de lojas físicas e reforçando a multifuncionalidade urbana por meio da integração entre varejo digital e espaços tradicionais de consumo. II. A “amazonização” resulta na homogeneização do uso do solo urbano, eliminando a necessidade de infraestruturas logísticas e consolidando o comércio exclusivamente em plataformas digitais, sem resultar em efeitos territoriais relevantes. III. A “amazonização” tende a reconfigurar o uso do solo urbano ao reduzir a demanda por comércio físico, substituindo lojas por centros logísticos e alterando a funcionalidade de áreas comerciais, com impactos na vitalidade urbana e nas dinâmicas de centralidade. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I e III, apenas."
       },
       "answer": "C",
       "annulled": false,
@@ -355,13 +542,64 @@
         "B": "Como instrumento complementar ao planejamento urbano, exigido para subsidiar decisões sobre uso do solo quando houver potencial de significativa degradação ambiental.",
         "C": "Como exigência restrita a projetos habitacionais populares, com necessidade de análise técnica ambiental detalhada prévia, quando o empreendimento ultrapassar 5.000 unidades habitacionais.",
         "D": "Como mecanismo substitutivo do estudo de impacto de vizinhança em qualquer tipo de empreendimento urbano municipal que apresente riscos ambientais significativos.",
-        "E": "Como procedimento administrativo de natureza simplificada, cuja exigência pode ser desnecessária em áreas urbanas consolidadas, mesmo diante de atividades potencialmente poluidoras. Em uma metrópole latino-americana marcada por forte segregação socioespacial e expansão periférica, a implantação de um novo conjunto de equipamentos urbanos e comunitários (escola de ensino fundamental, unidade básica de saúde, centro cultural e área esportiva) deve obedecer a princípios contemporâneos de planejamento urbano inclusivo. Considerando os conceitos de acessibilidade universal, justiça espacial, centralidade policêntrica e integração com sistemas de mobilidade sustentável, assinale a opção que indica a estratégia adequada de localização desses equipamentos. (A) Concentrar todos os equipamentos em uma única centralidade metropolitana, aproveitando a infraestrutura existente e maximizando a eficiência econômica e administrativa. (B) Implantar os equipamentos em áreas de expansão imobiliária recente, com o objetivo de induzir o desenvolvimento urbano e atrair investimentos, reforçando os processos de gentrificação e de segregação urbana. (C) Localizar os equipamentos em zonas industriais subutilizadas, priorizando a disponibilidade de grandes terrenos e a expansão futura das instalações, ainda que essas áreas apresentem pouca acessibilidade para pedestres e distanciamento significativo das áreas residenciais mais densas. (D) Distribuir os equipamentos em centralidades de bairro conectadas por transporte público de média capacidade, priorizando áreas de maior vulnerabilidade social e garantindo acessibilidade a pé em um raio de até 15 minutos. (E) Distribuir os equipamentos de forma homogênea e geometricamente regular no território urbano, a despeito de variações de densidade populacional, indicadores socioeconômicos e padrões de mobilidade. Em projetos de requalificação urbana contemporânea, a inserção de mobiliário urbano (como abrigos de ônibus, painéis publicitários, parklets e elementos paisagísticos) deve atender simultaneamente a critérios estéticos, funcionais e de segurança viária. Considerando os princípios de visibilidade urbana, segurança do pedestre, legibilidade espacial e prevenção de conflitos no sistema viário, assinale a opção que apresenta a diretriz adequada para o desenho e a localização de mobiliário urbano. que evite a obstrução da visibilidade da via pública. (A) Projetar e posicionar o mobiliário urbano de modo a preservar os cones de visibilidade em interseções e travessias, garantindo transparência visual ou afastamentos mínimos normativos, especialmente em esquinas e áreas de conflito entre pedestres e veículos. de forma a assegurar segurança viária e legibilidade do espaço urbano. (B) Priorizar a expressividade e o impacto visual do mobiliário urbano como elemento de identidade urbana, admitindo sua implantação em esquinas e áreas de travessia desde que contribua para a qualificação estética do espaço. sem que isso resulte em obstruções parciais da visibilidade entre motoristas e pedestres. (C) Concentrar os elementos de mobiliário urbano em pontos estratégicos de alta circulação, como cruzamentos e acessos principais, com o objetivo de maximizar sua funcionalidade e visibilidade publicitária, ainda que isso implique na criação parcial de barreiras visuais. que dificultem de forma diminuta a percepção antecipada de fluxos conflitantes no sistema viário. (D) Implantar mobiliário urbano de grande porte e baixa transparência em calçadas amplas e canteiros centrais, considerando que a largura disponível mitiga eventuais prejuízos à visibilidade, independentemente da posição relativa às interseções e das dinâmicas de circulação de pedestres e veículos. (E) Adotar uma distribuição homogênea do mobiliário urbano ao longo das vias, baseada em critérios geométricos regulares e padronização expressiva, sem considerar as especificidades locais de visibilidade, fluxos e pontos críticos de conflito. uma vez que a repetição tipológica garante organização espacial suficiente. Em áreas urbanas densamente arborizadas e com elevado índice de interrupções por interferência vegetal em redes aéreas de média tensão, a migração para sistemas de distribuição subterrâneos é frequentemente considerada. Sob a perspectiva técnico-econômica e ambiental assinale a opção que indica em quais condições a adoção de fiação subterrânea é mais pertinente quando comparada à manutenção de redes aéreas com soluções mitigadoras? (A) Quando a arborização urbana é composta majoritariamente por espécies de pequeno porte, com baixa interferência na rede elétrica existente. (B) Quando a presença de harmônicos na rede exige blindagem eletromagnética, sendo o sistema subterrâneo a única solução tecnicamente viável. (C) Quando há elevada densidade de carga, restrição severa de espaço aéreo urbano e altos custos com poda e manutenção, justificando o investimento elevado. (D) Quando a rede aérea apresenta baixo índice de falhas, mas há interesse estético na remoção dos condutores visíveis, sem considerar a análise de custo-benefício. (E) Quando a substituição reduz integralmente os custos totais do sistema elétrico, independentemente da densidade de carga e das características urbanas locais."
+        "E": "Como procedimento administrativo de natureza simplificada, cuja exigência pode ser desnecessária em áreas urbanas consolidadas, mesmo diante de atividades potencialmente poluidoras."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 33,
+      "discipline": null,
+      "statement": "Em uma metrópole latino-americana marcada por forte segregação socioespacial e expansão periférica, a implantação de um novo conjunto de equipamentos urbanos e comunitários (escola de ensino fundamental, unidade básica de saúde, centro cultural e área esportiva) deve obedecer a princípios contemporâneos de planejamento urbano inclusivo. Considerando os conceitos de acessibilidade universal, justiça espacial, centralidade policêntrica e integração com sistemas de mobilidade sustentável, assinale a opção que indica a estratégia adequada de localização desses equipamentos.",
+      "alternatives": {
+        "A": "Concentrar todos os equipamentos em uma única centralidade metropolitana, aproveitando a infraestrutura existente e maximizando a eficiência econômica e administrativa.",
+        "B": "Implantar os equipamentos em áreas de expansão imobiliária recente, com o objetivo de induzir o desenvolvimento urbano e atrair investimentos, reforçando os processos de gentrificação e de segregação urbana.",
+        "C": "Localizar os equipamentos em zonas industriais subutilizadas, priorizando a disponibilidade de grandes terrenos e a expansão futura das instalações, ainda que essas áreas apresentem pouca acessibilidade para pedestres e distanciamento significativo das áreas residenciais mais densas.",
+        "D": "Distribuir os equipamentos em centralidades de bairro conectadas por transporte público de média capacidade, priorizando áreas de maior vulnerabilidade social e garantindo acessibilidade a pé em um raio de até 15 minutos.",
+        "E": "Distribuir os equipamentos de forma homogênea e geometricamente regular no território urbano, a despeito de variações de densidade populacional, indicadores socioeconômicos e padrões de mobilidade."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 34,
+      "discipline": null,
+      "statement": "Em projetos de requalificação urbana contemporânea, a inserção de mobiliário urbano (como abrigos de ônibus, painéis publicitários, parklets e elementos paisagísticos) deve atender simultaneamente a critérios estéticos, funcionais e de segurança viária. Considerando os princípios de visibilidade urbana, segurança do pedestre, legibilidade espacial e prevenção de conflitos no sistema viário, assinale a opção que apresenta a diretriz adequada para o desenho e a localização de mobiliário urbano. que evite a obstrução da visibilidade da via pública.",
+      "alternatives": {
+        "A": "Projetar e posicionar o mobiliário urbano de modo a preservar os cones de visibilidade em interseções e travessias, garantindo transparência visual ou afastamentos mínimos normativos, especialmente em esquinas e áreas de conflito entre pedestres e veículos. de forma a assegurar segurança viária e legibilidade do espaço urbano.",
+        "B": "Priorizar a expressividade e o impacto visual do mobiliário urbano como elemento de identidade urbana, admitindo sua implantação em esquinas e áreas de travessia desde que contribua para a qualificação estética do espaço. sem que isso resulte em obstruções parciais da visibilidade entre motoristas e pedestres.",
+        "C": "Concentrar os elementos de mobiliário urbano em pontos estratégicos de alta circulação, como cruzamentos e acessos principais, com o objetivo de maximizar sua funcionalidade e visibilidade publicitária, ainda que isso implique na criação parcial de barreiras visuais. que dificultem de forma diminuta a percepção antecipada de fluxos conflitantes no sistema viário.",
+        "D": "Implantar mobiliário urbano de grande porte e baixa transparência em calçadas amplas e canteiros centrais, considerando que a largura disponível mitiga eventuais prejuízos à visibilidade, independentemente da posição relativa às interseções e das dinâmicas de circulação de pedestres e veículos.",
+        "E": "Adotar uma distribuição homogênea do mobiliário urbano ao longo das vias, baseada em critérios geométricos regulares e padronização expressiva, sem considerar as especificidades locais de visibilidade, fluxos e pontos críticos de conflito. uma vez que a repetição tipológica garante organização espacial suficiente."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "Em áreas urbanas densamente arborizadas e com elevado índice de interrupções por interferência vegetal em redes aéreas de média tensão, a migração para sistemas de distribuição subterrâneos é frequentemente considerada. Sob a perspectiva técnico-econômica e ambiental assinale a opção que indica em quais condições a adoção de fiação subterrânea é mais pertinente quando comparada à manutenção de redes aéreas com soluções mitigadoras?",
+      "alternatives": {
+        "A": "Quando a arborização urbana é composta majoritariamente por espécies de pequeno porte, com baixa interferência na rede elétrica existente.",
+        "B": "Quando a presença de harmônicos na rede exige blindagem eletromagnética, sendo o sistema subterrâneo a única solução tecnicamente viável.",
+        "C": "Quando há elevada densidade de carga, restrição severa de espaço aéreo urbano e altos custos com poda e manutenção, justificando o investimento elevado.",
+        "D": "Quando a rede aérea apresenta baixo índice de falhas, mas há interesse estético na remoção dos condutores visíveis, sem considerar a análise de custo-benefício.",
+        "E": "Quando a substituição reduz integralmente os custos totais do sistema elétrico, independentemente da densidade de carga e das características urbanas locais."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 36,
@@ -372,9 +610,26 @@
         "B": "Concentrar os investimentos públicos em novas frentes de urbanização de baixa densidade, assumindo que o envelhecimento populacional reduzirá estruturalmente a demanda por moradia bem localizada e por centralidades acessíveis.",
         "C": "Substituir a produção habitacional subsidiada por vouchers universais de mercado (para o pagamento de aluguel), sem regulação fundiária nem intervenção sobre imóveis subutilizados, porque a oferta privada tenderá a ocupar espontaneamente os vazios urbanos existentes.",
         "D": "Preservar os vazios urbanos centrais como estoque estratégico de valorização imobiliária futura e deslocar a habitação de interesse social para áreas metropolitanas externas, onde a terra é mais abundante e os conflitos de uso do solo são menores.",
-        "E": "Direcionar a política habitacional para a reabilitação e o Leia o fragmento a seguir. A concepção de cidade igualitária enfatiza a necessidade de reorganizar o território urbano para reduzir desigualdades estruturais e assimetrias nos diferentes territórios. Especialmente no que se refere à relação entre mobilidade urbana e justiça espacial. Bernardo Secchi, arquiteto-urbanista italiano. (Adaptado) A partir do fragmento acima, assinale a opção que melhor expressa uma estratégia coerente com essa abordagem. (A) Implementar corredores exclusivos de transporte rápido em áreas de alto valor imobiliário, com o objetivo de atrair investimentos privados e estimular a valorização urbana. (B) Adotar políticas de tarifação dinâmica no transporte público baseadas na capacidade de pagamento dos usuários, buscando maximizar a sustentabilidade financeira do sistema. (C) Priorizar investimentos em sistemas de transporte de alta capacidade que conectem centralidades já consolidadas, reforçando a eficiência econômica e a competitividade urbana global. (D) Incentivar a descentralização de empregos e serviços, combinada com redes de mobilidade multimodal acessíveis, de modo a reduzir a dependência de deslocamentos longos e promover maior equidade territorial. (E) Promover a expansão de infraestruturas viárias periféricas voltadas para o transporte individual motorizado, de modo a reduzir o tempo médio de deslocamento da população de baixa renda, ainda que isso implique maior fragmentação territorial."
+        "E": "Direcionar a política habitacional para a reabilitação e o reaproveitamento de imóveis vazios e ociosos em áreas urbanas consolidadas, articulando locação social, diversidade tipológica, adensamento qualificado e instrumentos de indução ao cumprimento da função social da propriedade."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 37,
+      "discipline": null,
+      "statement": "Leia o fragmento a seguir. A concepção de cidade igualitária enfatiza a necessidade de reorganizar o território urbano para reduzir desigualdades estruturais e assimetrias nos diferentes territórios. Especialmente no que se refere à relação entre mobilidade urbana e justiça espacial. Bernardo Secchi, arquiteto-urbanista italiano. (Adaptado) A partir do fragmento acima, assinale a opção que melhor expressa uma estratégia coerente com essa abordagem.",
+      "alternatives": {
+        "A": "Implementar corredores exclusivos de transporte rápido em áreas de alto valor imobiliário, com o objetivo de atrair investimentos privados e estimular a valorização urbana.",
+        "B": "Adotar políticas de tarifação dinâmica no transporte público baseadas na capacidade de pagamento dos usuários, buscando maximizar a sustentabilidade financeira do sistema.",
+        "C": "Priorizar investimentos em sistemas de transporte de alta capacidade que conectem centralidades já consolidadas, reforçando a eficiência econômica e a competitividade urbana global.",
+        "D": "Incentivar a descentralização de empregos e serviços, combinada com redes de mobilidade multimodal acessíveis, de modo a reduzir a dependência de deslocamentos longos e promover maior equidade territorial.",
+        "E": "Promover a expansão de infraestruturas viárias periféricas voltadas para o transporte individual motorizado, de modo a reduzir o tempo médio de deslocamento da população de baixa renda, ainda que isso implique maior fragmentação territorial."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -389,13 +644,30 @@
         "B": "II, apenas.",
         "C": "III, apenas.",
         "D": "I e II, apenas.",
-        "E": "I e III, apenas. Considerando o regime jurídico estabelecido pela Lei nº 14.133/2021, analise a situação hipotética a seguir. Um ente público pretende contratar uma obra de grande complexidade técnica e elevado valor, optando por estruturar a licitação com base em critérios que assegurem não apenas a proposta mais vantajosa economicamente, mas também a observância de padrões de sustentabilidade, inovação e integridade. Nesse contexto, à luz do conceito, finalidade e princípios das licitações públicas, assinale a opção que expressa, corretamente, a interpretação sistemática e contemporânea da Lei. (A) A licitação destina-se exclusivamente à seleção da proposta de menor preço, sendo vedada a consideração de critérios subjetivos como sustentabilidade ou inovação, em razão do princípio da vinculação ao instrumento convocatório. (B) A finalidade da licitação restringe-se à garantia da isonomia entre os licitantes, não sendo admissível a incorporação de critérios relacionados ao desenvolvimento nacional sustentável ou à promoção da inovação tecnológica. (C) A licitação, tem por finalidade assegurar a proposta mais vantajosa, podendo incorporar critérios de sustentabilidade, inovação e integridade, desde que observados os princípios da legalidade, isonomia, planejamento e julgamento objetivo. (D) O princípio do julgamento objetivo impede a Administração Pública de adotar critérios técnicos e qualitativos complexos, devendo a escolha recair sempre sobre parâmetros exclusivamente quantitativos e mensuráveis. (E) A licitação deve priorizar a celeridade procedimental em detrimento da análise técnica aprofundada, mesmo que isso comprometa a obtenção da proposta que melhor considera as questões ambientais."
+        "E": "I e III, apenas."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 39,
+      "discipline": null,
+      "statement": "Considerando o regime jurídico estabelecido pela Lei nº 14.133/2021, analise a situação hipotética a seguir. Um ente público pretende contratar uma obra de grande complexidade técnica e elevado valor, optando por estruturar a licitação com base em critérios que assegurem não apenas a proposta mais vantajosa economicamente, mas também a observância de padrões de sustentabilidade, inovação e integridade. Nesse contexto, à luz do conceito, finalidade e princípios das licitações públicas, assinale a opção que expressa, corretamente, a interpretação sistemática e contemporânea da Lei.",
+      "alternatives": {
+        "A": "A licitação destina-se exclusivamente à seleção da proposta de menor preço, sendo vedada a consideração de critérios subjetivos como sustentabilidade ou inovação, em razão do princípio da vinculação ao instrumento convocatório.",
+        "B": "A finalidade da licitação restringe-se à garantia da isonomia entre os licitantes, não sendo admissível a incorporação de critérios relacionados ao desenvolvimento nacional sustentável ou à promoção da inovação tecnológica.",
+        "C": "A licitação, tem por finalidade assegurar a proposta mais vantajosa, podendo incorporar critérios de sustentabilidade, inovação e integridade, desde que observados os princípios da legalidade, isonomia, planejamento e julgamento objetivo.",
+        "D": "O princípio do julgamento objetivo impede a Administração Pública de adotar critérios técnicos e qualitativos complexos, devendo a escolha recair sempre sobre parâmetros exclusivamente quantitativos e mensuráveis.",
+        "E": "A licitação deve priorizar a celeridade procedimental em detrimento da análise técnica aprofundada, mesmo que isso comprometa a obtenção da proposta que melhor considera as questões ambientais."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 40,
@@ -406,9 +678,26 @@
         "B": "A dispensa e a inexigibilidade de licitação são hipóteses idênticas, ambas caracterizadas pela obrigatoriedade de realização do certame, salvo decisão discricionária da autoridade administrativa.",
         "C": "A licitação é facultativa para a Administração Pública, podendo ser substituída por contratação direta sempre que houver justificativa de interesse público, independentemente de previsão legal específica.",
         "D": "A inexigibilidade de licitação ocorre quando há possibilidade de competição entre fornecedores, enquanto a dispensa se aplica apenas a situações em que a Administração não deseja realizar o procedimento licitatório.",
-        "E": "A licitação é obrigatória como regra, admitindo-se a contratação direta apenas nos casos de dispensa ou inexigibilidade previstos em lei, sendo vedada a licitação quando houver inviabilidade de competição. Com base na Lei nº 14.133/2021, que disciplina as modalidades de licitação aplicáveis às obras públicas, assinale a afirmativa correta. (A) O pregão é a modalidade obrigatória para contratação de obras públicas, independentemente de sua natureza comum ou especial. (B) O concurso é a modalidade usada para contratação direta de empresas de engenharia para execução de obras públicas de grande porte. (C) A concorrência é usada apenas para contratações de pequeno valor, sendo dispensada em obras de grande vulto ou alta complexidade técnica. (D) A concorrência é a modalidade de licitação adequada para a contratação de obras e serviços de engenharia, quando não se trata de bens e serviços comuns. (E) O leilão é a modalidade mais adequada para a contratação de obras públicas, pois permite maior competitividade entre os interessados na execução do objeto."
+        "E": "A licitação é obrigatória como regra, admitindo-se a contratação direta apenas nos casos de dispensa ou inexigibilidade previstos em lei, sendo vedada a licitação quando houver inviabilidade de competição."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 41,
+      "discipline": null,
+      "statement": "Com base na Lei nº 14.133/2021, que disciplina as modalidades de licitação aplicáveis às obras públicas, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O pregão é a modalidade obrigatória para contratação de obras públicas, independentemente de sua natureza comum ou especial.",
+        "B": "O concurso é a modalidade usada para contratação direta de empresas de engenharia para execução de obras públicas de grande porte.",
+        "C": "A concorrência é usada apenas para contratações de pequeno valor, sendo dispensada em obras de grande vulto ou alta complexidade técnica.",
+        "D": "A concorrência é a modalidade de licitação adequada para a contratação de obras e serviços de engenharia, quando não se trata de bens e serviços comuns.",
+        "E": "O leilão é a modalidade mais adequada para a contratação de obras públicas, pois permite maior competitividade entre os interessados na execução do objeto."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -440,13 +729,30 @@
         "B": "A liberdade irrestrita para alteração contratual por ambas as partes, independentemente de justificativa orçamentária ou técnica.",
         "C": "A presença de cláusulas que conferem à Administração prerrogativas especiais, como a alteração unilateral e a rescisão motivada.",
         "D": "A igualdade absoluta entre as partes, sem prerrogativas específicas para a Administração Pública contratante, mas sim para as sociedades empresárias contratadas.",
-        "E": "Em casos restritos às obras de edificações de médio porte, a ausência de formalização escrita obrigatória, podendo o contrato ser celebrado oralmente, com base na lei. A equipe de projeto de um conjunto habitacional, concebido sob os princípios da coordenação modular, pretende compatibilizar industrialização, repetibilidade de componentes, redução de perdas e velocidade executiva, sem produzir uma espacialidade monótona ou rigidamente serial. Considerando a lógica de racionalização construtiva e a compatibilidade dimensional entre elementos e componentes, em relação à estratégia projetual que melhor concilia padronização técnica e dinâmica espacial qualificada, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Adotar uma modulação apenas na etapa estrutural, liberando, integralmente, as vedações, as esquadrias e as compartimentações internas para dimensões não coordenadas, pois a diversidade espacial aumenta quando cada componente pode romper autonomamente a malha dimensional originalmente prevista. ( ) Priorizar a liberdade plástica da forma arquitetônica e, apenas ao final do projeto, ajustar artesanalmente componentes industrializados às medidas resultantes, aceitando cortes, arremates e compensações em obra como procedimento legítimo para preservar dinamismo espacial. ( ) Estabelecer uma malha modular comum e estável, mas permitir variações controladas de cheios e vazios, recuos, encaixes volumétricos, ritmos de fachada e combinações tipológicas, desde que todos os ajustes permaneçam compatíveis com a modulação de base e com a coordenação entre componentes, sistemas e subsistemas. As afirmativas são, respectivamente, (A) V – V – F. (B) F – V – V. (C) V – F – F. (D) F – V – F. (E) F – F – V."
+        "E": "Em casos restritos às obras de edificações de médio porte, a ausência de formalização escrita obrigatória, podendo o contrato ser celebrado oralmente, com base na lei."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "A equipe de projeto de um conjunto habitacional, concebido sob os princípios da coordenação modular, pretende compatibilizar industrialização, repetibilidade de componentes, redução de perdas e velocidade executiva, sem produzir uma espacialidade monótona ou rigidamente serial. Considerando a lógica de racionalização construtiva e a compatibilidade dimensional entre elementos e componentes, em relação à estratégia projetual que melhor concilia padronização técnica e dinâmica espacial qualificada, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Adotar uma modulação apenas na etapa estrutural, liberando, integralmente, as vedações, as esquadrias e as compartimentações internas para dimensões não coordenadas, pois a diversidade espacial aumenta quando cada componente pode romper autonomamente a malha dimensional originalmente prevista. ( ) Priorizar a liberdade plástica da forma arquitetônica e, apenas ao final do projeto, ajustar artesanalmente componentes industrializados às medidas resultantes, aceitando cortes, arremates e compensações em obra como procedimento legítimo para preservar dinamismo espacial. ( ) Estabelecer uma malha modular comum e estável, mas permitir variações controladas de cheios e vazios, recuos, encaixes volumétricos, ritmos de fachada e combinações tipológicas, desde que todos os ajustes permaneçam compatíveis com a modulação de base e com a coordenação entre componentes, sistemas e subsistemas. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "F – V – V.",
+        "C": "V – F – F.",
+        "D": "F – V – F.",
+        "E": "F – F – V."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     },
     {
       "question_number": 45,
@@ -457,13 +763,47 @@
         "B": "Sustenta que a adoção de médias populacionais continua sendo a forma mais eficiente de projetar, desde que acompanhada por ajustes posteriores realizados pelos próprios usuários conforme suas necessidades individuais.",
         "C": "Defende que a ergonomia deve priorizar exclusivamente grupos com deficiência permanente, uma vez que estes representam o maior desafio adaptativo, tornando desnecessária a consideração de outros perfis corporais.",
         "D": "Argumenta que a padronização baseada em dados antropométricos históricos permanece válida, pois as variações corporais não impactam o desempenho funcional.",
-        "E": "Afirma que a ergonomia deve se concentrar em aspectos biomecânicos universais, considerando irrelevantes as diferenças culturais, cognitivas e contextuais na interação entre humanos e artefatos. Em um edifício institucional localizado em clima quente e úmido, buscou-se maximizar o conforto térmico passivo com o uso mínimo de sistemas mecânicos. Considerando a integração de estratégias bioclimáticas, como ventilação cruzada, massa térmica e dispositivos de indução de fluxo de ar, a chaminé de vento (windcatcher) atua no desempenho térmico do edifício. Exemplo de chaminé de vento na Universidade do Qatar, em Doha. Fonte: Sky2105 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17433609 Esquema da chaminé de vento na Universidade do Qatar. Fonte: Yan DU. (2022). Design Strategy of Building Components Based on Passive Ventilation Technology. In: Amos, H.C. et alli (org). Advances in Transdisciplinary Engineering. Volume 31: Amsterdam: IOS Press. A partir disso, assinale a opção que descreve o mecanismo físico pelo qual a chaminé de vento contribui para o conforto térmico interno. (A) A chaminé de vento atua principalmente como isolante térmico vertical, impedindo a entrada de calor por radiação direta e reduzindo a necessidade de ventilação cruzada ao bloquear completamente o fluxo de ar externo. (B) O principal mecanismo da chaminé de vento é o resfriamento evaporativo interno por meio da condensação do vapor d’água nas paredes, sendo independente das condições de vento e das diferenças de pressão atmosférica. (C) A chaminé de vento aumenta o conforto térmico ao armazenar calor durante o dia e liberá-lo à noite, funcionando como massa térmica ativa, sem influência significativa na circulação de ar no interior do edifício. (D) A chaminé de vento promove a ventilação natural captando os ventos dominantes e induzindo a exaustão do ar quente interno, o que intensifica a renovação do ar e reduz a temperatura operativa percebida pelos ocupantes. (E) A eficiência da chaminé de vento depende exclusivamente da Em um edifício de escritórios localizado em baixa latitude, com alta incidência de radiação solar ao longo do ano, busca-se otimizar o conforto lumínico e reduzir o consumo energético com iluminação artificial. Considerando o uso de prateleiras de luz (light shelves), de superfícies refletoras internas e do controle do ofuscamento, assinale a opção que descreve o princípio físico pelo qual as prateleiras de luz contribuem para a melhoria da iluminação natural e do conforto visual. (A) As prateleiras de luz funcionam principalmente como dispositivos de absorção luminosa, reduzindo a intensidade da luz natural no ambiente para evitar contrastes, sem influência significativa na distribuição espacial da iluminância. (B) O principal efeito das prateleiras de luz é direcionar a radiação solar diretamente para o plano de trabalho, aumentando a iluminância pontual e reduzindo a necessidade de superfícies refletoras internas. (C) As prateleiras de luz atuam como barreiras opacas que eliminam completamente a entrada de luz solar direta, substituindo integralmente a iluminação natural por iluminação artificial difusa controlada. (D) As prateleiras de luz refletem a radiação solar incidente para o teto, promovendo uma iluminação difusa no interior do ambiente, reduzindo o ofuscamento direto e melhorando a iluminância. (E) A eficiência das prateleiras de luz depende exclusivamente do uso de materiais translúcidos e da incidência solar perpendicular, sendo irrelevante a refletância do teto ou a profundidade do ambiente interno."
+        "E": "Afirma que a ergonomia deve se concentrar em aspectos biomecânicos universais, considerando irrelevantes as diferenças culturais, cognitivas e contextuais na interação entre humanos e artefatos."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11
+    },
+    {
+      "question_number": 46,
+      "discipline": null,
+      "statement": "Em um edifício institucional localizado em clima quente e úmido, buscou-se maximizar o conforto térmico passivo com o uso mínimo de sistemas mecânicos. Considerando a integração de estratégias bioclimáticas, como ventilação cruzada, massa térmica e dispositivos de indução de fluxo de ar, a chaminé de vento (windcatcher) atua no desempenho térmico do edifício. Exemplo de chaminé de vento na Universidade do Qatar, em Doha. Fonte: Sky2105 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17433609 Esquema da chaminé de vento na Universidade do Qatar. Fonte: Yan DU. (2022). Design Strategy of Building Components Based on Passive Ventilation Technology. In: Amos, H.C. et alli (org). Advances in Transdisciplinary Engineering. Volume 31: Amsterdam: IOS Press. A partir disso, assinale a opção que descreve o mecanismo físico pelo qual a chaminé de vento contribui para o conforto térmico interno.",
+      "alternatives": {
+        "A": "A chaminé de vento atua principalmente como isolante térmico vertical, impedindo a entrada de calor por radiação direta e reduzindo a necessidade de ventilação cruzada ao bloquear completamente o fluxo de ar externo.",
+        "B": "O principal mecanismo da chaminé de vento é o resfriamento evaporativo interno por meio da condensação do vapor d’água nas paredes, sendo independente das condições de vento e das diferenças de pressão atmosférica.",
+        "C": "A chaminé de vento aumenta o conforto térmico ao armazenar calor durante o dia e liberá-lo à noite, funcionando como massa térmica ativa, sem influência significativa na circulação de ar no interior do edifício.",
+        "D": "A chaminé de vento promove a ventilação natural captando os ventos dominantes e induzindo a exaustão do ar quente interno, o que intensifica a renovação do ar e reduz a temperatura operativa percebida pelos ocupantes.",
+        "E": "A eficiência da chaminé de vento depende exclusivamente da altura do edifício e da incidência solar direta, sendo irrelevante a orientação em relação aos ventos predominantes ou a configuração das aberturas internas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-arquiteto_q46.png",
+      "page_number": 11
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "Em um edifício de escritórios localizado em baixa latitude, com alta incidência de radiação solar ao longo do ano, busca-se otimizar o conforto lumínico e reduzir o consumo energético com iluminação artificial. Considerando o uso de prateleiras de luz (light shelves), de superfícies refletoras internas e do controle do ofuscamento, assinale a opção que descreve o princípio físico pelo qual as prateleiras de luz contribuem para a melhoria da iluminação natural e do conforto visual.",
+      "alternatives": {
+        "A": "As prateleiras de luz funcionam principalmente como dispositivos de absorção luminosa, reduzindo a intensidade da luz natural no ambiente para evitar contrastes, sem influência significativa na distribuição espacial da iluminância.",
+        "B": "O principal efeito das prateleiras de luz é direcionar a radiação solar diretamente para o plano de trabalho, aumentando a iluminância pontual e reduzindo a necessidade de superfícies refletoras internas.",
+        "C": "As prateleiras de luz atuam como barreiras opacas que eliminam completamente a entrada de luz solar direta, substituindo integralmente a iluminação natural por iluminação artificial difusa controlada.",
+        "D": "As prateleiras de luz refletem a radiação solar incidente para o teto, promovendo uma iluminação difusa no interior do ambiente, reduzindo o ofuscamento direto e melhorando a iluminância.",
+        "E": "A eficiência das prateleiras de luz depende exclusivamente do uso de materiais translúcidos e da incidência solar perpendicular, sendo irrelevante a refletância do teto ou a profundidade do ambiente interno."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     },
     {
       "question_number": 48,
@@ -474,9 +814,26 @@
         "B": "Os sistemas fotovoltaicos e de reuso de águas pluviais podem ser implementados de forma independente, sem necessidade de compatibilização com os projetos hidráulico e elétrico, desde que atendam às demandas básicas do usuário.",
         "C": "A adoção de sistemas de energia solar e de aproveitamento de águas pluviais dispensa o detalhamento técnico, pois são considerados soluções padronizadas de fácil adaptação.",
         "D": "Os projetos de reuso de águas pluviais e geração fotovoltaica substituem integralmente os sistemas convencionais de abastecimento de água e energia elétrica, eliminando a necessidade de conexão com as redes públicas.",
-        "E": "Os projetos complementares de energia solar fotovoltaica e de reuso de águas pluviais passaram a ser tratados como soluções de baixa complexidade, que dependem mais de escolha estética e comercial do que de critérios de desempenho e segurança. Sobre a responsabilidade técnica no exercício profissional da Arquitetura e Urbanismo, de acordo com o CAU/BR, assinale a afirmativa correta. (A) Atuação facultativa do arquiteto e urbanista em serviços executados, dispensando registro formal por meio de documento específico, sem exigência de conformidade com normas técnicas, segurança, qualidade ou interesse público. (B) Atribuição exclusiva do cliente sobre os serviços executados, independentemente de registro formal por meio de documento específico, não envolvendo o arquiteto quanto à conformidade com as normas técnicas. (C) Limitação da atuação do arquiteto e urbanista à fase de concepção do projeto, sem necessidade de registro formal, nem obrigação de assegurar conformidade com a segurança, a qualidade ou o interesse público. (D) Obrigação legal do arquiteto e urbanista de responder pelos serviços executados, mediante registro formal por meio de documento específico, conforme as normas técnicas, a segurança, a qualidade e o interesse público. (E) Consiste na formalização documental sem vínculo com a execução dos serviços, ainda que haja registro por meio de documento específico, não implicando dever de assegurar conformidade com normas técnicas, segurança, qualidade ou interesse público."
+        "E": "Os projetos complementares de energia solar fotovoltaica e de reuso de águas pluviais passaram a ser tratados como soluções de baixa complexidade, que dependem mais de escolha estética e comercial do que de critérios de desempenho e segurança."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 49,
+      "discipline": null,
+      "statement": "Sobre a responsabilidade técnica no exercício profissional da Arquitetura e Urbanismo, de acordo com o CAU/BR, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Atuação facultativa do arquiteto e urbanista em serviços executados, dispensando registro formal por meio de documento específico, sem exigência de conformidade com normas técnicas, segurança, qualidade ou interesse público.",
+        "B": "Atribuição exclusiva do cliente sobre os serviços executados, independentemente de registro formal por meio de documento específico, não envolvendo o arquiteto quanto à conformidade com as normas técnicas.",
+        "C": "Limitação da atuação do arquiteto e urbanista à fase de concepção do projeto, sem necessidade de registro formal, nem obrigação de assegurar conformidade com a segurança, a qualidade ou o interesse público.",
+        "D": "Obrigação legal do arquiteto e urbanista de responder pelos serviços executados, mediante registro formal por meio de documento específico, conforme as normas técnicas, a segurança, a qualidade e o interesse público.",
+        "E": "Consiste na formalização documental sem vínculo com a execução dos serviços, ainda que haja registro por meio de documento específico, não implicando dever de assegurar conformidade com normas técnicas, segurança, qualidade ou interesse público."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -491,13 +848,30 @@
         "B": "A intervenção é compatível com a legislação, pois a acessibilidade arquitetônica pode ser implementada de forma progressiva e setorial, sendo suficiente garantir o acesso inicial ao edifício.",
         "C": "A intervenção está em conformidade com a legislação, pois a eliminação de barreiras arquitetônicas deve priorizar elementos estruturais externos, não sendo obrigatória a adaptação de sanitários e sistemas de orientação.",
         "D": "A intervenção não atende aos parâmetros legais, mas a acessibilidade arquitetônica pode ser limitada por critérios de viabilidade econômica, desde que haja justificativa administrativa e previsão genérica de adequações futuras.",
-        "E": "A intervenção é juridicamente inválida, uma vez que a acessibilidade arquitetônica admite cumprimento parcial, desde que assegure circulação básica no espaço construído, ainda que não contemple todos os ambientes e usuários. Considerando os princípios da Lei nº 11.435/2021, analise, criticamente, a proposição a seguir. “As políticas de acessibilidade podem, simultaneamente, promover inclusão e, de forma indireta, limitar a diversidade humana quando adotam padrões técnicos rígidos e universalizantes.” Com base nessa perspectiva, assinale a opção que apresenta a interpretação juridicamente adequada. (A) A legislação de acessibilidade promove inclusão plena ao eliminar barreiras e, quando aplicada de forma contextualizada, amplia a consideração da diversidade humana. (B) A legislação de acessibilidade relaciona-se à diversidade humana porque influencia as formas de uso, interação e participação social, para além da simples eliminação de barreiras físicas. (C) A legislação de acessibilidade contribui para a inclusão social, mas sua aplicação deve ser constantemente revista para evitar que padrões técnicos se tornem excessivamente restritivos diante da pluralidade humana. (D) A legislação promove a inclusão ao garantir a acessibilidade e eliminar barreiras, mas pode limitar a diversidade humana quando sua aplicação reduz a pluralidade de corpos, experiências e modos de interação a parâmetros técnicos padronizados. (E) A padronização técnica prevista na legislação constitui um importante instrumento de inclusão social, pois estabelece critérios objetivos para a eliminação de barreiras e ampliação do acesso, contribuindo para a organização e uniformização das práticas de acessibilidade em diferentes contextos."
+        "E": "A intervenção é juridicamente inválida, uma vez que a acessibilidade arquitetônica admite cumprimento parcial, desde que assegure circulação básica no espaço construído, ainda que não contemple todos os ambientes e usuários."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "Considerando os princípios da Lei nº 11.435/2021, analise, criticamente, a proposição a seguir. “As políticas de acessibilidade podem, simultaneamente, promover inclusão e, de forma indireta, limitar a diversidade humana quando adotam padrões técnicos rígidos e universalizantes.” Com base nessa perspectiva, assinale a opção que apresenta a interpretação juridicamente adequada.",
+      "alternatives": {
+        "A": "A legislação de acessibilidade promove inclusão plena ao eliminar barreiras e, quando aplicada de forma contextualizada, amplia a consideração da diversidade humana.",
+        "B": "A legislação de acessibilidade relaciona-se à diversidade humana porque influencia as formas de uso, interação e participação social, para além da simples eliminação de barreiras físicas.",
+        "C": "A legislação de acessibilidade contribui para a inclusão social, mas sua aplicação deve ser constantemente revista para evitar que padrões técnicos se tornem excessivamente restritivos diante da pluralidade humana.",
+        "D": "A legislação promove a inclusão ao garantir a acessibilidade e eliminar barreiras, mas pode limitar a diversidade humana quando sua aplicação reduz a pluralidade de corpos, experiências e modos de interação a parâmetros técnicos padronizados.",
+        "E": "A padronização técnica prevista na legislação constitui um importante instrumento de inclusão social, pois estabelece critérios objetivos para a eliminação de barreiras e ampliação do acesso, contribuindo para a organização e uniformização das práticas de acessibilidade em diferentes contextos."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
     },
     {
       "question_number": 52,
@@ -508,9 +882,26 @@
         "B": "Uso exclusivo para pessoas com deficiência, simplificação estrutural do ambiente, eliminação de custos adicionais, padronização estética, redução de circulação e priorização de normas técnicas rígidas.",
         "C": "Uso equitativo, flexibilidade no uso, uso simples e intuitivo, informação perceptível, tolerância ao erro, baixo esforço físico e dimensões e espaços apropriados para aproximação e uso.",
         "D": "Flexibilidade construtiva, adaptação corretiva, uso técnico especializado, informação restrita, controle de riscos pelo usuário, esforço físico moderado e dimensionamento padronizado.",
-        "E": "Uso coletivo restrito, adaptação individual obrigatória, padronização funcional, comunicação técnica avançada, tolerância limitada ao erro, esforço físico controlado e espaços mínimos normativos. De acordo com a Lei nº 11.435/2021, que instituiu as diretrizes para a promoção da acessibilidade e inclusão, assinale a opção que indica, corretamente, o requisito para obtenção do selo de acessibilidade. (A) A implementação parcial de medidas de acessibilidade, desde que haja previsão de adequação futura e justificativa técnica, baseada em limitações estruturais do empreendimento. (B) A adoção de soluções de acessibilidade voltadas para a circulação básica, sendo dispensável a adaptação de todos os ambientes, desde que o acesso inicial esteja garantido. (C) A disponibilização de atendimento assistido para pessoas com deficiência, independentemente da eliminação de barreiras físicas ou da garantia de autonomia no uso dos espaços. (D) A adequação do espaço a padrões estéticos e funcionais, ainda que não contemple as normas de acessibilidade, desde que não haja impedimento de acesso. (E) O atendimento aos critérios de acessibilidade previstos na legislação, garantindo o uso autônomo e seguro do espaço por pessoas com deficiência ou mobilidade reduzida."
+        "E": "Uso coletivo restrito, adaptação individual obrigatória, padronização funcional, comunicação técnica avançada, tolerância limitada ao erro, esforço físico controlado e espaços mínimos normativos."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "De acordo com a Lei nº 11.435/2021, que instituiu as diretrizes para a promoção da acessibilidade e inclusão, assinale a opção que indica, corretamente, o requisito para obtenção do selo de acessibilidade.",
+      "alternatives": {
+        "A": "A implementação parcial de medidas de acessibilidade, desde que haja previsão de adequação futura e justificativa técnica, baseada em limitações estruturais do empreendimento.",
+        "B": "A adoção de soluções de acessibilidade voltadas para a circulação básica, sendo dispensável a adaptação de todos os ambientes, desde que o acesso inicial esteja garantido.",
+        "C": "A disponibilização de atendimento assistido para pessoas com deficiência, independentemente da eliminação de barreiras físicas ou da garantia de autonomia no uso dos espaços.",
+        "D": "A adequação do espaço a padrões estéticos e funcionais, ainda que não contemple as normas de acessibilidade, desde que não haja impedimento de acesso.",
+        "E": "O atendimento aos critérios de acessibilidade previstos na legislação, garantindo o uso autônomo e seguro do espaço por pessoas com deficiência ou mobilidade reduzida."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -542,13 +933,47 @@
         "B": "Softwares como LibreCAD e GIMP são ferramentas BIM completas, possibilitando modelagem tridimensional paramétrica e integração entre disciplinas de projeto.",
         "C": "Softwares como Revit e Archicad são livres e baseados em código aberto, garantindo interoperabilidade total sem dependência de formatos proprietários.",
         "D": "Softwares como Blender e Inkscape são plataformas BIM completas, permitindo modelagem paramétrica com dados construtivos e compatibilidade integral com padrões IFC.",
-        "E": "Softwares como o FreeCAD e o BIMserver permitem modelagem BIM com base em padrões abertos como IFC, favorecendo a interoperabilidade entre as disciplinas. Sobre o Palácio Gustavo Capanema, no Rio de Janeiro, exemplo da aplicação de estratégias bioclimáticas na arquitetura moderna brasileira, assinale a afirmativa correta. Palácio Gustavo Capanema, Rio de Janeiro. Fonte: Foto © Oscar Liberal/Iphan. (A) O edifício utiliza fachadas totalmente envidraçadas sem proteção solar, priorizando iluminação natural intensa e desconsiderando a incidência de radiação solar no clima tropical. (B) O edifício incorpora brises-soleil móveis, orientação solar adequada e ventilação cruzada, adaptando-se ao clima tropical e reduzindo a incidência direta de radiação solar nas fachadas mais expostas. (C) O edifício adota volumetria compacta sem aberturas significativas, reduzindo a ventilação natural e priorizando sistemas artificiais de climatização para conforto térmico. (D) O edifício apresenta uma implantação que desconsidera a orientação solar, com fachadas opacas homogêneas que impedem o aproveitamento de iluminação e a ventilação naturais. (E) O edifício emprega materiais de alta inércia térmica sem dispositivos de sombreamento, aumentando o ganho de calor interno e comprometendo o desempenho ambiental no clima tropical. No contexto da elaboração de documentos técnicos para suporte jurídico, considerando sua natureza, finalidade e conteúdo, assinale a opção que diferencia corretamente laudo técnico de parecer técnico. (A) São documentos equivalentes, diferenciando-se apenas pela nomenclatura adotada pelo profissional, podendo ser elaborados com ou sem inspeção direta, desde que apresentem conclusões técnicas consistentes. (B) O laudo técnico é elaborado a partir de inspeção, vistoria ou perícia direta, com a análise e as conclusões sobre os fatos; o parecer técnico é um ato opinativo baseado na interpretação dos documentos existentes, sem envolver verificação in loco. (C) O laudo técnico é exclusivamente opinativo e interpretativo; o parecer técnico deve conter obrigatoriamente inspeção de campo e coleta direta de evidências para validação das conclusões apresentadas. (D) O laudo técnico é usado apenas em contextos administrativos e preventivos; o parecer técnico destina-se exclusivamente ao uso judicial, sendo mais completo e detalhado em termos de fundamentação técnica. (E) O laudo técnico limita-se à apresentação de registros visuais e descritivos sem análise conclusiva; o parecer técnico é o documento que interpreta tecnicamente os fatos analisados e indica as responsabilidades."
+        "E": "Softwares como o FreeCAD e o BIMserver permitem modelagem BIM com base em padrões abertos como IFC, favorecendo a interoperabilidade entre as disciplinas."
       },
       "answer": "ANULADA",
       "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 13
+    },
+    {
+      "question_number": 56,
+      "discipline": null,
+      "statement": "Sobre o Palácio Gustavo Capanema, no Rio de Janeiro, exemplo da aplicação de estratégias bioclimáticas na arquitetura moderna brasileira, assinale a afirmativa correta. Palácio Gustavo Capanema, Rio de Janeiro. Fonte: Foto © Oscar Liberal/Iphan.",
+      "alternatives": {
+        "A": "O edifício utiliza fachadas totalmente envidraçadas sem proteção solar, priorizando iluminação natural intensa e desconsiderando a incidência de radiação solar no clima tropical.",
+        "B": "O edifício incorpora brises-soleil móveis, orientação solar adequada e ventilação cruzada, adaptando-se ao clima tropical e reduzindo a incidência direta de radiação solar nas fachadas mais expostas.",
+        "C": "O edifício adota volumetria compacta sem aberturas significativas, reduzindo a ventilação natural e priorizando sistemas artificiais de climatização para conforto térmico.",
+        "D": "O edifício apresenta uma implantação que desconsidera a orientação solar, com fachadas opacas homogêneas que impedem o aproveitamento de iluminação e a ventilação naturais.",
+        "E": "O edifício emprega materiais de alta inércia térmica sem dispositivos de sombreamento, aumentando o ganho de calor interno e comprometendo o desempenho ambiental no clima tropical."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-arquiteto_q56.png",
+      "page_number": 14
+    },
+    {
+      "question_number": 57,
+      "discipline": null,
+      "statement": "No contexto da elaboração de documentos técnicos para suporte jurídico, considerando sua natureza, finalidade e conteúdo, assinale a opção que diferencia corretamente laudo técnico de parecer técnico.",
+      "alternatives": {
+        "A": "São documentos equivalentes, diferenciando-se apenas pela nomenclatura adotada pelo profissional, podendo ser elaborados com ou sem inspeção direta, desde que apresentem conclusões técnicas consistentes.",
+        "B": "O laudo técnico é elaborado a partir de inspeção, vistoria ou perícia direta, com a análise e as conclusões sobre os fatos; o parecer técnico é um ato opinativo baseado na interpretação dos documentos existentes, sem envolver verificação in loco.",
+        "C": "O laudo técnico é exclusivamente opinativo e interpretativo; o parecer técnico deve conter obrigatoriamente inspeção de campo e coleta direta de evidências para validação das conclusões apresentadas.",
+        "D": "O laudo técnico é usado apenas em contextos administrativos e preventivos; o parecer técnico destina-se exclusivamente ao uso judicial, sendo mais completo e detalhado em termos de fundamentação técnica.",
+        "E": "O laudo técnico limita-se à apresentação de registros visuais e descritivos sem análise conclusiva; o parecer técnico é o documento que interpreta tecnicamente os fatos analisados e indica as responsabilidades."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
     },
     {
       "question_number": 58,
@@ -559,13 +984,47 @@
         "B": "Adotar estrutura lógica e padronizada composta por identificação, objetivo, escopo, metodologia, fundamentação técnica e normativa, descrição dos achados, análise crítica, conclusões e anexos, garantindo encadeamento lógico, rastreabilidade das evidências e distinção clara entre dados observados e interpretações técnicas.",
         "C": "Estruturar o documento com foco exclusivo nas conclusões técnicas e recomendações, apresentando apenas resumo dos procedimentos adotados, desde que o perito seja devidamente habilitado e reconhecido pelos órgãos competentes de fiscalização profissional.",
         "D": "Elaborar o relatório com divisão simplificada em introdução, desenvolvimento e conclusão, sem necessidade de explicitar metodologia ou fundamentação normativa, desde que sejam incluídos registros fotográficos suficientes para evidenciar os problemas identificados.",
-        "E": "Apresentar o relatório com ênfase na compilação documental e registros visuais, relegando a análise técnica a segundo plano, desde que os anexos contenham informações completas e permitam ao leitor inferir autonomamente as causas e implicações dos achados. Um Arquiteto-urbanista foi contratado para desenvolver um projeto executivo de requalificação de um edifício privado. Durante a execução do contrato, ele:  recebeu de um fornecedor de esquadrias a oferta de consultoria gratuita e comissão sobre a especificação do produto; ao mesmo tempo, ele tomou conhecimento de dados estratégicos confidenciais e do contratante;  foi chamado pelo mesmo cliente para reformular parte de estudo preliminar anteriormente elaborado por outro arquiteto, sem que este tivesse sido previamente avisado;  e, além disso, passou a negociar remuneração também com a construtora encarregada da obra, relativa ao mesmo contrato em vigor. Sobre a conduta eticamente exigida para o caso apresentado, à luz da Resolução CAU/BR nº 52/2013, avalie as afirmativas a seguir. I. O profissional deve recusar a comissão e a consultoria oferecidas pelo fornecedor, preservar o sigilo das informações confidenciais, informar previamente o colega cujos serviços serão reformulados e recusar o recebimento de vantagens econômicas provenientes de duas partes do mesmo contrato vigente. II. O profissional deve recusar pagamentos simultâneos de contratante e construtora, porém pode aceitar brindes, consultorias ou comissões de fornecedores, desde que preserve o sigilo contratual e mencione ao colega que seu estudo preliminar foi revisto por razões de eficiência. III. O profissional pode aceitar a consultoria do fornecedor, desde que declare ao contratante a origem do benefício, mantenha reserva sobre os dados sigilosos do cliente e apenas comunique o colega reformulado após concluir a nova proposta técnica para evitar tumulto negocial. Está correto o que se afirma em (A) I, apenas. (B) II, apenas. (C) III, apenas. (D) I e II, apenas. (E) I e III, apenas. sem alterações legais posteriores. (B) Passou a ser realizada pelo Ministério das Cidades, sem conselhos profissionais. (C) Foi atribuída às prefeituras municipais, com base nas legislações urbanísticas locais. (D) Tornou-se facultativa, dependendo da filiação voluntária dos profissionais a associações. (E) Foi transferida do CREA para o CAU, órgão próprio da categoria profissional. 1 Em uma cidade hipotética, passaram a ser oferecidos tratamentos experimentais com polilaminina e exoesqueletos robóticos destinados a ampliar a autonomia de pessoas com deficiência motora. Diante desses avanços tecnológicos, parte da população passou a defender a redução dos investimentos públicos em acessibilidade arquitetônica e urbanística, sob o argumento de que essas novas tecnologias poderiam diminuir a necessidade de adaptações físicas nos espaços. O Ministério Público do Estado do Espírito Santo recebeu manifestação questionando a adequação dessa proposta e solicitou apoio técnico da área de arquitetura para analisar os impactos da medida sobre a inclusão e a utilização dos espaços públicos e institucionais. Considerando os princípios da acessibilidade universal e do desenho universal, elabore um texto dissertativo que responda aos itens a seguir: a) Explique em que medida a redução dos investimentos em acessibilidade arquitetônica e urbanística, sob o argumento da existência de novas tecnologias assistivas, é (in)compatível com o princípio da acessibilidade universal; e b) Indique uma técnica específica de arquitetura ou de urbanismo que continua indispensável para garantir a acessibilidade dos espaços físicos, mesmo diante do desenvolvimento de tecnologias assistivas. O Ministério Público do Estado do Espírito Santo instaurou procedimento para apurar a regularidade urbanística e ambiental de um novo loteamento residencial e de uma avenida de ligação previstos em um município com 180 mil habitantes. A área destinada ao empreendimento corresponde a uma antiga várzea, onde ocorreram três episódios de alagamento severo nos últimos cinco anos. A análise preliminar identificou que o Plano Diretor municipal se encontra desatualizado e que o projeto apresentado pelo município prevê predominantemente soluções convencionais de drenagem urbana, baseadas em canalização e galerias pluviais, sem considerar medidas de retenção, infiltração ou recuperação de áreas permeáveis. Na condição de assessor técnico da área de arquitetura do Ministério Público, considere os princípios das cidades esponja e o Estatuto da Cidade e a) indique duas soluções de infraestrutura verde ou drenagem urbana sustentável adequadas ao caso, explicando sua função e contribuição para a redução dos riscos de alagamento; e b) explique quais instrumentos urbanísticos e diretrizes do Estatuto da Cidade devem ser considerados pelo Ministério Público na avaliação da regularidade do empreendimento, especialmente quanto ao planejamento urbano, à função social da propriedade e à prevenção de impactos sobre a coletividade. Realização"
+        "E": "Apresentar o relatório com ênfase na compilação documental e registros visuais, relegando a análise técnica a segundo plano, desde que os anexos contenham informações completas e permitam ao leitor inferir autonomamente as causas e implicações dos achados."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "Um Arquiteto-urbanista foi contratado para desenvolver um projeto executivo de requalificação de um edifício privado. Durante a execução do contrato, ele:  recebeu de um fornecedor de esquadrias a oferta de consultoria gratuita e comissão sobre a especificação do produto; ao mesmo tempo, ele tomou conhecimento de dados estratégicos confidenciais e do contratante;  foi chamado pelo mesmo cliente para reformular parte de estudo preliminar anteriormente elaborado por outro arquiteto, sem que este tivesse sido previamente avisado;  e, além disso, passou a negociar remuneração também com a construtora encarregada da obra, relativa ao mesmo contrato em vigor. Sobre a conduta eticamente exigida para o caso apresentado, à luz da Resolução CAU/BR nº 52/2013, avalie as afirmativas a seguir. I. O profissional deve recusar a comissão e a consultoria oferecidas pelo fornecedor, preservar o sigilo das informações confidenciais, informar previamente o colega cujos serviços serão reformulados e recusar o recebimento de vantagens econômicas provenientes de duas partes do mesmo contrato vigente. II. O profissional deve recusar pagamentos simultâneos de contratante e construtora, porém pode aceitar brindes, consultorias ou comissões de fornecedores, desde que preserve o sigilo contratual e mencione ao colega que seu estudo preliminar foi revisto por razões de eficiência. III. O profissional pode aceitar a consultoria do fornecedor, desde que declare ao contratante a origem do benefício, mantenha reserva sobre os dados sigilosos do cliente e apenas comunique o colega reformulado após concluir a nova proposta técnica para evitar tumulto negocial. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I e III, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 60,
+      "discipline": null,
+      "statement": "Sobre a fiscalização do exercício profissional dos Arquitetos e Urbanistas no Brasil, após a criação do Conselho de Arquitetura e Urbanismo (CAU) pela Lei nº 12.378/2010, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Permaneceu exclusivamente sob responsabilidade do CREA, sem alterações legais posteriores.",
+        "B": "Passou a ser realizada pelo Ministério das Cidades, sem conselhos profissionais.",
+        "C": "Foi atribuída às prefeituras municipais, com base nas legislações urbanísticas locais.",
+        "D": "Tornou-se facultativa, dependendo da filiação voluntária dos profissionais a associações.",
+        "E": "Foi transferida do CREA para o CAU, órgão próprio da categoria profissional. Prova Discursiva 1 Em uma cidade hipotética, passaram a ser oferecidos tratamentos experimentais com polilaminina e exoesqueletos robóticos destinados a ampliar a autonomia de pessoas com deficiência motora. Diante desses avanços tecnológicos, parte da população passou a defender a redução dos investimentos públicos em acessibilidade arquitetônica e urbanística, sob o argumento de que essas novas tecnologias poderiam diminuir a necessidade de adaptações físicas nos espaços. O Ministério Público do Estado do Espírito Santo recebeu manifestação questionando a adequação dessa proposta e solicitou apoio técnico da área de arquitetura para analisar os impactos da medida sobre a inclusão e a utilização dos espaços públicos e institucionais. Considerando os princípios da acessibilidade universal e do desenho universal, elabore um texto dissertativo que responda aos itens a seguir: a) Explique em que medida a redução dos investimentos em acessibilidade arquitetônica e urbanística, sob o argumento da existência de novas tecnologias assistivas, é (in)compatível com o princípio da acessibilidade universal; e b) Indique uma técnica específica de arquitetura ou de urbanismo que continua indispensável para garantir a acessibilidade dos espaços físicos, mesmo diante do desenvolvimento de tecnologias assistivas. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 O Ministério Público do Estado do Espírito Santo instaurou procedimento para apurar a regularidade urbanística e ambiental de um novo loteamento residencial e de uma avenida de ligação previstos em um município com 180 mil habitantes. A área destinada ao empreendimento corresponde a uma antiga várzea, onde ocorreram três episódios de alagamento severo nos últimos cinco anos. A análise preliminar identificou que o Plano Diretor municipal se encontra desatualizado e que o projeto apresentado pelo município prevê predominantemente soluções convencionais de drenagem urbana, baseadas em canalização e galerias pluviais, sem considerar medidas de retenção, infiltração ou recuperação de áreas permeáveis. Na condição de assessor técnico da área de arquitetura do Ministério Público, considere os princípios das cidades esponja e o Estatuto da Cidade e a) indique duas soluções de infraestrutura verde ou drenagem urbana sustentável adequadas ao caso, explicando sua função e contribuição para a redução dos riscos de alagamento; e b) explique quais instrumentos urbanísticos e diretrizes do Estatuto da Cidade devem ser considerados pelo Ministério Público na avaliação da regularidade do empreendimento, especialmente quanto ao planejamento urbano, à função social da propriedade e à prevenção de impactos sobre a coletividade. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
     }
   ]
 }

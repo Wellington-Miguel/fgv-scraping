@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - Nutricionista",
   "exam_type": "Tipo 1",
-  "total_questions": 34,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-nutricionista_q12.png",
       "page_number": 3
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 21,
@@ -253,9 +355,26 @@
         "B": "II, apenas.",
         "C": "III, apenas.",
         "D": "I e II, apenas.",
-        "E": "I e III, apenas. A Lei Orgânica da Saúde (Lei nº 8.080/1990) dispõe sobre a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências. Em relação à temática citada, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) As ações e os serviços públicos de saúde e os estabelecimentos privados conveniados que integram o Sistema Único de Saúde (SUS) obedecem ao princípio da universalidade de acesso aos atendimentos de saúde restritos ao nível primário de assistência. ( ) A direção do SUS é única, sendo exercida no âmbito dos Estados e do Distrito Federal, pelo Ministério da Saúde; no âmbito dos Municípios, pela respectiva Secretaria de Saúde ou órgão equivalente. ( ) No nível municipal, o SUS poderá organizar-se em distritos de forma a integrar e articular recursos, técnicas e práticas voltadas para a cobertura total das ações de saúde. As afirmativas são, respectivamente, (A) V – V – F. (B) V – F – V. (C) F – V – F. (D) F – F – V. (E) F – F – F."
+        "E": "I e III, apenas."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "A Lei Orgânica da Saúde (Lei nº 8.080/1990) dispõe sobre a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências. Em relação à temática citada, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) As ações e os serviços públicos de saúde e os estabelecimentos privados conveniados que integram o Sistema Único de Saúde (SUS) obedecem ao princípio da universalidade de acesso aos atendimentos de saúde restritos ao nível primário de assistência. ( ) A direção do SUS é única, sendo exercida no âmbito dos Estados e do Distrito Federal, pelo Ministério da Saúde; no âmbito dos Municípios, pela respectiva Secretaria de Saúde ou órgão equivalente. ( ) No nível municipal, o SUS poderá organizar-se em distritos de forma a integrar e articular recursos, técnicas e práticas voltadas para a cobertura total das ações de saúde. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "V – F – V.",
+        "C": "F – V – F.",
+        "D": "F – F – V.",
+        "E": "F – F – F."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -270,13 +389,30 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. A Educação Alimentar e Nutricional (EAN) compreende muitas áreas do conhecimento, visto que abrange aspectos alimentares, nutricionais, agrícolas, sociais, antropológicos e culturais, dentre outros. Em relação ao EAN, assinale a afirmativa a seguir. I. O desenvolvimento de atividades educativas no campo da alimentação pode levar à reflexão sobre o ato de educar em diversos espaços de práticas. É importante que as ações realizadas expressem uma educação voltada para o autocuidado, proporcionando que o indivíduo possa escolher as melhores formas de cuidar de si mesmo, constituindo-se assim um agente ativo no processo de aprendizagem de suas escolhas alimentares. II. O grupo que desenvolve ações relacionadas à alimentação e nutrição em um determinado espaço deve ser composto por um conjunto de nutricionistas e discentes supervisionados que ensinarão sobre como se alimentar, devendo ser formado por um agregado de pessoas que apresentam diferentes saberes compartimentalizados, fortalecendo a promoção da alimentação adequada e saudável. III. É desaconselhável realizar EAN em parceria com as organizações da sociedade civil, tais como as associações comunitárias, religiosas, socioassistenciais e cooperativas de produtores rurais. Todavia, são indicadas parcerias com as instituições de ensino, todo o “Sistema S”, e com outros setores como empresas produtoras de refeições coletivas, associações de restaurante, bares e hotéis, e setor varejista de alimentos. Está correto o que se afirma em (A) I, apenas. (B) II, apenas. (C) III, apenas. (D) I e II, apenas. (E) I e III, apenas."
+        "E": "I, II e III."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 24,
+      "discipline": null,
+      "statement": "A Educação Alimentar e Nutricional (EAN) compreende muitas áreas do conhecimento, visto que abrange aspectos alimentares, nutricionais, agrícolas, sociais, antropológicos e culturais, dentre outros. Em relação ao EAN, assinale a afirmativa a seguir. I. O desenvolvimento de atividades educativas no campo da alimentação pode levar à reflexão sobre o ato de educar em diversos espaços de práticas. É importante que as ações realizadas expressem uma educação voltada para o autocuidado, proporcionando que o indivíduo possa escolher as melhores formas de cuidar de si mesmo, constituindo-se assim um agente ativo no processo de aprendizagem de suas escolhas alimentares. II. O grupo que desenvolve ações relacionadas à alimentação e nutrição em um determinado espaço deve ser composto por um conjunto de nutricionistas e discentes supervisionados que ensinarão sobre como se alimentar, devendo ser formado por um agregado de pessoas que apresentam diferentes saberes compartimentalizados, fortalecendo a promoção da alimentação adequada e saudável. III. É desaconselhável realizar EAN em parceria com as organizações da sociedade civil, tais como as associações comunitárias, religiosas, socioassistenciais e cooperativas de produtores rurais. Todavia, são indicadas parcerias com as instituições de ensino, todo o “Sistema S”, e com outros setores como empresas produtoras de refeições coletivas, associações de restaurante, bares e hotéis, e setor varejista de alimentos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I e III, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 25,
@@ -287,9 +423,26 @@
         "B": "As aldoses são carboidratos classificados como dissacarídeos, que apresentam duas hidroxilas ligadas à extremidade amino- terminal da cadeia, sendo representadas pela lactose e maltose.",
         "C": "O fosfolipídio é um tipo de lipídio anfipático, formado por três anéis esteroides, que constituem sua parte hidrofóbica, associados à cabeça hidrofílica, constituída essencialmente por fosfato e metano.",
         "D": "As proteínas são compostos químicos orgânicos e poliméricos formados por aminoácidos, unidos por ligações peptídicas entre as bases nitrogenadas presentes na cadeia lateral da sua estrutura.",
-        "E": "O ferro heme é um micronutriente fundamental para a síntese da proteína hemoglobina, a qual é formada por quatro átomos de ferro no seu estado ferroso, encontrado naturalmente em alimentos de origem animal. A Resolução - RDC nº 711/2022 dispõe sobre os requisitos sanitários dos amidos, biscoitos, cereais integrais e processados, farelos, farinhas, massas alimentícias e pães. À luz dessa resolução, assinale a afirmativa correta. (A) Farelo é o produto resultante do processamento de grãos de cereais ou tubérculos, constituídos principalmente de casca e endosperma, com exclusão do gérmen em seu processamento industrial. (B) Farinha integral é o produto resultante da trituração ou moagem de cariopses intactas de grãos e cereais, contendo endosperma amiláceo e farelo, sendo permitidas perdas de até 5% do grão ou 20% do farelo. (C) Os amidos, os farelos e as farinhas devem cumprir os seguintes limites máximos de umidade: 15%, no caso de amidos de cereais, farelos e farinhas; 21%, no caso de amido de batata; e 18%, no caso de amido de mandioca. (D) No caso de amidos obtidos de raízes, cereais, tubérculos ou rizomas, recomenda-se a utilização da denominação de venda: \"Mistura de farelos com amido\", seguida do nome comum das espécies vegetais utilizadas. (E) Na rotulagem de misturas à base de farelos deve constar a seguinte informação em destaque e em negrito: \"O Ministério da Saúde confirma: existem evidências científicas de que este produto previna ou trate doenças\"."
+        "E": "O ferro heme é um micronutriente fundamental para a síntese da proteína hemoglobina, a qual é formada por quatro átomos de ferro no seu estado ferroso, encontrado naturalmente em alimentos de origem animal."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 26,
+      "discipline": null,
+      "statement": "A Resolução - RDC nº 711/2022 dispõe sobre os requisitos sanitários dos amidos, biscoitos, cereais integrais e processados, farelos, farinhas, massas alimentícias e pães. À luz dessa resolução, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Farelo é o produto resultante do processamento de grãos de cereais ou tubérculos, constituídos principalmente de casca e endosperma, com exclusão do gérmen em seu processamento industrial.",
+        "B": "Farinha integral é o produto resultante da trituração ou moagem de cariopses intactas de grãos e cereais, contendo endosperma amiláceo e farelo, sendo permitidas perdas de até 5% do grão ou 20% do farelo.",
+        "C": "Os amidos, os farelos e as farinhas devem cumprir os seguintes limites máximos de umidade: 15%, no caso de amidos de cereais, farelos e farinhas; 21%, no caso de amido de batata; e 18%, no caso de amido de mandioca.",
+        "D": "No caso de amidos obtidos de raízes, cereais, tubérculos ou rizomas, recomenda-se a utilização da denominação de venda: \"Mistura de farelos com amido\", seguida do nome comum das espécies vegetais utilizadas.",
+        "E": "Na rotulagem de misturas à base de farelos deve constar a seguinte informação em destaque e em negrito: \"O Ministério da Saúde confirma: existem evidências científicas de que este produto previna ou trate doenças\"."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -304,13 +457,30 @@
         "B": "II, apenas.",
         "C": "III, apenas.",
         "D": "I e III, apenas.",
-        "E": "II e III, apenas. O Guia Alimentar para a População Brasileira (2014) é uma das estratégias para a promoção da alimentação adequada e saudável, que integra a Política Nacional de Alimentação e Nutrição. À luz do documento supracitado e em relação à classificação dos alimentos, assinale a afirmativa correta. (A) Alimentos in natura são obtidos exclusiva e diretamente de plantas, sendo adquiridos para consumo sem que tenham sofrido qualquer alteração. (B) Alimentos como arroz, feijão e leite são comumente adquiridos após vários processos, como secagem, embalagem e pasteurização, sendo por isso classificados como ultra processados. (C) Carnes de gado, pescados frescos, resfriados ou congelados, frutas secas, sucos de frutas pasteurizados e sem adição de açúcar ou outras substâncias são minimamente processados. (D) Óleos vegetais (como os de soja e manteiga) e gorduras (como a banha) são produtos alimentícios obtidos pela extração de substâncias presentes em alimentos in natura. (E) Alimentos preservados em salmoura ou em solução de sal e vinagre, extrato ou concentrados de tomate (com sal, óleos interesterificados ou xarope de frutose) são processados."
+        "E": "II e III, apenas."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "O Guia Alimentar para a População Brasileira (2014) é uma das estratégias para a promoção da alimentação adequada e saudável, que integra a Política Nacional de Alimentação e Nutrição. À luz do documento supracitado e em relação à classificação dos alimentos, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Alimentos in natura são obtidos exclusiva e diretamente de plantas, sendo adquiridos para consumo sem que tenham sofrido qualquer alteração.",
+        "B": "Alimentos como arroz, feijão e leite são comumente adquiridos após vários processos, como secagem, embalagem e pasteurização, sendo por isso classificados como ultra processados.",
+        "C": "Carnes de gado, pescados frescos, resfriados ou congelados, frutas secas, sucos de frutas pasteurizados e sem adição de açúcar ou outras substâncias são minimamente processados.",
+        "D": "Óleos vegetais (como os de soja e manteiga) e gorduras (como a banha) são produtos alimentícios obtidos pela extração de substâncias presentes em alimentos in natura.",
+        "E": "Alimentos preservados em salmoura ou em solução de sal e vinagre, extrato ou concentrados de tomate (com sal, óleos interesterificados ou xarope de frutose) são processados."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 29,
@@ -321,9 +491,26 @@
         "B": "V – F – V.",
         "C": "F – V – F.",
         "D": "F – F – V.",
-        "E": "F – F – F. A Pesquisa de Orçamentos Familiares (POF) é realizada nos domicílios com o objetivo de levantar informações sobre a estrutura dos orçamentos, isto é, suas aquisições e receitas, bem como as características nutricionais e as condições de vida da população brasileira. Em relação à POF, assinale a afirmativa correta. (A) As informações para a POF (2024-2025) foram obtidas diretamente nos domicílios particulares e em estabelecimentos empresariais, junto aos seus moradores e funcionários, ao longo de 90 dias, com visitas in locus. (B) A periodicidade da POF é de dez anos, permitindo que os pesquisadores trabalhem durante 12 meses, captando as flutuações de consumo em diferentes épocas do ano, especialmente em datas comemorativas. (C) A POF contribui para o conhecimento da realidade das famílias localizadas em áreas rurais, acompanhando a evolução de seus hábitos de consumo e de suas condições de vida, assim como seu estado nutricional. (D) Os dados da POF servem para atualizar as ponderações dos Índices de Preços ao Consumidor e também para mostrar o quanto representa o consumo das famílias na economia brasileira. (E) Os bens consumidos e os serviços utilizados, avaliados durante cinco anos em cada família estudada, compõem a chamada receita de aquisições da população, sendo um instrumento para a elaboração de políticas públicas."
+        "E": "F – F – F."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 30,
+      "discipline": null,
+      "statement": "A Pesquisa de Orçamentos Familiares (POF) é realizada nos domicílios com o objetivo de levantar informações sobre a estrutura dos orçamentos, isto é, suas aquisições e receitas, bem como as características nutricionais e as condições de vida da população brasileira. Em relação à POF, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "As informações para a POF (2024-2025) foram obtidas diretamente nos domicílios particulares e em estabelecimentos empresariais, junto aos seus moradores e funcionários, ao longo de 90 dias, com visitas in locus.",
+        "B": "A periodicidade da POF é de dez anos, permitindo que os pesquisadores trabalhem durante 12 meses, captando as flutuações de consumo em diferentes épocas do ano, especialmente em datas comemorativas.",
+        "C": "A POF contribui para o conhecimento da realidade das famílias localizadas em áreas rurais, acompanhando a evolução de seus hábitos de consumo e de suas condições de vida, assim como seu estado nutricional.",
+        "D": "Os dados da POF servem para atualizar as ponderações dos Índices de Preços ao Consumidor e também para mostrar o quanto representa o consumo das famílias na economia brasileira.",
+        "E": "Os bens consumidos e os serviços utilizados, avaliados durante cinco anos em cada família estudada, compõem a chamada receita de aquisições da população, sendo um instrumento para a elaboração de políticas públicas."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -338,13 +525,30 @@
         "B": "O amendoim, leguminosa que dá frutos embaixo da terra, possui elevado teor de lipídios e de amido e pode ser submetida ao calor seco, devido ao seu alto teor lipídico.",
         "C": "Os grãos mais tenros e menores, como lentilhas e ervilhas, cozinham mais lentamente do que o grão-de-bico, mas a presença de minerais na água de cozimento (água dura) facilita sua cocção.",
         "D": "Os fitatos e polifenóis estão associados à produção de flatulência por fermentação no intestino grosso, pois não são digeridos pelas amilases. O remolho e a cocção lenta reduzem os teores desses fatores antinutricionais.",
-        "E": "O feijão, sobretudo o branco e o manteiga, são ricos em isoflavonas, possuindo a capacidade de reduzir o risco de doenças cardiovasculares, além de atenuar a perda da massa óssea devido à ação estrogênica do composto bioativo. A técnica dietética estuda as operações tecnológicas às quais os alimentos são submetidos, além das modificações que estes sofrem durante as etapas de pré-preparo e preparo para o consumo. Sobre essas operações, assinale a afirmativa correta. (A) As operações preliminares são aquelas a que são submetidos os alimentos antes de sua cocção final, tais como as de limpeza, divisão ou mistura. (B) O método de divisão melhora a digestibilidade do alimento ao antecipar a etapa de mastigação, diminuindo as perdas e alterações por oxidação, não exigindo mão de obra treinada ou a utilização de utensílios adequados. (C) A irradiação é um método de preparo em que há transmissão de calor por meio de radiação dos tipos gama e alfa ou de partículas, as quais penetram no alimento causando fricção entre as moléculas de água e produzindo calor. (D) A cocção em líquido ocasiona maior perda de nutrientes hidrossolúveis; para diminuir as perdas, deve-se aumentar a quantidade de líquido e o tempo de cocção, inserindo o alimento na água. (E) O calor seco com gordura transmite calor, de forma direta, ao alimento por meio da gordura. Os meios mais comuns para aplicação deste método são: saltear, fritar, frigir, ensopar e grelhar."
+        "E": "O feijão, sobretudo o branco e o manteiga, são ricos em isoflavonas, possuindo a capacidade de reduzir o risco de doenças cardiovasculares, além de atenuar a perda da massa óssea devido à ação estrogênica do composto bioativo."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 32,
+      "discipline": null,
+      "statement": "A técnica dietética estuda as operações tecnológicas às quais os alimentos são submetidos, além das modificações que estes sofrem durante as etapas de pré-preparo e preparo para o consumo. Sobre essas operações, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "As operações preliminares são aquelas a que são submetidos os alimentos antes de sua cocção final, tais como as de limpeza, divisão ou mistura.",
+        "B": "O método de divisão melhora a digestibilidade do alimento ao antecipar a etapa de mastigação, diminuindo as perdas e alterações por oxidação, não exigindo mão de obra treinada ou a utilização de utensílios adequados.",
+        "C": "A irradiação é um método de preparo em que há transmissão de calor por meio de radiação dos tipos gama e alfa ou de partículas, as quais penetram no alimento causando fricção entre as moléculas de água e produzindo calor.",
+        "D": "A cocção em líquido ocasiona maior perda de nutrientes hidrossolúveis; para diminuir as perdas, deve-se aumentar a quantidade de líquido e o tempo de cocção, inserindo o alimento na água.",
+        "E": "O calor seco com gordura transmite calor, de forma direta, ao alimento por meio da gordura. Os meios mais comuns para aplicação deste método são: saltear, fritar, frigir, ensopar e grelhar."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
     },
     {
       "question_number": 33,
@@ -355,9 +559,26 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. A análise bromatológica desempenha relevante atuação quanto à avaliação da qualidade e à segurança dos alimentos. Quanto aos estudos químicos-bromatológicos dos alimentos, avalie as afirmativas a seguir. I. Os métodos cromatográficos, aplicáveis a pequenas quantidades de amostra, são os mais úteis para identificação de glicídios. A cromatografia em papel, usando solventes e reveladores apropriados, permite a identificação e a determinação quantitativa. II. Na determinação da composição de ácidos graxos saturados e insaturados por cromatografia em fase líquida, os lipídios da amostra a ser analisada são submetidos a reações de fosforilação ou metilação e de acetilação. III. A determinação de proteínas baseia-se na determinação de nitrogênio, geralmente feita pelo processo de digestão Kjeldahl, no qual a matéria inorgânica é decomposta e o nitrogênio existente é transformado em ureia. Está correto o que se afirma em (A) I, apenas. (B) III, apenas. (C) I e II, apenas. (D) I e III, apenas. (E) I, II e III."
+        "E": "I, II e III."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 34,
+      "discipline": null,
+      "statement": "A análise bromatológica desempenha relevante atuação quanto à avaliação da qualidade e à segurança dos alimentos. Quanto aos estudos químicos-bromatológicos dos alimentos, avalie as afirmativas a seguir. I. Os métodos cromatográficos, aplicáveis a pequenas quantidades de amostra, são os mais úteis para identificação de glicídios. A cromatografia em papel, usando solventes e reveladores apropriados, permite a identificação e a determinação quantitativa. II. Na determinação da composição de ácidos graxos saturados e insaturados por cromatografia em fase líquida, os lipídios da amostra a ser analisada são submetidos a reações de fosforilação ou metilação e de acetilação. III. A determinação de proteínas baseia-se na determinação de nitrogênio, geralmente feita pelo processo de digestão Kjeldahl, no qual a matéria inorgânica é decomposta e o nitrogênio existente é transformado em ureia. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "III, apenas.",
+        "C": "I e II, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -372,13 +593,30 @@
         "B": "A pasteurização ocorre em diferentes tempos e temperaturas, por processos contínuos e descontínuos. Assim, o leite para consumo deve ser obrigatoriamente pasteurizado, sendo a ausência da enzima fosfatase uma comprovação de que tal tratamento foi realizado.",
         "C": "As câmaras pulverizadoras são usadas para a secagem por pulverização; no alimento líquido pulverizado, as partículas de alimentos se depositam em forma de pó no fundo das câmaras.",
         "D": "O processo de refrigeração emprega temperaturas entre 1oC e 15oC, com ação esterilizante sobre microrganismos, ao romper a parede celular e a membrana plasmática dos seres contaminantes; além disso é capaz de gerar uma bacteriostase, ao inibir a multiplicação bacteriana.",
-        "E": "O nitrito é um potente agente conservador, porém ao ser adicionado aos produtos cárneos, altera sua coloração, atribuindo uma tonalidade marrom, uma vez que é formada a oximioglobina, resultante da combinação da hemioglobina e oxigênio, na presença do nitrito. A fibra dietética é composta majoritariamente de cadeias e ramificações de moléculas de carboidratos, tendo os hidrogênios posicionados no lado beta do oxigênio na ligação. Em relação a esse tema, assinale a afirmativa correta. (A) As recomendações atuais de ingestão de fibra alimentar na dieta variam de acordo com a idade, o sexo e o consumo energético, sendo a recomendação adequada para adultos em torno de 3 g de fibra para cada 1.000 kcal ingeridas. (B) As fibras solúveis, como as pectinas e as gomas, dissolvem-se em água, formando géis viscosos. Elas não são digeridas no intestino delgado e, geralmente, são fermentadas pela microflora do intestino grosso. (C) As fibras insolúveis, como a lignina, a celulose, a inulina e o farelo de trigo, apresentam fermentação limitada. Elas atuam na diminuição de volume do bolo fecal, além de aumentar a peristalse e à saciedade. (D) Os principais grupos de fibras que chegam ao intestino grosso são parcial ou totalmente fermentados e usados como fonte energética pela microflora no cólon, convertidos em ácidos graxos de cadeia longa, como o ácido araquidônico. (E) O uso de fibras solúveis, como a aveia, o psyllium, a pectina e a celulose, reduz os níveis séricos de colesterol total e do HDL colesterol, diminuindo as chances de doenças cardiovasculares e renais."
+        "E": "O nitrito é um potente agente conservador, porém ao ser adicionado aos produtos cárneos, altera sua coloração, atribuindo uma tonalidade marrom, uma vez que é formada a oximioglobina, resultante da combinação da hemioglobina e oxigênio, na presença do nitrito."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 8
+    },
+    {
+      "question_number": 36,
+      "discipline": null,
+      "statement": "A fibra dietética é composta majoritariamente de cadeias e ramificações de moléculas de carboidratos, tendo os hidrogênios posicionados no lado beta do oxigênio na ligação. Em relação a esse tema, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "As recomendações atuais de ingestão de fibra alimentar na dieta variam de acordo com a idade, o sexo e o consumo energético, sendo a recomendação adequada para adultos em torno de 3 g de fibra para cada 1.000 kcal ingeridas.",
+        "B": "As fibras solúveis, como as pectinas e as gomas, dissolvem-se em água, formando géis viscosos. Elas não são digeridas no intestino delgado e, geralmente, são fermentadas pela microflora do intestino grosso.",
+        "C": "As fibras insolúveis, como a lignina, a celulose, a inulina e o farelo de trigo, apresentam fermentação limitada. Elas atuam na diminuição de volume do bolo fecal, além de aumentar a peristalse e à saciedade.",
+        "D": "Os principais grupos de fibras que chegam ao intestino grosso são parcial ou totalmente fermentados e usados como fonte energética pela microflora no cólon, convertidos em ácidos graxos de cadeia longa, como o ácido araquidônico.",
+        "E": "O uso de fibras solúveis, como a aveia, o psyllium, a pectina e a celulose, reduz os níveis séricos de colesterol total e do HDL colesterol, diminuindo as chances de doenças cardiovasculares e renais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 37,
@@ -389,9 +627,26 @@
         "B": "V – F – V.",
         "C": "F – V – F.",
         "D": "F – F – V.",
-        "E": "F – F – F. As Boas Práticas de Fabricação (BPF) abrangem um conjunto de medidas que devem ser adotadas pelas indústrias de alimentos e pelos serviços de alimentação para o correto manuseio de alimentos, abrangendo desde as matérias-primas até o produto final, de forma a garantir a segurança do consumidor. De acordo com esse tema e as legislações correlatas e vigentes, assinale a afirmativa correta. (A) O estabelecimento deve dispor de procedimentos operacionais padronizados, especificando os critérios usados para recebimento da matéria-prima e das embalagens, sem necessidade de quarentena quando houver desvios. (B) As aberturas externas das áreas de armazenamento e preparação de alimentos, com exceção do sistema de exaustão, devem ser providas de telas milimetradas para impedir o acesso de vetores e pragas urbanas. (C) O transporte do alimento preparado deve ocorrer em condições de tempo que não comprometam sua qualidade sanitária, sendo facultativo monitorar sua temperatura durante toda a etapa. (D) O reservatório de água deve ser revestido de materiais que não comprometam a qualidade da água, devendo ser higienizado, em um intervalo máximo de 24 meses, sendo necessário manter os registros da operação. (E) Os procedimentos operacionais padronizados para o controle de vetores e pragas urbanas devem contemplar as medidas preventivas e corretivas que impeçam a atração, o abrigo, o acesso e ou a proliferação de vetores e pragas urbanas."
+        "E": "F – F – F."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 38,
+      "discipline": null,
+      "statement": "As Boas Práticas de Fabricação (BPF) abrangem um conjunto de medidas que devem ser adotadas pelas indústrias de alimentos e pelos serviços de alimentação para o correto manuseio de alimentos, abrangendo desde as matérias-primas até o produto final, de forma a garantir a segurança do consumidor. De acordo com esse tema e as legislações correlatas e vigentes, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O estabelecimento deve dispor de procedimentos operacionais padronizados, especificando os critérios usados para recebimento da matéria-prima e das embalagens, sem necessidade de quarentena quando houver desvios.",
+        "B": "As aberturas externas das áreas de armazenamento e preparação de alimentos, com exceção do sistema de exaustão, devem ser providas de telas milimetradas para impedir o acesso de vetores e pragas urbanas.",
+        "C": "O transporte do alimento preparado deve ocorrer em condições de tempo que não comprometam sua qualidade sanitária, sendo facultativo monitorar sua temperatura durante toda a etapa.",
+        "D": "O reservatório de água deve ser revestido de materiais que não comprometam a qualidade da água, devendo ser higienizado, em um intervalo máximo de 24 meses, sendo necessário manter os registros da operação.",
+        "E": "Os procedimentos operacionais padronizados para o controle de vetores e pragas urbanas devem contemplar as medidas preventivas e corretivas que impeçam a atração, o abrigo, o acesso e ou a proliferação de vetores e pragas urbanas."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -406,13 +661,30 @@
         "B": "III, apenas.",
         "C": "I e II, apenas.",
         "D": "I e III, apenas.",
-        "E": "I, II e III. A adolescência é marcada por várias transformações, sejam fisiológicas, psicológicas e cognitivas, as quais vêm acompanhadas de mudanças nas necessidades nutricionais e nos comportamentos alimentares dos adolescentes. Quanto à alimentação na adolescência, assinale a afirmativa correta. (A) As necessidades de carboidratos são estimadas em cerca de 330 g/dia, segundo recomendações do Institute of Medicine de 2006, sendo os grãos refinados exemplos de fontes deste macronutriente, além de fornecerem mais vitaminas, minerais e fibras. (B) Os valores de Ingestão Dietética de Referência (IDR) recomendam um consumo diário de lipídios entre 40 e 50% do valor energético total (VET), com no máximo 20% da energia provenientes de ácidos graxos saturados e 10% referentes aos ácidos graxos insaturados. (C) Como o desenvolvimento muscular e esquelético é mais intenso na puberdade, as necessidades de cálcio são aumentadas. Assim, a Ingestão Dietética Recomendada (RDA) deste mineral é de 3.900 mg para todos os adolescentes com um limite superior de ingestão de 8.000 mg/dia. (D) As necessidades de proteínas variam com o grau de maturação física. As recomendações de IDRs quanto ao aporte proteico são estimadas para permitir o crescimento puberal adequado e o balanço positivo de nitrogênio. (E) Entre os adolescentes do sexo masculino, a ingestão recomendada de ferro diminui durante o estirão de crescimento, enquanto nas meninas, as necessidades do mineral permanecem elevadas após os 18 anos, justificadas pela presença da menstruação."
+        "E": "I, II e III."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 40,
+      "discipline": null,
+      "statement": "A adolescência é marcada por várias transformações, sejam fisiológicas, psicológicas e cognitivas, as quais vêm acompanhadas de mudanças nas necessidades nutricionais e nos comportamentos alimentares dos adolescentes. Quanto à alimentação na adolescência, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "As necessidades de carboidratos são estimadas em cerca de 330 g/dia, segundo recomendações do Institute of Medicine de 2006, sendo os grãos refinados exemplos de fontes deste macronutriente, além de fornecerem mais vitaminas, minerais e fibras.",
+        "B": "Os valores de Ingestão Dietética de Referência (IDR) recomendam um consumo diário de lipídios entre 40 e 50% do valor energético total (VET), com no máximo 20% da energia provenientes de ácidos graxos saturados e 10% referentes aos ácidos graxos insaturados.",
+        "C": "Como o desenvolvimento muscular e esquelético é mais intenso na puberdade, as necessidades de cálcio são aumentadas. Assim, a Ingestão Dietética Recomendada (RDA) deste mineral é de 3.900 mg para todos os adolescentes com um limite superior de ingestão de 8.000 mg/dia.",
+        "D": "As necessidades de proteínas variam com o grau de maturação física. As recomendações de IDRs quanto ao aporte proteico são estimadas para permitir o crescimento puberal adequado e o balanço positivo de nitrogênio.",
+        "E": "Entre os adolescentes do sexo masculino, a ingestão recomendada de ferro diminui durante o estirão de crescimento, enquanto nas meninas, as necessidades do mineral permanecem elevadas após os 18 anos, justificadas pela presença da menstruação."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 41,
@@ -423,9 +695,26 @@
         "B": "o ranço hidrolítico é gerado por enzimas que, ao hidrolisarem um triglicerídeo, geram ácidos graxos. E quando eles apresentam baixo peso molecular (como ácidos butírico e caprílico), resultam em odor e sabor desagradáveis.",
         "C": "o escurecimento químico culmina com a formação de pigmentos escuros conhecidos com o nome genérico de acroleínas, as quais são polímeros saturados compostos por cetonas.",
         "D": "a reação de Maillard ocorre entre carboidratos e oxigênio, com a formação da base de Schiff, a qual sofre o rearranjo de Amadori, com posterior degradação de Strecker (perda de água), culminando com a formação de pigmentos escuros.",
-        "E": "na presença de oxigênio, a cadeia saturada do ácido graxo transforma-se em peróxido, que se rompe originando compostos voláteis. Tal reação é desacelerada pela luz ultravioleta e pela presença de antioxidantes naturais. A Organização Pan-Americana da Saúde (OPAS) publicou em 2019 um importante relatório demonstrando uma dicotomia nutricional em países em desenvolvimento, caracterizada por aumento de excesso de peso e desnutrição em suas populações. Sobre tais problemas nutricionais, analise as afirmativas a seguir: I. Todas as formas de má nutrição têm um denominador comum: sistemas alimentares que não fornecem a todas as pessoas dietas saudáveis, seguras, acessíveis e sustentáveis. Com isso, todas as políticas e investimentos relevantes devem ser radicalmente reexaminados. II. Alguns componentes de dietas saudáveis são: amamentação nos primeiros dois anos de vida; diversidade e abundância de frutas e legumes, cereais integrais, fibras, nozes e sementes; quantidades mínimas de carnes processadas e quantidades mínimas de alimentos e bebidas com alto valor calórico e quantidades adicionais de açúcar, gordura saturada, gordura trans e sal. III. A exposição à desnutrição no início da vida, seguida de sobrepeso a partir da infância, aumenta o risco de uma série de doenças crônicas não transmissíveis, sendo um fator chave que impulsiona as emergentes epidemias globais de diabetes mellitus tipo 2 e doenças cardiovasculares. Está correto o que se afirma em (A) I, apenas. (B) III, apenas. (C) I e II, apenas. (D) I e III, apenas. (E) I, II e III."
+        "E": "na presença de oxigênio, a cadeia saturada do ácido graxo transforma-se em peróxido, que se rompe originando compostos voláteis. Tal reação é desacelerada pela luz ultravioleta e pela presença de antioxidantes naturais."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "A Organização Pan-Americana da Saúde (OPAS) publicou em 2019 um importante relatório demonstrando uma dicotomia nutricional em países em desenvolvimento, caracterizada por aumento de excesso de peso e desnutrição em suas populações. Sobre tais problemas nutricionais, analise as afirmativas a seguir: I. Todas as formas de má nutrição têm um denominador comum: sistemas alimentares que não fornecem a todas as pessoas dietas saudáveis, seguras, acessíveis e sustentáveis. Com isso, todas as políticas e investimentos relevantes devem ser radicalmente reexaminados. II. Alguns componentes de dietas saudáveis são: amamentação nos primeiros dois anos de vida; diversidade e abundância de frutas e legumes, cereais integrais, fibras, nozes e sementes; quantidades mínimas de carnes processadas e quantidades mínimas de alimentos e bebidas com alto valor calórico e quantidades adicionais de açúcar, gordura saturada, gordura trans e sal. III. A exposição à desnutrição no início da vida, seguida de sobrepeso a partir da infância, aumenta o risco de uma série de doenças crônicas não transmissíveis, sendo um fator chave que impulsiona as emergentes epidemias globais de diabetes mellitus tipo 2 e doenças cardiovasculares. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "III, apenas.",
+        "C": "I e II, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -440,13 +729,30 @@
         "B": "V – F – V.",
         "C": "F – V – F.",
         "D": "F – F – V.",
-        "E": "F – F – F. Uma Unidade de Alimentação e Nutrição (UAN) fornece almoço para seus colaboradores e planeja que essa refeição corresponda a 50% das necessidades energéticas totais ao dia, estimadas em 2.000 quilocalorias por indivíduo. Para a distribuição de macronutrientes, foi adotado o seguinte padrão: 50% de carboidratos, 20% de proteínas e 30% de lipídios. Considerando tais aportes, assinale a alternativa que apresenta corretamente a quantidade de macronutrientes, em gramas, por refeição. (A) 125 g de carboidratos, 50 g de proteínas e 33 g de lipídios. (B) 100 g de carboidratos, 50 g de proteínas e 30 g de lipídios. (C) 150 g de carboidratos, 40 g de proteínas e 20 g de lipídios. (D) 125 g de carboidratos, 40 g de proteínas e 30 g de lipídios. (E) 100 g de carboidratos, 40 g de proteínas e 33 g de lipídios."
+        "E": "F – F – F."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "Uma Unidade de Alimentação e Nutrição (UAN) fornece almoço para seus colaboradores e planeja que essa refeição corresponda a 50% das necessidades energéticas totais ao dia, estimadas em 2.000 quilocalorias por indivíduo. Para a distribuição de macronutrientes, foi adotado o seguinte padrão: 50% de carboidratos, 20% de proteínas e 30% de lipídios. Considerando tais aportes, assinale a alternativa que apresenta corretamente a quantidade de macronutrientes, em gramas, por refeição.",
+      "alternatives": {
+        "A": "125 g de carboidratos, 50 g de proteínas e 33 g de lipídios.",
+        "B": "100 g de carboidratos, 50 g de proteínas e 30 g de lipídios.",
+        "C": "150 g de carboidratos, 40 g de proteínas e 20 g de lipídios.",
+        "D": "125 g de carboidratos, 40 g de proteínas e 30 g de lipídios.",
+        "E": "100 g de carboidratos, 40 g de proteínas e 33 g de lipídios."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     },
     {
       "question_number": 45,
@@ -474,9 +780,26 @@
         "B": "O fator de cocção é influenciado pelo tipo de calor que se aplica no alimento. Com isso, valores menores que 1 indicam que houve hidratação do alimento durante o preparo.",
         "C": "Geralmente o índice de reidratação é utilizado para cereais, leguminosas e alimentos de remolho, que na maioria das vezes ganham mais peso devido à hidratação.",
         "D": "Ficha técnica é um documento descritivo que determina os riscos no preparo de cada alimento, indicando seus possíveis contaminantes. É essencial na avaliação de cardápios.",
-        "E": "No planejamento dos cardápios deve-se atentar para a sazonalidade dos alimentos e preferências alimentares dos comensais em detrimento das suas necessidades nutricionais. As vitaminas são um grupo de compostos encontrados nos reinos vegetal e animal, sendo classificados como micronutrientes. Do ponto de vista bromatológico referente às vitaminas, assinale a afirmativa correta. (A) A análise de vitaminas exige cuidados especiais, principalmente em razão da sensibilidade desses compostos à luz, ao oxigênio, à temperatura e às alterações de pH. (B) A piridoxina é hidrossolúvel, auxiliando na manutenção do sistema nervoso central e na eritropoese. Principais fontes são os cereais integrais, fígado, ovo e leite. (C) São moléculas inorgânicas que funcionam como catalisadores para reações dentro do organismo, tornando as reações químicas mais lentas, e com isso, poupando energia celular. (D) O método enzimático para a determinação de vitamina A baseia-se na medida da coloração verde estável, resultante da reação do nutriente com o cloreto de sódio. (E) O método químico usado na identificação e quantificação das vitaminas é baseado na sua filtração e radiação, sendo realizado na presença de oxigênio e de luz difusa."
+        "E": "No planejamento dos cardápios deve-se atentar para a sazonalidade dos alimentos e preferências alimentares dos comensais em detrimento das suas necessidades nutricionais."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "As vitaminas são um grupo de compostos encontrados nos reinos vegetal e animal, sendo classificados como micronutrientes. Do ponto de vista bromatológico referente às vitaminas, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A análise de vitaminas exige cuidados especiais, principalmente em razão da sensibilidade desses compostos à luz, ao oxigênio, à temperatura e às alterações de pH.",
+        "B": "A piridoxina é hidrossolúvel, auxiliando na manutenção do sistema nervoso central e na eritropoese. Principais fontes são os cereais integrais, fígado, ovo e leite.",
+        "C": "São moléculas inorgânicas que funcionam como catalisadores para reações dentro do organismo, tornando as reações químicas mais lentas, e com isso, poupando energia celular.",
+        "D": "O método enzimático para a determinação de vitamina A baseia-se na medida da coloração verde estável, resultante da reação do nutriente com o cloreto de sódio.",
+        "E": "O método químico usado na identificação e quantificação das vitaminas é baseado na sua filtração e radiação, sendo realizado na presença de oxigênio e de luz difusa."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -491,13 +814,30 @@
         "B": "III, apenas.",
         "C": "I e II, apenas.",
         "D": "I e III, apenas.",
-        "E": "I, II e III. Os minerais são nutrientes essenciais, obtidos por meio da alimentação e desempenham funções fundamentais no organismo. Portanto, a ingestão adequada desse micronutriente é indispensável para a manutenção da saúde e prevenção de deficiências nutricionais. Sobre as funções desses nutrientes, assinale a afirmativa correta. (A) O fósforo regula o volume extracelular e plasmático, sendo importante na função neuromuscular e na manutenção do equilíbrio ácido-base. A hipofosfatemia grave gera tetania, alcalose metabólica, coma e morte. (B) O magnésio é um ânion, que atua como cofator importante em muitas reações enzimáticas no organismo, sobretudo na síntese de ácidos graxos, no metabolismo ósseo e na função dos sistemas nervoso e cardiovascular. (C) O cálcio é um cátion extracelular que regula o impulso nervoso, a contração muscular e o metabolismo ósseo, sendo essencial para o controle da pressão arterial. Tal mineral é regulado pelos hormônios calcitonina e paratormônio. (D) O cobre libera energia livre quando as suas pontes de hidrogênio são quebradas. Além desse papel, atua como um tampão no equilíbrio ácido-base e na estrutura celular como parte da membrana plasmática. (E) O sódio é fundamental para a coagulação sanguínea e para a síntese de hormônios tireoidianos. Hiponatremias graves ativam a bomba de sódio e iodo, aumentando a produção dos hormônios T3 e T4, resultando em hipertireoidismo."
+        "E": "I, II e III."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11
+    },
+    {
+      "question_number": 49,
+      "discipline": null,
+      "statement": "Os minerais são nutrientes essenciais, obtidos por meio da alimentação e desempenham funções fundamentais no organismo. Portanto, a ingestão adequada desse micronutriente é indispensável para a manutenção da saúde e prevenção de deficiências nutricionais. Sobre as funções desses nutrientes, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O fósforo regula o volume extracelular e plasmático, sendo importante na função neuromuscular e na manutenção do equilíbrio ácido-base. A hipofosfatemia grave gera tetania, alcalose metabólica, coma e morte.",
+        "B": "O magnésio é um ânion, que atua como cofator importante em muitas reações enzimáticas no organismo, sobretudo na síntese de ácidos graxos, no metabolismo ósseo e na função dos sistemas nervoso e cardiovascular.",
+        "C": "O cálcio é um cátion extracelular que regula o impulso nervoso, a contração muscular e o metabolismo ósseo, sendo essencial para o controle da pressão arterial. Tal mineral é regulado pelos hormônios calcitonina e paratormônio.",
+        "D": "O cobre libera energia livre quando as suas pontes de hidrogênio são quebradas. Além desse papel, atua como um tampão no equilíbrio ácido-base e na estrutura celular como parte da membrana plasmática.",
+        "E": "O sódio é fundamental para a coagulação sanguínea e para a síntese de hormônios tireoidianos. Hiponatremias graves ativam a bomba de sódio e iodo, aumentando a produção dos hormônios T3 e T4, resultando em hipertireoidismo."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     },
     {
       "question_number": 50,
@@ -508,9 +848,26 @@
         "B": "Os ovos quando novos têm a casca porosa, limpa, sem rachaduras e imperfeições. Recomenda-se o seu uso quando a clara ou gema grudarem na casca, sendo este o principal indicativo de boa procedência.",
         "C": "Os peixes estão frescos quando os olhos são arredondados, a guelra é vermelha, o cheiro é suave, a pele está brilhante e as escamas firmes. Ao apertar a carne, ela deve voltar à posição rapidamente.",
         "D": "Os miúdos como coração, fígado, rins e língua são indicados para o consumo quando a superfície for opaca, friável ao toque, com coloração regular e com pontos brancos. É importante também que não haja mau cheiro.",
-        "E": "Os embutidos devem ter sua cor como de costume, sem fungos ou corantes demais. Salsicha e linguiça recomendadas para o consumo podem ter bolhas de ar ou apresentar líquidos, indicando que o processo de salga foi eficiente. Constituintes antimicrobianos mantêm a estabilidade de alguns alimentos contra ataques de microrganismos, retardando ou inibindo a sua multiplicação. Quanto ao leite, mesmo sendo um produto altamente perecível, possui em sua composição substâncias antimicrobianas, que mantêm a estabilidade do produto nas duas primeiras horas depois da ordenha. Assinale a opção que indica substâncias antimicrobianas. (A) Ácido benzoico e colagenase. (B) Aldeído cinâmico e lactosil. (C) Lisozima muramidase e cetoaldeído. (D) Lactenina e fator anti-coliformes. (E) Eugenol e fator IGF-1."
+        "E": "Os embutidos devem ter sua cor como de costume, sem fungos ou corantes demais. Salsicha e linguiça recomendadas para o consumo podem ter bolhas de ar ou apresentar líquidos, indicando que o processo de salga foi eficiente."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "Constituintes antimicrobianos mantêm a estabilidade de alguns alimentos contra ataques de microrganismos, retardando ou inibindo a sua multiplicação. Quanto ao leite, mesmo sendo um produto altamente perecível, possui em sua composição substâncias antimicrobianas, que mantêm a estabilidade do produto nas duas primeiras horas depois da ordenha. Assinale a opção que indica substâncias antimicrobianas.",
+      "alternatives": {
+        "A": "Ácido benzoico e colagenase.",
+        "B": "Aldeído cinâmico e lactosil.",
+        "C": "Lisozima muramidase e cetoaldeído.",
+        "D": "Lactenina e fator anti-coliformes.",
+        "E": "Eugenol e fator IGF-1."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -525,13 +882,30 @@
         "B": "III, apenas.",
         "C": "I e II, apenas.",
         "D": "I e III, apenas.",
-        "E": "I, II e III. A Diretriz BRASPEN de terapia nutricional no paciente com câncer (2019) baseou-se em compêndios internacionais, para população adulta e idosa e estudos recentes de relevância científica. À luz dos conhecimentos acerca do suporte nutricional enteral e parenteral, em consonância com tal documento, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Recomenda-se (com nível alto de evidência) abreviação do jejum para pacientes oncológicos para 2 a 3 horas com fórmula contendo maltodextrina a 12,5%, com ou sem fonte nitrogenada na quantidade de 200 ml. No pós-operatório deve-se iniciar a dieta precocemente nas primeiras 12 a 24 horas na presença de estabilidade hemodinâmica independentemente da via de alimentação. ( ) A estratégia nutricional no paciente oncológico com sarcopenia deve contemplar uma dieta hiperproteica e fracionada de forma a ofertar de 30 a 50 g de proteína por refeição, uma vez que a perda de massa muscular é considerada a principal característica da desnutrição associada ao câncer. Tal recomendação exibe forte evidência científica e prática. ( ) O objetivo da terapia nutricional no câncer crítico é minimizar os efeitos deletérios da resposta inflamatória aguda e da desnutrição, reduzindo a ocorrência de interrupções da terapia antineoplásica e melhorando a qualidade de vida. Assim, ofertar uma terapia nutricional apropriada é importante para minimizar potenciais efeitos adversos. Essa orientação possui forte evidência científica e prática. As afirmativas acima são, respectivamente, (A) V – V – F. (B) V – F – V. (C) F – V – F. (D) F – F – V. (E) F – F – F."
+        "E": "I, II e III."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "A Diretriz BRASPEN de terapia nutricional no paciente com câncer (2019) baseou-se em compêndios internacionais, para população adulta e idosa e estudos recentes de relevância científica. À luz dos conhecimentos acerca do suporte nutricional enteral e parenteral, em consonância com tal documento, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Recomenda-se (com nível alto de evidência) abreviação do jejum para pacientes oncológicos para 2 a 3 horas com fórmula contendo maltodextrina a 12,5%, com ou sem fonte nitrogenada na quantidade de 200 ml. No pós-operatório deve-se iniciar a dieta precocemente nas primeiras 12 a 24 horas na presença de estabilidade hemodinâmica independentemente da via de alimentação. ( ) A estratégia nutricional no paciente oncológico com sarcopenia deve contemplar uma dieta hiperproteica e fracionada de forma a ofertar de 30 a 50 g de proteína por refeição, uma vez que a perda de massa muscular é considerada a principal característica da desnutrição associada ao câncer. Tal recomendação exibe forte evidência científica e prática. ( ) O objetivo da terapia nutricional no câncer crítico é minimizar os efeitos deletérios da resposta inflamatória aguda e da desnutrição, reduzindo a ocorrência de interrupções da terapia antineoplásica e melhorando a qualidade de vida. Assim, ofertar uma terapia nutricional apropriada é importante para minimizar potenciais efeitos adversos. Essa orientação possui forte evidência científica e prática. As afirmativas acima são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "V – F – V.",
+        "C": "F – V – F.",
+        "D": "F – F – V.",
+        "E": "F – F – F."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
     },
     {
       "question_number": 54,
@@ -542,9 +916,26 @@
         "B": "Miniavaliação nutricional (MAN).",
         "C": "Avaliação subjetiva global (ASG).",
         "D": "Screening Tool for Risk on Nutritional Status (STRONGsenior).",
-        "E": "Screening Tool for the Assessment of Malnutrition in Patient (STAMP). Sabe-se que a aplicação de medidas preventivas no campo, bem como a implantação de sistemas de garantia de qualidade, como o APPCC (Análise de Perigos e Pontos Críticos de Controle) são atribuições do Nutricionista. Considerando o APPCC e sua adoção em um sistema de produção de tomate para processamento industrial, assinale a afirmativa correta. (A) Os perigos microbiológicos na produção de tomates estão relacionados com a presença de microrganismos patogênicos ao ser humano no ambiente de cultivo (solo), na água de irrigação, nos adubos orgânicos, na água utilizada na pós- colheita, nas mãos dos trabalhadores da colheita e nas etapas de pós-colheita. (B) Os perigos químicos na cultura de tomate apresentam elevada ocorrência. Porém, o processo de lavagem dos frutos com água limpa e de boa qualidade elimina grande parte desses perigos químicos, como pedaços de madeira, solo, areia, metal, dentre outros, que podem estar aderidos na superfície dos frutos. (C) Adubação orgânica é um ponto crítico de controle, que merece atenção durante o plantio do tomate. Assim, garantindo a qualidade e segurança microbiológica do alimento, admite-se como limite crítico, a presença de até 2000 UFC/g para Salmonella sp.; e quantidade livre para coliformes fecais. (D) A etapa de manuseio dos tomates constitui um limite crítico importante, pois resíduos de detergentes ou desinfetantes nas superfícies que entram em contato com os tomates podem gerar intoxicações alimentares. E como medida preventiva, sugere-se estabelecer e aplicar um plano de manutenção de superfícies e utensílios. (E) A contaminação com metais pesados representa um ponto crítico de controle no processo produtivo. O excesso de chumbo, por exemplo, causa o saturnismo, gerado por envenenamento crônico, enquanto a adição de mercúrio é uma medida corretiva sugerida para reversão do problema, recuperando funções nervosas e respiratórias."
+        "E": "Screening Tool for the Assessment of Malnutrition in Patient (STAMP)."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 55,
+      "discipline": null,
+      "statement": "Sabe-se que a aplicação de medidas preventivas no campo, bem como a implantação de sistemas de garantia de qualidade, como o APPCC (Análise de Perigos e Pontos Críticos de Controle) são atribuições do Nutricionista. Considerando o APPCC e sua adoção em um sistema de produção de tomate para processamento industrial, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os perigos microbiológicos na produção de tomates estão relacionados com a presença de microrganismos patogênicos ao ser humano no ambiente de cultivo (solo), na água de irrigação, nos adubos orgânicos, na água utilizada na pós- colheita, nas mãos dos trabalhadores da colheita e nas etapas de pós-colheita.",
+        "B": "Os perigos químicos na cultura de tomate apresentam elevada ocorrência. Porém, o processo de lavagem dos frutos com água limpa e de boa qualidade elimina grande parte desses perigos químicos, como pedaços de madeira, solo, areia, metal, dentre outros, que podem estar aderidos na superfície dos frutos.",
+        "C": "Adubação orgânica é um ponto crítico de controle, que merece atenção durante o plantio do tomate. Assim, garantindo a qualidade e segurança microbiológica do alimento, admite-se como limite crítico, a presença de até 2000 UFC/g para Salmonella sp.; e quantidade livre para coliformes fecais.",
+        "D": "A etapa de manuseio dos tomates constitui um limite crítico importante, pois resíduos de detergentes ou desinfetantes nas superfícies que entram em contato com os tomates podem gerar intoxicações alimentares. E como medida preventiva, sugere-se estabelecer e aplicar um plano de manutenção de superfícies e utensílios.",
+        "E": "A contaminação com metais pesados representa um ponto crítico de controle no processo produtivo. O excesso de chumbo, por exemplo, causa o saturnismo, gerado por envenenamento crônico, enquanto a adição de mercúrio é uma medida corretiva sugerida para reversão do problema, recuperando funções nervosas e respiratórias."
+      },
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -559,13 +950,30 @@
         "B": "A leucopenia é comum em pessoas com infecção e neoplasia; enquanto a leucocitose ocorre durante o estresse, em indivíduos desnutridos, ou que estejam recebendo quimioterapia ou radioterapia.",
         "C": "A ferritina tem sua síntese reduzida na presença de inflamação. As citocinas e outros mediadores inflamatórios podem diminuir a síntese de ferritina, favorecendo o desenvolvimento de anemias.",
         "D": "A verificação de fosfolipase A2 associada à lipoproteína é indicada em casos de redução de LDL-colesterol; já a apolipoproteína A-1, quando em níveis aumentados, favorece a aterosclerose.",
-        "E": "O peptídeo C é um precursor da insulina liberado pelas células beta do pâncreas durante a quebra da insulina a partir da proinsulina. Geralmente, suas concentrações ficam elevadas com insulinomas e na resistência à insulina. Sabe-se que a escolha alimentar pode influenciar diretamente na absorção e utilização dos nutrientes no organismo. Assim, durante o acompanhamento dietoterápico, um nutricionista considerou aspectos relacionados à biodisponibilidade, interações entre nutrientes e qualidade das fontes alimentares. Com base nesse contexto, é correto afirmar que (A) a absorção do ferro não heme é favorecida pela presença de fitatos e polifenóis, comuns em cereais integrais e leguminosas. (B) o consumo concomitante de vitamina C pode aumentar a biodisponibilidade do ferro não heme presente em alimentos de origem vegetal. (C) o cálcio presente em vegetais verde-escuros e amarelados apresenta alta biodisponibilidade devido à ausência de fatores inibidores. (D) as proteínas de origem vegetal possuem valor biológico superior às proteínas de origem animal, por apresentarem perfil completo de aminoácidos essenciais, como serina. (E) a vitamina B12 pode ser obtida em quantidades adequadas por meio de dietas estritamente vegetarianas, sem necessidade de suplementação."
+        "E": "O peptídeo C é um precursor da insulina liberado pelas células beta do pâncreas durante a quebra da insulina a partir da proinsulina. Geralmente, suas concentrações ficam elevadas com insulinomas e na resistência à insulina."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13
+    },
+    {
+      "question_number": 57,
+      "discipline": null,
+      "statement": "Sabe-se que a escolha alimentar pode influenciar diretamente na absorção e utilização dos nutrientes no organismo. Assim, durante o acompanhamento dietoterápico, um nutricionista considerou aspectos relacionados à biodisponibilidade, interações entre nutrientes e qualidade das fontes alimentares. Com base nesse contexto, é correto afirmar que",
+      "alternatives": {
+        "A": "a absorção do ferro não heme é favorecida pela presença de fitatos e polifenóis, comuns em cereais integrais e leguminosas.",
+        "B": "o consumo concomitante de vitamina C pode aumentar a biodisponibilidade do ferro não heme presente em alimentos de origem vegetal.",
+        "C": "o cálcio presente em vegetais verde-escuros e amarelados apresenta alta biodisponibilidade devido à ausência de fatores inibidores.",
+        "D": "as proteínas de origem vegetal possuem valor biológico superior às proteínas de origem animal, por apresentarem perfil completo de aminoácidos essenciais, como serina.",
+        "E": "a vitamina B12 pode ser obtida em quantidades adequadas por meio de dietas estritamente vegetarianas, sem necessidade de suplementação."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
     },
     {
       "question_number": 58,
@@ -576,13 +984,47 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. A doença hepática gordurosa não alcoólica (NAFLD) é definida como a presença de gordura em mais de 5% dos hepatócitos, na ausência de consumo excessivo de álcool ou outras doenças hepáticas crônicas. Quanto à enfermidade em questão, à luz da Diretriz Brasileira de Doença Hepática Esteatótica Associada à Disfunção Metabólica, assinale a afirmativa correta. (A) Em pacientes com sobrepeso/obesidade e MASLD (doença hepática gordurosa associada à disfunção metabólica), a estratificação do risco cardiovascular é opcional durante o momento do diagnóstico, pois alterações cardíacas são vistas somente com o avanço crônico das doenças em questão. (B) Uma dieta mediterrânea normocalórica favorece a redução da gordura hepática associada à perda ponderal, sendo acompanhada por melhora na gama-glutamiltransferase (GGT) e hemoglobina glicada (HbA1c). Tal recomendação exibe forte evidência, com classificação A quanto à sua qualidade. (C) Em pacientes com sobrepeso/obesidade e MASLD, a substituição de gorduras por carboidratos é recomendada para a redução da esteatose hepática. Indica-se também a substituição de fontes de gordura saturada por gorduras insaturadas. Tal recomendação exibe moderada evidência, com classificação A quanto à sua qualidade. (D) Em pacientes com sobrepeso/obesidade e MASLD, o consumo regular de 3 a 6 xícaras de café por dia reduz a progressão da fibrose, uma vez que a cafeína é capaz de inibir a fibrogênese. Tal recomendação exibe moderada evidência, com classificação A quanto à sua qualidade. (E) Em pacientes com sobrepeso/obesidade e MASLD, uma redução superior a 7% no peso corporal deve ser considerada para melhorar a esteato-hepatite sem agravar a fibrose. Tal recomendação exibe moderada evidência, com classificação A quanto à sua qualidade. Atualmente, o aumento de adultos portadores de diabetes mellitus (DM) no mundo tem contribuído para o incremento de óbitos e gastos para o sistema público de saúde. Considerando os aspectos fisiopatológicos e recomendações dietoterápicas relacionadas ao DM, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A obesidade intra-abdominal é caracterizada pelo aumento do tecido adiposo visceral, exibindo atividade metabólica, endócrina e imunomoduladora e, além dos ácidos graxos livres, também produz adipocinas pró-inflamatórias (como TNF-α e IL-10) e anticorpos, que reduzem a sensibilidade à insulina e captação de glicose. ( ) A meta calórica e proteica, em pacientes com DM, deve ser individualizada. Para indivíduos diabéticos eutróficos críticos, recomenda-se o aporte calórico diário de 22-25 kcal/kg de peso atual e 2,0 a 3,5 g/kg de peso atual de proteína, segundo preconizado pela Diretriz BRASPEN de terapia nutricional no diabetes mellitus (2020). ( ) Pacientes em uso contínuo de metformina devem ser rastreados para deficiência de vitamina B9, devendo ser corrigida quando notada. O mecanismo de interação droga- nutriente ainda não está estabelecido, mas é sugerida uma ação da metformina no complexo fator intrínseco-vitamina B9, além de alterações na microbiota intestinal. As afirmativas acima são, respectivamente, (A) V – V – F. (B) V – F – V. (C) F – V – F. (D) F – F – V. (E) F – F – F. 1 No âmbito de procedimento acompanhado pelo Ministério Público do Estado do Espírito Santo (MPES), foi solicitada manifestação técnica da área de Nutrição acerca do acompanhamento nutricional de uma criança atendida em serviço público de saúde, com o objetivo de subsidiar a análise da adequação das orientações prestadas à família e das condutas adotadas pelo serviço. O caso refere-se a um menino de 1 ano, 2 meses e 6 dias, levado à Unidade Básica de Saúde para avaliação de seu estado nutricional. Após anamnese, associada às medidas antropométricas e à análise do consumo alimentar, foram obtidas as seguintes informações: Dados referentes ao nascimento Nascimento a termo com 40 semanas gestacionais Apgar com pontuação de 6 no 5° minuto Peso: 2.600g Estatura: 47,5cm Consumo alimentar Mãe relata que o menino é amamentado ao seio, sendo feita ordenha do leite materno para posterior consumo. Para tal, são usados recipientes de vidro, esterilizados e com tampas de metal. O frasco com o leite retirado é guardado na geladeira durante 48 horas e ofertado à criança após fervura. Na sua rotina alimentar recebe três refeições ao dia, com alimentos peneirados, amassados e dispostos separadamente no prato. A criança recebe sucos naturais de frutas (sem adição de açúcar), e consome legumes, verduras, cereais e leguminosas diariamente. E nas refeições principais ingere carnes e ovos três vezes na semana. Responsável refere ausência de suplementos de nutrientes. Antropometria Após realização de medidas antropométricas, foi obtido o Índice de Massa Corporal (IMC) de 13,5 kg/m2. Para classificação deste índice foi utilizada a curva de crescimento da Organização Mundial da Saúde (2006), segundo proposto pela Caderneta da Saúde do menino, como exposto a seguir. Figura 1 - Gráfico de índice de massa corporal por idade (IMC/idade) para crianças menores de dois anos, baseado nas curvas de crescimento da Organização Mundial da Saúde (2006), utilizado para avaliação do estado nutricional segundo escores-z, conforme exposto na Caderneta da Criança, publicada em 2020. Fonte: Ministério da Saúde. Caderneta da Criança, 2020. a. classifique o índice IMC para idade da criança, de acordo com o gráfico apresentado, e em consonância com o proposto pelo Ministério da Saúde (2020); b. indique quais medidas antropométricas devem compor a avaliação nutricional da criança, segundo preconizações do Sistema de Vigilância Alimentar e Nutricional – SISVAN (2011), e à luz das recomendações do Ministério da Saúde, expostas na Caderneta da Saúde (2020); c. identifique 5 (cinco) aspectos da rotina alimentar da criança que não estão em conformidade com as recomendações nutricionais contidas no Guia alimentar para crianças brasileiras menores de dois anos (2019), ou na Caderneta da Criança (2020). 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Durante uma ação do Programa de Promoção da Saúde do Ministério Público do Estado do Espírito Santo (MPES), um servidor informou ter sido hospitalizado após apresentar visão dupla, dificuldade para falar e deglutir e fraqueza generalizada. Ao exame físico, mostrou-se consciente, afebril, com dificuldade respiratória e distensão abdominal. Durante a anamnese, o paciente informou ter consumido, dois dias antes do início dos sintomas, conserva caseira de vegetais armazenada em pote hermeticamente fechado, preparada artesanalmente. Diante do quadro clínico apresentado, a equipe assistencial levantou a suspeita de infecção por Clostridium botulinum, provavelmente por toxina tipo A. Considerando a atuação do Nutricionista na promoção da saúde e na segurança dos alimentos, responda aos itens a seguir: a. Explique duas condições ambientais necessárias para a produção da toxina botulínica em alimentos conservados. b. Explique três fatores intrínsecos dos alimentos que influenciam o crescimento de qualquer microrganismo. c. Descreva duas orientações de boas práticas de manipulação, preparo ou armazenamento de alimentos que contribuam para prevenir a ocorrência da doença manifestada no paciente. Realização"
+        "E": "I, II e III."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "A doença hepática gordurosa não alcoólica (NAFLD) é definida como a presença de gordura em mais de 5% dos hepatócitos, na ausência de consumo excessivo de álcool ou outras doenças hepáticas crônicas. Quanto à enfermidade em questão, à luz da Diretriz Brasileira de Doença Hepática Esteatótica Associada à Disfunção Metabólica, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Em pacientes com sobrepeso/obesidade e MASLD (doença hepática gordurosa associada à disfunção metabólica), a estratificação do risco cardiovascular é opcional durante o momento do diagnóstico, pois alterações cardíacas são vistas somente com o avanço crônico das doenças em questão.",
+        "B": "Uma dieta mediterrânea normocalórica favorece a redução da gordura hepática associada à perda ponderal, sendo acompanhada por melhora na gama-glutamiltransferase (GGT) e hemoglobina glicada (HbA1c). Tal recomendação exibe forte evidência, com classificação A quanto à sua qualidade.",
+        "C": "Em pacientes com sobrepeso/obesidade e MASLD, a substituição de gorduras por carboidratos é recomendada para a redução da esteatose hepática. Indica-se também a substituição de fontes de gordura saturada por gorduras insaturadas. Tal recomendação exibe moderada evidência, com classificação A quanto à sua qualidade.",
+        "D": "Em pacientes com sobrepeso/obesidade e MASLD, o consumo regular de 3 a 6 xícaras de café por dia reduz a progressão da fibrose, uma vez que a cafeína é capaz de inibir a fibrogênese. Tal recomendação exibe moderada evidência, com classificação A quanto à sua qualidade.",
+        "E": "Em pacientes com sobrepeso/obesidade e MASLD, uma redução superior a 7% no peso corporal deve ser considerada para melhorar a esteato-hepatite sem agravar a fibrose. Tal recomendação exibe moderada evidência, com classificação A quanto à sua qualidade."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
+      "question_number": 60,
+      "discipline": null,
+      "statement": "Atualmente, o aumento de adultos portadores de diabetes mellitus (DM) no mundo tem contribuído para o incremento de óbitos e gastos para o sistema público de saúde. Considerando os aspectos fisiopatológicos e recomendações dietoterápicas relacionadas ao DM, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A obesidade intra-abdominal é caracterizada pelo aumento do tecido adiposo visceral, exibindo atividade metabólica, endócrina e imunomoduladora e, além dos ácidos graxos livres, também produz adipocinas pró-inflamatórias (como TNF-α e IL-10) e anticorpos, que reduzem a sensibilidade à insulina e captação de glicose. ( ) A meta calórica e proteica, em pacientes com DM, deve ser individualizada. Para indivíduos diabéticos eutróficos críticos, recomenda-se o aporte calórico diário de 22-25 kcal/kg de peso atual e 2,0 a 3,5 g/kg de peso atual de proteína, segundo preconizado pela Diretriz BRASPEN de terapia nutricional no diabetes mellitus (2020). ( ) Pacientes em uso contínuo de metformina devem ser rastreados para deficiência de vitamina B9, devendo ser corrigida quando notada. O mecanismo de interação droga- nutriente ainda não está estabelecido, mas é sugerida uma ação da metformina no complexo fator intrínseco-vitamina B9, além de alterações na microbiota intestinal. As afirmativas acima são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "V – F – V.",
+        "C": "F – V – F.",
+        "D": "F – F – V.",
+        "E": "F – F – F. Prova Discursiva 1 No âmbito de procedimento acompanhado pelo Ministério Público do Estado do Espírito Santo (MPES), foi solicitada manifestação técnica da área de Nutrição acerca do acompanhamento nutricional de uma criança atendida em serviço público de saúde, com o objetivo de subsidiar a análise da adequação das orientações prestadas à família e das condutas adotadas pelo serviço. O caso refere-se a um menino de 1 ano, 2 meses e 6 dias, levado à Unidade Básica de Saúde para avaliação de seu estado nutricional. Após anamnese, associada às medidas antropométricas e à análise do consumo alimentar, foram obtidas as seguintes informações: Dados referentes ao nascimento Nascimento a termo com 40 semanas gestacionais Apgar com pontuação de 6 no 5° minuto Peso: 2.600g Estatura: 47,5cm Consumo alimentar Mãe relata que o menino é amamentado ao seio, sendo feita ordenha do leite materno para posterior consumo. Para tal, são usados recipientes de vidro, esterilizados e com tampas de metal. O frasco com o leite retirado é guardado na geladeira durante 48 horas e ofertado à criança após fervura. Na sua rotina alimentar recebe três refeições ao dia, com alimentos peneirados, amassados e dispostos separadamente no prato. A criança recebe sucos naturais de frutas (sem adição de açúcar), e consome legumes, verduras, cereais e leguminosas diariamente. E nas refeições principais ingere carnes e ovos três vezes na semana. Responsável refere ausência de suplementos de nutrientes. Antropometria Após realização de medidas antropométricas, foi obtido o Índice de Massa Corporal (IMC) de 13,5 kg/m2. Para classificação deste índice foi utilizada a curva de crescimento da Organização Mundial da Saúde (2006), segundo proposto pela Caderneta da Saúde do menino, como exposto a seguir. Figura 1 - Gráfico de índice de massa corporal por idade (IMC/idade) para crianças menores de dois anos, baseado nas curvas de crescimento da Organização Mundial da Saúde (2006), utilizado para avaliação do estado nutricional segundo escores-z, conforme exposto na Caderneta da Criança, publicada em 2020. Fonte: Ministério da Saúde. Caderneta da Criança, 2020. Considerando as recomendações do Ministério da Saúde, do SISVAN e do Guia Alimentar para Crianças Brasileiras Menores de Dois Anos, elabore resposta técnica aos itens a seguir, como se estivesse subsidiando manifestação do Nutricionista do MPES. a. classifique o índice IMC para idade da criança, de acordo com o gráfico apresentado, e em consonância com o proposto pelo Ministério da Saúde (2020); b. indique quais medidas antropométricas devem compor a avaliação nutricional da criança, segundo preconizações do Sistema de Vigilância Alimentar e Nutricional – SISVAN (2011), e à luz das recomendações do Ministério da Saúde, expostas na Caderneta da Saúde (2020); c. identifique 5 (cinco) aspectos da rotina alimentar da criança que não estão em conformidade com as recomendações nutricionais contidas no Guia alimentar para crianças brasileiras menores de dois anos (2019), ou na Caderneta da Criança (2020). 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 Durante uma ação do Programa de Promoção da Saúde do Ministério Público do Estado do Espírito Santo (MPES), um servidor informou ter sido hospitalizado após apresentar visão dupla, dificuldade para falar e deglutir e fraqueza generalizada. Ao exame físico, mostrou-se consciente, afebril, com dificuldade respiratória e distensão abdominal. Durante a anamnese, o paciente informou ter consumido, dois dias antes do início dos sintomas, conserva caseira de vegetais armazenada em pote hermeticamente fechado, preparada artesanalmente. Diante do quadro clínico apresentado, a equipe assistencial levantou a suspeita de infecção por Clostridium botulinum, provavelmente por toxina tipo A. Considerando a atuação do Nutricionista na promoção da saúde e na segurança dos alimentos, responda aos itens a seguir: a. Explique duas condições ambientais necessárias para a produção da toxina botulínica em alimentos conservados. b. Explique três fatores intrínsecos dos alimentos que influenciam o crescimento de qualquer microrganismo. c. Descreva duas orientações de boas práticas de manipulação, preparo ou armazenamento de alimentos que contribuam para prevenir a ocorrência da doença manifestada no paciente. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
     }
   ]
 }

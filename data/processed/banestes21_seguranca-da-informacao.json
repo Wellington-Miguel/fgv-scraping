@@ -4,11 +4,11 @@
   "concurso_title": "Concurso Público para o Banco do Estado do Espírito Santo - BANESTES",
   "cargo_title": "Segurança da Informação",
   "exam_type": "Tipo 1",
-  "total_questions": 58,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Um técnico de futebol, após um primeiro tempo difícil, declarou que seu time “ia continuar marcando sob pressão”. Nesse caso, pode-se entender que o time está marcando com pressão sobre si mesmo, em lugar de pressionando o adversário. A frase abaixo, também ligada ao mundo do futebol, que está perfeitamente lógica e coerente é:",
       "alternatives": {
         "A": "O beque só jogou porque foi regularizado na Federação;",
@@ -25,7 +25,7 @@
     },
     {
       "question_number": 2,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Observe a seguinte descrição de um museu: “Do lado de fora e diante da porta central, pude observar a enorme porta, de estilo antigo, de madeira sólida, cercada de um pequeno friso de pedra, talvez por exigência do estilo da época; ao lado, uma série de janelas do mesmo material, que, em função do horário, ainda estavam fechadas.” Nessa descrição, nem todos os elementos do museu estão presentes; isso ocorre em muitas descrições por diferentes limitações de quem descreve. No caso desse segmento, a limitação descritiva provém:",
       "alternatives": {
         "A": "de problemas psicológicos de quem observa;",
@@ -42,7 +42,7 @@
     },
     {
       "question_number": 3,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Um teólogo francês afirmou: “Vivemos em uma época perigosa. O homem domina a natureza, antes que tenha aprendido a dominar a si mesmo.” Sobre esse texto, é correto afirmar que:",
       "alternatives": {
         "A": "apresenta uma tese, apoiada em argumentos fundamentados em testemunhos de autoridade;",
@@ -59,7 +59,7 @@
     },
     {
       "question_number": 4,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Observe a frase de um grande romancista inglês, Chesterton: “Não foi o mundo que piorou. As coberturas jornalísticas é que melhoraram muito.” Dessa frase, deduz-se que, segundo o pensamento do autor:",
       "alternatives": {
         "A": "as coberturas jornalísticas passaram a explorar temas escabrosos;",
@@ -76,7 +76,7 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Todas as frases abaixo são pensamentos sobre a modernidade; o pensamento que revela uma visão positiva sobre esse tema é:",
       "alternatives": {
         "A": "“Nós vivemos em um arco-íris de caos” (Cézanne);",
@@ -93,7 +93,7 @@
     },
     {
       "question_number": 6,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "De cada uma das manchetes abaixo, sugerimos uma inferência. A inferência é adequada em:",
       "alternatives": {
         "A": "O governo pretende arrecadar mais em impostos / o governo pretende combater a sonegação;",
@@ -110,7 +110,7 @@
     },
     {
       "question_number": 7,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Em todas as frases abaixo há um conector sublinhado; aquele que apresenta o seu valor semântico perfeitamente indicado é:",
       "alternatives": {
         "A": "Se Leonardo da Vinci terminou a sua carreira como músico, não vejo problemas em acabar a minha como pintor / causa;",
@@ -127,7 +127,7 @@
     },
     {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Para os jornais, os títulos das matérias devem seguir regras na sua formulação; nas opções abaixo aparecem as regras e, em seguida, o título de uma reportagem ou notícia. A opção em que a regra inicial foi seguida corretamente pelo título é:",
       "alternatives": {
         "A": "não é recomendável o uso da voz passiva em títulos: Os bens da faculdade serão vendidos;",
@@ -144,7 +144,7 @@
     },
     {
       "question_number": 9,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Em todos os textos abaixo aparecem estrangeirismos, com sua tradução indispensável entre parênteses; aquela frase cuja tradução está correta é:",
       "alternatives": {
         "A": "O airbag do automóvel funcionou a contento (freios manuais);",
@@ -161,7 +161,7 @@
     },
     {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Observe as duas frases a seguir. A – Os professores decidiram entrar em greve a partir de hoje. B – A Prefeitura concedeu aumento aos professores anteontem. Se juntássemos de forma coerente as duas frases em um só período, a melhor forma seria:",
       "alternatives": {
         "A": "A Prefeitura concedeu aumento aos professores anteontem, logo os professores decidiram entrar em greve a partir de hoje;",
@@ -177,8 +177,25 @@
       "page_number": 4
     },
     {
+      "question_number": 11,
+      "discipline": "Língua Portuguesa",
+      "statement": "Todas as frases abaixo mostram a presença da conjunção OU; aquela frase em que ela tem valor de adição é:",
+      "alternatives": {
+        "A": "Aquele senhor falava inglês ou francês com facilidade;",
+        "B": "Comprarei um carro novo: um Fusca ou um BMW;",
+        "C": "Ou você se conserta ou desaparece daqui!;",
+        "D": "Rui Barbosa, ou a Águia de Haia, foi famoso jurista;",
+        "E": "Vamos estudar ou seremos reprovados."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Todas as frases abaixo têm por tema a economia; a frase que mostra simultaneamente uma visão negativa da economia e a utilização de vocábulos do campo lexical da economia é:",
       "alternatives": {
         "A": "Em economia, é fácil explicar o passado. Mais fácil ainda é predizer o futuro. Difícil é entender o presente;",
@@ -195,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Quando um ato comunicativo não se realiza de forma adequada, isso pode ser explicado por problemas de um dos fatores presentes nesse ato. Observe o caso a seguir. Roberto chegou atrasado ao cinema e não pôde compreender por que a heroína do filme recusou a casar-se com o campeão mundial de skate. Aponte a razão da falha na comunicação:",
       "alternatives": {
         "A": "o código empregado é diferente para o emissor e o receptor;",
@@ -212,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Certos gêneros de filmes (os filmes de terror ou de ficção científica, por exemplo) criam um grande estresse no espectador.” Na frase acima, a preocupação com a objetividade e a clareza da mensagem faz com que o enunciador apele para a seguinte estratégia:",
       "alternatives": {
         "A": "enumerar diversos aspectos ou componentes da realidade;",
@@ -229,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "A frase abaixo que mostra conteúdo informativo mais completo e claro é:",
       "alternatives": {
         "A": "O deputado apresentou novo projeto de lei;",
@@ -246,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "O Banestes possui um Guia de Conduta Ética, aplicável a todos os administradores, membros de conselhos e comitês, empregados, estagiários e prestadores de serviços do SFB (Sistema Financeiro Banestes). De acordo com o guia, o princípio da prudência delimita que o profissional deve:",
       "alternatives": {
         "A": "zelar pela defesa da concorrência nas emissões de títulos;",
@@ -263,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "O Sistema Financeiro Nacional (SFN) é o conjunto de instituições e instrumentos que possibilitam a transferência de recursos entre os agentes econômicos superavitários e os deficitários. Essa transferência é possível por conta:",
       "alternatives": {
         "A": "dos mercados monetário, de crédito, de capitais e cambial;",
@@ -280,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Amparado pelo Conselho Monetário Nacional (CMN), o Banco Central do Brasil (BCB) tem por uma de suas atribuições:",
       "alternatives": {
         "A": "a execução da política fiscal;",
@@ -297,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Por meio da Lei nº 9.613/1998, o Brasil regulamentou pela primeira vez a prática de lavagem de dinheiro ou ocultação de bens. Dentre os delitos que configuram esse crime, encontra(m)-se:",
       "alternatives": {
         "A": "o uso de informação privilegiada;",
@@ -314,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "O Comitê de Política Monetária (Copom) do Banco Central do Brasil tem por principais objetivos: i) estabelecer as diretrizes da política monetária; e ii) definir a meta da taxa de juros básica no Brasil e seu eventual viés. Para a consecução do objetivo ii), dada a decisão do Copom, o Banco Central do Brasil:",
       "alternatives": {
         "A": "emite títulos públicos;",
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Casas lotéricas têm autorização para receber pagamentos de contas de luz, água, telefone e, em alguns municípios, até certos tributos. Esse tipo de função, própria do setor bancário tradicional, só é possível via autorização do(a):",
       "alternatives": {
         "A": "Ministério da Fazenda;",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "É competência do Conselho Monetário Nacional (CMN), a fiscalização:",
       "alternatives": {
         "A": "da taxa do CDI;",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Em 22 de setembro de 2021, o Copom aumentou a meta da taxa Selic para 6,25% ao ano. Em termos práticos, isso significa que a mesa de operações de mercado aberto do Banco Central deve atuar para que a Selic diária fique próxima dessa meta. Se a Selic diária estiver em 8% num certo dia, a mesa de operações do Banco Central deve:",
       "alternatives": {
         "A": "comprar títulos públicos no mercado e mantê-los em sua carteira, até que a taxa diária atinja a meta de 6,25%;",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "O Sistema Financeiro Nacional possui órgãos normativos, entidades supervisoras e operadores. Os órgãos normativos, além do Conselho Nacional de Seguros Privados (CNSP), incluem:",
       "alternatives": {
         "A": "a Casa da Moeda e o Banco Central;",
@@ -399,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "O Banco Central do Brasil, em comunicado de novembro de 2017, alertou para questões relacionadas à conversibilidade e lastro das chamadas criptomoedas ou moedas virtuais, destacando que não é responsável por regular, autorizar ou supervisionar o seu uso. Assim, é correto afirmar que seu valor:",
       "alternatives": {
         "A": "decorre da garantia de conversão em moedas soberanas;",
         "B": "decorre da emissão e garantia por conta de autoridades monetárias;",
         "C": "decorre de um lastro em ativos reais;",
         "D": "é associado ao tamanho da base monetária;",
-        "E": "decorre exclusivamente da confiança conferida pelos indivíduos ao seu emissor. Raciocínio Lógico-Matemático"
+        "E": "decorre exclusivamente da confiança conferida pelos indivíduos ao seu emissor."
       },
       "answer": "E",
       "annulled": false,
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em nosso país, as áreas de terrenos são medidas com unidades diversas, como, por exemplo, o hectare que corresponde a 10.000 m2; o alqueire paulista, a 24.000 m2; e o alqueire do Norte, a 27.000 m2. Um terreno de 17 alqueires do Norte excede um de 18 alqueires paulistas em:",
       "alternatives": {
         "A": "1,8 hectare;",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A frase a seguir é um conhecido ditado popular: “Se não tem cão então caça com gato\". Uma frase logicamente equivalente é:",
       "alternatives": {
         "A": "Se tem cão então não caça com gato;",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Um escritório de investimentos possui 86 clientes que são atendidos por 6 consultores. Cada consultor deve atender a no mínimo 9 e no máximo 20 clientes. É correto concluir que:",
       "alternatives": {
         "A": "pelo menos 1 consultor atende a mais de 14 clientes;",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Hugo, Lauro e Mário são funcionários de um escritório de investimentos e trabalham com áreas diferentes: um trabalha com mercado de ações, outro com previdência e outro com multimercado. Dentre as afirmativas abaixo, somente uma é verdadeira:  Hugo trabalha com previdência.  Lauro não trabalha com previdência.  Mário não trabalha com multimercado. Assim, é correto afirmar que:",
       "alternatives": {
         "A": "Hugo trabalha com multimercado;",
@@ -484,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma empresa há funcionários homens e mulheres, alguns com curso superior, outros não. Sabe-se que: • 65% dos funcionários são homens; • entre os funcionários sem curso superior, dois terços são homens; • um quinto das mulheres têm curso superior. Nessa empresa, a porcentagem de homens com curso superior é:",
       "alternatives": {
         "A": "7%;",
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Considere como verdadeiras as sentenças a seguir. . Se Priscila é paulista, então Joel é capixaba. . Se Gabriela não é carioca, então Joel não é capixaba. . Se Gabriela é carioca, então Priscila não é paulista. É correto deduzir que:",
       "alternatives": {
         "A": "Gabriela é carioca;",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Alda tem 222 bolinhas numeradas, cada uma com um número inteiro positivo diferente. Há 87 bolinhas com números pares e as demais têm números ímpares. Alda, então, forma 111 grupinhos com duas bolinhas cada um. Há exatamente 37 grupinhos em que as duas bolinhas têm números ímpares. O número de grupinhos que tem duas bolinhas com números pares é:",
       "alternatives": {
         "A": "74;",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Considere a sequência dos 120 anagramas da palavra BANCO escritos em ordem alfabética. O anagrama CANBO ocupa a posição de número:",
       "alternatives": {
         "A": "50;",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A média e a mediana de 5 números reais são, respectivamente, 17 e 23. A diferença entre o maior e o menor desses 5 números é, no mínimo, igual a:",
       "alternatives": {
         "A": "11;",
@@ -569,14 +586,14 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Marcelo joga, simultaneamente, dois dados cúbicos honestos cujas faces estão numeradas de 1 a 6. A probabilidade de os dois números sorteados serem consecutivos é: ;",
       "alternatives": {
         "A": ";",
         "B": ";",
         "C": ";",
-        "D": ".",
-        "E": "Conhecimentos Específicos"
+        "D": ". (E)",
+        "E": null
       },
       "answer": "A",
       "annulled": false,
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere um processo de ordenação dos elementos do array [16,8,6,14,12,4] em ordem crescente. Supõe-se um algoritmo que percorra o array repetidamente até que esteja ordenado, sem utilização de memória auxiliar para os elementos do array (in place). A lista a seguir mostra a disposição dos elementos no array após cada ciclo de iteração. [8, 6, 14, 12, 4, 16] [6, 8, 12, 4, 14, 16] [6, 8, 4, 12, 14, 16] [6, 4, 8, 12, 14, 16] [4, 6, 8, 12, 14, 16] Nesse caso, é correto concluir que foi utilizado o algoritmo:",
       "alternatives": {
         "A": "Bubble Sort;",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere a propriedade de Isolamento das transações ACID nos sistemas gerenciadores de bancos de dados. Um mecanismo usualmente empregado para garantir a integridade dos dados em operações concorrentes atua por meio de operações de:",
       "alternatives": {
         "A": "Cache;",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "João pretende armazenar uma coleção de dados referentes a cerca de um milhão de pessoas. Cada pessoa tem como chave de acesso um número inteiro sequencial, que não se repete. Empregando uma estrutura de Tabela Hash, João conseguiria obter, praticamente, acesso com complexidade:",
       "alternatives": {
         "A": "O(1)",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere o comando JavaScript a seguir. document.getElementById('demo').innerHTML = Date() Numa página web na qual esse código seja aplicado, o elemento que é compatível com a estrutura do comando para receber a data corrente é:",
       "alternatives": {
         "A": "<p \"demo\">H</p>",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "No contexto das aplicações web, Ajax é uma tecnologia que destina-se primordialmente a:",
       "alternatives": {
         "A": "criptografar dados que são transmitidos pela rede;",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere um banco de dados que contém uma tabela com os atributos CPF, Nome, RG e Endereço, com milhões de registros. Sabe-se que cada pessoa tem seus próprios CPF e RG e um único nome, embora possa haver homônimos. Sendo assim, a dependência funcional que NÃO existe entre os atributos dessa tabela é:",
       "alternatives": {
         "A": "CPF  Nome",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "No contexto dos métodos disponíveis pelo protocolo HTTP, a lista que contém apenas métodos válidos é:",
       "alternatives": {
         "A": "GET, POST, PUT;",
@@ -704,8 +721,25 @@
       "page_number": 8
     },
     {
+      "question_number": 43,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Considere a representação de números decimais inteiros na notação binária de complemento a dois. Numa palavra de 6 bits, o número -31 seria representado como:",
+      "alternatives": {
+        "A": "000001",
+        "B": "011110",
+        "C": "011111",
+        "D": "100000",
+        "E": "100001"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Num ambiente Oracle, considere o acionamento de um utilitário por meio do prompt de comando, como exibido a seguir. % rman RMAN> CONNECT TARGET SYS@prod É correto afirmar que o comando disparado refere-se ao(s):",
       "alternatives": {
         "A": "acesso aos manuais de utilização do Oracle;",
@@ -722,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Nos ambientes de bancos de dados corporativos de alta disponibilidade, o termo failover refere-se:",
       "alternatives": {
         "A": "à migração planejada de dados e sistemas de uma plataforma para outra;",
@@ -739,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com referência à sintaxe do formato XML, um elemento (XML element) pode conter:",
       "alternatives": {
         "A": "atributos, texto e formato;",
@@ -756,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere o código Python a seguir. def F(a, b, c): for k in range(a,b): print k ** c Dado que uma execução da função F exibiu os números 16, 9, 4, 1, 0, 1, é correto afirmar que os valores dos parâmetros a, b, c empregados foram, respectivamente:",
       "alternatives": {
         "A": "-4, 1, 2;",
@@ -773,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Antônio recebeu uma mensagem SMS supostamente enviada pela segurança corporativa, orientando-o a clicar em um link para atualizar um cadastro. Ao fazê-lo, Antônio cai em um site falso, mas bastante parecido com o da sua empresa, e fornece dados sigilosos como nome de usuário e senha. Esse tipo de técnica de engenharia social que se aproveita da confiança depositada por um usuário para roubar dados é denominado:",
       "alternatives": {
         "A": "trojan;",
@@ -790,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma técnica de criptografia largamente empregada para garantir segurança em transações digitais, que utiliza uma chave pública para ciframento de dados e uma outra chave privada para deciframento desses dados previamente cifrados, é:",
       "alternatives": {
         "A": "DES;",
@@ -807,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "SQL Injection é uma técnica de ataque na qual o invasor se aproveita de falhas em aplicativos web que interagem com bases de dados para inserir uma instrução SQL personalizada e indevida. Para evitar essa ameaça de segurança, é necessário:",
       "alternatives": {
         "A": "utilizar expressões regulares para cifrar as variáveis enviadas para o sistema;",
@@ -824,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "A ferramenta iptables é comumente utilizada para limitar o tráfego de dados como forma de proteção contra a entrada de intrusos e a saída de dados secretos. A expressão que inclui uma regra na iptables, definindo o descarte dos pacotes de dados HTTP que chegam na porta 80 em qualquer interface de rede de um dado servidor, é:",
       "alternatives": {
         "A": "iptables -A OUTPUT -p all --dport 80 -j REJECT",
@@ -841,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para acessar a intranet corporativa, um colaborador informa seu CPF, senha pessoal e um código enviado para o seu celular cadastrado. O mecanismo de reforço implementado nessa intranet para confirmar a identidade do usuário contra acessos indevidos é a autenticação:",
       "alternatives": {
         "A": "biométrica;",
@@ -858,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Sobre funções de um Proxy Reverso, analise os itens a seguir. I. Manter cache de conteúdo estático das requisições originadas na Internet com destino à rede local. II. Distribuir a carga de requisições para uma lista rotativa de servidores. III. Autenticar clientes web como uma precondição para encaminhar o tráfego para servidores backend. Está correto o que se afirma em:",
       "alternatives": {
         "A": "somente I;",
@@ -875,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "A implementação correta de redes VPN pode permitir a comunicação segura através de redes públicas inseguras. Sobre redes VPN, é correto afirmar que:",
       "alternatives": {
         "A": "quando usadas por meio de dispositivo móvel, impedem que a operadora de telefonia determine a sua localização;",
@@ -892,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "O conceito de hardening caracteriza-se principalmente por medidas e ações que visam:",
       "alternatives": {
         "A": "permitir a recuperação de sistemas computacionais na sequência de um desastre natural;",
@@ -909,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um plano consistente de continuidade de negócios deve possuir índices RTO e RPO bem dimensionados. Um plano que estabelece uma meta RTO de 24 horas e um RPO de 5 horas significaria que:",
       "alternatives": {
         "A": "é aceitável um sistema ficar indisponível por até 24 horas depois de um desastre, seja natural ou ocasionado por erro humano;",
@@ -926,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "A Lei Geral de Proteção de Dados Pessoais (LGPD) em vigor no Brasil tem por fundamento o respeito à privacidade e a autodeterminação informativa. Segundo a legislação brasileira, a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais é denominada:",
       "alternatives": {
         "A": "controlador;",
@@ -943,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um pequeno dispositivo que contém um código de proteção precisa necessariamente ficar conectado à porta USB do computador para que determinado software possa ser utilizado. Esse dispositivo utilizado para prevenir o uso não autorizado de determinado software é conhecido como:",
       "alternatives": {
         "A": "Vault;",
@@ -960,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Monitorar e auditar o tráfego de informação corporativa é uma prática comumente utilizada por organizações para detectar atividades não autorizadas de processamento da informação. A técnica utilizada nas atividades de gerência para capturar e interpretar as informações sobre aquilo que trafega em cada segmento de rede é:",
       "alternatives": {
         "A": "NTP;",
@@ -977,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Conhecimentos Específicos",
       "statement": "Sobre técnicas de segurança de tráfego na web, analise as afirmativas a seguir. I. IPSec pode ser usado para criptografar dados enviados entre quaisquer sistemas que possam ser identificados por endereços IP. II. TLS opera na camada de rede do modelo OSI oferecendo um serviço seguro e confiável de ponta a ponta. III. O protocolo HTTP pode operar em cima do protocolo SSL/TLS para obter conexão criptografada. Está correto o que se afirma em:",
       "alternatives": {
         "A": "somente I;",

@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - Contador",
   "exam_type": "Tipo 1",
-  "total_questions": 41,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-contador_q12.png",
       "page_number": 3
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 21,
@@ -270,9 +372,26 @@
         "B": "despesa financeira.",
         "C": "despesa operacional.",
         "D": "dedução da receita de vendas.",
-        "E": "reversão da receita de vendas. A Cia X tem como principal atividade a consultoria tributária. Em 31 de dezembro de 2023, a Cia X tinha participação de 90% na Cia Y. Em 2024, a Cia X emprestou R$ 30.000 à Cia Y, e a Cia Y amortizou o passivo correspondente, em 2025. A saída de caixa pela concessão do empréstimo, em 2024, e a entrada de caixa por sua amortização, em 2025, impactaram, respectivamente, as seguintes atividades na Demonstração dos Fluxos de Caixa da Cia X: (A) de Financiamento e Operacional. (B) de Investimento e de Financiamento. (C) de Financiamento e de Investimento. (D) de Investimento e de Investimento. (E) de Financiamento e de Financiamento."
+        "E": "reversão da receita de vendas."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": null,
+      "statement": "A Cia X tem como principal atividade a consultoria tributária. Em 31 de dezembro de 2023, a Cia X tinha participação de 90% na Cia Y. Em 2024, a Cia X emprestou R$ 30.000 à Cia Y, e a Cia Y amortizou o passivo correspondente, em 2025. A saída de caixa pela concessão do empréstimo, em 2024, e a entrada de caixa por sua amortização, em 2025, impactaram, respectivamente, as seguintes atividades na Demonstração dos Fluxos de Caixa da Cia X:",
+      "alternatives": {
+        "A": "de Financiamento e Operacional.",
+        "B": "de Investimento e de Financiamento.",
+        "C": "de Financiamento e de Investimento.",
+        "D": "de Investimento e de Investimento.",
+        "E": "de Financiamento e de Financiamento."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -304,13 +423,30 @@
         "B": "1,42.",
         "C": "1,50.",
         "D": "2,44.",
-        "E": "2,50. Em 01/12/2025, uma entidade apresentava os seguintes saldos em seu Balanço Patrimonial:  Disponibilidades R$ 100.000;  Contas a pagar (90 dias): R$ 40.000;  Capital Social: R$ 50.000; e  Lucros Acumulados: R$ 10.000. Em dezembro de 2025, a entidade evidenciou R$ 20.000,00 a título de passivos contingentes. Assinale a opção que indica a porcentagem de capital próprio que financiava os ativos da entidade, em 31/12/2025. (A) 30,00%. (B) 37,50%. (C) 40,00%. (D) 50,00%. (E) 60,00%."
+        "E": "2,50."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 26,
+      "discipline": null,
+      "statement": "Em 01/12/2025, uma entidade apresentava os seguintes saldos em seu Balanço Patrimonial:  Disponibilidades R$ 100.000;  Contas a pagar (90 dias): R$ 40.000;  Capital Social: R$ 50.000; e  Lucros Acumulados: R$ 10.000. Em dezembro de 2025, a entidade evidenciou R$ 20.000,00 a título de passivos contingentes. Assinale a opção que indica a porcentagem de capital próprio que financiava os ativos da entidade, em 31/12/2025.",
+      "alternatives": {
+        "A": "30,00%.",
+        "B": "37,50%.",
+        "C": "40,00%.",
+        "D": "50,00%.",
+        "E": "60,00%."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 27,
@@ -338,7 +474,24 @@
         "B": "R$ 16.000.",
         "C": "R$ 18.000.",
         "D": "R$ 40.000.",
-        "E": "não há reconhecimento de passivo. Em 10/10/2025, uma entidade, que tinha como atividade fim a consultoria contábil, adquiriu um terreno por R$ 300.000. Em 31/12/2025, a entidade realizou um teste de recuperabilidade do terreno e estimou que o seu valor em uso era de R$ 280.000, enquanto o valor justo líquido das despesas de venda era de R$ 320.000. Em janeiro de 2026, a entidade vendeu o terreno por R$ 325.000. Em sua Demonstração do Resultado mensal, em 31/01/2026, a venda do terreno foi reconhecida como (A) outras receitas de R$ 5.000. (B) outras receitas de R$ 25.000. (C) receita de vendas de R$ 5.000. (D) receita de vendas de R$ 25.000. (E) receita de vendas de R$ 45.000."
+        "E": "não há reconhecimento de passivo."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 29,
+      "discipline": null,
+      "statement": "Em 10/10/2025, uma entidade, que tinha como atividade fim a consultoria contábil, adquiriu um terreno por R$ 300.000. Em 31/12/2025, a entidade realizou um teste de recuperabilidade do terreno e estimou que o seu valor em uso era de R$ 280.000, enquanto o valor justo líquido das despesas de venda era de R$ 320.000. Em janeiro de 2026, a entidade vendeu o terreno por R$ 325.000. Em sua Demonstração do Resultado mensal, em 31/01/2026, a venda do terreno foi reconhecida como",
+      "alternatives": {
+        "A": "outras receitas de R$ 5.000.",
+        "B": "outras receitas de R$ 25.000.",
+        "C": "receita de vendas de R$ 5.000.",
+        "D": "receita de vendas de R$ 25.000.",
+        "E": "receita de vendas de R$ 45.000."
       },
       "answer": "B",
       "annulled": false,
@@ -389,13 +542,30 @@
         "B": "o uso da máquina, durante cinco anos.",
         "C": "o seu uso, no primeiro semestre de 2025.",
         "D": "o primeiro ano desde a aquisição, em 2025.",
-        "E": "a vida útil usual atribuída a máquinas, de dez anos. Uma entidade vende máquinas para clientes no exterior. Em 01/12/2025, a entidade recebeu US$ 5,000 de um cliente pela compra de uma máquina, que deveria ser entregue em 180 dias. Na data, o dólar era cotado a R$ 5,34. Considerando que a cotação do dólar, em 31/12/2025, era de R$ 5,50, no Balanço Patrimonial anual da entidade, em 31/12/2025, a conta Adiantamentos de Clientes foi reconhecida por (A) R$ 26.700, em Passivo Circulante. (B) R$ 26.700, em Passivo não Circulante. (C) R$ 27.100, em Passivo Circulante. (D) R$ 27.500, em Passivo Circulante. (E) R$ 27.500, em Passivo não Circulante."
+        "E": "a vida útil usual atribuída a máquinas, de dez anos."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 33,
+      "discipline": null,
+      "statement": "Uma entidade vende máquinas para clientes no exterior. Em 01/12/2025, a entidade recebeu US$ 5,000 de um cliente pela compra de uma máquina, que deveria ser entregue em 180 dias. Na data, o dólar era cotado a R$ 5,34. Considerando que a cotação do dólar, em 31/12/2025, era de R$ 5,50, no Balanço Patrimonial anual da entidade, em 31/12/2025, a conta Adiantamentos de Clientes foi reconhecida por",
+      "alternatives": {
+        "A": "R$ 26.700, em Passivo Circulante.",
+        "B": "R$ 26.700, em Passivo não Circulante.",
+        "C": "R$ 27.100, em Passivo Circulante.",
+        "D": "R$ 27.500, em Passivo Circulante.",
+        "E": "R$ 27.500, em Passivo não Circulante."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 34,
@@ -423,9 +593,26 @@
         "B": "R$ 44.000.",
         "C": "R$ 55.000.",
         "D": "R$ 66.000.",
-        "E": "R$ 80.000. Uma entidade elaborava apenas a sua Demonstração dos Lucros ou Prejuízos Acumulados (DLPA). Após a emissão da NBC TG 26 (R5) – Apresentação das Demonstrações Contábeis, a entidade substituiu essa demonstração pela Demonstração das Mutações do Patrimônio Líquido (DMPL). Com relação às vantagens da DMPL quando comparada à DLPA, analise o que se afirma a seguir. I. Evidenciação de todas as contas do patrimônio líquido. II. Indicação da formação e utilização de todas as reservas. III. Acompanhamento das entradas e saídas de caixa. As informações incluídas pela DMPL, que não constam na DLPA, estão em (A) I, somente. (B) I e II, somente. (C) I e III, somente. (D) II e III, somente. (E) I, II e III."
+        "E": "R$ 80.000."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 36,
+      "discipline": null,
+      "statement": "Uma entidade elaborava apenas a sua Demonstração dos Lucros ou Prejuízos Acumulados (DLPA). Após a emissão da NBC TG 26 (R5) – Apresentação das Demonstrações Contábeis, a entidade substituiu essa demonstração pela Demonstração das Mutações do Patrimônio Líquido (DMPL). Com relação às vantagens da DMPL quando comparada à DLPA, analise o que se afirma a seguir. I. Evidenciação de todas as contas do patrimônio líquido. II. Indicação da formação e utilização de todas as reservas. III. Acompanhamento das entradas e saídas de caixa. As informações incluídas pela DMPL, que não constam na DLPA, estão em",
+      "alternatives": {
+        "A": "I, somente.",
+        "B": "I e II, somente.",
+        "C": "I e III, somente.",
+        "D": "II e III, somente.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -440,13 +627,30 @@
         "B": "V – V – F.",
         "C": "V – F – V.",
         "D": "F – V – V.",
-        "E": "F – F – V. Ao analisar o atendimento às características qualitativas da informação incluída no Relatório Contábil de Propósito Geral de uma entidade do setor público, de acordo com a NBC TSP Estrutura Conceitual (R1) - Estrutura Conceitual para Elaboração e Divulgação de Informação Contábil de Propósito Geral pelas Entidades do Setor Público, constatou-se que as informações não atendiam à característica da tempestividade. Desse modo, a informação disponibilizada (A) apresenta mais custos do que benefícios. (B) perdeu a sua capacidade de ser útil para fins de prestação de contas. (C) não pode ser observada em consenso por dois usuários esclarecidos e independentes. (D) não identificou semelhanças e diferenças entre dois conjuntos de fenômenos. (E) é subentendida por usuários com conhecimento razoável das atividades da entidade e do ambiente no qual ela funciona."
+        "E": "F – F – V."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 38,
+      "discipline": null,
+      "statement": "Ao analisar o atendimento às características qualitativas da informação incluída no Relatório Contábil de Propósito Geral de uma entidade do setor público, de acordo com a NBC TSP Estrutura Conceitual (R1) - Estrutura Conceitual para Elaboração e Divulgação de Informação Contábil de Propósito Geral pelas Entidades do Setor Público, constatou-se que as informações não atendiam à característica da tempestividade. Desse modo, a informação disponibilizada",
+      "alternatives": {
+        "A": "apresenta mais custos do que benefícios.",
+        "B": "perdeu a sua capacidade de ser útil para fins de prestação de contas.",
+        "C": "não pode ser observada em consenso por dois usuários esclarecidos e independentes.",
+        "D": "não identificou semelhanças e diferenças entre dois conjuntos de fenômenos.",
+        "E": "é subentendida por usuários com conhecimento razoável das atividades da entidade e do ambiente no qual ela funciona."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
     },
     {
       "question_number": 39,
@@ -491,9 +695,26 @@
         "B": "R$ 60.000, em Investimentos.",
         "C": "R$ 60.000, no Ativo Imobilizado.",
         "D": "R$ 70.000, em Investimentos",
-        "E": "R$ 70.000, no Ativo Imobilizado. Uma entidade do setor público publicou sua Demonstração das Informações Orçamentárias com a comparação entre o orçamento e os valores realizados. Pode-se inferir, com base na NBC TSP 11 (R1) – Apresentação das Demonstrações Contábeis, que essa entidade (A) apresentou déficit orçamentário. (B) tem patrimônio superior a R$ 2 milhões. (C) não tem as suas demonstrações auditadas. (D) divulgou publicamente o seu orçamento aprovado. (E) depende, unicamente, de recursos públicos para se manter."
+        "E": "R$ 70.000, no Ativo Imobilizado."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "Uma entidade do setor público publicou sua Demonstração das Informações Orçamentárias com a comparação entre o orçamento e os valores realizados. Pode-se inferir, com base na NBC TSP 11 (R1) – Apresentação das Demonstrações Contábeis, que essa entidade",
+      "alternatives": {
+        "A": "apresentou déficit orçamentário.",
+        "B": "tem patrimônio superior a R$ 2 milhões.",
+        "C": "não tem as suas demonstrações auditadas.",
+        "D": "divulgou publicamente o seu orçamento aprovado.",
+        "E": "depende, unicamente, de recursos públicos para se manter."
+      },
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -542,13 +763,30 @@
         "B": "Financeira.",
         "C": "Operacional.",
         "D": "de Conformidade.",
-        "E": "de Desempenho. Ao auditar os relatórios contábeis de uma entidade do setor público, o Auditor buscou preparar documentação suficiente para permitir que um auditor experiente entenda, entre outros pontos, os assuntos significativos identificados durante a auditoria e os julgamentos profissionais significativos exercidos para chegar a essas conclusões. A respeito do processo, considerando as explicações verbais do Auditor para o trabalho executado ou para as conclusões obtidas, é correto afirmar que (A) representam documentação adequada e devem ser incluídas entre os papéis de trabalho. (B) representam documentação adequada e devem receber destaque na opinião emitida pelo auditor. (C) não representam documentação adequada e devem ser descartadas, uma vez que carecem de formalidade. (D) não representam, por si, documentação adequada, mas podem ser usadas para explicar ou esclarecer informações contidas na documentação de Auditoria. (E) não representam documentação adequada e devem ser descartadas, uma vez que envolvem julgamentos e opiniões pessoais."
+        "E": "de Desempenho."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 8
+    },
+    {
+      "question_number": 46,
+      "discipline": null,
+      "statement": "Ao auditar os relatórios contábeis de uma entidade do setor público, o Auditor buscou preparar documentação suficiente para permitir que um auditor experiente entenda, entre outros pontos, os assuntos significativos identificados durante a auditoria e os julgamentos profissionais significativos exercidos para chegar a essas conclusões. A respeito do processo, considerando as explicações verbais do Auditor para o trabalho executado ou para as conclusões obtidas, é correto afirmar que",
+      "alternatives": {
+        "A": "representam documentação adequada e devem ser incluídas entre os papéis de trabalho.",
+        "B": "representam documentação adequada e devem receber destaque na opinião emitida pelo auditor.",
+        "C": "não representam documentação adequada e devem ser descartadas, uma vez que carecem de formalidade.",
+        "D": "não representam, por si, documentação adequada, mas podem ser usadas para explicar ou esclarecer informações contidas na documentação de Auditoria.",
+        "E": "não representam documentação adequada e devem ser descartadas, uma vez que envolvem julgamentos e opiniões pessoais."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 47,
@@ -587,6 +825,23 @@
     {
       "question_number": 49,
       "discipline": null,
+      "statement": "De acordo com a Constituição Federal, os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício. Nesse caso, reabertos nos limites de seus saldos, esses serão",
+      "alternatives": {
+        "A": "cancelados.",
+        "B": "utilizados, apenas, em casos de calamidades.",
+        "C": "transformados em créditos ordinários neste orçamento.",
+        "D": "incorporados ao orçamento do exercício financeiro subsequente.",
+        "E": "aplicados, obrigatoriamente, na compra de material permanente."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 50,
+      "discipline": null,
       "statement": "Em 2023, um estado brasileiro elaborou o seu Plano Plurianual, com vigência a partir de 2024. Em 2025, iniciou a construção de uma rodovia. A obra tem prazo previsto para conclusão em 24 meses. O investimento não foi incluído no Plano Plurianual e não há lei que autorize a sua inclusão. De acordo com a Constituição Federal, o procedimento é considerado",
       "alternatives": {
         "A": "correto, uma vez que os investimentos relacionados a obras que poderão aumentar a arrecadação do ente, como a de rodovias, não precisam ser incluídas no Plano Plurianual.",
@@ -595,7 +850,7 @@
         "D": "incorreto, uma vez que qualquer gasto ou investimento, de curto e de longo prazo, devem ser incluídos no Plano Plurianual.",
         "E": "incorreto, uma vez que nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no Plano Plurianual ou sem lei que autorize a inclusão."
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -627,13 +882,30 @@
         "B": "válido, desde que não haja possibilidade de reeleição.",
         "C": "válido, desde que implementado de modo imediato.",
         "D": "nulo, caso não haja previsão de estruturação da carreira.",
-        "E": "válido, desde que implementado em período posterior ao final do mandato. A Administração, após um processo licitatório, convocou o licitante vencedor para assinar o termo de contrato dentro do prazo e nas condições estabelecidas no edital de licitação. Com relação ao prazo de convocação, assinale a afirmativa correta. (A) Poderá ser prorrogado uma vez, por igual período, mediante solicitação da parte, devidamente justificada, e desde que o motivo apresentado seja aceito pela Administração. (B) Poderá ser prorrogado por tempo indeterminado, desde que a parte apresente justificativa considerada plausível pela Administração. (C) Poderá ser prorrogado por até dois anos, ou até a Administração determinar novas características para o processo. (D) Não poderá ser prorrogado, de modo que a Administração deverá convocar, imediatamente, os licitantes remanescentes, na ordem de classificação. (E) Não poderá ser prorrogado, de modo que a Administração deverá iniciar novo processo licitatório, mantendo as características originais."
+        "E": "válido, desde que implementado em período posterior ao final do mandato."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "A Administração, após um processo licitatório, convocou o licitante vencedor para assinar o termo de contrato dentro do prazo e nas condições estabelecidas no edital de licitação. Com relação ao prazo de convocação, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Poderá ser prorrogado uma vez, por igual período, mediante solicitação da parte, devidamente justificada, e desde que o motivo apresentado seja aceito pela Administração.",
+        "B": "Poderá ser prorrogado por tempo indeterminado, desde que a parte apresente justificativa considerada plausível pela Administração.",
+        "C": "Poderá ser prorrogado por até dois anos, ou até a Administração determinar novas características para o processo.",
+        "D": "Não poderá ser prorrogado, de modo que a Administração deverá convocar, imediatamente, os licitantes remanescentes, na ordem de classificação.",
+        "E": "Não poderá ser prorrogado, de modo que a Administração deverá iniciar novo processo licitatório, mantendo as características originais."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 54,
@@ -661,9 +933,26 @@
         "B": "receber a remuneração de menor valor.",
         "C": "optar pela remuneração de um dos cargos.",
         "D": "manter a remuneração de menor valor e um adicional de 50% desta.",
-        "E": "manter a remuneração de maior valor e um adicional de 50% desta. De acordo com a Lei nº 8112/1990, o servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições. Com relação a essa responsabilidade, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A responsabilidade penal decorre de ato omissivo ou comissivo, doloso ou culposo, que resulte em prejuízo ao erário ou a terceiros. ( ) A responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria. ( ) O servidor será responsabilizado de modo civil por dar ciência à autoridade superior sobre improbidade de que tenha conhecimento em decorrência do exercício de cargo. As afirmativas são, respectivamente, (A) V – V – F. (B) V – F – V. (C) F – V – V. (D) V – F – F. (E) F – V – F."
+        "E": "manter a remuneração de maior valor e um adicional de 50% desta."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 56,
+      "discipline": null,
+      "statement": "De acordo com a Lei nº 8112/1990, o servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições. Com relação a essa responsabilidade, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A responsabilidade penal decorre de ato omissivo ou comissivo, doloso ou culposo, que resulte em prejuízo ao erário ou a terceiros. ( ) A responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria. ( ) O servidor será responsabilizado de modo civil por dar ciência à autoridade superior sobre improbidade de que tenha conhecimento em decorrência do exercício de cargo. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "V – F – V.",
+        "C": "F – V – V.",
+        "D": "V – F – F.",
+        "E": "F – V – F."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -695,13 +984,47 @@
         "B": "exigirá autorização legislativa e será realizada mediante licitação na modalidade leilão.",
         "C": "dispensará autorização legislativa e será realizada mediante licitação na modalidade leilão.",
         "D": "exigirá autorização legislativa e será realizada mediante licitação na modalidade diálogo competitivo.",
-        "E": "dispensará autorização legislativa e será realizada mediante licitação na modalidade diálogo competitivo. Ao prestar uma consultoria tributária, um Contador transferiu, parcialmente, a execução dos serviços a seu cargo a outro profissional. De acordo com a NBC PG 01 – Código de Ética Profissional do Contador, o procedimento está (A) correto, desde que o fato seja mantido em sigilo. (B) correto, desde que o profissional tenha outra formação, que não a contabilidade. (C) correto, desde que ele mantenha como sua a responsabilidade técnica. (D) incorreto, uma vez que os honorários foram acordados entre o cliente e o contador. (E) incorreto, uma vez que ele só poderá transferir a execução dos serviços de modo integral. Com relação às penalidades, de acordo com a NBC PG 01 – Código de Ética Profissional do Contador, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Na aplicação das sanções éticas, podem ser consideradas como atenuantes a ausência de punição ética anterior e a gravidade da infração. ( ) A transgressão de preceito do Código de Ética pode ter como penalidade advertência reservada, censura reservada ou censura pública. ( ) O contador pode requerer desagravo público ao Conselho Regional de Contabilidade, quando atingido, pública e injustamente, no exercício de sua profissão. As afirmativas são, respectivamente, (A) V – V – V. (B) V – V – F. (C) V – F – V. (D) F – V – V. (E) F – F – V. 1 Uma Promotoria de Justiça do Ministério Público do Estado do Espírito Santo (MPES) instaurou procedimento para acompanhar a aplicação de recursos públicos destinados à manutenção e ao desenvolvimento da educação em um município capixaba. Para subsidiar a atuação ministerial, foi realizada auditoria contábil em uma amostra de escolas beneficiadas, com o objetivo de avaliar a regularidade da aplicação dos recursos públicos, a eficácia dos controles internos e a confiabilidade das informações contábeis e financeiras. Na condição de contador do MPES responsável pelo apoio técnico ao procedimento, elabore um texto dissertativo, abordando: a. o que representa o risco de amostragem em auditoria; e b. Quais são os dois tipos de conclusões errôneas que podem decorrer do risco de amostragem e como eles podem afetar as conclusões da auditoria. No exercício de suas atribuições, um Agente Técnico (Contador) do Ministério Público do Estado do Espírito Santo (MPES) foi solicitado a elaborar um parecer técnico acerca do tratamento contábil adotado por uma entidade privada em suas demonstrações financeiras, em razão de procedimento em tramitação que exige a análise da adequação das práticas contábeis às Normas Brasileiras de Contabilidade (NBC) emitidas pelo Conselho Federal de Contabilidade (CFC). Conforme os documentos analisados, verificou-se que, em 01/01/2025, a entidade adquiriu uma máquina por R$ 40.000 para utilização em suas operações, estimando a sua vida útil em cinco anos. Em 2025, a entidade gastou R$ 6.000 com reparo e manutenção da máquina. Em 30/01/2026, a alta gestão da entidade decidiu colocar a máquina à venda por seu valor justo corrente, pois considerou os gastos com reparo e manutenção muito altos. A entidade iniciou ações para localizar um comprador. Naquela data, havia contratos com clientes até 2028, tendo sido decidido que a venda da máquina ocorreria juntamente com a transferência das operações a ela vinculadas. Com base na situação apresentada e nas Normas Brasileiras de Contabilidade do Conselho Federal de Contabilidade (CFC), elabore um texto dissertativo, indicando e justificando: a) a classificação contábil dos gastos com reparo e manutenção da máquina incorridos em 2025; e b) a classificação contábil da máquina em 31/01/2026. Realização"
+        "E": "dispensará autorização legislativa e será realizada mediante licitação na modalidade diálogo competitivo."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "Ao prestar uma consultoria tributária, um Contador transferiu, parcialmente, a execução dos serviços a seu cargo a outro profissional. De acordo com a NBC PG 01 – Código de Ética Profissional do Contador, o procedimento está",
+      "alternatives": {
+        "A": "correto, desde que o fato seja mantido em sigilo.",
+        "B": "correto, desde que o profissional tenha outra formação, que não a contabilidade.",
+        "C": "correto, desde que ele mantenha como sua a responsabilidade técnica.",
+        "D": "incorreto, uma vez que os honorários foram acordados entre o cliente e o contador.",
+        "E": "incorreto, uma vez que ele só poderá transferir a execução dos serviços de modo integral."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 60,
+      "discipline": null,
+      "statement": "Com relação às penalidades, de acordo com a NBC PG 01 – Código de Ética Profissional do Contador, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Na aplicação das sanções éticas, podem ser consideradas como atenuantes a ausência de punição ética anterior e a gravidade da infração. ( ) A transgressão de preceito do Código de Ética pode ter como penalidade advertência reservada, censura reservada ou censura pública. ( ) O contador pode requerer desagravo público ao Conselho Regional de Contabilidade, quando atingido, pública e injustamente, no exercício de sua profissão. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "V – V – F.",
+        "C": "V – F – V.",
+        "D": "F – V – V.",
+        "E": "F – F – V. Prova Discursiva 1 Uma Promotoria de Justiça do Ministério Público do Estado do Espírito Santo (MPES) instaurou procedimento para acompanhar a aplicação de recursos públicos destinados à manutenção e ao desenvolvimento da educação em um município capixaba. Para subsidiar a atuação ministerial, foi realizada auditoria contábil em uma amostra de escolas beneficiadas, com o objetivo de avaliar a regularidade da aplicação dos recursos públicos, a eficácia dos controles internos e a confiabilidade das informações contábeis e financeiras. Na condição de contador do MPES responsável pelo apoio técnico ao procedimento, elabore um texto dissertativo, abordando: a. o que representa o risco de amostragem em auditoria; e b. Quais são os dois tipos de conclusões errôneas que podem decorrer do risco de amostragem e como eles podem afetar as conclusões da auditoria. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 No exercício de suas atribuições, um Agente Técnico (Contador) do Ministério Público do Estado do Espírito Santo (MPES) foi solicitado a elaborar um parecer técnico acerca do tratamento contábil adotado por uma entidade privada em suas demonstrações financeiras, em razão de procedimento em tramitação que exige a análise da adequação das práticas contábeis às Normas Brasileiras de Contabilidade (NBC) emitidas pelo Conselho Federal de Contabilidade (CFC). Conforme os documentos analisados, verificou-se que, em 01/01/2025, a entidade adquiriu uma máquina por R$ 40.000 para utilização em suas operações, estimando a sua vida útil em cinco anos. Em 2025, a entidade gastou R$ 6.000 com reparo e manutenção da máquina. Em 30/01/2026, a alta gestão da entidade decidiu colocar a máquina à venda por seu valor justo corrente, pois considerou os gastos com reparo e manutenção muito altos. A entidade iniciou ações para localizar um comprador. Naquela data, havia contratos com clientes até 2028, tendo sido decidido que a venda da máquina ocorreria juntamente com a transferência das operações a ela vinculadas. Com base na situação apresentada e nas Normas Brasileiras de Contabilidade do Conselho Federal de Contabilidade (CFC), elabore um texto dissertativo, indicando e justificando: a) a classificação contábil dos gastos com reparo e manutenção da máquina incorridos em 2025; e b) a classificação contábil da máquina em 31/01/2026. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
     }
   ]
 }

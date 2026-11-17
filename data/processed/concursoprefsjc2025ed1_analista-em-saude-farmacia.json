@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Prefeitura de São José dos Campos - Administrativo e Saúde",
   "cargo_title": "Analista em Saúde - Farmácia",
   "exam_type": "Tipo 1",
-  "total_questions": 68,
+  "total_questions": 70,
   "questions": [
     {
       "question_number": 1,
@@ -185,7 +185,7 @@
         "B": "O ator fez papel de bobalhão na frente de todos.",
         "C": "O novo herói da novela era um rapagão simpático.",
         "D": "Recebeu um abração do pai no aeroporto.",
-        "E": "Musical é uma revista de mulheres nuas, dizendo palavrões,"
+        "E": "Musical é uma revista de mulheres nuas, dizendo palavrões, com a plateia gargalhando, e a censura encolhida."
       },
       "answer": "E",
       "annulled": false,
@@ -253,7 +253,7 @@
         "B": "Todo estado é uma ditadura. / pronome indefinido.",
         "C": "Quem quer governar deve aprender a dizer “não”. / preposição.",
         "D": "Aprender a dominar é fácil, mas a governar é difícil. / substantivo.",
-        "E": "Tributação sem representação é tirania. / conjunção. Raciocínio Lógico Matemático"
+        "E": "Tributação sem representação é tirania. / conjunção."
       },
       "answer": "B",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Um reservatório tem água até 1/3 da sua capacidade. Colocam-se no reservatório 5 galões de água, de modo que o reservatório agora está cheio até a metade. A capacidade volumétrica do reservatório medida em galões é igual a",
       "alternatives": {
         "A": "15.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Considere a sequência de letras PRESJCJSERPPRESJCJSERPPRESJCJSERP... formada pela repetição ilimitada da sequência PRESJCJSERP. A 2025ª letra dessa sequência é:",
       "alternatives": {
         "A": "P.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "As medidas em centímetros dos lados de um triângulo são, respectivamente, a = 7,5, b = 11 e c = x, onde x é um número inteiro. O número de valores possíveis para x é igual a",
       "alternatives": {
         "A": "11.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "A distância entre a 4ª saída e a 11ª saída de uma autoestrada é 98 km. A distância entre duas saídas consecutivas quaisquer é, no mínimo, de 10 km. A maior distância possível, em km, entre duas saídas consecutivas, da 4ª até a 11ª saídas, é igual a",
       "alternatives": {
         "A": "14.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em um supermercado, havia um anúncio de uma promoção: “Somente hoje, 40% de desconto, pacote de meio quilo de tilápia por apenas R$ 7,20.” Sem o desconto, o preço do quilo da tilápia nesse supermercado era",
       "alternatives": {
         "A": "R$ 10,08.",
@@ -347,8 +347,25 @@
       "page_number": 5
     },
     {
+      "question_number": 21,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "Cada vértice de um quadrado ABCD está sobre um lado do quadrado EFGH. O vértice A está sobre o lado EF, de tal forma que EA = 4 e AF = 2. A razão entre a área do quadrado ABCD e a área do quadrado EFGH é igual a 5",
+      "alternatives": {
+        "A": "9. 4",
+        "B": "9. 1",
+        "C": "3. 2",
+        "D": "3. 1 2. (E)",
+        "E": null
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Solange executou 3 tarefas em sequência e sem intervalos entre elas. As 3 tarefas consumiram exatamente o mesmo tempo cada uma. Solange começou a primeira tarefa às 13h20min e terminou a segunda tarefa às 16h12min. Solange terminou a terceira tarefa às",
       "alternatives": {
         "A": "16h52min.",
@@ -364,8 +381,25 @@
       "page_number": 5
     },
     {
+      "question_number": 23,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "Um dado cúbico, com as faces numeradas de 1 a 6, é tal que quando lançado todas as faces têm a mesma probabilidade de ficar voltada para cima. Lança-se esse dado duas vezes em sequência. A probabilidade de que o produto dos dois números sorteados seja maior do que 8 é 9",
+      "alternatives": {
+        "A": "18. 10 18.",
+        "B": "11 18.",
+        "C": "12",
+        "D": "18. 13 18. (E)",
+        "E": null
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Adriana pratica exatamente um esporte a cada dia da semana. Ela rema 3 dias na semana, mas nunca em dias consecutivos. Às quartas-feiras ela corre e dois dias depois ela faz stand-up. Adriana também nada e joga beach-tennis, mas ela nunca joga beach- tennis após nadar ou remar. O dia da semana no qual Adriana nada é",
       "alternatives": {
         "A": "domingo.",
@@ -382,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em uma folha de papel há 16 pontos azuis e 4 pontos verdes. Cada par de pontos azuis será conectado por um segmento de reta azul. Os demais pares de pontos ((verde, verde) e (verde, azul)) serão conectados por segmentos de reta verdes. O número de segmentos de reta verdes será então igual a",
       "alternatives": {
         "A": "54.",
         "B": "60.",
         "C": "64.",
         "D": "70.",
-        "E": "84. Atualidades"
+        "E": "84."
       },
       "answer": "D",
       "annulled": false,
@@ -399,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "A inteligência artificial (IA) está sendo cada vez mais implantada no setor de saúde do Brasil, desde algoritmos de diagnóstico até plataformas de telemedicina. Essas inovações prometem maior eficiência e resultados, mas também levantam implicações legais e éticas significativas. O Brasil representa um caso único na América Latina, com cobertura de saúde totalmente universalizada. Assim, qualquer IA usada na área da saúde deve estar alinhada à promessa constitucional de assistência médica resolutiva, benéfica, equitativa e digna. Adaptado de https://www.jota.info/opiniao-e-analise/colunas/coluna-fernando- aith/desafios-para-a-regulacao-da-ia-em-saude-no-brasil A partir do trecho, avalie as afirmativas a seguir sobre os desafios que o Brasil enfrenta na regulação da IA na área de saúde. I. A regulamentação do setor é necessária, pois os sistemas de inteligência artificial têm o potencial de transformar profundamente a tomada de decisões clínicas, a autonomia dos pacientes e o manejo de dados na área da saúde. II. A Lei Geral de Proteção de Dados dá às pessoas o direito de entender e pedir revisão de decisões feitas só por sistemas automáticos, como a inteligência artificial, sendo um passo importante para normatizar o uso da IA na área da saúde no Brasil. III. A Anvisa regula os aplicativos de smartphones que utilizam inteligência artificial na área da saúde, incluindo os voltados para o bem-estar e condicionamento físico, sendo uma experiência bem sucedida de regulação nesse campo.",
       "alternatives": {
         "A": "I, apenas.",
@@ -416,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Entre os programas previstos no Novo PAC Saúde em 2025, consta a criação de centros de competência para viabilizar a produção nacional de vacinas com RNA mensageiro (mRNA). Uma das maiores inovações da biomedicina, essas vacinas serão utilizadas para tratar doenças como Covid-19, leishmaniose, câncer, influenza, zika, chikungunya e doenças respiratórias causadas por vírus sincicial respiratório. Adaptado de https://www.gov.br/saude/pt-br/assuntos/noticias/2025/maio. As vacinas produzidas com base no RNA mensageiro são uma importante inovação científica, pois",
       "alternatives": {
         "A": "produzem uma resposta imunológica no organismo a partir da inoculação de um vírus inativado.",
@@ -433,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Leia o trecho a seguir. Mede o grau de desigualdade existente na distribuição de indivíduos segundo a renda domiciliar per capita. Seu valor varia de 0, quando não há desigualdade (a renda domiciliar per capita de todos os indivíduos tem o mesmo valor), a 1, quando a desigualdade é máxima (apenas um indivíduo detém toda a renda). O universo de indivíduos é limitado àqueles que vivem em domicílios particulares permanentes. Com base na descrição, assinale o indicador ao qual o trecho se refere.",
       "alternatives": {
         "A": "Índice de Gini.",
@@ -450,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O que significa a nova revolução industrial? Alguns a denominam de Indústria 4.0, outros de Indústria Inteligente, outros de Digitalização dos Processos Industriais. Não se trata mais de criar novos produtos como notebooks, robôs ou smartphones. Centenas de novos produtos podem ser criados, mas a revolução está nos processos, em como atingir novas formas de produção. De uma forma geral, os novos processos de produção estão sendo radicalmente modificados pela digitalização e os principais insumos deixam de ser aço, petróleo ou transistores e passam a ser dados. Adaptado de Nota Técnica Ipea 57. Dinte, 2022, p. 6. Com base no trecho, avalie as afirmativas a seguir sobre a Indústria 4.0 e assinale (V) para a verdadeira e (F) para a falsa. ( ) Os dados tornam-se um recurso complementar na Indústria 4.0, aplicados principalmente em áreas tecnológicas como engenharia e física, enquanto outras disciplinas, como as ciências sociais, mantêm métodos tradicionais com baixa dependência de grandes bases de dados ( ) A inteligência artificial (IA) encontra aplicações transversais em diversos setores industriais, com uso eficiente em tecnologias associadas à capacidade de análise e armazenamento massivo de dados, processamento de som e imagem, e computação de alto desempenho em rede. ( ) Acompanhando a expansão da IA, outras tecnologias emergentes assumem papel estratégico na Indústria 4.0, como o uso da tecnologia blockchain em processos produtivos, o desenvolvimento de novos materiais digitais e o avanço da nanotecnologia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -467,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "As relações humanas no trabalho constituem um campo de estudo que envolve múltiplos aspectos ligados à convivência, à comunicação e à organização das atividades no ambiente profissional, especialmente no setor da saúde. A seguir, estão listados alguns desses aspectos acompanhados das respectivas caracterizações. Assinale a afirmativa que estabelece a correspondência correta entre um aspecto e sua descrição.",
       "alternatives": {
         "A": "A comunicação interpessoal trata da motivação no serviço público de saúde e da gestão participativa.",
         "B": "O trabalho em equipe se ocupa da comunicação assertiva entre profissionais da saúde, da escuta ativa e da empatia.",
         "C": "A motivação no ambiente de trabalho diz respeito ao estresse ocupacional e à síndrome de burnout, entre outros.",
         "D": "A qualidade de vida no trabalho indica fatores que influenciam o bem-estar no ambiente de trabalho e sugere programas para humanizá-lo.",
-        "E": "A cultura organizacional se debruça sobre técnicas de mediação e negociação e sobre o papel da liderança na resolução de conflitos. Legislação da Saúde"
+        "E": "A cultura organizacional se debruça sobre técnicas de mediação e negociação e sobre o papel da liderança na resolução de conflitos."
       },
       "answer": "D",
       "annulled": false,
@@ -484,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Acerca da organização, da direção e da gestão do SUS, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) As ações e serviços de saúde, executados pelo Sistema Único de Saúde (SUS), seja diretamente ou mediante participação complementar da iniciativa privada, serão organizados de forma regionalizada e hierarquizada em níveis de complexidade crescente. ( ) A direção do Sistema Único de Saúde (SUS) é única. ( ) Os municípios poderão constituir consórcios para desenvolver em conjunto as ações e os serviços de saúde que lhes correspondam. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -501,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Acerca da gestão financeira do SUS, conforme estabelece a Lei 8.080/1990, avalie as afirmativas a seguir. I. Os recursos financeiros do Sistema Único de Saúde (SUS) serão depositados em conta especial, em cada esfera de sua atuação, e movimentados sob fiscalização dos respectivos Conselhos de Saúde. II. Na esfera federal, os recursos financeiros, originários do Orçamento da Seguridade Social, de outros Orçamentos da União, além de outras fontes, serão administrados pelo Ministério da Saúde, por meio do Fundo Nacional de Saúde. III. O Ministério da Saúde acompanhará, através de seu sistema de auditoria, a conformidade à programação aprovada da aplicação dos recursos repassados a Estados e Municípios. Constatada a malversação, desvio ou não aplicação dos recursos, caberá ao Ministério da Saúde aplicar as medidas previstas em lei. IV. Fica vedada às autoridades responsáveis pela distribuição da receita efetivamente arrecadada a transferência automática ao Fundo Nacional de Saúde (FNS).",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -518,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Acerca do planejamento e do orçamento do SUS, as afirmativas a seguir estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "O processo de planejamento e orçamento do Sistema Único de Saúde (SUS) será ascendente, do nível local até o federal, ouvidos seus órgãos deliberativos, compatibilizando-se as necessidades da política de saúde com a disponibilidade de recursos em planos de saúde dos Municípios, dos Estados, do Distrito Federal e da União.",
@@ -535,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A Política Nacional de Humanização (PNH), também conhecida como HumanizaSUS, é uma política pública do Sistema Único de Saúde (SUS) que visa transformar as práticas de atenção e gestão na saúde, alicerçada nos seguintes princípios:",
       "alternatives": {
         "A": "dissociação entre a atenção e a gestão dos processos de produção de saúde, segmentação e subordinação dos atores à direção única.",
@@ -552,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A Lei nº 8.142/1990 dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências. Avalie, com base nessa lei, se os recursos do Fundo Nacional de Saúde (FNS) serão alocados como: I. despesas de custeio e de capital do Ministério da Saúde, seus órgãos e entidades, da administração direta e indireta. II. investimentos previstos em lei orçamentária, de iniciativa do Poder Legislativo e aprovados pelo Congresso Nacional. III. investimentos previstos no Plano Quinquenal do Ministério da Saúde. IV. cobertura das ações e serviços de saúde a serem implementados pelos Municípios, Estados e Distrito Federal. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -569,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A Resolução do Conselho Nacional de Saúde nº 553/2017 dispõe sobre a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde. Ela aprova a atualização da Carta dos Direitos e Deveres da Pessoa Usuária da Saúde que dispõe sobre as diretrizes dos Direitos e Deveres da Pessoa Usuária da Saúde. Avalie se tais diretrizes incluem: I. Toda pessoa tem direito, em tempo hábil, ao acesso a bens e serviços ordenados e organizados para garantia da promoção, prevenção, proteção, tratamento e recuperação da saúde. II. Toda pessoa tem direito ao atendimento integral, aos procedimentos adequados e em tempo hábil a resolver o seu problema de saúde, de forma ética e humanizada. III. Toda pessoa tem direito ao atendimento inclusivo, humanizado e acolhedor, realizado por profissionais qualificados, em ambiente limpo, confortável e acessível.",
       "alternatives": {
         "A": "I, apenas.",
@@ -586,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "De acordo com a Constituição Federal de 1988, no que se refere à Seguridade Social, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação. ( ) São de relevância pública as ações e serviços de saúde, cabendo ao Poder Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado. ( ) As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único. ( ) O sistema de saúde é organizado de acordo com as seguintes diretrizes: (i) centralização, com direção única em cada esfera de governo, (ii) atendimento parcial, com prioridade para as atividades assistenciais e (iii) participação da comunidade. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V – V.",
@@ -603,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A RDC nº 36, de 2013, institui ações para a segurança do paciente em serviços de saúde e dá outras providências. Com base na referida resolução, a aplicação sistêmica e contínua de políticas, procedimentos, condutas e recursos na identificação, análise, avaliação, comunicação e controle de riscos e eventos adversos que afetam a segurança, a saúde humana, a integridade profissional, o meio ambiente e a imagem institucional define:",
       "alternatives": {
         "A": "gestão de risco.",
@@ -620,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A RDC nº 63, de 25/11/2011, dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde. Com base nessa resolução, acerca das Boas Práticas de Funcionamento (BPF), avalie as afirmativas a seguir. I. As Boas Práticas de Funcionamento (BPF) são os componentes da Garantia da Qualidade que asseguram que os serviços são ofertados com padrões de qualidade adequados. II. As BPF são orientadas primeiramente à redução dos riscos inerentes à prestação de serviços de saúde. III. Os conceitos de Garantia da Qualidade e Boas Práticas de Funcionamento (BPF) estão inter-relacionados. IV. As BPF determinam que o serviço de saúde deve ser capaz de ofertar serviços dentro dos padrões de qualidade exigidos, atendendo aos requisitos das legislações e regulamentos vigentes.",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -637,14 +671,14 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A RDC nº 63, de 25/11/2011, que dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, estabelece, em relação ao prontuário do paciente, as seguintes disposições, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "A responsabilidade pelo registro em prontuário cabe aos profissionais de saúde que prestam o atendimento.",
         "B": "A guarda do prontuário é de responsabilidade do serviço de saúde, devendo obedecer às normas vigentes.",
         "C": "O serviço de saúde deve manter os prontuários em local seguro, em boas condições de conservação e organização, permitindo o seu acesso sempre que necessário.",
         "D": "O serviço de saúde deve garantir que o prontuário não contenha registros relativos à identificação e a procedimentos prestados ao paciente considerados sensíveis.",
-        "E": "O serviço de saúde deve garantir que o prontuário seja preenchido de forma legível por todos os profissionais envolvidos diretamente na assistência ao paciente, com aposição de assinatura e carimbo em caso de prontuário em meio físico. Conhecimentos Específicos Farmácia"
+        "E": "O serviço de saúde deve garantir que o prontuário seja preenchido de forma legível por todos os profissionais envolvidos diretamente na assistência ao paciente, com aposição de assinatura e carimbo em caso de prontuário em meio físico."
       },
       "answer": "D",
       "annulled": false,
@@ -654,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Com base nos conceitos de farmacotécnica sobre pós e granulados como formas farmacêuticas sólidas, assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "A granulação úmida é um processo que utiliza solução aglutinante para unir partículas, promovendo maior fluidez e compressibilidade da mistura.",
@@ -671,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Durante o desenvolvimento de uma formulação líquida, o farmacêutico deve considerar fatores que influenciam a estabilidade físico-química e microbiológica do produto. Entre os componentes listados a seguir, o que é utilizado principalmente para manutenção da estabilidade, mas não atua como conservante antimicrobiano, é o",
       "alternatives": {
         "A": "álcool etílico.",
@@ -688,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Sobre as suspensões farmacêuticas, avalie as afirmações a seguir. I. A tixotropia é uma propriedade desejável em suspensões, pois permite que o sistema flua sob agitação e retorne ao estado de repouso, mantendo a estabilidade da formulação. II. A redução do tamanho das partículas aumenta a velocidade de sedimentação devido ao maior número de colisões entre partículas dispersas. III. A adição de agentes floculantes tem como objetivo evitar a formação de um sedimento compacto e de difícil redispersão. IV. A lei de Stokes relaciona a velocidade de sedimentação das partículas ao seu tamanho, à viscosidade do meio e à diferença de densidade entre as fases. V. Suspensões farmacêuticas são sempre monofásicas e apresentam estabilidade termodinâmica, o que facilita sua manipulação e armazenamento. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I, III e IV.",
@@ -705,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Em relação aos conceitos de veículos farmacêuticos, avalie as afirmativas a seguir. I. Veículo é o termo usado para designar o carreador de fármacos, podendo ser líquido ou semissólido. II. Xarope simples e óleo de milho são exemplos de veículos líquidos utilizados em formulações orais. III. Vaselina, lanolina e PEG (polietilenoglicol) são exemplos de veículos semissólidos usados como bases em pomadas medicamentosas.",
       "alternatives": {
         "A": "I, apenas.",
@@ -722,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Um farmacêutico precisa preparar 250g de um creme dermatológico contendo cetoconazol a 2% p/p, utilizando uma emulsão O/A como base. Com base nesses dados, as massas de cetoconazol e de base a serem utilizadas na formulação são:",
       "alternatives": {
         "A": "2,5 g de cetoconazol e 247,5 g de base.",
@@ -739,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Relacione corretamente os tipos de bases para pomadas, listados a seguir, com suas respectivas características. Tipo de base 1. Base lipofílica (hidrofóbica) 2. Base de absorção 3. Base removível com água (hidrofílica lavável) 4. Base hidrossolúvel 5. Pasta dermatológica Características ( ) Constituída por substâncias como polietilenoglicóis; não deixa resíduo oleoso. ( ) Contém agentes oclusivos, como vaselina, que não absorvem água. ( ) Pode absorver secreções aquosas, sendo útil em lesões exsudativas. ( ) Forma espessa e opaca, contendo elevada proporção de pó insolúvel em base oleosa. ( ) Possui emulsionantes e permite remoção com água, sem ação oclusiva significativa. A sequência correta, na ordem dada, é",
       "alternatives": {
         "A": "5 – 2 – 1 – 3 – 4.",
@@ -756,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A Rede Sentinela é uma estratégia da Agência Nacional de Vigilância Sanitária (Anvisa) que tem como objetivo",
       "alternatives": {
         "A": "realizar avaliação de tecnologias em saúde para incorporação no SUS.",
@@ -773,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Em um hospital, a equipe médica de clínica geral acredita ser necessário atualizar o arsenal de fármacos bloqueadores beta- adrenérgicos de uso oral regularmente disponível na instituição. Das opções a seguir, o ente institucional mais adequado no hospital para esses profissionais encaminharem essa demanda é",
       "alternatives": {
         "A": "a Comissão de Farmácia e Terapêutica.",
@@ -790,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A Avaliação de Tecnologias em Saúde é uma estratégia fundamental para a gestão e uso racional de recursos para a saúde. Avalie se são exemplos de tecnologias em saúde: I. Anticorpos monoclonais utilizados no tratamento de doenças oncológicas. II. Protocolo de rastreio domiciliar de hipertensão na Atenção Primária à Saúde. III. Dispositivo intrauterino (DIU) liberador de levonorgestrel para endometriose. Está correto o que se apresenta em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -807,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Estudos encomendados pela Associação Brasileira dos Distribuidores de Medicamentos Especializados, Excepcionais e Hospitalares (ABRADIMEX) revelaram que o roubo de cargas de medicamentos envolveu um montante de mercadorias avaliadas em R$ 283.000.000,00 no ano de 2024. À luz da legislação atual, avalie se, no caso de medicamentos que tenham tido sua cadeia de custódia interrompida por roubo forem recuperados pela distribuidora, são condições para que esses medicamentos possam ser comercializados novamente: I. Se uma análise de risco, executada sob responsabilidade da distribuidora, concluir que os medicamentos encontram-se adequados do ponto de vista da qualidade, segurança e eficácia. II. Se a caixa de embarque não apresentar sinal de violação ou dano. III. Em caso de termolábeis, se houver evidências suficientes de que o controle de temperatura tenha sido mantido. Está correto o que se apresenta em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -824,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Sobre a aquisição de medicamentos por entes públicos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A aquisição de medicamentos por órgãos públicos deve obrigatoriamente ocorrer por meio de pregão eletrônico, sendo vedada a adoção de outras modalidades, independentemente da urgência ou da natureza do fármaco.",
@@ -841,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Entre as medidas a seguir, assinale a que melhor se alinha com os objetivos da Política Nacional de Medicamentos.",
       "alternatives": {
         "A": "A criação de políticas públicas que priorizem a aquisição de medicamentos produzidos por laboratórios privados, devido às escassas possibilidades de produção de medicamentos por laboratórios públicos.",
@@ -858,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Considerando a Portaria SVS/MS 344/1998, que versa sobre substâncias e medicamentos sob controle especial, e as atualizações de seus anexos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A cannabis sativa L. foi removida da lista “E” de plantas e fungos proscritos.",
@@ -875,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Em um dado hospital, os gastos com o medicamento trastuzumabe representam o maior percentual entre todos os medicamentos padronizados na instituição, representando, sozinho, 20% do custo anual total com medicamentos. Por esse motivo, o serviço de Farmácia do hospital optou por realizar o inventário desse medicamento diariamente. Esse exemplo ilustra uma possível aplicação prática da seguinte ferramenta:",
       "alternatives": {
         "A": "Avaliação de Tecnologias em Saúde.",
@@ -892,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "A Política Nacional de Assistência Farmacêutica (PNAF) orienta as ações e serviços relacionados ao acesso e uso racional de medicamentos no âmbito do SUS. Avalie se os eixos estratégicos previstos pela PNAF incluem: I. Centralização das ações de gestão no Ministério da Saúde, desonerando estados e municípios dos altos custos com Saúde e visando a superação da fragmentação em programas desarticulados. II. Construção de uma Política de Vigilância Sanitária que garanta o acesso da população a serviços e produtos seguros, eficazes e com qualidade. III. Promoção do uso racional de medicamentos, por intermédio de ações que disciplinem a prescrição, a dispensação e o consumo. Está correto apenas o que se afirma em",
       "alternatives": {
         "A": "II.",
@@ -909,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Uma paciente de 64 anos de idade, do sexo feminino, portadora de artrite reumatoide, irá iniciar a terceira linha de tratamento da doença com adalimumabe, devido a refratariedade às linhas anteriores. Além disso, foi recém-diagnosticada com hipertensão arterial e iniciará tratamento com enalapril. Sobre o acesso a esses medicamentos, avalie as afirmativas a seguir. I. Ambos os tratamentos poderão ser obtidos pelo Componente Especializado da Assistência Farmacêutica. II. A obtenção do adalimumabe é condicionada à análise técnica dos documentos exigidos nos Protocolos Clínicos e Diretrizes Terapêuticas do SUS para a doença. III. O enalapril pertence ao grupo 1 de financiamento, sendo de compra centralizada pelo Ministério da Saúde.",
       "alternatives": {
         "A": "II e III, apenas.",
@@ -926,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Um paciente em tratamento de diabetes mellitus tipo II encontra- se com controle glicêmico precário e retira mensalmente seus medicamentos na farmácia de uma Unidade Básica de Saúde. Em um desses dias, o farmacêutico conseguiu identificar problemas na forma como o paciente armazena e manuseia a sua insulina de uso diário, e forneceu orientações para contornar esses problemas. Esse relato ilustra o funcionamento do seguinte componente do Ciclo da Assistência Farmacêutica:",
       "alternatives": {
         "A": "dispensação.",
@@ -943,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Assinale o desenho de estudo que melhor representa um estudo farmacoepidemiológico, entre os listados a seguir.",
       "alternatives": {
         "A": "Avaliação laboratorial da estabilidade química de um fármaco em diferentes temperaturas.",
@@ -960,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Com relação às diferentes vias de administração de fármacos, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Quando um fármaco é absorvido pela via sublingual ele é disponibilizado pela veia cava superior para a circulação e posteriormente para o metabolismo de primeira passagem. ( ) Fármacos de uso inalatório são absorvidos por meio do epitélio pulmonar, o que permite ação estritamente na superfície pulmonar, evitando efeitos adversos. ( ) Fármacos que são administrados pela via oral podem ser metabolizados no trato gastrointestinal por enzimas da flora intestinal ou do fígado antes de chegar à circulação sistêmica. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -977,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Em relação aos inibidores da enzima conversora de angiotensina (ECA), avalie as afirmativas a seguir. I. O enalapril é um profármaco relativamente inativo até ser hidrolisado por esterases hepáticas que transformam o mesmo em um inibidor altamente potente da ECA. II. Os inibidores da ECA levam ao aumento da Angiotensina II e inibem a degradação da bradicinina que causam efeitos de aumento da natriurese e anti-hipertensivos, respectivamente. III. O captopril é um inibidor da ECA que possui cerca de 25 a 30% de biodisponibilidade por via oral em jejum.",
       "alternatives": {
         "A": "I, II e III.",
@@ -994,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Com base nos conceitos da farmacocinética, avalie as afirmativas a seguir. I. No transporte passivo, a molécula do fármaco geralmente penetra por difusão e no estado de equilíbrio a concentração do fármaco ionizável é igual nos dois lados da membrana. II. No caso de fármacos que são ácidos fracos, o pH do meio (sangue pH 7,4), quando mais básico, facilita a dissociação. III. A biodisponibilidade descreve o percentual com que a dose de um fármaco administrado alcança seu local de ação.",
       "alternatives": {
         "A": "I, II e III.",
@@ -1011,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Os diuréticos são fármacos amplamente utilizados apesar dos efeitos adversos presentes. Em relação ao tema, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A acetazolamida é um inibidor da anidrase carbônica que pode apresentar a encefalopatia hepática como uma reação adversa. ( ) A furosemida é um inibidor da atividade do simportador de Na+-K+-2Cl- que pode causar o aumento nos níveis de colesterol e triglicerídios no sangue como uma reação adversa. ( ) A hidroclorotiazida é um inibidor do simporte de Na+-Cl- que pode provocar a diminuição da tolerância à glicose como uma reação adversa. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -1028,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Um dos medicamentos mais utilizados para o manejo da asma e da doença pulmonar obstrutiva crônica são os broncodilatadores. Acerca do tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O salmeterol é um agonista lipofílico β2-seletivo com duração de ação curta (< 1h).",
@@ -1045,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "O Sistema Único de Saúde disponibiliza diversos medicamentos anti-hipertensivos para o tratamento da população. Acerca do tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A losartana é um agonista seletivo dos receptores da angiotensina 1 (AT1), por via oral.",
@@ -1062,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "De acordo com a Relação Nacional de Medicamentos Essenciais (Rename) disponíveis no Sistema Único de Saúde (SUS), assinale a afirmativa correta.",
       "alternatives": {
         "A": "A Rename apresenta exclusivamente os medicamentos para o tratamento da hipertensão, diabetes, asma, dislipidemia, inflamação e infecções, anticoncepcionais e fitoterápicos.",
@@ -1079,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Com base na RESOLUÇÃO Nº 724, de 29 de abril de 2022, que dispõe sobre o Código de Ética da Profissão Farmacêutica, em relação aos deveres, avalie se o farmacêutico, durante o tempo em que permanecer inscrito em um CRF, independentemente de estar ou não no exercício efetivo da profissão, deve: I. Guardar sigilo de fatos e informações de que tenha conhecimento no exercício da profissão. II. Contribuir para a promoção, proteção e recuperação da saúde individual e coletiva da pessoa humana e dos animais. III. Denunciar às autoridades competentes quaisquer formas de riscos inerentes ao trabalho, que sejam prejudiciais à saúde e à vida, com exceção a agressão ao meio ambiente.",
       "alternatives": {
         "A": "I, II e III.",
@@ -1096,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "O uso racional de medicamentos é fundamental para garantir segurança, eficácia e qualidade no tratamento dos pacientes. Nesse contexto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Medicamentos fitoterápicos não oferecem risco de interações medicamentosas e podem ser usados livremente com outros fármacos.",
@@ -1113,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Paciente de 28 anos, do sexo feminino, previamente saudável, apresenta, há um dia, disúria e urgência urinária. O exame de urina revela bacteriúria. A urocultura evidencia crescimento de Escherichia coli com sensibilidade à nitrofurantoína, fosfomicina trometamol e ciprofloxacino. Considerando os princípios de uso racional de antimicrobianos e as características farmacocinéticas dos fármacos, assinale a melhor escolha terapêutica para o tratamento da cistite não complicada apresentada pela paciente.",
       "alternatives": {
         "A": "Nitrofurantoína por 10 dias, por sua eliminação renal ativa, embora com risco elevado de nefrotoxicidade.",
@@ -1130,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Uma prescrição médica indicou o uso contínuo de digoxina e propranolol para a insuficiência cardíaca congestiva de um paciente do sexo masculino, com 58 anos, além da prescrição de omeprazol para tratar sintomas de refluxo gastroesofágico. O paciente utiliza bicarbonato de sódio e hidróxido de alumínio como antiácidos, apesar de não estarem prescritos pelo clínico. Em relação ao tema das interações medicamentosas, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A combinação de hidróxido de alumínio com quinolonas aumenta a biodisponibilidade desse fármaco ao neutralizar a acidez gástrica.",
@@ -1147,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação da Saúde",
       "statement": "Entre os fitoterápicos presentes na lista atual da Relação Nacional de Medicamentos Essenciais (Rename) listados a seguir, assinale o que atua como antiespasmódico.",
       "alternatives": {
         "A": "Salgueiro (Salix alba L.).",

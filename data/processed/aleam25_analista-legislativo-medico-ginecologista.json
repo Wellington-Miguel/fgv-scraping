@@ -253,7 +253,7 @@
         "B": "Trabalhar é considerado um castigo por muitos, mas o trabalho também tem aspectos positivos.",
         "C": "A Polícia Federal está encarregada de várias investigações, mas certamente outras chegarão à PF.",
         "D": "A família acabou de comprar uma casa em Mato Grosso, mas a nova casa ainda demora a ficar reformada.",
-        "E": "Todos os candidatos devem apresentar declarações de renda, mas elas demoram a ficar prontas. Raciocínio Lógico e Matemático"
+        "E": "Todos os candidatos devem apresentar declarações de renda, mas elas demoram a ficar prontas."
       },
       "answer": "B",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Figura 1 abaixo mostra uma tira retangular ABCD de papel com uma linha tracejada EF onde ela será dobrada. A linha EF faz 63° com o lado AB. A Figura 2 mostra que, após a dobra, o vértice C caiu sobre o segmento AB. Figura 1 Figura 2 O ângulo 𝑥 assinalado na Figura 2 mede",
       "alternatives": {
         "A": "54°.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "4 galinhas e 5 patos comem 1300 g de ração por dia. 5 galinhas e 4 patos comem 1220 g de ração por dia. A quantidade de ração que 2 galinhas e 1 pato comerão, por dia, equivale a",
       "alternatives": {
         "A": "350 g.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um grupo é formado por seis pessoas, todas com idades diferentes. Dessas pessoas, três serão sorteadas aleatoriamente. A probabilidade, de que as duas pessoas mais jovens estejam entre as sorteadas, é igual a",
       "alternatives": {
         "A": "1/4.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A negação de “Nenhum advogado é ingênuo” é:",
       "alternatives": {
         "A": "Há, pelo menos, um advogado ingênuo.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A soma de três números naturais diferentes é 2025. Sabe-se que a diferença entre o maior e o menor desses números é menor que 10. O menor valor possível para o menor dos três números é igual a",
       "alternatives": {
         "A": "666.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Joana gasta 40% do seu salário em moradia. Do que sobra, ela gasta 40% em alimentação. O restante do seu salário ela usa para “outras despesas”. A porcentagem do salário de Joana que ela usa para “outras despesas” é:",
       "alternatives": {
         "A": "20%.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Arquimedes gosta de brincar com a representação de pontos no plano cartesiano. Desta vez, a brincadeira é: começando de um ponto genérico P do plano cartesiano, ele executa repetidamente o seguinte comando: a partir do ponto atual de coordenadas (x, y) deslocar-se para o ponto (2y, x – 1). Arquimedes começou a brincadeira no ponto P(0, 1). Após executar o comando 5 vezes em sequência, o ponto em que Arquimedes chegou é:",
       "alternatives": {
         "A": "(2, −7).",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Três grandezas positivas X, Y e Z são tais que Y é diretamente proporcional ao quadrado de X e Z é inversamente proporcional a Y. Quando X = 4, tem-se Y = 48 e Z = 2. Quando Z = 8, o valor de X + Y é:",
       "alternatives": {
         "A": "10.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sequência de números racionais é tal que cada termo de ordem k, a partir do terceiro termo, é a razão entre o termo de ordem k – 1 e o termo de ordem k – 2. Por exemplo, o terceiro termo é a razão entre o segundo e o primeiro termos. Sabe-se que o quinto e o sétimo termos dessa sequência são respectivamente, 3 e 2/3. O terceiro termo dessa sequência é:",
       "alternatives": {
         "A": "1/2.",
@@ -416,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere as 5 letras da sigla ALEAM. O número de maneiras de escrever essas 5 letras em sequência de modo que as letras L e M não fiquem juntas é:",
       "alternatives": {
         "A": "15.",
         "B": "20.",
         "C": "24.",
         "D": "32.",
-        "E": "36. Noções de Informática"
+        "E": "36."
       },
       "answer": "E",
       "annulled": false,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um técnico precisa classificar e organizar uma grande coleção de mídias em um computador que utiliza o Sistema Operacional Windows 10. Para garantir a correta identificação dos arquivos de áudio, vídeo, imagem e planilhas, ele deve conhecer os principais padrões e suas extensões. Considerando os padrões de arquivos digitais, assinale a extensão que é universalmente reconhecida como um formato de arquivo de vídeo, que combina áudio e vídeo e é amplamente utilizado em streaming e dispositivos móveis.",
       "alternatives": {
         "A": ".ZIP",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Ao finalizar a redação de um extenso relatório técnico no MS Word 2010 BR ou superior, um analista precisa garantir que o Anexo do documento inicie sempre em uma nova página e tenha uma formatação de rodapé diferente (por exemplo, numeração em algarismos romanos) em relação ao corpo principal do texto (que usa numeração em algarismos arábicos). Assinale o recurso de formatação de página que o analista deve utilizar para atingir o objetivo de iniciar o Anexo em uma nova página e permitir a alteração independente da formatação dos rodapés/cabeçalhos.",
       "alternatives": {
         "A": "Quebra de linha (Shift + Enter).",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Uma Macro (sequência de comandos gravada) é uma poderosa ferramenta de automação. No entanto, ela pode ser um vetor de segurança e requer proteção contra visualização e edição não autorizada em ambientes controlados. Considerando o MS Word 2010 BR ou superior e a arquitetura VBA comum ao Excel, a medida de segurança mais adequada para evitar que um usuário não autorizado visualize ou altere o código fonte de uma Macro armazenada em um documento é:",
       "alternatives": {
         "A": "Definir uma senha de proteção para o documento na opção \"Proteger Documento\" na guia Revisão.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Ao trabalhar com o Sistema Operacional Windows 10, um usuário precisa organizar os arquivos em seu computador, o que frequentemente envolve mover (recortar) ou copiar itens entre pastas. Para otimizar o tempo e evitar o uso do mouse ou menu de contexto, o uso de atalhos de teclado é essencial. Assinale a sequência de teclas de atalho padrão do Windows que deve ser utilizada, respectivamente, para recortar (mover) um arquivo ou pasta selecionado e, em seguida, colá-lo no novo local desejado.",
       "alternatives": {
         "A": "Ctrl + S para recortar e Ctrl + V para colar.",
@@ -501,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No ambiente de Internet, a transferência de dados e arquivos entre o computador do usuário (cliente) e um servidor remoto é uma operação constante e fundamental, seja para acessar uma página, salvar um documento na nuvem ou baixar uma foto. Considerando a transferência de arquivos e dados, os termos técnicos que definem as ações de enviar um arquivo do seu computador local para um servidor (ex: salvando na nuvem) e a ação de receber um arquivo de um servidor para o seu computador (ex: baixando um documento) são, respectivamente,",
       "alternatives": {
         "A": "Download e Streaming.",
         "B": "Upload e Download.",
         "C": "Streaming e Upload.",
         "D": "Banda e Upload.",
-        "E": "Upload e Banda. Legislação do Estado do Amazonas"
+        "E": "Upload e Banda."
       },
       "answer": "B",
       "annulled": false,
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Avalie, com base na Constituição do Estado do Amazonas, se os objetivos prioritários do Estado, entre outros, incluem: I. A garantia de controle pelo cidadão e segmentos da coletividade estadual da legitimidade e legalidade dos atos dos Poderes Públicos e da eficácia dos serviços públicos. II. A garantia dos direitos subjetivos públicos do indivíduo e dos interesses da coletividade. III. A defesa da Floresta Amazônica e o seu aproveitamento racional, respeitada a sua função no ecossistema. IV. O equilíbrio no desenvolvimento da coletividade mediante a regionalização das ações administrativas, respeitada a autonomia municipal. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Ana, Branca e Carla discutiam os direitos e garantias individuais e coletivos. A respeito do tema, Ana afirmou que todos têm direito de requerer e obter, no prazo de noventa dias, informações objetivas de seu interesse particular, coletivo ou geral, acerca dos atos e projetos do Estado e dos Municípios. Beatriz, por sua vez, disse que a força policial só poderá intervir para garantir o exercício do direito de reunião e demais liberdades constitucionais, bem como a defesa da ordem pública e do patrimônio público e privado e a segurança pessoal. Já Carla afirmou que é assegurado a todos o direito de petição e de representação aos Poderes Públicos para coibir ilegalidade ou abuso de poder. À luz da Constituição do Estado do Amazonas, assinale a opção correta.",
       "alternatives": {
         "A": "As afirmativas de Ana, Beatriz e Carla estão corretas.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Avalie, com base na Constituição do Estado do Amazonas, as seguintes afirmativas a respeito do Poder Legislativo e assinale (V) para a verdadeira e (F) para a falsa. ( ) O Poder Legislativo é exercido pela Assembleia Legislativa, composta de representantes do povo, eleitos para mandato de quatro anos, pelo sistema proporcional, mediante sufrágio universal e voto direto e secreto, na forma da legislação federal. ( ) O número de Deputados corresponderá ao triplo da representação do Estado na Câmara Federal e, atingido o número de vinte e quatro, será acrescido de tantos quanto forem os Deputados Federais acima de doze. ( ) Os Deputados são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 28 da Constituição do Estado do Amazonas, avalie se são da competência exclusiva da Assembleia Legislativa os seguintes atos: I. Elaborar sua proposta orçamentária, dentro dos limites estabelecidos, conjuntamente com os demais Poderes, na forma da lei de diretrizes orçamentárias. II. Aprovar ou suspender a intervenção nos Municípios. III. Decretar intervenção federal no Estado para garantir livre exercício de suas funções. IV. Sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa e os atos contrários aos princípios de preservação do meio ambiente. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com a Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, a investidura em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha o funcionário sofrido em sua capacidade física ou mental, apurada por junta médica oficial, é denominada",
       "alternatives": {
         "A": "aproveitamento.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Art. 65 – Avalie, com base na Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, se, nos termos e condições de regulamento, a licença é concedida, entre outros motivos, I. Para tratamento de saúde. II. Por motivo de doença em pessoa da família. III. Para tratamento de interesse particular. IV. Para serviço militar obrigatório. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com base na Resolução Legislativa nº 469/2010 – Institui o Regimento Interno da Assembleia Legislativa do Estado do Amazonas, em seu Art. 14, as afirmativas a seguir a respeito do Bloco Parlamentar estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Dois ou mais partidos podem constituir Bloco Parlamentar, sob liderança comum, sem prejuízo à autonomia da representação partidária para indicar seu líder.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Art. 23. Com base no Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as afirmativas a seguir, a respeito da Comissão da Assembleia Legislativa, são verdadeiras (V) ou falsas (F). ( ) É permanente. ( ) É temporária, designada com prazo determinado para funcionar, extinguindo-se pelo cumprimento de sua finalidade ou pelo decurso de prazo. ( ) A Assembleia Legislativa terá o máximo de 80 (oitenta) assentos em comissões temáticas permanentes, distribuídos entre 16 (dezesseis) comissões. ( ) O número de assentos em cada comissão específica será estipulado por Ato da Mesa Diretora no início de cada biênio da legislatura, atentando-se para o mínimo de 3 (três) assentos e o máximo de 7 (sete). As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V– V.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em relação ao Parecer, avalie, de acordo com o Regimento Interno da Assembleia Legislativa do Estado do Amazonas, as afirmativas a seguir. I. Parecer é o opinativo escrito por um relator e submetido à deliberação de Comissão, devendo concluir pela aprovação ou rejeição de matéria a ela sujeita. II. A proposição resultante de Parecer não se sujeita às regras de votação atinentes a sua natureza. III. O Parecer não pode ser oral nem quando se referir a requerimento ou emenda à redação final. IV. O Parecer é indispensável à instrução dos processos, aplicando-se, em caráter extraordinário, a nomeação de Relator pelo Presidente da Assembleia, nos termos deste Regimento. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 41 do Regimento Interno da Assembleia Legislativa do Estado do Amazonas, a fase dos trabalhos nas Comissões reservada à discussão e à votação de parecer ou de proposição de sua iniciativa é denominada",
       "alternatives": {
         "A": "Expediente.",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Sobre a anatomia vascular da pelve, é correto afirmar que",
       "alternatives": {
         "A": "a artéria ilíaca externa nasce da artéria ilíaca comum, dando origem às artérias vesical inferior e uterina.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma criança de seis anos, do sexo feminino, vai a uma emergência devido a convulsões. Ao fazer o exame clínico, não foram encontrados outros sinais neurológicos, mas foram observados pelos pubianos em estágio III de Tanner e mamas com início de desenvolvimento, também em estágio III de Tanner. Ao realizar ressonância nuclear magnética, foi encontrado tumor sugestivo de hamartoma. Diante desse quadro, é podemos afirmar que:",
       "alternatives": {
         "A": "o achado na ressonância não tem relação com os achados clínicos mamários e genitais.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma mulher de 47 anos realiza uma ultrassonografia de rotina que identifica útero em retroversão e com imagem sugestiva de leiomioma intramural, medindo 3cm na sua parede corporal posterior. Os ovários e o restante do exame ultrassonográfico não tiveram alterações aparentes. Relata ciclos irregulares com sangramento menstrual de volume habitual. Nega dor pélvica ou outros sintomas. Procurou consulta ginecológica, bastante preocupada com os achados. O seu exame físico ginecológico não evidenciou anormalidades. É conduta adequada para essa paciente",
       "alternatives": {
         "A": "indicar histerectomia total por laparotomia.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente com 41 anos realiza pela primeira vez mamografia. Nela é identificado um nódulo oval, bem delimitado, medindo 0,8cm no quadrante superior lateral da mama esquerda. No laudo vem a classificação BI-RADS® 0. É realizada então uma ultrassonografia mamária que encontra um nódulo anecóico e homogêneo, com reforço acústico posterior, medindo 0,8cm, em correspondência ao achado mamográfico. A classificação da ultrassonografia deverá ser",
       "alternatives": {
         "A": "BI-RADS® 0",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Chega no serviço de emergência de um hospital, uma paciente de 21 anos com queixa de dor em abdome inferior e febre há dois dias. Relata ter atividade sexual regular sem parceiro fixo. Ao exame clínico, a paciente encontra-se com temperatura de 38,9º C, dor à palpação em hipogástrio de fossa ilíaca esquerda, presença de secreção purulenta saindo pelo orifício cervical e dor à mobilização uterina. Realiza exames laboratoriais que identificam leucocitose e beta-HCG negativo. O exame de urina tipo I foi normal e ultrassonografia transvaginal não teve alterações. Levando em consideração a principal hipótese diagnóstica, o melhor tratamento é:",
       "alternatives": {
         "A": "Esquema antibiótico com ceftriaxona, doxiciclina e metronidazol.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma criança de 4 anos é levada ao ginecologista pela mãe devido a corrimento vaginal. Ao examinar, é encontrada leve hiperemia vulvar e saída de pequena quantidade de secreção branca pela vagina. O hímen encontra-se íntegro e não são encontradas outras lesões. É correto afirmar sobre essa situação:",
       "alternatives": {
         "A": "É necessária internação imediata e início de antibiotioterapia venosa de amplo espectro.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Sobre o câncer primário de vagina, é correto afirmar:",
       "alternatives": {
         "A": "É o câncer ginecológico mais comum no Brasil.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante avaliação de exames de rotina de uma paciente de 39 anos, o ginecologista encontra um laudo de ultrassonografia que descreve um nódulo miomatoso tipo FIGO 7. Sobre essa descrição está correto dizer que é um mioma",
       "alternatives": {
         "A": "subseroso com componente intramural.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante uma consulta ginecológica de rotina, ao exame especular é observada hiperemia da mucosa vaginal colo uterino com aspecto de “morango” e presença de secreção amarelo- esverdeada. A medida do pH vaginal foi 6,9. Em microscopia a fresco do conteúdo vaginal foi identificado microrganismo flagelado se movimentando ativamente. A melhor opção terapêutica nesse caso é",
       "alternatives": {
         "A": "alcalinização do meio vaginal.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente com diagnóstico de câncer de mama localmente avançado tem como proposta terapêutica inicial a quimioterapia neodjuvante. Pode se afirmar sobre esse tipo de tratamento",
       "alternatives": {
         "A": "raramente melhora as condições cirúrgicas, devendo ser realizada apenas para mudar o tipo histológico.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Sobre a anatomia do assoalho pélvico podemos afirmar que",
       "alternatives": {
         "A": "o ligamento uterossacro fixa a porção posterior da cérvix ao púbis.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente de 52 anos leva para consulta uma mamografia que descreve uma calcificação redonda em “pipoca” no quadrante superior lateral da mama esquerda. Não descreve outras alterações. Diante desse achado a melhor conduta é",
       "alternatives": {
         "A": "manter rastreio preconizado para a faixa etária.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente no menacme realiza ultrassonografia transvaginal que encontra os seguintes achados: Útero globoso, com espessamento miometrial em parede anterior, sombreamento em forma de leque, zona juncional irregular, cistos miometriais com ecogenicidade “em vidro fosco” e estrias lineares ecogênicas. Ovários visualizados de aspecto normal. Esses achados são sugestivos do seguinte diagnóstico:",
       "alternatives": {
         "A": "Adenomiose.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma mulher com diagnóstico de câncer de mama tem os seguintes achados: tumor na mama de 0,5cm, sem extensão para pele ou parede torácica, e ausência de metástases em linfonodos e a distância. O seu estadiamento pela classificação TNM é:",
       "alternatives": {
         "A": "T1N1M0 – estágio IB.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente que está em investigação para infertilidade realiza histerossapingografia que evidencia fundo da cavidade uterina com contorno duplicado, havendo afastamento entre os cornos uterinos e os óstios tubários. Realiza ressonância nuclear magnética que confirma o achado da cavidade uterina e encontra o contorno externo do útero de aspecto normal. Esses achados nos exames de imagem são compatíveis com o diagnóstico de:",
       "alternatives": {
         "A": "Útero normal.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Sobre a neoplasia lobular da mama é correto afirmar",
       "alternatives": {
         "A": "raramente se manifestam como multicêntricas.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Diante do diagnóstico de câncer de mama em uma gestante, podemos afirmar que",
       "alternatives": {
         "A": "o tratamento cirúrgico está contraindicado.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma mulher com 54 anos, há 5 anos na menopausa, procura atendimento ginecológico com queixa de prurido vulvar intenso. Relata que já procurou diversos serviços, sendo sempre prescritos antifúngicos tópicos, mas sem melhora alguma. Informa que o prurido chega a afetar até o seu sono. No exame ginecológico são encontradas placas hipocrômicas peroladas, bem definidas na vulva e região perianal, fazendo um formato de “8”. É observado desaparecimento dos pequenos e grandes lábios. A mucosa vaginal não tem alterações e não há sinais de corrimento. Foi feita biopsia da área afetada sendo encontrados os seguintes achados: Epiderme fina e retraída, edema e depósito de fibrina abaixo do epitélio e infiltrado linfocítico na derme. Não foram encontrados sinais de malignidade. Pensando no diagnóstico mais provável, a melhor opção terapêutica é",
       "alternatives": {
         "A": "reposição hormonal sistémica.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente do sexo feminino, com 28 anos, tem histórico de vários episódios de mastite com abscessos drenando espontaneamente na região periareolar, sempre no mesmo local da mama direita. Nunca engravidou, tem diabetes tipo II e é tabagista. Exames de imagem não evidenciam malignidade. O diagnóstico mais provável é:",
       "alternatives": {
         "A": "Abscesso subareolar recidivante.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente de 25 anos é atendida por um ginecologista com queixa de dor pélvica, disúria e hematúria macroscópica que surgem apenas no período de fluxo menstrual. Essas queixas são compatíveis com o seguinte diagnóstico:",
       "alternatives": {
         "A": "Infeção urinária baixa.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente com 7 semanas de gestação vai para uma emergência com queixa de sangramento vaginal. Ao exame clínico é visualizada saída de sangue em moderada quantidade pelo orifício externo do colo. Realizou ultrassonografia transvaginal que evidenciou saco gestacional regular e embrião com atividade cardíaca, compatível com a idade gestacional. O diagnóstico mais provável nesse quadro é",
       "alternatives": {
         "A": "abortamento retido.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A localização mais frequente de gestação ectópica é",
       "alternatives": {
         "A": "ovariana.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a consulta de pré-natal, uma gestante com 36 semanas coleta material para cultura vaginorretal que vem positiva para Streptococcus agalactiae. Ela tem histórico de alergia a penicilina, sendo considerada de alto risco para anafilaxia. Sobre a profilaxia durante o trabalho de parto nesse caso, é correto afirmar que",
       "alternatives": {
         "A": "está indicado o uso de cefazolina.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente com diagnóstico de hipertensão arterial pulmonar vai a consulta relatando que deseja engravidar. Sobre essa condição na gravidez podemos afirmar:",
       "alternatives": {
         "A": "Não há maiores riscos para a saúde da gestante.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma gestante, assintomática, com 21 semanas realiza ultrassonografia transvaginal que evidencia colo uterino com comprimento de 18mm. Ela tem histórico de duas gestações prévias, ambas terminaram com trabalho de parto espontâneo com 29 semanas. É correto dizer sobre esse caso:",
       "alternatives": {
         "A": "Deverá iniciar uso de ampicilina imediatamente.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Gestante com 36 semanas dá entrada em serviço de emergência com dor abdominal intensa e sangramento vaginal. Ao exame clínico é encontrada hipertonia uterina e o sangramento vem da cavidade uterina. Não há dilatação cervical. São identificados batimentos cardíacos fetais com desacelerações constantes. Diante desse caso, a conduta mais adequada além da estabilização clínica materna, é",
       "alternatives": {
         "A": "realizar ressonância para confirmar diagnóstico.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente, primigesta, com gestação gemelar de 38 semanas, sem intercorrências durante o pré-natal, procurou a maternidade com contrações uterinas. Ao exame são identificados os dois fetos vivos com boa vitalidade, estando o primeiro feto mais baixo, em apresentação córmica e o segundo mais próximo do fundo uterino em apresentação pélvica. O colo uterino encontra-se com 2 cm de dilatação e a bolsa amniótica está rota. Das alternativas abaixo, a melhor conduta quanto ao parto é:",
       "alternatives": {
         "A": "Indicar a operação cesariana.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Paciente envia o material do seu abortamento para análise, sendo identificado cariótipo 69,XXY. Com esse achado podemos afirmar que",
       "alternatives": {
         "A": "é síndrome de Down.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma gestante com 34 semanas, sem comorbidades, dá entrada em uma maternidade com queixa de cefaleia. Ao ser examinada, é verificada pressão arterial de 170 x 110mmHg. São solicitados exames laboratoriais que evidenciam níveis elevados das enzimas hepáticas e do LDH e contagem de plaquetas de 90.000/mm3. Em ultrassonografia é evidenciada ausência de líquido amniótico, peso fetal no percentil 1 e o Doppler da artéria umbilical com diástole zero. Diante desses achados, das condutas abaixo, a correta é:",
       "alternatives": {
         "A": "Internação, cuidados na mãe e proceder com o parto.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Gestante internada para indução do parto. Ao exame físico é encontrada lesão ativa de Herpes genital. Diante dessa situação, a melhor conduta é",
       "alternatives": {
         "A": "Uso de corticoide tópico.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "As gestantes com diabetes aumentam as chances de complicações fetais e neonatais. Estão entre essas complicações:",
       "alternatives": {
         "A": "Anemia fetal, oligodramnia e hiperglicemia neonatal.",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma gestante com 37 semanas em acompanhamento ambulatorial de pré-eclâmpsia realiza ultrassonografia obstétrica que evidencia feto com peso estimado no percentil 2, Doppler da artéria umbilical com diástole positiva, porém com índice de pulsatilidade acima do percentil 95 e Doppler do ducto venoso normal. Levando em consideração que o quadro materno está estável, o mais correto a afirmar é",
       "alternatives": {
         "A": "aguardar até 42 semanas.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "São condições de praticabilidade de aplicação do fórcipe:",
       "alternatives": {
         "A": "Membranas íntegras e proporcionalidade cefalopélvica.",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma gestante com 17 semanas, ao iniciar o pré-natal, traz exames laboratoriais com resultado positivo para o teste rápido para sífilis e VDRL 1:128. Ela nega histórico prévio de sífilis. Nesse caso está indicado",
       "alternatives": {
         "A": "iniciar tratamento com penicilina benzatina.",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente encontra-se na 28ª semana de uma gravidez gemelar monocoriônica diamniótica. Uma ultrassonografia evidencia que o feto 1 está com peso estimado no percentil 44, tem normodramnia e o seu Doppler está normal. O feto 2 tem peso estimado no percentil 2, tem normodramnia e o Doppler da artéria umbilical tem padrão cíclico de diástole zero e reversa. O diagnóstico dessa paciente é",
       "alternatives": {
         "A": "síndrome de transfusão feto-fetal estágio I de Quintero.",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma paciente, com atraso menstrual de 7 semanas, é atendida em uma emergência com quadro de sangramento vaginal volumoso. Ao exame é identificado sangramento de origem uterina, com saída de imagens vesiculares. Realiza dosagem de beta-HCG quantitativo, cujo resultado é 900.000 mUI/mL. Realiza ultrassonografia que evidencia útero preenchido por conteúdo heterogêneo, com vesículas anecóicas. Os ovários estão aumentados de volume com imagens císticas volumosas. Diante desses achados, o diagnóstico mais provável é",
       "alternatives": {
         "A": "aborto retido.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "É uma modificação fisiológica do organismo materno, durante a gestação:",
       "alternatives": {
         "A": "Aumento dos triglicerídeos.",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante o trabalho de parto de uma gestante com 38 semanas é observado o sinal de Bandl-Frommel. No seu histórico, tem diabetes gestacional sem controle adequado. Esse sinal tem como significado clínico",
       "alternatives": {
         "A": "descolamento prematuro de placenta.",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O segundo período do parto corresponde",
       "alternatives": {
         "A": "à fase de dilatação.",
@@ -1351,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Uma gestante com 33 semanas vai a uma maternidade com quadro de sangramento vaginal de grande volume. Nega dor abdominal ou outras queixas. Relata que ultrassonografia morfológica de 1º trimestre relatou “placenta baixa”. Ao exame físico é identificado tônus uterino normal, sem contrações e o exame especular identifica sangramento saindo pelo orifício cervical. A cardiotocografia está normal. Dentre as alternativas abaixo, a que melhor descreve a propedêutica adicional adequada é:",
       "alternatives": {
         "A": "Realizar toque vaginal.",

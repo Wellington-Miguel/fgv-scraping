@@ -202,7 +202,7 @@
         "B": "Como estivesse atrasado, acabou perdendo o avião / conjunção.",
         "C": "Apesar de muito esforço, não conseguiu passar no concurso / locução prepositiva.",
         "D": "Um ciclone inesperado atingiu Rio Bonito do Iguaçu, no estado do Paraná / adjetivo.",
-        "E": "Em 99% das casas e do comércio da cidade, a energia que foi cortada já foi restabelecida / pronome. Raciocínio Lógico Matemático"
+        "E": "Em 99% das casas e do comércio da cidade, a energia que foi cortada já foi restabelecida / pronome."
       },
       "answer": "A",
       "annulled": false,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Considere a afirmação: “Se o cozinheiro é competente, o almoço não vai atrasar.” A negação dessa afirmação é",
       "alternatives": {
         "A": "O cozinheiro não é competente e o almoço vai atrasar.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Samuel compra e vende carros usados na sua loja. Em uma das suas transações, ele comprou um carro usado e anunciou como preço de venda um valor 20% maior do que gastou na compra. Entretanto, na hora de vender, ele deu ao comprador um desconto de 10% sobre o preço de venda anunciado. Com isso, ele lucrou R$ 5.200,00 nessa transação. Esse carro foi vendido por",
       "alternatives": {
         "A": "R$ 65.000,00.",
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Arlindo, Benedito, Gilmar, Nonato e Osvaldo vão acampar. Eles possuem duas barracas, sendo uma menor, que comporta duas pessoas, e outra maior, comportando três pessoas. Entretanto, Arlindo e Benedito não querem ficar na mesma barraca. Respeitando esse desejo, o número de maneiras diferentes em que as cinco pessoas podem ser arrumadas, nas duas barracas, é",
       "alternatives": {
         "A": "3.",
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Uma panela de sopa pode alimentar ou 6 adultos ou 10 crianças. Em certa ocasião, havia 4 panelas de sopa e foram alimentadas 25 crianças. Com a sopa que sobrou, a quantidade de adultos que podem ser alimentados é igual a",
       "alternatives": {
         "A": "6.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Uma rádio fez uma pesquisa para conhecer melhor o seu público ouvinte. Ao todo, 240 pessoas foram entrevistadas. Do total de entrevistados, 100 eram mulheres e 136 ouvem a rádio. Constatou-se também que apenas 6 mulheres não ouvem a rádio. Dos homens entrevistados, o percentual daqueles que ouvem a rádio é de",
       "alternatives": {
         "A": "10%.",
@@ -297,14 +297,14 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em uma urna há 10 cartas, sendo 5 vermelhas e 5 pretas. Em cada uma das 5 cartas vermelhas está escrito uma das letras A, B, C, D e E. O mesmo ocorre com cada uma das cartas pretas. Todas as cartas são diferentes entre si. Sorteiam-se, ao acaso, duas cartas em sequência e sem reposição. A probabilidade de as cartas sorteadas terem a mesma cor ou a mesma letra é igual a",
       "alternatives": {
         "A": "2/5.",
         "B": "3/5.",
         "C": "2/9.",
         "D": "4/9.",
-        "E": "5/9. Noções de Informática"
+        "E": "5/9."
       },
       "answer": "E",
       "annulled": false,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de Informática da ALE-RO está elaborando um manual de especificações técnicas para a aquisição de novos computadores. É necessário descrever corretamente a função de cada componente para justificar a escolha técnica. Assinale a opção que apresenta corretamente o componente de hardware e sua função principal na arquitetura básica de um computador.",
       "alternatives": {
         "A": "CPU: armazenar permanentemente o sistema operacional e os arquivos dos usuários.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Durante uma sessão longa e de alta demanda na ALE-RO, o sistema de registro de votos e tramitação de emendas começa a ficar extremamente lento. O analista de TI, ao monitorar o sistema, observa que a memória física (RAM) está completamente utilizada. O sistema operacional então passa a usar um recurso para não travar completamente. O recurso técnico que o sistema operacional utiliza como extensão da memória RAM física, quando essa atinge sua capacidade máxima, armazenando dados temporariamente em um dispositivo de armazenamento secundário, é denominado",
       "alternatives": {
         "A": "Memória Cache L3.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Um servidor público da ALE-RO está redigindo um relatório extenso no Microsoft Word 365 (BR), no Windows 10 (BR). Para otimizar seu trabalho e evitar o uso excessivo do mouse, ele utiliza combinações de teclas para executar comandos comuns com mais agilidade. A seguir, relacione os atalhos de teclado às ações que o servidor deseja realizar. 1. Ctrl + B 2. Ctrl + T 3. Ctrl + Z 4. Ctrl + L ( ) Salvar o documento em que está trabalhando. ( ) Selecionar todo o texto do documento atual. ( ) Desfazer a última ação realizada. ( ) Pesquisar por uma palavra específica dentro do documento. Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3 – 4.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "A Diretoria Legislativa da ALE-RO estabeleceu um padrão formal para a redação de todas as suas indicações. O modelo oficial define que os títulos das seções principais (como “EMENTA” e “JUSTIFICATIVA”) devem usar a fonte Arial, tamanho 14, negrito e com um espaçamento de 24 pontos, após o parágrafo. No MS Word 365 (BR), a maneira mais eficiente e profissional para aplicar e garantir a uniformidade desse padrão em todos os documentos é",
       "alternatives": {
         "A": "utilizar o Pincel de Formatação para copiar a formatação de um título para os outros.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de protocolo da ALE-RO precisa gerar automaticamente um código único para cada novo documento. O código é composto pelo Ano (coluna A), a sigla do Tipo de Processo (coluna B, ex.: \"PL\" para Projeto de Lei) e um Número Sequencial com 5 dígitos (coluna C, ex.: 00045). O formato final desejado é “2026-PL-00045”, conforme ilustra a figura a seguir. Para criar esse código formatado na coluna D, a fórmula correta a ser inserida na célula D2 e arrastada para baixo é:",
       "alternatives": {
         "A": "=A2 & B2 & C2",
@@ -399,14 +399,14 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de transparência da ALE-RO publica mensalmente uma planilha no Google Sheets com os gastos por departamento. Um servidor precisa criar um gráfico que mostre, de forma clara e imediata, a proporção (%) do orçamento total consumida por cada um dos seis departamentos em um determinado mês. O tipo de gráfico mais adequado no Google Sheets para atender a esse objetivo de visualizar partes de um todo é",
       "alternatives": {
         "A": "Gráfico de Linhas.",
         "B": "Gráfico de Colunas.",
         "C": "Gráfico de Pizza (ou Rosca).",
         "D": "Gráfico de Dispersão.",
-        "E": "Gráfico de Barras. Legislação Específica"
+        "E": "Gráfico de Barras."
       },
       "answer": "C",
       "annulled": false,
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No exercício de suas atribuições como servidora pública da Assembleia Legislativa do Estado de Rondônia, Shirley foi questionada acerca das especificidades da inexigibilidade de licitação constantes da Resolução ALE/RO nº 593, de 30 de outubro de 2024, que estabelece disposições regulamentares acerca das atribuições e procedimentos de licitações e contratos administrativos, no âmbito do aludido Órgão. Assinale a resposta correta dada por Shirley ao mencionado questionamento.",
       "alternatives": {
         "A": "A prorrogação da vigência dos contratos regularmente formalizados em decorrência de inexigibilidade de licitação é proibida, independentemente da demonstração de vantajosidade para a Administração.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Certa autoridade competente classificou como reservada uma determinada informação, sob o fundamento de que sua divulgação ou seu acesso irrestrito poderiam prejudicar ou causar risco a projetos de pesquisa e desenvolvimento científico ou tecnológico. Diante de tais circunstâncias, assinale a afirmativa correta, em consonância com o disposto na Lei nº 12.527/2011.",
       "alternatives": {
         "A": "O fundamento invocado não é idôneo para determinar o sigilo, pois não se enquadra dentre as situações consideradas imprescindíveis à segurança da sociedade e do Estado.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "William é servidor público do Estado de Rondônia, regularmente investido, que alcançou a estabilidade. Recentemente, contudo, William tem vivido intercorrências no espectro familiar, envolvendo a doença da madrasta que o criou, Valentina, que requer cuidados especiais, bem como o iminente deslocamento de sua esposa, Jane, para Brasília para o exercício de mandato eletivo como senadora, sendo certo que Eva, irmã de William por parte de pai e filha de Valentina, também é servidora estável do mesmo ente federativo. Diante dessa situação hipotética, à luz das disposições acerca da licença por motivo de doença na família e da licença por motivo de afastamento de cônjuge ou companheiro na Lei Complementar nº 68, de 09 de dezembro de 1992 e suas alterações, assinale a afirmativa correta.",
       "alternatives": {
         "A": "William e Eva poderão usufruir de licença por motivo de doença de Valentina ao mesmo tempo, considerando que o seu tratamento requer cuidados especiais.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Considerando o disposto no Código de Ética e Decoro Parlamentar da Assembleia Legislativa do Estado de Rondônia, o deputado que, pela primeira vez, utilizar, em discurso ou proposição, expressões atentatórias ao decoro parlamentar está sujeito à penalidade de",
       "alternatives": {
         "A": "censura verbal.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Acerca da validade dos atos administrativos, avalie as assertivas a seguir. I. Não poderá ser considerado inválido o ato administrativo no caso de falta ou insuficiência de motivação. II. Nos atos discricionários, será razão de invalidade a falta de correlação entre o motivo e o objeto do ato, tendo em vista a sua finalidade. III. Os atos administrativos deverão ser precedidos do processo administrativo adequado à sua validade e à proteção dos direitos e interesses dos administrados. Considerando o disposto na Lei do Processo Administrativo do Estado de Rondônia (Lei Ordinária nº 3.830, de 27 de junho de 2016), está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O Regimento Interno da Assembleia Legislativa do Estado de Rondônia, Resolução nº 32, de 21 de agosto de 1990 e suas alterações, delimita as comissões permanentes, o número de membros e a competência de cada uma delas. Com base na mencionada norma, assinale a opção correta a respeito do tema.",
       "alternatives": {
         "A": "Comissão de Agropecuária e Política Rural, com 7 (sete) membros, à qual compete a matéria atinente ao regime jurídico-administrativo e concessão e uso dos bens civis públicos.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Com vistas a analisar um projeto de lei que versa sobre servidores públicos do Estado de Rondônia, Salete, servidora da Assembleia Legislativa do mencionado ente federativo, teve que analisar as peculiaridades das normas da respectiva Constituição Estadual acerca do tema. Assinale a afirmativa que indica a correta conclusão alcançada por Salete, à luz do disposto na Carta Estadual.",
       "alternatives": {
         "A": "Nenhum servidor poderá ser diretor ou integrar conselho de empresa fornecedora do Estado, ou que realize qualquer modalidade de contrato com o Estado, sob pena de demissão do serviço público, salvo quando o contrato obedecer a cláusulas uniformes.",
@@ -535,14 +535,14 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Deodato, servidor da Assembleia Legislativa do Estado de Rondônia, está com receio de ter praticado, no exercício de suas atribuições, conduta passível de caracterizar ato de improbidade que atenta contra os princípios da Administração Pública, de modo que decidiu aprofundar os seus conhecimentos acerca de tal ato de improbidade, à luz do disposto na Lei nº 8.429/1990, com a redação conferida pela Lei nº 14.230/2021. Assinale a afirmativa que indica a conclusão correta alcançada por Deodato.",
       "alternatives": {
         "A": "Toda ilegalidade é passível de caracterização do ato de improbidade em análise, independentemente da comprovação de que o agente público tinha por objetivo obter proveito ou benefício indevido para si ou para outra pessoa entidade.",
         "B": "O dispositivo relativo à categoria em comento é aplicável nas situações que não se enquadrem com ato de improbidade que importe em enriquecimento ilícito ou que cause lesão ao erário, de modo que o respectivo rol não pode ser considerado taxativo.",
         "C": "O dolo é imprescindível para a caracterização do ato de improbidade em cotejo, assim como é necessário o reconhecimento de que a conduta produziu danos ao erário, sem o que não haverá improbidade.",
         "D": "O enquadramento de conduta funcional na categoria em exame não depende da demonstração objetiva da prática de ilegalidade no exercício da função pública, tampouco da indicação das normas constitucionais, legais ou infralegais violadas.",
-        "E": "Nem todo ato que viola princípio da Administração Pública poderá caracterizar o ato de improbidade objeto de questionamento, sendo exigida lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento. História e Geografia de Rondônia"
+        "E": "Nem todo ato que viola princípio da Administração Pública poderá caracterizar o ato de improbidade objeto de questionamento, sendo exigida lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento."
       },
       "answer": "E",
       "annulled": false,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Desde o período colonial, a região dos vales dos rios Guaporé e Madeira ocupou posição estratégica na definição das fronteiras amazônicas. A respeito do papel histórico e atual da região citada, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) Nos primeiros séculos da colonização, a presença portuguesa na região esteve associada à exploração econômica, à navegação fluvial e à necessidade de assegurar a posse territorial frente ao império espanhol. ( ) Ao longo do século XX, políticas de integração nacional, como a criação do Território Federal do Guaporé, a construção da Ferrovia Madeira-Mamoré e, posteriormente, da rodovia BR- 364, buscaram fortalecer a presença do Estado brasileiro e integrar a Amazônia Ocidental ao restante do país. ( ) Atualmente, a região continua sendo estratégica, enfrentando desafios relacionados ao controle das fronteiras internacionais, à circulação de pessoas e mercadorias, às migrações e à atuação do Estado na garantia da soberania nacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No final do século XIX e no início do século XX, a economia da borracha na Amazônia esteve estreitamente ligada às disputas territoriais na região do atual Acre e às redefinições do mapa político da América do Sul, intensificadas após a independência de antigas colônias espanholas, como a Bolívia. Nesse contexto, a construção da Estrada de Ferro Madeira- Mamoré esteve inserida em um conjunto de medidas políticas, diplomáticas e econômicas adotadas pelo Estado brasileiro para enfrentar esses impasses. Com base nesse cenário histórico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A construção da Estrada de Ferro Madeira-Mamoré inseriu-se no contexto da chamada Revolução Acreana, desencadeada pela disputa entre o Império do Brasil e a República da Bolívia pela região que corresponde ao atual estado do Acre, então valorizada pela exploração dos seringais.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Mapa das linhas telegráficas após os trabalhos da Comissão Rondon. Fonte: Obras Raras Fiocruz A imagem apresentada corresponde a um mapa utilizado nas palestras do Coronel Cândido Mariano da Silva Rondon, no qual estava representado o fechamento do circuito de comunicações telegráficas do Brasil, resultado dos trabalhos da Comissão Rondon, no início do século XX. Considerando esse contexto histórico, o principal objetivo da Comissão Rondon foi",
       "alternatives": {
         "A": "realizar o mapeamento das fronteiras do sertão brasileiro, concebido como referência da autenticidade nacional, com finalidade predominantemente cultural e ideológica.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A figura a seguir mostra a localização dos projetos de assentamento da década de 1970 implantados ao longo da BR- 364, rodovia que percorre todo o estado, ligando Rondônia ao Acre e a Mato Grosso. Fonte: Fearnside, 1989 No contexto do regime militar, o projeto de colonização oficial conduzido pelo INCRA em Rondônia",
       "alternatives": {
         "A": "buscou promover a ocupação agrícola extensiva do território por meio dos Projetos Integrados de Colonização (PICs), que previam a distribuição de pequenos lotes, financiados com recursos públicos e privados.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Rondônia integra o bioma Amazônia e apresenta como formação vegetal predominante a floresta ombrófila aberta, que corresponde a cerca de 72% da cobertura florestal natural do estado. Esse tipo de floresta",
       "alternatives": {
         "A": "ocorre principalmente em áreas de transição entre a Floresta Amazônica e as regiões extra-amazônicas, onde há influência de climas relativamente mais secos.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em novembro de 2025, o Quilombo Forte Príncipe da Beira, localizado no município de Costa Marques (RO), foi o palco do evento “A Terra é Meu Quilombo”. A iniciativa promoveu uma imersão em arqueologia pública e educação patrimonial, unindo moradores do quilombo e pesquisadores da Universidade Federal de Rondônia (UNIR) em escavações arqueológicas comunitárias, oficinas e rodas de conversa. O principal objetivo do evento foi utilizar a arqueologia como instrumento de fortalecimento identitário: “Não estamos apenas procurando fragmentos do passado. Estamos desenterrando as provas materiais da nossa longa existência aqui, resgatando uma história que foi sistematicamente apagada. Cada fragmento encontrado no nosso quintal é um fio que tece a narrativa da nossa resistência e fortalece o nosso direito a esta terra”, afirma Lulu, presidente da Associação Quilombola do Forte Príncipe da Beira (ASQFORTE). Adaptado de https://www.unir.br/cartao/exibir/313 Com base no relato sobre o evento “A Terra é Meu Quilombo”, realizado no Quilombo Forte Príncipe da Beira (Costa Marques– RO), e considerando a trajetória histórica das comunidades quilombolas em Rondônia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A utilização da arqueologia pública no quilombo visa a uma reconstituição acadêmica do passado, vinculada aos preceitos da objetividade e da isenção científicas.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A respeito das mudanças no desenvolvimento viário e na ocupação territorial de Rondônia entre 1974 e 2012, considere os dois mapas e avalie as afirmativas a seguir. I. Em 1974, a rede viária era incipiente e fortemente concentrada na BR-364, eixo estruturante que ligava Porto Velho ao sul do território e ao Centro-Sul do país. A ocupação territorial acompanhava esse traçado linear: os núcleos urbanos e as atividades econômicas estavam majoritariamente alinhados à rodovia, com vastas áreas do interior ainda pouco acessíveis. II. Em 2012, observa-se uma ampliação significativa e a diversificação da malha viária, com a multiplicação de rodovias federais, estaduais e vicinais, tanto asfaltadas quanto não. Esse adensamento da rede indica a interiorização da ocupação, a consolidação de novos municípios e a articulação entre diferentes polos regionais, como Ariquemes, Ji-Paraná e Vilhena. III. A expansão da rede viária atuou como principal vetor da ocupação do território, funcionando simultaneamente como causa e consequência desse processo. Em 1974, a malha rodoviária era limitada basicamente à BR-364 e à BR-425, esta última responsável por substituir a Ferrovia Madeira- Mamoré na ligação entre Porto Velho e Guajará-Mirim. Já em 2012, observa-se a formação de uma rede rodoviária mais ampla e articulada, desenvolvida a partir desse eixo central e responsável por promover a expansão e a interiorização da ocupação territorial. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -671,14 +671,14 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com a elevação de Rondônia à condição de Estado da Federação, no início da década de 1980, tornou-se necessário organizar suas instituições políticas e administrativas, entre elas o Poder Legislativo estadual. Esse processo envolveu eleições, a atuação de uma Assembleia Constituinte e a definição das bases constitucionais do novo ente federativo. Nesse contexto, assinale a afirmativa que descreve corretamente um aspecto da história do Poder Legislativo do estado de Rondônia.",
       "alternatives": {
         "A": "A primeira eleição no recém-criado estado de Rondônia ocorreu em novembro de 1982, quando a população escolheu o novo governador e os 24 deputados estaduais que teriam a missão de atuar como constituintes.",
         "B": "Durante a Assembleia Constituinte, realizada entre fevereiro e agosto de 1983, o papel legislador era exercido pelo Governador que legislava mediante decretos-leis.",
         "C": "A efetiva implantação do Poder Legislativo aconteceu em agosto de 1983, quando foi reformada a Constituição, a Assembleia Constituinte foi extinta e a Assembleia Legislativa foi instalada.",
         "D": "No texto da primeira Constituição de Rondônia foi inserido um dispositivo que garantia à Câmara e ao Tribunal de Contas autonomia administrativa e financeira, algo então inexistente, e que foi absorvido no texto da Constituição Federal de 1988.",
-        "E": "Atualmente, o Poder Legislativo do estado de Rondônia é exercido por 24 deputados estaduais eleitos a cada quatro anos, cujo número corresponde ao dobro da representação do Estado na Câmara dos Deputados. MÓDULO II Conhecimentos Específicos"
+        "E": "Atualmente, o Poder Legislativo do estado de Rondônia é exercido por 24 deputados estaduais eleitos a cada quatro anos, cujo número corresponde ao dobro da representação do Estado na Câmara dos Deputados."
       },
       "answer": "B",
       "annulled": false,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O Critério de Sucesso das Diretrizes de Acessibilidade para Conteúdo Web (WCAG) exige que todo conteúdo não textual, como imagens, gráficos e controles, possua uma alternativa em texto equivalente. O principal objetivo de fornecer essa alternativa textual equivalente é",
       "alternatives": {
         "A": "restringir a exibição do conteúdo apenas para usuários que utilizam tecnologias assistivas.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O setor de Comunicação Visual da Assembleia Legislativa necessita contratar fornecedor externo para produzir camisetas e cartazes para uma nova campanha institucional. Para garantir que a marca e os elementos gráficos sejam reproduzidos com fidelidade e consistência, independentemente do fornecedor ou do tipo de mídia, o principal objetivo do Manual de Identidade Visual nesse processo é",
       "alternatives": {
         "A": "registrar as especificações técnicas da marca, incluindo os códigos de cores, tipografia padrão e regras de proporção, para assegurar a reprodução fiel da identidade visual em aplicações.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Para criar um logotipo que será aplicado tanto em um pequeno cartão de visitas quanto em um outdoor de grandes dimensões, é necessário utilizar tecnologias gráficas adequadas à escalabilidade e à preservação da qualidade visual. Considerando esse contexto, avalie as afirmativas a seguir. I. Softwares de edição de imagens raster, como o Adobe Photoshop, são os mais indicados para a criação de logotipos, pois trabalham com alta resolução e permitem impressão em grandes formatos sem perda de qualidade. II. Imagens vetoriais são construídas a partir de equações matemáticas, o que permite sua ampliação ou redução em qualquer escala sem ocorrência de pixelização ou perda de definição. III. O Adobe Illustrator é indicado para a criação de logotipos, pois utiliza gráficos vetoriais, garantindo flexibilidade de uso em diferentes mídias e tamanhos. IV. A conversão de um arquivo raster para o modo de cor CMYK e resolução de 300 DPI elimina limitações de escala e substitui a necessidade de gráficos vetoriais. V. Softwares de apresentação, como o PowerPoint, oferecem recursos equivalentes aos programas vetoriais profissionais para o desenvolvimento de identidades visuais institucionais. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e IV.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na composição visual, o equilíbrio pode ser obtido de diferentes formas, influenciando a percepção de dinamismo, estabilidade e tensão visual. Considerando o projeto de uma capa de revista com composição não simétrica, avalie as afirmativas a seguir. I. O equilíbrio assimétrico ocorre quando elementos de pesos visuais diferentes são distribuídos de forma não espelhada, mas ainda assim resultam em uma composição visualmente estável. II. A utilização de imagens em diagonal e títulos deslocados do eixo central contribui para uma sensação de dinamismo e movimento visual. III. O equilíbrio simétrico caracteriza-se pela disposição idêntica e espelhada dos elementos em relação ao eixo central. IV. A repetição visual elimina a necessidade de equilíbrio na composição gráfica. V. A unidade visual anula o princípio do equilíbrio ao concentrar os elementos em um único eixo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma instituição centenária planeja modernizar sua presença digital, lançando um website responsivo e um aplicativo móvel. A Identidade Visual institucional é rigorosamente definida por um manual, que especifica o logotipo em uma fonte serifada elegante (para transmitir tradição e alta legibilidade em impressos) e sua cor principal em um código Pantone. O desafio do profissional de comunicação visual é adaptar o logotipo e sua Identidade Visual para garantir a coerência da marca nas mídias digitais. O conjunto de decisões técnicas e estratégicas que é crucial para essa transição, unindo os princípios de Design de Identidade e Criação para Mídias Digitais é",
       "alternatives": {
         "A": "adotar o modo de cor CMYK como padrão para o website, pois ele melhor reproduz a cor Pantone em todas as mídias digitais e garante a consistência, independentemente do dispositivo de visualização.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Ao diagramar um cartaz no InDesign, um profissional usa o alinhamento centralizado para o título do evento e o alinhamento à esquerda para os detalhes (horário, local, palestrantes). Em seguida, ele percebe que o cartaz parece desorganizado, pois os elementos não têm uma conexão visual forte. Assinale a opção que indica o princípio de design que está sendo violado e a ação que deve ser tomada para corrigir o problema.",
       "alternatives": {
         "A": "O princípio da Repetição; ele deveria adicionar um elemento gráfico (como um pequeno ícone) ao lado de cada detalhe para reforçar a consistência.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um folheto informativo, o profissional precisa utilizar uma fonte que garanta máxima legibilidade e facilidade de leitura em grandes extensões de texto corrido. A categoria tipográfica considerada a mais adequada, nesse caso, é a",
       "alternatives": {
         "A": "Decorativa, pois suas formas diferenciadas atraem o olhar e mantêm o interesse do leitor.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Considere a criação de um logotipo que será aplicado principalmente em materiais impressos, como cartões de visita, timbrados e catálogos. Para garantir que o preto seja reproduzido com profundidade e que a gama tonal completa das cores seja fiel ao resultado final em papel, o modo de cor subtrativo necessário para a impressão de pigmentos (quadricromia) é o",
       "alternatives": {
         "A": "RGB, pois as cores aditivas garantem que o preto absorva toda a luz do papel e fique mais intenso.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O profissional em Comunicação Visual está desenvolvendo um novo sistema de sinalização interna que será impresso em vinil adesivo sobre substrato rígido. Simultaneamente, ele supervisiona a diagramação de um livro institucional que será impresso em quadricromia. Considerando que a coerência visual deve ser mantida em ambas as aplicações, o procedimento que, exigido pelo Manual de Identidade Visual na seção de Cores Institucionais, garante essa precisão em mídias com diferentes tecnologias de reprodução é",
       "alternatives": {
         "A": "a adoção exclusiva do padrão RGB para todas as mídias, incluindo a impressão gráfica, pois este sistema é ideal para cores vibrantes.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na produção gráfica, a escolha do papel influencia diretamente a qualidade da reprodução de imagens, especialmente em materiais com fotografias coloridas e detalhadas. Considerando esse contexto, avalie as afirmativas a seguir. I. Papéis porosos absorvem mais tinta, o que tende a reduzir a definição e a precisão cromática em imagens fotográficas detalhadas. II. O papel Couchê possui revestimento superficial que o torna liso e uniforme, favorecendo maior fidelidade de cores e nitidez na impressão. III. Papéis reciclados e ásperos são indicados para impressos fotográficos por realçarem texturas e saturação das cores. IV. Papéis acartonados, como Cartão Triplex e Cartão Paraná, são mais adequados para capas e embalagens do que para o miolo de publicações ilustradas. V. A ausência de revestimento no papel melhora o comportamento das cores em impressões de alta resolução. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O profissional de comunicação visual está selecionando papéis para um livro técnico de grande tiragem: o miolo terá diagramação em preto e branco (1x1) com ilustrações simples (baixo uso de tinta), exigindo uma opção de baixo custo e sustentável; a capa será dura, necessitando de um material de alta rigidez para a estrutura interna. A combinação de papéis mais adequada para o Miolo e para a Estrutura da Capa Dura, respectivamente, é",
       "alternatives": {
         "A": "Papel Couchê Brilhante (alto custo) para o miolo e Cartão Triplex (próprio para impressão direta) para a estrutura.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No design gráfico, os princípios da Proximidade e da Hierarquia Visual são fundamentais para organizar informações e facilitar a leitura. Considerando a criação de um cartão de visitas, avalie as afirmativas a seguir. I. O princípio da Proximidade recomenda agrupar visualmente informações relacionadas para que sejam percebidas como um conjunto lógico. II. A Hierarquia Visual pode ser estabelecida por meio de variações no tamanho, peso ou destaque tipográfico, indicando a informação mais importante. III. A aplicação da Proximidade exige que todos os elementos sejam distribuídos de forma uniforme pelo espaço disponível. IV. A Hierarquia Visual é obtida exclusivamente pelo uso de cores contrastantes, independentemente da tipografia ou da organização espacial. V. O agrupamento de informações reduz a clareza do design, pois limita o uso do espaço em branco. Estão corretas as afirmativas",
       "alternatives": {
         "A": "III e V.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um profissional deseja criar um efeito de transição suave (blend) entre a forma e a cor de um pequeno círculo vermelho e um grande quadrado azul, utilizando exatamente 50 passos intermediários no Adobe Illustrator. Para alcançar esse resultado corretamente, ele deve _____ a mesclagem com _____ definidos. Assinale a opção que completa adequadamente a frase apresentada.",
       "alternatives": {
         "A": "aplicar – gradientes",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O setor de produção gráfica está finalizando a montagem de uma revista impressa em cadernos. O processo envolve o arranjo correto dos cadernos para formar o miolo e, posteriormente, o corte simultâneo das bordas para atingir o formato final. Os nomes técnicos dessas duas etapas são _____ e _____. Assinale a opção que completa adequadamente a frase apresentada.",
       "alternatives": {
         "A": "vincagem – laminação.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A reutilização de conteúdo em mídias sociais exige que o profissional responsável vá além do simples “copiar e colar”. O formato, o tom e a chamada para ação (call-to-action) de uma peça gráfica devem ser otimizados e adaptados para cada plataforma (Instagram, LinkedIn, X/Twitter, etc.). Assinale a opção que apresenta o principal motivo estratégico que justifica essa necessidade de otimização, tornando o reuso do material original sem adaptação um erro.",
       "alternatives": {
         "A": "Para atender à exigência de que os vídeos sejam publicados em alta resolução, como o formato 4K, considerado padrão técnico mínimo em todas as plataformas digitais.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um infográfico sobre a densidade populacional de uma metrópole utiliza pontos para representar a concentração de habitantes por quilômetro quadrado. Em áreas de alta densidade, os pontos são posicionados em grande número e justapostos. Em relação ao modo como o cérebro do observador interpreta essa justaposição de pontos que se tornam visualmente uma massa unificada e como isso se relaciona com o conceito de saturação de cor, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A justaposição faz com que os pontos sejam percebidos como uma linha contínua que orienta o olhar, relacionando-se ao Valor (luminosidade), já que a área resultante parece visualmente mais clara.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na criação de animações e vídeos curtos para redes sociais, o movimento é construído a partir da relação entre tempo e espaço. No que se refere ao espaçamento, o animador deve organizar a distância entre as representações sucessivas de um objeto para que ele pareça desacelerar gradualmente até parar, conforme o princípio de amortecimento do movimento,",
       "alternatives": {
         "A": "aumentando gradualmente a distância entre as representações, de modo que o movimento aparente se tornar mais lento ao longo da animação.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma editora planeja a produção de 15.000 exemplares de um livro técnico, sendo crucial priorizar a alta qualidade de cor e a eficiência na produção em grande volume. O processo de impressão mais recomendado para essa tiragem de grande escala, sendo o padrão da indústria gráfica para volumes a partir de 1.000 exemplares, é a",
       "alternatives": {
         "A": "Impressão Digital, que é ideal para médias e grandes tiragens, oferecendo maior flexibilidade de personalização do que o processo Offset.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Para criar ilustrações vetoriais detalhadas no Adobe Illustrator, o desenhista precisa de ferramentas que permitam precisão no desenho e controle refinado das formas. Considerando esse contexto, avalie as afirmativas a seguir. I. A Ferramenta Lápis é a mais indicada para ilustrações vetoriais detalhadas, pois permite total controle matemático sobre curvas e pontos de ancoragem. II. A Ferramenta Caneta possibilita a criação de linhas retas e curvas por meio da definição e manipulação individual de pontos de ancoragem. III. A Ferramenta Caneta permite adicionar, remover e ajustar pontos de ancoragem, oferecendo alto nível de precisão na construção de formas vetoriais. IV. A Ferramenta Retângulo é adequada para ilustrações complexas, pois permite edição detalhada de curvas e âncoras. V. A Ferramenta Varinha Mágica é utilizada para desenhar caminhos vetoriais a partir da criação manual de pontos de ancoragem. Estão corretas as afirmativas",
       "alternatives": {
         "A": "II e III.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No Adobe Photoshop, a aplicação de filtros pode comprometer a integridade da imagem caso não sejam utilizados recursos adequados de edição não destrutiva. Considerando esse cenário, avalie as afirmativas a seguir. I. A conversão de uma camada em Objeto Inteligente (Smart Object) permite que filtros sejam aplicados como Filtros Inteligentes (Smart Filters), possibilitando edição, ocultação ou remoção posterior do efeito. II. A utilização de máscaras de camada torna qualquer filtro aplicado automaticamente não destrutivo e totalmente editável a qualquer momento. III. Os Filtros Inteligentes armazenam os efeitos separadamente do conteúdo original da camada, preservando a imagem de forma não permanente. IV. O Painel History é a ferramenta mais indicada para gerenciar filtros não destrutivos, pois permite editar filtros aplicados anteriormente. V. Salvar o arquivo no formato PSD garante que filtros aplicados possam ser livremente editados ou desativados após o salvamento. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e III.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um profissional está preparando o arquivo final (PDF fechado) de um cartaz que possui a imagem de fundo sangrando os limites da página, estendendo-se até a borda do papel. Para garantir que, após o processo de corte final, não fiquem filetes brancos indesejados nas extremidades do cartaz, ele deve incluir um excesso de imagem fora das marcas de corte. O termo técnico para esse excesso de imagem e a margem mínima tipicamente recomendada, nesse caso, são",
       "alternatives": {
         "A": "Prova de cor em prelo, com 5 mm.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na tipografia, o contraste entre famílias tipográficas é um recurso essencial para criar hierarquia, energia visual e clareza na comunicação. Considerando a combinação de fontes Serifadas e Sem Serifa em um projeto editorial, avalie as afirmativas a seguir. I. O contraste tipográfico eficaz tende a melhorar a legibilidade e a clareza comunicacional, ao orientar o olhar do leitor. II. A combinação entre fontes Serifadas e Sem Serifa reforça a hierarquia visual e evita conflitos tipográficos, desde que haja clara diferenciação funcional entre título e texto de apoio. III. O contraste de estrutura baseia-se exclusivamente na variação de tamanho entre as fontes utilizadas. IV. O uso de Serif e Sans Serif não gera contraste relevante, pois pertencem à mesma categoria tipográfica básica. V. O contraste de estrutura tipográfica ocorre quando se combinam fontes com construções distintas, como Serifadas (com serifa e variação de peso) e Sem Serifa (traços mais uniformes). Estão corretas as afirmativas",
       "alternatives": {
         "A": "II e V.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um projeto gráfico, um designer combinou uma fonte do tipo Manuscrito (Script) para o título e uma fonte Itálico Roman para o subtítulo, buscando contraste. O conflito tipográfico ocorreu porque ambos os estilos compartilham _____, resultando em similaridade excessiva. Assinale a opção que completa adequadamente a frase apresentada.",
       "alternatives": {
         "A": "peso tipográfico",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma agência desenvolveu um logotipo no modo RGB para uso digital, mas ele também será impresso em alta qualidade (cartões de visita, timbrados). O arquivo original deve ser enviado para uma gráfica comercial. Assinale a opção que apresenta a ação obrigatória que o profissional deve realizar nos arquivos destinados à impressão e por quê.",
       "alternatives": {
         "A": "Deve manter o arquivo em RGB, pois este é um sistema aditivo de luz com maior gama, garantindo cores mais vibrantes na impressão offset.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O setor de Comunicação Visual precisa garantir que o logotipo e o símbolo da Assembleia Legislativa mantenham a sua integridade e legibilidade em todas as mídias. O Manual de Identidade Visual é o documento que regula essa utilização. Em uma semana, ele deve produzir dois materiais com desafios opostos: 1. Um novo flyer institucional que será aplicado sobre uma imagem fotográfica complexa e texturizada. 2. Um protótipo de camiseta para uniformes que deve ser impresso em serigrafia monocromática sobre um tecido de cor escura. Para proteger a marca da descaracterização e do mau uso em ambas as situações, a seguinte regulamentação do Manual de Identidade Visual é fundamental para orientar o design:",
       "alternatives": {
         "A": "definição da Área de Interferência Visual, que estabelece um espaço mínimo de isolamento ao redor da marca, garantindo legibilidade em fundos complexos, e a provisão da Versão Monocromática e em Negativo, que assegura a reprodução da marca em diversos meios.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O profissional de comunicação visual está finalizando um manual com 400 páginas que será impresso em CMYK e incluirá o logotipo da empresa em uma cor específica que deve ter máxima fidelidade, mesmo que não faça parte do espectro CMYK. Além disso, as imagens em alta definição devem ser preparadas com a resolução ideal para o processo offset. Assinale a afirmativa correta em relação ao procedimento adequado para a cor do logotipo e a resolução mínima recomendada para as imagens em alta definição.",
       "alternatives": {
         "A": "A cor do logotipo deve ser convertida para RGB, e a resolução mínima deve ser 72 dpi (ou ppp).",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No Adobe Illustrator, o gerenciamento visual de objetos vetoriais pode envolver múltiplos atributos aplicados a um mesmo traçado, como pincéis, espessura e opacidade. Considerando esse contexto, avalie as afirmativas a seguir. I. O Painel Aparência permite gerenciar atributos visuais como espessura do traçado, cor, opacidade e efeitos aplicados a um objeto específico, sem necessidade de desfazer ações anteriores. II. O Painel Camadas é o mais indicado para ajustar propriedades visuais de traçados, pois controla diretamente opacidade e espessura de cada objeto. III. O Painel Aparência possibilita a edição não destrutiva de atributos visuais, preservando pincéis e efeitos já aplicados ao caminho vetorial. IV. O Painel Pathfinder é utilizado para controle de opacidade e espessura de traçados complexos. V. O Painel Gradiente é responsável pelo ajuste global de espessura e opacidade de linhas vetoriais. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Plataformas de vídeo como o TikTok adotam modelos algorítmicos que frequentemente permitem que criadores com poucos seguidores alcancem a viralização em pé de igualdade com contas corporativas estabelecidas. Assinale a afirmativa correta a respeito da característica do algoritmo de distribuição de conteúdo que é fundamental para esse nivelamento de oportunidades e a facilidade de viralização.",
       "alternatives": {
         "A": "A priorização da entrega de vídeos produzidos em estúdios profissionais e com uso intensivo de efeitos avançados de pós-produção.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma agência foi contratada para produzir um cartaz (impresso em 300 DPI - pontos por polegada) e, com a mesma arte, um banner para redes sociais (digital, usualmente em 72 DPI). A estratégia de fluxo de trabalho recomendada no Photoshop para garantir a melhor qualidade em ambos os resultados é",
       "alternatives": {
         "A": "iniciar o projeto na resolução de 72 DPI e, no final, usar o menu Image Size para aumentar para 300 DPI e exportar para impressão.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um relatório de 350 páginas será impresso com capa mole. O profissional de comunicação visual deseja que o livro tenha uma lombada quadrada para um aspecto elegante e que possa ser aberto de forma segura sem que as páginas se soltem. A técnica de encadernação mais adequada para esse volume de páginas em lombada quadrada é a",
       "alternatives": {
         "A": "lombada canoa (dobra e grampo), pois é adequada para publicações de capa mole de até 64 páginas.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um profissional está elaborando um currículo (currículo vitae) e quer que os títulos das seções (Ex: “Habilidades”, “Formação Acadêmica”, “Experiência Profissional”) tenham destaque imediato para o recrutador, diferenciando-se do corpo do texto. O princípio de composição e técnica tipográfica que ele deve aplicar para criar essa hierarquia visual de forma mais eficaz é o(a)",
       "alternatives": {
         "A": "alinhamento, colocando os títulos à esquerda e o texto corrido justificado.",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um profissional usou a ferramenta Laço Livre no Photoshop para selecionar uma área complexa de uma imagem que ele deseja deletar. No entanto, ele quer garantir que a borda da seleção não seja rígida, mas sim, que se misture suavemente com o fundo. Antes de pressionar DELETE, ele deve aplicar à seleção",
       "alternatives": {
         "A": "o recurso Color Range, que permite selecionar pixels específicos baseados na cor.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Será preciso aplicar o logotipo da Assembleia Legislativa em uma etiqueta de patrimônio de apenas 1 cm2, e em um mural de fundo texturizado e colorido em uma exposição interna. Essas situações representam limitações que podem levar ao mau uso e à descaracterização da marca, deteriorando a imagem da instituição. Para proteger a integridade da marca e evitar o desperdício de recursos na produção de peças incorretas, o Manual de Identidade Visual deve atuar como um documento normativo, e, para tal, ele deve obrigatoriamente:",
       "alternatives": {
         "A": "definir que a marca deve ser sempre impressa em policromia (CMYK), e proibir qualquer versão monocromática, mesmo em situações de aplicação limitada a uma cor.",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em projetos de design gráfico digital, as Diretrizes de Acessibilidade para Conteúdo Web (WCAG 2.2) exigem uma prática fundamental para garantir que usuários com deficiência visual percebam as informações. Essa exigência primária é",
       "alternatives": {
         "A": "garantir que o contraste do texto ampliado seja de no mínimo 7:1.",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um profissional utiliza a linha para conectar dois pontos distintos na página, formando um plano delimitado, como um círculo ou um quadrado. Na comunicação visual, quando uma linha se fecha, ela se transforma em um elemento básico chamado _____. Assinale a opção que completa adequadamente a frase apresentada.",
       "alternatives": {
         "A": "ponto gráfico",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um profissional criou a capa de um livro no modo RGB, conhecido por sua intensidade e cores vibrantes. Ao enviar o arquivo para a gráfica, o profissional observou que a cor perdeu brilho e fidelidade na conversão automática para o modo CMYK. A razão fundamental para essa perda de intensidade e brilho na passagem do RGB para o CMYK, sendo essa conversão o padrão do fluxo de trabalho para impressão, reside no fato de que",
       "alternatives": {
         "A": "o CMYK é um sistema aditivo de luz, mas possui uma gama de cores menor, incapaz de reproduzir o espectro completo do RGB.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma gráfica está produzindo a capa de um catálogo em papel Couchê Brilhante e precisa aplicar um acabamento que aumente a durabilidade, protegendo contra manuseio e umidade, além de criar áreas de destaque com alto brilho. A combinação de acabamentos mais adequada é _____. Assinale a opção que completa adequadamente a frase apresentada.",
       "alternatives": {
         "A": "refile e alceamento",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um profissional está utilizando o Adobe InDesign para criar um folder informativo sobre um curso, contendo tópicos e subtópicos. Para aplicar corretamente o princípio básico da Proximidade e tornar a informação visualmente organizada e mais fácil de ser compreendida, ele deve _____ os elementos _____, formando unidades visuais coerentes. Assinale a opção que completa adequadamente a frase apresentada.",
       "alternatives": {
         "A": "alinhar – centralizados",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um editor de imagens utilizou o Photoshop para criar uma composição onde uma Layer 1 contém um objeto (uma moldura) e a Layer 0 (a camada de fundo) contém uma fotografia. Se o editor selecionar a Layer 1 no painel Layer e usar a ferramenta de seleção para mover a moldura, o resultado prático dessa ação será:",
       "alternatives": {
         "A": "a moldura se moverá, mas a Layer 0 se moverá junto, pois a ferramenta de seleção agrupa automaticamente os elementos.",
@@ -1351,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Suponha que está sendo desenvolvido o novo projeto gráfico para as placas de identificação de salas e corredores da Assembleia Legislativa. As placas serão fixadas em paredes e devem garantir alta legibilidade e visibilidade para o público que transita pelos ambientes internos. Considerando que a tipografia é um elemento fundamental para comunicação visual e que a escolha da fonte deve funcionar em uma gama de tamanhos, assinale a afirmativa que, suportada por uma decisão técnica de design, vai otimizar a clareza e o reconhecimento imediato dessas informações em um sistema de sinalização interna.",
       "alternatives": {
         "A": "Selecionar uma fonte sem serifa de peso médio a seminegrito, caracterizada por sua anatomia clara e proporções compatíveis com a assinatura visual.",

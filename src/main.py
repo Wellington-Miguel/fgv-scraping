@@ -19,7 +19,6 @@ import logging
 import sys
 from pathlib import Path
 
-from src.crawler_fgv import FGVCrawler
 from src.parser_fgv import FGVParser
 
 
@@ -80,6 +79,11 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Executa o navegador Chromium com interface visível (útil para depuração).",
     )
     parser.add_argument(
+        "--ollama-fallback",
+        action="store_true",
+        help="Ativa o fallback local via Ollama (llama3.1:8b) com Guarda de Veracidade para blocos atípicos.",
+    )
+    parser.add_argument(
         "--verbose",
         "-v",
         action="store_true",
@@ -97,10 +101,13 @@ def main() -> int:
     fgv_parser = FGVParser(
         raw_dir=args.raw_dir,
         processed_dir=args.processed_dir,
+        use_ollama_fallback=args.ollama_fallback,
     )
 
     try:
         if not args.only_parse:
+            from src.crawler_fgv import FGVCrawler
+
             logger.info("Iniciando etapa de coleta + parsing incremental (FGVCrawler)...")
             crawler = FGVCrawler(
                 raw_dir=args.raw_dir,

@@ -4,7 +4,7 @@
   "concurso_title": "Processo Seletivo Simplificado para o Instituto do Patrimônio Histórico e Artístico Nacional (Iphan)",
   "cargo_title": "Geoprocessamento",
   "exam_type": "Tipo 1",
-  "total_questions": 79,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
@@ -338,7 +338,7 @@
         "B": "2, 1 e 3.",
         "C": "3, 2 e 1.",
         "D": "1, 3 e 2.",
-        "E": "3, 1 e 2. Legislação aplicada ao Licenciamento Ambiental"
+        "E": "3, 1 e 2."
       },
       "answer": "E",
       "annulled": false,
@@ -355,7 +355,7 @@
         "B": "O Cadastro Técnico Federal (CTF) de Atividades e Instrumentos de Defesa Ambiental é o registro obrigatório de pessoas físicas ou jurídicas que se dedicam à consultoria técnica sobre problemas ecológicos e ambientais e à indústria e comércio de equipamentos, aparelhos e instrumentos destinados ao controle de atividades efetiva ou potencialmente poluidoras.",
         "C": "O poluidor é obrigado, havendo existência de culpa, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros, afetados por sua atividade. O Ministério Público da União e dos Estados terá legitimidade para propor ação de responsabilidade civil e criminal, por danos causados ao meio ambiente.",
         "D": "As entidades e órgãos de financiamento e incentivos governamentais condicionarão a aprovação de projetos habilitados a esses benefícios ao licenciamento, conforme a PNMA, e ao cumprimento das normas, dos critérios e dos padrões expedidos pelo IBAMA, bem como deverão fazer constar dos projetos a realização de obras e aquisição de equipamentos destinados ao controle de degradação ambiental e à melhoria da qualidade do meio ambiente.",
-        "E": "O não cumprimento das medidas necessárias à preservação ou"
+        "E": "O não cumprimento das medidas necessárias à preservação ou correção dos inconvenientes e danos causados pela degradação da qualidade ambiental sujeitará os transgressores à suspensão de sua atividade ou à perda de participação em linhas de financiamento em estabelecimentos oficiais de crédito."
       },
       "answer": "B",
       "annulled": false,
@@ -508,7 +508,7 @@
         "B": "2 – 3 – 1.",
         "C": "2 – 1 – 3.",
         "D": "3 – 2 – 1.",
-        "E": "3 – 1 – 2. Atualidades"
+        "E": "3 – 1 – 2."
       },
       "answer": "ANULADA",
       "annulled": true,
@@ -593,7 +593,7 @@
         "B": "As empresas precisam explicar os processos através dos quais a IA chega a seus resultados.",
         "C": "Os algoritmos de IA devem ser completamente abertos para qualquer pessoa usar e acessar.",
         "D": "As empresas devem divulgar os dados usados para treinar os sistemas de IA.",
-        "E": "Os sistemas de IA precisam ser aprovados pelo governo antes de funcionar. Direito Administrativo"
+        "E": "Os sistemas de IA precisam ser aprovados pelo governo antes de funcionar."
       },
       "answer": "B",
       "annulled": false,
@@ -678,7 +678,7 @@
         "B": "II, apenas.",
         "C": "III, apenas.",
         "D": "I e III, apenas.",
-        "E": "II e III, apenas. Conhecimentos Específicos"
+        "E": "II e III, apenas."
       },
       "answer": "ANULADA",
       "annulled": true,
@@ -698,6 +698,23 @@
         "E": "II e III, apenas."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "A respeito da Resolução CONAMA nº 1/1986, que estabelece, em seu Art. 6º, condições para o estudo de impacto ambiental, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A análise do meio físico contempla os sítios e os monumentos arqueológicos. ( ) O potencial do uso futuro de uma área a ser utilizada em um empreendimento faz parte do estudo socioeconômico. ( ) A elaboração de um programa de monitoramento dos impactos positivos e negativos é obrigatória. Assinale a opção que apresenta a relação correta.",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "V – V – F.",
+        "C": "F – V – V.",
+        "D": "V – F – V.",
+        "E": "F – F – V."
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,

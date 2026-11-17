@@ -253,7 +253,7 @@
         "B": "Trabalhar é considerado um castigo por muitos, mas o trabalho também tem aspectos positivos.",
         "C": "A Polícia Federal está encarregada de várias investigações, mas certamente outras chegarão à PF.",
         "D": "A família acabou de comprar uma casa em Mato Grosso, mas a nova casa ainda demora a ficar reformada.",
-        "E": "Todos os candidatos devem apresentar declarações de renda, mas elas demoram a ficar prontas. Raciocínio Lógico e Matemático"
+        "E": "Todos os candidatos devem apresentar declarações de renda, mas elas demoram a ficar prontas."
       },
       "answer": "B",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A Figura 1 abaixo mostra uma tira retangular ABCD de papel com uma linha tracejada EF onde ela será dobrada. A linha EF faz 63° com o lado AB. A Figura 2 mostra que, após a dobra, o vértice C caiu sobre o segmento AB. Figura 1 Figura 2 O ângulo 𝑥 assinalado na Figura 2 mede",
       "alternatives": {
         "A": "54°.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "4 galinhas e 5 patos comem 1300 g de ração por dia. 5 galinhas e 4 patos comem 1220 g de ração por dia. A quantidade de ração que 2 galinhas e 1 pato comerão, por dia, equivale a",
       "alternatives": {
         "A": "350 g.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um grupo é formado por seis pessoas, todas com idades diferentes. Dessas pessoas, três serão sorteadas aleatoriamente. A probabilidade, de que as duas pessoas mais jovens estejam entre as sorteadas, é igual a",
       "alternatives": {
         "A": "1/4.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A negação de “Nenhum advogado é ingênuo” é:",
       "alternatives": {
         "A": "Há, pelo menos, um advogado ingênuo.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A soma de três números naturais diferentes é 2025. Sabe-se que a diferença entre o maior e o menor desses números é menor que 10. O menor valor possível para o menor dos três números é igual a",
       "alternatives": {
         "A": "666.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Joana gasta 40% do seu salário em moradia. Do que sobra, ela gasta 40% em alimentação. O restante do seu salário ela usa para “outras despesas”. A porcentagem do salário de Joana que ela usa para “outras despesas” é:",
       "alternatives": {
         "A": "20%.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Arquimedes gosta de brincar com a representação de pontos no plano cartesiano. Desta vez, a brincadeira é: começando de um ponto genérico P do plano cartesiano, ele executa repetidamente o seguinte comando: a partir do ponto atual de coordenadas (x, y) deslocar-se para o ponto (2y, x – 1). Arquimedes começou a brincadeira no ponto P(0, 1). Após executar o comando 5 vezes em sequência, o ponto em que Arquimedes chegou é:",
       "alternatives": {
         "A": "(2, −7).",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Três grandezas positivas X, Y e Z são tais que Y é diretamente proporcional ao quadrado de X e Z é inversamente proporcional a Y. Quando X = 4, tem-se Y = 48 e Z = 2. Quando Z = 8, o valor de X + Y é:",
       "alternatives": {
         "A": "10.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma sequência de números racionais é tal que cada termo de ordem k, a partir do terceiro termo, é a razão entre o termo de ordem k – 1 e o termo de ordem k – 2. Por exemplo, o terceiro termo é a razão entre o segundo e o primeiro termos. Sabe-se que o quinto e o sétimo termos dessa sequência são respectivamente, 3 e 2/3. O terceiro termo dessa sequência é:",
       "alternatives": {
         "A": "1/2.",
@@ -416,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere as 5 letras da sigla ALEAM. O número de maneiras de escrever essas 5 letras em sequência de modo que as letras L e M não fiquem juntas é:",
       "alternatives": {
         "A": "15.",
         "B": "20.",
         "C": "24.",
         "D": "32.",
-        "E": "36. Noções de Informática"
+        "E": "36."
       },
       "answer": "E",
       "annulled": false,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um técnico precisa classificar e organizar uma grande coleção de mídias em um computador que utiliza o Sistema Operacional Windows 10. Para garantir a correta identificação dos arquivos de áudio, vídeo, imagem e planilhas, ele deve conhecer os principais padrões e suas extensões. Considerando os padrões de arquivos digitais, assinale a extensão que é universalmente reconhecida como um formato de arquivo de vídeo, que combina áudio e vídeo e é amplamente utilizado em streaming e dispositivos móveis.",
       "alternatives": {
         "A": ".ZIP",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Ao finalizar a redação de um extenso relatório técnico no MS Word 2010 BR ou superior, um analista precisa garantir que o Anexo do documento inicie sempre em uma nova página e tenha uma formatação de rodapé diferente (por exemplo, numeração em algarismos romanos) em relação ao corpo principal do texto (que usa numeração em algarismos arábicos). Assinale o recurso de formatação de página que o analista deve utilizar para atingir o objetivo de iniciar o Anexo em uma nova página e permitir a alteração independente da formatação dos rodapés/cabeçalhos.",
       "alternatives": {
         "A": "Quebra de linha (Shift + Enter).",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Uma Macro (sequência de comandos gravada) é uma poderosa ferramenta de automação. No entanto, ela pode ser um vetor de segurança e requer proteção contra visualização e edição não autorizada em ambientes controlados. Considerando o MS Word 2010 BR ou superior e a arquitetura VBA comum ao Excel, a medida de segurança mais adequada para evitar que um usuário não autorizado visualize ou altere o código fonte de uma Macro armazenada em um documento é:",
       "alternatives": {
         "A": "Definir uma senha de proteção para o documento na opção \"Proteger Documento\" na guia Revisão.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Ao trabalhar com o Sistema Operacional Windows 10, um usuário precisa organizar os arquivos em seu computador, o que frequentemente envolve mover (recortar) ou copiar itens entre pastas. Para otimizar o tempo e evitar o uso do mouse ou menu de contexto, o uso de atalhos de teclado é essencial. Assinale a sequência de teclas de atalho padrão do Windows que deve ser utilizada, respectivamente, para recortar (mover) um arquivo ou pasta selecionado e, em seguida, colá-lo no novo local desejado.",
       "alternatives": {
         "A": "Ctrl + S para recortar e Ctrl + V para colar.",
@@ -501,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "No ambiente de Internet, a transferência de dados e arquivos entre o computador do usuário (cliente) e um servidor remoto é uma operação constante e fundamental, seja para acessar uma página, salvar um documento na nuvem ou baixar uma foto. Considerando a transferência de arquivos e dados, os termos técnicos que definem as ações de enviar um arquivo do seu computador local para um servidor (ex: salvando na nuvem) e a ação de receber um arquivo de um servidor para o seu computador (ex: baixando um documento) são, respectivamente,",
       "alternatives": {
         "A": "Download e Streaming.",
         "B": "Upload e Download.",
         "C": "Streaming e Upload.",
         "D": "Banda e Upload.",
-        "E": "Upload e Banda. Legislação do Estado do Amazonas"
+        "E": "Upload e Banda."
       },
       "answer": "B",
       "annulled": false,
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Avalie, com base na Constituição do Estado do Amazonas, se os objetivos prioritários do Estado, entre outros, incluem: I. A garantia de controle pelo cidadão e segmentos da coletividade estadual da legitimidade e legalidade dos atos dos Poderes Públicos e da eficácia dos serviços públicos. II. A garantia dos direitos subjetivos públicos do indivíduo e dos interesses da coletividade. III. A defesa da Floresta Amazônica e o seu aproveitamento racional, respeitada a sua função no ecossistema. IV. O equilíbrio no desenvolvimento da coletividade mediante a regionalização das ações administrativas, respeitada a autonomia municipal. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Ana, Branca e Carla discutiam os direitos e garantias individuais e coletivos. A respeito do tema, Ana afirmou que todos têm direito de requerer e obter, no prazo de noventa dias, informações objetivas de seu interesse particular, coletivo ou geral, acerca dos atos e projetos do Estado e dos Municípios. Beatriz, por sua vez, disse que a força policial só poderá intervir para garantir o exercício do direito de reunião e demais liberdades constitucionais, bem como a defesa da ordem pública e do patrimônio público e privado e a segurança pessoal. Já Carla afirmou que é assegurado a todos o direito de petição e de representação aos Poderes Públicos para coibir ilegalidade ou abuso de poder. À luz da Constituição do Estado do Amazonas, assinale a opção correta.",
       "alternatives": {
         "A": "As afirmativas de Ana, Beatriz e Carla estão corretas.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Avalie, com base na Constituição do Estado do Amazonas, as seguintes afirmativas a respeito do Poder Legislativo e assinale (V) para a verdadeira e (F) para a falsa. ( ) O Poder Legislativo é exercido pela Assembleia Legislativa, composta de representantes do povo, eleitos para mandato de quatro anos, pelo sistema proporcional, mediante sufrágio universal e voto direto e secreto, na forma da legislação federal. ( ) O número de Deputados corresponderá ao triplo da representação do Estado na Câmara Federal e, atingido o número de vinte e quatro, será acrescido de tantos quanto forem os Deputados Federais acima de doze. ( ) Os Deputados são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 28 da Constituição do Estado do Amazonas, avalie se são da competência exclusiva da Assembleia Legislativa os seguintes atos: I. Elaborar sua proposta orçamentária, dentro dos limites estabelecidos, conjuntamente com os demais Poderes, na forma da lei de diretrizes orçamentárias. II. Aprovar ou suspender a intervenção nos Municípios. III. Decretar intervenção federal no Estado para garantir livre exercício de suas funções. IV. Sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa e os atos contrários aos princípios de preservação do meio ambiente. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com a Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, a investidura em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha o funcionário sofrido em sua capacidade física ou mental, apurada por junta médica oficial, é denominada",
       "alternatives": {
         "A": "aproveitamento.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Art. 65 – Avalie, com base na Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, se, nos termos e condições de regulamento, a licença é concedida, entre outros motivos, I. Para tratamento de saúde. II. Por motivo de doença em pessoa da família. III. Para tratamento de interesse particular. IV. Para serviço militar obrigatório. Estão corretos os itens",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com base na Resolução Legislativa nº 469/2010 – Institui o Regimento Interno da Assembleia Legislativa do Estado do Amazonas, em seu Art. 14, as afirmativas a seguir a respeito do Bloco Parlamentar estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Dois ou mais partidos podem constituir Bloco Parlamentar, sob liderança comum, sem prejuízo à autonomia da representação partidária para indicar seu líder.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Art. 23. Com base no Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as afirmativas a seguir, a respeito da Comissão da Assembleia Legislativa, são verdadeiras (V) ou falsas (F). ( ) É permanente. ( ) É temporária, designada com prazo determinado para funcionar, extinguindo-se pelo cumprimento de sua finalidade ou pelo decurso de prazo. ( ) A Assembleia Legislativa terá o máximo de 80 (oitenta) assentos em comissões temáticas permanentes, distribuídos entre 16 (dezesseis) comissões. ( ) O número de assentos em cada comissão específica será estipulado por Ato da Mesa Diretora no início de cada biênio da legislatura, atentando-se para o mínimo de 3 (três) assentos e o máximo de 7 (sete). As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V– V.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em relação ao Parecer, avalie, de acordo com o Regimento Interno da Assembleia Legislativa do Estado do Amazonas, as afirmativas a seguir. I. Parecer é o opinativo escrito por um relator e submetido à deliberação de Comissão, devendo concluir pela aprovação ou rejeição de matéria a ela sujeita. II. A proposição resultante de Parecer não se sujeita às regras de votação atinentes a sua natureza. III. O Parecer não pode ser oral nem quando se referir a requerimento ou emenda à redação final. IV. O Parecer é indispensável à instrução dos processos, aplicando-se, em caráter extraordinário, a nomeação de Relator pelo Presidente da Assembleia, nos termos deste Regimento. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 41 do Regimento Interno da Assembleia Legislativa do Estado do Amazonas, a fase dos trabalhos nas Comissões reservada à discussão e à votação de parecer ou de proposição de sua iniciativa é denominada",
       "alternatives": {
         "A": "Expediente.",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o texto abaixo sobre as mudanças no Jornalismo nos anos 1950. “A década de 1950 é normalmente apontada pela historiografia da imprensa como um momento de profundas transformações do jornalismo nacional, sobretudo carioca. (...) Foi nesse período que o modelo _______________ se implantou definitivamente no jornalismo nacional, provocando não só a __________ das empresas e dos textos, mas também a profissionalização dos jornalistas e a constituição de todo um ideário sobre o que era o jornalismo e qual era a sua função social. As reformas dos anos 1950 assinalaram a passagem do jornalismo _______________ para o _____________. A imprensa ____________ definitivamente a tradição de polêmica, de crítica e de doutrina e ______________um jornalismo que privilegiava a informação (transmitida ‘objetiva’ e ‘imparcialmente’ na forma de notícia) e que a separava (editorial e graficamente) do comentário pessoal e da opinião.” (RIBEIRO, 2007) Assinale a alternativa que completa corretamente o texto",
       "alternatives": {
         "A": "opinativo; padronização; impresso; televisivo, desvalorizou; construiu.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O teórico Marshall McLuhan, ao analisar as características dos meios de comunicação, propôs sua classificação entre meios quentes e frios. Em sua concepção, “um meio quente é aquele que prolonga um único de nossos sentidos e em “alta definição”. Alta definição se refere a um estado de alta saturação de dados”. Nessa concepção, seriam meios frios e quentes, respectivamente,",
       "alternatives": {
         "A": "rádio e telefone.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Segundo HOHLFELDT (2001), “o acontecimento se transforma em notícia quando, trabalhado pelo órgão de informação, entra na agenda do público receptor” Assim, A noticiabilidade está regrada por ____________, conjunto de elementos e princípios através dos quais os acontecimentos são avaliados pelos meios de comunicação de massa e _______________ em sua potencialidade de produção de resultados e novos eventos, se transformados em notícia. Os valores-notícia se combinam sempre enquanto infinitos compostos, só verificáveis _________ a sua concretização. A noticiabilidade é um conjunto de regras práticas que abrange um corpus de conhecimento profissional, que implícita e explicitamente, justifica os procedimentos operacionais e _____________ dos órgãos de comunicação em sua transformação dos acontecimentos em narrativas ______________. (HOHLFELDT, 2001, adaptado) Assinale a alternativa que completa corretamente o texto acima.",
       "alternatives": {
         "A": "valores-notícia; seus profissionais; após; editoriais; jornalísticas.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O conceito de Indústria Cultural, um dos mais estudados em Teorias da Comunicação, foi utilizado pela primeira vez por dois filósofos alemães, vinculados a conhecida Escola de Frankfurt, nos anos 1940. São eles",
       "alternatives": {
         "A": "Walter Benjamin e Erich Fromm.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Os ambientes comunicacionais proporcionados pelas novas tecnologias digitais mobilizam o legislativo, como o apontado no trecho de matéria publicada no site da Assembleia Legislativa do Estado do Amazonas. “Mayra Dias propõe projeto ‘Conexão Segura’ para combater o stalking no Amazonas Por Cayo Dias 16 .out.2025 17:15 Com foco na prevenção e no enfrentamento às perseguições, inclusive no ambiente digital, a deputada estadual Mayra Dias (Avante) apresentou, na Assembleia Legislativa do Estado do Amazonas (Aleam), o Projeto de Lei nº 899/2025, que institui as Diretrizes de Educação e Prevenção ao _Stalking_, denominadas “Conexão Segura”. ( ) O projeto prevê ações educativas e campanhas públicas para alertar sobre os riscos e as consequências dessa prática. Entre as diretrizes, estão a produção de materiais pedagógicos, orientação sobre limites de contato e respeito interpessoal, além da capacitação de profissionais para identificar sinais de perseguição. As ações poderão ser desenvolvidas em parceria com escolas, órgãos públicos e entidades da sociedade civil, por meio de palestras, cursos e campanhas em mídias tradicionais e digitais”. A proposta define o “stalking” como",
       "alternatives": {
         "A": "exposição excessiva de crianças feitas pelos seus pais ou responsáveis em redes sociais digitais, ainda não tipificada no Código Penal.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Observe o gráfico a seguir, obtido através de consulta em uma ferramenta do Google. Ele nos mostra o aumento do interesse de pesquisa por Assembleia Legislativa do Amazonas no início de setembro. A ferramenta que nos traz esse tipo de informação é o",
       "alternatives": {
         "A": "Pinpoint.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O Reuters Digital News Report 2025 foi divulgado em junho e se baseia em dados de seis continentes e 48 mercados. Ele aponta algumas tendências que já vinham sendo sentidas pelo mercado. Sobre elas, avalie as afirmativas. I. Há uma queda no uso de chatbots de inteligência artificial como fontes de informação, o que tem aumentado significativamente o tráfego em sites de empresas jornalísticas. II. Mudança nas estratégias das plataformas de mídias sociais impulsionou a queda no consumo e na importância atribuída aos vídeos como fonte de notícias. III. Há uma contínua queda no engajamento com fontes de mídia tradicionais como televisão e mídia impressa, enquanto o consumo de redes sociais, plataformas de vídeo e agregadores online aumenta. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o texto abaixo. “A capacidade de gerar narrativas automatizadas é uma das aplicações mais imediatas da IAG no jornalismo. Utilizando algoritmos de aprendizado de máquina e processamento de linguagem natural, as redações podem automatizar a criação de notícias baseadas em dados estruturados, tais como resultados esportivos, atualizações financeiras e estatísticas meteorológicas. Os primeiros experimentos com IAG no jornalismo focaram, principalmente, em simplificar processos de produção e aumentar a eficiência. O conceito de Large Language Models (LLMs), como o GPT (Generative Pretrained Transformer) da OpenAI, representa uma evolução significativa no campo da IAG, especialmente em aplicações envolvendo texto. Esses modelos são treinados a partir de enormes conjuntos de dados textuais retirados de uma variedade de fontes da internet tais como livros, artigos, notícias e posts de mídias sociais entre outros, permitindo-lhes aprender a estrutura da linguagem humana de forma abrangente.” (SANTOS e FIGUEIREDO, 2024) Sobre o uso da Inteligência Artificial Generativa (IAG) no Jornalismo, é correto afirmar que",
       "alternatives": {
         "A": "por serem sistemas treinados a partir de enormes conjuntos de dados textuais retirados de uma variedade de fontes da internet, a IAG prescinde de supervisão humana em seu uso.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em 1808, D. João VI oficializou a instalação da Impressão Régia, destinada a publicar papéis oficiais do governo. Rapidamente, ela passou a publicar outros tipos de impressos, como livros e o primeiro jornal a ser publicado em território nacional, que foi o (a)",
       "alternatives": {
         "A": "Correio Braziliense.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Observe a imagem abaixo. Ela mostra a primeira página do Jornal do Brasil, em 14 de dezembro de 1968. O texto em destaque é o seguinte: “Tempo Negro. Temperatura sufocante. O ar está irrespirável. O país está sendo varrido por fortes ventos. Máx.:38º, em Brasília Mín.: 5º, nas Laranjeiras”. Essa edição se tornou histórica pois ilustra um (a)",
       "alternatives": {
         "A": "estratégia sensacionalista para anunciar uma das maiores enchentes ocorridas no Rio de Janeiro durante a década de 1960.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O pesquisador Luiz Nogueira divide a história do rádio no Amazonas em três fases: Germinação (1927-1942), Floração (1943-1965) e Frutificação (1966-1990). Em cada uma das fases entraram em operação respectivamente as emissoras",
       "alternatives": {
         "A": "Voz de Manaós; Radio Difusora do Amazonas e Rádio Tropical FM.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Segundo matéria publicada em outubro de 2025 no site da Revista Exame, o remake da novela Vale Tudo “se consolidou como o produto de maior rendimento da história da Globo na faixa das 21h, com faturamento superior a R$ 200 milhões até o mês passado, segundo estimativas do mercado, e mais de 87 ativações de conteúdo envolvendo ao menos 23 marcas”. O recurso, muito usado na novela, que consiste em inserir marcas ou identificadores de marcas em meio a trama por meio de uso visual e/ou sonoro, idealmente, sem comprometer a qualidade da narrativa, é conhecido como",
       "alternatives": {
         "A": "Share of mind.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A hipótese da Espiral do Silêncio foi originalmente introduzida nos estudos de comunicação política por Elisabeth Noelle-Neumann, nos anos de 1970, para tentar explicar o comportamento da opinião pública alemã durante a Segunda Guerra Mundial. No contexto da comunicação de massa, avalie as premissas da Espiral do Silêncio I. a mídia de massa determina a pauta pública ressaltando assuntos, que apenas refletem a opinião pública e silenciando outros sob forma de censura institucional. II. diante da controvérsia, os indivíduos tendem a permanecer em silêncio quando sentem que suas opiniões são compartilhadas apenas por uma minoria. III. quanto mais uma pessoa crê que sua opinião é semelhante à opinião prevalecente, mais ela tende a silenciá-la e alterá-la para evitar o “efeito manada”. É correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o texto sobre os formatos e gêneros televisivos. O formato pioneiro no gênero telejornal foi o (a)___________, com o apresentador lendo textos para a câmera, sem outras imagens nem ilustrações. O primeiro formato a aparecer no vídeo mantém, até hoje, sua fórmula básica: um ou mais _____________leem os textos e apresentam as reportagens externas realizadas pelos jornalistas, ao vivo ou gravadas. ______________ também fazem parte dos principais telejornais. Os principais telejornais continuam sendo transmitidos ____________, pois dão um tom de atualidade e permitem a realização de entrevistas em diversos pontos do país e do mundo. O telejornalismo buscou outros formatos, além do telejornal. Por isso mantém-se em evidência em todas as grades de programação. São programas _______________, mediados pelos jornalistas da rede, e também os documentários e reportagens especiais, que ocupam os departamentos de jornalismo das emissoras. (ARONCHI, 2004, adaptado). Assinale a alternativa que completa corretamente o texto acima.",
       "alternatives": {
         "A": "documentário; locutores; videografistas; gravados; de dramaturgia e entretenimento.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o texto abaixo sobre o jornalista na função de assessor de imprensa. “O jornalista, para garantir eficiência e empregabilidade em um mercado altamente competitivo e exigente como o da comunicação, deve ser capaz de fazer a gestão dos processos de comunicação, definir estratégia, planejamento, interagir com stakeholders, produzir conteúdo (vídeo, texto, foto), gerenciar mídias sociais, trabalhar em equipe.” (DUARTE, 2018: 68) No contexto, apresentado pelo autor, os assessores de imprensa devem ter algumas características, a exceção de uma. Assinale-a",
       "alternatives": {
         "A": "polivalente.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o texto publicado na editoria de Opinião no Portal A Crítica.com, em outubro de 2025. “O TFFF e as questões à espera de respostas O Fundo Florestas Tropicais para Sempre (TFFF, na sigla em inglês) exige, pelo menos dos pesquisadores e das organizações do movimento social vinculadas a essa temática, um estudo profundo. Como o fundo será utilizado, quem irá manejar as cordas, quais os riscos e as vantagens às florestas tropicais e aos demais seres vivos que nela habitam? São algumas das questões a serem respondidas à luz da ciência. (...) Alguns estudiosos e líderes de organizações socioambientais veem o TFFF como meio de “monetização dos serviços ecossistêmicos das florestas tropicais”. Tratar-se-ia de uma armadilha que, na base, promove negócios econômico-financeiros sob o comando de governos mundiais a partir da floresta e não contempla as comunidades tradicionais e os povos indígenas que nelas habitam. Estudar a proposta, apresentar as ameaças que a mesma contém e indicar mudanças na concepção do TFFF tornou-se necessidade de curto prazo. Responsabilidade e transparência na formulação de caminhos para assegurar a vida das florestas tropicais e todo o serviço que elas oferecem à humanidade é o grande desafio. Até agora, as experiências foram na direção da destruição contínua das florestas como meio de fazer valer o desenvolvimento do mundo. O preço tem sido muito elevado, e o resultado demonstra aprofundamento da desigualdade, concentração da riqueza, aceleração do processo de destruição das florestas e do manancial ecológico por ela ofertado. O modelo de desenvolvimento vigente não permitirá estabelecer outra forma de relação com as florestas e, sim, aumentar o valor dela no mercado mundial — daí a forte presença do componente bancário na concepção do fundo. Não é para abandonar a proposta de posicionar as florestas tropicais como bens da humanidade e, por isso, devem ser protegidas, conservadas e preservadas, pois todos — os que a destroem e os que com ela estabelecem outras formas de convivência — delas necessitam. É para olhar com atenção o TFFF e estabelecer debates com a sociedade.” Esse texto não está assinado, caracterizando-se como um (a)",
       "alternatives": {
         "A": "notícia, que interpreta o contexto e fornece dados para a que os leitores tenham sua opinião sobre os princípios do TFFF.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o trecho da matéria publicada no site da Amazônia Real “+Admirados Jornalistas Brasileiros premia Kátia Brasil e Lúcio Flávio Pinto Por Nicoly Ambrosio Publicado em: 01/10/2025 às 12:26 Manaus (AM) – A jornalista Kátia Brasil, cofundadora e editora executiva da Amazônia Real, foi vencedora do primeiro lugar no Prêmio +Admirada Jornalista Brasileira na categoria Região Norte e o jornalista e colunista da agência, Lúcio Flávio Pinto, recebeu o título de Hors Concours do Jornalismo Brasileiro. O anúncio foi feito na cerimônia de comemoração do aniversário de 30 anos do Jornalistas & Cia, empresa organizadora da premiação, que reuniu mais de 400 pessoas, entre jornalistas, profissionais da comunicação e de empresas, na noite de segunda-feira (29/9), em São Paulo. O jornalista Caco Barcellos, da Rede Globo, foi eleito o +Admirado Jornalista Brasileiro de 2025. Com 35 anos de profissão, Kátia Brasil iniciou sua carreira como estagiária na rádio Tupi e fundou o jornal Folha de Santa Teresa, no Rio de Janeiro. Em 1990 mudou-se para a Amazônia, onde passou pelas redações dos jornais A Gazeta de Roraima, Amazonas Em Tempo, emissoras de TVs Educativa e Cultura. Em 1997, passou a ser repórter-correspondente de grandes jornais no Norte, entre eles o Globo, Estadão e a Folha de S. Paulo. Em 2013, fundou junto com Elaíze Farias a agência Amazônia Real, a primeira mídia independente e investigativa dirigida por mulheres no Norte do Brasil. Kátia Brasil, que recebeu a premiação da +Admirada Jornalista do Norte, eleita por votação dos colegas de todo o país, das mãos do correspondente da empresa Jornalistas & Cia no Amazonas, Chris Reis. A editora executiva da Amazônia Real também figurou no prêmio TOP 100 +Admirados Jornalistas da Imprensa Brasileira em 2025 em reconhecimento à sua trajetória no jornalismo investigativo e independente, com foco nas pautas sobre meio ambiente, povos tradicionais e nos direitos humanos na Amazônia. (...)” De acordo com a classificação proposta pelo professor Marques de Melo, a matéria acima integra o gênero",
       "alternatives": {
         "A": "utilitário, pois ressalta a contribuição da jornalista nas pautas sobre meio ambiente, povos tradicionais e direitos humanos na Amazônia.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Na “Classificação Marques de Melo”, que se fundamenta “em observações empíricas do jornalismo brasileiro no quinquênio 2002-2007” (MELO, 2009), o autor propõe cinco gêneros: 1. Informativo; 2. Opinativo; 3. Diversional; 4. Utilitário e 5. Interpretativo, que abarcam respectivamente os seguintes formatos:",
       "alternatives": {
         "A": "Nota; caricatura; história de interesse humano; cotação e perfil.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O papel couché é bastante utilizado na indústria gráfica, sendo indicado para diversos tipos de impressos, a exceção de um. Assinale-o.",
       "alternatives": {
         "A": "flyers e convites.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Ao estudar as transformações do texto jornalístico nos anos 1950, Ribeiro (2000) trata de “um acréscimo brasileiro à técnica norte- americana de abertura de texto. Consistia no segundo parágrafo da notícia, que ou desenvolvia fatos mencionados no primeiro ou agrupava outros cuja importância inferior àqueles”. A autora trata do",
       "alternatives": {
         "A": "teaser.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Shannon e Weaver desenvolveram um modelo para analisar a transmissão de informações que visualizava a comunicação como um processo sequencial. Esse processo começa com um(a)",
       "alternatives": {
         "A": "sinal.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A gramatura do papel é um fator importante para resistência, aparência e funcionalidade de um material impresso, por isso, dentre as opções abaixo, a gramatura mais indicada para capas de revista deve ser",
       "alternatives": {
         "A": "entre 150-180 g/m.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Peter Wolf propôs um dicionário visual de termos para um design global. Nessa obra, ele apresenta, por exemplo, os termos gutter em inglês; gouttière em francês e medanil, em espanhol para se referir ao “espaço entre duas colunas de texto ou entre pares de colunas de um layout e também o espaço estreito de uma página próxima à borda da encadernação ou à área na qual se unem as duas margens de uma página dupla”, que no Brasil é conhecido como",
       "alternatives": {
         "A": "calhau.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em outubro, o apresentador do Jornal Hoje, da Rede Globo, começou a edição da seguinte maneira: \"Olá. Boa tarde. A Polícia Federal prende mais de cinquenta suspeitos envolvidos em crimes de abuso sexual de crianças e adolescentes aqui no Brasil. A Secretaria de Saúde de Porto Alegre confirma o primeiro caso de intoxicação por metanol no Rio Grande do Sul. A polícia de São Paulo indica que o metanol foi adicionado nas garrafas e não veio da destilação da bebida. Em Minas, entra no quarto dia o combate ao incêndio em São José entre as cidades históricas de São João del Rey e Tiradentes. O governo anuncia que todas as favelas do país têm agora pelo menos um CEP. Veja também, o grupo terrorista Hamas afirma que entregou uma lista de prisioneiros palestinos que seriam trocados por reféns israelenses nas negociações pela paz. E três cientistas ganham o Nobel de Química por trabalhos que ajudam a conter o aquecimento global. O Jornal Hoje está começando”. Esse recurso de informar ao telespectador quais serão as principais notícias da edição é conhecido no telejornalismo como",
       "alternatives": {
         "A": "sonora.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A professora Flávia Clemente (2009), apresenta o marketing institucional como uma modalidade de marketing que cuida dos aspectos relacionados à imagem da instituição e cujo objetivo é a criação de uma atitude favorável em relação a empresa ou organização, nos diversos segmentos do público. Há diversas modalidades de marketing institucional, a exceção de uma. Assinale-a",
       "alternatives": {
         "A": "Marketing Comunitário.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Observe a imagem abaixo. Ela mostra tipos de metal compostos por elementos que o identificam e possibilitam seu uso na composição tipográfica. Alguns desses elementos tem nomes inspirados em partes do corpo humano, tais como",
       "alternatives": {
         "A": "coluna, que é a distância entre os limites superior e inferior da face do tipo, medido em pontos no sistema a que o tipo pertence.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O uso da expressão “comunicação pública”, na visão de Jorge Duarte, está associado ao esforço de melhorar a vida das pessoas pela comunicação. Por isso, as assessorias de imprensa que atuam nessa perspectiva devem",
       "alternatives": {
         "A": "defender os interesses estatais cristalizados nos perfis de cada um dos governantes.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com a Constituição Federal de 1988, a publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá",
       "alternatives": {
         "A": "promover cada uma das autoridades responsáveis pelos programas, obras e serviços de interesse público.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o trecho a seguir sobre um dos serviços que podem ser oferecidos por uma assessoria de imprensa. “Numa época em que a reputação pode ir para o brejo em questão de minutos, celebridades, políticos e executivos estão cada vez mais preocupados em se apresentar bem na mídia. Alguns, mais corajosos, mas sem treinamento, enfrentam câmeras, jornalistas e coletivas no peito e na raça. Pagam para ver e se dão mal. É muito fácil perceber nas entrevistas, tanto para a mídia impressa quanto eletrônica, quem passou por treinamento e possui alguma intimidade com as câmeras, microfones ou tem facilidade de agir numa entrevista coletiva. Alguns têm esse dom natural. Mas é bom não confiar na natureza. (FORNI, 2019: 191)” O texto trata da importância do",
       "alternatives": {
         "A": "clipping.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o texto sobre o protagonismo de Ivy Lee na formulação dos princípios que norteiam a Assessoria de Imprensa. “Numa época em que a propaganda era utilizada para forjar mitos e não havia preocupação com veracidade, Lee buscou adaptar os interesses dos assessorados aos dos diferentes públicos e utilizar informação exata e objetiva como ferramenta para dar visibilidade positiva na imprensa a seus assessorados. Ivy Lee, em 1906, distribuiu documento de princípios que pode ser considerado uma espécie de certidão de nascimento da assessoria de imprensa”. (DUARTE, 2018: 279). Há vários preceitos no documento que se mantém atuais até hoje, a exceção de um. Assinale-o",
       "alternatives": {
         "A": "o material fornecido pela assessoria de imprensa deve ser pago pelos veículos noticiosos se publicado na íntegra e sem identificação de fonte.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Leia o trecho abaixo sobre a comunicação de crise. “A empresa que consegue se comunicar bem e amealhar a simpatia da imprensa para sua causa, mesmo em situações negativas, pode mitigar os efeitos deletérios das crises. O gerenciamento de crises, portanto, tem dois lados fundamentais e decisivos do ponto de vista da imagem: um é administrar o fato gerador, o episódio desencadeador da crise, com soluções tempestivas, transparentes e consistentes. Mas há outro, sob certos aspectos, tão ou mais importante: a versão da crise. O que estão falando sobre a nossa crise nos meios de comunicação e na “rádio peão”? Saber integrar as duas mãos – a operacional (esquerda) e a Comunicação (direita) – é o objetivo da boa gestão de crise”. (FORNI, 2019: 141) O autor, especialista em gestão de crises, defende que",
       "alternatives": {
         "A": "a atuação sobre o episódio desencadeador da crise é de responsabilidade exclusiva da comunicação e deve ter foco nos meios de comunicação;",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Observe a ilustração abaixo, que mostra, na perspectiva de José Forni (2019), “elementos-chave, considerados decisivos para uma boa gestão dos eventos classificados como crise”. No cenário de crise, espera-se que",
       "alternatives": {
         "A": "a resposta rápida seja direcionada apenas para as redes sociais digitais.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A comunicação de risco e comunicação de crise são coisas diferentes. Sobre elas, avalie as afirmativas. I. A comunicação de crise diz respeito mais à comunidade do que a uma organização específica, pois refere-se a como as pessoas farão suas escolhas para prevenir crises. II. A comunicação de riscos, no processo de gerenciamento de crises, tem a função de chamar a atenção dos indivíduos para situações ou sinais que funcionariam como alertas de crise. III. A comunicação de crise restringe-se ao ambiente interno de uma organização, os riscos não devem ser comunicados externamente para não alarmar a população. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O Marketing 6.0, apresentado por Kotler, Kartajaya e Setiawan, abrange uma variedade de estratégias e táticas que permitem às empresas oferecer experiências imersivas em mídia física e digital e é conhecido como",
       "alternatives": {
         "A": "Metamarketing.",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Para Giacaglia (2024), antes de iniciar a construção de um modelo de gestão de eventos, é necessário definir os objetivos estratégicos que variam de empresa para empresa. Dentre os principais, ela destaca como lidar com a unidade de marca. Sobre este aspecto, avalie as afirmativas I. Quando setores diferentes de uma mesma empresa organizam eventos, cada produz seu material de divulgação e suas mensagens, em detrimento das diretrizes de uma área centralizada de eventos; II. A unidade de marca é um comportamento a ser evitado, pois faz com que todos os eventos dos quais a empresa participa pareçam iguais em relação ao conteúdo e ao formato; III. Quando a empresa cria identidade e unidade visual em todos os eventos, tende a otimizar consideravelmente de seus custos. É correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em publicidade e propaganda, uma frase curta e marcante, de fácil memorização, que demonstra as qualidades de um produto, um serviço ou uma ideia é um",
       "alternatives": {
         "A": "teaser.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A cláusula de consciência é um direito do jornalista, que permite ao profissional se recusar a executar tarefas em desacordo com os princípios do Código de Ética. Embasado nessa cláusula o jornalista pode se recusar a",
       "alternatives": {
         "A": "ouvir e de divulgar informações sobre fontes com opiniões divergentes das suas, restringindo o debate sobre temas de interesse público;",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A Comunicação Social é tema do Capítulo V da Constituição Federal de 1988 e, segundo ele,",
       "alternatives": {
         "A": "compete aos Estados e Municípios regular diversões e espetáculos públicos, estabelecendo as faixas etárias a que não se recomendem, bem como locais e horários em que sua apresentação não seja adequada.",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Francisco Gracioso, na obra “Propaganda Institucional”, traz conselhos de caráter prático ou, em suas palavras, \"dicas\" úteis para quem planeja ou cria campanhas institucionais. Entre elas, estão: 1. Sentido de Oportunidade; 2. Compromisso com o Bem- estar Coletivo; 3. Preste Homenagem Pública às Grandes Datas, Personalidades e Instituições. Dentre a(s) peça(s) apresentadas abaixo, disponíveis no perfil da Assembleia Legislativa do Estado do Amazonas, no Instragram, identifique as que reflete(m) a segunda \"dica” do autor: I. II. III. IV. V.",
       "alternatives": {
         "A": "I e II, apenas.",

@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Empresa Brasileira de Serviços Hospitalares - EBSERH - Área Médica",
   "cargo_title": "Grupo - Medicina Preventiva e Social",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Se tem problemas no pulmão, procure um pneumologista.",
         "C": "Se tem problemas no fígado, procure um dermatologista.",
         "D": "Se tem problemas nos ouvidos, procure um oncologista.",
-        "E": "Se tem problemas nos pés, procure um pediatra. Legislação EBSERH"
+        "E": "Se tem problemas nos pés, procure um pediatra."
       },
       "answer": "B",
       "annulled": false,
@@ -245,8 +245,25 @@
       "page_number": 4
     },
     {
-      "question_number": 16,
+      "question_number": 15,
       "discipline": null,
+      "statement": "Um empregado da Ebserh foi acusado de descumprir normas institucionais e de adotar conduta incompatível com as regras administrativas do Hospital Universitário. Para a apuração formal da conduta e garantia do contraditório e da ampla defesa, a administração decidiu instaurar procedimento disciplinar conforme as normas internas da empresa. Segundo a Norma Operacional de Controle Disciplinar da Ebserh, a apuração de infrações disciplinares pode ocorrer por meio de",
+      "alternatives": {
+        "A": "sindicância ou processo administrativo disciplinar.",
+        "B": "auditoria administrativa e decisão direta da diretoria.",
+        "C": "avaliação de desempenho extraordinária.",
+        "D": "procedimento sumário conduzido pela chefia imediata.",
+        "E": "análise exclusiva do Conselho Fiscal."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Considerando os fatores determinantes para a Reforma Sanitária Brasileira, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A crise do modelo previdenciário centralizado, associada à expansão da assistência privada, articulou-se à formulação de uma crítica baseada na medicina social e na análise histórico- estrutural da saúde. ( ) A Reforma Sanitária estruturou-se a partir da adoção da teoria funcionalista do Estado, orientada pela racionalização administrativa e pela busca de equilíbrio institucional no setor saúde. ( ) A abertura política da década de 1970, combinada à reorganização dos movimentos sociais, favoreceu a consolidação de um projeto que relacionava saúde, democracia e transformação das estruturas sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -263,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Tendo em vista os mecanismos institucionais de participação no âmbito do Sistema Único de Saúde, leia hipotética a situação a seguir. Camila participou, como representante dos profissionais de saúde, de uma instância colegiada municipal convocada para ocorrer naquele quadriênio. Durante o encontro, foi realizada avaliação ampla da situação de saúde do município, com apresentação de diagnósticos gerais e, ao final, foram propostas diretrizes para subsidiar a formulação da política de saúde nos anos subsequentes. De acordo com a descrição apresentada, a instância indicada na situação acima é o(a)",
       "alternatives": {
         "A": "Conselho Municipal de Saúde.",
@@ -280,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução RDC nº 36/2013, da ANVISA, institui ações para a promoção da segurança do paciente e apresenta conceitos relacionados à gestão de risco nos serviços de saúde. Considerando as definições estabelecidas na norma, um exemplo de evento adverso é a administração de medicamento",
       "alternatives": {
         "A": "em dose incorreta, resultando em insuficiência renal aguda no paciente internado.",
@@ -297,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com relação às características do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir. I. O sistema público de saúde instituído pela Constituição de 1988 rompeu com o modelo anterior restrito aos trabalhadores formais, passando a garantir acesso a toda a população. II. A organização do sistema, desde sua criação, passou a considerar as desigualdades sociais e regionais como critério para definição de prioridades na oferta de ações e serviços. III. A organização estabelecida a partir de 1988 definiu que toda decisão sobre políticas de saúde seria centralizada na esfera federal, de modo a garantir uniformidade administrativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -314,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução CNS nº 553/2017 estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, dispondo sobre responsabilidades individuais no âmbito do cuidado. Assinale a opção que apresenta uma violação dos deveres da pessoa usuária.",
       "alternatives": {
         "A": "Solicitar substituição do profissional responsável durante atendimento hospitalar regular.",
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Em um hospital geral de médio porte, foi identificado que um paciente recebeu dose duplicada de um anticoagulante após falha na comunicação durante a troca de plantão. O erro foi percebido horas depois, sem ocorrência de dano grave. A direção da instituição solicita que o Núcleo de Segurança do Paciente proponha medidas imediatas. Com base no Programa Nacional de Segurança do Paciente (PNSP), o encaminhamento prioritário deve ser",
       "alternatives": {
         "A": "formalizar advertência ao profissional envolvido e reforçar, em reunião de equipe, a necessidade de atenção redobrada na etapa de administração.",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Decreto nº 7.508/2011 define conceitos relativos à organização do Sistema Único de Saúde (SUS), considerando a articulação interfederativa e a regionalização das ações e serviços. Assinale a opção que descreve corretamente uma Região de Saúde.",
       "alternatives": {
         "A": "Conjunto de serviços municipais organizado para integrar ações assistenciais e planejamento sanitário local.",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A NOB/RH-SUS prevê que a gestão do trabalho no SUS deve obedecer ao princípio da participação bilateral. Assinale a opção que descreve corretamente esse princípio.",
       "alternatives": {
         "A": "Pactuação conjunta de diretrizes sobre carreira e condições laborais.",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Sistema Único de Saúde (SUS) é estruturado constitucionalmente por um conjunto de princípios e diretrizes que orientam sua organização, seu funcionamento e sua oferta de ações e serviços. Assinale a opção que apresenta uma ação incompatível com as diretrizes do SUS.",
       "alternatives": {
         "A": "Implantação de central de regulação regional para organizar o acesso a consultas e exames entre municípios de uma mesma região de saúde.",
@@ -399,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Durante atendimento em Unidade Básica de Saúde, um homem transexual solicitou encaminhamento para mastectomia. O profissional informou que o procedimento não poderia ser ofertado pelo SUS, pois se trataria de demanda estética não relacionada à saúde. A atitude do profissional de saúde está",
       "alternatives": {
         "A": "inadequada, pois a decisão sobre cirurgias depende exclusivamente de autorização prévia estadual.",
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com base no Código de Ética Médica (Resolução CFM nº 2.217/2018), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O médico pode recusar-se a exercer a profissão em instituição pública ou privada quando as condições de trabalho não forem dignas, devendo comunicar formalmente sua decisão ao Conselho Regional competente. ( ) É vedado ao médico divulgar, fora do meio científico, método terapêutico ainda não reconhecido por órgão competente, ainda que a divulgação tenha finalidade apenas educativa. ( ) O médico deve empregar todos os recursos diagnósticos e terapêuticos disponíveis nas situações clínicas irreversíveis, ainda que tais medidas não garantam benefício proporcional ao paciente. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Bioética parte do pressuposto de que nem tudo o que é cientificamente possível é também eticamente aceitável, exigindo que os avanços técnicos sejam avaliados quanto ao respeito à dignidade da pessoa humana. Assinale a opção que exemplifica uma ação cientificamente possível, porém eticamente inaceitável.",
       "alternatives": {
         "A": "Oferta de tratamento capaz de restaurar completamente funções orgânicas perdidas, ainda que inexistam recursos técnicos para a intervenção.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Política Nacional de Saúde Integral da População Negra estabelece diretrizes voltadas ao combate contra o racismo institucional e à redução das desigualdades étnico-raciais no âmbito do SUS. Assinale a opção que apresenta uma medida adequada à referida política.",
       "alternatives": {
         "A": "Implementação de metas específicas para redução de desigualdades étnico-raciais em saúde.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Os Determinantes Sociais da Saúde (DSS) referem-se a um conjunto de condições que influenciam diretamente a distribuição das doenças e dos fatores de risco na população. Assinale a opção que exemplifica corretamente um DSS.",
       "alternatives": {
         "A": "Elevada prevalência de hipertensão arterial associada ao envelhecimento progressivo da população brasileira.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Avalie se as diretrizes do HumanizaSUS incluem: I. implantação de modelo decisório que concentra na chefia a prerrogativa de alterar rotinas, com o objetivo de garantir maior eficiência no atendimento ao público; II. instituição de espaços regulares de deliberação coletiva para discutir impasses do cotidiano e redefinir responsabilidades entre trabalhadores, gestores e usuários; III. reorganização do acesso com redefinição dos critérios de entrada no serviço, priorizando necessidades avaliadas no momento do atendimento. É compatível com o escopo do HumanizaSUS o que se indica em",
       "alternatives": {
         "A": "II e III, apenas.",
         "B": "I, II e III.",
         "C": "I e III, apenas.",
         "D": "II, apenas.",
-        "E": "I e II, apenas. CONHECIMENTOS ESPECÍFICOS"
+        "E": "I e II, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em um hospital universitário, foi realizado um estudo para avaliar fatores associados à infecção hospitalar por Klebsiella pneumoniae multirresistente. Foram selecionados pacientes infectados (casos) e não infectados (controles), e posteriormente investigadas as possíveis exposições prévias, como uso de antibióticos e procedimentos invasivos. Sobre esse delineamento, é correto afirmar que",
       "alternatives": {
         "A": "permite calcular diretamente a incidência da infecção.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante uma investigação de surto de hepatite A em uma comunidade ribeirinha, a equipe de vigilância epidemiológica optou por realizar um estudo no qual todos os indivíduos expostos à água contaminada foram acompanhados ao longo de seis meses para verificar quem desenvolveria a doença. Considerando os tipos de estudos epidemiológicos, o delineamento adotado foi o",
       "alternatives": {
         "A": "estudo transversal.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante a análise do perfil epidemiológico de um município brasileiro, a equipe de saúde identificou aumento da taxa de mortalidade infantil nos últimos dois anos, apesar da ampliação da cobertura vacinal e do acesso ao pré-natal. Considerando os principais indicadores de saúde coletiva, a medida mais adequada para investigar as causas desse fenômeno seria",
       "alternatives": {
         "A": "avaliar a taxa de letalidade das doenças infecciosas notificadas no período.",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um gestor municipal deseja monitorar o impacto das ações intersetoriais sobre as condições de vida da população. Para isso, decide utilizar um indicador sintético que reflita aspectos socioeconômicos, educacionais e de saúde. Dos indicadores a seguir, assinale o que melhor atende a esse objetivo.",
       "alternatives": {
         "A": "Índice de Desenvolvimento Humano Municipal (IDHM).",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em determinado município, foi detectado aumento de casos de tuberculose multirresistente (TB-MDR) entre pessoas privadas de liberdade. Considerando as diretrizes nacionais e o papel da vigilância epidemiológica, a seguinte estratégia deve ser priorizada para conter a disseminação da TB-MDR nesse contexto específico:",
       "alternatives": {
         "A": "suspender temporariamente visitas familiares até redução dos casos.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante uma investigação epidemiológica, um município de médio porte identificou, por meio do Sistema de Informação de Agravos de Notificação (SINAN), aumento inesperado de casos de hepatite A em crianças menores de 10 anos, residentes em bairros periféricos com baixa cobertura de saneamento básico. Considerando os princípios da vigilância epidemiológica e a legislação sanitária brasileira, o papel do gestor municipal diante desse cenário para garantir resposta efetiva e articulada deve ser",
       "alternatives": {
         "A": "encaminhar relatório mensal à Secretaria Estadual de Saúde, aguardando orientações superiores para qualquer ação.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante uma investigação epidemiológica em um município brasileiro, a equipe de vigilância identificou um caso confirmado laboratorialmente de febre amarela em residente da zona urbana, sem histórico de deslocamento recente para áreas rurais ou silvestres. Considerando as normas vigentes do Ministério da Saúde sobre notificação compulsória e medidas de resposta, a conduta obrigatória do profissional de saúde responsável pelo atendimento inicial é",
       "alternatives": {
         "A": "notificar o caso apenas ao serviço municipal de saúde, pois a transmissão urbana está erradicada no Brasil.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um hospital privado recebe paciente com quadro clínico compatível com meningite bacteriana aguda. Após coleta de líquor e início de antibioticoterapia empírica, o laboratório confirma Neisseria meningitidis sorogrupo C. Considerando as diretrizes nacionais sobre notificação compulsória e ações subsequentes, a conduta esperada do serviço de saúde é",
       "alternatives": {
         "A": "notificar imediatamente o caso às autoridades sanitárias e iniciar bloqueio de contatos próximos com quimioprofilaxia adequada.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante a implementação da Reforma Sanitária no Brasil, um município de médio porte enfrenta dificuldades para garantir a participação social efetiva na formulação das políticas públicas de saúde. Considerando os princípios do Sistema Único de Saúde (SUS) e as diretrizes constitucionais e infraconstitucionais vigentes, a conduta adequada do gestor municipal diante desse desafio é",
       "alternatives": {
         "A": "priorizar decisões técnicas dos gestores, limitando a participação popular aos conselhos municipais de saúde, sem caráter deliberativo.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um promotor de justiça recebe denúncia de que determinado município está restringindo o acesso universal aos serviços de saúde, priorizando atendimento apenas a residentes locais, mesmo em situações de urgência. Com base nos fundamentos da Reforma Sanitária e na legislação vigente, a orientação do Ministério Público deve ser",
       "alternatives": {
         "A": "apoiar a restrição, pois a municipalização permite autonomia plena ao ente local.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em auditoria realizada pelo Ministério Público, foi constatado que um hospital público estadual está negando internação a pacientes encaminhados pela atenção primária municipal, alegando falta de vínculo direto com o município. Assinale a opção que indica o princípio do SUS que está sendo violado e qual providência normativa fundamenta a atuação do MP.",
       "alternatives": {
         "A": "Princípio da universalidade; exigir que o hospital amplie vagas para todos os pacientes do estado.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O Conselho Municipal de Saúde deliberou pela destinação de recursos do Piso da Atenção Básica para aquisição de equipamentos hospitalares de alta complexidade, contrariando parecer técnico da Secretaria Municipal de Saúde. A respeito de qual deve ser a conduta do Ministério Público diante do impasse, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O Conselho tem autonomia plena e pode decidir livremente sobre qualquer recurso do SUS.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante uma auditoria do Ministério Público em um município de médio porte, foi identificado que a gestão local implementou equipes de Saúde da Família compostas por dois médicos generalistas, um enfermeiro, dois técnicos de enfermagem e quatro agentes comunitários de saúde, sem a presença de cirurgião-dentista ou auxiliar/técnico em saúde bucal. Avalie a adequação dessa composição e assinale a afirmativa correta.",
       "alternatives": {
         "A": "A composição está adequada, pois a inclusão de profissionais de saúde bucal é facultativa na equipe de Saúde da Família.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em determinado município, a Secretaria Municipal de Saúde decide alocar uma equipe de Atenção Básica tradicional para atender uma população rural dispersa, justificando que a cobertura territorial é insuficiente para implantar uma equipe de Saúde da Família. Segundo a PNAB vigente, assinale a afirmativa correta a respeito da conformidade dessa conduta com a legislação.",
       "alternatives": {
         "A": "É vedada a implantação de equipe de Atenção Básica em áreas rurais, devendo-se priorizar sempre a equipe de Saúde da Família.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em determinado território, gestores municipais relatam dificuldades para cumprir compromissos assumidos no Termo de Compromisso de Gestão, especialmente quanto à vigilância em saúde. Diante desse contexto, a natureza jurídica desses compromissos deve ser compreendida como",
       "alternatives": {
         "A": "meras intenções políticas, sem força normativa.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante consulta de rotina, um menino de 5 anos apresenta comportamento retraído, recusa alimentar recente e relato de pesadelos frequentes. Ao ser questionado separadamente, verbaliza medo de retornar para casa devido a “brigas” constantes entre os pais. Não há lesões físicas evidentes. Considerando o Estatuto da Criança e do Adolescente (ECA), a PNAISC e o papel do profissional de saúde na detecção de situações de violência, a conduta mais adequada é",
       "alternatives": {
         "A": "orientar os pais sobre disciplina positiva e solicitar retorno em 30 dias para reavaliação comportamental.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma agente comunitária de saúde relata ao médico da família que uma gestante adolescente está evitando comparecer às consultas pré-natais devido ao medo de julgamento pela equipe. Diante desse cenário, a conduta que reflete melhor os fundamentos éticos e humanísticos da Atenção Primária é",
       "alternatives": {
         "A": "reforçar a obrigatoriedade do pré-natal, ameaçando comunicar o Conselho Tutelar.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em uma área rural, a equipe de Saúde da Família identifica alta prevalência de doenças crônicas não transmissíveis associadas a hábitos alimentares tradicionais ricos em sal e gordura. A seguinte estratégia demonstra maior compreensão dos determinantes sociais e culturais do processo saúde-doença nesse caso:",
       "alternatives": {
         "A": "promoção de rodas de conversa com a comunidade, valorizando saberes populares e negociando mudanças possíveis.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante uma sindicância administrativa, um membro do Ministério Público solicita ao médico assistente acesso irrestrito aos prontuários dos pacientes atendidos em uma unidade básica de saúde, alegando investigação de suposta fraude em atestados médicos. O procedimento correto, segundo a legislação brasileira, nesse caso, é",
       "alternatives": {
         "A": "liberar todos os prontuários imediatamente, pois há interesse público envolvido.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma paciente comparece a uma consulta médica agendada em ambulatório público e solicita ao médico uma declaração de comparecimento para apresentar ao seu empregador. Ela informa que não foi atendida por motivo de ausência do profissional responsável pelo procedimento específico, mas deseja comprovar sua presença na unidade de saúde. Considerando as normas éticas e legais vigentes, a conduta correta do médico plantonista diante dessa solicitação é",
       "alternatives": {
         "A": "emitir a declaração de comparecimento, registrando apenas o horário em que a paciente esteve presente na unidade, sem mencionar justificativas clínicas.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Um estudo clínico randomizado avaliou a eficácia de um novo anti- hipertensivo comparado ao padrão ouro no SUS. Os resultados foram: - Grupo intervenção: 40 eventos adversos em 400 pacientes; - Grupo controle: 80 eventos adversos em 400 pacientes. Com base nesses dados, analise as afirmativas a seguir. I. O risco relativo (RR) de eventos adversos no grupo intervenção é 0,5. II. A redução absoluta do risco (RAR) é de 10%. III. O número necessário para tratar (NNT) para evitar um evento adverso é 10. IV. O intervalo de confiança (IC) para o RR, considerando erro padrão aproximado de 0,1, inclui o valor 1. Estão corretas as afirmativas",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Avalie as seguintes proposições sobre os níveis de evidência científica segundo as Diretrizes Metodológicas da Conitec/MS: I. Revisões sistemáticas de ensaios clínicos randomizados representam o mais alto nível de evidência para decisões clínicas. II. Estudos observacionais podem ser considerados como evidência principal quando não há ensaios clínicos disponíveis. III. Opinião de especialistas é suficiente para fundamentar protocolos assistenciais no SUS. IV. Ensaios clínicos randomizados têm maior poder para inferir causalidade que estudos de coorte. Estão corretas apenas as proposições",
       "alternatives": {
         "A": "I e II.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante uma auditoria em um hospital público, foi identificado que protocolos terapêuticos adotados divergem das recomendações das Diretrizes Brasileiras de Prática Clínica, baseando-se em consensos de especialistas internacionais sem validação nacional. O procedimento mais adequado é",
       "alternatives": {
         "A": "manter os protocolos vigentes, pois consensos internacionais são superiores às diretrizes nacionais.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "O gestor municipal deseja implementar uma política local de promoção da saúde baseada em evidências. Segundo a PNPS e considerando o conceito ampliado de saúde, assinale a proposta que melhor exemplifica uma ação estruturante e sustentável nesse contexto.",
       "alternatives": {
         "A": "Distribuição mensal de folders informativos sobre alimentação saudável nas escolas municipais.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma Promotora de Justiça recebe denúncia de que um município com grande área rural não vem oferecendo coleta de citologia oncótica nem testagem por DNA-HPV há mais de 8 meses, alegando falta de insumos. Na análise do caso, a Promotora precisa determinar qual estratégia de rastreamento deve ser obrigatoriamente restabelecida, conforme diretrizes brasileiras atuais. A seguinte conduta normativa deve fundamentar sua decisão:",
       "alternatives": {
         "A": "retomar exclusivamente a citologia oncótica anual para todas as mulheres ≥ 18 anos.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em um município brasileiro, gestores de saúde discutem a implementação de estratégias para prevenção do câncer de próstata na Atenção Primária à Saúde. Considerando as diretrizes do Ministério da Saúde e o conceito ampliado de promoção da saúde, assinale a opção que apresenta a conduta mais adequada e alinhada às recomendações nacionais para rastreamento e prevenção desse agravo.",
       "alternatives": {
         "A": "Realizar ações educativas voltadas à população masculina sobre fatores de risco modificáveis (alimentação, atividade física, tabagismo) e discutir individualmente, com homens entre 50 e 69 anos, os potenciais benefícios e riscos do rastreamento, respeitando a decisão informada do usuário.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Durante uma visita domiciliar, a equipe de saúde identifica que uma gestante de 22 semanas, primigesta, relata não ter realizado nenhum exame laboratorial até o momento, apesar de já ter comparecido a duas consultas de pré-natal na Unidade Básica de Saúde. Considerando as diretrizes nacionais vigentes, a conduta que deve ser priorizada pela equipe multiprofissional para garantir a integralidade da assistência é",
       "alternatives": {
         "A": "solicitar exames laboratoriais básicos imediatamente e agendar retorno para avaliação dos resultados.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação ao acompanhamento do crescimento fetal durante o pré-natal, uma gestante de baixo risco apresenta discrepância significativa entre a altura uterina e a idade gestacional estimada pelo último ciclo menstrual. O procedimento recomendado pela equipe de saúde segundo as normas brasileiras para o caso deve ser",
       "alternatives": {
         "A": "repetir a medida da altura uterina em todas as consultas subsequentes, sem intervenção adicional.",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente feminina, 47 anos, hipertensa, comparece à UBS para renovação de receita. Relata cefaleia matinal frequente, sonolência diurna, noctúria e ganho ponderal progressivo nos últimos 2 anos. Ao exame: PA 154x98 mmHg (em uso regular de hidroclorotiazida 25 mg/dia), IMC 36 kg/m², circunferência cervical aumentada, ausculta cardíaca e pulmonar sem alterações. Considerando a abordagem integral na Atenção Primária, a conduta prioritária, segundo os protocolos nacionais, é",
       "alternatives": {
         "A": "intensificar anti-hipertensivo e agendar retorno em 30 dias.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Homem, 59 anos, tabagista (40 maços/ano), refere tosse seca persistente há 6 semanas, emagrecimento de 8 kg em 3 meses, dor torácica inespecífica e episódios de hemoptise discreta. Radiografia de tórax mostra massa hilar direita de 4 cm e linfonodomegalia mediastinal. Na Atenção Primária, a seguinte sequência de condutas está mais alinhada às diretrizes nacionais para diagnóstico e encaminhamento:",
       "alternatives": {
         "A": "solicitar TRM-TB (Teste Rápido Molecular para Tuberculose) e cultura para micobactérias; aguardar resultado antes de qualquer encaminhamento.",

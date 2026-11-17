@@ -17,7 +17,7 @@
         "D": "Os habitantes das grandes cidades, por terem menos contato com a educação familiar, cometem muitos delitos.",
         "E": "Os habitantes das pequenas cidades, por serem em número bem menor, estatisticamente cometem menos delitos."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -34,7 +34,7 @@
         "D": "narra, com diferentes focos, alguns momentos da viagem de um veleiro que atravessa uma tempestade.",
         "E": "relata uma ocorrência casual, com trágico destino, explicada pelo descaso em relação à vida humana."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -51,7 +51,7 @@
         "D": "O processo de transformação do estado inicial é representado pelo fato de o policial perseguir os suspeitos.",
         "E": "O estado final da narrativa é o de o policial ter sofrido um ataque cardíaco."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -66,9 +66,9 @@
         "B": "“Por quê” aparece grafado desse modo porque é um interrogativo e está antes do ponto.",
         "C": "Ao dizer “a guia” o guarda supõe que o outro sabe de que documento se trata.",
         "D": "Ao dizer “Guia”, o personagem Oscar mostra que está escondendo alguma coisa.",
-        "E": "Ao dizer “uma guia”, o guarda reconhece que Oscar não sabe do que ele está falando. Noções Básicas de Informática"
+        "E": "Ao dizer “uma guia”, o guarda reconhece que Oscar não sabe do que ele está falando. FGV"
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -76,7 +76,7 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Noções Básicas de Informática",
       "statement": "Gabriel utiliza o Windows 10 no seu notebook, e gostaria que os arquivos com a extensão “.txt” fossem abertos, por default, pelo aplicativo WordPad. Para alcançar esse objetivo, Gabriel deve usar o menu Iniciar do Windows e seguir por meio das opções",
       "alternatives": {
         "A": "Acessórios do Windows/Bloco de Notas.",
@@ -85,7 +85,7 @@
         "D": "Ferramentas Administrativas do Windows/Monitor de Recursos.",
         "E": "Personalização/Configurações."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -93,7 +93,7 @@
     },
     {
       "question_number": 6,
-      "discipline": null,
+      "discipline": "Noções Básicas de Informática",
       "statement": "No âmbito do Excel 2010 em português, assinale a opção que apresenta a fórmula digitada na célula B2 de uma planilha que está incorretamente formulada.",
       "alternatives": {
         "A": "=MAIOR(B1:B20;1)",
@@ -102,24 +102,24 @@
         "D": "=SOMA(A1:C5)",
         "E": "=SOMA(SOMA(A1:A2);SOMA(A3:A30))"
       },
-      "answer": null,
-      "annulled": false,
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 4
     },
     {
       "question_number": 7,
-      "discipline": null,
+      "discipline": "Noções Básicas de Informática",
       "statement": "Na edição de um documento por meio do Word 2010, as Quebras de Seção têm um papel importante quando é preciso",
       "alternatives": {
         "A": "estabelecer o espaçamento “antes” e “depois” de cada parágrafo.",
         "B": "inserir caixas de texto.",
         "C": "inserir legendas em imagens.",
         "D": "mesclar células numa tabela.",
-        "E": "utilizar cabeçalhos e/ou rodapés diferentes em certos trechos do documento. Noções de Administração Pública"
+        "E": "utilizar cabeçalhos e/ou rodapés diferentes em certos trechos do documento."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -127,7 +127,7 @@
     },
     {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A segurança pública tem como fundamento básico a proteção do Estado Democrático de Direito, devendo ser desenvolvida, no limite da lei, por órgãos públicos e pela própria sociedade, por meio de aplicação de medidas preventivas e corretivas. Conforme previsto na Constituição Federal de 1988, cabe, às polícias militares",
       "alternatives": {
         "A": "a função de polícia judiciária e a apuração de infrações penais.",
@@ -136,7 +136,7 @@
         "D": "a segurança dos estabelecimentos penais e o patrulhamento das rodovias.",
         "E": "a proteção dos bens públicos e a execução da defesa civil."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -144,7 +144,7 @@
     },
     {
       "question_number": 9,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Em conformidade com a Constituição do Estado de São Paulo, é correto afirmar que o Comandante-Geral da Polícia Militar será",
       "alternatives": {
         "A": "nomeado pelo Governador, dentre os oficiais da ativa da Polícia Militar de São Paulo ocupantes do último posto do quadro.",
@@ -153,7 +153,7 @@
         "D": "escolhido pelo Governador, entre qualquer cidadão brasileiro com idoneidade moral e reputação ilibada, após sabatina da Assembleia Legislativa.",
         "E": "escolhido pelos pares, após apresentação de lista sêxtupla proposta pelo Governador, parlamentares estaduais e parlamentares municipais."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -161,16 +161,16 @@
     },
     {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Suponha que determinada informação seja classificada como reservada no ano de 2015 e, em 2021, após solicitação de cidadão brasileiro, seja, a ele, concedido pleno acesso pela entidade detentora dessa informação. Com base na situação apresentada, assinale a opção que se apresenta em conformidade com a Lei de Acesso à Informação.",
       "alternatives": {
         "A": "A entidade deve receber advertência e multa em função de sua conduta.",
         "B": "A entidade deve ter rescindido o seu vínculo com o poder público em função de sua conduta.",
         "C": "A entidade deve ser impedida temporariamente de participar de licitações em função de sua conduta.",
         "D": "A entidade deve ser declarada como inidônea por até 5 anos em função da sua conduta.",
-        "E": "A conduta da entidade não apresenta qualquer irregularidade evidente. Conhecimentos Específicos (Veterinário)"
+        "E": "A conduta da entidade não apresenta qualquer irregularidade evidente. FGV Conhecimentos Específicos (Veterinário)"
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre as respostas imune humoral e imune celular, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Ambas são ramos da imunidade inata.",
@@ -187,7 +187,7 @@
         "D": "A destruição de células anormais é realizada por linfócitos T citotóxicos, que são parte da resposta imune celular.",
         "E": "A imunidade aos invasores intracelulares é a função principal dos linfócitos B, que são parte da resposta imune humoral."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "As hipersensibilidades são lesões patológicas desencadeadas por respostas imunes e podem ser classificadas em quatro tipos principais, com base em seus mecanismos patogênicos. É correto afirmar que a doença hemolítica do recém-nascido é um exemplo de hipersensibilidade",
       "alternatives": {
         "A": "do tipo I.",
@@ -204,7 +204,7 @@
         "D": "do tipo IV.",
         "E": "não é um exemplo de hipersensibilidade."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "As vacinas podem ser divididas em vivas e inativadas e cada uma tem suas vantagens e desvantagens. Comparando as vacinas vivas às inativadas, é correto afirmar que",
       "alternatives": {
         "A": "a vacina inativada é mais estável ao armazenamento.",
@@ -221,7 +221,7 @@
         "D": "a administração pela via natural deve ser evitada com vacinas vivas.",
         "E": "as vacinas vivas sempre necessitam de adjuvantes."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A classificação de níveis de biossegurança em laboratórios depende da combinação de práticas, técnicas de laboratório, barreiras primárias e secundárias aplicadas, qual agente biológico é manipulado naquele ambiente e outros fatores. Em um laboratório em que os organismos rotineiramente manipulados não são transmitidos por meio de aerossóis, mas são utilizadas barreiras primárias como proteção facial, aventais e luvas para reduzir o risco de exposição dos funcionários, assinale a opção que indica seu nível mínimo de biossegurança (NB).",
       "alternatives": {
         "A": "NB-1.",
@@ -238,7 +238,7 @@
         "D": "NB-4.",
         "E": "NB-5."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Uma das principais técnicas imunodiagnósticas empregada na Medicina Veterinária é o ensaio imunoenzimático conhecido como ELISA. Sobre o ELISA, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Na técnica de ELISA indireto, os poços da placa de poliestireno são revestidos com antígeno.",
@@ -255,7 +255,7 @@
         "D": "Na técnica de ELISA de competição, os poços da placa de poliestireno são revestidos com antígeno.",
         "E": "Na técnica de ELISA sanduíche, a chance de um resultado falso-positivo é grande."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Animais sinantrópicos são aqueles que se adaptaram a viver junto ao homem, mas não são animais domésticos. Alguns deles podem transmitir doenças, sendo então uma importante questão em Saúde Pública. Sobre animais sinantrópicos e as medidas para o seu controle, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O controle de pombos deve ser feito por meio do controle da alimentação, porque não é possível fazer o controle de seus abrigos.",
@@ -272,7 +272,7 @@
         "D": "O controle de barbeiros é de grande importância porque transmitem o protozoário Plasmodium falciparum, causador da doença de Chagas.",
         "E": "Constatada a presença de um animal que pode trazer risco à saúde, deve ser solicitado o serviço de identificação de animais sinantrópicos."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -280,16 +280,16 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Os anti-inflamatórios não esteroidais (AINEs) estão entre os mais usados em Medicina Veterinária com o objetivo de minimizar as respostas inflamatórias indesejáveis. Sobre os AINEs, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A aspirina atua inativando as ciclo-oxigenases 1 e 2 de modo irreversível.",
         "B": "O paracetamol é o AINE mais seguro para ser usado em cães.",
         "C": "O uso de AINEs acarreta o aumento da síntese de prostaglandinas.",
         "D": "Todos os AINEs inibem as ciclo-oxigenases 1 e 2 de modo indiscriminado.",
-        "E": "Os AINEs possuem a vantagem de não causarem efeitos adversos."
+        "E": "Os AINEs possuem a vantagem de não causarem efeitos adversos. FGV"
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre os fármacos utilizados para o tratamento de infestações por parasitas helmintos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os helmintos não conseguem desenvolver resistência aos fármacos anti-helmínticos.",
@@ -306,7 +306,7 @@
         "D": "O praziquantel é eficiente mas possui uso específico, sendo indicado apenas para o tratamento da cisticercose.",
         "E": "A niclosamida é um exemplo de fármaco que age paralisando os vermes."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Os antibióticos podem ser classificados como bactericidas quando destroem as bactérias, ou como bacteriostáticos, quando inibem o crescimento bacteriano. Assinale a opção que indica um exemplo de um grupo de antibióticos bacteriostáticos.",
       "alternatives": {
         "A": "Penicilinas.",
@@ -323,7 +323,7 @@
         "D": "Monobactâmicos.",
         "E": "Carbapenéns."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Equinos mantidos em baias necessitam de uma série de cuidados e, dentre eles, podemos citar os cuidados intensivos nos cascos. Sobre os cuidados com os cascos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A qualidade do casco pode ser influenciada pela nutrição, o ambiente, a hereditariedade e o processo de casqueamento.",
@@ -340,7 +340,7 @@
         "D": "No casqueamento deve-se utilizar a grosa na parede do casco para que ele fique alinhado com a ferradura.",
         "E": "O casqueamento não deve ser feito em equinos não ferrageados."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "De acordo com o Art. 32, caput, da Lei nº 9605/98, a pena para quem praticar maus tratos a animais silvestres, domésticos ou domesticados, nativos ou exóticos, é de detenção de três meses a um ano e multa. Essa pena pode chegar a até 5 anos quando se tratar",
       "alternatives": {
         "A": "de cão, gato ou peixe.",
@@ -357,7 +357,7 @@
         "D": "de cão, gato, roedor ou ave ornamental.",
         "E": "de cão ou gato."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre os crimes contra a fauna, segundo a Lei nº 9605/1998, capítulo V, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Quem transporta espécimes provenientes da pesca ilegal não incorre na mesma pena de quem pesca ilegalmente.",
@@ -374,7 +374,7 @@
         "D": "O abate animal, quando realizado em estado de necessidade para saciar a fome do agente, não é considerado crime.",
         "E": "A morte de espécimes da fauna aquática provocada pela emissão de efluentes é considerada crime ambiental, mas não crime contra a fauna."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre a Lei nº 5187/67, que dispõe sobre a proteção à fauna e dá outras providências, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O exercício da caça profissional e amadora é proibido.",
@@ -391,7 +391,7 @@
         "D": "O destino de produtos de caça ilegal apreendidos pelas autoridades é sempre a destruição.",
         "E": "A caça de espécimes da fauna silvestre com arma de fogo é permitida."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre os requisitos zoosanitários exigidos para que um canino doméstico vindo de outro país entre no Brasil, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Cães com menos de três meses de vida não podem ingressar no país.",
@@ -408,7 +408,7 @@
         "D": "O documento necessário para que um cão entre no país é o Guia de Trânsito Animal.",
         "E": "Um cão previamente diagnosticado com leishmaniose não pode entrar no país sob quaisquer circunstâncias."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -416,16 +416,16 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "O chumbinho é um produto clandestino, frequentemente utilizado como veneno contra ratos. Um dos problemas mais comuns associados à utilização do chumbinho é a intoxicação acidental de pessoas e animais domésticos, sobretudo cães. Sobre a intoxicação por chumbinho, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O chumbinho é normalmente composto por agrotóxicos do grupo dos organofosforados ou carbamatos.",
         "B": "A sintomatologia da intoxicação por chumbinho é aguda e imediata, não apresentando uma forma tardia.",
         "C": "A atropina não pode ser utilizada no tratamento de intoxicação por chumbinho.",
         "D": "O uso de oximas é o tratamento de eleição em qualquer caso.",
-        "E": "As alterações post mortem encontradas na toxicose por chumbinho são bastante características."
+        "E": "As alterações post mortem encontradas na toxicose por chumbinho são bastante características. FGV"
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A determinação de enzimas em laboratório clínico possibilita o diagnóstico e o acompanhamento de diversas patologias. Assinale a opção que indica as enzimas mais utilizadas na avaliação do sistema muscular dos cavalos.",
       "alternatives": {
         "A": "Aldolase (ALD), alanina aminotransferase (ALT) e fosfatase alcalina (FA/ ALP).",
@@ -442,7 +442,7 @@
         "D": "Aldolase (ALD), creatina quinase (CK) e fosfatase alcalina (FA/ ALP).",
         "E": "Alanina aminotransferase (ALT), gama-glutamiltransferase (GGT) e fosfatase ácida (AcP)."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre a urinálise, que possibilita a avaliação da função renal e o diagnóstico de algumas patologias, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O método de coleta de urina por cateterização não deve ser realizado em éguas.",
@@ -459,7 +459,7 @@
         "D": "A urina deve ter aspecto límpido em cães, mas em equinos ela se apresenta normalmente turva.",
         "E": "A urina pode ser analisada 24 horas após a coleta, mesmo se for mantida fora de refrigeração."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "As vacinas conhecidas como V8 usadas na vacinação de cães conferem proteção contra doenças graves e até mortais. Elas também são chamadas de polivalentes e seu reforço é anual. Assinale a opção que indica duas doenças para as quais a vacina V8 confere proteção.",
       "alternatives": {
         "A": "Raiva e leptospirose.",
@@ -476,7 +476,7 @@
         "D": "Parvovirose e leishmaniose.",
         "E": "Cinomose e parvovirose."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A ceratoconjuntivite seca em cães é uma enfermidade ocular grave. Um exame oftálmico de grande valia no diagnóstico dessa enfermidade é a(o)",
       "alternatives": {
         "A": "fundoscopia.",
@@ -493,7 +493,7 @@
         "D": "teste de Schirmer.",
         "E": "teste de fluoresceína."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre a rabdomiólise em equinos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O fornecimento de uma suplementação de vitamina E e selênio é uma boa forma de evitar a rabdomiólise.",
@@ -510,7 +510,7 @@
         "D": "O sistema muscular é o único afetado pela rabdomiólise.",
         "E": "O diagnóstico é feito por observação da sintomatologia e exames laboratoriais, como dosagem de enzimas musculares, são de pouca valia."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A luxação de patela é uma das anormalidades mais comuns que acomete o joelho dos cães. Sobre a luxação de patela, é correto afirmar que",
       "alternatives": {
         "A": "a origem da luxação de patela é congênita e não traumática.",
@@ -527,7 +527,7 @@
         "D": "a luxação de patela acomete apenas cães de porte grande devido ao seu maior peso.",
         "E": "a luxação de patela pode ser dividida em quatro níveis diferentes de gravidade."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre o ciclo estral em cadelas, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Cadelas são poliéstricas estacionais.",
@@ -544,7 +544,7 @@
         "D": "Após a ovulação, a cadela retorna imediatamente a um novo estro caso não haja gestação.",
         "E": "O metaestro é a fase final do ciclo estral na cadela."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -552,16 +552,16 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A gestação múltipla patológica ocorre quando há um número de fetos maior do que o considerado normal para uma determinada espécie. Sobre a gestação gemelar em éguas, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A gestação gemelar é um problema para a saúde da égua, mas os potros não são afetados.",
         "B": "O manejo de gestação gemelar pode ser feito com o auxílio de ultrassonografia, esmagando-se manualmente uma das vesículas embrionárias no corno uterino antes do 17º dia de gestação.",
         "C": "A gestação gemelar ocorre por conta dos protocolos de inseminação artificial utilizados, não sendo uma característica hereditária.",
         "D": "A égua pode voltar para a reprodução após o parto de uma gestação gemelar, pois sua eficiência reprodutiva não é afetada.",
-        "E": "A fixação das vesículas embrionárias ocorre sempre no mesmo corno uterino em casos de gestação gemelar."
+        "E": "A fixação das vesículas embrionárias ocorre sempre no mesmo corno uterino em casos de gestação gemelar. FGV"
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A Insuficiência Renal Crônica (IRC) é a forma mais comum de afecção renal em cães, com maior incidência em animais mais velhos. Sobre a IRC, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A IRC é de caráter adquirido, mas não hereditária.",
@@ -578,7 +578,7 @@
         "D": "A alcalose metabólica é uma alteração comumente encontrada num quadro de IRC.",
         "E": "As alterações neurológicas não fazem parte do quadro de alterações da IRC."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A mudança da alimentação fornecida ao cão acometido por Insuficiência Renal Crônica (IRC) é a base do tratamento para essa enfermidade. A dieta fornecida a um cão com IRC, para estender sua sobrevida, deve",
       "alternatives": {
         "A": "ter restrição proteica e aumento do fornecimento de fosfatos.",
@@ -595,7 +595,7 @@
         "D": "ter restrição proteica e de fosfatos.",
         "E": "ter um aumento de fosfatos e um suplemento de ômega-3."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Um veterinário foi chamado para examinar um equino com claudicação, mas apenas o exame físico não foi suficiente. Como forma de auxiliar seu diagnóstico e descobrir a origem da dor, o veterinário irá realizar um bloqueio anestésico perineural. Sobre o bloqueio regional anestésico em equinos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O anestésico local utilizado deve ser associado com epinefrina.",
@@ -612,7 +612,7 @@
         "D": "O bloqueio anestésico perineural deve ser feito na porção proximal do nervo.",
         "E": "O bloqueio anestésico perineural é muito utilizado quando há suspeita de fratura."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre as propriedades do som no equipamento ultrassonográfico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A velocidade de propagação da onda é diferente nos diversos tecidos.",
@@ -629,7 +629,7 @@
         "D": "A amplitude corresponde ao número de ciclos completos em um segundo.",
         "E": "A frequência corresponde ao tempo necessário para que um ciclo completo ocorra."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Em ultrassonografia, o artefato de imagem em que a interface refletora emite múltiplos ecos, apresentando-se como linhas ecogênicas brilhantes e paralelas e que podem impedir a visualização adequada de órgãos adjacentes, é chamado de",
       "alternatives": {
         "A": "sombreamento lateral.",
@@ -646,7 +646,7 @@
         "D": "reforço acústico posterior.",
         "E": "sombra acústica."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Os meios de contraste são frequentemente utilizados como auxílio no diagnóstico por imagem, permitindo uma melhor visualização de estruturas que não são normalmente observadas em uma radiografia simples. Sobre os meios de contraste, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os agentes de contraste positivo são gases.",
@@ -663,7 +663,7 @@
         "D": "Os contrastes gasosos não devem ser utilizados na bexiga urinária.",
         "E": "O sulfato de bário é um contraste positivo usado para avaliar o trato gastrointestinal."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Cães cardiopatas tendem a apresentar complicações vasculares e cardiorrespiratórias quando são submetidos a um procedimento anestésico. Conhecer os fármacos anestésicos é fundamental para se minimizar os riscos de complicações. Assinale a opção que indica o fármaco mais adequado como medicação pré-anestésica em um cão cardiopata.",
       "alternatives": {
         "A": "Acepromazina.",
@@ -680,7 +680,7 @@
         "D": "Propofol.",
         "E": "Isoflurano."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -688,16 +688,16 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Infecções da ferida cirúrgica são comuns mas podem ter um impacto significativamente negativo sobre a saúde do paciente. Sobre os fatores que influenciam a gravidade da ferida cirúrgica, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A ocorrência de infecção da ferida cirúrgica é maior quando o procedimento cirúrgico é mais longo.",
         "B": "A infecção da ferida cirúrgica manifesta-se em, no máximo, 15 dias após o procedimento cirúrgico.",
         "C": "A administração profilática de antibióticos concomitantemente à cirurgia deve ser evitada.",
         "D": "A infecção da ferida cirúrgica ocorre a partir do momento em que o paciente é submetido ao procedimento, não tendo relação com infecções anteriores ao momento da admissão.",
-        "E": "A infecção de sítio cirúrgico classificada como incisional superficial envolve a pele, subcutâneo e músculos."
+        "E": "A infecção de sítio cirúrgico classificada como incisional superficial envolve a pele, subcutâneo e músculos. FGV"
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "As infecções por grandes estrôngilos tem uma alta incidência em todo o mundo e são responsáveis por grandes perdas na criação de equídeos. Sobre a estrongilose em equinos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A transmissão se dá a partir da ingestão de ovos do parasita presentes em água e pastagens contaminadas.",
@@ -714,7 +714,7 @@
         "D": "A estrongilose é letal para equinos adultos, mas não afeta potros.",
         "E": "A diferenciação de espécies de estrôngilos pode ser feita pela análise da morfologia dos ovos."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A babesiose é uma doença causada por protozoários, sendo que a Babesia canis e Babesia gibsoni podem infectar o cão. Sobre a babesiose, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A Babesia canis e a Babesia gisoni respondem ao tratamento da doença de modo idêntico.",
@@ -731,7 +731,7 @@
         "D": "A babesiose não pode ser diagnosticada em casos de baixa parasitemia.",
         "E": "O diagnóstico da babesiose pode ser confirmado pela demonstração da presença dos protozoários no interior das hemácias"
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "As enfermidades do trato respiratório são as que mais afetam equinos, principalmente as de origem bacteriana. Sobre a doença bacteriana conhecida como garrotilho, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O agente etiológico do garrotilho é a Burkholderia mallei.",
@@ -748,7 +748,7 @@
         "D": "A transmissão se dá por contato com secreções contaminadas, mas não por insetos vetores.",
         "E": "Ainda não existe uma vacina para garrotilho."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "O mormo é uma das mais antigas doenças infectocontagiosas de equídeos e tem especial atenção no campo da saúde pública por se tratar de uma zoonose. Sobre o mormo, assinale a afirmativa correta.",
       "alternatives": {
         "A": "É uma doença que possui uma forma aguda e uma forma crônica.",
@@ -765,7 +765,7 @@
         "D": "A transmissão se dá por inalação de aerossóis, mas não por ingestão.",
         "E": "O agente etiológico é uma bactéria gram-positiva não encapsulada."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A cinomose canina é uma doença viral de importância mundial em cães domésticos. No Brasil, milhares de cães morrem anualmente devido à cinomose, por isso a compreensão desta doença é necessária para um melhor controle e prevenção. Sobre a cinomose canina, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O vírus da cinomose canina é bastante específico, afetando apenas cães.",
@@ -782,7 +782,7 @@
         "D": "O esfregaço sanguíneo não mostra alterações patognomônicas da cinomose.",
         "E": "A cinomose é uma doença de caráter crônico, não aguda."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "As vitaminas são micronutrientes essenciais na dieta e devem ser fornecidas na medida ideal de modo a não acarretar problemas devido à sua deficiência e nem ao seu excesso no organismo. Sobre a deficiência de vitaminas, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A cegueira noturna é um sinal inconfundível de deficiência em vitamina A.",
@@ -799,7 +799,7 @@
         "D": "Fraqueza muscular e problemas reprodutivos são os principais sinais da deficiência de vitamina K.",
         "E": "A deficiência de vitaminas B12 é caracterizada pelo aparecimento de dermatites."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -807,16 +807,16 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "As enterites parasitárias são uma das principais causas de transtornos intestinais em cães, interferindo negativamente no crescimento e saúde desses animais. Sobre a giardíase em cães, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os cistos de Giardia spp rompem-se no duodeno, liberando dois esporozoítos.",
         "B": "Os cistos de Giardia spp começam a ser eliminados pelas fezes, um a dois meses após a infecção.",
         "C": "Os cistos de Giardia spp são frágeis, durando no máximo dez dias no ambiente.",
         "D": "O praziquantel deve ser evitado no tratamento, devido às particularidades da Giardia spp.",
-        "E": "O diagnóstico por detecção de cistos nas fezes nem sempre funciona, porque os pacientes podem eliminar os cistos de maneira intermitente."
+        "E": "O diagnóstico por detecção de cistos nas fezes nem sempre funciona, porque os pacientes podem eliminar os cistos de maneira intermitente. FGV"
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A leptospirose é uma das infecções zoonóticas mais difundidas no mundo e os cães desempenham um papel importante no ciclo da doença, podendo atuar como reservatórios dela. Sobre a leptospirose, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A transmissão se dá por meio da urina e de mordeduras e não por transferência placentária.",
@@ -833,7 +833,7 @@
         "D": "O isolamento da leptospira em amostras clínicas é o único procedimento que permite a identificação do sorovar infectante.",
         "E": "Os testes bioquímicos em um paciente positivo para leptospirose indicam comprometimento hepático e ausência de comprometimento renal."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A leishmaniose visceral humana e canina é endêmica no Brasil e está presente em todas as regiões. O diagnóstico dessa doença é bastante complexo. Sobre o diagnóstico dessa doença, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os achados clínicos da leishmaniose visceral são bastante característicos da doença, não deixando dúvidas quanto ao diagnóstico.",
@@ -850,7 +850,7 @@
         "D": "A reação de imunofluorescência indireta é de grande valor por não apresentar reação cruzada com outras doenças.",
         "E": "Os parâmetros hematológicos não contribuem para o diagnóstico."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "O Dipylidium caninum é um parasita que tem como hospedeiro definitivo o cão. Sobre a dipilidiose, doença causada por este agente, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A transmissão se dá pela picada de pulgas.",
@@ -867,7 +867,7 @@
         "D": "O diagnóstico é trabalhoso, porque não é possível a visualização dos ovos em exame fecal direto.",
         "E": "A forma adulta do parasita é extremamente patogênica, portanto o hospedeiro não aguenta uma grande carga parasitária."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Dentro da área de bem-estar animal, o modelo conhecido como “As 5 Liberdades” é bastante adotado como base para se cumprir as exigências de bem-estar. Existe outro grande modelo semelhante e que tem sido cada vez mais adotado nos últimos anos, dividindo a avaliação do bem-estar animal em aspectos físicos e mentais. Esse modelo é conhecido como",
       "alternatives": {
         "A": "Os Cinco Domínios.",
@@ -884,7 +884,7 @@
         "D": "Corpo e Mente Animal.",
         "E": "Senciência Animal."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A sensibilidade e a especificidade de um teste são usadas para determinar o quanto um teste é eficiente em identificar a presença ou a ausência de uma doença corretamente. Sobre a sensibilidade e a especificidade de um teste, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A sensibilidade trata da proporção de pacientes doentes, mas que testaram negativo para essa doença.",
@@ -901,7 +901,7 @@
         "D": "Testes com alta sensibilidade são ideais para a confirmação de diagnósticos.",
         "E": "Uma baixa especificidade significa que a proporção de resultados negativos verdadeiros é alta."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -909,16 +909,16 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A vigilância epidemiológica compreende uma constante coleção, análise, interpretação e disseminação de dados envolvendo um evento de saúde. Sobre os tipos de vigilância epidemiológica, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O sistema de notificação de doenças é uma forma de vigilância epidemiológica ativa.",
         "B": "A vigilância epidemiológica passiva tem a desvantagem de ser mais custosa do que a ativa.",
         "C": "O inquérito epidemiológico é uma ferramenta da vigilância epidemiológica passiva.",
         "D": "A subnotificação é uma das limitações da vigilância epidemiológica passiva.",
-        "E": "O inquérito epidemiológico é um estudo realizado sempre em uma população total, não em uma amostra."
+        "E": "O inquérito epidemiológico é um estudo realizado sempre em uma população total, não em uma amostra. FGV"
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre o diagnóstico da displasia coxofemoral, doença ortopédica bastante estudada em caninos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O diagnóstico definitivo por exame radiográfico pode ser feito aos 12 meses de idade do animal.",
@@ -935,7 +935,7 @@
         "D": "A posição radiográfica preconizada para o exame de displasia coxofemoral é a dorsoventral.",
         "E": "Os achados radiográficos da displasia coxofemoral em filhotes são muito parecidos com os osteomalácia."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Sobre o diagnóstico de cálculos renais por meio de exames de imagem, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A avaliação ultrassonográfica de cálculos renais tem a desvantagem de provocar grande desconforto em todos os pacientes.",
@@ -952,7 +952,7 @@
         "D": "A ultrassonografia tem melhor desempenho na visualização de cálculos menores que 5 milímetros.",
         "E": "Cálculos de cristais de estruvita são radiotransparentes."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "O tratamento inicial do choque hipovolêmico tem como objetivo repor o volume de líquido perdido e melhorar a perfusão microvascular. Sobre a fluidoterapia feita em pacientes em choque hipovolêmico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Infusões simultâneas de cristaloides e coloides não podem ser feitas.",
@@ -969,7 +969,7 @@
         "D": "O uso de coloides é mais seguro pois não há efeitos colaterais.",
         "E": "Cristaloides não apresentam sódio em sua constituição."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "O choque circulatório pode ser definido como uma falha circulatória com baixo fornecimento de oxigênio aos tecidos, resultando em hipóxia celular. Sobre o choque circulatório, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Todos os danos teciduais resultantes do choque têm sua origem na hipóxia.",
@@ -986,7 +986,7 @@
         "D": "A diminuição do débito cardíaco é um mecanismo compensatório no choque hipovolêmico, na tentativa do organismo de não perder mais líquidos.",
         "E": "O choque séptico é um tipo de choque obstrutivo."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "O parto na espécie equina ocorre de forma razoavelmente rápida, e no caso de algum imprevisto, o médico veterinário deve estar pronto para tomar as medidas necessárias. Sobre os partos na espécie equina, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A distocia de causa materna é a mais comum em equinos.",
@@ -1003,7 +1003,7 @@
         "D": "No parto normal, a estática fetal deve ser apresentação longitudinal anterior, posição superior e atitude estendida.",
         "E": "As manobras obstétricas de correção devem ser consideradas somente em caso de impossibilidade de ser feita a cesariana."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1011,16 +1011,16 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A erliquiose é uma doença infecciosa que acomete cães e cuja transmissão se dá pela picada do carrapato Rhipicephalus sanguineus, caso este esteja infectado. Sobre a erliquiose, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O agente etiológico da erliquiose é um protozoário.",
         "B": "O período de incubação da erliquiose é lento, sendo em média de dois meses.",
         "C": "A detecção de anticorpos pode ser utilizada como diagnóstico definitivo para a erliquiose.",
         "D": "O agente da erliquiose se reproduz nas hemácias.",
-        "E": "Na fase crônica da erliquiose, devido ao comprometimento imunológico, os animais ficam muito suscetíveis a novas infecções. QUESTÃO DISSERTATIVA A Biossegurança pode ser definida como “um conjunto de medidas e procedimentos técnicos necessários para a manipulação de agentes e materiais biológicos capazes de prevenir, reduzir, controlar ou eliminar riscos inerentes às atividades que possam comprometer a saúde humana, animal, vegetal e o meio ambiente” e a avaliação de risco é uma importante contribuição para as medidas de biossegurança. A avaliação de risco de agentes biológicos considera critérios que permitem o reconhecimento, a identificação e a probabilidade do dano decorrente destes, estabelecendo sua classificação em classes de risco distintas de acordo com a gravidade dos danos. A natureza do agente biológico é um exemplo de critério de risco: bactérias, vírus, fungos e protozoários se comportam de maneira diferente, portanto diferentes medidas e estratégias devem ser adotadas para lidar de modo mais adequado com esses agentes. Sobre os critérios para avaliação de risco dos agentes biológicos, responda aos itens a seguir. A) Cite cinco critérios para avaliação de risco dos agentes biológicos. B) Explique a relação de cada critério citado com o risco. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 16 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 17 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 18 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 20 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 21 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 22 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 23 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 24 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 25 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 26 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 27 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 28 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 29 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 30 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+        "E": "Na fase crônica da erliquiose, devido ao comprometimento imunológico, os animais ficam muito suscetíveis a novas infecções. FGV QUESTÃO DISSERTATIVA A Biossegurança pode ser definida como “um conjunto de medidas e procedimentos técnicos necessários para a manipulação de agentes e materiais biológicos capazes de prevenir, reduzir, controlar ou eliminar riscos inerentes às atividades que possam comprometer a saúde humana, animal, vegetal e o meio ambiente” e a avaliação de risco é uma importante contribuição para as medidas de biossegurança. A avaliação de risco de agentes biológicos considera critérios que permitem o reconhecimento, a identificação e a probabilidade do dano decorrente destes, estabelecendo sua classificação em classes de risco distintas de acordo com a gravidade dos danos. A natureza do agente biológico é um exemplo de critério de risco: bactérias, vírus, fungos e protozoários se comportam de maneira diferente, portanto diferentes medidas e estratégias devem ser adotadas para lidar de modo mais adequado com esses agentes. Sobre os critérios para avaliação de risco dos agentes biológicos, responda aos itens a seguir. A) Cite cinco critérios para avaliação de risco dos agentes biológicos. B) Explique a relação de cada critério citado com o risco. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 16 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 17 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 18 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 20 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 21 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 22 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 23 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 24 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 25 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- FGV 26 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 27 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 28 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 29 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 30 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,

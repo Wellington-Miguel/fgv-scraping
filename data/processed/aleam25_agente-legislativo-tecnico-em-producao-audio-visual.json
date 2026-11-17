@@ -168,7 +168,7 @@
         "B": "“Podia ser um simples descargo de consciência, uma cerimônia, como as rezas de obrigação, sem devoção, que se dizem de tropel;” / modo",
         "C": "“Uma noite destas, vindo da cidade para o Engenho Novo, encontrei no trem da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu.” / assunto",
         "D": "“A gravata de cetim preto, com um arco de aço por dentro, imobilizava-lhe o pescoço; era então moda.” / natureza, condição",
-        "E": "“Cumprimentou-me, sentou-se ao pé de mim, falou da Lua e dos ministros, e acabou recitando-me versos.” / causa Raciocínio Lógico e Matemático"
+        "E": "“Cumprimentou-me, sentou-se ao pé de mim, falou da Lua e dos ministros, e acabou recitando-me versos.” / causa"
       },
       "answer": "B",
       "annulled": false,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere o conjunto {2, 4, 6, 8, 10, 12} e o seguinte procedimento, composto de 3 etapas em sequência: • Escolha 3 números diferentes desse conjunto; • Some 2 quaisquer desses 3 números; • Multiplique a soma obtida pelo 3º número. O menor resultado possível de ser obtido com esse procedimento é igual a",
       "alternatives": {
         "A": "18.",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em 2025, os organizadores de um evento chamado Limpeza das Praias reuniu 400 colaboradores. Os organizadores esperam que em 2026, 2027 e 2028 o número de colaboradores cresça 50% a cada ano em relação ao ano anterior. Em 2028, o número de colaboradores esperado pelos organizadores será igual a",
       "alternatives": {
         "A": "1000.",
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Cinco pessoas, com nomes diferentes, formam uma fila de forma aleatória. A probabilidade de que, do primeiro ao quinto da fila, os nomes estejam em ordem alfabética é igual a",
       "alternatives": {
         "A": "1/2.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em cada um dos 64 quadradinhos de um tabuleiro de xadrez é colocado um dos 64 primeiros números ímpares (1, 3, 5, 7, ...). Os 8 primeiros números ímpares são colocados em ordem na primeira linha, os 8 seguintes em ordem na segunda linha e assim por diante. A soma dos 4 números que ficaram nos 4 cantos do tabuleiro equivale a",
       "alternatives": {
         "A": "252.",
@@ -246,14 +246,14 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere o conjunto {17, 27, 36, 48, 64, 75}. O número de subconjuntos com 3 elementos diferentes do conjunto dado tais que a soma dos 3 elementos seja par é:",
       "alternatives": {
         "A": "6.",
         "B": "8.",
         "C": "9.",
         "D": "10.",
-        "E": "18. Noções de Informática"
+        "E": "18."
       },
       "answer": "D",
       "annulled": false,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um usuário precisa inserir uma tabela do MS Excel 365 (BR) em um documento do MS Word 365 (BR), mantendo uma conexão dinâmica (vinculação) entre os arquivos, de modo que as alterações realizadas feitas no arquivo de origem (.XLSX) sejam refletidas automaticamente no documento de destino (.DOCX) quando este for aberto. Para realizar essa tarefa de forma correta, o usuário deve",
       "alternatives": {
         "A": "copiar a tabela no Excel e, no Word, usar o comando “Colar Especial”, selecionando a opção “Objeto da Planilha do Microsoft Excel” e marcar a caixa de seleção “Colar Link”.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Com relação às funcionalidades do MS Excel 365 (BR), avalie as afirmativas a seguir. I. A função =SOMA(A1:A10) irá resultar em um erro #VALOR! se o intervalo A1:A10 contiver quaisquer células com texto. II. A aplicação de um Filtro Automático a um intervalo de dados permite ocultar linhas que não atendam aos critérios especificados, sem excluí-las. III. A proteção de uma planilha (Proteger Planilha) e a proteção da pasta de trabalho (Proteger Estrutura da Pasta) são ações distintas, sendo a primeira voltada para restringir a edição de células e a segunda para impedir a inserção, exclusão ou renomeação de planilhas. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Sobre os conceitos de segurança na Internet, avalie as afirmativas a seguir. I. Tokens de segurança, que podem ser dispositivos físicos ou aplicativos, geram senhas de uso único (OTP) e constituem um fator de autenticação de posse. II. Senhas consideradas fortes são caracterizadas, obrigatoriamente, pela inclusão de caracteres especiais (ex: @, #, $) e pela impossibilidade de serem compostas por palavras encontradas em dicionários. III. A criptografia garante a confidencialidade dos dados, transformando-os em um formato ilegível para quem não possui a chave de descriptografia. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um analista legislativo está finalizando a minuta de um projeto de lei no MS Word 365 (BR). Ele precisa enviar o documento para um parecer jurídico, permitindo que o jurista sugira alterações, mas sem que este possa aceitar ou rejeitar as revisões automaticamente, nem modificar o texto original diretamente. Além disso, o documento final deve ser protegido contra a remoção acidental do controle de alterações. Assim, a sequência de ações mais adequada para atender a essa necessidade é habilitar",
       "alternatives": {
         "A": "“Controlar Alterações” na guia Revisão e, em seguida, em “Restringir Edição”, marcar a opção “Aplicar apenas este tipo de edição no documento” e selecionar “Marcações”.",
@@ -331,14 +331,14 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Noções de Informática",
       "statement": "Um servidor público da ALE-AM, está organizando o acervo digital de uma comissão parlamentar. Ele precisa selecionar os formatos de arquivo mais adequados para diferentes finalidades. Considerando as características técnicas de cada padrão, avalie os tipos de formato de arquivos que o servidor deve organizar. • Documento oficial que deve ser distribuído internamente e externamente, mantendo formatação idêntica em qualquer dispositivo, sem permitir alterações não autorizadas. • Planilha de custos que requer fórmulas complexas, formatação condicional e possibilidade de edição colaborativa em tempo real. • Imagem do brasão institucional para uso no site oficial, necessitando de fundo transparente e alta definição em diferentes tamanhos. • Gravação audiovisual de uma sessão solene que será armazenada e transmitida online, equilibrando qualidade visual e tamanho de arquivo. • Arquivo de áudio de uma entrevista para arquivamento permanente, onde a qualidade original deve ser preservada integralmente. Os tipos de arquivos apresentados são corretamente identificados, respectivamente, pelas seguintes extensões:",
       "alternatives": {
         "A": "DOCX, XLSX, JPEG, MP4 e WAV.",
         "B": "PDF, XLSX, PNG, MP4 e FLAC.",
         "C": "PDF, CSV, GIF, AVI e MP3.",
         "D": "TXT, XLSX, BMP, MOV e WMA.",
-        "E": "PDF, ODS, SVG, WMV e AAC. História e Geografia do Amazonas"
+        "E": "PDF, ODS, SVG, WMV e AAC."
       },
       "answer": "B",
       "annulled": false,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Leia o trecho a seguir. Os etnoarqueólogos buscam criar uma parceria com as populações locais atuais para responder a problemas da história antiga. Para a sua investigação, o pesquisador coletou dados através de entrevistas com anciões de aldeias amazônicas que reproduzem práticas muito parecidas com as das antigas populações da região, como o uso de terra preta de índio. As semelhanças entre terras pretas antigas e modernas vão dos locais em que são usadas em relação às habitações até a composição química. Adaptado de Conterno, Ivan. “Adubo pré-histórico foi planejado por indígenas da Amazônia no passado”, Jornal da USP, 11/10/2023. Com base na leitura do trecho, assinale a afirmativa que descreve corretamente a terra preta de índio.",
       "alternatives": {
         "A": "Solo com camadas escuras na parte superficial, formadas por mudanças químicas causadas pela ação humana, mas sem vestígios de objetos ou materiais.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Assinale a afirmativa que apresenta corretamente uma consequência da criação da província do Amazonas em 1850.",
       "alternatives": {
         "A": "Estabeleceu sua total autonomia política perante o Estado brasileiro, fortalecendo o desenvolvimento econômico da região produtora e exportadora de madeira.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "O estado do Amazonas apresenta uma rica diversidade de patrimônios históricos, artísticos e culturais que refletem sua formação plural. Manaus se destaca com construções emblemáticas que coexistem com manifestações culturais contemporâneas, como festas e eventos artísticos. Essa multiplicidade de heranças faz do Amazonas um espaço de encontro entre natureza, história e cultura, essencial para compreender a trajetória e a riqueza cultural da região amazônica. Assinale a afirmativa que apresenta corretamente um patrimônio tombado do Amazonas.",
       "alternatives": {
         "A": "Cerimônia da Kamélia – patrimônio imaterial protegido por representar o encerramento das festividades de carnaval na capital do estado.",
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "O Amazonas registrou um crescimento populacional significativo desde 2010. Segundo a Estimativa da População Residente do IBGE de julho de 2024, o estado conta agora com aproximadamente 4,28 milhões de habitantes, representando um acréscimo de cerca de 340 mil em relação ao Censo de 2022. Com base nos dados relativos ao crescimento populacional do estado, é correto afirmar que esse processo",
       "alternatives": {
         "A": "decorre da migração interna motivada pela oferta de empregos e pela expansão urbana da capital, que atrai população de outras regiões do país.",
@@ -416,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "História e Geografia do Amazonas",
       "statement": "Analise as afirmativas a seguir sobre as mesorregiões do Amazonas, assinale (V) para as verdadeiras e (F) para as falsas. ( ) A Mesorregião Norte do Amazonas caracteriza-se por atividades extrativistas e significativa presença de comunidades indígenas, que mantém práticas de subsistência. ( ) A Mesorregião Centro Amazonense apresenta alta densidade populacional e concentração de núcleos urbanos e processo de industrialização. ( ) A Mesorregião Sul Amazonense é marcada por extensas áreas de floresta, baixo adensamento populacional e predominância de atividades agrícolas e pecuárias. A sequência correta, segundo a ordem apresentada, é:",
       "alternatives": {
         "A": "V – V – F.",
         "B": "V – F – V.",
         "C": "F – F – V.",
         "D": "F – V – F.",
-        "E": "V – V – V. Legislação do Estado do Amazonas"
+        "E": "V – V – V."
       },
       "answer": "E",
       "annulled": false,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em relação ao ato da transferência, de acordo com a Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, avalie se as afirmativas a seguir estão corretas: I. Transferência é o ato pelo qual o funcionário estável passa de um cargo para outro, de quadro diverso, ambos de provimento efetivo. II. A transferência ocorrerá a pedido do funcionário ou \"ex- officio\", atendidos, sempre, a conveniência do serviço e os requisitos necessários ao provimento do cargo. III. A transferência será feita para cargo de mesmo padrão de vencimento ou de igual remuneração, ressalvados os casos de transferência a pedido, quando o vencimento ou a remuneração poderá ser inferior. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 250 da Lei nº 1.762/86 – Estatuto dos Servidores Públicos do Estado do Amazonas, ao funcionário são proibidas, entre outras, as seguintes ações, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Referir-se de modo depreciativo ou desrespeitoso em informação, parecer ou despacho, às autoridades e a atos da Administração Pública, sendo vedado, ainda, criticá-los do ponto de vista doutrinário ou da organização do serviço em trabalho assinado.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 36 da Resolução Legislativa nº 469/2010 – Regimento Interno da Assembleia Legislativa do Estado do Amazonas, o opinativo escrito por um relator e submetido à deliberação de Comissão, devendo concluir pela aprovação ou rejeição de matéria a ela sujeita é denominado",
       "alternatives": {
         "A": "relatório.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com o Art. 50 da Resolução Legislativa nº 469/2010 – Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as Comissões Temporárias são: I. especiais. II. de inquérito. III. de representação externa. IV. representativa. Estão corretos os itens",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com base na Resolução Legislativa nº 469/2010 –Regimento Interno da Assembleia Legislativa do Estado do Amazonas, avalie se as seguintes afirmativas a respeito das Lideranças Partidárias, do Colégio de Líderes e dos Blocos Parlamentares são verdadeiras (V) ou falsas (F). ( ) Os Deputados são agrupados por partidos, blocos ou bancadas, cabendo-lhes escolher um líder, que funciona como porta-voz ou interlocutor perante os órgãos da Assembleia. ( ) Cada grupamento parlamentar poderá ter até dois vice- líderes, conforme o número de Deputados, os quais terão os mesmos direitos, vantagens e prerrogativas do líder, salvo quanto ao Chefe de Gabinete de Liderança. ( ) As escolhas e alterações dos grupos e das respectivas lideranças são comunicadas imediatamente à Mesa, devendo ocorrer a primeira indicação, logo após o início da sessão legislativa. Não havendo indicação, o Presidente pode declarar líder provisório o Deputado mais idoso da representação ( ) O chefe do Poder Executivo pode designar o Líder do Governo, e até dois Vice-Líderes, dentre os Deputados que representem a bancada da situação na Assembleia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V – V.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a gravação de um programa de TV em estúdio, a equipe de som precisa garantir clareza do diálogo e fluidez da produção, evitando interferências no enquadramento e ruídos indesejados. Considerando as técnicas de captação de som direto amplamente utilizadas no audiovisual, analise as afirmativas a seguir: I. Plantar um microfone direcional (shotgun), apontado para o teto, pois a reverberação do ambiente melhora a inteligibilidade da fala. II. Operar o boom por baixo, apontando o microfone para a boca dos atores, quando algo dificulta a captação por cima. III. Fixar microfones de lapela discretamente no corpo dos atores, reduzindo ruídos do ambiente e mantendo a mobilidade. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Ao pegar a câmera para iniciar uma captação profissional, o procedimento que deve ser prioritário no checklist do operador, antes mesmo dos ajustes de enquadramento e exposição, é",
       "alternatives": {
         "A": "verificar bateria, mídia (cartão/SSD) e status de gravação, confirmando que a câmera tem recursos para registrar as imagens com segurança.",
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Avalie as afirmativas sobre os tipos de padrões de captação utilizados em produção audiovisual, assinalando (V) para as verdadeiras e (F) para as falsas: ( ) O padrão omnidirecional capta o som igualmente em 360°, sendo indicado para ambiência ou quando a fonte pode se mover ao redor do microfone. ( ) O padrão bidirecional (figura 8) possui captação frontal e traseira, com forte rejeição lateral, adequado para entrevistas frente a frente. ( ) O padrão cardioide tem baixa sensibilidade frontal e maior captação na parte traseira, sendo pouco indicado para voz ao vivo. ( ) O padrão hipercardioide é altamente direcional, com foco acentuado na frente, sendo comum em microfones do tipo “shotgun”. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a gravação de um podcast, o apresentador utiliza fones de ouvido fechados (closed-back). A principal vantagem desse tipo de monitoramento, nesse contexto, é",
       "alternatives": {
         "A": "permitir que o apresentador escute sua voz com reverberação natural, aproveitando o som ambiente do estúdio.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em qualquer formato de comunicação — do cinema à televisão, do rádio aos podcasts — a qualidade do áudio é determinante para que a mensagem seja compreendida com clareza. As mesas de som têm um papel de suma importância na boa captação e controle do som, possibilitando que vozes, trilhas e efeitos sejam ajustados com precisão, garantindo resultados profissionais em gravações e transmissões. Relacione os controles de um canal da mesa de som listados abaixo com suas respectivas funções técnicas: 1. Controle de Ganho (Gain) 2. Controle de Volume (Fader) 3. Equalizador (EQ) 4. Panorâmica (Pan) 5. Mute ( ) Silencia o canal, interrompendo o áudio sem alterar os demais ajustes. ( ) Define o nível final do canal enviado para a saída principal ou grupos. ( ) Ajusta o nível de entrada do sinal para evitar ruído ou distorção. ( ) Ajusta as frequências graves, médias e agudas, moldando o timbre do som. ( ) Posiciona o som entre os canais esquerdo e direito da mix estéreo. Assinale a alternativa que apresenta a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "2 – 1 – 3 – 4 – 5.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Na gravação de entrevistas para um podcast em estúdio, o técnico de som optou por um microfone com padrão polar cardioide, adequado para privilegiar a captação da voz do apresentador enquanto minimiza ruídos indesejados do ambiente. Esse padrão corresponde a uma direcionalidade",
       "alternatives": {
         "A": "bidirecional, com captação simultânea de frente e trás.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Em uma gravação de entrevista presencial para um podcast, dois participantes estão sentados um de frente para o outro, sem uso de boom ou lapelas. O técnico optou pelo uso de um microfone com padrão polar Figura-8. Com relação ao posicionamento desse microfone, analise as afirmativas a seguir. I. O microfone deve ser posicionado entre os participantes, com um dos lóbulos direcionado para o entrevistado e o outro para o entrevistador, aproveitando a sensibilidade frontal e traseira do padrão Figura-8. II. O microfone deve ser suspenso acima da cabeça dos participantes, pois esse padrão prioriza a captação vertical e rejeita a voz que vem do plano horizontal. III. O microfone deve ser orientado lateralmente para captar apenas as reflexões das paredes do estúdio, minimizando a voz direta. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Os arquivos de áudio e de vídeo utilizam sistemas de codificação específicos para que possam ser manipulados e processados pelos softwares de edição e reprodução. Nesse processo, os CODECS servem para",
       "alternatives": {
         "A": "aumentar automaticamente a resolução do vídeo para qualquer tela.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "MOV e MP4 são formatos de arquivo que podem armazenar vídeo, áudio e metadados, mas possuem características distintas quanto à compatibilidade e ao uso em diferentes etapas do fluxo de trabalho audiovisual. Considerando essas diferenças, avalie as afirmativas a seguir: I. O MOV, desenvolvido pela Apple, costuma gerar arquivos maiores e mais adequados para edição em softwares profissionais, enquanto o MP4 é mais compacto e amplamente aceito por plataformas de streaming e dispositivos diversos. II. MOV e MP4 não podem conter o mesmo codec de vídeo (como o H.264), e o MOV é o formato preferido para distribuição final por apresentar maior portabilidade. III. Em muitos casos, para facilitar o compartilhamento online, vídeos exportados em MOV precisam ser convertidos para MP4. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A imagem a seguir ilustra uma repórter em estúdio de televisão sob iluminação profissional. Observe atentamente como luzes, sombras e contornos do rosto estão organizados, conforme um esquema de iluminação bastante comum em produções audiovisuais e telejornalismo. Imagem gerada por IA com Bing Image Creator (DALL·E 3), via Microsoft Designer, 2025. Com base na análise da Iluminação da Imagem, assinale a opção que descreve corretamente o esquema utilizado.",
       "alternatives": {
         "A": "Luz de três pontos — luz principal modelando o rosto, luz de preenchimento suavizando as sombras e contraluz destacando o contorno da personagem.",
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O difusor de luz é um acessório amplamente utilizado em iluminação para vídeo. Sua principal função é",
       "alternatives": {
         "A": "concentrar o feixe luminoso para aumentar o contraste e destacar sombras.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "As \"gelatinas corretivas\" (ou filtros de correção de cor) são essenciais para harmonizar diferentes fontes de luz e garantir que sua câmera capture as cores de forma neutra e correta Relacione o tipo de gelatina utilizada com sua finalidade: 1. CTB (Color Temperature Blue) 2. CTO (Color Temperature Orange) 3. ND (Neutral Density) ( ) Converte temperatura de cor de luz do dia para tonalidade de tungstênio mais quente. ( ) Reduz a intensidade (brilho) da luz sem alterar a cor. ( ) Converte temperatura de cor de luz tungstênio (aprox. 3200 K) para balanço de cor de luz do dia (aprox. 5600 K). Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "1 – 3 – 2.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O movimento de câmera é um recurso fundamental na linguagem audiovisual, podendo alterar a percepção do espectador sobre o espaço e a narrativa. Considerando os principais tipos de movimento, assinale a opção que apresenta corretamente a relação entre movimento e sua descrição e/ou função.",
       "alternatives": {
         "A": "Panorâmica (pan) — deslocamento físico da câmera para frente ou para trás, aproximando ou afastando o espectador da ação.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "De acordo com regras básicas de enquadramento, com relação ao espaço entre o topo da cabeça do personagem e o limite superior do quadro, analise as afirmativas a seguir: I. Um leve espaço acima da cabeça evita que o enquadramento pareça acidental ou desconfortável. II. Um excesso de respiro pode fazer com que o personagem pareça “afundado” no quadro, perdendo presença. III. Zero de respiro é sempre o ideal em entrevistas, pois transmite maior foco psicológico. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com relação ao ajuste de exposição em câmeras de vídeo, avalie as afirmativas a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa: ( ) Fechar o diafragma (aumentar o número f) diminui a quantidade de luz que entra na câmera, ajudando a evitar áreas estouradas. ( ) Aumentar o ISO reduz a superexposição, pois diminui a sensibilidade do sensor à luz. ( ) Diminuir a velocidade do obturador reduz a luz captada e pode corrigir imagens excessivamente claras. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a cobertura ao vivo de um evento para televisão, rádio ou plataformas web, é essencial que o sinal captado pelas câmeras e microfones seja convertido e enviado em tempo real para o centro de produção, garantindo baixa latência e estabilidade no fluxo de dados. Para isso, utiliza-se um sistema de",
       "alternatives": {
         "A": "renderização gráfica off-line.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante uma cobertura jornalística externa no modelo ENG (Electronic News Gathering), a equipe precisa transmitir imagens em tempo real diretamente do local do evento, com rapidez e mobilidade, sem depender de estruturas fixas ou veículos especializados. Nessa situação, o equipamento mais adequado para o envio do sinal de áudio e vídeo é",
       "alternatives": {
         "A": "utilizar o armazenamento local na câmera, para envio posterior à emissora.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Relacione o tipo de cabo ou conector à sua principal aplicação técnica. 1. XLR 2. HDMI 3. BNC 4. P2 TRRS ( ) Conexão de áudio em dispositivos móveis e microfones para smartphones. ( ) Transmissão de vídeo profissional SDI com travamento e estabilidade em longas distâncias. ( ) Transmissão digital de áudio e vídeo em câmeras, TVs e monitores sem necessidade de conversores. ( ) Conexão balanceada de microfones profissionais com alimentação por phantom power. A relação correta, na ordem apresentada, é:",
       "alternatives": {
         "A": "1 – 3 – 2 – 4.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "A conservação correta dos equipamentos é fundamental para garantir vida útil, segurança operacional e qualidade na captação. Sobre o assunto, analise as seguntes afirmativas: I. Microfones devem ser armazenados em local seco e ventilado, evitando umidade que possa comprometer os componentes internos. II. Cabos não devem ser enrolados com dobra em formato de 8, pois isso pode danificar os condutores e reduzir a vida útil. III. Lentes e sensores podem ser limpos com qualquer pano, desde que seco, já que tecidos comuns não danificam os revestimentos ópticos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com relação ao uso de delay em transmissões ao vivo, avalie as afirmativas a seguir e assinale (V) para a afirmativa verdadeira e (F) para a falsa. ( ) O delay permite correções e cortes rápidos antes da imagem ir ao ar, reduzindo o risco de exibição de conteúdo inadequado. ( ) O delay pode ser usado para sincronizar sinais provenientes de diferentes fontes de áudio e vídeo. ( ) O delay elimina completamente a necessidade de controle de tempo pela equipe de produção durante o ao vivo. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – V.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Relacione o tipo de item armazenado no sistema de catalogação com a respectiva finalidade de indexação: 1. Palavra-chave 2. Marcações de tempo 3. Créditos da obra ( ) Permite localizar rapidamente trechos específicos dentro de um mesmo material audiovisual. ( ) Identifica quem participou da obra e os direitos de utilização. ( ) Auxilia na recuperação de conteúdos por termos relevantes dentro da narrativa. Assinale a opção que indica a relação correta na ordem apresentada",
       "alternatives": {
         "A": "2 – 3 – 1.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O processo de elaboração de textos para jornalismo em rádio e televisão deve considerar as características específicas da transmissão e o modo como o público consome a informação nessas mídias. Alguns princípios orientam essa escrita profissional, garantindo que a mensagem seja absorvida de maneira eficiente e sem ruídos. O princípio fundamental da elaboração de texto para rádio e televisão é",
       "alternatives": {
         "A": "priorizar vocabulário rebuscado e frases longas para elevar o nível de formalidade do conteúdo.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O documento que organiza as informações técnicas e de conteúdo, indicando entradas de áudio, imagens, falas e tempos de cada bloco, utilizado como guia de gravação e exibição, é",
       "alternatives": {
         "A": "o story map.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Relacione cada elemento narrativo, fundamental para a construção da credibilidade e do ritmo em uma reportagem de telejornal, com a sua função estratégica e seu papel específico na relação entre imagem, som e presença do jornalista. 1. Off 2. Sonora 3. Passagem ( ) Sua função primária é ancorar a credibilidade e a presença do jornalista no ambiente factual, servindo como um ponto de inflexão ou síntese da narrativa. ( ) Constitui a prova documental e auditiva da fonte primária da notícia. É o elemento que interrompe a narração do repórter para dar voz ao protagonista, conferindo veracidade e polifonia ao discurso ( ) Sua essência é ser descritiva e interpretativa, permitindo que o espectador se concentre nas imagens, enquanto a voz do jornalista preenche as lacunas informativas e estabelece o fio condutor da história. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "O radiojornalismo utiliza elementos variados para garantir informação com clareza e ritmo. Com relação aos elementos do radiojornal, analise os itens a seguir. I. Vinhetas ajudam a identificar quadros e criar organização sonora do programa. II. O silêncio absoluto deve ser evitado em qualquer situação, pois sempre é interpretado como falha técnica. III. Boletins, colunas e entradas ao vivo fazem parte da estrutura típica do radiojornal. Está correto o que se afirma em",
       "alternatives": {
         "A": "II e III, apenas.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Um produtor envia o seguinte texto para um boletim de rádio sobre uma ocorrência no centro da cidade: O trânsito está complicado agora. A situação continua muito difícil por aqui e ninguém consegue passar. O editor-chefe interrompe a gravação e pede a correção imediata antes da veiculação. Considerando os princípios do roteiro para rádio, a falha principal desse texto reside no fato de que",
       "alternatives": {
         "A": "há excesso de detalhes visuais que o ouvinte não tem como acompanhar.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "No contexto do Gerenciamento de Ativos de Mídia (MAM), o processo de Catalogação e Metadados é essencial para a eficiência operacional de qualquer redação ou produtora. A função primordial desse processo na gestão de arquivos de áudio e vídeo é",
       "alternatives": {
         "A": "definir e gerenciar o fluxo de trabalho (workflow) de edição, indicando quem deve aprovar cada etapa do processo, desde a decupagem até a finalização da matéria.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Com relação à Edição Não Linear (ENL) de áudio e vídeo, que revolucionou a pós-produção, assinale (V) para a afirmativa Verdadeira e (F) para a Falsa. ( ) A principal vantagem da Edição Não Linear está na capacidade de acessar instantaneamente qualquer ponto do material gravado e de alterar a ordem dos clipes na timeline sem a necessidade de regravar o conteúdo subsequente, diferentemente da edição linear em fita. ( ) Um sistema de ENL armazena o arquivo de mídia original diretamente no software de edição; portanto, a manipulação do vídeo e do áudio feita pelo editor é destrutiva, alterando permanentemente os dados da fonte original. ( ) A Edição Não Linear permite a sobreposição e manipulação de múltiplas trilhas de áudio e vídeo simultaneamente, facilitando a aplicação de efeitos, correção de cor e a mixagem sonora complexa sem a perda de sincronia. ( ) Para que um sistema de ENL funcione, não é necessário que o material de origem (como fitas ou arquivos brutos) passe por um processo de Ingestão (ou Captura), para converter o conteúdo em arquivos digitais já que o ENL é universal e aceita todo e qualquer formato de mídia. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V – V.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Observe a imagem abaixo, que representa uma timeline de edição em um software NLE (edição não linear), contendo trilhas de vídeo e de áudio organizadas verticalmente. (Arquivo pessoal - imagem usada com autorização) Com base no padrão profissional de organização de mídia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Elementos em trilhas superiores se sobrepõem aos das trilhas inferiores quando ocupam o mesmo intervalo temporal.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação do Estado do Amazonas",
       "statement": "Durante a preparação de arquivos de áudio para edição em um software NLE, um editor precisa converter um conjunto de trilhas originalmente capturadas a 44.1 kHz para o padrão profissional de vídeo, evitando artefatos na reprodução e garantindo compatibilidade com o projeto. Considerando as boas práticas de pós-produção, a medida correta a ser adotada é",
       "alternatives": {
         "A": "diminuir a taxa de amostragem para 22.05 kHz, reduzindo ruídos de alta frequência e economizando espaço.",

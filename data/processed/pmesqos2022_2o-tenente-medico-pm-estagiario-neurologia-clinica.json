@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Polícia Militar do Estado de São Paulo - Oficiais do Quadro de Saúde",
   "cargo_title": "2º Tenente Médico PM Estagiário - Neurologia Clínica",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -17,7 +17,7 @@
         "D": "Os habitantes das grandes cidades, por terem menos contato com a educação familiar, cometem muitos delitos.",
         "E": "Os habitantes das pequenas cidades, por serem em número bem menor, estatisticamente cometem menos delitos."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -34,7 +34,7 @@
         "D": "narra, com diferentes focos, alguns momentos da viagem de um veleiro que atravessa uma tempestade.",
         "E": "relata uma ocorrência casual, com trágico destino, explicada pelo descaso em relação à vida humana."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -51,7 +51,7 @@
         "D": "O processo de transformação do estado inicial é representado pelo fato de o policial perseguir os suspeitos.",
         "E": "O estado final da narrativa é o de o policial ter sofrido um ataque cardíaco."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -66,9 +66,9 @@
         "B": "“Por quê” aparece grafado desse modo porque é um interrogativo e está antes do ponto.",
         "C": "Ao dizer “a guia” o guarda supõe que o outro sabe de que documento se trata.",
         "D": "Ao dizer “Guia”, o personagem Oscar mostra que está escondendo alguma coisa.",
-        "E": "Ao dizer “uma guia”, o guarda reconhece que Oscar não sabe do que ele está falando. Noções Básicas de Informática"
+        "E": "Ao dizer “uma guia”, o guarda reconhece que Oscar não sabe do que ele está falando. FGV"
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -76,7 +76,7 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Noções Básicas de Informática",
       "statement": "Gabriel utiliza o Windows 10 no seu notebook, e gostaria que os arquivos com a extensão “.txt” fossem abertos, por default, pelo aplicativo WordPad. Para alcançar esse objetivo, Gabriel deve usar o menu Iniciar do Windows e seguir por meio das opções",
       "alternatives": {
         "A": "Acessórios do Windows/Bloco de Notas.",
@@ -85,7 +85,7 @@
         "D": "Ferramentas Administrativas do Windows/Monitor de Recursos.",
         "E": "Personalização/Configurações."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -93,7 +93,7 @@
     },
     {
       "question_number": 6,
-      "discipline": null,
+      "discipline": "Noções Básicas de Informática",
       "statement": "No âmbito do Excel 2010 em português, assinale a opção que apresenta a fórmula digitada na célula B2 de uma planilha que está incorretamente formulada.",
       "alternatives": {
         "A": "=MAIOR(B1:B20;1)",
@@ -102,24 +102,24 @@
         "D": "=SOMA(A1:C5)",
         "E": "=SOMA(SOMA(A1:A2);SOMA(A3:A30))"
       },
-      "answer": null,
-      "annulled": false,
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 3
     },
     {
       "question_number": 7,
-      "discipline": null,
+      "discipline": "Noções Básicas de Informática",
       "statement": "Na edição de um documento por meio do Word 2010, as Quebras de Seção têm um papel importante quando é preciso",
       "alternatives": {
         "A": "estabelecer o espaçamento “antes” e “depois” de cada parágrafo.",
         "B": "inserir caixas de texto.",
         "C": "inserir legendas em imagens.",
         "D": "mesclar células numa tabela.",
-        "E": "utilizar cabeçalhos e/ou rodapés diferentes em certos trechos do documento. Noções de Administração Pública"
+        "E": "utilizar cabeçalhos e/ou rodapés diferentes em certos trechos do documento."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -127,7 +127,7 @@
     },
     {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "A segurança pública tem como fundamento básico a proteção do Estado Democrático de Direito, devendo ser desenvolvida, no limite da lei, por órgãos públicos e pela própria sociedade, por meio de aplicação de medidas preventivas e corretivas. Conforme previsto na Constituição Federal de 1988, cabe, às polícias militares",
       "alternatives": {
         "A": "a função de polícia judiciária e a apuração de infrações penais.",
@@ -136,7 +136,7 @@
         "D": "a segurança dos estabelecimentos penais e o patrulhamento das rodovias.",
         "E": "a proteção dos bens públicos e a execução da defesa civil."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -144,7 +144,7 @@
     },
     {
       "question_number": 9,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Em conformidade com a Constituição do Estado de São Paulo, é correto afirmar que o Comandante-Geral da Polícia Militar será",
       "alternatives": {
         "A": "nomeado pelo Governador, dentre os oficiais da ativa da Polícia Militar de São Paulo ocupantes do último posto do quadro.",
@@ -153,7 +153,7 @@
         "D": "escolhido pelo Governador, entre qualquer cidadão brasileiro com idoneidade moral e reputação ilibada, após sabatina da Assembleia Legislativa.",
         "E": "escolhido pelos pares, após apresentação de lista sêxtupla proposta pelo Governador, parlamentares estaduais e parlamentares municipais."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -161,16 +161,16 @@
     },
     {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Noções de Administração Pública",
       "statement": "Suponha que determinada informação seja classificada como reservada no ano de 2015 e, em 2021, após solicitação de cidadão brasileiro, seja, a ele, concedido pleno acesso pela entidade detentora dessa informação. Com base na situação apresentada, assinale a opção que se apresenta em conformidade com a Lei de Acesso à Informação.",
       "alternatives": {
         "A": "A entidade deve receber advertência e multa em função de sua conduta.",
         "B": "A entidade deve ter rescindido o seu vínculo com o poder público em função de sua conduta.",
         "C": "A entidade deve ser impedida temporariamente de participar de licitações em função de sua conduta.",
         "D": "A entidade deve ser declarada como inidônea por até 5 anos em função da sua conduta.",
-        "E": "A conduta da entidade não apresenta qualquer irregularidade evidente. Conhecimentos Gerais em Medicina"
+        "E": "A conduta da entidade não apresenta qualquer irregularidade evidente. FGV"
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "A Política Nacional de Atenção Básica do SUS caracteriza-se por um conjunto de ações de saúde no âmbito individual e coletivo que inclui",
       "alternatives": {
         "A": "garantir que as relações de vínculo entre as equipes de saúde e a população sejam isentas e impessoais.",
@@ -187,7 +187,7 @@
         "D": "desestimular a participação dos usuários como forma de ampliar a autonomia e capacidade do sistema na construção do cuidado à saúde.",
         "E": "possibilitar o acesso universal e contínuo a serviços de saúde caracterizados como porta de entrada e preferencial da rede de atenção."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "A história natural da doença é o modo próprio de evoluir que tem toda doença ou processo quando se deixa seguir seu próprio curso. Em seu modelo tradicional e conforme os níveis de prevenção propostos por Level e Clark, a prevenção secundária de uma enfermidade é aquela que ocorre",
       "alternatives": {
         "A": "na reabilitação.",
@@ -204,7 +204,7 @@
         "D": "no período pré-patogênico.",
         "E": "com o diagnóstico precoce e o tratamento imediato."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Dados fornecidos pelo IPEA informam que a pandemia de Covid- 19 diminuiu a expectativa de vida dos brasileiros em aproximadamente 4,4 anos. Esta avaliação levou em consideração o uso de indicadores como o coeficiente geral de mortalidade, que é calculado pelo",
       "alternatives": {
         "A": "nº de óbitos x 100 / nº de habitantes.",
@@ -221,7 +221,7 @@
         "D": "nº de óbitos x 1000 / nº de nascimentos vivos.",
         "E": "nº de óbitos x 1000 / nº de nascimentos vivos x 100."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que indica a doença ou agravo que deve ser notificado, em até 24 horas, à Secretaria Estadual de Saúde.",
       "alternatives": {
         "A": "Tuberculose.",
@@ -238,7 +238,7 @@
         "D": "Doença de Chagas crônica.",
         "E": "Síndrome congênita associada à infecção pelo vírus Zika."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Considerando o Código de Ética Médica, aprovado pela Resolução CFM nº 2217 de 27/09/2019, assinale a opção que apresenta um direito do médico.",
       "alternatives": {
         "A": "Delegar a outros profissionais atos ou atribuições exclusivas da profissão médica.",
@@ -255,7 +255,7 @@
         "D": "Participar do processo de diagnóstico da morte ou da decisão de suspender meios artificiais para prolongar a vida do possível doador, quando pertencente à equipe de transplante.",
         "E": "Recusar-se a exercer sua profissão em instituição pública em que as condições de trabalho não sejam dignas ou possam prejudicar a própria saúde ou a do paciente, bem como a dos demais profissionais."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Uma senhora de 78 anos, hospedada em uma casa de repouso para idosos, neste ano de 2022, foi vacinada contra o pneumococo, vacina PPV-23. Nesse sentido, é correto afirmar que a próxima dose dessa vacina deverá ser feita em",
       "alternatives": {
         "A": "2023.",
@@ -272,7 +272,7 @@
         "D": "2027.",
         "E": "2032."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Na assistência ao paciente com parada cardiorrespiratória, além de compressões torácicas de alta qualidade, também está recomendado",
       "alternatives": {
         "A": "cardioversão, quando detectada assistolia.",
@@ -289,7 +289,7 @@
         "D": "toracotomia com massagem cardíaca intratorácica.",
         "E": "manter a ventilação artificial na relação 1:1 com as compressões mecânicas."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -297,16 +297,16 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Sobre a assistência ao indivíduo com parada cardiorrespiratória decorrente de trauma, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) É importante restaurar o volume circulante e corrigir coagulopatias com hemoderivados. ( ) Na ausência de uma lesão letal óbvia, como a decapitação, a ressuscitarão deve ser efetivada. ( ) Paradas cardíacas pós-trauma com duração superior a 10 minutos raramente estão associadas a bom prognóstico. As afirmativas são, na ordem apresentada, respectivamente,",
       "alternatives": {
         "A": "F - F - V.",
         "B": "F - V - V.",
         "C": "F - V - F.",
         "D": "V - V - V.",
-        "E": "V - V - F."
+        "E": "V - V - F. FGV"
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Mulher de 66 anos é levada ao serviço de cuidados paliativos da unidade especializada onde faz tratamento para carcinoma de bexiga. Nos últimos três meses ela evoluiu para hidronefrose bilateral e deterioração da função renal. Como apresentou alergia ao tramadol, sua dor passou a ser controlada com o uso oral de morfina. Após alguns dias de uso, tornou-se sonolenta e não responsiva. O médico que a atendeu suspeita de intoxicação por este opioide, porque, ao exame, além de distúrbio da consciência, apresentava pupilas",
       "alternatives": {
         "A": "normais.",
@@ -323,7 +323,7 @@
         "D": "midriáticas e fotorreagentes.",
         "E": "midriáticas e não reagentes à luz."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Médico veterinário de 42 anos foi ao clínico geral relatando o aparecimento de pápulas cutâneas, pruriginosas, nos membros superiores, e que, há dois dias, o quadro evoluiu com edema de face, principalmente labial e periorbital. Não havia história prévia do uso de medicamentos. Nesse caso, a melhor conduta inicial é",
       "alternatives": {
         "A": "aplicar corticosteroides tópicos.",
@@ -340,7 +340,7 @@
         "D": "associar anti-histamínicos antagonistas H1 e H2.",
         "E": "prescrever anti-histamínicos H1 preferentemente não sedativos."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Indivíduo masculino de 24 anos apresenta exantema morbiliforme não-pruriginoso, lesões papulosas palmo-plantares e aumento linfonodal generalizado. Para a confirmação diagnóstica deste paciente o mais adequado é solicitar",
       "alternatives": {
         "A": "antiestreptolisina O.",
@@ -357,7 +357,7 @@
         "D": "reações sorológicas para sífilis.",
         "E": "dosagens de IgM e IgG para rubéola."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Homem de 54 anos com história de alcoolismo é trazido para unidade de pronto atendimento com agitação, confusão mental e níveis flutuantes de consciência. Vinha com ansiedade e insônia há três dias e queixava-se de palpitações. No exame físico: desorientado, taquicárdico, diaforético, hipertensão arterial e tremores de extremidades. O medicamento habitualmente recomendado para o controle inicial deste quadro clínico é o(a)",
       "alternatives": {
         "A": "dissulfiram.",
@@ -374,7 +374,7 @@
         "D": "fenobarbital.",
         "E": "clordiazepóxido."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Homem de 64 anos, previamente saudável, foi admitido no serviço de emergência com alteração do nível de consciência há um dia. Havia relato de cefaleia, náusea, vômitos e febre há três dias. Não tinha realizado viagens recentes. Ao exame: temperatura axilar = 39,2°C; pressão arterial = 125/80mmHg; frequência respiratória = 18irpm; frequência cardíaca = 110bpm; havia rigidez de nuca com sinal de Brudzinski presente. O hemograma completo apresentava 15.000 leucócitos/mm³ com 90% de neutrófilos. A tomografia computadorizada de crânio não mostrou anormalidades. A punção liquórica forneceu inicialmente: pressão de 22 cmH2O, 620 células/mm³ com 60% de polimorfonucleares, 250mg de proteínas e 44mg/dL de glicose. Nenhum organismo foi detectado nas colorações pelo Gram, nanquim e Ziehl-Neelsen. Foi iniciado tratamento empírico com vancomicina e ceftriaxona, persistindo o quadro febril e neurológico. No quarto dia de internação, o resultado da cultura apresentou o crescimento de um microrganismo, sendo substituído o esquema antibiótico. Este atente infeccioso provavelmente é",
       "alternatives": {
         "A": "Herpes simples.",
@@ -391,7 +391,7 @@
         "D": "Cryptococcus neoformans.",
         "E": "Mycobacterium tuberculosis."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Sobre o uso dos novos anticoagulantes orais, é correto afirmar que",
       "alternatives": {
         "A": "têm indicação precisa nos pacientes com valvas cardíacas mecânicas.",
@@ -408,7 +408,7 @@
         "D": "a metabolização hepática permite o uso sem restrições nos pacientes com doença renal crônica avançada.",
         "E": "apresentam resultados melhores do que a varfarina nos pacientes com trombo na ponta do ventrículo esquerdo."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -416,16 +416,16 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Mulher de 52 anos, portadora de diabetes mellitus desde a adolescência, é atendida com quadro de desidratação, dor epigástrica, náuseas, vômitos e taquipneia. Encontra-se afebril e apresenta pressão arterial = 95/60mmHg; frequência cardíaca = 126bpm. Exames complementares iniciais: leucometria = 12.200/mm³; Na = 122mmol/L; K = 6,7mmol/L; glicemia = 420mg/dL; gasometria arterial com pH= 7,2 e bicarbonato = 12mmol/L; PaO2 = 98mmHg. Para o caso descrito, assinale a opção que indica o planejamento terapêutico mais adequado.",
       "alternatives": {
         "A": "Administração de insulina em infusão continua até que haja normalização da glicemia.",
         "B": "Hemodiálise para correção dos níveis de potássio sérico.",
         "C": "A aplicação de insulina intermediária (NPH) subcutânea deve ser iniciada concomitante com a infusão venosa.",
         "D": "O uso de bicarbonato de sódio com dose calculada a partir do excesso de base apresentado na gasometria arterial.",
-        "E": "NaCl a 0,9% é a solução preferida para restauração do volume circulante e podem ser oferecidos de 500mL a 1.000mL durante as primeiras duas horas."
+        "E": "NaCl a 0,9% é a solução preferida para restauração do volume circulante e podem ser oferecidos de 500mL a 1.000mL durante as primeiras duas horas. FGV"
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Paciente feminino de 60 anos queixa-se de dor muscular e fraqueza. É portadora de linfoma não Hodgkin e está em tratamento quimioterápico há trinta dias com ciclofosfamida, vincristina e prednisona. Após melhora inicial, sentiu-se pior. Exame físico: temperatura axilar = 36,5°C; frequência cardíaca = 100bpm; pressão arterial = 120/75mmHg. Exames complementares iniciais: Na plasmático = 120mmol/L; K plasmático = 4,5mmol/L; creatinina sérica = 1,1mg/dL; glicemia = 165mg/dL; Na urinário = 42mmol/L; osmolalidade urinária = 450mOsm/kg. Para este caso, assinale a opção que indica o diagnóstico mais provável.",
       "alternatives": {
         "A": "Doença de Addison.",
@@ -442,7 +442,7 @@
         "D": "Síndrome de secreção inapropriada no hormônio antidiurético.",
         "E": "Hiponatremia secundária à severa redução do volume circulante."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Paciente de 64 anos é atendido em serviço de emergência com dor abdominal e vômitos de início há dois dias. A dor é difusa e cessou a eliminação de gases e fezes desde seu início, evoluindo com náuseas e vômitos. Ao exame, o abdome se apresenta distendido e difusamente doloroso à palpação. Há um abaulamento na região inguinal esquerda, tenso e doloroso, sem rubor ou calor. A tomografia computadorizada mostrou hérnia inguinal esquerda contendo alça jejunal complicada com obstrução intestinal. Assinale a opção que indica a conduta mais adequada para este paciente.",
       "alternatives": {
         "A": "Ele apresenta achado sugestivo de hérnia inguinal estrangulada e, após hidratação adequada, deve ser encaminhado para o centro cirúrgico.",
@@ -459,7 +459,7 @@
         "D": "Provavelmente há associação entre a presença de hérnia inguinal esquerda e diverticulite, sendo necessária a administração de antibiótico para resolução do quadro.",
         "E": "Trata-se de um abdome agudo obstrutivo por hérnia inguinal encarcerada e deverá ser feita drenagem do conteúdo gástrico, correção dos distúrbios eletrolíticos e tratamento cirúrgico."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Homem de 68 anos apresenta dispneia aos esforços há seis meses, sibilos e tosse produtiva diária. Ele procura o serviço de pronto atendimento com dispneia, tosse produtiva persistente e escarro abundante, que mais recentemente tornou-se amarelo- esverdeado. Informa ainda que nos últimos 12 meses ocorreram episódios semelhantes que foram tratados com antibióticos. No exame físico encontrava-se febril e apresentava aumento da fase expiratória, sibilos e roncos à expiração. Não foi observada cianose. Ele tem relato de tabagismo (50 maços/ano) e ao exame físico apresenta redução do murmúrio vesicular e sibilos ao final da expiração. A espirometria mostra: VEF1 = 1,4L (58% do predito) e relação VEF1/CVF = 0,6 sem melhora após uso de broncodilatador. Conforme os critérios GOLD, assinale a afirmativa correta. VEF1 – volume expiatório forçado no primeiro segundo; CVF – capacidade vital forçada; e GOLD – Global Initiative for Lung Disease.",
       "alternatives": {
         "A": "O paciente não preenche critérios para ser diagnosticado como DPOC.",
@@ -476,7 +476,7 @@
         "D": "Para ser confirmado que ele apresenta síndrome de obstrução ao fluxo aéreo é necessária a realização de um exame de imagem.",
         "E": "O resultado da espirometria é sugestivo de síndrome restritiva respiratória e uma infecção bacteriana provavelmente está envolvida na origem deste caso."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -484,16 +484,16 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Paciente masculino de 48 anos após viagem aérea apresenta dispneia de início súbito acompanhada de dor torácica atípica à direita. Afirma ser tabagista desde a adolescência, faz uso moderado de bebidas alcoólicas e completou recentemente tratamento radioterápico para um câncer de esôfago, com boa resposta clínica. Assinale a opção que indica os exames complementares mais indicados para estabelecer o diagnóstico desse paciente.",
       "alternatives": {
         "A": "Dímero-d e angiotomografia do tórax.",
         "B": "Troponina T e creatinofosfoquinase-MB.",
         "C": "Eletrocardiograma e cineangiocoronariografia.",
         "D": "Holter 24 horas e ecocardiograma transtorácico.",
-        "E": "Peptídeo natriurético B e ecocardiograma transesofágico."
+        "E": "Peptídeo natriurético B e ecocardiograma transesofágico. FGV"
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Paciente masculino, 72 anos, portador de hipertensão arterial controlada, com dispneia a moderados esforços há dois meses, além de discreto edema de membros inferiores. Tem relato de tabagismo até os 65 anos e é etilista moderado. Exame físico (resumo): ritmo cardíaco regular em 2 tempos com discreto sopro audível na ponta; ausculta respiratória normal. Radiografia do tórax com área cardíaca no limite superior do normal; eletrocardiograma com ritmo sinusal, sem sinais de sobrecarga ou bloqueios. O ecocardiograma evidenciou câmaras cardíacas normais, hipertrofia ventricular esquerda concêntrica, função sistólica biventricular preservada e disfunção diastólica do ventrículo esquerdo tipo II. Assinale a opção que apresenta o diagnóstico compatível com este quadro clínico.",
       "alternatives": {
         "A": "Sarcoidose cardíaca.",
@@ -510,7 +510,7 @@
         "D": "Cardiomiopatia alcoólica.",
         "E": "Cardiopatia chagásica crônica. Conhecimentos Específicos (Neurologia Clínica)"
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que apresenta a melhor definição de anosognosia.",
       "alternatives": {
         "A": "A falta de consciência ou a negação das próprias limitações devido a uma doença.",
@@ -527,7 +527,7 @@
         "D": "A incapacidade de reconhecer os estímulos táteis.",
         "E": "A distorção da forma, do tamanho ou da cor dos objetos."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -535,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Paciente masculino teve o diagnóstico de síndrome de Melkersson-Rosenthal. Ao exame neurológico, encontraremos a tríade",
       "alternatives": {
         "A": "paralisia facial recorrente, edema orofacial e língua plicata.",
@@ -544,7 +544,7 @@
         "D": "paralisia do III nervo craniano recorrente, edema orofacial e língua plicata.",
         "E": "paralisia XI nervo craniano recorrente, edema orofacial e língua plicata."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Adolescente feminina apresenta lipodistrofia caracterizada por atrofia lenta e progressiva da hemiface, com comprometimento cutâneo, muscular e de estruturas ósseas, podendo ser confundida com paralisia facial periférica, além de cefaleia e neuralgia do trigêmeo. O caso apresentado terá, provavelmente, o diagnóstico de Síndrome de",
       "alternatives": {
         "A": "Garcin.",
@@ -561,7 +561,7 @@
         "D": "Tolosa-Hunt.",
         "E": "Parry-Romberg."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Paciente, 45 anos, submeteu-se à cirurgia bariátrica, mas abandonou o acompanhamento médico há, aproximadamente, dois anos. Há dez meses apresentou parestesias em mãos e pés que evoluíram com comprometimento da marcha (ataxia). Ao exame clinico, atual, observa-se, também, paresia em membros inferiores com certo grau de espasticidade, além de comprometimento da sensibilidade vibratória (parestesia) e da noção de posição segmentar (batiestesia). A sensibilidade superficial está preservada. Os reflexos profundos estão exaltados com sinal de Babinski bilateral. Com base no relato acima, a hipótese diagnóstica mais provável é a",
       "alternatives": {
         "A": "Síndrome de Brown-Séquard.",
@@ -578,7 +578,7 @@
         "D": "secção completa da medula.",
         "E": "Esclerose lateral amiotrófica."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Homem, 60 anos, apresenta parkinsonismo instalado há, aproximadamente, três anos e meio, simétrico, que, evoluiu com paralisia do olhar vertical inferior, distonia cervical e instabilidade postural grave com quedas frequentes, além de disartria e disfagia precoces. Não estava em uso de nenhum fármaco e a ressonância magnética do crânio não revelou alterações expressivas. Assinale a opção que indica o provável diagnóstico deste paciente.",
       "alternatives": {
         "A": "Doença de Parkinson.",
@@ -595,7 +595,7 @@
         "D": "Degeneração corticobasal.",
         "E": "Atrofia de múltiplos sistemas."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -603,16 +603,16 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que indica a manifestação neurológica mais frequentemente associada à infecção pelo HTLV-1 (vírus T linfotrópico 1 humano).",
       "alternatives": {
         "A": "Polirradiculoneuropatia.",
         "B": "Miopatia.",
         "C": "Neuropatia.",
         "D": "Paraparesia espástica, lentamente progressiva, com comprometimento esfincteriano precoce.",
-        "E": "Mielopatia rapidamente progressiva com comprometimento esfincteriano tardio."
+        "E": "Mielopatia rapidamente progressiva com comprometimento esfincteriano tardio. FGV"
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Um paciente apresenta há um ano episódios, relativamente frequentes, em que sente odores estranhos no ambiente em que se encontra, sem que ninguém mais perceba tais cheiros. Foi avaliado por Otorrrinolaringologista que afastou doenças que pudessem determinar o aparecimento destas queixas olfativas. Foi, então, levantada a hipótese de crises epilépticas focais sensoriais que, em geral, decorrem do comprometimento da(o)",
       "alternatives": {
         "A": "lobo parietal.",
@@ -629,7 +629,7 @@
         "D": "lobo temporal (região do uncus).",
         "E": "área 22 de Brodmann."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "As opções a seguir apresentam fármacos antiepilépticos que têm metabolização hepática, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Fenitoina, valproato e pregabalina.",
@@ -646,7 +646,7 @@
         "D": "Fenobarbital, pregabalina e levetiracetam.",
         "E": "Primidona, gabapentina e levetiracetam."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Pacientes epilépticos têm maior incidência de sudden unexpected death in epilepsy (SUDEP), em caso de",
       "alternatives": {
         "A": "epilepsia farmacorresistente.",
@@ -663,7 +663,7 @@
         "D": "crises mioclônicas sem evolução para tonico-clonica bilateral.",
         "E": "crises disperceptivas sem evolução para tonico-clonica bilateral."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que melhor caracteriza a espasticidade.",
       "alternatives": {
         "A": "Hiperatividade dos reflexos tendinosos.",
@@ -680,7 +680,7 @@
         "D": "Hipoatividade dos reflexos tendinosos e aumento da resistência ao estiramento rápido do músculo.",
         "E": "Hiperatividade dos reflexos tendinosos e diminuição da resistência ao estiramento rápido do músculo."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que indica a fibra de sensibilidade especial fina utilizada pelos indivíduos com deficiência visual total (cego) para utilizar o método Braille de leitura.",
       "alternatives": {
         "A": "AL1 e AR1.",
@@ -697,7 +697,7 @@
         "D": "AR2.",
         "E": "Apenas AL2."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "A síndrome do encarceramento ou locked-in syndrome afeta o sistema motor do indivíduo com mínimo ou nenhum comprometimento da consciência. Sua principal causa é o compromentimento vascular da (o)",
       "alternatives": {
         "A": "núcleo rubro.",
@@ -714,7 +714,7 @@
         "D": "bulbo lateral.",
         "E": "ponte ventral."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "O fenômeno de Kernohan-Woltman consiste de um déficit motor",
       "alternatives": {
         "A": "contralateral à lesão cerebral primária.",
@@ -731,7 +731,7 @@
         "D": "restrito aos membros superiores.",
         "E": "restrito à face."
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "O transtorno comportamental do sono REM tem como tratamento a(o)",
       "alternatives": {
         "A": "Amitriptilina.",
@@ -748,7 +748,7 @@
         "D": "Clomipramina.",
         "E": "Nortriptilina."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "O peptídeo que tem grande importância na fisiopatologia da narcolepsia é",
       "alternatives": {
         "A": "a ocitocina.",
@@ -765,7 +765,7 @@
         "D": "a corticotropina.",
         "E": "a orexina."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Sobre a esquistossomose e o seu comprometimento neurológico, é correto afirmar que",
       "alternatives": {
         "A": "é sempre assintomático.",
@@ -782,7 +782,7 @@
         "D": "quando acontece, só envolve a medula espinhal.",
         "E": "quando acontece, só envolve o encéfalo."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -790,16 +790,16 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que melhor define a demência por corpúsculos de Lewy.",
       "alternatives": {
         "A": "Presença de parkinsonismo e sensibilidade aos neurolépticos.",
         "B": "Parkinsonismo, em geral, simétrico, flutuação cognitiva e comportamental e presença de transtorno comportamental do sono REM.",
         "C": "Parkinsonismo assimétrico, ausência de flutuação motora e presença de transtorno comportamental do sono REM.",
         "D": "Parkinsonismo simétrico, flutuação cognitiva e ausência de transtorno comportamental do sono REM.",
-        "E": "Parkinsonismo assimétrico e presença de transtorno comportamental do sono REM."
+        "E": "Parkinsonismo assimétrico e presença de transtorno comportamental do sono REM. FGV"
       },
-      "answer": null,
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "A característica fundamental da atrofia cortical posterior é",
       "alternatives": {
         "A": "o comprometimento visual-espacial.",
@@ -816,7 +816,7 @@
         "D": "a depressão.",
         "E": "a instabilidade postural."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que apresenta uma causa rara de meningite carcinomatosa.",
       "alternatives": {
         "A": "Melanoma.",
@@ -833,7 +833,7 @@
         "D": "Neoplasia maligna gastrointestinal.",
         "E": "Neoplasia maligna de endométrio."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Na neuromielite óptica há o comprometimento de estruturas onde está presente a proteína",
       "alternatives": {
         "A": "PrP-Sc.",
@@ -850,7 +850,7 @@
         "D": "aquaporina 4.",
         "E": "MAPT."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que indica a distrofia muscular que não é considerada miopatia com herança ligada ao X.",
       "alternatives": {
         "A": "das cinturas.",
@@ -867,7 +867,7 @@
         "D": "Escapuloperoneal.",
         "E": "de Emery-Dreifuss."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Assinale a opção que não costuma induzir neuropatia.",
       "alternatives": {
         "A": "Isoniazida.",
@@ -884,7 +884,7 @@
         "D": "Amiodarona.",
         "E": "Docetaxel."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "Paciente, 60 anos, que apresente cefaleia temporal, bilateral, há mais de 6 semanas com febre vespertina, perda ponderal, polimialgia e claudicação de mandíbula, tem, como provável diagnóstico,",
       "alternatives": {
         "A": "cefaleia em salva.",
@@ -901,7 +901,7 @@
         "D": "arterite de células gigantes.",
         "E": "SUNCT (short lasting unilateral neuralgiform headache with conjuntival injection and tearing)."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "A equimose periorbital (olhos de guaxinim) e o sinal de Battle podem indicar fratura",
       "alternatives": {
         "A": "parietal.",
@@ -918,7 +918,7 @@
         "D": "da base do crânio.",
         "E": "do axis."
       },
-      "answer": null,
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "A síndrome da arteria espinhal anterior poupa a(o)",
       "alternatives": {
         "A": "sensibilidade dolorosa.",
@@ -935,7 +935,7 @@
         "D": "sensibilidade térmica.",
         "E": "feixe córtico-espinhal."
       },
-      "answer": null,
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "A artéria de Percheron, variante anatômica rara da vascularização cerebral, irriga, em geral,",
       "alternatives": {
         "A": "a ponte e o bulbo.",
@@ -952,7 +952,7 @@
         "D": "o bulbo e o tálamo.",
         "E": "o tálamo e o mesencéfalo."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "O DNET (dysembryoplastic neuroepithelial tumors) é considerado uma lesão",
       "alternatives": {
         "A": "da pineal.",
@@ -969,7 +969,7 @@
         "D": "ependimal.",
         "E": "de origem mista neuroglial."
       },
-      "answer": null,
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "As opções a seguir apresentam causas associadas à hipertensão intracraniana idiopática, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Hipervitaminose B12.",
@@ -986,7 +986,7 @@
         "D": "Hipoparatireoidismo.",
         "E": "Tetraciclina."
       },
-      "answer": null,
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Conhecimentos Gerais em Medicina",
       "statement": "A fratura de Hangman compromete a",
       "alternatives": {
         "A": "3ª vertebra torácica.",
@@ -1003,7 +1003,24 @@
         "D": "3ª vertebra lombar.",
         "E": "4ª vertebra sacra."
       },
-      "answer": null,
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 60,
+      "discipline": "Conhecimentos Gerais em Medicina",
+      "statement": "Assinale a opção que indica o diagnóstico mais provável de um paciente com dor lombar intensa, anestesia em sela, disfunção esfincteriana e sexual e paresia de membros inferiores.",
+      "alternatives": {
+        "A": "Miastenia gravis.",
+        "B": "Lesão da ponta anterior da medula.",
+        "C": "Síndrome da cauda equina.",
+        "D": "Síndrome de Lambert-Eaton.",
+        "E": "Síndrome de Brown-Sequard. FGV QUESTÃO DISCURSIVA Analise o caso clínico a seguir. Anamnese (resumo): Paciente feminino, 18 anos, parda, solteira, estudante, com dor abdominal, vômitos e dor torácica há cinco dias. Queixava-se ainda de dor óssea generalizada e cefaleia que dificultavam o sono. Desde os cinco anos de idade apresenta episódios semelhantes, diversas vezes com quadros infecciosos, recebendo o diagnóstico de anemia hemolítica. Negou tabagismo e etilismo. Exame físico (resumo): Estado geral comprometido, desidratada, com palidez cutânea importante; PA = 100/65mmHg; FC = 134bpm; temperatura axilar = 38,2°C; frequência respiratória = 32irpm; estava anictérica e acianotica; aparelho respiratório com alguns roncos e crepitações no hemitórax direito; ritmo cardíaco regular com sopro sistólico audível na ponta; abdome flácido com fígado a 2cm da reborda costal direita; espaço de Traube ocupado à percussão; os exames muscular e esquelético mostraram alguma dor difusa à palpação dos membros. Exames complementares iniciais:  Hemograma: hemácias = 2.120.000/mm³; hemoglobina = 8,2g/dL; hematócrito = 24,8%; VCM = 117,0fl; HCM = 38,7pg; CHCM = 33,1g/dL; RDW = 20,0%; leucócitos = 12.000/mm³; plaquetas = 449.000/mm3.  AST = 24 U/L (valor de referência = 0-33) ALT = 45 U/L (valor de referência = 0-32); feritina = 1.300ng/mL (valor de referência = 8-252).  Ureia sérica = 36mg/dL; creatinina sérica = 1,1mg/dL; albumina sérica = 3,4g/dL.  Proteína C reativa = 85 mg/L (valor de referência = 0-5)  Hemoculturas (três amostras) e urinocultura = negativas  Radiografia do tórax com imagem de consolidação no lobo superior direito. Outros exames:  Eletroforese da hemoglobina: A1 = 0,0%; A2 = 3,8%; F = 9,1%; S = 87,1%; C = 0%.  Dosagens do fator VIII, fibrinogênio, antitrombina, anticoagulante lúpico e cardiolipina = normais. Com base no caso clínico apresentado, responda aos itens a seguir. 1. Qual o diagnóstico da paciente? Justifique. 2. Qual a explicação para o quadro álgico osteomuscular? 3. Cite as possíveis complicações graves oftálmicas, osteoarticulares, renais e esplênicas desta enfermidade. 4. Como deve ser o tratamento do paciente? 5. Há indicação para transfusão de sangue? Justifique. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- FGV 16 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 17 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 18 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 19 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 20 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 21 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 22 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 23 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 24 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 25 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 26 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 27 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 28 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 29 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 30 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
+      },
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,

@@ -2,7 +2,7 @@
   "concurso_slug": "cmfor",
   "cargo_slug": "cargo-geral",
   "concurso_title": "Concurso Público para a Câmara Municipal de Fortaleza",
-  "cargo_title": "Cargo Geral",
+  "cargo_title": "AGENTE ADMINISTRATIVO",
   "exam_type": "Tipo 1",
   "total_questions": 60,
   "questions": [
@@ -17,8 +17,8 @@
         "D": "A publicidade pretende indicar prioritariamente o valor do esforço nos estudos com o emprego de “trabalhar”.",
         "E": "Segundo o texto, a competência profissional do estudante vai ser adquirida no mercado de trabalho."
       },
-      "answer": "ANULADA",
-      "annulled": true,
+      "answer": "B",
+      "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
@@ -51,7 +51,7 @@
         "D": "como uma expressão opinativa de caráter positivo como algo dito conscientemente fora de hora.",
         "E": "como uma ironia diante de algo inadequado dito pelo interlocutor."
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -68,7 +68,7 @@
         "D": "Em uma carta, a mesma mensagem teria um caráter menos formal do que a de um e-mail.",
         "E": "A lembrança de também mandar uma foto sua para a namorada mostra o caráter romântico desse tipo de correspondência."
       },
-      "answer": "E",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -85,7 +85,7 @@
         "D": "Prefira afrontar o mundo servindo a sua consciência a afrontar a sua consciência servindo ao mundo.",
         "E": "Podemos nos defender de um ataque, mas somos indefesos a um elogio."
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -119,7 +119,7 @@
         "D": "Toda idade tem seus frutos; o que falta é saber recolher-lhes.",
         "E": "Quanto melhor se enche a vida, menos tempo se tem de perdê-la."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -136,7 +136,7 @@
         "D": "Venha a nós o vosso reino e seja feita a vossa vontade.",
         "E": "Não se deve engolir mais credos do que se é capaz de digerir."
       },
-      "answer": "E",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -153,7 +153,7 @@
         "D": "Só as grandes crenças proporcionam grandes emoções / Só as grandes emoções proporcionam grandes crenças.",
         "E": "Quem crê é forte, mas quem duvida é fraco / Quem duvida é fraco, mas quem crê é forte."
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -168,41 +168,7 @@
         "B": "Ela decidiu viajar para a Europa. Essa viagem deverá ser muito útil para seu trabalho de doutorado. / retomada por um substantivo cognato.",
         "C": "Ele ficou reprovado em quase todas as matérias. O fato de não ter sucesso o deprime muito. / retomada por uma expressão sinônima.",
         "D": "Eu moro numa casa pequena na esquina da rua. Esse teto me abriga há algum tempo. / retomada da parte pelo todo.",
-        "E": "Eu trabalho numa escola pública. É uma grande escola muito conhecida no bairro. / retomada idêntica do mesmo substantivo com novo determinante. Raciocínio Lógico e Matemático"
-      },
-      "answer": "C",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 3
-    },
-    {
-      "question_number": 11,
-      "discipline": null,
-      "statement": "A seguir, é apresentado o tradicional algoritmo da adição envolvendo dois números. Esses números, assim como a soma, possuem três algarismos cada. Cada letra representa um único algarismo. As letras C, D e E representam algarismos distintos entre si e diferentes de 1 e de 8. Nessas condições, o valor de C + D + E é divisor de",
-      "alternatives": {
-        "A": "18.",
-        "B": "19.",
-        "C": "20.",
-        "D": "21.",
-        "E": "22."
-      },
-      "answer": "E",
-      "annulled": false,
-      "has_image": true,
-      "image_path": "data/processed/images/cmfor_cargo-geral_q11.png",
-      "page_number": 3
-    },
-    {
-      "question_number": 12,
-      "discipline": null,
-      "statement": "Uma turma é composta por 40 alunos, dos quais:  12 gostam de Matemática, mas não de História;  19 não gostam de Matemática. A quantidade de alunos dessa turma que gostam, simultaneamente, de Matemática e de História é",
-      "alternatives": {
-        "A": "6.",
-        "B": "7.",
-        "C": "8.",
-        "D": "9.",
-        "E": "10."
+        "E": "Eu trabalho numa escola pública. É uma grande escola muito conhecida no bairro. / retomada idêntica do mesmo substantivo com novo determinante."
       },
       "answer": "A",
       "annulled": false,
@@ -211,8 +177,42 @@
       "page_number": 3
     },
     {
+      "question_number": 11,
+      "discipline": "Raciocínio Lógico e Matemático",
+      "statement": "A seguir, é apresentado o tradicional algoritmo da adição envolvendo dois números. Esses números, assim como a soma, possuem três algarismos cada. Cada letra representa um único algarismo. As letras C, D e E representam algarismos distintos entre si e diferentes de 1 e de 8. Nessas condições, o valor de C + D + E é divisor de",
+      "alternatives": {
+        "A": "18.",
+        "B": "19.",
+        "C": "20.",
+        "D": "21.",
+        "E": "22."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/cmfor_cargo-geral_q11.png",
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": "Raciocínio Lógico e Matemático",
+      "statement": "Uma turma é composta por 40 alunos, dos quais:  12 gostam de Matemática, mas não de História;  19 não gostam de Matemática. A quantidade de alunos dessa turma que gostam, simultaneamente, de Matemática e de História é",
+      "alternatives": {
+        "A": "6.",
+        "B": "7.",
+        "C": "8.",
+        "D": "9.",
+        "E": "10."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em um sistema de unidades, 1 cloque é igual a 12 cliques e 1 blongue vale 10 cliques. Logo, 1 blongue e meio equivale a",
       "alternatives": {
         "A": "1,20 cloque.",
@@ -221,7 +221,7 @@
         "D": "1,75 cloque.",
         "E": "2,00 cloques."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma moeda honesta é lançada 3 vezes. Em cada lançamento, os únicos resultados possíveis são “cara” e “coroa”. A probabilidade de que não sejam obtidos 3 resultados idênticos é",
       "alternatives": {
         "A": "70%.",
@@ -238,7 +238,7 @@
         "D": "78%.",
         "E": "80%."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em um triângulo, dois lados medem 6 cm e um dos ângulos mede 124. Nessas condições, esse triângulo",
       "alternatives": {
         "A": "pode ter um lado medindo 5cm.",
@@ -255,7 +255,7 @@
         "D": "tem um ângulo medindo 33.",
         "E": "tem um ângulo medindo 28. Regimento Interno da Câmara Municipal de Fortaleza"
       },
-      "answer": "B",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Maria e João foram eleitos, respectivamente, vereadora e suplente da Câmara Municipal de Fortaleza. Maria não esteve presente na sessão de instalação, logo, não tomou posse no cargo de vereadora. João, por sua vez, tinha dúvidas se também precisaria tomar posse e prestar compromisso ao assumir o cargo, em razão da vacância ou afastamento de algum vereador. À luz do Regimento Interno da Câmara Municipal de Fortaleza, é correto afirmar que",
       "alternatives": {
         "A": "Maria, por ter sido diplomada pela Justiça Eleitoral, pode tomar posse a qualquer tempo.",
@@ -272,7 +272,7 @@
         "D": "Maria deve tomar posse no prazo de quinze dias, salvo motivo justificado, prestando compromisso, e João prestará compromisso uma única vez, ao ser empossado.",
         "E": "Maria deve tomar posse no curso da primeira sessão legislativa, prestando o correlato compromisso, enquanto João, por ser suplente, assinará o termo de substituição."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A partir de deliberação da maioria absoluta do Plenário da Câmara Municipal de Fortaleza, foi convocado o Colégio de Líderes, para decidir, em caráter definitivo, impasse ocorrido nos trabalhos da Câmara. Na análise realizada por esse Colégio, no qual votaram regularmente o Líder do Governo e o Líder da Oposição, o peso dos votos dos líderes partidários e dos blocos parlamentares foi proporcional ao número de parlamentares que eles representam. À luz do Regimento Interno da Câmara Municipal de Fortaleza, é correto afirmar que somente há irregularidade em relação",
       "alternatives": {
         "A": "ao responsável pela convocação.",
@@ -297,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Ana, servidora da Câmara Municipal de Fortaleza, foi informada sobre a convocação de uma sessão legislativa extraordinária para o segundo final de semana do mês de abril, estando em curso o mês de março. Essa convocação, de acordo com as informações que recebeu, fora realizada pelo Prefeito Municipal, em razão de interesse público relevante. A pauta, por sua vez, não foi delineada, sendo deixada a cada parlamentar a possibilidade de apresentar as questões que entendesse relevantes para a edilidade. Ao analisar o Regimento Interno da Câmara Municipal de Fortaleza, Ana concluiu corretamente que a narrativa acima",
       "alternatives": {
         "A": "não apresenta nenhuma irregularidade.",
@@ -306,7 +306,7 @@
         "D": "somente apresenta irregularidades em relação ao momento em que será realizada a sessão e à respectiva pauta.",
         "E": "somente apresenta irregularidade em relação à autoridade que convocou a sessão e à não observância da antecedência mínima de sessenta dias para a convocação."
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "João, servidor da Câmara Municipal de Fortaleza, foi incumbido de encaminhar determinado expediente ao agente ou órgão responsável por anotar as discussões e as votações realizadas no Plenário dessa Casa Legislativa. Após analisar o Regimento Interno da Câmara Municipal de Fortaleza, João concluiu corretamente que o encaminhamento deve ser realizado",
       "alternatives": {
         "A": "à Mesa Diretora.",
@@ -323,7 +323,7 @@
         "D": "ao Presidente da Câmara Municipal.",
         "E": "ao Primeiro Vice-Presidente da Câmara Municipal."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "XX, vereador na Câmara Municipal de Fortaleza, filiado ao Partido Político Alfa, sofreu condenação criminal transitada em razão da prática de determinada infração penal. Ao tomar conhecimento do ocorrido, o Partido Político Beta, com representação na Câmara Municipal de Fortaleza, consultou sua assessoria sobre a possibilidade de XX vir a perder o seu mandato. À luz do Regimento Interno da Câmara Municipal de Fortaleza, a assessoria respondeu corretamente que",
       "alternatives": {
         "A": "a condenação criminal transitada em julgado, por si só, acarretou a perda do mandato de XX.",
@@ -340,7 +340,7 @@
         "D": "a perda do mandato de XX deve ser declarada pela Mesa Diretora, de ofício ou mediante provocação de qualquer vereador ou mesmo de partido político com representação na Casa, como Beta.",
         "E": "caso a sentença criminal não tenha determinado a perda do mandato e haja representação do Ministério Público, caberá à Câmara Municipal decidir, pela maioria qualificada de dois terços, sobre a perda do mandato de XX."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Ana, vereadora da Câmara Municipal de Fortaleza e que integrava determinada comissão permanente dessa Casa Legislativa, solicitou que sua assessoria analisasse o Regimento Interno e verificasse a possibilidade de que ela exercesse individualmente as seguintes atribuições: I. encaminhar, por intermédio da Mesa Diretora, pedido escrito de informação ao Secretário Municipal de Saúde; II. propor a sustação de regulamento editado pelo Prefeito Municipal, que colidia frontalmente com a lei regulamentada; III. exercer a fiscalização e o controle dos atos do Poder Executivo municipal. Em relação à possibilidade de Ana praticar individualmente os atos descritos em I, II e III, sua assessoria respondeu corretamente que",
       "alternatives": {
         "A": "todos podem ser praticados.",
@@ -357,7 +357,7 @@
         "D": "somente podem ser praticados os atos descritos em I e II.",
         "E": "somente podem ser praticados os atos descritos em I e III."
       },
-      "answer": "B",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um grupo de vereadores, observado o quórum regimental, apresentou projeto de emenda da Lei Orgânica do Município de Fortaleza. Projeto dessa natureza deve ser analisado",
       "alternatives": {
         "A": "diretamente pelo plenário.",
@@ -374,7 +374,7 @@
         "D": "pela Comissão Permanente de Alterações Legislativas.",
         "E": "apenas por comissões permanentes, observada a pertinência temática."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "No início da legislatura, Maria, vereadora da Câmara Municipal de Fortaleza, que se encontrava em seu primeiro mandato eletivo, analisou o Regimento Interno dessa Casa Legislativa e constatou, corretamente, que deveria registrar sua presença nas sessões, bem como que isto se daria da seguinte forma:",
       "alternatives": {
         "A": "na chamada para a ordem do dia, devendo ser confirmada ou retificada em toda ocasião na qual se proceda à votação nominal ou à verificação de quórum.",
@@ -391,7 +391,7 @@
         "D": "no início da respectiva sessão legislativa, devendo ser confirmada ou retificada no início de cada sessão ordinária ou extraordinária, perante a Mesa Diretora.",
         "E": "após a instalação dos trabalhos, no Pleno ou em Comissão, de ofício ou após provocação da presidência ou de qualquer partido político com representação na Casa Legislativa."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -399,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Determinada proposição legislativa, que deveria ser apreciada por duas comissões permanentes da Câmara Municipal de Fortaleza, passou a tramitar em regime de urgência. Por tal razão, o líder do Partido Político Alfa requereu ao Presidente da Câmara Municipal que ela fosse apreciada diretamente pelo Plenário, deixando de passar pelas referidas comissões. Em situações dessa natureza, é correto afirmar, de acordo com o Regimento Interno da Câmara Municipal de Fortaleza, que o requerimento apresentado",
       "alternatives": {
         "A": "deve ser indeferido, pois a proposição precisa ser apreciada pelas duas comissões permanentes, sendo obrigatório que isto se dê de maneira conjunta.",
@@ -408,7 +408,7 @@
         "D": "deve ser indeferido, pois, por existirem mais de duas comissões competentes, a proposição deve ser apreciada por uma comissão especial, que as substituirá.",
         "E": "pode ser acolhido se for demonstrado que, pela natureza da matéria, o número de sessões necessárias à apreciação da proposição, no âmbito de cada comissão, é incompatível com o número de sessões do regime de urgência."
       },
-      "answer": "C",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "João, servidor da Câmara Municipal de Fortaleza, foi informado sobre a constituição de um bloco parlamentar no âmbito dessa Casa Legislativa. Ao analisar o Regimento Interno da referida Casa Legislativa, João concluiu corretamente que o referido bloco",
       "alternatives": {
         "A": "foi constituído por deliberação das representações de no mínimo três partidos políticos.",
@@ -425,7 +425,7 @@
         "D": "subsistirá até que os partidos políticos que o integram deliberem pela sua dissolução ou deixe de contar com o número mínimo de partidos coligados.",
         "E": "deve ter a sua constituição comunicada à Mesa Diretora, em documento subscrito pela maioria absoluta dos membros de cada partido que o compõe. Lei Orgânica Municipal"
       },
-      "answer": "B",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "XX, vereador da Câmara Municipal de Fortaleza, ao participar de um Congresso Nacional de Vereadores, realizado em Brasília, Capital Federal, fez duras críticas ao Presidente de determinado ente da administração pública indireta municipal, o que levou este agente a consultar um advogado em relação à possibilidade, ou não, de responsabilizar XX pelo teor de suas opiniões e palavras. Ao analisar a Lei Orgânica do Município de Fortaleza, o advogado concluiu corretamente que XX",
       "alternatives": {
         "A": "pode vir a ser responsabilizado, considerando o local em que proferiu suas críticas.",
@@ -442,7 +442,7 @@
         "D": "somente pode ser responsabilizado mediante prévia autorização de dois terços dos integrantes da Câmara Municipal de Fortaleza.",
         "E": "somente não poderia ser responsabilizado caso suas críticas tivessem sido proferidas no interior da Casa Legislativa, durante a discussão de uma proposição."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "XX, vereador da Câmara Municipal de Fortaleza, foi convidado, pelo Governador do Estado, para ocupar um cargo de Secretário junto ao Poder Executivo do Estado do Ceará. Ao analisar a Lei Orgânica do Município de Fortaleza, XX concluiu corretamente que",
       "alternatives": {
         "A": "somente poderá ser nomeado para o cargo de Secretário de Estado caso renuncie ao cargo de vereador.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "O Prefeito do Município de Fortaleza solicitou que sua assessoria realizasse estudos em relação à necessidade, ou não, de a Câmara Municipal autorizar a aquisição de bem imóvel, de propriedade de um particular, para que no local fosse prestado um serviço público de competência municipal. Com os olhos voltados à Lei Orgânica do Município de Fortaleza, a assessoria respondeu corretamente, em relação à aquisição alvitrada, que",
       "alternatives": {
         "A": "está sujeita unicamente ao juízo de valor do Chefe do Poder Executivo.",
@@ -476,7 +476,7 @@
         "D": "a autorização da Câmara Municipal somente é necessária caso a aquisição não se dê sob a forma de permuta ou doação.",
         "E": "pode ser livremente realizada pelo Poder Executivo, independente de manifestação da Câmara Municipal, caso seja antecedida de licitação."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "O Prefeito do Município de Fortaleza apresentou suas contas anuais de governo, as quais foram objeto de análise pelo Tribunal de Contas, que emitiu parecer sobre a temática. À luz da Lei Orgânica do Município de Fortaleza, é correto afirmar que a Câmara Municipal, ao receber o referido parecer, deve",
       "alternatives": {
         "A": "cientificar o Chefe do Poder Executivo do seu teor, sendo que as conclusões do parecer, quer pela rejeição das contas, quer pela aprovação, são vinculantes para o referido agente e para a Câmara Municipal.",
@@ -493,7 +493,7 @@
         "D": "acolhê-lo ou rejeitá-lo, pelo voto da maioria absoluta dos seus membros, com o correlato julgamento das contas do Chefe do Poder Executivo.",
         "E": "apreciá-lo no prazo máximo de noventa dias, sob pena de aprovação tácita das contas."
       },
-      "answer": "A",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -501,16 +501,16 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Determinada Comissão Parlamentar de Inquérito (CPI), instituída no âmbito da Câmara Municipal de Fortaleza, decidiu proceder à verificação contábil em livros, papéis e documentos de determinado ente da administração pública municipal. Esse objetivo, no entanto, foi obstado pelo referido ente sob o argumento de ser afrontoso à separação dos poderes. Considerando os balizamentos estabelecidos pela Lei Orgânica do Município de Fortaleza a respeito da situação descrita na narrativa, é correto afirmar que",
       "alternatives": {
         "A": "a verificação alvitrada pressupõe prévia autorização judicial, sendo que a sua inexistência torna o ato ilegal.",
         "B": "a CPI tem competência para realizar a verificação alvitrada, o que é feito por meio de seu Presidente, logo, o óbice oposto é ilegal.",
         "C": "a realização da verificação alvitrada deve ser realizada por um comitê integrado por, no mínimo, três vereadores pertencentes à CPI.",
         "D": "cabe ao Presidente da Câmara Municipal avaliar a conveniência da verificação alvitrada, sendo a sua aquiescência indispensável a esse fim.",
-        "E": "as deliberações da CPI, para adquirirem imperatividade, devem ser chanceladas pelo Plenário da Câmara Municipal de Fortaleza, o que não ocorreu no caso concreto. CONHECIMENTOS ESPECÍFICOS"
+        "E": "as deliberações da CPI, para adquirirem imperatividade, devem ser chanceladas pelo Plenário da Câmara Municipal de Fortaleza, o que não ocorreu no caso concreto."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Em relação aos componentes de hardware de um computador, avalie as afirmativas a seguir. I. A memória RAM de um computador tem o propósito de manter os dados permanentemente armazenados nela mesmo quando o computador é desligado. II. O teclado de um computador é um periférico de entrada de dados. III. A função da fonte de alimentação, que fica dentro do gabinete de um computador, é manter o computador funcionando mesmo quando falta energia elétrica na tomada. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -527,7 +527,7 @@
         "D": "II, apenas.",
         "E": "I, II e III."
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -535,13 +535,47 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Avalie se as funções as seguintes funções desempenhadas por componentes de software de um computador são funções de sistema operacional. I. Edição de documentos de texto. II. Apresentação de slides. III. Gerenciamento da memória. Está correto o que se indica em",
       "alternatives": {
         "A": "III, apenas.",
         "B": "II e III, apenas.",
         "C": "I e II, apenas.",
         "D": "I, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 33,
+      "discipline": "Raciocínio Lógico e Matemático",
+      "statement": "A Unidade Central de Processamento (UCP) ou Central Processing Unit (CPU, em inglês) é um importante componente de um computador. Nesse sentido, é correto afirmar que a UCP",
+      "alternatives": {
+        "A": "tem a função de armazenar o BIOS quando o computador é desligado.",
+        "B": "é responsável por executar instruções de um programa de computador.",
+        "C": "é um dispositivo periférico apenas de entrada de dados.",
+        "D": "é um dispositivo periférico de entrada e saída de dados.",
+        "E": "é o gabinete que armazena os componentes do computador, tais como a placa-mãe e a memória."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 34,
+      "discipline": "Raciocínio Lógico e Matemático",
+      "statement": "Avalie se as siglas de partes da arquitetura básica de um computador moderno indicadas a seguir correspondem a tipos de memória. I. EPROM II. ROM III. USB Está correto o que se apresenta em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "II e III, apenas.",
+        "D": "I e II, apenas.",
         "E": "I, II e III."
       },
       "answer": "D",
@@ -551,42 +585,8 @@
       "page_number": 7
     },
     {
-      "question_number": 33,
-      "discipline": null,
-      "statement": "A Unidade Central de Processamento (UCP) ou Central Processing Unit (CPU, em inglês) é um importante componente de um computador. Nesse sentido, é correto afirmar que a UCP",
-      "alternatives": {
-        "A": "tem a função de armazenar o BIOS quando o computador é desligado.",
-        "B": "é responsável por executar instruções de um programa de computador.",
-        "C": "é um dispositivo periférico apenas de entrada de dados.",
-        "D": "é um dispositivo periférico de entrada e saída de dados.",
-        "E": "é o gabinete que armazena os componentes do computador, tais como a placa-mãe e a memória."
-      },
-      "answer": "E",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 7
-    },
-    {
-      "question_number": 34,
-      "discipline": null,
-      "statement": "Avalie se as siglas de partes da arquitetura básica de um computador moderno indicadas a seguir correspondem a tipos de memória. I. EPROM II. ROM III. USB Está correto o que se apresenta em",
-      "alternatives": {
-        "A": "I, apenas.",
-        "B": "II, apenas.",
-        "C": "II e III, apenas.",
-        "D": "I e II, apenas.",
-        "E": "I, II e III."
-      },
-      "answer": "E",
-      "annulled": false,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 7
-    },
-    {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Considere as seguintes assertivas sobre o uso de arquivos e pastas no Windows Explorer (Explorador de Arquivos do Windows): I. Dentro de uma pasta não é possível criar outras pastas. II. Somente usuários administradores do computador podem criar novos arquivos na Área de Trabalho. III. Para remover um arquivo sem colocá-lo na Lixeira pode-se usar a combinação de teclas SHIFT-DEL. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um usuário do Explorador de Arquivos do Windows tem a tarefa de criar três arquivos em diferentes localizações em seu computador, conforme disposto a seguir:  Tarefa I: criar o arquivo Fortaleza#.bat na pasta Downloads.  Tarefa II: criar o arquivo Fortaleza*.txt na pasta Documentos.  Tarefa III: criar o arquivo Fortaleza&.rtf na Área de Trabalho. A(s) tarefa(s) que não pode(m) ser completada(s), devido a erro na denominação do arquivo, é(são)",
       "alternatives": {
         "A": "I, apenas.",
@@ -612,7 +612,7 @@
         "D": "I e III, apenas.",
         "E": "I, II e III."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Na versão atual do Microsoft Word pode-se escolher diferentes tamanhos de página padrão, relativos ao papel onde será impresso o documento. Assinale a opção que não aponta um nome de tamanho de página padrão.",
       "alternatives": {
         "A": "A4",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Acerca da versão atual do editor de textos Microsoft Word, considere as assertivas a seguir. I. Um documento formatado em colunas pode ter no máximo duas colunas. II. É possível aplicar negrito, itálico e sublinhado a uma mesma palavra. III. Não é possível colocar números de página no Rodapé do documento. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -646,7 +646,7 @@
         "D": "III, apenas.",
         "E": "I, II e III."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Durante o processo de entrevista para posições de liderança em determinada organização, o gestor de pessoas responsável pelo recrutamento observou o seguinte: Adalberto se destaca como um candidato extremamente metódico e organizado, demonstrando alta eficiência na execução de suas tarefas rotineiras. No entanto, ao ser confrontado com contextos de incerteza, que dispõem de poucas informações, Adalberto reage de forma adversa, devido a problemas de ansiedade. Diante do exposto, é correto afirmar que o perfil de Adalberto é adequado ao nível organizacional",
       "alternatives": {
         "A": "estratégico.",
@@ -671,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A utilização de ferramentas próprias traz grande valor para o trabalho dos gestores responsáveis pelo planejamento estratégico das organizações. Com base na ferramenta conhecida como Análise SWOT, observe as assertivas a seguir. I. Os elementos conhecidos como oportunidades não podem ser controlados pelas organizações. II. Mudanças na legislação que aumentam a regulação em determinado setor são exemplos de fraqueza. III. Fatores externos que influenciam positivamente determinada organização representam as suas forças. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -680,7 +680,7 @@
         "D": "II e III, apenas.",
         "E": "I, II e III."
       },
-      "answer": "B",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Após problemas com o antigo responsável pela gestão, considerado exageradamente rígido pelos funcionários, uma tradicional empresa cearense decide contratar um profissional com perfil oposto. Nessa lógica, a empresa contrata Valéria, uma gestora que considera que os colaboradores são voluntariosos, estando sempre dispostos a assumir responsabilidades e tomar decisões criativas para o negócio, desde que recebam as condições adequadas. Com base nas teorias motivacionais, é correto afirmar que a diferença de percepção entre o antigo gestor e Valéria correspondem, respectivamente, às teorias",
       "alternatives": {
         "A": "das Metas e do Reforço.",
@@ -697,7 +697,7 @@
         "D": "da Expectativa e da Expectância.",
         "E": "X e Y."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "No processo de comunicação organizacional e seus elementos, é correto afirmar que a comunicação é eficaz quando",
       "alternatives": {
         "A": "o canal da comunicação não possui ruídos.",
@@ -714,7 +714,7 @@
         "D": "o destinatário compreende a mensagem.",
         "E": "o canal utilizado é o meio mais apropriado."
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "À luz dos estudos acerca da liderança, é correto afirmar que a Teoria de Traços de Personalidade preconiza que o indivíduo",
       "alternatives": {
         "A": "só adquire as características necessárias para a liderança ao ser treinado por um líder.",
@@ -731,7 +731,7 @@
         "D": "tende a adotar características de liderança coerentes com o nível de complexidade da situação em que está envolvido.",
         "E": "possui características de líder desde sua nascença."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A abordagem organizacional em que a empresa se estrutura em unidades baseadas em atividades especializadas como, por exemplo, marketing, finanças, recursos humanos e produção é conhecida por",
       "alternatives": {
         "A": "departamentalização por produto.",
@@ -748,7 +748,7 @@
         "D": "orientação linear.",
         "E": "adhocracia."
       },
-      "answer": "D",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Acerca dos momentos que a função controle é empregada, analise as assertivas a seguir. I. A inspeção de insumos utilizados na produção são exemplos de controles preventivos. II. Os testes escritos na seleção de funcionários são exemplos de controle simultâneo III. A definição de técnicas e procedimentos a serem seguidas na produção representa um controle reativo Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -765,7 +765,7 @@
         "D": "II e III, apenas.",
         "E": "I, II e III."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A concepção de cultura de organização facilita a compreensão de certos padrões comportamentais dos membros de uma organização, incorporados de tal forma que tanto os indivíduos em posições hierárquicas de topo quanto aqueles em níveis de “chão de fábrica” se identifiquem. Com relação aos elementos da cultura organizacional, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O seu nível mais oculto é representado pelos valores compartilhados, abarcando as verdades inquestionáveis.",
@@ -782,7 +782,7 @@
         "D": "Os valores e crenças são tratados como o seu primeiro nível, caracterizados por sua superficialidade e imutabilidade.",
         "E": "O estilo de vestuário utilizado pelos integrantes reflete os aspectos informais, os quais, embora opacos, eventualmente são observáveis."
       },
-      "answer": "A",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A interpretação e o estudo das normas da Constituição Federal de 1988 permitiu a identificação de outros princípios norteadores da atividade administrativa, além dos positivados expressamente no texto constitucional. Com relação a esses princípios “implícitos”, aquele conhecido como princípio da autotutela",
       "alternatives": {
         "A": "estabelece que a Administração Pública deve anular seus próprios atos eivados de ilegalidade.",
@@ -799,7 +799,7 @@
         "D": "impõe que o particular, ao discordar de determinado ato administrativo, seja responsável por apresentar as provas contrárias.",
         "E": "obriga a Administração Pública a adotar medidas preventivas em caso de situações que tragam riscos expressivos para a coletividade."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "No que se refere aos elementos da estrutura da Administração Pública, é correto afirmar que a Câmara Legislativa Municipal de Fortaleza é um exemplo de",
       "alternatives": {
         "A": "órgão público.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Caso um servidor em cargo de liderança contrate seu irmão para um cargo de comissão, ainda que ele tenha experiência no assunto, é correto afirmar que está sendo violado o princípio da",
       "alternatives": {
         "A": "sustentabilidade.",
@@ -833,7 +833,7 @@
         "D": "publicidade.",
         "E": "hierarquia."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Com relação às características da Gestão Pública e da Gestão Privada, é correto afirmar que constitui um exemplo de diferença o fato de a primeira",
       "alternatives": {
         "A": "ser orientada para o lucro e a segunda, para o bem-estar social.",
@@ -850,7 +850,7 @@
         "D": "ser influenciada pelo ambiente externo e a segunda, pelo interno.",
         "E": "poder fazer tudo o que a lei não proíbe e a segunda, apenas o que a lei determina."
       },
-      "answer": "D",
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Uma característica do modelo de gestão por resultados é a",
       "alternatives": {
         "A": "centralização do processo decisório.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A busca pela qualidade na oferta de produtos ou serviços, conforme a pressão exercida pelos clientes, promoveu a incorporação sistemática de ferramentas orientadas para a promoção da qualidade nas organizações, tanto públicas quanto privadas. Dessas ferramentas, aquela que busca explorar as possíveis causas de um problema específico, facilitando a identificação das soluções, é conhecida por",
       "alternatives": {
         "A": "Fluxograma.",
@@ -884,7 +884,7 @@
         "D": "Carta controle.",
         "E": "5S."
       },
-      "answer": "B",
+      "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "De acordo com o regramento legal brasileiro, a autarquia representa uma estrutura da Administração Pública Indireta responsável por realizar determinada atividade típica do Estado. Assinale a afirmação correta, em relação às autarquias, é correto afirmar que",
       "alternatives": {
         "A": "representam uma qualificação dada a uma associação que celebre parceria com o Poder Público.",
@@ -901,7 +901,7 @@
         "D": "devem ser criadas mediante lei específica aprovada pelo Poder Legislativo.",
         "E": "são consideradas um patrimônio destinado a um fim de interesse público."
       },
-      "answer": "C",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "No contexto da organização da Administração Pública, a opção de determinado Ente Público de criar secretarias especializadas em determinados temas, atribuindo-lhes competências específicas é chamada de",
       "alternatives": {
         "A": "publicização.",
@@ -918,7 +918,7 @@
         "D": "centralização por colaboração.",
         "E": "desconcentração administrativa."
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Ao se dirigir a um agente público por meio de mensagem de comunicação oficial, espera-se que, em conformidade com o Manual de Redação da Presidência da República (MRPR), seja empregado",
       "alternatives": {
         "A": "Digníssimo, caso o destinatário seja reitor de Universidade Federal.",
@@ -935,15 +935,15 @@
         "D": "Vossa Magnificência, caso o destinatário seja servidor do Tribunal de Contas da União.",
         "E": "Doutor, caso o destinatário seja contratado pelo Congresso Nacional."
       },
-      "answer": "B",
-      "annulled": false,
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
       "page_number": 10
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Analise as assertivas a seguir: I. A uniformidade do tempo verbal no emprego das sentenças, ao longo de todo o texto, se relaciona com o atributo da clareza. II. A ausência de regionalismos e neologismos na comunicação se relaciona com o atributo da coesão. III. A utilização de frases curtas e bem estruturadas se relaciona com o atributo da impessoalidade. Segundo o MRPR, está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "O debate sobre a natureza e os princípios da ética tem suas raízes na antiguidade, com especial atenção à contribuição dos filósofos gregos. Esse diálogo histórico, apesar de originar-se em um período remoto, mantém-se com grande relevância na atualidade, influenciando decisivamente políticas públicas, padrões de conduta para agentes governamentais e o cotidiano da sociedade. Quanto às diversas interpretações da ética, destaca-se a perspectiva que preconiza que a decisão mais adequada é aquela que proporciona maior bem-estar ao maior número de indivíduos, conhecida por",
       "alternatives": {
         "A": "anarquista.",
@@ -969,7 +969,7 @@
         "D": "contratualista.",
         "E": "utilitarista."
       },
-      "answer": "D",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "Um gestor de pessoas que busca estimular o conflito entre os colaboradores da organização, por acreditar que a sua existência promova criatividade e evita a acomodação, é adepto da visão",
       "alternatives": {
         "A": "tradicional.",
@@ -986,7 +986,7 @@
         "D": "interacionista.",
         "E": "relacional."
       },
-      "answer": "A",
+      "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A fidelização dos clientes permite que seja estabelecido um relacionamento de longo-prazo entre a empresa e seu público- alvo. Na construção dessa relação, a lealdade do cliente passa por diversas etapas de evolução, sendo a primeira etapa a fase",
       "alternatives": {
         "A": "cognitiva, baseada em informações sobre os atributos da marca disponíveis para o consumidor.",
@@ -1003,7 +1003,7 @@
         "D": "de ação, baseada na certeza de que a marca é superior às outras, momento em que o cliente começa a criticar as outras marcas.",
         "E": "inflamada, baseada na irritação perante as marcas concorrentes, desenvolvendo um comportamento de rancor contra indivíduos que não consomem a marca."
       },
-      "answer": "E",
+      "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico e Matemático",
       "statement": "A estratégia de tomada de decisão em grupo que busca encorajar a participação e a proposição de soluções criativas, sem julgamentos imediatos, é conhecida como",
       "alternatives": {
         "A": "avaliação formativa.",
@@ -1020,7 +1020,7 @@
         "D": "árvore de decisão.",
         "E": "brainstorm. Realização"
       },
-      "answer": "C",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,

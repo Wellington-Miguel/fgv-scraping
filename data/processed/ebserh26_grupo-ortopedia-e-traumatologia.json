@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Empresa Brasileira de Serviços Hospitalares - EBSERH - Área Médica",
   "cargo_title": "Grupo - Ortopedia e Traumatologia",
   "exam_type": "Tipo 1",
-  "total_questions": 59,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -168,7 +168,7 @@
         "B": "Se tem problemas no pulmão, procure um pneumologista.",
         "C": "Se tem problemas no fígado, procure um dermatologista.",
         "D": "Se tem problemas nos ouvidos, procure um oncologista.",
-        "E": "Se tem problemas nos pés, procure um pediatra. Legislação EBSERH"
+        "E": "Se tem problemas nos pés, procure um pediatra."
       },
       "answer": "B",
       "annulled": false,
@@ -245,8 +245,25 @@
       "page_number": 4
     },
     {
-      "question_number": 16,
+      "question_number": 15,
       "discipline": null,
+      "statement": "Um empregado da Ebserh foi acusado de descumprir normas institucionais e de adotar conduta incompatível com as regras administrativas do Hospital Universitário. Para a apuração formal da conduta e garantia do contraditório e da ampla defesa, a administração decidiu instaurar procedimento disciplinar conforme as normas internas da empresa. Segundo a Norma Operacional de Controle Disciplinar da Ebserh, a apuração de infrações disciplinares pode ocorrer por meio de",
+      "alternatives": {
+        "A": "sindicância ou processo administrativo disciplinar.",
+        "B": "auditoria administrativa e decisão direta da diretoria.",
+        "C": "avaliação de desempenho extraordinária.",
+        "D": "procedimento sumário conduzido pela chefia imediata.",
+        "E": "análise exclusiva do Conselho Fiscal."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Considerando os fatores determinantes para a Reforma Sanitária Brasileira, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A crise do modelo previdenciário centralizado, associada à expansão da assistência privada, articulou-se à formulação de uma crítica baseada na medicina social e na análise histórico- estrutural da saúde. ( ) A Reforma Sanitária estruturou-se a partir da adoção da teoria funcionalista do Estado, orientada pela racionalização administrativa e pela busca de equilíbrio institucional no setor saúde. ( ) A abertura política da década de 1970, combinada à reorganização dos movimentos sociais, favoreceu a consolidação de um projeto que relacionava saúde, democracia e transformação das estruturas sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -263,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Tendo em vista os mecanismos institucionais de participação no âmbito do Sistema Único de Saúde, leia hipotética a situação a seguir. Camila participou, como representante dos profissionais de saúde, de uma instância colegiada municipal convocada para ocorrer naquele quadriênio. Durante o encontro, foi realizada avaliação ampla da situação de saúde do município, com apresentação de diagnósticos gerais e, ao final, foram propostas diretrizes para subsidiar a formulação da política de saúde nos anos subsequentes. De acordo com a descrição apresentada, a instância indicada na situação acima é o(a)",
       "alternatives": {
         "A": "Conselho Municipal de Saúde.",
@@ -280,7 +297,7 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução RDC nº 36/2013, da ANVISA, institui ações para a promoção da segurança do paciente e apresenta conceitos relacionados à gestão de risco nos serviços de saúde. Considerando as definições estabelecidas na norma, um exemplo de evento adverso é a administração de medicamento",
       "alternatives": {
         "A": "em dose incorreta, resultando em insuficiência renal aguda no paciente internado.",
@@ -297,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com relação às características do Sistema Único de Saúde (SUS), avalie as afirmativas a seguir. I. O sistema público de saúde instituído pela Constituição de 1988 rompeu com o modelo anterior restrito aos trabalhadores formais, passando a garantir acesso a toda a população. II. A organização do sistema, desde sua criação, passou a considerar as desigualdades sociais e regionais como critério para definição de prioridades na oferta de ações e serviços. III. A organização estabelecida a partir de 1988 definiu que toda decisão sobre políticas de saúde seria centralizada na esfera federal, de modo a garantir uniformidade administrativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -314,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Resolução CNS nº 553/2017 estabelece a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, dispondo sobre responsabilidades individuais no âmbito do cuidado. Assinale a opção que apresenta uma violação dos deveres da pessoa usuária.",
       "alternatives": {
         "A": "Solicitar substituição do profissional responsável durante atendimento hospitalar regular.",
@@ -331,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Em um hospital geral de médio porte, foi identificado que um paciente recebeu dose duplicada de um anticoagulante após falha na comunicação durante a troca de plantão. O erro foi percebido horas depois, sem ocorrência de dano grave. A direção da instituição solicita que o Núcleo de Segurança do Paciente proponha medidas imediatas. Com base no Programa Nacional de Segurança do Paciente (PNSP), o encaminhamento prioritário deve ser",
       "alternatives": {
         "A": "formalizar advertência ao profissional envolvido e reforçar, em reunião de equipe, a necessidade de atenção redobrada na etapa de administração.",
@@ -348,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Decreto nº 7.508/2011 define conceitos relativos à organização do Sistema Único de Saúde (SUS), considerando a articulação interfederativa e a regionalização das ações e serviços. Assinale a opção que descreve corretamente uma Região de Saúde.",
       "alternatives": {
         "A": "Conjunto de serviços municipais organizado para integrar ações assistenciais e planejamento sanitário local.",
@@ -365,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A NOB/RH-SUS prevê que a gestão do trabalho no SUS deve obedecer ao princípio da participação bilateral. Assinale a opção que descreve corretamente esse princípio.",
       "alternatives": {
         "A": "Pactuação conjunta de diretrizes sobre carreira e condições laborais.",
@@ -382,7 +399,7 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "O Sistema Único de Saúde (SUS) é estruturado constitucionalmente por um conjunto de princípios e diretrizes que orientam sua organização, seu funcionamento e sua oferta de ações e serviços. Assinale a opção que apresenta uma ação incompatível com as diretrizes do SUS.",
       "alternatives": {
         "A": "Implantação de central de regulação regional para organizar o acesso a consultas e exames entre municípios de uma mesma região de saúde.",
@@ -399,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Leia a situação hipotética a seguir. Durante atendimento em Unidade Básica de Saúde, um homem transexual solicitou encaminhamento para mastectomia. O profissional informou que o procedimento não poderia ser ofertado pelo SUS, pois se trataria de demanda estética não relacionada à saúde. A atitude do profissional de saúde está",
       "alternatives": {
         "A": "inadequada, pois a decisão sobre cirurgias depende exclusivamente de autorização prévia estadual.",
@@ -416,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Com base no Código de Ética Médica (Resolução CFM nº 2.217/2018), avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O médico pode recusar-se a exercer a profissão em instituição pública ou privada quando as condições de trabalho não forem dignas, devendo comunicar formalmente sua decisão ao Conselho Regional competente. ( ) É vedado ao médico divulgar, fora do meio científico, método terapêutico ainda não reconhecido por órgão competente, ainda que a divulgação tenha finalidade apenas educativa. ( ) O médico deve empregar todos os recursos diagnósticos e terapêuticos disponíveis nas situações clínicas irreversíveis, ainda que tais medidas não garantam benefício proporcional ao paciente. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -433,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Bioética parte do pressuposto de que nem tudo o que é cientificamente possível é também eticamente aceitável, exigindo que os avanços técnicos sejam avaliados quanto ao respeito à dignidade da pessoa humana. Assinale a opção que exemplifica uma ação cientificamente possível, porém eticamente inaceitável.",
       "alternatives": {
         "A": "Oferta de tratamento capaz de restaurar completamente funções orgânicas perdidas, ainda que inexistam recursos técnicos para a intervenção.",
@@ -450,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "A Política Nacional de Saúde Integral da População Negra estabelece diretrizes voltadas ao combate contra o racismo institucional e à redução das desigualdades étnico-raciais no âmbito do SUS. Assinale a opção que apresenta uma medida adequada à referida política.",
       "alternatives": {
         "A": "Implementação de metas específicas para redução de desigualdades étnico-raciais em saúde.",
@@ -467,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Os Determinantes Sociais da Saúde (DSS) referem-se a um conjunto de condições que influenciam diretamente a distribuição das doenças e dos fatores de risco na população. Assinale a opção que exemplifica corretamente um DSS.",
       "alternatives": {
         "A": "Elevada prevalência de hipertensão arterial associada ao envelhecimento progressivo da população brasileira.",
@@ -484,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Políticas Públicas de Saúde e Educação",
       "statement": "Avalie se as diretrizes do HumanizaSUS incluem: I. implantação de modelo decisório que concentra na chefia a prerrogativa de alterar rotinas, com o objetivo de garantir maior eficiência no atendimento ao público; II. instituição de espaços regulares de deliberação coletiva para discutir impasses do cotidiano e redefinir responsabilidades entre trabalhadores, gestores e usuários; III. reorganização do acesso com redefinição dos critérios de entrada no serviço, priorizando necessidades avaliadas no momento do atendimento. É compatível com o escopo do HumanizaSUS o que se indica em",
       "alternatives": {
         "A": "II e III, apenas.",
         "B": "I, II e III.",
         "C": "I e III, apenas.",
         "D": "II, apenas.",
-        "E": "I e II, apenas. CONHECIMENTOS ESPECÍFICOS"
+        "E": "I e II, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -501,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo masculino, 6 anos de idade, relata dor e edema no nível do mediopé esquerdo, nega trauma. Radiograficamente, o navicular apresenta evidências de achatamento, esclerose e ossificação irregular. Dentre as opções a seguir, a hipótese diagnóstica mais provável é",
       "alternatives": {
         "A": "doença de Sever.",
@@ -518,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação às aplasias e displasias congênitas, é correto afirmar que",
       "alternatives": {
         "A": "ectrodactilia é a ausência longitudinal pré-axial na mão e punho.",
@@ -535,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo feminino, 65 anos de idade, relatou dor na parte anterior do joelho com exacerbação ao subir ou descer escadas, agachar e ficar sentada por tempo prolongado. Ao exame físico, apresentava crepitação e dor a compressão da patela. A paciente informou ainda que os sintomas pioravam com esforço físico. Ao exame radiográfico, apresentava espaço articular patelofemoral menor que 3 mm, mas sem contato ósseo. Segundo a classificação de Iwano, a paciente apresentava osteoartrite femoropatelar no estágio",
       "alternatives": {
         "A": "I.",
@@ -552,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à idade média de aparecimento dos centros secundários de ossificação nas epífises dos membros inferior e superior, é correto afirmar que",
       "alternatives": {
         "A": "a da tuberosidade radial aparece aos 11 anos.",
@@ -569,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo feminino, 65 anos de idade, sofreu queda da própria altura apresentando em decorrência fratura da extremidade proximal do fêmur. Segundo a classificação da OTA/AO, tratava-se de um fraturado tipo 31 B1.1.(1) Paciente hígida, sem comorbidade e exame de densitometria óssea realizada há seis meses apresentou como resultado no nível do fêmur T-score de -1.8 e na coluna -2,2. Das condutas listadas a seguir, a mais adequada para essa paciente é",
       "alternatives": {
         "A": "artroplastia total do quadril híbrida.",
@@ -586,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo masculino, 35 anos de idade, relata dores no joelho esquerdo e tornozelo direito com aumento de volume nas articulações, informou também ardência ao urinar. Ao ser examinado, a equipe médica identificou descamação das palmas das mãos e solas dos pés (chamada de queratodermia blenorrágica), úlceras orais e uveite. Das afecções listadas a seguir, a hipótese diagnóstica mais provável é",
       "alternatives": {
         "A": "artrite de Bowel.",
@@ -603,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação ao pé talus vertical congênito, assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "Clinicamente observamos pregas profundas sobre o aspecto dorso medial do pé anterior e inferiormente ao maléolo medial.",
@@ -620,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A primeira classificação para escoliose congênita foi baseada em radiografias e descrita por Winter em 1968. Um sistema de classificação mais recente, divulgado por Kawakami, utiliza imagens tridimensionais de tomografia computadorizada da coluna vertebral. Segundo a classificação tridimensional divulgada por Kawakami, a escoliose congênita de um paciente que apresenta uma falha de segmentação pura sem formação anormal, é definida como sendo do tipo",
       "alternatives": {
         "A": "I.",
@@ -637,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo masculino, 22 anos de idade, sofreu queda da própria altura e se apoiou no solo com a mão espalmada. Deu entrada na emergência do hospital referindo dores no punho, principalmente na borda ulnar. Ao exame físico, o ortopedista suspeitou de instabilidade semilunar-piramidal devido à positividade do teste de",
       "alternatives": {
         "A": "Egawa.",
@@ -654,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo feminino, 68 anos de idade, foi submetida a artroplastia total do quadril esquerdo, híbrida há 9 anos, refere dor e incapacidade para deambular após queda da própria altura. Ao exame, não apresenta deformidade no membro inferior direito, mas sente dor ao movimentá-lo. O exame radiográfico evidenciou o componente acetabular metálico bem fixo, com desgaste significativo do inserte acetabular e no fêmur uma haste femoral cimentada, com sinais de soltura, fratura em espiral no nível do terço médio da haste e um osso de boa qualidade. Segunda a classificação de Vancouver, essa paciente apresenta uma fratura do tipo",
       "alternatives": {
         "A": "A 1.",
@@ -671,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação ao hiperparatireoidismo, é correto afirmar que",
       "alternatives": {
         "A": "hiperparatireoidismo secundário é devido a um adenoma da glândula paratireoide em 85% dos casos.",
@@ -688,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A mão torta radial, também chamada displasia radial, é uma deformidade congênita caracterizada pelo desvio radial da mão no nível do punho. Em relação a essa displasia, é correto afirmar que",
       "alternatives": {
         "A": "o Tipo IV apresenta ausência parcial do rádio, quase sempre a porção distal do osso, que pode persistir como um molde cartilaginoso.",
@@ -705,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo masculino, 25 anos de idade, vítima de acidente com motocicleta, é atendido de urgência em centro de trauma e recebe tratamento imediato. Ao exame, encontrava-se alcoolizado, com sangramento significativo no foco de fratura, frequência cardíaca de 140 bpm, PA de 80 x 40 mmHg, pulsos periféricos palpáveis. Apresentava fratura exposta do fêmur esquerdo com extensa lesão de partes moles, com perda de cobertura cutânea no nível da fratura e perda do compartimento lateral da coxa. O exame radiográfico evidenciou fratura multifragmentar do fêmur com perda óssea de 6 cm. Não apresentava nenhuma lesão além da fratura do fêmur. Segundo a classificação de Ganga Hospital Open Injury Score (GHOIS) para as fraturas expostas, esse paciente recebe pontuação",
       "alternatives": {
         "A": "13.",
@@ -722,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo feminino, 36 anos, sofreu entorse do tornozelo durante jogo de vôlei e foi atendida em hospital de urgência. O exame por imagem evidenciou fratura do tipo 44 B 2.2 Das indicações listadas a seguir, assinale a mais adequada.",
       "alternatives": {
         "A": "Fixação do maléolo lateral com uma placa 1/3 de 3,5 mm e fixação do maléolo medial com dois parafusos esponjosos de 4,0 mm.",
@@ -739,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Garden descreveu um índice de alinhamento para medir a qualidade da redução no tratamento das fraturas desviadas do colo do fêmur e que daria previsibilidade quanto ao resultado. Com base nesse índice de Garden, é correto afirmar que",
       "alternatives": {
         "A": "na incidência AP, o ângulo formado pelo eixo do fêmur e o eixo do colo femoral deve variar de 125o a 135o.",
@@ -756,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "A luxação traumática do joelho representa uma das lesões mais perigosas da extremidade inferior, podendo acarretar graves lesões arteriais e nervosas. Em relação a essa lesão, é correto afirmar que",
       "alternatives": {
         "A": "os deslocamentos posteriores resultam mais frequentemente em lesões por tração do vaso sanguíneo e lacerações associadas da íntima do que em transecção arterial.",
@@ -773,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à organização e à fisiologia do tecido muscular, é correto afirmar que",
       "alternatives": {
         "A": "a unidade motora do tipo fibras musculares IIB, ou unidade motora glicolítica rápida, tem tempo de contração mais rápido e é menos resistente à fadiga do que as de fibras.",
@@ -790,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Criança do sexo masculino, 4 anos de idade, sofreu fratura dos ossos do antebraço, sendo tratada com aparelho gessado circular braquiopalmar. 12 horas após a imobilização, retornou ao hospital e, devido ao quadro clínico da criança, a equipe médica suspeitou de síndrome de compartimento. Avalie se, nesse caso, os seguintes achados poderiam levar a equipe médica a suspeitar de síndrome de compartimento: I. Criança apresentando dor, palidez e parestesia. II. Criança inquieta, agitada e uma necessidade crescente de analgesia. III. Criança apresentando dor, ausência de pulso no membro afetado e paralisia. Está(ão) correto(s)",
       "alternatives": {
         "A": "somente o achado I.",
@@ -807,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo feminino, 28 anos de idade, sofreu fratura da cabeça do rádio à esquerda, marginal, com desvio de 4 mm envolvendo 40% da superfície articular. Segundo a classificação de Mason, trata-se de uma fratura do tipo",
       "alternatives": {
         "A": "I.",
@@ -824,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à idade média de fechamento das placas de crescimento (fises) nas epífises dos membros superior e inferior, é correto afirmar que",
       "alternatives": {
         "A": "o fechamento do olecrânio nos meninos ocorre, em média, entre os 9 e os 13 anos de idade.",
@@ -841,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente, 65 anos, sexo feminino, sem comorbidades, sofreu queda da própria altura com trauma indireto sobre o punho esquerdo. Atendida com urgência no pronto-socorro, foi diagnosticada uma fratura da extremidade distal do rádio esquerdo, com desvio dorsal de 25 graus, encurtamento do rádio de 12 mm e depressão articular de 4 mm. Das condutas listadas a seguir, a mais adequada para essa paciente é:",
       "alternatives": {
         "A": "tratamento conservador com aparelho gessado axilopalmar em supinação.",
@@ -858,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo masculino, 15 anos de idade, procurou atendimento médico relatando dores no joelho direito e dificuldade para caminhar. Ao exame clínico, apresentava dores à mobilidade do joelho direito, com aumento do volume articular e calor local. Exame radiográfico evidenciou lesão lítica da epífise distal do fêmur, central, com bordas definidas e 3 cm de diâmetro. A primeira hipótese diagnóstica para esse paciente após avaliação do quadro clínico e radiológico é",
       "alternatives": {
         "A": "hemangioma.",
@@ -875,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação às fraturas da escápula, é correto afirmar que",
       "alternatives": {
         "A": "fratura do colo anatômico do úmero é a lesão mais frequentemente associada a fratura da escápula.",
@@ -892,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à estrutura do tecido cartilaginoso, é correto afirmar que",
       "alternatives": {
         "A": "a matriz da cartilagem articular contém colágenos dos tipos II, V, IX, X e XI, e o colágeno do tipo II representa 90% a 95% do total de colágenos.",
@@ -909,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação às lesões da coluna cervical em crianças, é correto afirmar que",
       "alternatives": {
         "A": "fraturas e lesões da coluna cervical em crianças menores de 8 anos tendem a ocorrer na coluna cervical inferior.",
@@ -926,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente de 34 anos, triatleta do sexo feminino, deu entrada na emergência após correr 30 km, referindo dor na perna esquerda e incapacidade para deambular autonomamente. O exame radiográfico evidenciou fratura por estresse da diáfise da tíbia com desvio lateral de 4 mm. Segundo o sistema de classificação de Kaeding-Miller, trata-se de uma fratura de grau",
       "alternatives": {
         "A": "I.",
@@ -943,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Uma paciente que apresenta necrose avascular da cabeça femoral decorrente do tratamento de displasia do desenvolvimento do quadril, com comprometimento de toda a metáfise, colo femoral encurtado e trocanter maior alto (elevado), é classificada, segundo os critérios de Bucholz-Ogden, como sendo do tipo",
       "alternatives": {
         "A": "I.",
@@ -960,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Criança do sexo feminino, 15 anos de idade, vítima de atropelamento por automóvel. Ao ser atendida no hospital encontrava-se clinicamente estável e o exame radiográfico evidenciou fratura simples do anel anterior da pelve envolvendo os ramos púbicos. Segundo a classificação de Torode e Zieg modificada, essa fratura é classificada como do tipo",
       "alternatives": {
         "A": "I",
@@ -977,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Em relação à tuberculose osteoarticular, é correto afirmar que",
       "alternatives": {
         "A": "a formação óssea reativa está caracteristicamente presente nos estágios iniciais da artrite tuberculosa e sequestros ósseos podem estar presentes ocasionalmente.",
@@ -994,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "CONHECIMENTOS ESPECÍFICOS",
       "statement": "Paciente do sexo feminino, 78 anos de idade, há sete anos sofreu fratura da extremidade proximal do úmero esquerdo, sendo tratada com artroplastia parcial do úmero com utilização de uma prótese anatômica. Hoje, sofreu uma queda da própria altura e, em decorrência, apresentou dor e limitação dos movimentos do membro superior esquerdo. O exame radiográfico evidenciou uma fratura periprotética na ponta da haste estendendo-se por mais de um terço do seu comprimento. Segundo a classificação de Wright e Cofield, essa fratura é classificada como sendo do tipo",
       "alternatives": {
         "A": "A.",

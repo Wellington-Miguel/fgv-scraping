@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Assembleia Legislativa do Estado de Rondônia",
   "cargo_title": "Assistente Legislativo Técnico em Produção de Áudio e Vídeo",
   "exam_type": "Tipo 1",
-  "total_questions": 79,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
@@ -202,7 +202,7 @@
         "B": "Como estivesse atrasado, acabou perdendo o avião / conjunção.",
         "C": "Apesar de muito esforço, não conseguiu passar no concurso / locução prepositiva.",
         "D": "Um ciclone inesperado atingiu Rio Bonito do Iguaçu, no estado do Paraná / adjetivo.",
-        "E": "Em 99% das casas e do comércio da cidade, a energia que foi cortada já foi restabelecida / pronome. Raciocínio Lógico Matemático"
+        "E": "Em 99% das casas e do comércio da cidade, a energia que foi cortada já foi restabelecida / pronome."
       },
       "answer": "A",
       "annulled": false,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Considere a afirmação: “Se o cozinheiro é competente, o almoço não vai atrasar.” A negação dessa afirmação é",
       "alternatives": {
         "A": "O cozinheiro não é competente e o almoço vai atrasar.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Samuel compra e vende carros usados na sua loja. Em uma das suas transações, ele comprou um carro usado e anunciou como preço de venda um valor 20% maior do que gastou na compra. Entretanto, na hora de vender, ele deu ao comprador um desconto de 10% sobre o preço de venda anunciado. Com isso, ele lucrou R$ 5.200,00 nessa transação. Esse carro foi vendido por",
       "alternatives": {
         "A": "R$ 65.000,00.",
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Arlindo, Benedito, Gilmar, Nonato e Osvaldo vão acampar. Eles possuem duas barracas, sendo uma menor, que comporta duas pessoas, e outra maior, comportando três pessoas. Entretanto, Arlindo e Benedito não querem ficar na mesma barraca. Respeitando esse desejo, o número de maneiras diferentes em que as cinco pessoas podem ser arrumadas, nas duas barracas, é",
       "alternatives": {
         "A": "3.",
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Uma panela de sopa pode alimentar ou 6 adultos ou 10 crianças. Em certa ocasião, havia 4 panelas de sopa e foram alimentadas 25 crianças. Com a sopa que sobrou, a quantidade de adultos que podem ser alimentados é igual a",
       "alternatives": {
         "A": "6.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Uma rádio fez uma pesquisa para conhecer melhor o seu público ouvinte. Ao todo, 240 pessoas foram entrevistadas. Do total de entrevistados, 100 eram mulheres e 136 ouvem a rádio. Constatou-se também que apenas 6 mulheres não ouvem a rádio. Dos homens entrevistados, o percentual daqueles que ouvem a rádio é de",
       "alternatives": {
         "A": "10%.",
@@ -297,14 +297,14 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em uma urna há 10 cartas, sendo 5 vermelhas e 5 pretas. Em cada uma das 5 cartas vermelhas está escrito uma das letras A, B, C, D e E. O mesmo ocorre com cada uma das cartas pretas. Todas as cartas são diferentes entre si. Sorteiam-se, ao acaso, duas cartas em sequência e sem reposição. A probabilidade de as cartas sorteadas terem a mesma cor ou a mesma letra é igual a",
       "alternatives": {
         "A": "2/5.",
         "B": "3/5.",
         "C": "2/9.",
         "D": "4/9.",
-        "E": "5/9. Noções de Informática"
+        "E": "5/9."
       },
       "answer": "E",
       "annulled": false,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de Informática da ALE-RO está elaborando um manual de especificações técnicas para a aquisição de novos computadores. É necessário descrever corretamente a função de cada componente para justificar a escolha técnica. Assinale a opção que apresenta corretamente o componente de hardware e sua função principal na arquitetura básica de um computador.",
       "alternatives": {
         "A": "CPU: armazenar permanentemente o sistema operacional e os arquivos dos usuários.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Durante uma sessão longa e de alta demanda na ALE-RO, o sistema de registro de votos e tramitação de emendas começa a ficar extremamente lento. O analista de TI, ao monitorar o sistema, observa que a memória física (RAM) está completamente utilizada. O sistema operacional então passa a usar um recurso para não travar completamente. O recurso técnico que o sistema operacional utiliza como extensão da memória RAM física, quando essa atinge sua capacidade máxima, armazenando dados temporariamente em um dispositivo de armazenamento secundário, é denominado",
       "alternatives": {
         "A": "Memória Cache L3.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Um servidor público da ALE-RO está redigindo um relatório extenso no Microsoft Word 365 (BR), no Windows 10 (BR). Para otimizar seu trabalho e evitar o uso excessivo do mouse, ele utiliza combinações de teclas para executar comandos comuns com mais agilidade. A seguir, relacione os atalhos de teclado às ações que o servidor deseja realizar. 1. Ctrl + B 2. Ctrl + T 3. Ctrl + Z 4. Ctrl + L ( ) Salvar o documento em que está trabalhando. ( ) Selecionar todo o texto do documento atual. ( ) Desfazer a última ação realizada. ( ) Pesquisar por uma palavra específica dentro do documento. Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3 – 4.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "A Diretoria Legislativa da ALE-RO estabeleceu um padrão formal para a redação de todas as suas indicações. O modelo oficial define que os títulos das seções principais (como “EMENTA” e “JUSTIFICATIVA”) devem usar a fonte Arial, tamanho 14, negrito e com um espaçamento de 24 pontos, após o parágrafo. No MS Word 365 (BR), a maneira mais eficiente e profissional para aplicar e garantir a uniformidade desse padrão em todos os documentos é",
       "alternatives": {
         "A": "utilizar o Pincel de Formatação para copiar a formatação de um título para os outros.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de protocolo da ALE-RO precisa gerar automaticamente um código único para cada novo documento. O código é composto pelo Ano (coluna A), a sigla do Tipo de Processo (coluna B, ex.: \"PL\" para Projeto de Lei) e um Número Sequencial com 5 dígitos (coluna C, ex.: 00045). O formato final desejado é “2026-PL-00045”, conforme ilustra a figura a seguir. Para criar esse código formatado na coluna D, a fórmula correta a ser inserida na célula D2 e arrastada para baixo é:",
       "alternatives": {
         "A": "=A2 & B2 & C2",
@@ -399,14 +399,14 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de transparência da ALE-RO publica mensalmente uma planilha no Google Sheets com os gastos por departamento. Um servidor precisa criar um gráfico que mostre, de forma clara e imediata, a proporção (%) do orçamento total consumida por cada um dos seis departamentos em um determinado mês. O tipo de gráfico mais adequado no Google Sheets para atender a esse objetivo de visualizar partes de um todo é",
       "alternatives": {
         "A": "Gráfico de Linhas.",
         "B": "Gráfico de Colunas.",
         "C": "Gráfico de Pizza (ou Rosca).",
         "D": "Gráfico de Dispersão.",
-        "E": "Gráfico de Barras. Legislação Específica"
+        "E": "Gráfico de Barras."
       },
       "answer": "C",
       "annulled": false,
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No exercício de suas atribuições como servidora pública da Assembleia Legislativa do Estado de Rondônia, Shirley foi questionada acerca das especificidades da inexigibilidade de licitação constantes da Resolução ALE/RO nº 593, de 30 de outubro de 2024, que estabelece disposições regulamentares acerca das atribuições e procedimentos de licitações e contratos administrativos, no âmbito do aludido Órgão. Assinale a resposta correta dada por Shirley ao mencionado questionamento.",
       "alternatives": {
         "A": "A prorrogação da vigência dos contratos regularmente formalizados em decorrência de inexigibilidade de licitação é proibida, independentemente da demonstração de vantajosidade para a Administração.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Certa autoridade competente classificou como reservada uma determinada informação, sob o fundamento de que sua divulgação ou seu acesso irrestrito poderiam prejudicar ou causar risco a projetos de pesquisa e desenvolvimento científico ou tecnológico. Diante de tais circunstâncias, assinale a afirmativa correta, em consonância com o disposto na Lei nº 12.527/2011.",
       "alternatives": {
         "A": "O fundamento invocado não é idôneo para determinar o sigilo, pois não se enquadra dentre as situações consideradas imprescindíveis à segurança da sociedade e do Estado.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "William é servidor público do Estado de Rondônia, regularmente investido, que alcançou a estabilidade. Recentemente, contudo, William tem vivido intercorrências no espectro familiar, envolvendo a doença da madrasta que o criou, Valentina, que requer cuidados especiais, bem como o iminente deslocamento de sua esposa, Jane, para Brasília para o exercício de mandato eletivo como senadora, sendo certo que Eva, irmã de William por parte de pai e filha de Valentina, também é servidora estável do mesmo ente federativo. Diante dessa situação hipotética, à luz das disposições acerca da licença por motivo de doença na família e da licença por motivo de afastamento de cônjuge ou companheiro na Lei Complementar nº 68, de 09 de dezembro de 1992 e suas alterações, assinale a afirmativa correta.",
       "alternatives": {
         "A": "William e Eva poderão usufruir de licença por motivo de doença de Valentina ao mesmo tempo, considerando que o seu tratamento requer cuidados especiais.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Considerando o disposto no Código de Ética e Decoro Parlamentar da Assembleia Legislativa do Estado de Rondônia, o deputado que, pela primeira vez, utilizar, em discurso ou proposição, expressões atentatórias ao decoro parlamentar está sujeito à penalidade de",
       "alternatives": {
         "A": "censura verbal.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Acerca da validade dos atos administrativos, avalie as assertivas a seguir. I. Não poderá ser considerado inválido o ato administrativo no caso de falta ou insuficiência de motivação. II. Nos atos discricionários, será razão de invalidade a falta de correlação entre o motivo e o objeto do ato, tendo em vista a sua finalidade. III. Os atos administrativos deverão ser precedidos do processo administrativo adequado à sua validade e à proteção dos direitos e interesses dos administrados. Considerando o disposto na Lei do Processo Administrativo do Estado de Rondônia (Lei Ordinária nº 3.830, de 27 de junho de 2016), está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O Regimento Interno da Assembleia Legislativa do Estado de Rondônia, Resolução nº 32, de 21 de agosto de 1990 e suas alterações, delimita as comissões permanentes, o número de membros e a competência de cada uma delas. Com base na mencionada norma, assinale a opção correta a respeito do tema.",
       "alternatives": {
         "A": "Comissão de Agropecuária e Política Rural, com 7 (sete) membros, à qual compete a matéria atinente ao regime jurídico-administrativo e concessão e uso dos bens civis públicos.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Com vistas a analisar um projeto de lei que versa sobre servidores públicos do Estado de Rondônia, Salete, servidora da Assembleia Legislativa do mencionado ente federativo, teve que analisar as peculiaridades das normas da respectiva Constituição Estadual acerca do tema. Assinale a afirmativa que indica a correta conclusão alcançada por Salete, à luz do disposto na Carta Estadual.",
       "alternatives": {
         "A": "Nenhum servidor poderá ser diretor ou integrar conselho de empresa fornecedora do Estado, ou que realize qualquer modalidade de contrato com o Estado, sob pena de demissão do serviço público, salvo quando o contrato obedecer a cláusulas uniformes.",
@@ -535,14 +535,14 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Deodato, servidor da Assembleia Legislativa do Estado de Rondônia, está com receio de ter praticado, no exercício de suas atribuições, conduta passível de caracterizar ato de improbidade que atenta contra os princípios da Administração Pública, de modo que decidiu aprofundar os seus conhecimentos acerca de tal ato de improbidade, à luz do disposto na Lei nº 8.429/1990, com a redação conferida pela Lei nº 14.230/2021. Assinale a afirmativa que indica a conclusão correta alcançada por Deodato.",
       "alternatives": {
         "A": "Toda ilegalidade é passível de caracterização do ato de improbidade em análise, independentemente da comprovação de que o agente público tinha por objetivo obter proveito ou benefício indevido para si ou para outra pessoa entidade.",
         "B": "O dispositivo relativo à categoria em comento é aplicável nas situações que não se enquadrem com ato de improbidade que importe em enriquecimento ilícito ou que cause lesão ao erário, de modo que o respectivo rol não pode ser considerado taxativo.",
         "C": "O dolo é imprescindível para a caracterização do ato de improbidade em cotejo, assim como é necessário o reconhecimento de que a conduta produziu danos ao erário, sem o que não haverá improbidade.",
         "D": "O enquadramento de conduta funcional na categoria em exame não depende da demonstração objetiva da prática de ilegalidade no exercício da função pública, tampouco da indicação das normas constitucionais, legais ou infralegais violadas.",
-        "E": "Nem todo ato que viola princípio da Administração Pública poderá caracterizar o ato de improbidade objeto de questionamento, sendo exigida lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento. História e Geografia de Rondônia"
+        "E": "Nem todo ato que viola princípio da Administração Pública poderá caracterizar o ato de improbidade objeto de questionamento, sendo exigida lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento."
       },
       "answer": "E",
       "annulled": false,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Desde o período colonial, a região dos vales dos rios Guaporé e Madeira ocupou posição estratégica na definição das fronteiras amazônicas. A respeito do papel histórico e atual da região citada, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) Nos primeiros séculos da colonização, a presença portuguesa na região esteve associada à exploração econômica, à navegação fluvial e à necessidade de assegurar a posse territorial frente ao império espanhol. ( ) Ao longo do século XX, políticas de integração nacional, como a criação do Território Federal do Guaporé, a construção da Ferrovia Madeira-Mamoré e, posteriormente, da rodovia BR- 364, buscaram fortalecer a presença do Estado brasileiro e integrar a Amazônia Ocidental ao restante do país. ( ) Atualmente, a região continua sendo estratégica, enfrentando desafios relacionados ao controle das fronteiras internacionais, à circulação de pessoas e mercadorias, às migrações e à atuação do Estado na garantia da soberania nacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No final do século XIX e no início do século XX, a economia da borracha na Amazônia esteve estreitamente ligada às disputas territoriais na região do atual Acre e às redefinições do mapa político da América do Sul, intensificadas após a independência de antigas colônias espanholas, como a Bolívia. Nesse contexto, a construção da Estrada de Ferro Madeira- Mamoré esteve inserida em um conjunto de medidas políticas, diplomáticas e econômicas adotadas pelo Estado brasileiro para enfrentar esses impasses. Com base nesse cenário histórico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A construção da Estrada de Ferro Madeira-Mamoré inseriu-se no contexto da chamada Revolução Acreana, desencadeada pela disputa entre o Império do Brasil e a República da Bolívia pela região que corresponde ao atual estado do Acre, então valorizada pela exploração dos seringais.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Mapa das linhas telegráficas após os trabalhos da Comissão Rondon. Fonte: Obras Raras Fiocruz A imagem apresentada corresponde a um mapa utilizado nas palestras do Coronel Cândido Mariano da Silva Rondon, no qual estava representado o fechamento do circuito de comunicações telegráficas do Brasil, resultado dos trabalhos da Comissão Rondon, no início do século XX. Considerando esse contexto histórico, o principal objetivo da Comissão Rondon foi",
       "alternatives": {
         "A": "realizar o mapeamento das fronteiras do sertão brasileiro, concebido como referência da autenticidade nacional, com finalidade predominantemente cultural e ideológica.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A figura a seguir mostra a localização dos projetos de assentamento da década de 1970 implantados ao longo da BR- 364, rodovia que percorre todo o estado, ligando Rondônia ao Acre e a Mato Grosso. Fonte: Fearnside, 1989 No contexto do regime militar, o projeto de colonização oficial conduzido pelo INCRA em Rondônia",
       "alternatives": {
         "A": "buscou promover a ocupação agrícola extensiva do território por meio dos Projetos Integrados de Colonização (PICs), que previam a distribuição de pequenos lotes, financiados com recursos públicos e privados.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Rondônia integra o bioma Amazônia e apresenta como formação vegetal predominante a floresta ombrófila aberta, que corresponde a cerca de 72% da cobertura florestal natural do estado. Esse tipo de floresta",
       "alternatives": {
         "A": "ocorre principalmente em áreas de transição entre a Floresta Amazônica e as regiões extra-amazônicas, onde há influência de climas relativamente mais secos.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em novembro de 2025, o Quilombo Forte Príncipe da Beira, localizado no município de Costa Marques (RO), foi o palco do evento “A Terra é Meu Quilombo”. A iniciativa promoveu uma imersão em arqueologia pública e educação patrimonial, unindo moradores do quilombo e pesquisadores da Universidade Federal de Rondônia (UNIR) em escavações arqueológicas comunitárias, oficinas e rodas de conversa. O principal objetivo do evento foi utilizar a arqueologia como instrumento de fortalecimento identitário: “Não estamos apenas procurando fragmentos do passado. Estamos desenterrando as provas materiais da nossa longa existência aqui, resgatando uma história que foi sistematicamente apagada. Cada fragmento encontrado no nosso quintal é um fio que tece a narrativa da nossa resistência e fortalece o nosso direito a esta terra”, afirma Lulu, presidente da Associação Quilombola do Forte Príncipe da Beira (ASQFORTE). Adaptado de https://www.unir.br/cartao/exibir/313 Com base no relato sobre o evento “A Terra é Meu Quilombo”, realizado no Quilombo Forte Príncipe da Beira (Costa Marques– RO), e considerando a trajetória histórica das comunidades quilombolas em Rondônia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A utilização da arqueologia pública no quilombo visa a uma reconstituição acadêmica do passado, vinculada aos preceitos da objetividade e da isenção científicas.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A respeito das mudanças no desenvolvimento viário e na ocupação territorial de Rondônia entre 1974 e 2012, considere os dois mapas e avalie as afirmativas a seguir. I. Em 1974, a rede viária era incipiente e fortemente concentrada na BR-364, eixo estruturante que ligava Porto Velho ao sul do território e ao Centro-Sul do país. A ocupação territorial acompanhava esse traçado linear: os núcleos urbanos e as atividades econômicas estavam majoritariamente alinhados à rodovia, com vastas áreas do interior ainda pouco acessíveis. II. Em 2012, observa-se uma ampliação significativa e a diversificação da malha viária, com a multiplicação de rodovias federais, estaduais e vicinais, tanto asfaltadas quanto não. Esse adensamento da rede indica a interiorização da ocupação, a consolidação de novos municípios e a articulação entre diferentes polos regionais, como Ariquemes, Ji-Paraná e Vilhena. III. A expansão da rede viária atuou como principal vetor da ocupação do território, funcionando simultaneamente como causa e consequência desse processo. Em 1974, a malha rodoviária era limitada basicamente à BR-364 e à BR-425, esta última responsável por substituir a Ferrovia Madeira- Mamoré na ligação entre Porto Velho e Guajará-Mirim. Já em 2012, observa-se a formação de uma rede rodoviária mais ampla e articulada, desenvolvida a partir desse eixo central e responsável por promover a expansão e a interiorização da ocupação territorial. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -671,14 +671,14 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com a elevação de Rondônia à condição de Estado da Federação, no início da década de 1980, tornou-se necessário organizar suas instituições políticas e administrativas, entre elas o Poder Legislativo estadual. Esse processo envolveu eleições, a atuação de uma Assembleia Constituinte e a definição das bases constitucionais do novo ente federativo. Nesse contexto, assinale a afirmativa que descreve corretamente um aspecto da história do Poder Legislativo do estado de Rondônia.",
       "alternatives": {
         "A": "A primeira eleição no recém-criado estado de Rondônia ocorreu em novembro de 1982, quando a população escolheu o novo governador e os 24 deputados estaduais que teriam a missão de atuar como constituintes.",
         "B": "Durante a Assembleia Constituinte, realizada entre fevereiro e agosto de 1983, o papel legislador era exercido pelo Governador que legislava mediante decretos-leis.",
         "C": "A efetiva implantação do Poder Legislativo aconteceu em agosto de 1983, quando foi reformada a Constituição, a Assembleia Constituinte foi extinta e a Assembleia Legislativa foi instalada.",
         "D": "No texto da primeira Constituição de Rondônia foi inserido um dispositivo que garantia à Câmara e ao Tribunal de Contas autonomia administrativa e financeira, algo então inexistente, e que foi absorvido no texto da Constituição Federal de 1988.",
-        "E": "Atualmente, o Poder Legislativo do estado de Rondônia é exercido por 24 deputados estaduais eleitos a cada quatro anos, cujo número corresponde ao dobro da representação do Estado na Câmara dos Deputados. MÓDULO II Conhecimentos Específicos"
+        "E": "Atualmente, o Poder Legislativo do estado de Rondônia é exercido por 24 deputados estaduais eleitos a cada quatro anos, cujo número corresponde ao dobro da representação do Estado na Câmara dos Deputados."
       },
       "answer": "B",
       "annulled": false,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a mixagem de uma entrevista gravada em estúdio, o operador percebe que a voz do locutor está “abafada” e pouco inteligível, competindo com um zumbido grave do ar- condicionado. Além disso, o áudio foi gravado em um único canal, mas precisa ser distribuído para os dois lados do fone de ouvido do ouvinte. Para resolver esses problemas deve-se",
       "alternatives": {
         "A": "aplicar um filtro Passa-Baixa (Low Pass) para remover a voz e converter o arquivo para Mono.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma sala de reuniões possui paredes de vidro, piso de porcelanato e teto de gesso liso. Ao realizar uma videoconferência, o som apresenta pouca clareza. Com relação à acústica aplicada a ambientes utilizados para gravação, transmissão ou videoconferência, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Superfícies rígidas e reflexivas aumentam o tempo de reverberação, causando sobreposição entre o som direto e suas reflexões. ( ) Para evitar reverberação excessiva deve-se instalar materiais porosos (como espumas ou painéis de lã) para absorver a energia das ondas. ( ) Difusores de superfície lisa são suficientes para eliminar ecos curtos e melhorar totalmente a inteligibilidade da fala. ( ) O isolamento acústico impede que o som entre ou saia de um ambiente, mas não resolve problemas de reflexão sonora dentro da sala. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F – V.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Ao operar uma mesa de som analógica profissional, o técnico observa um botão localizado na tira de canal (channel strip), geralmente posicionado próximo ao fader de volume e rotulado com a sigla PFL (Pre-Fader Listen). A função técnica prioritária ao se acionar esse botão é",
       "alternatives": {
         "A": "ativar o equalizador (EQ) do canal, permitindo que os ajustes de graves, médios e agudos sejam processados e inseridos na mixagem final.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a gravação de depoimentos em ambiente externo, o técnico percebe que o ambiente apresenta rajadas de vento gerando instabilidade no nível do sinal. Avalie se as seguintes ações para minimizar esse problema estão corretas. I. Utilizar um windscreen de espuma e o deadcat , que funcionam como filtros físicos que 'quebram' a força do vento desacelerando o ar antes que ele atinja o microfone. II. Posicionar o microfone fora do eixo do vento, mantendo proximidade da fonte sonora, ajuda a minimizar rajadas sem comprometer o timbre. III. Utilizar um limitador (limiter) aplicado na pós-produção elimina rajadas de vento sem alterar a textura da voz captada. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Avalie as afirmativas abaixo, sobre as características técnicas de arquivos de áudio para vídeo e padrões de broadcast e classifique-as como Verdadeiras (V) ou Falsas (F). ( ) A taxa de amostragem (Sample Rate) padrão para áudio em vídeo digital e televisão é de 48 kHz. O uso de arquivos em 44.1 kHz (padrão do CD) em uma timeline de vídeo configurada para 48 kHz pode ocasionar erros de sincronia (drift) em programas longos ou necessidade de renderização prévia. ( ) O Dithering é um ruído aleatório de baixíssima intensidade adicionado propositalmente ao áudio quando se reduz a profundidade de bits (ex: converter de 24-bit para 16-bit) para mascarar o erro de quantização e preservar a fidelidade em caudas de reverb e fades. ( ) A norma de Loudness EBU R128 (ou ATSC A/85) estabelece que o volume final de um programa deve ser normalizado pelo pico mais alto (Peak Normalization), garantindo que o som mais forte atinja 0 dBFS para maximizar o volume na transmissão. ( ) Um arquivo WAV Broadcast (BWF) diferencia-se de um WAV comum por conter metadados embutidos, como o Timecode de origem, o que permite que o editor de áudio posicione o clipe automaticamente na posição correta da timeline (Spot to Timestamp). As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – V – F.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a mixagem de um podcast, o editor nota que o convidado possui uma dinâmica vocal muito instável: em alguns momentos sussurra e em outros ri alto, fazendo com que o ouvinte precise ajustar o volume constantemente. Além disso, a gravação captou “puffs” e excesso de graves devido à proximidade excessiva da boca com o microfone. A cadeia de processamento mais adequada, na ordem lógica correta para resolver esses problemas, é:",
       "alternatives": {
         "A": "Reverb (para dar ambiente) > Normalizar (para aumentar tudo) > Equalizador (reforçando graves).",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a sonorização de uma peça audiovisual, o editor de som deve categorizar e posicionar os elementos sonoros de acordo com sua função narrativa. Ao inserir o som parecido com o de uma sirene de polícia que não existe na cena filmada, mas que serve para criar tensão psicológica e indicar que “o perigo está se aproximando” (embora os personagens não reajam a ela), o editor está utilizando um recurso classificado tecnicamente como",
       "alternatives": {
         "A": "Som Não-Diegético (ou Extradiegético), pois é um elemento inserido para o espectador (efeito dramático/trilha), não sendo percebido pelos personagens dentro da lógica da cena.",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Relacione as peças de áudio a suas respectivas funções na identidade sonora de uma empresa. 1. Sound Logo (ou Logo Sonoro/Mogo) 2. Cama (Bed) 3. Jingle 4. Vinheta de Passagem ( ) Elemento de pontuação. Serve para “limpar” o ouvido e transicionar entre segmentos diferentes, resetando a atenção do ouvinte. ( ) Peça publicitária musicada e cantada, com estrutura de canção (refrão/slogan), feita para fixar a mensagem. ( ) É a “assinatura” curta da marca (ex: o “Tu-dum” da Netflix ou o “Plim-Plim” da Globo). ( ) Música instrumental projetada para ficar embaixo da voz, sem competir com ela (geralmente com frequências médias escavadas). Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "4 – 1 – 2 – 3.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Analise a imagem do osciloscópio utilizado para diagnosticar um sinal de áudio defeituoso. A forma de onda resultante sugere que a seguinte falha na estrutura de ganho ocorreu na cadeia de transmissão:",
       "alternatives": {
         "A": "Compressão Dinâmica: O sinal foi excessivamente comprimido, resultando em uma perda de faixa dinâmica, mas sem distorção harmônica significativa.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No contexto da produção sonora para rádio e internet, existem diferenças fundamentais na forma como o áudio é tratado dependendo se o programa é Gravado ou Transmitido Ao Vivo. Analise as afirmativas a seguir sobre essas diferenças operacionais. I. O streaming On-Demand elimina a necessidade de compressão de dados. Por não depender de tempo real, as plataformas distribuem os arquivos exclusivamente em formatos brutos (WAV/AIFF) para garantir a qualidade original de estúdio. II. Na transmissão ao vivo, o áudio é processado em tempo real ou em regime de atraso técnico muito curto (delay operacional), o que impede a realização de edição plena e correções precisas antes da veiculação; assim, ocorrências inesperadas, como tosses, microfonia ou variações bruscas de volume, tendem a ser transmitidas ao público, sendo controladas apenas por processos automáticos de processamento de sinal. III. Devido à imprevisibilidade do volume em uma transmissão ao vivo (como risadas altas ou gritos repentinos), é indispensável o uso de um Limiter (Limitador) na saída final do sistema. Sua função é agir como uma proteção automática, impedindo que esses picos de volume causem distorção no sinal transmitido. Está correto o que se afirma em:",
       "alternatives": {
         "A": "I, II e III.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com relação às práticas de mixagem em conteúdos informativos televisivos, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A trilha musical deve sempre estar em nível inferior ao da voz do apresentador, sem competir pela inteligibilidade. ( ) Em reportagens externas, a ambiência do local deve ser completamente removida para evitar distrações ao telespectador. ( ) Microfones de lapela são amplamente utilizados em estúdio por oferecerem constância de nível e boa captação da fala. ( ) Sons complementares (foley) podem reforçar elementos visuais, desde que não criem dramatização artificial. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F – V.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Relacione os elementos de sonorização a seguir enumerados às suas funções principais: 1. Foley 2. Trilha musical 3. Efeitos sonoros especiais 4. Voz off ( ) Sons criados ou reconstruídos para reforçar ações físicas em cena, como passos, roupas ou objetos. ( ) Elemento narrativo que funciona como comentário, contextualização ou explicação externa à ação. ( ) Composição musical que estabelece clima emocional, marca transições e reforça ritmo dramático. ( ) Criação de sons que não existem naturalmente ou que exigem construção estética específica, como efeitos de ficção científica. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "2 – 4 – 1 – 3.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma transmissão ao vivo multicâmera, é fundamental que todos os equipamentos de captação iniciem a varredura da imagem no mesmo instante para evitar “pulos”, faixas pretas ou atrasos durante o corte na mesa (switcher). Para garantir isso, utiliza-se um sinal de referência enviado via cabo para todas as câmeras. Na nomenclatura técnica profissional de vídeo, o termo correto para designar esse sinal de sincronismo externo é",
       "alternatives": {
         "A": "Genlock, que trava a frequência de varredura das fontes de vídeo a um gerador mestre.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um fluxo de trabalho profissional de pós-produção audiovisual, a etapa inicial que precede a edição criativa consiste na importação da mídia bruta para o sistema, seguida pela verificação técnica, renomeação de arquivos e inserção de metadados (como número da cena, take e notas de script) para facilitar a busca futura. Na nomenclatura técnica do setor, esse processo específico de entrada e catalogação de mídia é denominado de",
       "alternatives": {
         "A": "Mastering.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Num palco, o monitor para retorno, em relação a um microfone vocal padrão polar cardioide, está montado da seguinte maneira: --------------------- PLATEIA --------------------- Com base na relação entre o padrão polar do microfone e o posicionamento da fonte de monitoração, para evitar realimentação (microfonia), pode-se afirmar que o posicionamento",
       "alternatives": {
         "A": "está incorreto e causará microfonia imediata, pois o monitor está jogando som diretamente na cápsula do microfone.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com relação às características técnicas, instalação e operacionalização de equipamentos de áudio profissional (microfones, consoles e processadores), analise as afirmativas abaixo e assinale (V) para a verdadeira e (F) para a falsa. ( ) Microfones do tipo Dinâmico caracterizam-se pela alta sensibilidade e fragilidade mecânica, necessitando obrigatoriamente de alimentação elétrica externa (+48V ou Phantom Power) para polarizar suas cápsulas, sendo a escolha padrão para captação de ambientes distantes. ( ) O sistema de conexão balanceada (utilizado em cabos XLR) protege o sinal de áudio contra interferências eletromagnéticas externas; isso ocorre porque o sinal é enviado em duplicidade com fases invertidas, permitindo que o equipamento receptor cancele o ruído induzido através da “Rejeição de Modo Comum”. ( ) Em um console de áudio, os envios auxiliares (Aux Sends) configurados como Pré-Fader são os mais indicados para a alimentação de sistemas de retorno (monitores ou fones), pois garantem que o nível de áudio enviado permaneça estável, independentemente dos ajustes de volume feitos no fader principal para a plateia. ( ) O Compressor é um processador de dinâmica cuja função principal é atenuar os picos de sinal que ultrapassam um determinado limite, reduzindo a diferença de volume entre os momentos de maior e menor intensidade sonora. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V – V.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O som direto em produções audiovisuais pode ser registrado de duas formas principais: diretamente na câmera de vídeo (single system) ou por meio de um equipamento de gravação dedicado, separado da imagem (double system). Cada configuração apresenta implicações técnicas distintas quanto ao controle de ganho, número de canais, mobilidade da equipe de som e procedimentos de sincronização entre áudio e imagem. Com relação à gravação do som direto, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Ao gravar o som separadamente em um gravador dedicado, o técnico de som dispõe, em geral, de controles físicos mais acessíveis de ganho, medição visual dedicada e monitoramento adequado, o que facilita correções suaves durante a captação em comparação com o controle direto pelo corpo da câmera. ( ) A gravação do áudio diretamente na câmera é a escolha ideal para cenas de alta complexidade com muitos personagens, pois câmeras de vídeo convencionais oferecem, como padrão, múltiplas entradas simultâneas de microfone em quantidade suficiente para atender a essas demandas. ( ) Uma das limitações frequentes da gravação do som direto na câmera, quando há conexão física por cabos, é a restrição de deslocamento e posicionamento do técnico de som, o que pode dificultar o posicionamento ideal do microfone em relação à fonte sonora. ( ) O uso de gravador de áudio separado dispensa o uso de claquete, pois o áudio gravado é automaticamente incorporado ao arquivo de vídeo de forma instantânea, sem necessidade de sincronização posterior. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V – F.",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A convergência digital aproximou as tecnologias de produção de rádio, TV e internet, mas cada meio ainda possui especificidades técnicas quanto à compressão, distribuição e consumo. Sobre a produção e veiculação de mensagens nesses meios, analise as afirmativas abaixo e assinale (V) para a verdadeira e (F) para a falsa. ( ) Na produção de vídeo para internet, aumentar a resolução de saída (ex: de Full HD para 4K) garante automaticamente uma imagem de melhor qualidade visual, independentemente da taxa de bits (bitrate) configurada na renderização. ( ) No contexto da TV Digital e do Rádio, a transmissão ocorre no modelo \"Broadcast\" (um para muitos), onde o sinal é enviado simultaneamente para todos os receptores, o que garante baixa latência e estabilidade, diferentemente do streaming via internet, que depende da banda larga disponível para cada usuário (Unicast/Multicast) e está sujeito a variações de buffer. ( ) O formato de distribuição \"Podcast\" diferencia-se tecnicamente do \"Rádio Broadcast\" principalmente pela não linearidade; enquanto o rádio obedece a uma grade horária fixa (fluxo contínuo), o podcast é distribuído via RSS para consumo sob demanda (assíncrono). ( ) O codec H.264 (AVC) tornou-se obsoleto e não é mais utilizado em produções profissionais de vídeo ou streaming para web, tendo sido completamente substituído pelo H.265 (HEVC) devido à sua maior eficiência de compressão. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – V – F.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um set de gravação audiovisual com iluminação precária, o operador de câmera constata que a imagem está subexposta. O Diretor de Fotografia determina que a sensibilidade do sensor (ISO) já está no seu limite máximo aceitável para evitar a introdução de ruído digital na imagem. Considerando que a velocidade do obturador deve ser mantida para preservar o “motion blur” natural, o seguinte ajuste físico na câmera permitirá uma maior incidência de luz no sensor para corrigir a exposição:",
       "alternatives": {
         "A": "aumentar a taxa de quadros por segundo (fps).",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Relacione cada elemento utilizado em produções de TV e transmissões ao vivo com sua função principal: 1. Tally 2. CCU 3. Intercom 4. Talkback ( ) Sistema que permite ao operador ajustar parâmetros remotos das câmeras, como pedestal (black level), ganho, iris e matriz de cores. ( ) Indicação visual no visor e/ou no corpo da câmera que mostra ao operador e ao apresentador qual câmera está no ar. ( ) Sistema de comunicação de voz utilizado entre diretor, switcher e operadores de câmera, principalmente, permitindo conversa contínua durante a gravação ou transmissão. ( ) Recurso de áudio que permite ao diretor ou produtor falar diretamente da técnica para o estúdio (para o sistema de som ou ponto eletrônico). A associação correta, na ordem dada, é:",
       "alternatives": {
         "A": "2 – 3 – 4 – 1.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Na linguagem audiovisual, a escolha dos dispositivos de apoio e movimentação de câmera influencia diretamente a estabilidade da imagem, o tipo de enquadramento, a fluidez dos movimentos e o sentido estético da cena. Relacione os dispositivos de câmera elencados a seguir às suas respectivas características de uso: 1. Tripé 2. Grua 3. Trilhos (Dolly) 4. Steadicam ( ) Composto por seções tubulares (geralmente de alumínio ou aço inox) que servem de guia para o deslocamento de um carrinho de câmera. Sua função primordial é permitir movimentos de câmera fluidos, constantes e livres de trepidação, independentemente da irregularidade do solo (chão de terra, asfalto rugoso, grama etc.). ( ) Sistema mecânico de estabilização de câmera que isola o movimento da câmera dos movimentos corporais do operador. Ele permite obter imagens suaves e fluidas, mesmo quando o operador está caminhando, correndo ou subindo escadas. ( ) Dispositivo de suporte estático composto por três pernas telescópicas e uma cabeça móvel. Sua função primordial é sustentar a câmera em uma posição, eliminando as vibrações e trepidações naturais do corpo humano, garantindo assim a estabilidade da imagem. ( ) Dispositivo de suporte que funciona sob o princípio de alavanca, permitindo elevar a câmera a grandes alturas e realizar movimentos verticais amplos e fluidos. Possibilita perspectivas aéreas e movimentos tridimensionais. Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 4 – 3.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre componentes ópticos utilizados na captação de imagens audiovisuais, avalie as afirmativas a seguir. I. As objetivas (lentes) determinam o enquadramento, a profundidade de campo e a perspectiva da imagem, sendo classificadas, entre outros critérios, pela distância focal. II. Filtros ópticos, como ND e polarizador, são utilizados para controlar a entrada de luz e reflexos, permitindo ajustes de exposição e contraste sem alterar as configurações internas da câmera. III. Para fazer zoom, é necessário mover fisicamente a câmera para a frente (aproximar) ou para trás (afastar) em relação ao objeto enquadrado. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com relação ao conceito de frame na composição da imagem audiovisual, avalie as afirmativas a seguir. I. O frame corresponde à menor unidade visual da imagem em movimento, sendo cada quadro responsável por registrar uma fração temporal da ação filmada. II. A composição dentro do frame envolve decisões como enquadramento, posição dos elementos visuais, equilíbrio e hierarquia espacial. III. O frame é determinado exclusivamente pela resolução da imagem, não sendo influenciado por escolhas estéticas ou narrativas do realizador. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Considere uma imagem de vídeo, exibida em um monitor profissional, na qual é possível observar contornos serrilhados em linhas diagonais, perda de detalhes finos e aparência geral pouco definida quando ampliada em tela grande. Com base na descrição dessa imagem, é correto afirmar que",
       "alternatives": {
         "A": "o problema observado é causado exclusivamente por erro de balanço de branco e independe da resolução utilizada.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Analise as afirmativas a seguir sobre os ajustes de cor em imagem digital. I. O ajuste de brilho altera a luminância geral da imagem, afetando diretamente as áreas claras e escuras. II. A matiz está relacionada ao deslocamento das cores no espectro cromático, sem alterar sua intensidade. III. A saturação controla a quantidade de cinza presente em uma cor, podendo torná-la mais viva ou mais neutra. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1113,14 +1113,14 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A evolução dos formatos de vídeo analógico caminhou no sentido de desagregar as informações visuais para garantir maior nitidez e fidelidade de cor. Enquanto os primeiros sistemas priorizavam a transmissão via um único cabo para economizar largura de banda, formatos posteriores focaram na integridade dos dados. No sinal de vídeo componente, a principal diferença técnica em relação ao sinal composto é",
       "alternatives": {
         "A": "a redução da taxa de quadros por segundo.",
         "B": "a separação das informações de luminância e crominância, reduzindo interferências.",
         "C": "a diminuição da resolução espacial da imagem.",
         "D": "a eliminação da necessidade de conversores de sinal.",
-        "E": "a unificação de áudio e vídeo em um único canal. 67 Relacione os sistemas de codificação de cor da televisão analógica às suas respectivas especificações técnicas e operacionais: 1. NTSC 2. PAL 3. SECAM ( ) Desenvolvido na Alemanha, este sistema corrige automaticamente os erros de fase do sinal de cor ao inverter a fase da subportadora a cada linha de varredura. Essa técnica anula distorções de matiz, dispensando o controle manual de “Tint” no receptor. É a base do sistema híbrido (M) utilizado no Brasil. ( ) Pioneiro na televisão em cores compatível, utiliza modulação em amplitude e quadratura para a crominância. Sua principal desvantagem técnica é a suscetibilidade a erros de fase durante a transmissão, o que altera a matiz da imagem reproduzida, exigindo ajuste manual constante (controle de Hue/Tint). Padrão nos EUA e Japão. ( ) Desenvolvido na França, diferencia-se por transmitir os sinais de diferença de cor (R-Y e B-Y) sequencialmente, uma linha por vez, utilizando Modulação em Frequência para a cor. Exige uma linha de atraso no receptor para processar a informação simultânea, sendo extremamente robusto contra erros de fase. Assinale a opção que indica a relação correta, na ordem apresentada. (A) 1 – 2 – 3. (B) 3 – 1 – 2. (C) 2 – 1 – 3. (D) 1 – 3 – 2. (E) 2 – 3 – 1."
+        "E": "a unificação de áudio e vídeo em um único canal."
       },
       "answer": "B",
       "annulled": false,
@@ -1129,8 +1129,25 @@
       "page_number": 18
     },
     {
+      "question_number": 67,
+      "discipline": "História e Geografia de Rondônia",
+      "statement": "Relacione os sistemas de codificação de cor da televisão analógica às suas respectivas especificações técnicas e operacionais: 1. NTSC 2. PAL 3. SECAM ( ) Desenvolvido na Alemanha, este sistema corrige automaticamente os erros de fase do sinal de cor ao inverter a fase da subportadora a cada linha de varredura. Essa técnica anula distorções de matiz, dispensando o controle manual de “Tint” no receptor. É a base do sistema híbrido (M) utilizado no Brasil. ( ) Pioneiro na televisão em cores compatível, utiliza modulação em amplitude e quadratura para a crominância. Sua principal desvantagem técnica é a suscetibilidade a erros de fase durante a transmissão, o que altera a matiz da imagem reproduzida, exigindo ajuste manual constante (controle de Hue/Tint). Padrão nos EUA e Japão. ( ) Desenvolvido na França, diferencia-se por transmitir os sinais de diferença de cor (R-Y e B-Y) sequencialmente, uma linha por vez, utilizando Modulação em Frequência para a cor. Exige uma linha de atraso no receptor para processar a informação simultânea, sendo extremamente robusto contra erros de fase. Assinale a opção que indica a relação correta, na ordem apresentada.",
+      "alternatives": {
+        "A": "1 – 2 – 3.",
+        "B": "3 – 1 – 2.",
+        "C": "2 – 1 – 3.",
+        "D": "1 – 3 – 2.",
+        "E": "2 – 3 – 1."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 18
+    },
+    {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um técnico de audiovisual recebeu de uma equipe de reportagem arquivos de vídeo gravados em uma câmera mirrorless moderna. Os arquivos estão no formato .MP4, codec H.264, em resolução 4K. Ao tentar editar esse material em uma ilha de edição com configuração de hardware intermediária, o técnico notou que a reprodução (playback) “engasga” e o computador apresenta lentidão excessiva ao avançar ou retroceder na linha do tempo, embora o tamanho do arquivo em disco seja relativamente pequeno. Considerando as especificidades de armazenamento e reprodução de formatos digitais, assinale a opção correta a respeito da causa técnica mais provável para essa lentidão e da solução operacional adequada para o fluxo de trabalho.",
       "alternatives": {
         "A": "O codec H.264 utiliza compressão Interframe (Long GOP), o que exige alto processamento da CPU para decodificar os quadros em tempo real; a solução ideal é criar proxies ou transcodificar para um codec Intraframe (como prores ou dnxhd) para a edição.",
@@ -1147,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a gravação de uma palestra institucional, o operador de câmera constata que a imagem no visor LCD do equipamento aparenta estar tecnicamente correta (foco, exposição e enquadramento). No entanto, ao descarregar o material e revisá- lo em um monitor de referência no computador, notam-se “blocos” na imagem (pixelização), ruídos digitais em áreas de sombra e uma perda geral de nitidez. Considerando os princípios de avaliação e monitoramento da qualidade de áudio e vídeo, e levando em consideração as possíveis causas e diagnósticos dessa situação, avalie cada afirmativa a seguir e assinale (V) se for verdadeira e (F) se for falsa. ( ) O problema descrito é característico de uma taxa de bits (bitrate) excessivamente baixa configurada na câmera ou no gravador; a compressão agressiva elimina detalhes finos para economizar espaço, gerando artefatos que são menos visíveis na tela pequena da câmera, mas óbvios em monitores maiores. ( ) A perda de definição e o surgimento de ruídos visuais são consequências diretas de um erro no Balanço de Branco (White Balance), pois a temperatura de cor incorreta desalinha os pixels do sensor, reduzindo a resolução nativa da imagem. ( ) A escolha do enquadramento (plano aberto ou fechado) interfere diretamente na relação sinal-ruído do vídeo; planos muito abertos tendem a gerar ruído eletrônico automaticamente, independentemente da sensibilidade ISO utilizada. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -1164,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O setor de arquivo de uma TV pública está realizando um projeto de recuperação de acervo. O acervo contém fitas analógicas (Betacam SP) e arquivos digitais nativos em HD armazenados em LTO. Durante o processo, o coordenador solicitou que fossem feitas cópias de segurança de todo o material para envio a uma unidade externa. Para as fitas analógicas, optou-se por cópia de fita para fita via cabo componente; para os arquivos digitais, optou-se por cópia de dados (copiar e colar arquivos). Ao analisar o resultado técnico das cópias geradas nesse processo, o técnico responsável deve concluir que",
       "alternatives": {
         "A": "o processo de cópia digital exigirá uma reamostragem (resampling) obrigatória do vídeo, alterando a taxa de quadros (framerate), enquanto a cópia analógica preserva a estrutura temporal sem alterações",
@@ -1181,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Considere os gráficos abaixo. A B Com base na análise visual das formas de onda, é correto afirmar que",
       "alternatives": {
         "A": "a Linha A representa o sinal digital, pois sua continuidade garante a fidelidade total dos dados, enquanto a Linha B representa o sinal analógico, que é naturalmente “quebrado” em pedaços.",
@@ -1198,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a montagem de um estúdio provisório para gravação de entrevistas, o operador de vídeo observa no monitor de forma de onda (Waveform) a imagem a seguir. Para corrigir o problema identificado e garantir a qualidade técnica do sinal, é necessário identificar que a imagem do monitor indica que há",
       "alternatives": {
         "A": "risco de perda de detalhes nas áreas claras.",
@@ -1215,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No controle de qualidade de vídeo profissional, diferentes instrumentos são utilizados para monitorar os aspectos técnicos da imagem. Para avaliar especificamente os sinais de cor (Crominância), visualizando graficamente a Matiz e a Saturação, o monitor correto a ser utilizado deve ser o",
       "alternatives": {
         "A": "Waveform.",
@@ -1232,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a transmissão ao vivo de uma sessão plenária da Assembleia Legislativa de Rondônia para a TV aberta, a equipe técnica precisa gerenciar sinais de múltiplas câmeras e microfones simultaneamente. Considerando os padrões de engenharia de televisão e a operação em ambiente legislativo, analise as afirmativas a seguir. I. Devido ao grande número de microfones de mesa presentes no plenário, manter todos os canais abertos simultaneamente reduz drasticamente a margem de ganho antes da microfonia (feedback). Para garantir a inteligibilidade e reduzir o ruído ambiente, é recomendável o uso de sistemas de auto mixagem ou a prática de fechar os faders dos parlamentares que não estão com a palavra. II. Como o processamento de áudio digital envolve frequências de amostragem complexas (48kHz ou superior), ele tende a apresentar uma latência maior do que o processamento de imagem. Para corrigir o sincronismo labial (Lip Sync), a norma técnica recomenda aplicar um atraso (delay) no sinal de vídeo para que este aguarde o processamento do áudio. III. Para lidar com a variação de luz quando um parlamentar se movimenta na tribuna ou gesticula muito, o procedimento padrão em transmissões profissionais é manter a íris e o foco de todas as câmeras em modo \"Automático\", garantindo assim que a exposição esteja sempre corrigida sem intervenção humana. Estão correto o que se afirma em:",
       "alternatives": {
         "A": "I, apenas.",
@@ -1249,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Para o planejamento de uma produção audiovisual, é fundamental que a equipe técnica saiba diferenciar os métodos de trabalho e os ambientes de gravação, adequando o equipamento e a equipe à necessidade do produto. Relacione os tipos de produção listados a seguir com suas características operacionais. 1. ENG (Electronic News Gathering) 2. EFP (Electronic Field Production) 3. Estúdio 4. Externa ( ) Ambiente controlado que oferece total isolamento acústico e controle de iluminação, permitindo a construção de cenários fixos ou virtuais (Chroma Key). ( ) Método de produção ágil e portátil, focado no jornalismo diário e na cobertura factual imediata. Geralmente utiliza equipe reduzida (câmera no ombro + repórter) e pouca montagem de luz. ( ) Gravação realizada fora do estúdio. Agrega realismo e valor de produção à imagem, mas sujeita a equipe a variáveis incontroláveis como sol, chuva e ruídos urbanos. ( ) Método de produção em campo que preza pela alta qualidade técnica e estética (como em shows ou transmissões esportivas). Exige planejamento detalhado, maior quantidade de equipamentos (switcher, múltiplas câmeras, luzes dedicadas) e tempo para preparação. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "3 – 2 – 4 – 1.",
@@ -1266,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma gravação multicâmera para posterior edição, o uso do timecode é fundamental porque permite",
       "alternatives": {
         "A": "substituir o planejamento técnico da gravação.",
@@ -1283,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um operador de câmera precisa montar uma camcorder profissional equipada com uma lente teleobjetiva longa e pesada em um tripé de cabeça fluida para a gravação de uma solenidade. Após acoplar a câmera ao tripé, o operador percebe que, ao soltar a manopla, a câmera tende a tombar para a frente (o “nariz” da lente desce), forçando as travas de tilt. Diante dessa situação, a prática correta de montagem para garantir a estabilidade do equipamento e a fluidez do movimento vertical é:",
       "alternatives": {
         "A": "apertar com força máxima a trava de tilt (Tilt Lock) para impedir que a câmera se mova sozinha, mantendo essa trava acionada durante toda a gravação.",
@@ -1300,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Para distribuir o sinal de vídeo HD (1080i/p) da Sessão Plenária para uma TV (doméstica) de 65 polegadas localizado no hall de entrada, a uma distância de 90 metros da ilha de edição, a equipe responsável avalia duas possibilidades de infraestrutura de cabeamento:",
       "alternatives": {
         "A": "SDI via Cabo Coaxial ou",
@@ -1317,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante a reprodução e a comutação de sinais de vídeo em transmissões, é necessário a operação de diferentes equipamentos responsáveis pelo controle, tratamento e encaminhamento da imagem. Relacione os equipamentos/recursos a seguir às suas funções técnicas predominantes no fluxo de vídeo. 1. Switcher de vídeo (mesa de corte) 2. Monitor PGM 3. Monitor Preview 4. Distribuidor de sinal de vídeo (Video DA) ( ) Responsável por replicar um mesmo sinal de vídeo para múltiplos destinos, mantendo níveis e impedância adequados. ( ) Equipamento responsável pela seleção, comutação e aplicação de transições entre diferentes fontes de vídeo. ( ) Permite ao operador visualizar previamente a próxima fonte de imagem ou composição antes de colocá-la no ar. ( ) Utilizado para acompanhar exatamente o sinal de vídeo que está sendo entregue ao público ou gravado como saída final. Assinale a opção que indica a relação correta na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3 – 4.",
@@ -1334,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O departamento de comunicação de um órgão público finalizou a edição de um vídeo institucional em Full HD (1080p) e solicitou ao operador técnico a geração do arquivo master para distribuição imediata no portal oficial e nas redes sociais (YouTube e Instagram). Considerando as limitações de banda larga do usuário final e a necessidade de compatibilidade universal entre navegadores e dispositivos móveis, a configuração de exportação tecnicamente mais adequada é",
       "alternatives": {
         "A": "utilizar um codec sem perdas (Lossless), como o ProRes 4444 ou DNxHD, garantindo que o usuário final assista ao vídeo com a mesma qualidade de cor e definição que o editor visualizou na ilha de edição, independentemente do tamanho final do arquivo.",

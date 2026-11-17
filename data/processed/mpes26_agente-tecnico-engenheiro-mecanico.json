@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para o Ministério Público do Estado do Espírito Santo",
   "cargo_title": "Agente Técnico - Engenheiro Mecânico",
   "exam_type": "Tipo 1",
-  "total_questions": 37,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -49,9 +49,26 @@
         "B": "O autor condena certas leis que não se dirigem a reais problemas da sociedade.",
         "C": "O fragmento textual acima condena os privilégios de uma classe social sobre outras.",
         "D": "No segmento “se prendem nelas”, o pronome pessoal “elas” se refere às “simples mosquinhas”.",
-        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes. As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis. (A) Em meio às armas, calam-se as leis. (B) Existem leis, mas não quem as proveja. (C) O mais corrupto dos Estados tem o maior número de leis. (D) A quem poderá ser aprazível uma cidade, se não lhe agradam as leis? (E) A lei é a razão humana, enquanto governa todos os povos da Terra."
+        "E": "Segundo o texto, as leis são como teias de aranha porque servem para prender todos os que cometem crimes."
       },
       "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "As frases a seguir têm as leis como tema; assinale a frase que mostra uma visão positiva das leis.",
+      "alternatives": {
+        "A": "Em meio às armas, calam-se as leis.",
+        "B": "Existem leis, mas não quem as proveja.",
+        "C": "O mais corrupto dos Estados tem o maior número de leis.",
+        "D": "A quem poderá ser aprazível uma cidade, se não lhe agradam as leis?",
+        "E": "A lei é a razão humana, enquanto governa todos os povos da Terra."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -117,13 +134,30 @@
         "B": "Vá até o tribunal e procure o Juiz. / Vá até ao tribunal e procure o Juiz.",
         "C": "Houve um acidente grave durante o julgamento. / Houve um incidente grave durante o julgamento.",
         "D": "A Constituição foi criada a 13 de junho de 1888. / A Constituição foi criada em 13 de junho de 1888.",
-        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes. Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta. (A) O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente. (B) O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro. (C) O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”. (D) A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula. (E) O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+        "E": "À exceção de Bernardo, todos estiveram presentes. / Com exceção de Bernardo, todos estiveram presentes."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 2
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "Leia o segmento a seguir. “Agora que expliquei o título, passo a escrever o livro. Antes disso, porém, digamos os motivos que me põem a pena na mão. Vivo só, com um criado. A casa em que moro é própria; fi-la construir de propósito, levado de um desejo tão particular, que me vexa imprimi-lo, mas vá lá. Um dia, há bastantes anos, lembrou-me reproduzir no Engenho Novo a casa em que me criei na Rua de Matacavalos, dando-lhe o mesmo aspecto e economia daquela outra, que desapareceu.” Machado de Assis. Dom Casmurro. Livraria Garnier. 1ª ed. em 1899. Sobre a estruturação ou a significação desse texto, assinale a afirmativa incorreta.",
+      "alternatives": {
+        "A": "O segmento inicial “Agora que expliquei o título” se refere a algo já dito anteriormente.",
+        "B": "O pronome “isso”, na expressão “Antes disso” se refere à ação de explicar o título do livro.",
+        "C": "O pronome relativo “que” no segmento “que me põem a pena na mão” se refere ao substantivo “motivos”.",
+        "D": "A frase “Vivo só, com um criado” mudaria de sentido se retirássemos a vírgula.",
+        "E": "O pronome indefinido “outra” e o pronome relativo “que” no segmento “daquela outra, que desapareceu” mostram o mesmo antecedente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
     },
     {
       "question_number": 10,
@@ -134,7 +168,7 @@
         "B": "Fiquei tão alegre com esta ideia, que ainda agora me treme a pena na mão.",
         "C": "Ia entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta.",
         "D": "Cumprimentou-se, sentou-se ao pé de mim, falou da lua e dos ministros e acabou recitando-me versos.",
-        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo. Raciocínio Lógico-matemático"
+        "E": "Não consultes dicionários. Casmurro não está aqui no sentido que eles lhe dão, mas no que lhe pôs o vulgo de homem calado e metido consigo."
       },
       "answer": "E",
       "annulled": false,
@@ -151,12 +185,29 @@
         "B": "11.",
         "C": "12.",
         "D": "13.",
-        "E": "14. A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale (A) 7,5 cm. (B) 6,0 cm. (C) 4,5 cm. (D) 3,0 cm. (E) 1,5 cm."
+        "E": "14."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "A figura a seguir ilustra dois retângulos, A e B, dispostos lado a lado de duas formas diferentes. Na Figura 1, o menor lado de B está encostado no maior lado de A, de modo que o maior lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma figura em L cujo perímetro é 32 cm. Na Figura 2, o maior lado de B está encostado no maior lado de A, de modo que o menor lado de B, na sua parte inferior, está perfeitamente alinhado com o menor lado de A, na sua parte inferior, formando uma nova figura cujo perímetro é 26 cm. No retângulo B, a diferença entre as medidas do maior lado e do menor lado vale",
+      "alternatives": {
+        "A": "7,5 cm.",
+        "B": "6,0 cm.",
+        "C": "4,5 cm.",
+        "D": "3,0 cm.",
+        "E": "1,5 cm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-engenheiro-mecanico_q12.png",
       "page_number": 3
     },
     {
@@ -185,13 +236,30 @@
         "B": "59,6.",
         "C": "59,8.",
         "D": "60,2.",
-        "E": "60,4. Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P. (A) Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado. (B) Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado. (C) Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados. (D) Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado. (E) Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado. Legislação e Código de Ética do MPES"
+        "E": "60,4."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 3
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Considere a proposição P dada por: “Pelo menos um livro da minha biblioteca é sobre Matemática e nenhum dos discos da minha discoteca é importado.” Assinale a opção que contém a negação de P.",
+      "alternatives": {
+        "A": "Pelo menos um livro da minha biblioteca não é sobre Matemática e algum disco da minha discoteca é importado.",
+        "B": "Pelo menos um livro da minha biblioteca não é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "C": "Pelo menos um livro da minha biblioteca não é sobre Matemática e todos os discos da minha discoteca são importados.",
+        "D": "Nenhum livro da minha biblioteca é sobre Matemática ou algum disco da minha discoteca é importado.",
+        "E": "Nenhum livro da minha biblioteca é sobre Matemática e algum disco da minha discoteca é importado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
     },
     {
       "question_number": 16,
@@ -219,9 +287,26 @@
         "B": "a Assessoria de Gestão Estratégica deve exarar manifestação técnica sobre a proposta.",
         "C": "o PE é caracterizado pela estabilidade e permanência, sendo incompatível com o instituto da revisão.",
         "D": "a revisão somente é admitida em relação aos indicadores e às ações estratégicas, não em relação às metas.",
-        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária. O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que (A) a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais. (B) o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais. (C) a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso. (D) a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza. (E) o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+        "E": "o início do processo de revisão deve ser autorizado na reunião de gestão estratégica, cabendo a deliberação final e irrecorrível à plenária."
       },
       "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "O Ministério Público do Estado do Espírito Santo, pelo órgão de execução com atribuição, pretende realizar operações de classificação e avaliação de dados pessoais de alguns investigados em procedimentos de investigação criminal que tramitam no âmbito da Instituição. Ao decidir pela realização dessas atividades, o órgão de execução concluiu, corretamente, que",
+      "alternatives": {
+        "A": "a atividade desenvolvida configura tratamento da informação, logo, por tal razão, é exigida a observância da Lei Geral de Proteção de Dados Pessoais.",
+        "B": "o tratamento da informação, nas circunstâncias indicadas, pressupõe prévia autorização judicial, como é exigido pela Lei Geral de Proteção de Dados Pessoais.",
+        "C": "a atividade desenvolvida somente atrairia a aplicação da Lei Geral de Proteção de Dados Pessoais se houvesse tratamento de dados pessoais, o que não é o caso.",
+        "D": "a Lei Geral de Proteção de Dados Pessoais é aplicada indistintamente a qualquer atividade que tenha por objeto dados pessoais, independente da sua natureza.",
+        "E": "o tratamento de dados pessoais é realizado no âmbito de uma atividade de investigação de infração penal, o que afasta a incidência da Lei Geral de Proteção de Dados Pessoais."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -236,13 +321,30 @@
         "B": "integra a estrutura do MPES, sendo que o seu conselho conta com a participação de membros da Instituição, do Poder Executivo e de associações.",
         "C": "é estrutura autônoma e independente, cuja atuação é fiscalizada pelo MPES, que participa das reuniões do seu conselho sem ter direito a voto.",
         "D": "é parte integrante do Fundo Especial do MPES, sendo que os seus recursos estão finalisticamente comprometidos com a defesa de interesses difusos e coletivos.",
-        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça. No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta. (A) Os recursos foram postos à disposição em duodécimo. (B) A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES. (C) Os recursos foram depositados no Fundo de Despesas Correntes do MPES. (D) Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira. (E) Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas. Conhecimentos Específicos"
+        "E": "conta com representantes dos três poderes e instituições constitucionalmente autônomas, bem como com representantes da sociedade civil organizada, sendo presidido pelo Procurador-Geral de Justiça."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 4
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No primeiro mês do exercício financeiro X, Inês, que atua em um setor de controle interno do Ministério Público do Estado do Espírito Santo (MPES), recebeu a informação de que a Instituição recebera recursos previstos na lei orçamentária anual (LOA) aprovada pela Assembleia Legislativa. Sobre a situação descrita, à luz da Lei Complementar Estadual nº 95/1997, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Os recursos foram postos à disposição em duodécimo.",
+        "B": "A LOA foi aprovada a partir de projeto de lei apresentado pelo MPES.",
+        "C": "Os recursos foram depositados no Fundo de Despesas Correntes do MPES.",
+        "D": "Os recursos recebidos estão vinculados a despesas e a cotas definidas na programação financeira.",
+        "E": "Os recursos foram solicitados à Secretaria de Estado de Fazenda mediante comprovação das despesas a serem realizadas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
     },
     {
       "question_number": 21,
@@ -253,12 +355,29 @@
         "B": "250 MPa e 7,0 mm",
         "C": "400 MPa e 3,0 mm",
         "D": "400 MPa e 5,0 mm",
-        "E": "400 MPa e 7,0 mm Um pilar de aço bi-rotulado, pertencente à estrutura de cobertura de um edifício do Ministério Público, possui 4,0 m de comprimento e seção transversal quadrada de 60 mm × 60 mm. O módulo de elasticidade do aço é E=200 GPa. Adotando 2≈ 10 e considerando que o pilar é suficientemente esbelto para que a flambagem elástica governe o dimensionamento, a carga crítica de flambagem de Euler é (A) 67,5 kN. (B) 135,0 kN. (C) 202,5 kN. (D) 270,0 kN. (E) 337,5 kN."
+        "E": "400 MPa e 7,0 mm"
       },
       "answer": "E",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/mpes26_agente-tecnico-engenheiro-mecanico_q21.png",
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "Um pilar de aço bi-rotulado, pertencente à estrutura de cobertura de um edifício do Ministério Público, possui 4,0 m de comprimento e seção transversal quadrada de 60 mm × 60 mm. O módulo de elasticidade do aço é E=200 GPa. Adotando 2≈ 10 e considerando que o pilar é suficientemente esbelto para que a flambagem elástica governe o dimensionamento, a carga crítica de flambagem de Euler é",
+      "alternatives": {
+        "A": "67,5 kN.",
+        "B": "135,0 kN.",
+        "C": "202,5 kN.",
+        "D": "270,0 kN.",
+        "E": "337,5 kN."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
       "page_number": 5
     },
     {
@@ -287,13 +406,30 @@
         "B": "50%.",
         "C": "60%.",
         "D": "70%.",
-        "E": "80%. Durante a inspeção do sistema de aquecimento de água de um edifício do Ministério Público, um Engenheiro Mecânico observou as situações a seguir. I. O calor é transferido da resistência elétrica para a parede metálica do reservatório. II. O calor é transferido da superfície externa do reservatório para o ar ambiente em movimento. III. O reservatório também perde calor para as superfícies vizinhas, mesmo na ausência de contato físico e de movimento do ar. Os mecanismos predominantes de transferência de calor descritos em I, II e III são, respectivamente, (A) condução, convecção e radiação. (B) condução, radiação e convecção. (C) convecção, condução e radiação. (D) convecção, radiação e condução. (E) radiação, condução e convecção."
+        "E": "80%."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
+    },
+    {
+      "question_number": 25,
+      "discipline": null,
+      "statement": "Durante a inspeção do sistema de aquecimento de água de um edifício do Ministério Público, um Engenheiro Mecânico observou as situações a seguir. I. O calor é transferido da resistência elétrica para a parede metálica do reservatório. II. O calor é transferido da superfície externa do reservatório para o ar ambiente em movimento. III. O reservatório também perde calor para as superfícies vizinhas, mesmo na ausência de contato físico e de movimento do ar. Os mecanismos predominantes de transferência de calor descritos em I, II e III são, respectivamente,",
+      "alternatives": {
+        "A": "condução, convecção e radiação.",
+        "B": "condução, radiação e convecção.",
+        "C": "convecção, condução e radiação.",
+        "D": "convecção, radiação e condução.",
+        "E": "radiação, condução e convecção."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
     },
     {
       "question_number": 26,
@@ -321,9 +457,26 @@
         "B": "A resistência à fadiga depende apenas da tensão média aplicada, sendo pouco influenciada por descontinuidades geométricas.",
         "C": "O dimensionamento estático garante resistência ilimitada do componente quando as tensões permanecem abaixo do limite de escoamento.",
         "D": "A substituição do aço por um material de maior limite de escoamento elimina a possibilidade de falhas por fadiga na mesma condição de carregamento.",
-        "E": "A concentração de tensões no rasgo de chaveta reduz a resistência à fadiga, favorecendo a nucleação e a propagação de trincas sob carregamentos cíclicos. Na verificação estática da seção crítica de um eixo de acionamento de uma bomba centrífuga instalada em um edifício do Ministério Público, foram obtidas, por análise elástica, os seguintes componentes de tensão:  tensão normal de flexão: 100 MPa; e  tensão cisalhante de torção: 100 MPa. Adotando o critério de von Mises e sabendo que o aço usado possui limite de escoamento de 500 MPa, o fator de segurança em relação ao escoamento é de, aproximadamente, (A) 2,0. (B) 2,5. (C) 3,0. (D) 3,5. (E) 4,0."
+        "E": "A concentração de tensões no rasgo de chaveta reduz a resistência à fadiga, favorecendo a nucleação e a propagação de trincas sob carregamentos cíclicos."
       },
       "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "Na verificação estática da seção crítica de um eixo de acionamento de uma bomba centrífuga instalada em um edifício do Ministério Público, foram obtidas, por análise elástica, os seguintes componentes de tensão:  tensão normal de flexão: 100 MPa; e  tensão cisalhante de torção: 100 MPa. Adotando o critério de von Mises e sabendo que o aço usado possui limite de escoamento de 500 MPa, o fator de segurança em relação ao escoamento é de, aproximadamente,",
+      "alternatives": {
+        "A": "2,0.",
+        "B": "2,5.",
+        "C": "3,0.",
+        "D": "3,5.",
+        "E": "4,0."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -355,13 +508,30 @@
         "B": "600 rpm.",
         "C": "750 rpm.",
         "D": "900 rpm.",
-        "E": "1000 rpm. Na inspeção de um eixo de um conjunto motobomba instalado em um edifício do Ministério Público, o Engenheiro Mecânico precisa verificar se o diâmetro externo de 48 mm atende à tolerância especificada no projeto, de ±0,02 mm. Assinale a opção que indica o instrumento mais adequado para realizar essa medição. (A) Goniômetro. (B) Trena Metálica. (C) Micrômetro Externo. (D) Paquímetro Universal. (E) Régua de Aço Graduada."
+        "E": "1000 rpm."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 6
+    },
+    {
+      "question_number": 31,
+      "discipline": null,
+      "statement": "Na inspeção de um eixo de um conjunto motobomba instalado em um edifício do Ministério Público, o Engenheiro Mecânico precisa verificar se o diâmetro externo de 48 mm atende à tolerância especificada no projeto, de ±0,02 mm. Assinale a opção que indica o instrumento mais adequado para realizar essa medição.",
+      "alternatives": {
+        "A": "Goniômetro.",
+        "B": "Trena Metálica.",
+        "C": "Micrômetro Externo.",
+        "D": "Paquímetro Universal.",
+        "E": "Régua de Aço Graduada."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
     },
     {
       "question_number": 32,
@@ -389,12 +559,29 @@
         "B": "Inspeção por líquidos penetrantes, por apresentar elevada sensibilidade às descontinuidades superficiais abertas.",
         "C": "Ensaio por ultrassom, por permitir a detecção de descontinuidades internas sem comprometer a integridade da peça.",
         "D": "Ensaio de tração, por possibilitar a identificação de descontinuidades internas durante o carregamento do corpo de prova.",
-        "E": "Inspeção por partículas magnéticas, por identificar descontinuidades superficiais e subsuperficiais em materiais ferromagnéticos. A figura a seguir apresenta um conjunto de engrenagens cilíndricas de dentes retos utilizado para transmitir potência entre dois eixos paralelos. A engrenagem motora (1) possui 20 dentes e gira a 1.200 rpm, no sentido horário. A engrenagem movida (2) possui 50 dentes. Sabendo que o módulo do conjunto é 4 mm, desprezando perdas e escorregamento, assinale a opção que apresenta, respectivamente, o diâmetro primitivo da engrenagem (2), sua rotação e o sentido de rotação. (A) 160 mm; 480 rpm; horário. (B) 160 mm; 480 rpm; anti-horário. (C) 160 mm; 240 rpm; anti-horário. (D) 200 mm; 480 rpm; horário. (E) 200 mm; 480 rpm; anti-horário."
+        "E": "Inspeção por partículas magnéticas, por identificar descontinuidades superficiais e subsuperficiais em materiais ferromagnéticos."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 34,
+      "discipline": null,
+      "statement": "A figura a seguir apresenta um conjunto de engrenagens cilíndricas de dentes retos utilizado para transmitir potência entre dois eixos paralelos. A engrenagem motora (1) possui 20 dentes e gira a 1.200 rpm, no sentido horário. A engrenagem movida (2) possui 50 dentes. Sabendo que o módulo do conjunto é 4 mm, desprezando perdas e escorregamento, assinale a opção que apresenta, respectivamente, o diâmetro primitivo da engrenagem (2), sua rotação e o sentido de rotação.",
+      "alternatives": {
+        "A": "160 mm; 480 rpm; horário.",
+        "B": "160 mm; 480 rpm; anti-horário.",
+        "C": "160 mm; 240 rpm; anti-horário.",
+        "D": "200 mm; 480 rpm; horário.",
+        "E": "200 mm; 480 rpm; anti-horário."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-engenheiro-mecanico_q34.png",
       "page_number": 7
     },
     {
@@ -406,13 +593,30 @@
         "B": "Apresentar menor coeficiente de atrito que os mancais de rolamento, independentemente do regime de lubrificação.",
         "C": "Operar sob elevadas cargas e altas velocidades, com bom amortecimento de vibrações quando há formação adequada do filme lubrificante.",
         "D": "Compensar desalinhamentos moderados entre eixo e mancal, preservando a espessura do filme lubrificante em qualquer condição de operação.",
-        "E": "Suportar maiores cargas radiais devido à ausência de elementos rolantes, tornando desnecessário o controle da pressão de lubrificação. Na especificação da transmissão mecânica entre um motor elétrico e um ventilador centrífugo de um sistema de climatização, o projeto exige relação de transmissão constante, ausência de escorregamento durante a operação e capacidade de transmitir potência entre eixos paralelos separados por aproximadamente 2 m. A solução tecnicamente mais adequada para essa aplicação é a transmissão por (A) correias dentadas, por dispensarem alinhamento e controle de tensionamento. (B) correias em V, pela capacidade de absorver choques e vibrações durante a operação. (C) correias planas, pela elevada eficiência e pela simplicidade de montagem e operação do sistema. (D) cabos de aço, pela elevada flexibilidade e pela facilidade de transmissão entre eixos relativamente afastados. (E) correntes de rolos, por proporcionarem relação de transmissão praticamente constante, sem escorregamento apreciável e com elevada capacidade de carga."
+        "E": "Suportar maiores cargas radiais devido à ausência de elementos rolantes, tornando desnecessário o controle da pressão de lubrificação."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 7
+    },
+    {
+      "question_number": 36,
+      "discipline": null,
+      "statement": "Na especificação da transmissão mecânica entre um motor elétrico e um ventilador centrífugo de um sistema de climatização, o projeto exige relação de transmissão constante, ausência de escorregamento durante a operação e capacidade de transmitir potência entre eixos paralelos separados por aproximadamente 2 m. A solução tecnicamente mais adequada para essa aplicação é a transmissão por",
+      "alternatives": {
+        "A": "correias dentadas, por dispensarem alinhamento e controle de tensionamento.",
+        "B": "correias em V, pela capacidade de absorver choques e vibrações durante a operação.",
+        "C": "correias planas, pela elevada eficiência e pela simplicidade de montagem e operação do sistema.",
+        "D": "cabos de aço, pela elevada flexibilidade e pela facilidade de transmissão entre eixos relativamente afastados.",
+        "E": "correntes de rolos, por proporcionarem relação de transmissão praticamente constante, sem escorregamento apreciável e com elevada capacidade de carga."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
     },
     {
       "question_number": 37,
@@ -440,9 +644,26 @@
         "B": "elevador de passageiros convencional, por apresentar maior velocidade de deslocamento.",
         "C": "escada rolante equipada com corrimãos motorizados, por facilitar o deslocamento dos usuários.",
         "D": "monta-cargas adaptado, desde que equipado com dispositivos de comunicação de emergência.",
-        "E": "esteira rolante inclinada, por permitir o transporte simultâneo de cadeiras de rodas e pedestres. Na elaboração da política de manutenção das instalações prediais de um edifício do Ministério Público, o engenheiro responsável classificou os ativos conforme sua criticidade e definiu estratégias específicas para cada grupo. Para um determinado conjunto de equipamentos, estabeleceu-se que as intervenções periódicas não seriam baseadas no tempo de operação, na evolução dos parâmetros físicos de degradação ou na ocorrência de falhas funcionais. O objetivo seria apenas verificar, por meio de ensaios específicos, se a função prevista estaria disponível quando solicitada. Essa estratégia é característica da manutenção: (A) corretiva. (B) detectiva. (C) preditiva. (D) preventiva. (E) terotecnológica."
+        "E": "esteira rolante inclinada, por permitir o transporte simultâneo de cadeiras de rodas e pedestres."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 39,
+      "discipline": null,
+      "statement": "Na elaboração da política de manutenção das instalações prediais de um edifício do Ministério Público, o engenheiro responsável classificou os ativos conforme sua criticidade e definiu estratégias específicas para cada grupo. Para um determinado conjunto de equipamentos, estabeleceu-se que as intervenções periódicas não seriam baseadas no tempo de operação, na evolução dos parâmetros físicos de degradação ou na ocorrência de falhas funcionais. O objetivo seria apenas verificar, por meio de ensaios específicos, se a função prevista estaria disponível quando solicitada. Essa estratégia é característica da manutenção:",
+      "alternatives": {
+        "A": "corretiva.",
+        "B": "detectiva.",
+        "C": "preditiva.",
+        "D": "preventiva.",
+        "E": "terotecnológica."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -474,13 +695,30 @@
         "B": "causa da falha.",
         "C": "modo de falha.",
         "D": "falha funcional.",
-        "E": "função do equipamento. Após sucessivas interrupções não programadas nos sistemas de climatização de um edifício do Ministério Público, foi implementado um programa de melhoria contínua envolvendo as equipes de operação, manutenção e engenharia. Entre as ações adotadas estavam a eliminação sistemática de pequenas perdas, a padronização das inspeções de rotina, a identificação precoce de anomalias pelos próprios usuários dos equipamentos e a atuação integrada entre as diferentes áreas para elevar a eficiência global dos ativos. O programa descrito corresponde, predominantemente, ao conceito de: (A) programa 5S. (B) engenharia de confiabilidade. (C) manutenção corretiva planejada. (D) manutenção produtiva total (TPM). (E) manutenção centrada na confiabilidade (RCM)."
+        "E": "função do equipamento."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 8
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "Após sucessivas interrupções não programadas nos sistemas de climatização de um edifício do Ministério Público, foi implementado um programa de melhoria contínua envolvendo as equipes de operação, manutenção e engenharia. Entre as ações adotadas estavam a eliminação sistemática de pequenas perdas, a padronização das inspeções de rotina, a identificação precoce de anomalias pelos próprios usuários dos equipamentos e a atuação integrada entre as diferentes áreas para elevar a eficiência global dos ativos. O programa descrito corresponde, predominantemente, ao conceito de:",
+      "alternatives": {
+        "A": "programa 5S.",
+        "B": "engenharia de confiabilidade.",
+        "C": "manutenção corretiva planejada.",
+        "D": "manutenção produtiva total (TPM).",
+        "E": "manutenção centrada na confiabilidade (RCM)."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
     },
     {
       "question_number": 43,
@@ -508,9 +746,26 @@
         "B": "6.",
         "C": "8.",
         "D": "10.",
-        "E": "12. Durante a partida de uma bomba centrífuga do sistema de água gelada de um edifício do Ministério Público, o eixo ainda gira em baixa velocidade, enquanto a carga aplicada aos mancais já atingiu seu valor nominal. Nessa condição transitória, o filme lubrificante ainda não é suficiente para separar completamente as superfícies metálicas em contato. Com base no caso apresentado, assinale a opção que indica o regime de lubrificação predominante. (A) Limite, caracterizado pela separação completa das superfícies devido à elevada viscosidade do lubrificante. (B) Misto, caracterizado pela coexistência de contato entre asperezas e de regiões separadas por filme lubrificante. (C) Hidrostático, caracterizado pela formação espontânea do filme lubrificante em função do aumento da velocidade de rotação. (D) Hidrodinâmico, caracterizado pela separação completa das superfícies por um filme de lubrificante gerado pelo movimento relativo. (E) Elastohidrodinâmico, caracterizado pela deformação elástica das superfícies e pela formação de um filme espesso em contatos altamente carregados."
+        "E": "12."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 45,
+      "discipline": null,
+      "statement": "Durante a partida de uma bomba centrífuga do sistema de água gelada de um edifício do Ministério Público, o eixo ainda gira em baixa velocidade, enquanto a carga aplicada aos mancais já atingiu seu valor nominal. Nessa condição transitória, o filme lubrificante ainda não é suficiente para separar completamente as superfícies metálicas em contato. Com base no caso apresentado, assinale a opção que indica o regime de lubrificação predominante.",
+      "alternatives": {
+        "A": "Limite, caracterizado pela separação completa das superfícies devido à elevada viscosidade do lubrificante.",
+        "B": "Misto, caracterizado pela coexistência de contato entre asperezas e de regiões separadas por filme lubrificante.",
+        "C": "Hidrostático, caracterizado pela formação espontânea do filme lubrificante em função do aumento da velocidade de rotação.",
+        "D": "Hidrodinâmico, caracterizado pela separação completa das superfícies por um filme de lubrificante gerado pelo movimento relativo.",
+        "E": "Elastohidrodinâmico, caracterizado pela deformação elástica das superfícies e pela formação de um filme espesso em contatos altamente carregados."
+      },
+      "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -525,13 +780,47 @@
         "B": "viscosidade do óleo básico.",
         "C": "estabilidade mecânica da graxa.",
         "D": "consistência da graxa (grau NLGI).",
-        "E": "índice de viscosidade do óleo básico. Um Engenheiro Mecânico está revisando, no AutoCAD 2D, o layout da sala de máquinas de um edifício do Ministério Público Estadual. O desenho, a seguir, apresenta diversos trechos de tubulação representados por polilinhas de largura zero, conforme ilustrado na figura. Para adequar o desenho ao padrão interno de documentação, é necessário transformar essas polilinhas em objetos com largura constante correspondente ao diâmetro externo do tubo, preservando o traçado (eixo) da tubulação e todas as conexões existentes. Com base na situação apresentada, assinale a opção que indica, corretamente, o comando do AutoCAD 2D mais adequado para realizar essa transformação diretamente sobre as polilinhas existentes. (A) PIPE (B) MLINE (C) OFFSET (D) PEDIT (opção Width) (E) PLINE (opção Width) Um Engenheiro Mecânico do Ministério Público Estadual precisa analisar mais de 5.000 páginas de documentos técnicos, como planilhas de manutenção, operação e controle (PMOC) de sistemas de climatização e ordens de serviço digitalizadas, para instruir um inquérito civil. Para otimizar a triagem, ele decidiu usar as ferramentas de Inteligência Artificial Claude (Anthropic) e Gemini (Google). À luz das capacidades e limitações dessas tecnologias aplicadas à análise documental, analise as afirmativas a seguir. I. O modelo Gemini, por possuir uma janela de contexto expandida (na casa de milhões de tokens), permite que o engenheiro faça o upload simultâneo de grandes volumes de relatórios em um único prompt para buscar inconsistências cruzadas. II. Por serem modelos multimodais, o Claude e o Gemini conseguem processar diretamente imagens de documentos digitalizados, auxiliando na identificação visual de rasuras ou de campos não preenchidos em folhas de PMOC escaneadas. III. Como as técnicas de ancoragem de documentos (RAG) eliminam completamente o risco de alucinação das IAs, o Engenheiro pode transcrever os resultados gerados pelas ferramentas diretamente em seu parecer técnico com fé pública, sem necessidade de validação humana. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "índice de viscosidade do óleo básico."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 9
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "Um Engenheiro Mecânico está revisando, no AutoCAD 2D, o layout da sala de máquinas de um edifício do Ministério Público Estadual. O desenho, a seguir, apresenta diversos trechos de tubulação representados por polilinhas de largura zero, conforme ilustrado na figura. Para adequar o desenho ao padrão interno de documentação, é necessário transformar essas polilinhas em objetos com largura constante correspondente ao diâmetro externo do tubo, preservando o traçado (eixo) da tubulação e todas as conexões existentes. Com base na situação apresentada, assinale a opção que indica, corretamente, o comando do AutoCAD 2D mais adequado para realizar essa transformação diretamente sobre as polilinhas existentes.",
+      "alternatives": {
+        "A": "PIPE",
+        "B": "MLINE",
+        "C": "OFFSET",
+        "D": "PEDIT (opção Width)",
+        "E": "PLINE (opção Width)"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-engenheiro-mecanico_q47.png",
+      "page_number": 10
+    },
+    {
+      "question_number": 48,
+      "discipline": null,
+      "statement": "Um Engenheiro Mecânico do Ministério Público Estadual precisa analisar mais de 5.000 páginas de documentos técnicos, como planilhas de manutenção, operação e controle (PMOC) de sistemas de climatização e ordens de serviço digitalizadas, para instruir um inquérito civil. Para otimizar a triagem, ele decidiu usar as ferramentas de Inteligência Artificial Claude (Anthropic) e Gemini (Google). À luz das capacidades e limitações dessas tecnologias aplicadas à análise documental, analise as afirmativas a seguir. I. O modelo Gemini, por possuir uma janela de contexto expandida (na casa de milhões de tokens), permite que o engenheiro faça o upload simultâneo de grandes volumes de relatórios em um único prompt para buscar inconsistências cruzadas. II. Por serem modelos multimodais, o Claude e o Gemini conseguem processar diretamente imagens de documentos digitalizados, auxiliando na identificação visual de rasuras ou de campos não preenchidos em folhas de PMOC escaneadas. III. Como as técnicas de ancoragem de documentos (RAG) eliminam completamente o risco de alucinação das IAs, o Engenheiro pode transcrever os resultados gerados pelas ferramentas diretamente em seu parecer técnico com fé pública, sem necessidade de validação humana. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
     },
     {
       "question_number": 49,
@@ -542,13 +831,47 @@
         "B": "pode substituir o julgamento técnico do Engenheiro, quando as informações de entrada forem completas e consistentes.",
         "C": "compartilha a responsabilidade pelo conteúdo do parecer, desde que todas as sugestões sejam revisadas antes da emissão.",
         "D": "valida as conclusões do parecer, desde que utilize informações provenientes da inspeção e dos cálculos efetuados.",
-        "E": "assegura a conformidade do documento com as normas técnicas, desde que sejam empregadas referências atualizadas. Durante a avaliação estrutural do suporte metálico de um chiller instalado em um edifício do Ministério Público, um Engenheiro elaborou um modelo por meio do Método dos Elementos Finitos (FEA). Após sucessivos refinamentos da malha na região de maior concentração de tensões, obteve os seguintes resultados para a tensão equivalente máxima de von Mises: Número de elementos Tensão de von Mises (MPa) 2.500 184 5.000 198 10.000 204 20.000 205 Com base nos resultados apresentados, assinale a opção que indica, corretamente, a principal conclusão sobre o comportamento da solução numérica. (A) O aumento da tensão máxima demonstra que as condições de contorno estão incorretamente definidas. (B) O refinamento da malha tornou a solução instável, comprometendo a confiabilidade dos resultados. (C) O modelo somente poderá ser considerado adequado se a tensão máxima permanecer exatamente constante após um novo refinamento da malha. (D) O número de elementos utilizado é insuficiente para qualquer avaliação, pois a tensão máxima continua aumentando à medida que a malha é refinada. (E) O modelo apresenta tendência de convergência, indicando que novos refinamentos da malha terão influência pouco significativa na tensão máxima calculada. O engenheiro mecânico de um Ministério Público Estadual utiliza um painel de Business Intelligence (BI) para acompanhar a execução do contrato de manutenção dos sistemas de climatização. Em dois meses consecutivos, o painel apresentou os seguintes indicadores consolidados: Com base exclusivamente nas informações apresentadas, analise as afirmativas a seguir. I. A redução do percentual de manutenções preventivas executadas no prazo invalida a comparação entre os indicadores dos dois meses, pois esses indicadores somente podem ser analisados quando o plano preventivo é integralmente cumprido. II. O aumento do MTBF e a redução do MTTR são compatíveis com o aumento observado da disponibilidade operacional, embora não permitam concluir, isoladamente, que o contrato tenha alcançado maior eficácia global. III. A redução da execução das manutenções preventivas não impede que os demais indicadores apresentem melhora simultânea, sendo insuficiente, por si só, para estabelecer uma relação de causa e efeito entre esses resultados. Está correto o que se afirma em: (A) I, apenas. (B) II, apenas. (C) III, apenas. (D) I e II, apenas. (E) II e III, apenas."
+        "E": "assegura a conformidade do documento com as normas técnicas, desde que sejam empregadas referências atualizadas."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10
+    },
+    {
+      "question_number": 50,
+      "discipline": null,
+      "statement": "Durante a avaliação estrutural do suporte metálico de um chiller instalado em um edifício do Ministério Público, um Engenheiro elaborou um modelo por meio do Método dos Elementos Finitos (FEA). Após sucessivos refinamentos da malha na região de maior concentração de tensões, obteve os seguintes resultados para a tensão equivalente máxima de von Mises: Número de elementos Tensão de von Mises (MPa) 2.500 184 5.000 198 10.000 204 20.000 205 Com base nos resultados apresentados, assinale a opção que indica, corretamente, a principal conclusão sobre o comportamento da solução numérica.",
+      "alternatives": {
+        "A": "O aumento da tensão máxima demonstra que as condições de contorno estão incorretamente definidas.",
+        "B": "O refinamento da malha tornou a solução instável, comprometendo a confiabilidade dos resultados.",
+        "C": "O modelo somente poderá ser considerado adequado se a tensão máxima permanecer exatamente constante após um novo refinamento da malha.",
+        "D": "O número de elementos utilizado é insuficiente para qualquer avaliação, pois a tensão máxima continua aumentando à medida que a malha é refinada.",
+        "E": "O modelo apresenta tendência de convergência, indicando que novos refinamentos da malha terão influência pouco significativa na tensão máxima calculada."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-engenheiro-mecanico_q50.png",
+      "page_number": 11
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "O engenheiro mecânico de um Ministério Público Estadual utiliza um painel de Business Intelligence (BI) para acompanhar a execução do contrato de manutenção dos sistemas de climatização. Em dois meses consecutivos, o painel apresentou os seguintes indicadores consolidados: Com base exclusivamente nas informações apresentadas, analise as afirmativas a seguir. I. A redução do percentual de manutenções preventivas executadas no prazo invalida a comparação entre os indicadores dos dois meses, pois esses indicadores somente podem ser analisados quando o plano preventivo é integralmente cumprido. II. O aumento do MTBF e a redução do MTTR são compatíveis com o aumento observado da disponibilidade operacional, embora não permitam concluir, isoladamente, que o contrato tenha alcançado maior eficácia global. III. A redução da execução das manutenções preventivas não impede que os demais indicadores apresentem melhora simultânea, sendo insuficiente, por si só, para estabelecer uma relação de causa e efeito entre esses resultados. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-engenheiro-mecanico_q51.png",
+      "page_number": 11
     },
     {
       "question_number": 52,
@@ -559,13 +882,47 @@
         "B": "13 dias.",
         "C": "14 dias.",
         "D": "16 dias.",
-        "E": "18 dias. Durante a elaboração do orçamento estimado para a licitação destinada à substituição de três bombas centrífugas do sistema de água gelada de um edifício do Ministério Público, o Engenheiro responsável elaborou a composição de custos unitários apresentada a seguir. Item Unidade Qtde Custo unitário (R$) Bomba centrífuga un 1 12.000 Mão de obra especializada h 20 100 Auxiliar de montagem h 10 60 Equipamento de içamento h 5 160 Consumíveis e materiais auxiliares verba 1 1.000 Além disso, foram adotados os seguintes critérios:  Perdas de materiais auxiliares: 5%, incidentes apenas sobre os consumíveis e materiais auxiliares;  Despesas indiretas (BDI): 20%, incidentes sobre o custo direto; e  O contrato prevê a instalação de 3 conjuntos idênticos. O valor total estimado da contratação, considerando os critérios adotados, é de, aproximadamente, (A) R$ 49.350,00. (B) R$ 50.940,00. (C) R$ 59.220,00. (D) R$ 60.940,00. (E) R$ 61.380,00. Durante a fiscalização da substituição de um sistema de climatização em um edifício do Ministério Público, o Engenheiro responsável verificou que a contratada havia instalado 10 fan coils, conforme previsto no cronograma da etapa. Entretanto, na inspeção técnica, constatou-se que 2 equipamentos apresentavam vazão de ar inferior ao valor mínimo especificado no projeto, conforme ensaio de comissionamento, e que 1 equipamento ainda não havia sido submetido aos testes funcionais previstos no contrato. Em razão disso, a contratada solicitou a medição integral da etapa, alegando que todos os equipamentos já se encontravam fisicamente instalados. Nessa situação, assinale a opção que indica a conduta tecnicamente mais adequada do fiscal do contrato. (A) Realizar a medição de apenas 9 equipamentos, descontando apenas aquele que ainda não foi submetido aos testes funcionais. (B) Realizar a medição dos 10 equipamentos, pois a etapa física foi concluída, registrando as pendências para correção na medição seguinte. (C) Suspender integralmente a medição da etapa, ainda que parte dos equipamentos atenda plenamente às especificações técnicas. (D) Realizar a medição apenas dos equipamentos que atendam às especificações contratuais, excluindo aqueles reprovados nos ensaios e o ainda não testado. (E) Realizar a medição de apenas 8 equipamentos, excluindo aqueles que não atenderam aos requisitos de desempenho, mas incluindo o equipamento ainda sem ensaio por já estar instalado."
+        "E": "18 dias."
       },
       "answer": "D",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/mpes26_agente-tecnico-engenheiro-mecanico_q52.png",
       "page_number": 11
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "Durante a elaboração do orçamento estimado para a licitação destinada à substituição de três bombas centrífugas do sistema de água gelada de um edifício do Ministério Público, o Engenheiro responsável elaborou a composição de custos unitários apresentada a seguir. Item Unidade Qtde Custo unitário (R$) Bomba centrífuga un 1 12.000 Mão de obra especializada h 20 100 Auxiliar de montagem h 10 60 Equipamento de içamento h 5 160 Consumíveis e materiais auxiliares verba 1 1.000 Além disso, foram adotados os seguintes critérios:  Perdas de materiais auxiliares: 5%, incidentes apenas sobre os consumíveis e materiais auxiliares;  Despesas indiretas (BDI): 20%, incidentes sobre o custo direto; e  O contrato prevê a instalação de 3 conjuntos idênticos. O valor total estimado da contratação, considerando os critérios adotados, é de, aproximadamente,",
+      "alternatives": {
+        "A": "R$ 49.350,00.",
+        "B": "R$ 50.940,00.",
+        "C": "R$ 59.220,00.",
+        "D": "R$ 60.940,00.",
+        "E": "R$ 61.380,00."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpes26_agente-tecnico-engenheiro-mecanico_q53.png",
+      "page_number": 12
+    },
+    {
+      "question_number": 54,
+      "discipline": null,
+      "statement": "Durante a fiscalização da substituição de um sistema de climatização em um edifício do Ministério Público, o Engenheiro responsável verificou que a contratada havia instalado 10 fan coils, conforme previsto no cronograma da etapa. Entretanto, na inspeção técnica, constatou-se que 2 equipamentos apresentavam vazão de ar inferior ao valor mínimo especificado no projeto, conforme ensaio de comissionamento, e que 1 equipamento ainda não havia sido submetido aos testes funcionais previstos no contrato. Em razão disso, a contratada solicitou a medição integral da etapa, alegando que todos os equipamentos já se encontravam fisicamente instalados. Nessa situação, assinale a opção que indica a conduta tecnicamente mais adequada do fiscal do contrato.",
+      "alternatives": {
+        "A": "Realizar a medição de apenas 9 equipamentos, descontando apenas aquele que ainda não foi submetido aos testes funcionais.",
+        "B": "Realizar a medição dos 10 equipamentos, pois a etapa física foi concluída, registrando as pendências para correção na medição seguinte.",
+        "C": "Suspender integralmente a medição da etapa, ainda que parte dos equipamentos atenda plenamente às especificações técnicas.",
+        "D": "Realizar a medição apenas dos equipamentos que atendam às especificações contratuais, excluindo aqueles reprovados nos ensaios e o ainda não testado.",
+        "E": "Realizar a medição de apenas 8 equipamentos, excluindo aqueles que não atenderam aos requisitos de desempenho, mas incluindo o equipamento ainda sem ensaio por já estar instalado."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
     },
     {
       "question_number": 55,
@@ -576,13 +933,30 @@
         "B": "A viabilidade técnica e econômica do parcelamento, com preservação da eficiência da contratação.",
         "C": "A divisão do objeto sempre que houver mais de um fornecedor potencial, independentemente dos impactos sobre a execução contratual.",
         "D": "A adoção do parcelamento apenas quando todos os lotes puderem ser adjudicados ao mesmo licitante, sem comprometer a gestão contratual.",
-        "E": "A realização de contratações independentes sempre que os sistemas possuírem funções distintas, ainda que exista elevada integração entre eles. Um Engenheiro Mecânico do Ministério Público do Estado do espírito Santo foi designado para elaborar um laudo técnico referente à inspeção de um sistema de exaustão instalado em um laboratório público. Durante a vistoria, foram identificadas falhas de funcionamento, registros de manutenção incompletos e divergências entre o projeto executivo e a instalação existente. Ao elaborar o documento, o Engenheiro buscou assegurar que o laudo pudesse subsidiar a atuação ministerial e resistir ao contraditório em eventual demanda judicial. Considerando os princípios de elaboração de documentos técnicos, analise as afirmativas a seguir. I. As conclusões do laudo devem decorrer da análise técnica fundamentada dos elementos obtidos na inspeção, distinguindo objetivamente os fatos observados das inferências e das conclusões do profissional. II. Na ausência de informações suficientes para conclusão definitiva, é admissível que o laudo apresente as hipóteses técnicas formuladas, desde que identificadas como tais e acompanhadas da indicação das limitações encontradas. III. Sempre que houver divergências entre a situação observada e a documentação disponível, o Engenheiro deve restringir o laudo ao relato das inconformidades, evitando registrar análise técnica até que todas as informações documentais sejam integralmente obtidas. Está correto o que se afirma em (A) I, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III."
+        "E": "A realização de contratações independentes sempre que os sistemas possuírem funções distintas, ainda que exista elevada integração entre eles."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12
+    },
+    {
+      "question_number": 56,
+      "discipline": null,
+      "statement": "Um Engenheiro Mecânico do Ministério Público do Estado do espírito Santo foi designado para elaborar um laudo técnico referente à inspeção de um sistema de exaustão instalado em um laboratório público. Durante a vistoria, foram identificadas falhas de funcionamento, registros de manutenção incompletos e divergências entre o projeto executivo e a instalação existente. Ao elaborar o documento, o Engenheiro buscou assegurar que o laudo pudesse subsidiar a atuação ministerial e resistir ao contraditório em eventual demanda judicial. Considerando os princípios de elaboração de documentos técnicos, analise as afirmativas a seguir. I. As conclusões do laudo devem decorrer da análise técnica fundamentada dos elementos obtidos na inspeção, distinguindo objetivamente os fatos observados das inferências e das conclusões do profissional. II. Na ausência de informações suficientes para conclusão definitiva, é admissível que o laudo apresente as hipóteses técnicas formuladas, desde que identificadas como tais e acompanhadas da indicação das limitações encontradas. III. Sempre que houver divergências entre a situação observada e a documentação disponível, o Engenheiro deve restringir o laudo ao relato das inconformidades, evitando registrar análise técnica até que todas as informações documentais sejam integralmente obtidas. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
     },
     {
       "question_number": 57,
@@ -593,9 +967,26 @@
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. Um Engenheiro Mecânico, servidor do Ministério Público do Espírito Santo, elabora parecer técnico sobre as condições de segurança de um sistema de climatização instalado em um hospital público. Antes da conclusão do trabalho, recebe solicitação de um superior hierárquico para suprimir do relatório as conclusões referentes a não conformidades identificadas, sob o argumento de que novas diligências ainda poderão ser realizadas e que a divulgação dessas informações poderia dificultar negociações em curso com o órgão responsável. Com base no caso narrado, à luz da Resolução CONFEA nº 1.002/2002 (Código de Ética Profissional), assinale a opção que apresenta a conduta compatível com os deveres éticos do Engenheiro. (A) Retirar do parecer as conclusões questionadas e registrar, em documento apartado, sua discordância em relação à orientação recebida. (B) Atender à determinação hierárquica, pois a divulgação do conteúdo do parecer depende da estratégia institucional definida pela chefia. (C) Registrar apenas as não conformidades cujas correções possam ser comprovadas de imediato, omitindo aquelas que dependam de análises complementares. (D) Substituir as conclusões técnicas por recomendações genéricas, evitando posicionamento conclusivo até que todas as diligências administrativas sejam encerradas. (E) Apresentar manifestação técnica compatível com os elementos objetivamente verificados, preservando sua independência profissional quanto às conclusões técnicas."
+        "E": "I, II e III."
       },
       "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 58,
+      "discipline": null,
+      "statement": "Um Engenheiro Mecânico, servidor do Ministério Público do Espírito Santo, elabora parecer técnico sobre as condições de segurança de um sistema de climatização instalado em um hospital público. Antes da conclusão do trabalho, recebe solicitação de um superior hierárquico para suprimir do relatório as conclusões referentes a não conformidades identificadas, sob o argumento de que novas diligências ainda poderão ser realizadas e que a divulgação dessas informações poderia dificultar negociações em curso com o órgão responsável. Com base no caso narrado, à luz da Resolução CONFEA nº 1.002/2002 (Código de Ética Profissional), assinale a opção que apresenta a conduta compatível com os deveres éticos do Engenheiro.",
+      "alternatives": {
+        "A": "Retirar do parecer as conclusões questionadas e registrar, em documento apartado, sua discordância em relação à orientação recebida.",
+        "B": "Atender à determinação hierárquica, pois a divulgação do conteúdo do parecer depende da estratégia institucional definida pela chefia.",
+        "C": "Registrar apenas as não conformidades cujas correções possam ser comprovadas de imediato, omitindo aquelas que dependam de análises complementares.",
+        "D": "Substituir as conclusões técnicas por recomendações genéricas, evitando posicionamento conclusivo até que todas as diligências administrativas sejam encerradas.",
+        "E": "Apresentar manifestação técnica compatível com os elementos objetivamente verificados, preservando sua independência profissional quanto às conclusões técnicas."
+      },
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
@@ -627,7 +1018,7 @@
         "B": "perlita fina.",
         "C": "perlita grossa.",
         "D": "bainita inferior.",
-        "E": "bainita superior. 1 O Ministério Público pretende contratar a substituição do sistema de climatização de um edifício administrativo de oito pavimentos. O projeto prevê a remoção de equipamentos obsoletos, a instalação de novos chillers, de redes hidráulicas, de dutos de ar-condicionado, de sistemas de automação e de adequações elétricas. O prazo contratual estabelecido é de 180 dias. Durante a fase de execução, o fiscal do contrato identificou atrasos em determinadas atividades críticas do cronograma, divergências entre os quantitativos executados e os previstos para fins de medição, além de não conformidades no uso de equipamentos de proteção coletiva em áreas com trabalhos em altura. Considerando a situação apresentada e a legislação aplicável, redija um texto dissertativo respondendo aos itens a seguir. (a) Explique como a utilização das técnicas PERT/CPM pode auxiliar o gestor e o fiscal do contrato na identificação das atividades críticas e no controle dos prazos da obra; (b) Descreva os procedimentos a serem adotados para verificar a correção das medições apresentadas pela contratada e a consequente emissão das faturas para pagamento; (c) Apresente os principais aspectos a serem avaliados na fiscalização da qualidade dos materiais e dos serviços executados no sistema de climatização, indicando a importância dessa atividade para a Administração Pública; e (d) À luz da Lei nº 14.133/2021 e das normas de segurança do trabalho, indique as providências que devem ser adotadas pela fiscalização diante da constatação de falhas relacionadas à segurança dos trabalhadores durante a execução contratual. Durante uma inspeção predial, identificou-se a necessidade de substituir o conjunto motriz de um monta-cargas utilizado para o transporte de processos, materiais de manutenção e equipamentos entre os pavimentos de um edifício do Ministério Público. O sistema é composto por um motor elétrico acoplado a um redutor de engrenagens. O torque é transmitido por um eixo circular maciço até um tambor de raio de 0,20 m, responsável pelo enrolamento do cabo de aço que movimenta a cabine. As demais características do sistema são apresentadas na tabela a seguir. Massa máxima transportada 800 kg Raio do tambor 0,25 m Rotação do tambor 30 rpm Tensão admissível ao cisalhamento do material do eixo 40 MPa Fator de segurança requerido 2,0 Além disso, considere, por simplificação, que π ≈ 3,2, a aceleração da gravidade é de 10 m/s2, o carregamento é estático e não há perdas mecânicas. Com base nas informações fornecidas: (a) determine a força máxima aplicada ao cabo de aço durante a elevação da carga; (b) calcule o torque transmitido ao tambor e a potência mecânica necessária para elevar a carga na condição máxima de operação; (c) determine o diâmetro mínimo do eixo maciço circular submetido exclusivamente à torção. Apresente os cálculos; e (d) explique a função do fator de segurança no projeto de sistemas de movimentação de cargas e cite duas possíveis consequências da sua adoção inadequada em equipamentos de elevação. Realização"
+        "E": "bainita superior. Prova Discursiva 1 O Ministério Público pretende contratar a substituição do sistema de climatização de um edifício administrativo de oito pavimentos. O projeto prevê a remoção de equipamentos obsoletos, a instalação de novos chillers, de redes hidráulicas, de dutos de ar-condicionado, de sistemas de automação e de adequações elétricas. O prazo contratual estabelecido é de 180 dias. Durante a fase de execução, o fiscal do contrato identificou atrasos em determinadas atividades críticas do cronograma, divergências entre os quantitativos executados e os previstos para fins de medição, além de não conformidades no uso de equipamentos de proteção coletiva em áreas com trabalhos em altura. Considerando a situação apresentada e a legislação aplicável, redija um texto dissertativo respondendo aos itens a seguir. (a) Explique como a utilização das técnicas PERT/CPM pode auxiliar o gestor e o fiscal do contrato na identificação das atividades críticas e no controle dos prazos da obra; (b) Descreva os procedimentos a serem adotados para verificar a correção das medições apresentadas pela contratada e a consequente emissão das faturas para pagamento; (c) Apresente os principais aspectos a serem avaliados na fiscalização da qualidade dos materiais e dos serviços executados no sistema de climatização, indicando a importância dessa atividade para a Administração Pública; e (d) À luz da Lei nº 14.133/2021 e das normas de segurança do trabalho, indique as providências que devem ser adotadas pela fiscalização diante da constatação de falhas relacionadas à segurança dos trabalhadores durante a execução contratual. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 Durante uma inspeção predial, identificou-se a necessidade de substituir o conjunto motriz de um monta-cargas utilizado para o transporte de processos, materiais de manutenção e equipamentos entre os pavimentos de um edifício do Ministério Público. O sistema é composto por um motor elétrico acoplado a um redutor de engrenagens. O torque é transmitido por um eixo circular maciço até um tambor de raio de 0,20 m, responsável pelo enrolamento do cabo de aço que movimenta a cabine. As demais características do sistema são apresentadas na tabela a seguir. Massa máxima transportada 800 kg Raio do tambor 0,25 m Rotação do tambor 30 rpm Tensão admissível ao cisalhamento do material do eixo 40 MPa Fator de segurança requerido 2,0 Além disso, considere, por simplificação, que π ≈ 3,2, a aceleração da gravidade é de 10 m/s2, o carregamento é estático e não há perdas mecânicas. Com base nas informações fornecidas: (a) determine a força máxima aplicada ao cabo de aço durante a elevação da carga; (b) calcule o torque transmitido ao tambor e a potência mecânica necessária para elevar a carga na condição máxima de operação; (c) determine o diâmetro mínimo do eixo maciço circular submetido exclusivamente à torção. Apresente os cálculos; e (d) explique a função do fator de segurança no projeto de sistemas de movimentação de cargas e cite duas possíveis consequências da sua adoção inadequada em equipamentos de elevação. 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 2 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 4 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 8 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 9 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 10 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 11 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 12 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 13 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 14 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 15 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Realização"
       },
       "answer": "ANULADA",
       "annulled": true,

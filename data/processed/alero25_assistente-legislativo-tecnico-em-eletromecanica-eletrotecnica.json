@@ -202,7 +202,7 @@
         "B": "Como estivesse atrasado, acabou perdendo o avião / conjunção.",
         "C": "Apesar de muito esforço, não conseguiu passar no concurso / locução prepositiva.",
         "D": "Um ciclone inesperado atingiu Rio Bonito do Iguaçu, no estado do Paraná / adjetivo.",
-        "E": "Em 99% das casas e do comércio da cidade, a energia que foi cortada já foi restabelecida / pronome. Raciocínio Lógico Matemático"
+        "E": "Em 99% das casas e do comércio da cidade, a energia que foi cortada já foi restabelecida / pronome."
       },
       "answer": "A",
       "annulled": false,
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Considere a afirmação: “Se o cozinheiro é competente, o almoço não vai atrasar.” A negação dessa afirmação é",
       "alternatives": {
         "A": "O cozinheiro não é competente e o almoço vai atrasar.",
@@ -229,7 +229,7 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Samuel compra e vende carros usados na sua loja. Em uma das suas transações, ele comprou um carro usado e anunciou como preço de venda um valor 20% maior do que gastou na compra. Entretanto, na hora de vender, ele deu ao comprador um desconto de 10% sobre o preço de venda anunciado. Com isso, ele lucrou R$ 5.200,00 nessa transação. Esse carro foi vendido por",
       "alternatives": {
         "A": "R$ 65.000,00.",
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Arlindo, Benedito, Gilmar, Nonato e Osvaldo vão acampar. Eles possuem duas barracas, sendo uma menor, que comporta duas pessoas, e outra maior, comportando três pessoas. Entretanto, Arlindo e Benedito não querem ficar na mesma barraca. Respeitando esse desejo, o número de maneiras diferentes em que as cinco pessoas podem ser arrumadas, nas duas barracas, é",
       "alternatives": {
         "A": "3.",
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Uma panela de sopa pode alimentar ou 6 adultos ou 10 crianças. Em certa ocasião, havia 4 panelas de sopa e foram alimentadas 25 crianças. Com a sopa que sobrou, a quantidade de adultos que podem ser alimentados é igual a",
       "alternatives": {
         "A": "6.",
@@ -280,7 +280,7 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Uma rádio fez uma pesquisa para conhecer melhor o seu público ouvinte. Ao todo, 240 pessoas foram entrevistadas. Do total de entrevistados, 100 eram mulheres e 136 ouvem a rádio. Constatou-se também que apenas 6 mulheres não ouvem a rádio. Dos homens entrevistados, o percentual daqueles que ouvem a rádio é de",
       "alternatives": {
         "A": "10%.",
@@ -297,14 +297,14 @@
     },
     {
       "question_number": 18,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em uma urna há 10 cartas, sendo 5 vermelhas e 5 pretas. Em cada uma das 5 cartas vermelhas está escrito uma das letras A, B, C, D e E. O mesmo ocorre com cada uma das cartas pretas. Todas as cartas são diferentes entre si. Sorteiam-se, ao acaso, duas cartas em sequência e sem reposição. A probabilidade de as cartas sorteadas terem a mesma cor ou a mesma letra é igual a",
       "alternatives": {
         "A": "2/5.",
         "B": "3/5.",
         "C": "2/9.",
         "D": "4/9.",
-        "E": "5/9. Noções de Informática"
+        "E": "5/9."
       },
       "answer": "E",
       "annulled": false,
@@ -314,7 +314,7 @@
     },
     {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de Informática da ALE-RO está elaborando um manual de especificações técnicas para a aquisição de novos computadores. É necessário descrever corretamente a função de cada componente para justificar a escolha técnica. Assinale a opção que apresenta corretamente o componente de hardware e sua função principal na arquitetura básica de um computador.",
       "alternatives": {
         "A": "CPU: armazenar permanentemente o sistema operacional e os arquivos dos usuários.",
@@ -331,7 +331,7 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Durante uma sessão longa e de alta demanda na ALE-RO, o sistema de registro de votos e tramitação de emendas começa a ficar extremamente lento. O analista de TI, ao monitorar o sistema, observa que a memória física (RAM) está completamente utilizada. O sistema operacional então passa a usar um recurso para não travar completamente. O recurso técnico que o sistema operacional utiliza como extensão da memória RAM física, quando essa atinge sua capacidade máxima, armazenando dados temporariamente em um dispositivo de armazenamento secundário, é denominado",
       "alternatives": {
         "A": "Memória Cache L3.",
@@ -348,7 +348,7 @@
     },
     {
       "question_number": 21,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Um servidor público da ALE-RO está redigindo um relatório extenso no Microsoft Word 365 (BR), no Windows 10 (BR). Para otimizar seu trabalho e evitar o uso excessivo do mouse, ele utiliza combinações de teclas para executar comandos comuns com mais agilidade. A seguir, relacione os atalhos de teclado às ações que o servidor deseja realizar. 1. Ctrl + B 2. Ctrl + T 3. Ctrl + Z 4. Ctrl + L ( ) Salvar o documento em que está trabalhando. ( ) Selecionar todo o texto do documento atual. ( ) Desfazer a última ação realizada. ( ) Pesquisar por uma palavra específica dentro do documento. Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "1 – 2 – 3 – 4.",
@@ -365,7 +365,7 @@
     },
     {
       "question_number": 22,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "A Diretoria Legislativa da ALE-RO estabeleceu um padrão formal para a redação de todas as suas indicações. O modelo oficial define que os títulos das seções principais (como “EMENTA” e “JUSTIFICATIVA”) devem usar a fonte Arial, tamanho 14, negrito e com um espaçamento de 24 pontos, após o parágrafo. No MS Word 365 (BR), a maneira mais eficiente e profissional para aplicar e garantir a uniformidade desse padrão em todos os documentos é",
       "alternatives": {
         "A": "utilizar o Pincel de Formatação para copiar a formatação de um título para os outros.",
@@ -382,7 +382,7 @@
     },
     {
       "question_number": 23,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de protocolo da ALE-RO precisa gerar automaticamente um código único para cada novo documento. O código é composto pelo Ano (coluna A), a sigla do Tipo de Processo (coluna B, ex.: \"PL\" para Projeto de Lei) e um Número Sequencial com 5 dígitos (coluna C, ex.: 00045). O formato final desejado é “2026-PL-00045”, conforme ilustra a figura a seguir. Para criar esse código formatado na coluna D, a fórmula correta a ser inserida na célula D2 e arrastada para baixo é:",
       "alternatives": {
         "A": "=A2 & B2 & C2",
@@ -399,14 +399,14 @@
     },
     {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O setor de transparência da ALE-RO publica mensalmente uma planilha no Google Sheets com os gastos por departamento. Um servidor precisa criar um gráfico que mostre, de forma clara e imediata, a proporção (%) do orçamento total consumida por cada um dos seis departamentos em um determinado mês. O tipo de gráfico mais adequado no Google Sheets para atender a esse objetivo de visualizar partes de um todo é",
       "alternatives": {
         "A": "Gráfico de Linhas.",
         "B": "Gráfico de Colunas.",
         "C": "Gráfico de Pizza (ou Rosca).",
         "D": "Gráfico de Dispersão.",
-        "E": "Gráfico de Barras. Legislação Específica"
+        "E": "Gráfico de Barras."
       },
       "answer": "C",
       "annulled": false,
@@ -416,7 +416,7 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "No exercício de suas atribuições como servidora pública da Assembleia Legislativa do Estado de Rondônia, Shirley foi questionada acerca das especificidades da inexigibilidade de licitação constantes da Resolução ALE/RO nº 593, de 30 de outubro de 2024, que estabelece disposições regulamentares acerca das atribuições e procedimentos de licitações e contratos administrativos, no âmbito do aludido Órgão. Assinale a resposta correta dada por Shirley ao mencionado questionamento.",
       "alternatives": {
         "A": "A prorrogação da vigência dos contratos regularmente formalizados em decorrência de inexigibilidade de licitação é proibida, independentemente da demonstração de vantajosidade para a Administração.",
@@ -433,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Certa autoridade competente classificou como reservada uma determinada informação, sob o fundamento de que sua divulgação ou seu acesso irrestrito poderiam prejudicar ou causar risco a projetos de pesquisa e desenvolvimento científico ou tecnológico. Diante de tais circunstâncias, assinale a afirmativa correta, em consonância com o disposto na Lei nº 12.527/2011.",
       "alternatives": {
         "A": "O fundamento invocado não é idôneo para determinar o sigilo, pois não se enquadra dentre as situações consideradas imprescindíveis à segurança da sociedade e do Estado.",
@@ -450,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "William é servidor público do Estado de Rondônia, regularmente investido, que alcançou a estabilidade. Recentemente, contudo, William tem vivido intercorrências no espectro familiar, envolvendo a doença da madrasta que o criou, Valentina, que requer cuidados especiais, bem como o iminente deslocamento de sua esposa, Jane, para Brasília para o exercício de mandato eletivo como senadora, sendo certo que Eva, irmã de William por parte de pai e filha de Valentina, também é servidora estável do mesmo ente federativo. Diante dessa situação hipotética, à luz das disposições acerca da licença por motivo de doença na família e da licença por motivo de afastamento de cônjuge ou companheiro na Lei Complementar nº 68, de 09 de dezembro de 1992 e suas alterações, assinale a afirmativa correta.",
       "alternatives": {
         "A": "William e Eva poderão usufruir de licença por motivo de doença de Valentina ao mesmo tempo, considerando que o seu tratamento requer cuidados especiais.",
@@ -467,7 +467,7 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Considerando o disposto no Código de Ética e Decoro Parlamentar da Assembleia Legislativa do Estado de Rondônia, o deputado que, pela primeira vez, utilizar, em discurso ou proposição, expressões atentatórias ao decoro parlamentar está sujeito à penalidade de",
       "alternatives": {
         "A": "censura verbal.",
@@ -484,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Acerca da validade dos atos administrativos, avalie as assertivas a seguir. I. Não poderá ser considerado inválido o ato administrativo no caso de falta ou insuficiência de motivação. II. Nos atos discricionários, será razão de invalidade a falta de correlação entre o motivo e o objeto do ato, tendo em vista a sua finalidade. III. Os atos administrativos deverão ser precedidos do processo administrativo adequado à sua validade e à proteção dos direitos e interesses dos administrados. Considerando o disposto na Lei do Processo Administrativo do Estado de Rondônia (Lei Ordinária nº 3.830, de 27 de junho de 2016), está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -501,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "O Regimento Interno da Assembleia Legislativa do Estado de Rondônia, Resolução nº 32, de 21 de agosto de 1990 e suas alterações, delimita as comissões permanentes, o número de membros e a competência de cada uma delas. Com base na mencionada norma, assinale a opção correta a respeito do tema.",
       "alternatives": {
         "A": "Comissão de Agropecuária e Política Rural, com 7 (sete) membros, à qual compete a matéria atinente ao regime jurídico-administrativo e concessão e uso dos bens civis públicos.",
@@ -518,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Com vistas a analisar um projeto de lei que versa sobre servidores públicos do Estado de Rondônia, Salete, servidora da Assembleia Legislativa do mencionado ente federativo, teve que analisar as peculiaridades das normas da respectiva Constituição Estadual acerca do tema. Assinale a afirmativa que indica a correta conclusão alcançada por Salete, à luz do disposto na Carta Estadual.",
       "alternatives": {
         "A": "Nenhum servidor poderá ser diretor ou integrar conselho de empresa fornecedora do Estado, ou que realize qualquer modalidade de contrato com o Estado, sob pena de demissão do serviço público, salvo quando o contrato obedecer a cláusulas uniformes.",
@@ -535,14 +535,14 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação Específica",
       "statement": "Deodato, servidor da Assembleia Legislativa do Estado de Rondônia, está com receio de ter praticado, no exercício de suas atribuições, conduta passível de caracterizar ato de improbidade que atenta contra os princípios da Administração Pública, de modo que decidiu aprofundar os seus conhecimentos acerca de tal ato de improbidade, à luz do disposto na Lei nº 8.429/1990, com a redação conferida pela Lei nº 14.230/2021. Assinale a afirmativa que indica a conclusão correta alcançada por Deodato.",
       "alternatives": {
         "A": "Toda ilegalidade é passível de caracterização do ato de improbidade em análise, independentemente da comprovação de que o agente público tinha por objetivo obter proveito ou benefício indevido para si ou para outra pessoa entidade.",
         "B": "O dispositivo relativo à categoria em comento é aplicável nas situações que não se enquadrem com ato de improbidade que importe em enriquecimento ilícito ou que cause lesão ao erário, de modo que o respectivo rol não pode ser considerado taxativo.",
         "C": "O dolo é imprescindível para a caracterização do ato de improbidade em cotejo, assim como é necessário o reconhecimento de que a conduta produziu danos ao erário, sem o que não haverá improbidade.",
         "D": "O enquadramento de conduta funcional na categoria em exame não depende da demonstração objetiva da prática de ilegalidade no exercício da função pública, tampouco da indicação das normas constitucionais, legais ou infralegais violadas.",
-        "E": "Nem todo ato que viola princípio da Administração Pública poderá caracterizar o ato de improbidade objeto de questionamento, sendo exigida lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento. História e Geografia de Rondônia"
+        "E": "Nem todo ato que viola princípio da Administração Pública poderá caracterizar o ato de improbidade objeto de questionamento, sendo exigida lesividade relevante ao bem jurídico tutelado para serem passíveis de sancionamento."
       },
       "answer": "E",
       "annulled": false,
@@ -552,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Desde o período colonial, a região dos vales dos rios Guaporé e Madeira ocupou posição estratégica na definição das fronteiras amazônicas. A respeito do papel histórico e atual da região citada, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) Nos primeiros séculos da colonização, a presença portuguesa na região esteve associada à exploração econômica, à navegação fluvial e à necessidade de assegurar a posse territorial frente ao império espanhol. ( ) Ao longo do século XX, políticas de integração nacional, como a criação do Território Federal do Guaporé, a construção da Ferrovia Madeira-Mamoré e, posteriormente, da rodovia BR- 364, buscaram fortalecer a presença do Estado brasileiro e integrar a Amazônia Ocidental ao restante do país. ( ) Atualmente, a região continua sendo estratégica, enfrentando desafios relacionados ao controle das fronteiras internacionais, à circulação de pessoas e mercadorias, às migrações e à atuação do Estado na garantia da soberania nacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -569,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No final do século XIX e no início do século XX, a economia da borracha na Amazônia esteve estreitamente ligada às disputas territoriais na região do atual Acre e às redefinições do mapa político da América do Sul, intensificadas após a independência de antigas colônias espanholas, como a Bolívia. Nesse contexto, a construção da Estrada de Ferro Madeira- Mamoré esteve inserida em um conjunto de medidas políticas, diplomáticas e econômicas adotadas pelo Estado brasileiro para enfrentar esses impasses. Com base nesse cenário histórico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A construção da Estrada de Ferro Madeira-Mamoré inseriu-se no contexto da chamada Revolução Acreana, desencadeada pela disputa entre o Império do Brasil e a República da Bolívia pela região que corresponde ao atual estado do Acre, então valorizada pela exploração dos seringais.",
@@ -586,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Mapa das linhas telegráficas após os trabalhos da Comissão Rondon. Fonte: Obras Raras Fiocruz A imagem apresentada corresponde a um mapa utilizado nas palestras do Coronel Cândido Mariano da Silva Rondon, no qual estava representado o fechamento do circuito de comunicações telegráficas do Brasil, resultado dos trabalhos da Comissão Rondon, no início do século XX. Considerando esse contexto histórico, o principal objetivo da Comissão Rondon foi",
       "alternatives": {
         "A": "realizar o mapeamento das fronteiras do sertão brasileiro, concebido como referência da autenticidade nacional, com finalidade predominantemente cultural e ideológica.",
@@ -603,7 +603,7 @@
     },
     {
       "question_number": 36,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A figura a seguir mostra a localização dos projetos de assentamento da década de 1970 implantados ao longo da BR- 364, rodovia que percorre todo o estado, ligando Rondônia ao Acre e a Mato Grosso. Fonte: Fearnside, 1989 No contexto do regime militar, o projeto de colonização oficial conduzido pelo INCRA em Rondônia",
       "alternatives": {
         "A": "buscou promover a ocupação agrícola extensiva do território por meio dos Projetos Integrados de Colonização (PICs), que previam a distribuição de pequenos lotes, financiados com recursos públicos e privados.",
@@ -620,7 +620,7 @@
     },
     {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Rondônia integra o bioma Amazônia e apresenta como formação vegetal predominante a floresta ombrófila aberta, que corresponde a cerca de 72% da cobertura florestal natural do estado. Esse tipo de floresta",
       "alternatives": {
         "A": "ocorre principalmente em áreas de transição entre a Floresta Amazônica e as regiões extra-amazônicas, onde há influência de climas relativamente mais secos.",
@@ -637,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em novembro de 2025, o Quilombo Forte Príncipe da Beira, localizado no município de Costa Marques (RO), foi o palco do evento “A Terra é Meu Quilombo”. A iniciativa promoveu uma imersão em arqueologia pública e educação patrimonial, unindo moradores do quilombo e pesquisadores da Universidade Federal de Rondônia (UNIR) em escavações arqueológicas comunitárias, oficinas e rodas de conversa. O principal objetivo do evento foi utilizar a arqueologia como instrumento de fortalecimento identitário: “Não estamos apenas procurando fragmentos do passado. Estamos desenterrando as provas materiais da nossa longa existência aqui, resgatando uma história que foi sistematicamente apagada. Cada fragmento encontrado no nosso quintal é um fio que tece a narrativa da nossa resistência e fortalece o nosso direito a esta terra”, afirma Lulu, presidente da Associação Quilombola do Forte Príncipe da Beira (ASQFORTE). Adaptado de https://www.unir.br/cartao/exibir/313 Com base no relato sobre o evento “A Terra é Meu Quilombo”, realizado no Quilombo Forte Príncipe da Beira (Costa Marques– RO), e considerando a trajetória histórica das comunidades quilombolas em Rondônia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A utilização da arqueologia pública no quilombo visa a uma reconstituição acadêmica do passado, vinculada aos preceitos da objetividade e da isenção científicas.",
@@ -654,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A respeito das mudanças no desenvolvimento viário e na ocupação territorial de Rondônia entre 1974 e 2012, considere os dois mapas e avalie as afirmativas a seguir. I. Em 1974, a rede viária era incipiente e fortemente concentrada na BR-364, eixo estruturante que ligava Porto Velho ao sul do território e ao Centro-Sul do país. A ocupação territorial acompanhava esse traçado linear: os núcleos urbanos e as atividades econômicas estavam majoritariamente alinhados à rodovia, com vastas áreas do interior ainda pouco acessíveis. II. Em 2012, observa-se uma ampliação significativa e a diversificação da malha viária, com a multiplicação de rodovias federais, estaduais e vicinais, tanto asfaltadas quanto não. Esse adensamento da rede indica a interiorização da ocupação, a consolidação de novos municípios e a articulação entre diferentes polos regionais, como Ariquemes, Ji-Paraná e Vilhena. III. A expansão da rede viária atuou como principal vetor da ocupação do território, funcionando simultaneamente como causa e consequência desse processo. Em 1974, a malha rodoviária era limitada basicamente à BR-364 e à BR-425, esta última responsável por substituir a Ferrovia Madeira- Mamoré na ligação entre Porto Velho e Guajará-Mirim. Já em 2012, observa-se a formação de uma rede rodoviária mais ampla e articulada, desenvolvida a partir desse eixo central e responsável por promover a expansão e a interiorização da ocupação territorial. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -671,14 +671,14 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Com a elevação de Rondônia à condição de Estado da Federação, no início da década de 1980, tornou-se necessário organizar suas instituições políticas e administrativas, entre elas o Poder Legislativo estadual. Esse processo envolveu eleições, a atuação de uma Assembleia Constituinte e a definição das bases constitucionais do novo ente federativo. Nesse contexto, assinale a afirmativa que descreve corretamente um aspecto da história do Poder Legislativo do estado de Rondônia.",
       "alternatives": {
         "A": "A primeira eleição no recém-criado estado de Rondônia ocorreu em novembro de 1982, quando a população escolheu o novo governador e os 24 deputados estaduais que teriam a missão de atuar como constituintes.",
         "B": "Durante a Assembleia Constituinte, realizada entre fevereiro e agosto de 1983, o papel legislador era exercido pelo Governador que legislava mediante decretos-leis.",
         "C": "A efetiva implantação do Poder Legislativo aconteceu em agosto de 1983, quando foi reformada a Constituição, a Assembleia Constituinte foi extinta e a Assembleia Legislativa foi instalada.",
         "D": "No texto da primeira Constituição de Rondônia foi inserido um dispositivo que garantia à Câmara e ao Tribunal de Contas autonomia administrativa e financeira, algo então inexistente, e que foi absorvido no texto da Constituição Federal de 1988.",
-        "E": "Atualmente, o Poder Legislativo do estado de Rondônia é exercido por 24 deputados estaduais eleitos a cada quatro anos, cujo número corresponde ao dobro da representação do Estado na Câmara dos Deputados. MÓDULO II Conhecimentos Específicos"
+        "E": "Atualmente, o Poder Legislativo do estado de Rondônia é exercido por 24 deputados estaduais eleitos a cada quatro anos, cujo número corresponde ao dobro da representação do Estado na Câmara dos Deputados."
       },
       "answer": "B",
       "annulled": false,
@@ -688,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma análise de circuitos elétricos, considere as afirmações a seguir sobre a aplicação das Leis de Kirchhoff. I. A lei das correntes deixa de ser válida em qualquer situação em que existam capacitâncias parasitas nos condutores. II. A Lei das correntes é consequência direta da conservação de carga elétrica. III. A Lei das Tensões de Kirchhoff pode falhar em circuitos com campos eletromagnéticos variáveis. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -705,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Considere um circuito composto por uma fonte de tensão contínua de 12 V ligada em série com o resistor da malha 2. • Na malha 1 (esquerda), há um resistor R₁ = 4 . • Na malha 2 (direita), há um resistor R₂ = 6 . • Entre as duas malhas, existe um resistor comum R₃ = 2 , percorrido pelas correntes de malha i₁ (malha esquerda) e i₂ (malha direita). O sentido das correntes de malha é definido no sentido horário para ambas. A corrente que flui pelo resistor R₃ é igual a",
       "alternatives": {
         "A": "11/18 A.",
@@ -722,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma carga monofásica é alimentada por uma fonte senoidal de 220 V. Sabe-se que a corrente que percorre a carga é de 24 A, com atraso de 30 em relação à tensão. A potência reativa solicitada por essa carga é",
       "alternatives": {
         "A": "1.160 VAr.",
@@ -739,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Considere a Ponte de Wheatstone utilizada para a determinação da resistência de um resistor variável. Os Resistores dos ramos superiores são: • 𝑅1 = 20  • 𝑅2 = 30  Os Resistores dos ramos inferiores são: • 𝑅3 = 40  • Resistor variável O resistor variável está conectado ao resistor 𝑅2. O valor da resistência do resistor variável para o qual a corrente medida pelo amperímetro conectado entre os pontos intermediários dos ramos superior e inferior é nula é igual a",
       "alternatives": {
         "A": "20 .",
@@ -756,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em uma residência, deseja-se projetar a instalação elétrica de forma a atender aos requisitos de segurança e funcionalidade previstos na NBR 5410. A potência total prevista para iluminação é de 1200 VA, a instalação possui um chuveiro elétrico e a potência total prevista para tomadas de uso geral é de 1800 VA. Para este caso especificamente, avalie as afirmações a seguir. I. O circuito de tomadas de uso geral pode ser dividido em quantos circuitos forem necessários, desde que cada circuito não ultrapasse 500 VA de carga instalada. II. A NBR 5410 determina que nenhuma fase alimente mais de 500 VA de carga de iluminação. III. Os circuitos da instalação devem, pelo menos, ser divididos em um circuito de iluminação e dois circuitos de tomadas. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -773,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um circuito alimenta uma carga monofásica que solicita uma corrente de projeto de 30",
       "alternatives": {
         "A": "Para as condições reais do projeto, verifica-se que os fatores de temperatura e agrupamento são iguais a 0,7 e 0,6. As capacidades de condução tabeladas para os diversos condutores são: • 4 mm2: 32 A. • 6 mm2: 41 A. • 10 mm2: 57 A. • 16 mm2: 76 A. • 25 mm2: 101 A. A seção mínima do condutor para atender ao critério de capacidade de condução de corrente elétrica é de (A) 4 mm2.",
@@ -790,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um circuito alimenta uma carga monofásica localizada a 50 m do quadro de distribuição. A carga solicita 32 A em 220 V. O limite admissível de queda de tensão é de 4 % da tensão nominal. As quedas de tensão unitárias tabeladas dos condutores (caminho total do circuito) são: • 2,5 mm²: 14,82 V/(A·km) • 4 mm²: 9,22 V/(A·km) • 6 mm²: 6,16 V/(A·km) • 10 mm²: 3,66 V/(A·km) • 16 mm²: 2,30 V/(A·km) A menor seção que atende à queda de tensão limite estipulada é",
       "alternatives": {
         "A": "2,5 mm².",
@@ -807,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um circuito alimenta uma carga monofásica com potência nominal de 3,0 kW em 220 V e com fator de potência unitário. O condutor já selecionado para esse circuito possui capacidade de condução de corrente tabelada igual a 32",
       "alternatives": {
         "A": "Os fatores de correção de temperatura e agrupamento são iguais a 0,8 e 0,7. Das opções a seguir, o disjuntor que deve ser utilizado é o de (A) 15 A.",
@@ -824,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em instalações elétricas de baixa tensão, os esquemas de aterramento definem a forma como o neutro da alimentação e as massas dos equipamentos são conectados à terra. Sobre esse assunto, é correto afirmar que",
       "alternatives": {
         "A": "no esquema TN-C, o condutor neutro e o condutor de proteção são combinados em um único condutor.",
@@ -841,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre os sistemas de proteção contra descargas atmosféricas em edificações, avalie as afirmativas a seguir. I. O método eletrogeométrico é aplicável tanto para a avaliação da zona de proteção do subsistema de captação quanto para a verificação da necessidade de SPDA. II. A equipotencialização das massas metálicas internas da edificação é parte integrante das medidas de proteção contra descargas atmosféricas. III. A continuidade elétrica e a baixa impedância dos condutores de descida são fatores essenciais para minimizar o risco de centelhamento durante uma descarga atmosférica. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -858,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre os principais métodos de partida de motores de indução trifásicos, é correto afirmar que",
       "alternatives": {
         "A": "a partida estrela-triângulo proporciona redução da corrente de partida a 1 √3 ⁄ da corrente nominal do motor.",
@@ -875,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre as principais técnicas de manutenção aplicadas em sistemas industriais, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A manutenção preditiva exige execução em intervalos fixos de tempo.",
@@ -892,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre as aplicações de motores elétricos em ambientes industriais e comerciais, é correto afirmar que",
       "alternatives": {
         "A": "motores de indução trifásicos são amplamente utilizados na indústria.",
@@ -909,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre os principais métodos de diagnóstico aplicados a motores elétricos, avalie as afirmativas a seguir. I. A análise visual é suficiente para identificar falhas de degradação da isolação do verniz. II. A análise de vibração é sinaliza problema de desalinhamento e desbalanceamento. III. O teste de isolamento por megômetro é muito utilizado na fase de comissionamento do motor. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -926,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um motor elétrico gira a 1800 rpm e transmite potência a uma máquina por meio de um sistema de transmissão com correia e polias. A polia do motor possui 100 mm de diâmetro, enquanto a polia acionada possui 200 mm de diâmetro. Admitindo que o escorregamento seja de 3 %, a velocidade de rotação da máquina acionada pelo motor é",
       "alternatives": {
         "A": "27 rpm.",
@@ -943,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre as técnicas de manutenção preditiva para diagnosticar problemas elétricos e mecânicos de um motor elétrico, avalie as afirmativas a seguir. I. A análise de óleo lubrificante é o método mais eficaz para a identificação do desbalanceamento do eixo. II. A termografia infravermelha é utilizada para a detecção do aumento progressivo da resistência de isolamento do motor. III. A análise de vibração é a técnica preditiva primária para diagnosticar desbalanceamento e folga. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -960,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre a medição de potência em sistemas trifásicos de três fios, utiliza-se frequentemente o método dos dois wattímetros, que se baseia no Teorema de Blondel. Em relação ao assunto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A relação 𝑄= √3(𝑊1 −𝑊2) só é válida para sistemas trifásicos desequilibrados",
@@ -977,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Diversos sensores e instrumentos são utilizados para medir grandezas mecânicas em sistemas industriais. Sobre os dispositivos de medição, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O tacômetro é empregado para medir velocidade angular de eixos rotativos.",
@@ -994,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Sobre as características e funções dos componentes e estruturas utilizados a entrega da energia aos consumidores, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os religadores automáticos atuam em casos de sobrecarga prolongada.",
@@ -1011,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma indústria recebe energia elétrica por meio de uma subestação abaixadora que reduz a tensão para alimentar motores trifásicos. A indústria necessita de 600 kW de potência ativa e o transformador disponível tem rendimento de 96 %, e um fator de potência de 0,8. A potência aparente mínima do transformador para atender essa carga é de",
       "alternatives": {
         "A": "600 kVA.",
@@ -1028,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No contexto da qualidade de energia elétrica em sistemas industriais, diversos eventos podem comprometer o desempenho de cargas sensíveis. Sobre esses fenômenos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "As harmônicas de corrente geralmente são causadas por cargas como motores de indução e aquecedores resistivos.",
@@ -1045,7 +1045,7 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um sistema fotovoltaico residencial possui 8 módulos de 500 Wp conectados em série. A irradiância local no momento considerado é de 1000 W/m² e a eficiência global do sistema é de 60%. A potência entregue pelo arranjo fotovoltaico ao inversor nesse instante é de",
       "alternatives": {
         "A": "4.000 Wp.",
@@ -1062,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Em um sistema de distribuição industrial, diversos dispositivos são utilizados para garantir a seletividade e a continuidade da energia fornecida às cargas. A esse respeito, é correto afirmar que",
       "alternatives": {
         "A": "o coordenograma é uma ferramenta utilizada para comparar curvas de tempo–corrente de dispositivos de proteção.",
@@ -1079,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "As fontes alternativas de energia têm recebido crescente atenção devido à necessidade de reduzir impactos ambientais e diversificar a matriz energética. Sobre essas fontes, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A energia das marés depende diretamente das variações astronômicas da Lua e do Sol.",
@@ -1096,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um nobreak senoidal de dupla conversão possui potência 2000 VA e fator de potência 0,8. Ele alimenta simultaneamente os seguintes equipamentos: • Computador: 500 W • Monitor: 800 W • Roteador: 20 W A bateria interna do nobreak é de 12 V. O rendimento total do sistema no modo bateria é de 85 %. Considerando que toda a carga permaneça constante e que a bateria não deve ser descarregada abaixo de 80% de sua capacidade nominal, para que a autonomia desse nobreak seja de 360 minutos o conjunto de baterias deve ter uma capacidade aproximada de",
       "alternatives": {
         "A": "560 Ah.",
@@ -1113,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "O Planejamento e Controle de Manutenção (PCM) é uma função essencial dentro da gestão de ativos industriais. Sobre o papel seu papel, é correto afirmar que o PCM",
       "alternatives": {
         "A": "foca a redução do custo da mão de obra.",
@@ -1130,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Uma indústria planeja uma parada geral de manutenção. Durante a parada, serão executadas as seguintes atividades: I. Inspeção de válvulas: 5 horas de operação. II. Troca de bombas: 20 horas de operação. III. Revisão elétrica: 10 horas de operação. As atividades I e II não podem ocorrer simultaneamente e o total de técnicos disponível para a manutenção é de 2 técnicos para as atividades I e II e 4 técnicos para a atividade III. O tempo total mínimo necessário para concluir todas as atividades é de",
       "alternatives": {
         "A": "10 horas.",
@@ -1147,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "No contexto da gestão de materiais, o controle de estoque é fundamental para garantir disponibilidade, reduzir custos e otimizar o fluxo de operações. Sobre esse assunto, avalie as afirmativas a seguir. I. O controle de estoque contribui para evitar faltas de materiais e interrupções no processo produtivo. II. O controle de estoque tem como objetivo registrar as entradas e saídas de materiais. III. O controle de estoque apoia a tomada de decisões de compras e armazenagem. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1164,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Os diagramas elétricos são representações gráficas utilizadas para documentar, analisar e compreender sistemas elétricos. Sobre esse assunto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O diagrama trifilar é utilizado exclusivamente para representar comandos elétricos.",
@@ -1181,7 +1181,7 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Um paquímetro digital possui resolução de 0,01 mm e está especificado com exatidão de ±0,03 mm. Um operador realiza a medição do diâmetro externo de um eixo e obtém o valor indicado no display como: 36,35 mm. Considerando a exatidão do instrumento, o intervalo possível dentro do qual o valor real do diâmetro pode estar é",
       "alternatives": {
         "A": "36,35 mm ± 0,01 mm.",
@@ -1198,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com a NR-10, avalie se as medidas obrigatórias para a realização de trabalho em instalações elétricas incluem I. Utilizar os Equipamentos de Proteção Individual preferencialmente. II. Proceder obrigatoriamente o seccionamento, o impedimento de reenergização e a verificação da ausência de tensão. III. Acionar o disjuntor geral, para garantir que que o sistema está desenergizado. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1215,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A NR-12 estabelece requisitos mínimos para prevenção de acidentes e doenças do trabalho envolvendo máquinas e equipamentos. De acordo com essa Norma Regulamentadora, avalie as afirmativas a seguir. I. É responsabilidade do empregador a garantia de dispositivos de emergência que neutralizam situações de risco. II. As manutenções preventivas devem ser feitas exclusivamente pelo fabricante original da máquina. III. As proteções fixas são dispensáveis quando a máquina estiver instalada em ambiente de uso restrito. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1232,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com as normas de segurança para trabalhos em instalações elétricas e máquinas, o objetivo principal da etapa de Bloqueio e Etiquetagem (LOTO - Lockout/Tagout) em um procedimento de desenergização é a(o)",
       "alternatives": {
         "A": "utilização de um megômetro para verificar a ausência de tensão no ponto de trabalho.",
@@ -1249,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A Permissão de Entrada e Trabalho (PET) é um documento utilizado para autorizar e controlar atividades. De acordo com as boas práticas e normas regulamentadoras, a PET tem como principal finalidade a(o)",
       "alternatives": {
         "A": "substituição da necessidade de análise preliminar de risco e de medidas de controle.",
@@ -1266,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com as Normas Regulamentadoras brasileiras, especialmente a NR-06 e os princípios gerais de segurança do trabalho, o princípio fundamental que rege a aplicação e a prioridade dos Equipamentos de Proteção Individual (EPI) e Equipamentos de Proteção Coletiva (EPC) é que",
       "alternatives": {
         "A": "o empregador deve escolher entre EPI e EPC baseando-se no custo-benefício da medida.",
@@ -1283,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante um princípio de incêndio, um colaborador nota que as chamas ainda estão localizadas e é possível utilizar um extintor portátil com segurança. De acordo com as boas práticas de prevenção e combate a incêndios, a primeira ação correta a ser adotada é",
       "alternatives": {
         "A": "combater o fogo antes de comunicar qualquer pessoa para evitar pânico.",
@@ -1300,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "Durante um incêndio, uma vítima é retirada do local apresentando queimadura de segundo grau no braço, com bolhas formadas e dor intensa. De acordo com as boas práticas de primeiros socorros, a conduta inicial mais adequada é",
       "alternatives": {
         "A": "aplicar gelo sobre a queimadura para o resfriamento e alívio da dor.",
@@ -1317,7 +1317,7 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "De acordo com a NR-10, as organizações que realizam atividades em instalações elétricas devem manter um conjunto mínimo de documentações atualizadas e disponíveis aos trabalhadores. O documento obrigatório exigido por essa Norma é o",
       "alternatives": {
         "A": "relatório financeiro anual com os gastos em manutenção elétrica.",
@@ -1334,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A utilização do dispositivo supervisor de isolamento em instalações elétricas permite a realização da manutenção",
       "alternatives": {
         "A": "corretiva.",
@@ -1351,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "História e Geografia de Rondônia",
       "statement": "A calibração é um processo fundamental para garantir a confiabilidade das medições em instrumentos utilizados na indústria e em laboratórios. Sobre este assunto, avalie as afirmativas a seguir. I. A calibração consiste na comparação dos valores indicados por um instrumento com os valores de um padrão de referência. II. A calibração permite determinar erros sistemáticos do instrumento. III. A calibração deve ser realizada somente quando o instrumento apresenta defeito. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",

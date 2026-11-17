@@ -4,11 +4,11 @@
   "concurso_title": "Concurso Público para a Prefeitura de Macaé",
   "cargo_title": "Cirurgião - Dentista Odontopediatra",
   "exam_type": "Tipo 1",
-  "total_questions": 55,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "O texto abaixo, retirado do site “Somos Brasileiros”, explora o tema da saúde pública no Brasil. “O Brasil enfrenta vários desafios na área da saúde pública que impactam a qualidade e a acessibilidade dos serviços de saúde: Desigualdade no Acesso aos Serviços de Saúde. Apesar de ser um sistema de saúde universal, a desigualdade no acesso aos serviços de saúde entre regiões urbanas e rurais, bem como entre diferentes classes sociais, continua a ser um problema significativo.” Sobre a estruturação desse texto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O primeiro parágrafo apresenta os problemas que serão desenvolvidos no parágrafo seguinte.",
@@ -25,14 +25,14 @@
     },
     {
       "question_number": 2,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "No mesmo artigo está presente um segundo aspecto de nosso sistema de saúde: “Financiamento e Recursos. A falta de recursos financeiros adequados e a gestão ineficiente dos fundos destinados à saúde são desafios críticos. Isso afeta a capacidade dos hospitais e centros de saúde em oferecer serviços de qualidade.” Sobre a estruturação ou significação desse texto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O pronome demonstrativo “Isso” se refere a algo que é citado na continuidade do texto.",
         "B": "O termo “capacidade dos hospitais” alude à capacidade profissional dos funcionários que lá trabalham.",
         "C": "Os vocábulos – “Financiamento e Recursos” – do início do texto resumem tematicamente o seu conteúdo.",
         "D": "Ao afirmar que os problemas citados são “desafios críticos”, o texto indica que são problemas que nunca serão resolvidos.",
-        "E": "A falta de recursos adequados e a ineficiência da gestão financeira são críticas dirigidas aos funcionários da área da saúde. Leia o trecho a seguir. “O Brasil enfrenta altas taxas de doenças crônicas como diabetes e hipertensão, além de lidar com epidemias recorrentes, como o dengue e a gripe. A gestão dessas condições requer uma abordagem integrada e recursos substanciais.” No trecho, há uma série de expressões e vocábulos que necessitam de perfeita compreensão. Assinale a opção que apresenta um significado adequado para o segmento destacado. (A) “doenças crônicas” são as que se repetem todos os anos. (B) “epidemias recorrentes” são aquelas que estão presentes em todo o país. (C) “o dengue e a gripe” são exemplos de doenças crônicas, citadas anteriormente. (D) As “condições” citadas, referem-se às condições financeiras no atendimento do público. (E) “abordagem integrada” se refere a uma participação coletiva na solução do problema."
+        "E": "A falta de recursos adequados e a ineficiência da gestão financeira são críticas dirigidas aos funcionários da área da saúde."
       },
       "answer": "C",
       "annulled": false,
@@ -41,8 +41,25 @@
       "page_number": 2
     },
     {
+      "question_number": 3,
+      "discipline": "Língua Portuguesa",
+      "statement": "Leia o trecho a seguir. “O Brasil enfrenta altas taxas de doenças crônicas como diabetes e hipertensão, além de lidar com epidemias recorrentes, como o dengue e a gripe. A gestão dessas condições requer uma abordagem integrada e recursos substanciais.” No trecho, há uma série de expressões e vocábulos que necessitam de perfeita compreensão. Assinale a opção que apresenta um significado adequado para o segmento destacado.",
+      "alternatives": {
+        "A": "“doenças crônicas” são as que se repetem todos os anos.",
+        "B": "“epidemias recorrentes” são aquelas que estão presentes em todo o país.",
+        "C": "“o dengue e a gripe” são exemplos de doenças crônicas, citadas anteriormente.",
+        "D": "As “condições” citadas, referem-se às condições financeiras no atendimento do público.",
+        "E": "“abordagem integrada” se refere a uma participação coletiva na solução do problema."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
       "question_number": 4,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Apesar dos desafios, o Brasil tem avançado significativamente em várias áreas da saúde pública: Expansão da Cobertura de Saúde. A expansão da cobertura de saúde, especialmente com a implementação de programas de saúde da família e a ampliação da rede de unidades básicas de saúde, tem melhorado o acesso aos serviços”. Sobre o texto acima, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O substantivo “acesso” poderia ser adequadamente substituído por ascender.",
@@ -59,14 +76,14 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Não há investimento melhor para qualquer comunidade do que pôr leite em bebês. Cidadãos saudáveis são o maior bem que qualquer país pode ter.” Sobre esse pequeno segmento textual, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A expressão “pôr leite em bebês” equivale semanticamente a “adotar bebês”.",
         "B": "O termo “qualquer comunidade” poderia ser, sem alteração semântica, substituída por “uma comunidade qualquer”.",
         "C": "A expressão “Não há investimento melhor” corresponde semanticamente a “Há investimento pior”.",
         "D": "O primeiro período mostra um exemplo de grau comparativo de inferioridade.",
-        "E": "O segundo período do texto funciona como uma conclusão do primeiro. “A saúde é o estado no qual as funções necessárias se cumprem insensivelmente ou com prazer.” O termo “insensivelmente ou com prazer” poderia ser escrito de forma sintaticamente paralela e correta do seguinte modo: (A) sem sensibilidade ou sem prazer. (B) sem sensibilidade ou com prazer. (C) com sensibilidade ou com prazer. (D) insensivelmente ou prazeirosamente. (E) insensivelmente ou prazerentamente."
+        "E": "O segundo período do texto funciona como uma conclusão do primeiro."
       },
       "answer": "C",
       "annulled": false,
@@ -75,8 +92,25 @@
       "page_number": 2
     },
     {
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "“A saúde é o estado no qual as funções necessárias se cumprem insensivelmente ou com prazer.” O termo “insensivelmente ou com prazer” poderia ser escrito de forma sintaticamente paralela e correta do seguinte modo:",
+      "alternatives": {
+        "A": "sem sensibilidade ou sem prazer.",
+        "B": "sem sensibilidade ou com prazer.",
+        "C": "com sensibilidade ou com prazer.",
+        "D": "insensivelmente ou prazeirosamente.",
+        "E": "insensivelmente ou prazerentamente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
       "question_number": 7,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Leia o texto a seguir. “Quando o assunto é a saúde da tireoide, um nutriente se destaca como o mais essencial: o iodo. Ele é a matéria-prima usada pela glândula para produzir hormônios que controlam o metabolismo, a energia e o funcionamento de praticamente todos os órgãos do corpo. Junto com o selênio, forma a base nutricional que permite à tireoide trabalhar bem. Entender o papel desses nutrientes e suas principais fontes ajuda a manter o equilíbrio hormonal em dia.” (Tua Saúde, 15/04/2026) Assinale a opção que indica a finalidade principal desse texto.",
       "alternatives": {
         "A": "Procurar ensinar o leitor sobre o funcionamento de seu corpo.",
@@ -93,14 +127,14 @@
     },
     {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Quando o assunto é a saúde da tireoide, um nutriente se destaca como o mais essencial: o iodo. Ele é a matéria-prima usada pela glândula para produzir hormônios que controlam o metabolismo, a energia e o funcionamento de praticamente todos os órgãos do corpo.” Sobre a estruturação desse segmento, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Após o primeiro período, o texto mostra a conclusão da frase anterior.",
         "B": "O pronome relativo “que” tem por antecedente o substantivo “matéria-prima”.",
         "C": "A primeira frase – Quando o assunto é a saúde da tireoide – delimita o assunto a ser explorado no texto.",
         "D": "Ao dizer que o iodo é o nutriente mais essencial, o texto mostra a falta de importância dos demais nutrientes.",
-        "E": "O termo “glândula” está mal-empregado, por não haver informação anterior sobre qual glândula o texto se refere. “Entender o papel desses nutrientes e suas principais fontes ajuda a manter o equilíbrio hormonal em dia.” Sobre os termos desse fragmento textual, assinale a afirmativa correta. (A) A forma verbal “ajuda” deveria estar no plural, pois o sujeito é plural. (B) A expressão “em dia” pode ser adequadamente substituída por “diariamente”. (C) As duas formas verbais “Entender” e “manter” exemplificam a estrutura de voz passiva. (D) O demonstrativo “desses” e o possessivo “suas” possuem o mesmo antecedente textual. (E) A informação passada ao leitor por esse segmento textual incentiva-o a procurar novas informações sobre o tema."
+        "E": "O termo “glândula” está mal-empregado, por não haver informação anterior sobre qual glândula o texto se refere."
       },
       "answer": "C",
       "annulled": false,
@@ -109,8 +143,25 @@
       "page_number": 3
     },
     {
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "“Entender o papel desses nutrientes e suas principais fontes ajuda a manter o equilíbrio hormonal em dia.” Sobre os termos desse fragmento textual, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A forma verbal “ajuda” deveria estar no plural, pois o sujeito é plural.",
+        "B": "A expressão “em dia” pode ser adequadamente substituída por “diariamente”.",
+        "C": "As duas formas verbais “Entender” e “manter” exemplificam a estrutura de voz passiva.",
+        "D": "O demonstrativo “desses” e o possessivo “suas” possuem o mesmo antecedente textual.",
+        "E": "A informação passada ao leitor por esse segmento textual incentiva-o a procurar novas informações sobre o tema."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“O Ministério da Saúde registra a ocorrência de 400 mil casos de infarto agudo do miocárdio por ano no Brasil. O índice posiciona a condição como uma das principais causas de óbito no país. Apesar da alta incidência, a percepção de bem-estar da população permanece vinculada apenas ao peso corporal total, ignorando os indicadores específicos de distribuição de gordura.” Catraca Livre, 16/04/2026.",
       "alternatives": {
         "A": "O período inicial mostra que o texto foi estruturado a partir da opinião de quem o escreveu.",
@@ -127,14 +178,14 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Entre as raízes mais estudadas pela ciência moderna, a cúrcuma ganha destaque pela sua ação direta sobre o fígado. Também conhecida como açafrão-da-terra, essa especiaria milenar contém a curcumina, composto com potente ação anti-inflamatória e antioxidante capaz de proteger as células hepáticas, reduzir o acúmulo de gordura e ajudar a equilibrar enzimas como ALT e AST, marcadores importantes de saúde do fígado.” Anhanguera Pós-Graduação, 15/4/2026. Sobre a estruturação ou a significação desse pequeno texto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Segundo o texto, “açafrão-da-terra” é o nome mais culto dado à cúrcuma.",
         "B": "“Cúrcuma” e “curcumina” são termos considerados textualmente sinônimos.",
         "C": "Pelos termos empregados, o texto foi redigido para o público leigo no assunto tratado.",
         "D": "Como mostra a grafia de “antioxidante”, o termo “anti- inflamatória” deveria ser grafado sem hífen.",
-        "E": "A redução do acúmulo de gordura e o equilíbrio das enzimas são benefícios para o fígado, trazidos pela cúrcuma. Leia o texto a seguir. “A caminhada regular fortalece o músculo do coração, melhora a circulação do sangue e contribui para a redução da pressão arterial. Com o tempo, o corpo se torna mais eficiente no transporte de oxigênio e nutrientes para os tecidos, o que diminui a sobrecarga sobre todo o sistema cardiovascular. Pessoas que caminham diariamente apresentam menor risco de infarto, derrame e outras complicações relacionadas ao coração. Esse benefício aparece mesmo em caminhadas de intensidade leve a moderada, sem necessidade de correr ou fazer exercícios de alto impacto.” Anhanguera Pós-Graduação, 15/4/2026. A finalidade principal desse pequeno texto é a de (A) prevenir doenças cardíacas. (B) promover a busca pela saúde. (C) divulgar a utilidade das academias. (D) incentivar o leitor a fazer caminhadas. (E) informar sobre métodos terapêuticos."
+        "E": "A redução do acúmulo de gordura e o equilíbrio das enzimas são benefícios para o fígado, trazidos pela cúrcuma."
       },
       "answer": "E",
       "annulled": false,
@@ -143,15 +194,32 @@
       "page_number": 3
     },
     {
+      "question_number": 12,
+      "discipline": "Língua Portuguesa",
+      "statement": "Leia o texto a seguir. “A caminhada regular fortalece o músculo do coração, melhora a circulação do sangue e contribui para a redução da pressão arterial. Com o tempo, o corpo se torna mais eficiente no transporte de oxigênio e nutrientes para os tecidos, o que diminui a sobrecarga sobre todo o sistema cardiovascular. Pessoas que caminham diariamente apresentam menor risco de infarto, derrame e outras complicações relacionadas ao coração. Esse benefício aparece mesmo em caminhadas de intensidade leve a moderada, sem necessidade de correr ou fazer exercícios de alto impacto.” Anhanguera Pós-Graduação, 15/4/2026. A finalidade principal desse pequeno texto é a de",
+      "alternatives": {
+        "A": "prevenir doenças cardíacas.",
+        "B": "promover a busca pela saúde.",
+        "C": "divulgar a utilidade das academias.",
+        "D": "incentivar o leitor a fazer caminhadas.",
+        "E": "informar sobre métodos terapêuticos."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Leia o texto a seguir. “A caminhada regular fortalece o músculo do coração, melhora a circulação do sangue e contribui para a redução da pressão arterial. Com o tempo, o corpo se torna mais eficiente no transporte de oxigênio e nutrientes para os tecidos, o que diminui a sobrecarga sobre todo o sistema cardiovascular. Pessoas que caminham diariamente apresentam menor risco de infarto, derrame e outras complicações relacionadas ao coração. Esse benefício aparece mesmo em caminhadas de intensidade leve a moderada, sem necessidade de correr ou fazer os exercícios de alto impacto.” Anhanguera Pós-Graduação, 15/4/2026. Assinale a opção em que o termo precedido da preposição de mostra função diferente das demais.",
       "alternatives": {
         "A": "o músculo do coração.",
         "B": "a circulação do sangue.",
         "C": "a redução da pressão arterial.",
         "D": "em caminhadas de intensidade leve.",
-        "E": "os exercícios de alto impacto. “A imagem da dor no peito como único sinal de um problema cardíaco está ultrapassada. Muitas doenças do coração evoluem de forma silenciosa, sem causar desconforto intenso no tórax, e começam com manifestações discretas que costumam ser atribuídas ao cansaço do dia a dia. O cansaço ao subir escadas, a falta de ar leve durante atividades simples e o inchaço nos pés estão entre os primeiros alertas e merecem atenção antes que o quadro evolua.” O termo “cardíaco” é um adjetivo culto relacionado a “coração”. Assinale a opção que presenta a frase em que o adjetivo culto está corretamente relacionado a um substantivo anterior. (A) Os meninos traziam marcas na testa; essas marcas cervicais podem ser sinais de maus-tratos. (B) Os cabelos fazem parte de nossa apresentação social; por isso os cuidados capilares nunca são exagerados. (C) Dores nos rins devem ser imediatamente analisadas; os incômodos hepáticos são sinais de moléstias graves. (D) A cera nos ouvidos impede uma perfeita audição; esse cuidado óptico deve fazer parte de nossas preocupações. (E) O cuidado com os dentes deve nos acompanhar todos os dias; a preocupação oftalmológica deve ser ensinada desde a infância."
+        "E": "os exercícios de alto impacto."
       },
       "answer": "C",
       "annulled": false,
@@ -160,8 +228,25 @@
       "page_number": 4
     },
     {
+      "question_number": 14,
+      "discipline": "Língua Portuguesa",
+      "statement": "“A imagem da dor no peito como único sinal de um problema cardíaco está ultrapassada. Muitas doenças do coração evoluem de forma silenciosa, sem causar desconforto intenso no tórax, e começam com manifestações discretas que costumam ser atribuídas ao cansaço do dia a dia. O cansaço ao subir escadas, a falta de ar leve durante atividades simples e o inchaço nos pés estão entre os primeiros alertas e merecem atenção antes que o quadro evolua.” O termo “cardíaco” é um adjetivo culto relacionado a “coração”. Assinale a opção que presenta a frase em que o adjetivo culto está corretamente relacionado a um substantivo anterior.",
+      "alternatives": {
+        "A": "Os meninos traziam marcas na testa; essas marcas cervicais podem ser sinais de maus-tratos.",
+        "B": "Os cabelos fazem parte de nossa apresentação social; por isso os cuidados capilares nunca são exagerados.",
+        "C": "Dores nos rins devem ser imediatamente analisadas; os incômodos hepáticos são sinais de moléstias graves.",
+        "D": "A cera nos ouvidos impede uma perfeita audição; esse cuidado óptico deve fazer parte de nossas preocupações.",
+        "E": "O cuidado com os dentes deve nos acompanhar todos os dias; a preocupação oftalmológica deve ser ensinada desde a infância."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Assinale a opção que apresenta a frase que deve ser incluída entre os textos argumentativos por apresentar a defesa de uma ideia com argumentos.",
       "alternatives": {
         "A": "Beber água é fundamental; beber álcool não é fundamental.",
@@ -178,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O Produto Interno Bruto (PIB) é um indicador utilizado para medir a atividade econômica de um país em determinado período. No seu cálculo, consideram-se apenas os bens e serviços finais produzidos, o que evita a dupla contagem de etapas intermediárias da produção. Além disso, o PIB é um indicador de fluxo, e não de estoque, refletindo apenas a produção realizada em um intervalo de tempo específico. Considerando essa definição, assinale a opção correta.",
       "alternatives": {
         "A": "O PIB representa toda a riqueza acumulada por um país ao longo de sua história, incluindo bens produzidos em anos anteriores e ativos já existentes na economia.",
@@ -195,14 +280,14 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No contexto das mudanças climáticas, o conceito de injustiça climática refere-se à situação em que os impactos ambientais atingem de forma mais intensa as populações socialmente vulneráveis. Assinale a opção que exemplifica corretamente esse conceito.",
       "alternatives": {
         "A": "Uma pesquisa mostra que moradores de diferentes bairros apresentaram os mesmos índices de internação durante uma onda de calor.",
         "B": "Uma pessoa sofreu insolação durante uma onda de calor por não ter se hidratado adequadamente.",
         "C": "Um levantamento mostra que moradores de favelas, devido à pouca arborização e à infraestrutura precária, sofrem mais com ondas de calor e enchentes do que moradores de áreas mais favorecidas.",
         "D": "Uma prefeitura identifica ilhas de calor no centro da cidade e propõe arborização, tratando o fenômeno como problema de desenho urbano e ligado à questão do bem-estar.",
-        "E": "Um estudo associa o calor extremo ao aumento de mortalidade e recomenda a ampliação do atendimento hospitalar como principal resposta. Em maio de 2025, a Organização Mundial da Saúde (OMS) publicou um relatório sobre determinantes sociais da equidade em saúde. Esses determinantes sociais dizem respeito às condições sociais, econômicas e ambientais que influenciam a saúde das populações. Considerando essa relação, assinale a afirmativa correta. (A) A expansão da proteção social tende a ampliar as desigualdades em saúde ao reduzir os incentivos ao trabalho nas populações vulneráveis. (B) As desigualdades em saúde entre países refletem sobretudo diferenças nos sistemas de saúde, sendo superadas à medida que a cobertura é ampliada. (C) O crescimento econômico, ao elevar a renda média dos países, tende a reduzir automaticamente as desigualdades em saúde entre os grupos sociais. (D) As desigualdades em saúde decorrem principalmente de diferenças genéticas entre as populações, sendo os fatores sociais de influência secundária. (E) A desvantagem social está diretamente associada à piora dos indicadores de saúde, padrão observado tanto em países ricos quanto em países pobres."
+        "E": "Um estudo associa o calor extremo ao aumento de mortalidade e recomenda a ampliação do atendimento hospitalar como principal resposta."
       },
       "answer": "C",
       "annulled": false,
@@ -211,8 +296,25 @@
       "page_number": 5
     },
     {
+      "question_number": 18,
+      "discipline": "Atualidades",
+      "statement": "Em maio de 2025, a Organização Mundial da Saúde (OMS) publicou um relatório sobre determinantes sociais da equidade em saúde. Esses determinantes sociais dizem respeito às condições sociais, econômicas e ambientais que influenciam a saúde das populações. Considerando essa relação, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A expansão da proteção social tende a ampliar as desigualdades em saúde ao reduzir os incentivos ao trabalho nas populações vulneráveis.",
+        "B": "As desigualdades em saúde entre países refletem sobretudo diferenças nos sistemas de saúde, sendo superadas à medida que a cobertura é ampliada.",
+        "C": "O crescimento econômico, ao elevar a renda média dos países, tende a reduzir automaticamente as desigualdades em saúde entre os grupos sociais.",
+        "D": "As desigualdades em saúde decorrem principalmente de diferenças genéticas entre as populações, sendo os fatores sociais de influência secundária.",
+        "E": "A desvantagem social está diretamente associada à piora dos indicadores de saúde, padrão observado tanto em países ricos quanto em países pobres."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A economia brasileira ocupa uma posição relevante no cenário mundial devido ao fato de combinar um grande mercado consumidor, a abundância de recursos naturais e uma forte participação no comércio internacional de commodities. Em 2025, o país seguiu como parceiro comercial importante para diferentes regiões do mundo. Com relação ao ano de 2025, assinale a opção correta.",
       "alternatives": {
         "A": "A Argentina se mantém como principal destino das exportações brasileiras, enquanto os automóveis lideram a pauta exportadora nacional.",
@@ -229,14 +331,14 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Um estudo sobre o financiamento do Sistema Único de Saúde (SUS) estimou que os gastos necessários para manter e ampliar os serviços de saúde pública deverão crescer, em média, 3,9% ao ano. No mesmo período, as regras fiscais federais limitam o crescimento das despesas públicas a 2,5% ao ano. Com base nessas informações, é correto afirmar que",
       "alternatives": {
         "A": "as regras fiscais federais permitem crescimento superior ao necessário para financiar o SUS.",
         "B": "as despesas públicas com saúde permanecerão abaixo dos limites fiscais previstos.",
         "C": "os custos necessários para manutenção do SUS tendem a diminuir gradualmente ao longo do tempo.",
         "D": "os gastos estimados para o SUS superam o limite fiscal, indicando pressão estrutural sobre seu financiamento.",
-        "E": "o financiamento da saúde pública deixará de enfrentar restrições orçamentárias. A dengue tem representado um importante desafio para a saúde pública do Estado do Rio de Janeiro, especialmente em períodos de temperaturas elevadas e maior volume de chuvas, condições que favorecem a proliferação do Aedes aegypti. Com relação às medidas a serem adotadas no enfrentamento da dengue, assinale a afirmativa correta. (A) A redução dos casos de dengue ocorre principalmente por isolamento dos pacientes, já que a transmissão se dá pelo contato direto entre pessoas. (B) O enfrentamento da dengue articula ações da Secretaria Estadual com os municípios, incluindo capacitação de agentes e implantação de centros de hidratação. (C) A vacina contra dengue é indicada para toda a população, independentemente da faixa etária, sendo a principal medida preventiva adotada pelo Estado. (D) O enfrentamento da dengue deve priorizar a assistência hospitalar, pois as ações ambientais têm efeito limitado durante períodos de maior transmissão. (E) A eliminação de criadouros nas residências tem impacto limitado, pois a maioria dos focos do Aedes aegypti se encontra em espaços públicos."
+        "E": "o financiamento da saúde pública deixará de enfrentar restrições orçamentárias."
       },
       "answer": "D",
       "annulled": false,
@@ -245,15 +347,15 @@
       "page_number": 5
     },
     {
-      "question_number": 22,
-      "discipline": null,
-      "statement": "Dados recentes do Instituto Brasileiro de Geografia e Estatística (IBGE) mostram que, nos últimos anos, a pobreza recuou expressivamente no Brasil, enquanto a desigualdade de renda permaneceu entre as mais elevadas do mundo. A pobreza diz respeito à insuficiência de renda para suprir necessidades básicas, enquanto a desigualdade se refere à forma como a renda se distribui relativamente entre os diferentes grupos sociais. Considerando a relação entre pobreza e desigualdade, assinale a afirmativa correta.",
+      "question_number": 21,
+      "discipline": "Atualidades",
+      "statement": "A dengue tem representado um importante desafio para a saúde pública do Estado do Rio de Janeiro, especialmente em períodos de temperaturas elevadas e maior volume de chuvas, condições que favorecem a proliferação do Aedes aegypti. Com relação às medidas a serem adotadas no enfrentamento da dengue, assinale a afirmativa correta.",
       "alternatives": {
-        "A": "A redução da pobreza leva à diminuição da desigualdade no médio prazo, pois o crescimento econômico beneficia progressivamente todos os grupos.",
-        "B": "A pobreza e a desigualdade são fenômenos distintos, que podem evoluir em direções diferentes dentro de uma mesma sociedade, como demonstra o caso brasileiro.",
-        "C": "A queda da pobreza indica que os rendimentos estão crescendo de forma mais equitativa entre os diferentes grupos sociais da população.",
-        "D": "A desigualdade de renda é consequência direta da pobreza, de modo que combater uma equivale a combater a outra no contexto brasileiro.",
-        "E": "A redução da pobreza é condição suficiente para a redução da desigualdade, desde que os programas sociais alcancem os mais vulneráveis da população. O município de Macaé é reconhecido como a capital brasileira do petróleo, tendo seu desenvolvimento econômico historicamente vinculado à exploração da Bacia de Campos e aos repasses de royalties. O problema apontado por especialistas é que os royalties dependem da exploração de um recurso natural não renovável e que está sujeito às oscilações do mercado internacional. Com relação a esse tema, assinale a afirmativa correta. (A) A Bacia de Campos assegura décadas de produção petrolífera, tornando a diversificação econômica uma preocupação desnecessária no planejamento municipal. (B) O processamento de gás natural substitui progressivamente o petróleo como base econômica do Município, assegurando receitas equivalentes aos royalties no futuro. (C) A dependência dos royalties expõe o Município a riscos fiscais de longo prazo, justificando investimentos em turismo, agronegócio e atração de novas indústrias. (D) O crescimento da produção do pré-sal tende a ampliar os repasses de royalties a Macaé, reduzindo a necessidade de se investir na diversificação econômica. (E) A diversificação econômica do Município já está consolidada, com pesca, pecuária e comércio compensando eventual redução dos repasses de royalties petrolíferos."
+        "A": "A redução dos casos de dengue ocorre principalmente por isolamento dos pacientes, já que a transmissão se dá pelo contato direto entre pessoas.",
+        "B": "O enfrentamento da dengue articula ações da Secretaria Estadual com os municípios, incluindo capacitação de agentes e implantação de centros de hidratação.",
+        "C": "A vacina contra dengue é indicada para toda a população, independentemente da faixa etária, sendo a principal medida preventiva adotada pelo Estado.",
+        "D": "O enfrentamento da dengue deve priorizar a assistência hospitalar, pois as ações ambientais têm efeito limitado durante períodos de maior transmissão.",
+        "E": "A eliminação de criadouros nas residências tem impacto limitado, pois a maioria dos focos do Aedes aegypti se encontra em espaços públicos."
       },
       "answer": "B",
       "annulled": false,
@@ -262,15 +364,49 @@
       "page_number": 6
     },
     {
+      "question_number": 22,
+      "discipline": "Atualidades",
+      "statement": "Dados recentes do Instituto Brasileiro de Geografia e Estatística (IBGE) mostram que, nos últimos anos, a pobreza recuou expressivamente no Brasil, enquanto a desigualdade de renda permaneceu entre as mais elevadas do mundo. A pobreza diz respeito à insuficiência de renda para suprir necessidades básicas, enquanto a desigualdade se refere à forma como a renda se distribui relativamente entre os diferentes grupos sociais. Considerando a relação entre pobreza e desigualdade, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A redução da pobreza leva à diminuição da desigualdade no médio prazo, pois o crescimento econômico beneficia progressivamente todos os grupos.",
+        "B": "A pobreza e a desigualdade são fenômenos distintos, que podem evoluir em direções diferentes dentro de uma mesma sociedade, como demonstra o caso brasileiro.",
+        "C": "A queda da pobreza indica que os rendimentos estão crescendo de forma mais equitativa entre os diferentes grupos sociais da população.",
+        "D": "A desigualdade de renda é consequência direta da pobreza, de modo que combater uma equivale a combater a outra no contexto brasileiro.",
+        "E": "A redução da pobreza é condição suficiente para a redução da desigualdade, desde que os programas sociais alcancem os mais vulneráveis da população."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 23,
+      "discipline": "Atualidades",
+      "statement": "O município de Macaé é reconhecido como a capital brasileira do petróleo, tendo seu desenvolvimento econômico historicamente vinculado à exploração da Bacia de Campos e aos repasses de royalties. O problema apontado por especialistas é que os royalties dependem da exploração de um recurso natural não renovável e que está sujeito às oscilações do mercado internacional. Com relação a esse tema, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A Bacia de Campos assegura décadas de produção petrolífera, tornando a diversificação econômica uma preocupação desnecessária no planejamento municipal.",
+        "B": "O processamento de gás natural substitui progressivamente o petróleo como base econômica do Município, assegurando receitas equivalentes aos royalties no futuro.",
+        "C": "A dependência dos royalties expõe o Município a riscos fiscais de longo prazo, justificando investimentos em turismo, agronegócio e atração de novas indústrias.",
+        "D": "O crescimento da produção do pré-sal tende a ampliar os repasses de royalties a Macaé, reduzindo a necessidade de se investir na diversificação econômica.",
+        "E": "A diversificação econômica do Município já está consolidada, com pesca, pecuária e comércio compensando eventual redução dos repasses de royalties petrolíferos."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A saúde pública no Estado do Rio de Janeiro enfrenta desafios históricos e estruturais, destacados pela baixa cobertura da Atenção Primária à Saúde (APS), severas desigualdades regionais e sobrecarga na média e alta complexidade, agravadas por limitações no repasse de verbas federais. A respeito dos desafios da saúde pública no Estado do Rio de Janeiro, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A baixa cobertura da APS no Estado do Rio de Janeiro, contribui para a sobrecarga das emergências hospitalares, especialmente em áreas metropolitanas e na Baixada Fluminense. ( ) A concentração de leitos de UTI, especialistas e recursos de saúde na capital faz com que diversos municípios do interior dependam da regulação para acessar procedimentos de maior complexidade. ( ) O sistema estadual de regulação tem reduzido significativamente os tempos de espera para consultas especializadas, exames e cirurgias eletivas, eliminando grande parte das desigualdades de acesso entre as regiões. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
         "B": "V – F – F.",
         "C": "F – V – F.",
         "D": "F – F – V.",
-        "E": "V – F – V. A conquista de uma maior expectativa de vida para a sociedade altera a ocorrência populacional das Doenças Crônicas Não Transmissíveis (DCNTs). Com relação ao tema, analise os itens a seguir. I. O envelhecimento aumenta a ocorrência de DCNTs na população, dado que essas doenças são as principais causas de morte e incapacidade entre os idosos. II. O envelhecimento populacional reduz a prevalência de DCNTs, pois os idosos tendem a adotar hábitos de vida mais saudáveis do que os adultos jovens. III. O envelhecimento populacional, ao lado do sedentarismo e da obesidade, constitui um dos principais fatores para o aumento da ocorrência das DCNTs no Brasil. Está correto o que se afirma em (A) III, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. Políticas de Saúde"
+        "E": "V – F – V."
       },
       "answer": "A",
       "annulled": false,
@@ -279,8 +415,25 @@
       "page_number": 6
     },
     {
+      "question_number": 25,
+      "discipline": "Atualidades",
+      "statement": "A conquista de uma maior expectativa de vida para a sociedade altera a ocorrência populacional das Doenças Crônicas Não Transmissíveis (DCNTs). Com relação ao tema, analise os itens a seguir. I. O envelhecimento aumenta a ocorrência de DCNTs na população, dado que essas doenças são as principais causas de morte e incapacidade entre os idosos. II. O envelhecimento populacional reduz a prevalência de DCNTs, pois os idosos tendem a adotar hábitos de vida mais saudáveis do que os adultos jovens. III. O envelhecimento populacional, ao lado do sedentarismo e da obesidade, constitui um dos principais fatores para o aumento da ocorrência das DCNTs no Brasil. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III. Políticas de Saúde"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No contexto da organização do Sistema Único de Saúde (SUS), o Ministério da Saúde promoveu a transferência da gestão de dois hospitais federais para a administração de um Município. Assinale a opção que indica o princípio a que essa medida está diretamente relacionada.",
       "alternatives": {
         "A": "Equidade.",
@@ -297,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No Sistema Único de Saúde (SUS), a Atenção Secundária corresponde ao nível intermediário de cuidado, destinado a usuários que necessitam de intervenções clínicas mais específicas e direcionadas. Nesse sentido, assinale a opção que indica um serviço compatível com esse nível de atenção.",
       "alternatives": {
         "A": "Transplante.",
@@ -314,14 +467,31 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Um determinado Município elaborou um documento, com vigência de quatro anos, para a organização das ações e dos serviços de saúde. Ele definiu as diretrizes, os objetivos e as metas a serem atingidas e as articulações com o Plano Plurianual (PPA). O documento descrito corresponde",
       "alternatives": {
         "A": "ao Plano de Saúde.",
         "B": "ao Relatório Anual de Gestão.",
         "C": "à Programação Anual de Saúde.",
         "D": "à Pactuação Integrada de Saúde.",
-        "E": "ao Plano Diretor de Regionalização. Com base nas disposições sobre o acompanhamento à mulher nos serviços de saúde, previstas na Lei nº 8.080/1990, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Toda mulher tem o direito de ser acompanhada por pessoa maior de idade durante a realização de consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deve ser feita por escrito, após o esclarecimento dos seus direitos, com, no mínimo, 24 horas de antecedência. ( ) No caso de atendimento realizado em centro cirúrgico ou unidade de terapia intensiva, somente será admitido acompanhante que seja profissional de saúde. As afirmativas são, respectivamente, (A) V – V – F. (B) F – F – F. (C) V – F – V. (D) F – V – F. (E) V – V – V."
+        "E": "ao Plano Diretor de Regionalização."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 29,
+      "discipline": "Atualidades",
+      "statement": "Com base nas disposições sobre o acompanhamento à mulher nos serviços de saúde, previstas na Lei nº 8.080/1990, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Toda mulher tem o direito de ser acompanhada por pessoa maior de idade durante a realização de consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deve ser feita por escrito, após o esclarecimento dos seus direitos, com, no mínimo, 24 horas de antecedência. ( ) No caso de atendimento realizado em centro cirúrgico ou unidade de terapia intensiva, somente será admitido acompanhante que seja profissional de saúde. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "F – F – F.",
+        "C": "V – F – V.",
+        "D": "F – V – F.",
+        "E": "V – V – V."
       },
       "answer": "A",
       "annulled": false,
@@ -331,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Acerca dos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Em situações de transferências ou remoção para realização de exames externos, deve haver pactuação formal prévia entre os estabelecimentos envolvidos.",
@@ -348,14 +518,14 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Durante a assistência a um paciente adulto, internado na clínica médica de um hospital, o profissional de saúde cometeu um erro que ocasionou a incapacidade motora do paciente. De acordo com as disposições do Ministério da Saúde, essa situação caracteriza a ocorrência de",
       "alternatives": {
         "A": "Near miss.",
         "B": "Evento adverso.",
         "C": "Evento sentinela.",
         "D": "Quase incidente.",
-        "E": "Incidente controlado. Uma equipe de gestores de uma empresa pública de saúde criou um grupo de trabalho para discutir a implementação efetiva dos princípios e diretrizes da Política Nacional de Humanização (PNH). Um dos pontos discutidos foi a necessidade de integração entre gestores, trabalhadores e usuários para a tomada de decisão. Assinale a opção que indica o pilar da PNH relacionado a esse ponto. (A) Ambiência. (B) Transversalidade. (C) Clínica ampliada. (D) Gestão compartilhada. (E) Valorização do trabalhador."
+        "E": "Incidente controlado."
       },
       "answer": "B",
       "annulled": false,
@@ -364,8 +534,25 @@
       "page_number": 7
     },
     {
+      "question_number": 32,
+      "discipline": "Atualidades",
+      "statement": "Uma equipe de gestores de uma empresa pública de saúde criou um grupo de trabalho para discutir a implementação efetiva dos princípios e diretrizes da Política Nacional de Humanização (PNH). Um dos pontos discutidos foi a necessidade de integração entre gestores, trabalhadores e usuários para a tomada de decisão. Assinale a opção que indica o pilar da PNH relacionado a esse ponto.",
+      "alternatives": {
+        "A": "Ambiência.",
+        "B": "Transversalidade.",
+        "C": "Clínica ampliada.",
+        "D": "Gestão compartilhada.",
+        "E": "Valorização do trabalhador."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Com base na Lei Orgânica da Saúde, assinale a opção que corresponde a uma competência da direção municipal do Sistema Único de Saúde.",
       "alternatives": {
         "A": "Coordenar os serviços de vigilância epidemiológica.",
@@ -382,14 +569,14 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Com base nas disposições legais acerca dos direitos e deveres dos usuários do Sistema Único de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O usuário tem direito a receber informações claras, completas e compreensíveis sobre seu estado de saúde, incluindo diagnóstico, prognóstico e alternativas de tratamento disponíveis. ( ) É dever do usuário colaborar com as equipes de saúde, fornecendo informações verdadeiras sobre seu estado de saúde e histórico, contribuindo para a qualidade do cuidado prestado. ( ) Deve ser garantido ao usuário o sigilo de suas informações de saúde, podendo o serviço compartilhá-las com familiares ou terceiros somente em caso de vínculo afetivo ou interesse no cuidado. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – V.",
         "B": "V – F – V.",
         "C": "F – F – V.",
         "D": "V – V – F.",
-        "E": "F – V – F. Com base nas diretrizes para instituição, reformulação, reestruturação e funcionamento dos Conselhos de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em cada esfera de Governo. ( ) A representação dos usuários nos Conselhos de Saúde deve ser paritária em relação ao conjunto dos demais segmentos representados. ( ) Os Conselhos de Saúde devem ser compostos por 50% de entidades e movimentos representativos de usuários e 50% de entidades representativas dos trabalhadores da área de saúde. As afirmativas são, respectivamente, (A) V – F – V. (B) F – F – F. (C) V – V – F. (D) F – V – F. (E) V – V – V. Normas Municipais"
+        "E": "F – V – F."
       },
       "answer": "D",
       "annulled": false,
@@ -398,15 +585,15 @@
       "page_number": 8
     },
     {
-      "question_number": 36,
-      "discipline": null,
-      "statement": "Dionísio, profissional da área de saúde, deseja atuar como membro do Conselho de Saúde do Município de Macaé, razão pela qual passou a analisar as normas constantes da Lei nº 3.233/2009 acerca da composição do mencionado Conselho. Com base na referida Lei, assinale a opção que indica a correta conclusão a que Dionísio chegou.",
+      "question_number": 35,
+      "discipline": "Atualidades",
+      "statement": "Com base nas diretrizes para instituição, reformulação, reestruturação e funcionamento dos Conselhos de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em cada esfera de Governo. ( ) A representação dos usuários nos Conselhos de Saúde deve ser paritária em relação ao conjunto dos demais segmentos representados. ( ) Os Conselhos de Saúde devem ser compostos por 50% de entidades e movimentos representativos de usuários e 50% de entidades representativas dos trabalhadores da área de saúde. As afirmativas são, respectivamente,",
       "alternatives": {
-        "A": "O Secretário de Saúde é membro nato do Conselho de Saúde do Município de Macaé, de modo que, necessariamente, participa da eleição da Mesa Diretora.",
-        "B": "O mandato inicial dos membros do Conselho de Saúde do Município de Macaé é de 4 (quatro) anos, coincidente com o de Prefeito, admitindo-se a recondução por igual período.",
-        "C": "Os membros do Conselho de Saúde do Município de Macaé terão o seu mandato extinto, caso faltem, sem prévia justificação, a três reuniões consecutivas ou cinco intercaladas em um período de 12 (doze) meses.",
-        "D": "O exercício do mandato de membro do Conselho Municipal de Saúde do Município de Macaé será remunerado, de modo que há necessidade de compatibilidade de horário com o exercício da atividade de profissional da área de saúde.",
-        "E": "Os membros do Conselho de Saúde do Município de Macaé serão indicados por seus respectivos segmentos, mas serão substituídos por outro segmento, na medida em que não há previsão de suplente para cada entidade participante. Acerca da participação de instituições privadas nas ações de saúde desenvolvidas pelo Município de Macaé, à luz dos dispositivos da respectiva Lei Orgânica relativos à saúde, assinale a afirmativa correta. (A) A participação de instituições privadas, tenham ou não fins lucrativos, nas ações de saúde desenvolvidas pelo Município de Macaé, é absolutamente vedada, seja de forma primária ou de forma suplementar. (B) As instituições privadas, preferencialmente as entidades filantrópicas e as sem fins lucrativos, poderão participar de forma suplementar das ações de saúde desenvolvidas pelo Município de Macaé, mediante convênio ou contrato. (C) Apenas instituições privadas filantrópicas e sem fins lucrativos poderão participar das ações de saúde desenvolvidas pelo Município de Macaé, as quais devem ser realizadas de forma complementar, por meio de contrato administrativo, sempre por meio de licitação. (D) As instituições privadas, independentemente de serem filantrópicas e sem fins lucrativos, poderão participar primariamente das ações de saúde do Município de Macaé, desde que formalizado o devido contrato administrativo, que não precisa ser precedido de licitação. (E) A participação de instituições privadas que tenham fins lucrativos nas ações de saúde desenvolvidas pelo Município de Macaé não é admitida, de modo que está proibida a formalização de convênios ou contratos com tais instituições em qualquer hipótese, incluindo situações de caso fortuito."
+        "A": "V – F – V.",
+        "B": "F – F – F.",
+        "C": "V – V – F.",
+        "D": "F – V – F.",
+        "E": "V – V – V. Normas Municipais"
       },
       "answer": "C",
       "annulled": false,
@@ -415,8 +602,42 @@
       "page_number": 8
     },
     {
+      "question_number": 36,
+      "discipline": "Atualidades",
+      "statement": "Dionísio, profissional da área de saúde, deseja atuar como membro do Conselho de Saúde do Município de Macaé, razão pela qual passou a analisar as normas constantes da Lei nº 3.233/2009 acerca da composição do mencionado Conselho. Com base na referida Lei, assinale a opção que indica a correta conclusão a que Dionísio chegou.",
+      "alternatives": {
+        "A": "O Secretário de Saúde é membro nato do Conselho de Saúde do Município de Macaé, de modo que, necessariamente, participa da eleição da Mesa Diretora.",
+        "B": "O mandato inicial dos membros do Conselho de Saúde do Município de Macaé é de 4 (quatro) anos, coincidente com o de Prefeito, admitindo-se a recondução por igual período.",
+        "C": "Os membros do Conselho de Saúde do Município de Macaé terão o seu mandato extinto, caso faltem, sem prévia justificação, a três reuniões consecutivas ou cinco intercaladas em um período de 12 (doze) meses.",
+        "D": "O exercício do mandato de membro do Conselho Municipal de Saúde do Município de Macaé será remunerado, de modo que há necessidade de compatibilidade de horário com o exercício da atividade de profissional da área de saúde.",
+        "E": "Os membros do Conselho de Saúde do Município de Macaé serão indicados por seus respectivos segmentos, mas serão substituídos por outro segmento, na medida em que não há previsão de suplente para cada entidade participante."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 37,
+      "discipline": "Atualidades",
+      "statement": "Acerca da participação de instituições privadas nas ações de saúde desenvolvidas pelo Município de Macaé, à luz dos dispositivos da respectiva Lei Orgânica relativos à saúde, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A participação de instituições privadas, tenham ou não fins lucrativos, nas ações de saúde desenvolvidas pelo Município de Macaé, é absolutamente vedada, seja de forma primária ou de forma suplementar.",
+        "B": "As instituições privadas, preferencialmente as entidades filantrópicas e as sem fins lucrativos, poderão participar de forma suplementar das ações de saúde desenvolvidas pelo Município de Macaé, mediante convênio ou contrato.",
+        "C": "Apenas instituições privadas filantrópicas e sem fins lucrativos poderão participar das ações de saúde desenvolvidas pelo Município de Macaé, as quais devem ser realizadas de forma complementar, por meio de contrato administrativo, sempre por meio de licitação.",
+        "D": "As instituições privadas, independentemente de serem filantrópicas e sem fins lucrativos, poderão participar primariamente das ações de saúde do Município de Macaé, desde que formalizado o devido contrato administrativo, que não precisa ser precedido de licitação.",
+        "E": "A participação de instituições privadas que tenham fins lucrativos nas ações de saúde desenvolvidas pelo Município de Macaé não é admitida, de modo que está proibida a formalização de convênios ou contratos com tais instituições em qualquer hipótese, incluindo situações de caso fortuito."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Patrícia, servidora estável do Município de Macaé, após anos de exercício regular, pela primeira vez, cometeu uma falta funcional, de modo que está preocupada com a aplicação da penalidade de demissão, após o devido processo administrativo disciplinar, razão pela qual passou a analisar quais condutas poderiam ensejar a referida penalidade, nos termos do Regime Jurídico dos Servidores Municipais (Lei Complementar nº 011/1998 e suas alterações). Assinale a opção que indica a conduta que, sem reincidência, poderia ensejar a penalidade de demissão.",
       "alternatives": {
         "A": "Proceder de forma escandalosa na repartição e manter uma conduta de incontinência pública.",
@@ -433,14 +654,14 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A Lei Complementar nº 346/2025 dispõe sobre a reestruturação na Administração Pública do Município de Macaé. As normas constantes da Seção XIII delineiam os aspectos atinentes à Secretaria Municipal de Saúde. À luz da mencionada disposição legal, é correto afirmar que o Serviço Municipal de Hemoterapia está vinculado à",
       "alternatives": {
         "A": "Coordenadoria Especial de Odontologia.",
         "B": "Secretaria Executiva de Atenção Básica.",
         "C": "Coordenadoria Especial de Vigilância Sanitária.",
         "D": "Secretaria Executiva de Alta e Média Complexidade.",
-        "E": "Coordenadoria Especial de Vigilância Ambiental em Saúde. Marcela, servidora estável, ocupante do cargo de médica do Município de Macaé, exerce atribuições perante a Junta Médica do Município. No exercício de sua atividade profissional foi questionada sobre as peculiaridades da licença para tratamento de saúde, na forma do Regime Jurídico dos Servidores Municipais (Lei Complementar nº 11/98 e suas alterações). Conforme o mencionado Diploma Legal, assinale a opção que indica, corretamente, a resposta dada por Marcela. (A) A remuneração dos servidores municipais estáveis em licença para tratamento de saúde será integralmente suportada pela Prefeitura do Município de Macaé, sem que haja necessidade de levar em conta o prazo deferido para tal finalidade. (B) O servidor não poderá permanecer em licença para tratamento de saúde por prazo superior a 12 (doze) meses, salvo em casos considerados recuperáveis, nos quais, a critério da Junta Médica, tal benefício poderá ser excepcionalmente prorrogado pelo prazo de até 6 (seis) meses. (C) A licença para tratamento de saúde poderá cessar antes do final do prazo conferido, a requerimento do servidor que, julgando-se apto para o exercício das atividades, reassumirá o cargo imediatamente, independentemente da realização de inspeção médica, que não é exigida para tal fim. (D) O servidor licenciado para tratamento de saúde, se exercer, durante o período de licença, quaisquer atividades profissionais remuneradas, terá como interrompida a licença, com perda total da remuneração, a partir da data em que for verificada essa prática, até que reassuma o exercício do cargo. (E) O servidor que se encontrar em outro Município ou Estado da Federação não poderá realizar a inspeção médica para fins de licença para tratamento de saúde pelo respectivo médico oficial, devendo se locomover até a Junta Médica do Município de Macaé para tanto ou solicitar a efetivação à distância."
+        "E": "Coordenadoria Especial de Vigilância Ambiental em Saúde."
       },
       "answer": "B",
       "annulled": false,
@@ -449,8 +670,25 @@
       "page_number": 9
     },
     {
+      "question_number": 40,
+      "discipline": "Atualidades",
+      "statement": "Marcela, servidora estável, ocupante do cargo de médica do Município de Macaé, exerce atribuições perante a Junta Médica do Município. No exercício de sua atividade profissional foi questionada sobre as peculiaridades da licença para tratamento de saúde, na forma do Regime Jurídico dos Servidores Municipais (Lei Complementar nº 11/98 e suas alterações). Conforme o mencionado Diploma Legal, assinale a opção que indica, corretamente, a resposta dada por Marcela.",
+      "alternatives": {
+        "A": "A remuneração dos servidores municipais estáveis em licença para tratamento de saúde será integralmente suportada pela Prefeitura do Município de Macaé, sem que haja necessidade de levar em conta o prazo deferido para tal finalidade.",
+        "B": "O servidor não poderá permanecer em licença para tratamento de saúde por prazo superior a 12 (doze) meses, salvo em casos considerados recuperáveis, nos quais, a critério da Junta Médica, tal benefício poderá ser excepcionalmente prorrogado pelo prazo de até 6 (seis) meses.",
+        "C": "A licença para tratamento de saúde poderá cessar antes do final do prazo conferido, a requerimento do servidor que, julgando-se apto para o exercício das atividades, reassumirá o cargo imediatamente, independentemente da realização de inspeção médica, que não é exigida para tal fim.",
+        "D": "O servidor licenciado para tratamento de saúde, se exercer, durante o período de licença, quaisquer atividades profissionais remuneradas, terá como interrompida a licença, com perda total da remuneração, a partir da data em que for verificada essa prática, até que reassuma o exercício do cargo.",
+        "E": "O servidor que se encontrar em outro Município ou Estado da Federação não poderá realizar a inspeção médica para fins de licença para tratamento de saúde pelo respectivo médico oficial, devendo se locomover até a Junta Médica do Município de Macaé para tanto ou solicitar a efetivação à distância."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "De acordo com a atual classificação das doenças periodontais da Federação Europeia de Periodontia (EFP) e da Academia Americana de Periodontia (AAP), um paciente de 50 anos de idade, tabagista (20 cigarros/dia), sem doenças sistêmicas, que apresenta todos os elementos dentários, com profundidades de sondagem e níveis de inserção clínica medindo entre 1 a 2mm em todos os elementos dentários, tem como diagnóstico periodontal",
       "alternatives": {
         "A": "Gengivite induzida pelo biofilme.",
@@ -467,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O biofilme disbiótico é composto por uma grande diversidade microbiana. Com relação ao tema, assinale a opção que indica o microrganismo considerado um Keystone pathogen para o desenvolvimento da periodontite.",
       "alternatives": {
         "A": "Enterococcus faecalis.",
@@ -484,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Com relação ao Código de Ética Odontológica, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Constitui infração ética usar formulários de instituições públicas para prescrever, encaminhar ou atestar fatos verificados na clínica privada. ( ) Compreende-se a notificação compulsória de doença como justa causa para revelar fato sigiloso de que se tenha conhecimento em razão do exercício da profissão. ( ) Constitui quebra do sigilo profissional a comunicação ao Conselho Regional e às autoridades sanitárias de condições de trabalho indignas, inseguras e insalubres. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -501,14 +739,14 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
-      "statement": "Com relação ao cimento de ionômero de vidro modificado por resina, analise as afirmativas a seguir. I. Permite melhor controle do tempo de trabalho do que o ionômero convencional. II. Apresenta menores solubilidade e resistência mecânica do que Assinale a opção que indica o anti-inflamatório não esteroide e não opioide indicado para o controle de curto prazo da dor aguda, como a apresentada no pós-operatório de cirurgias orais.",
+      "discipline": "Atualidades",
+      "statement": "Com relação ao cimento de ionômero de vidro modificado por resina, analise as afirmativas a seguir. I. Permite melhor controle do tempo de trabalho do que o ionômero convencional. II. Apresenta menores solubilidade e resistência mecânica do que o ionômero convencional. III. Não é capaz de liberar flúor. Está correto o que se afirma em,",
       "alternatives": {
-        "A": "Oxicodona.",
-        "B": "Paracetamol.",
-        "C": "Betametasona.",
-        "D": "Dexametasona.",
-        "E": "Cetorolaco trometamol."
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
       },
       "answer": "A",
       "annulled": false,
@@ -517,8 +755,25 @@
       "page_number": 10
     },
     {
+      "question_number": 45,
+      "discipline": "Atualidades",
+      "statement": "Assinale a opção que indica o anti-inflamatório não esteroide e não opioide indicado para o controle de curto prazo da dor aguda, como a apresentada no pós-operatório de cirurgias orais.",
+      "alternatives": {
+        "A": "Oxicodona.",
+        "B": "Paracetamol.",
+        "C": "Betametasona.",
+        "D": "Dexametasona.",
+        "E": "Cetorolaco trometamol."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O paciente perdeu a consciência no consultório odontológico durante um atendimento. Assinale a opção que indica os três principais parâmetros que devem ser imediatamente avaliados.",
       "alternatives": {
         "A": "Vias aéreas, respiração e circulação.",
@@ -535,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A respiração excessivamente rápida e/ou profunda, que pode levar a sintomas como tontura, falta de ar e formigamento nas extremidades, é chamada de",
       "alternatives": {
         "A": "dispneia.",
@@ -552,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que indica a possível complicação que está associada a repetidas injeções da solução anestésica local em uma mesma consulta, levando uma diminuição do efeito do medicamento e controle inadequado da dor.",
       "alternatives": {
         "A": "Taquifilaxia.",
@@ -569,14 +824,14 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
-      "statement": "O atendimento ao paciente idoso demanda cuidados redobrados por conta de possíveis condições sistêmicas crônicas e as interações adversas com os medicamentos utilizados. Com relação ao tema, analise as afirmativas a seguir. I. Denosumabe, Metotrexato e Risedronato são exemplos de medicamentos potencialmente associados com a osteonecrose dos maxilares. II. Em pacientes com problemas hepáticos, os anestésicos locais do tipo amida terão uma taxa de biotransformação menor do que a normal, elevando o risco de toxicidade. III. Níveis de HbA1c acima de 7,5% não impactam no diagnóstico Com relação ao processamento e à esterilização dos artigos utilizados no atendimento odontológico, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Os artigos críticos devem, obrigatoriamente, ser esterilizados. ( ) Artigos não críticos podem ser esterilizados ou submetidos à desinfecção de alto nível, sendo preferível a esterilização , sempre que possível. ( ) Os artigos não críticos devem ser sempre descartados após o uso, tendo em vista que não podem ser esterilizados. As afirmativas são, respectivamente,",
+      "discipline": "Atualidades",
+      "statement": "O atendimento ao paciente idoso demanda cuidados redobrados por conta de possíveis condições sistêmicas crônicas e as interações adversas com os medicamentos utilizados. Com relação ao tema, analise as afirmativas a seguir. I. Denosumabe, Metotrexato e Risedronato são exemplos de medicamentos potencialmente associados com a osteonecrose dos maxilares. II. Em pacientes com problemas hepáticos, os anestésicos locais do tipo amida terão uma taxa de biotransformação menor do que a normal, elevando o risco de toxicidade. III. Níveis de HbA1c acima de 7,5% não impactam no diagnóstico periodontal nem nas altas taxas de sucesso das cirurgias periodontais e dos implantes dentários. Está correto o que se afirma em",
       "alternatives": {
-        "A": "V – V – F.",
-        "B": "V – V – V.",
-        "C": "V – F – V.",
-        "D": "F – F – F.",
-        "E": "F – V – F. Cirurgião-Dentista Odontopediatra"
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
       },
       "answer": "B",
       "annulled": false,
@@ -585,8 +840,25 @@
       "page_number": 10
     },
     {
+      "question_number": 50,
+      "discipline": "Atualidades",
+      "statement": "Com relação ao processamento e à esterilização dos artigos utilizados no atendimento odontológico, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Os artigos críticos devem, obrigatoriamente, ser esterilizados. ( ) Artigos não críticos podem ser esterilizados ou submetidos à desinfecção de alto nível, sendo preferível a esterilização , sempre que possível. ( ) Os artigos não críticos devem ser sempre descartados após o uso, tendo em vista que não podem ser esterilizados. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "V – V – V.",
+        "C": "V – F – V.",
+        "D": "F – F – F.",
+        "E": "F – V – F. Cirurgião-Dentista Odontopediatra"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Após a anamnese de uma criança de 6 anos de idade, que apresenta múltiplas lesões cariosas, o Dentista solicitou radiografias dentárias. Assinale a opção que indica o exame radiográfico solicitado.",
       "alternatives": {
         "A": "Panorâmica.",
@@ -603,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Em um bebê de 6 meses, que já apresentava a presença dos incisivos centrais inferiores, foi encontrada uma ulceração necrótica de bordas elevadas, endurecidas e rodeadas por halo eritematoso, localizada no ventre da língua. Essa alteração patológica é denominada",
       "alternatives": {
         "A": "Úlcera Aftosa.",
@@ -620,14 +892,14 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que indica a fase de desenvolvimento dentário que está correlacionada à presença da anomalia dental.",
       "alternatives": {
         "A": "Fase de Botão.",
         "B": "Fase de Aposição.",
         "C": "Fase de Calcificação.",
         "D": "Fase de Histodiferenciação.",
-        "E": "Fase de Morfodiferenciação. Uma criança de 4 anos de idade, durante a primeira consulta odontológica, apresentou choro constante, recusou-se a colaborar e manteve uma presença de negativismo extremo. Assinale a opção que indica, segundo a escala de Frankl, como o comportamento apresentado é classificado. (A) Negativo. (B) Definitivamente Positivo. (C) Definitivamente Negativo. (D) Potencialmente Colaborador. (E) Ausência de capacidade para colaborar."
+        "E": "Fase de Morfodiferenciação."
       },
       "answer": "ANULADA",
       "annulled": true,
@@ -636,8 +908,25 @@
       "page_number": 11
     },
     {
+      "question_number": 54,
+      "discipline": "Atualidades",
+      "statement": "Uma criança de 4 anos de idade, durante a primeira consulta odontológica, apresentou choro constante, recusou-se a colaborar e manteve uma presença de negativismo extremo. Assinale a opção que indica, segundo a escala de Frankl, como o comportamento apresentado é classificado.",
+      "alternatives": {
+        "A": "Negativo.",
+        "B": "Definitivamente Positivo.",
+        "C": "Definitivamente Negativo.",
+        "D": "Potencialmente Colaborador.",
+        "E": "Ausência de capacidade para colaborar."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O Tratamento Restaurador Atraumático (TRA) é considerado um tratamento minimamente invasivo, definitivo, que apresenta baixo custo, facilidade na realização, e necessita apenas de instrumentais manuais para a sua execução. Assinale a opção que apresenta o material restaurador de eleição para essa técnica.",
       "alternatives": {
         "A": "Cimento de ionômero de vidro de alta viscosidade.",
@@ -654,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Uma criança de quatro anos de idade apresentou avulsão do elemento 61 após sofrer uma queda da própria altura. Para o caso acima, assinale a opção que indica o tratamento imediato indicado.",
       "alternatives": {
         "A": "Tratar o canal e reimplantar.",
@@ -671,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que está correlacionada à manifestação viral ocasionada pelo vírus Coxsackie.",
       "alternatives": {
         "A": "Covid 19.",
@@ -688,14 +977,14 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Uma criança de 3 anos de idade, com histórico de traumatismo dental há um ano, ao exame clínico, apresentou fístula no elemento 61. Radiograficamente, foram verificadas reabsorção interna e a presença de mais de 2/3 de raiz. Sobre o caso, assinale a opção que indica, corretamente, o tratamento a ser seguido.",
       "alternatives": {
         "A": "Pulpotomia.",
         "B": "Pulpectomia.",
         "C": "Extração dentária.",
         "D": "Acompanhamento.",
-        "E": "Capeamento pulpar direto. Uma criança de 5 anos apresenta múltiplas manchas brancas opacas em cervicais de incisivos decíduos e áreas cavitadas ativas em nível de dentina em molares. Durante a anamnese, o responsável relatou que a criança consome alimentos com sacarose e tem dificuldade na execução da higiene bucal. Considerando os conceitos atuais de manejo da cárie dentária e as recomendações para a conduta de tratamento adequada, analise as afirmativas a seguir. I. O profissional deverá realizar restaurações imediatas em todas as lesões cavitadas, sem necessidade de outro tipo de intervenção, uma vez que a remoção do tecido cariado elimina a doença. II. O profissional deverá adotar conduta expectante, e esperar o amadurecimento da criança, com reavaliação após 12 meses, pois intervenções precoces podem interferir no desenvolvimento da microbiota oral. III. O profissional deverá implementar abordagem que inclua controle do biofilme, orientação dietética, uso de fluoretos e intervenções minimamente invasivas, como selantes e/ou técnicas de remoção seletiva de cárie. Está correto o que se afirma em (A) I, apenas. (B) II, apenas. (C) III, apenas. (D) I e II, apenas. (E) II e III, apenas."
+        "E": "Capeamento pulpar direto."
       },
       "answer": "B",
       "annulled": false,
@@ -704,15 +993,15 @@
       "page_number": 11
     },
     {
-      "question_number": 60,
-      "discipline": null,
-      "statement": "Considerando os fundamentos bioquímicos e clínicos da ação dos fluoretos no controle da cárie dentária, assinale a afirmativa correta.",
+      "question_number": 59,
+      "discipline": "Atualidades",
+      "statement": "Uma criança de 5 anos apresenta múltiplas manchas brancas opacas em cervicais de incisivos decíduos e áreas cavitadas ativas em nível de dentina em molares. Durante a anamnese, o responsável relatou que a criança consome alimentos com sacarose e tem dificuldade na execução da higiene bucal. Considerando os conceitos atuais de manejo da cárie dentária e as recomendações para a conduta de tratamento adequada, analise as afirmativas a seguir. I. O profissional deverá realizar restaurações imediatas em todas as lesões cavitadas, sem necessidade de outro tipo de intervenção, uma vez que a remoção do tecido cariado elimina a doença. II. O profissional deverá adotar conduta expectante, e esperar o amadurecimento da criança, com reavaliação após 12 meses, pois intervenções precoces podem interferir no desenvolvimento da microbiota oral. III. O profissional deverá implementar abordagem que inclua controle do biofilme, orientação dietética, uso de fluoretos e intervenções minimamente invasivas, como selantes e/ou técnicas de remoção seletiva de cárie. Está correto o que se afirma em",
       "alternatives": {
-        "A": "O principal efeito anticárie do fluoreto ocorre pela sua incorporação sistêmica durante a formação do esmalte, tornando-o completamente resistente à dissolução ácida.",
-        "B": "O fluoreto atua predominantemente por efeito antibacteriano direto, eliminando os microrganismos cariogênicos da cavidade oral.",
-        "C": "A eficácia do fluoreto está principalmente relacionada à sua presença contínua no ambiente bucal, interferindo nos processos de DES-RE do esmalte.",
-        "D": "O uso de fluoretos tópicos é dispensável em populações com acesso à água fluoretada, pois o efeito sistêmico é suficiente para controle da cárie.",
-        "E": "O fluoreto promove a remineralização apenas em lesões cavitadas, sendo pouco efetivo em lesões iniciais não cavitadas. Uma criança de 2 anos de idade reside em um área com água fluoretada (0,7 ppm F). Os pais relatam uso de dentifrício fluoretado adulto, com aproximadamente 1100 ppm F, “cobrindo toda a cabeça” da escova dental e sem supervisão durante a escovação. Considerando o equilíbrio entre eficácia anticárie e risco de fluorose dental, assinale a opção que indica a conduta mais adequada. (A) Suspender completamente o uso de dentifrício fluoretado até os 6 anos, evitando qualquer risco de fluorose. (B) Manter o dentifrício fluoretado com aproximadamente 1100 ppm F, porém reduzir a quantidade para um “grão de arroz” e garantir a escovação supervisionada. (C) Substituir o dentifrício por um sem flúor, mantendo a mesma frequência de escovação, pois o controle mecânico do biofilme, nessa idade, é suficiente. (D) Reduzir a concentração do dentifrício para menos de 500 ppm F, mantendo uma grande quantidade na escova para compensar a menor concentração. (E) Manter a quantidade atual de dentifrício e incentivar o enxágue vigoroso após a escovação para reduzir a ingestão de fluoreto."
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
       },
       "answer": "C",
       "annulled": false,
@@ -721,8 +1010,42 @@
       "page_number": 12
     },
     {
+      "question_number": 60,
+      "discipline": "Atualidades",
+      "statement": "Considerando os fundamentos bioquímicos e clínicos da ação dos fluoretos no controle da cárie dentária, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O principal efeito anticárie do fluoreto ocorre pela sua incorporação sistêmica durante a formação do esmalte, tornando-o completamente resistente à dissolução ácida.",
+        "B": "O fluoreto atua predominantemente por efeito antibacteriano direto, eliminando os microrganismos cariogênicos da cavidade oral.",
+        "C": "A eficácia do fluoreto está principalmente relacionada à sua presença contínua no ambiente bucal, interferindo nos processos de DES-RE do esmalte.",
+        "D": "O uso de fluoretos tópicos é dispensável em populações com acesso à água fluoretada, pois o efeito sistêmico é suficiente para controle da cárie.",
+        "E": "O fluoreto promove a remineralização apenas em lesões cavitadas, sendo pouco efetivo em lesões iniciais não cavitadas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
+      "question_number": 61,
+      "discipline": "Atualidades",
+      "statement": "Uma criança de 2 anos de idade reside em um área com água fluoretada (0,7 ppm F). Os pais relatam uso de dentifrício fluoretado adulto, com aproximadamente 1100 ppm F, “cobrindo toda a cabeça” da escova dental e sem supervisão durante a escovação. Considerando o equilíbrio entre eficácia anticárie e risco de fluorose dental, assinale a opção que indica a conduta mais adequada.",
+      "alternatives": {
+        "A": "Suspender completamente o uso de dentifrício fluoretado até os 6 anos, evitando qualquer risco de fluorose.",
+        "B": "Manter o dentifrício fluoretado com aproximadamente 1100 ppm F, porém reduzir a quantidade para um “grão de arroz” e garantir a escovação supervisionada.",
+        "C": "Substituir o dentifrício por um sem flúor, mantendo a mesma frequência de escovação, pois o controle mecânico do biofilme, nessa idade, é suficiente.",
+        "D": "Reduzir a concentração do dentifrício para menos de 500 ppm F, mantendo uma grande quantidade na escova para compensar a menor concentração.",
+        "E": "Manter a quantidade atual de dentifrício e incentivar o enxágue vigoroso após a escovação para reduzir a ingestão de fluoreto."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O controle da dor, durante a realização dos procedimentos invasivos com a anestesia local, é fundamental para o manejo do comportamento do paciente infantil. A respeito do anestésico de escolha para pacientes infantis com menor potencial de alergenicidade, assinale a opção correta.",
       "alternatives": {
         "A": "Articaína.",
@@ -739,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Paciente de 11 anos de idade sofreu um trauma dental durante uma partida de futebol ao se chocar com outro jogador, tendo como consequência uma fratura classe IV e presença de pequena exposição pulpar. O paciente foi atendido uma hora após a injúria traumática. Assinale a opção que indica, corretamente, o tratamento imediato a ser realizado.",
       "alternatives": {
         "A": "Pulpotomia.",
@@ -756,14 +1079,14 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Em relação às técnicas minimamente invasivas para o tratamento do tecido cariado, na presença de extensa destruição coronária, envolvendo mais de uma face no elemento 74, de um paciente de três anos de idade, não colaborador, assinale a opção que indica a técnica correta para a realização da restauração.",
       "alternatives": {
         "A": "Giomer®.",
         "B": "Coroa de aço.",
         "C": "Resina composta.",
         "D": "Selamento resinoso.",
-        "E": "Cimento de ionômero de vidro. Paciente de 6 anos de idade apresenta grande acúmulo de biofilme na oclusal do elemento 46, em processo de erupção com fóssulas e fissuras profundas, e presença de mancha branca ativa. Para esse caso, assinale a opção que apresenta, corretamente, o tratamento indicado. (A) Selante resinoso. (B) Coroa de celuloide. (C) Selante ionomérico. (D) Escovação transversal. (E) Aplicação de resina bulk fill."
+        "E": "Cimento de ionômero de vidro."
       },
       "answer": "B",
       "annulled": false,
@@ -772,8 +1095,25 @@
       "page_number": 12
     },
     {
+      "question_number": 65,
+      "discipline": "Atualidades",
+      "statement": "Paciente de 6 anos de idade apresenta grande acúmulo de biofilme na oclusal do elemento 46, em processo de erupção com fóssulas e fissuras profundas, e presença de mancha branca ativa. Para esse caso, assinale a opção que apresenta, corretamente, o tratamento indicado.",
+      "alternatives": {
+        "A": "Selante resinoso.",
+        "B": "Coroa de celuloide.",
+        "C": "Selante ionomérico.",
+        "D": "Escovação transversal.",
+        "E": "Aplicação de resina bulk fill."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Paciente de 8 anos de idade queixa-se de dor no elemento 84 durante a mastigação. Após exames clínico e radiográfico, observou-se lesão de cárie extensa e profunda com comprometimento pulpar acometendo as faces distal e oclusal e rizólise de 2/3 da raiz distal. Para o caso exposto, assinale a opção que indica o tratamento previsto.",
       "alternatives": {
         "A": "Coroa de aço.",
@@ -790,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Sobre as características do cimento ionômero de vidro, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Libera fluoretos. ( ) Apresenta adesividade a estrutura dentárias. ( ) Sofre sinérese e embebição. As afirmativas são respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -807,14 +1147,31 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Paciente, 2 anos de idade, apresenta lesões incipientes ativas nas superfícies vestibulares dos seguintes elementos: 51, 52, 61 e 62. Sobre a lesão de mancha branca ativa, assinale a opção que mostra o motivo pelo qual está contraindicado usar sonda com pontas afiadas sobre estas lesões.",
       "alternatives": {
         "A": "A subsuperfície do esmalte desmineralizado é resistente à sondagem.",
         "B": "A sondagem pode ser realizada sem correr risco de cavitação.",
         "C": "A sondagem realizada com a ponta não afiada não causa dano ao esmalte.",
         "D": "A subsuperfície do esmalte é menos desmineralizada e, com a sondagem, há grande possibilidade de cavitar a lesão.",
-        "E": "A subsuperfície da lesão é mais desmineralizada e, com a sondagem, há grande possibilidade de cavitar a lesão. Como o manejo das bases ósseas depende do potencial de crescimento do paciente, a ortodontia preventiva e interceptativa pode ser realizada em crianças e adolescentes durante o período de crescimento com resultados bastante positivos. Relacione os tipos de aparelho listados a seguir, à respectiva anomalia oclusal para o qual é indicado. 1. Aparelho alça e banda. 2. Aparelho arco lingual de Nance. 3. Aparelho Grade Palatina. 4. Aparelho disjuntos palatino Hyrax. ( ) Criança de 4 anos de idade, apresentando mordida aberta anterior com interposição lingual e sucção digital. ( ) Criança com 7 anos de idade, apresentando perda precoce do elemento 65 em razão de cárie dentária com comprometimento pulpar. ( ) Criança com 8 anos de idade, apresentando mordida cruzada posterior bilateral esquelética. ( ) Criança com 6 anos de idade, apresentando perda precoce dos elementos 74 e 85 em razão de cárie dentária. Assinale a opção que apresenta a relação correta, na ordem apresentada. (A) 1, 2, 3 e 4. (B) 2, 3, 1 e 4. (C) 3, 2, 4 e 1. (D) 4, 1, 2 e 3. (E) 3, 1, 4 e 2."
+        "E": "A subsuperfície da lesão é mais desmineralizada e, com a sondagem, há grande possibilidade de cavitar a lesão."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
+      "question_number": 69,
+      "discipline": "Atualidades",
+      "statement": "Como o manejo das bases ósseas depende do potencial de crescimento do paciente, a ortodontia preventiva e interceptativa pode ser realizada em crianças e adolescentes durante o período de crescimento com resultados bastante positivos. Relacione os tipos de aparelho listados a seguir, à respectiva anomalia oclusal para o qual é indicado. 1. Aparelho alça e banda. 2. Aparelho arco lingual de Nance. 3. Aparelho Grade Palatina. 4. Aparelho disjuntos palatino Hyrax. ( ) Criança de 4 anos de idade, apresentando mordida aberta anterior com interposição lingual e sucção digital. ( ) Criança com 7 anos de idade, apresentando perda precoce do elemento 65 em razão de cárie dentária com comprometimento pulpar. ( ) Criança com 8 anos de idade, apresentando mordida cruzada posterior bilateral esquelética. ( ) Criança com 6 anos de idade, apresentando perda precoce dos elementos 74 e 85 em razão de cárie dentária. Assinale a opção que apresenta a relação correta, na ordem apresentada.",
+      "alternatives": {
+        "A": "1, 2, 3 e 4.",
+        "B": "2, 3, 1 e 4.",
+        "C": "3, 2, 4 e 1.",
+        "D": "4, 1, 2 e 3.",
+        "E": "3, 1, 4 e 2."
       },
       "answer": "E",
       "annulled": false,
@@ -824,14 +1181,14 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Uma criança de 5 anos de idade compareceu ao consultório odontológico com dor espontânea e histórico de aumento de volume na região posterior inferior esquerda. Ao exame clínico, o dente 75 apresentava extensa lesão cariosa, mobilidade discreta e presença de fístula ativa. O exame radiográfico mostrou aumento do espessamento do ligamento periodontal, mas não mostrou evidências de reabsorção radicular externa patológica. Radiograficamente, o germe do sucessor permanente apresentava desenvolvimento sem alterações aparentes. Com base no caso clínico e nos princípios atuais de terapia pulpar em dentes decíduos, analise as afirmativas a seguir. I. A pulpotomia está indicada, pois ainda há remanescente radicular viável. II. A presença de fístula contraindica terapias pulpares vitais, sendo a pulpectomia uma opção terapêutica possível. III. A manutenção do dente por meio de pulpectomia é aceitável, desde que o dente seja restaurável. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. Os hábitos de sucção, por vezes, têm um aspecto deletério e podem trazer impactos negativos para a saúde bucal da criança. Sobre o tema, assinale a afirmativa correta. (A) O Ministério da Saúde indica que a amamentação pode ser substituída pela mamadeira sem qualquer risco de prejuízo para o bebê. (B) A Organização Mundial de Saúde recomenda que o aleitamento materno deve ser exclusivo até os 60 dias de vida do bebê. (C) O uso da chupeta é culturalmente aceito, e o seu uso prolongado não traz qualquer problema ao sistema estomatognático da criança. (D) Os hábitos bucais de sucção não nutritiva podem estar relacionados à mordida aberta anterior e à retroinclinação dos incisivos inferiores, entre outros. (E) Ao contrário da chupeta, o hábito da sucção digital não é prejudicial e é facilmente removido, uma vez que a criança tende a abandoná-lo espontaneamente, ao entrar na escola."
+        "E": "I, II e III."
       },
       "answer": "D",
       "annulled": false,
@@ -840,8 +1197,25 @@
       "page_number": 13
     },
     {
+      "question_number": 71,
+      "discipline": "Atualidades",
+      "statement": "Os hábitos de sucção, por vezes, têm um aspecto deletério e podem trazer impactos negativos para a saúde bucal da criança. Sobre o tema, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O Ministério da Saúde indica que a amamentação pode ser substituída pela mamadeira sem qualquer risco de prejuízo para o bebê.",
+        "B": "A Organização Mundial de Saúde recomenda que o aleitamento materno deve ser exclusivo até os 60 dias de vida do bebê.",
+        "C": "O uso da chupeta é culturalmente aceito, e o seu uso prolongado não traz qualquer problema ao sistema estomatognático da criança.",
+        "D": "Os hábitos bucais de sucção não nutritiva podem estar relacionados à mordida aberta anterior e à retroinclinação dos incisivos inferiores, entre outros.",
+        "E": "Ao contrário da chupeta, o hábito da sucção digital não é prejudicial e é facilmente removido, uma vez que a criança tende a abandoná-lo espontaneamente, ao entrar na escola."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Em relação ao tratamento invasivo da cárie dentária em dentes decíduos, considerando os conceitos contemporâneos de mínima intervenção, seletividade na remoção de tecido cariado e preservação da vitalidade pulpar, analise as afirmativas a seguir. I. A remoção seletiva de dentina cariada em lesões profundas, com manutenção de dentina afetada próxima à polpa, reduz o risco de exposição pulpar e mantém altas taxas de sucesso clínico. II. O selamento de lesões cariosas sem remoção completa do tecido infectado pode ser uma abordagem válida, desde que haja adequado isolamento e vedamento marginal. III. Em cavidades profundas, a exposição pulpar acidental durante a remoção de tecido cariado indica necessariamente a exodontia do dente decíduo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -858,14 +1232,14 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Em relação à Hipomineralização Molar-Incisivo (HMI), analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A HMI é uma alteração qualitativa do esmalte de origem sistêmica, que afeta um a quatro primeiros molares permanentes, podendo ou não envolver incisivos permanentes. ( ) A porosidade aumentada do esmalte na HMI favorece fraturas pós-eruptivas, sensibilidade dentária e maior risco de desenvolvimento de lesões cariosas. ( ) A utilização de agentes dessensibilizantes e fluoretos pode ser indicada como parte do manejo clínico da HMI, especialmente em casos com hipersensibilidade. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
         "B": "V – V – V.",
         "C": "F – V – V.",
         "D": "F – F – V.",
-        "E": "V – F – F. Assinale a opção que apresenta as características clínicas de uma lesão incipiente ativa em esmalte. (A) Lisa e opaca. (B) Lisa e brilhante. (C) Opaca e rugosa. (D) Opaca e translúcida. (E) Rugosa e translúcida."
+        "E": "V – F – F."
       },
       "answer": "B",
       "annulled": false,
@@ -874,8 +1248,25 @@
       "page_number": 14
     },
     {
+      "question_number": 74,
+      "discipline": "Atualidades",
+      "statement": "Assinale a opção que apresenta as características clínicas de uma lesão incipiente ativa em esmalte.",
+      "alternatives": {
+        "A": "Lisa e opaca.",
+        "B": "Lisa e brilhante.",
+        "C": "Opaca e rugosa.",
+        "D": "Opaca e translúcida.",
+        "E": "Rugosa e translúcida."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Um paciente de 4 anos de idade apresenta uma lesão cariosa extensa na face oclusal do dente 74. No plano de tratamento, o elemento será restaurado com resina composta. Sobre as medidas que devemos seguir com o objetivo de controlar a umidade para a realização do procedimento, avalie as afirmativas a seguir. I. O procedimento deve ser realizado sob isolamento absoluto. II. O procedimento deve ser realizado sob isolamento relativo. III. O uso de isolamento relativo em crianças está contraindicado. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -892,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Durante o atendimento odontopediátrico, uma criança de 4 anos apresenta múltiplas lesões no lábio inferior, laceração de freio no labial superior e equimoses em diferentes estágios de cicatrização na região perioral. O responsável relata que a criança “cai com frequência”, porém as explicações são vagas e inconsistentes com o padrão das lesões observadas. Considerando a abordagem clínica e ética frente à suspeita de maus-tratos infantis, assinale a opção que indica a conduta mais adequada.",
       "alternatives": {
         "A": "Ignorar a situação, pois não é atribuição do cirurgião-dentista identificar possíveis casos de violência.",
@@ -909,14 +1300,14 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Uma criança de 6 anos de idade foi submetida a um procedimento cirúrgico para a remoção do dente 85. Assinale a opção que apresenta uma possível complicação decorrente da anestesia local.",
       "alternatives": {
         "A": "Abcesso local.",
         "B": "Úlcera aftosa.",
         "C": "Úlcera traumática.",
         "D": "Ulotomia traumática.",
-        "E": "Úlcera por meta hemoglobina. Em relação à remoção seletiva do tecido cariado, ela consiste (A) na remoção apenas da dentina afetada. (B) na remoção da dentina afetada localizada no entorno das paredes axiais. (C) na remoção apenas da dentina infectada localizada no entorno das paredes axiais. (D) tanto na remoção da dentina infectada como a afetada na sua totalidade. (E) na remoção total da dentina infectada, manutenção da afetada e nas paredes axiais a remoção total do tecido cariado. Um dos métodos para classificar o comportamento do paciente infantil frente ao tratamento odontológico é a Escala Comportamental de Wright. Assinale a opção que corresponde à esta classificação. (A) Definitivamente positivo, positivo e definitivamente negativo. (B) Colaborador, potencialmente colaborador e ausência de habilidade para cooperar. (C) Positivo, negativo, negativismo extremo e ausência de habilidade para cooperar. (D) Cauteloso, potencialmente colaborador, colaborador e definitivamente não colaborador. (E) Ausência de habilidade para cooperar, definitivamente positivo e negativo."
+        "E": "Úlcera por meta hemoglobina."
       },
       "answer": "C",
       "annulled": false,
@@ -925,8 +1316,42 @@
       "page_number": 14
     },
     {
+      "question_number": 78,
+      "discipline": "Atualidades",
+      "statement": "Em relação à remoção seletiva do tecido cariado, ela consiste",
+      "alternatives": {
+        "A": "na remoção apenas da dentina afetada.",
+        "B": "na remoção da dentina afetada localizada no entorno das paredes axiais.",
+        "C": "na remoção apenas da dentina infectada localizada no entorno das paredes axiais.",
+        "D": "tanto na remoção da dentina infectada como a afetada na sua totalidade.",
+        "E": "na remoção total da dentina infectada, manutenção da afetada e nas paredes axiais a remoção total do tecido cariado."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
+      "question_number": 79,
+      "discipline": "Atualidades",
+      "statement": "Um dos métodos para classificar o comportamento do paciente infantil frente ao tratamento odontológico é a Escala Comportamental de Wright. Assinale a opção que corresponde à esta classificação.",
+      "alternatives": {
+        "A": "Definitivamente positivo, positivo e definitivamente negativo.",
+        "B": "Colaborador, potencialmente colaborador e ausência de habilidade para cooperar.",
+        "C": "Positivo, negativo, negativismo extremo e ausência de habilidade para cooperar.",
+        "D": "Cauteloso, potencialmente colaborador, colaborador e definitivamente não colaborador.",
+        "E": "Ausência de habilidade para cooperar, definitivamente positivo e negativo."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que apresenta a denominação do elemento dental de formato cônico, localizado na linha média da maxila entre os incisivos centrais.",
       "alternatives": {
         "A": "Desindens.",

@@ -4,11 +4,11 @@
   "concurso_title": "Concurso Público para o Tribunal Regional do Trabalho - 16ª Região",
   "cargo_title": "Analista Judiciário Área Administrativa - Estatística",
   "exam_type": "Tipo 1",
-  "total_questions": 73,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Abaixo estão cinco silogismos. Assinale a opção que mostra uma estruturação válida.",
       "alternatives": {
         "A": "Todos os brasileiros gostam de Copacabana / Pedro é brasileiro / Pedro gosta de Copacabana.",
@@ -25,7 +25,7 @@
     },
     {
       "question_number": 2,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Observe o seguinte raciocínio: A gramática portuguesa é de difícil aprendizagem, por isso acho conveniente a contratação de novos professores. Nesse caso, a premissa inicial do raciocínio corresponde a",
       "alternatives": {
         "A": "um fato comprovado.",
@@ -42,7 +42,7 @@
     },
     {
       "question_number": 3,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Assinale a opção que mostra uma premissa antes de uma conclusão.",
       "alternatives": {
         "A": "A passadeira não deve ter vindo / Minhas camisas estão amarrotadas.",
@@ -59,7 +59,7 @@
     },
     {
       "question_number": 4,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Observe o seguinte texto: “’Há muita gente atrapalhando a vida do governador, inclusive o próprio governador’, costuma dizer um deputado muito conhecido. Trata-se de um comentário muito comum na Assembleia Legislativa”. A introdução utilizada nesse texto pode ser identificada como",
       "alternatives": {
         "A": "uma alusão histórica.",
@@ -76,7 +76,7 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Para que um texto progrida de forma organizada, é preciso que a informação nele contida seja apresentada de forma conveniente. Veja, por exemplo, o texto a seguir: “A Corte Suprema dos Estados Unidos, cuja composição 1983- 1984 terminou há pouco, parece ter mostrado uma direção mais conservadora que a anterior, notadamente no que concerne aos direitos dos indivíduos diante do Estado. Ela decretou que os prisioneiros não tinham nenhum direito sobre sua vida privada e que os juízes, e não os jurados, devem decidir sobre a pena de morte. Ela também apoiou a posição do governo de Ronald Reagan em vários casos que envolviam liberdades civis ou de discriminação”. A organização da informação nesse texto pode ser identificada do seguinte modo:",
       "alternatives": {
         "A": "cada frase parte de um mesmo elemento, dado como conhecido desde o primeiro momento, a que se acrescentam novas informações.",
@@ -93,7 +93,7 @@
     },
     {
       "question_number": 6,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "De cada uma das pequenas notícias abaixo, foi feita uma inferência, ou seja, algo que pode ser deduzido do que se leu. Assinale a opção em que a inferência é adequada.",
       "alternatives": {
         "A": "Mulheres já podem entrar para a Polícia / o número de mulheres na população está aumentando.",
@@ -110,14 +110,14 @@
     },
     {
       "question_number": 7,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Em todas as opções abaixo mostram-se duas frases independentes, com termos repetidos; para evitar a repetição, elas foram unidas por meio de um pronome relativo. Assinale a frase em que essa modificação foi feita de forma adequada.",
       "alternatives": {
         "A": "Li o novo livro de Eduardo Gianetti / Comprei o novo livro de Eduardo Gianetti na nova livraria do bairro --- Li o novo livro de Eduardo Gianetti, cujo foi comprado na nova livraria do bairro.",
         "B": "Estudei durante dois anos em Madrid / Em Madrid aprendi bastante --- Estudei durante dois anos em Madrid, aonde aprendi bastante.",
         "C": "Comprei um carro novo na agência Oxford / O preço do carro foi baixo --- Comprei, na agência Oxford, um carro novo cujo preço foi baixo.",
         "D": "Gostei muito da salada / Os legumes da salada são frescos --- Gostei muito de salada onde os legumes são frescos.",
-        "E": "Encontrei Maria e João / Maria é minha amiga --- Encontrei"
+        "E": "Encontrei Maria e João / Maria é minha amiga --- Encontrei Maria e João, que é minha amiga. FGV"
       },
       "answer": "C",
       "annulled": false,
@@ -127,7 +127,7 @@
     },
     {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Numa reunião de departamento, um professor mostrou os péssimos resultados de seus alunos no primeiro semestre para demonstrar a falência do ensino universitário. Essa argumentação do professor mostra um problema, que é",
       "alternatives": {
         "A": "um círculo vicioso, pois a primeira e a segunda parte do raciocínio mostram o mesmo significado.",
@@ -144,7 +144,7 @@
     },
     {
       "question_number": 9,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Em todas as frases abaixo, para evitar-se repetição, houve substituição do termo em destaque. Assinale a frase em que o processo utilizado na substituição está adequadamente identificado.",
       "alternatives": {
         "A": "A polícia declarou que cercou os criminosos, mas alguns dos bandidos conseguiram escapar / hiperônimo.",
@@ -161,14 +161,14 @@
     },
     {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Observe o parágrafo a seguir: “A imprensa brasileira está sendo criticada por todos os partidos políticos em função de seu partidarismo, de suas coberturas deficientes e de sua má redação dos textos”. Indique a opção em que seu desenvolvimento foi adequadamente identificado.",
       "alternatives": {
         "A": "pergunta e resposta.",
         "B": "paralelo e contraste.",
         "C": "enumeração de detalhes.",
         "D": "exemplificação e ilustração.",
-        "E": "apresentação de razões. Raciocínio Lógico Matemático"
+        "E": "apresentação de razões."
       },
       "answer": "E",
       "annulled": false,
@@ -178,7 +178,7 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Cinco pessoas formam uma fila. Essa fila será modificada com a seguinte sequência de trocas de posição: o 2º com o 4º, o 1º com o 3º, o 2º com o 5º e o 1º com o 4º. A pessoa que estava no 3º lugar na fila inicial estará, na fila final, no",
       "alternatives": {
         "A": "1º lugar.",
@@ -195,7 +195,7 @@
     },
     {
       "question_number": 12,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Certo supermercado anunciou a promoção que se vê na foto a seguir: Esse desconto foi de, aproximadamente,",
       "alternatives": {
         "A": "15%.",
@@ -212,7 +212,7 @@
     },
     {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Considere verdadeira a afirmação: “Todos os corredores são magros”. Observe, a seguir, três conclusões da afirmação dada: 1. Se João é magro então é corredor. 2. Se João não é corredor, então não é magro. 3. Se João não é magro então não é corredor. Denotando por V uma conclusão verdadeira e por F uma conclusão falsa, para as três conclusões dadas, temos, respectivamente,",
       "alternatives": {
         "A": "V, V, V.",
@@ -229,14 +229,14 @@
     },
     {
       "question_number": 14,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Um terreno de 1280 m2 foi dividido em 3 partes, proporcionais aos números: 2, 5/2 e 7/2. A área da maior parte, em m2, é",
       "alternatives": {
         "A": "400.",
         "B": "440.",
         "C": "480.",
         "D": "520.",
-        "E": "560."
+        "E": "560. FGV"
       },
       "answer": "E",
       "annulled": false,
@@ -246,7 +246,7 @@
     },
     {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Alberto deverá fazer um tratamento contínuo de fisioterapia durante longo tempo. Para isso, deverá fixar 2 dias na semana (de 7 dias) para realizar as atividades do tratamento, mas esses dias não podem ser seguidos. O número de maneiras diferentes em que esses 2 dias podem ser fixados é igual a",
       "alternatives": {
         "A": "12.",
@@ -263,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Em um grupo de P pessoas, 54% são mulheres e as demais pessoas são homens. Trinta mulheres deixam o grupo e trinta novos homens passam a fazer parte do mesmo. Nesse novo grupo, os homens representam 61%. O valor de P é",
       "alternatives": {
         "A": "200.",
@@ -279,25 +279,127 @@
       "page_number": 5
     },
     {
-      "question_number": 23,
-      "discipline": null,
-      "statement": "35 (E) 29. 18 No Brasil, o Dia das Mães é comemorado no segundo domingo de maio. Em um determinado ano bissexto, o dia 1o de janeiro ocorreu em uma terça-feira. Lembrando que, em ano bissexto, fevereiro tem 29 dias, concluímos que, nesse ano, o Dia das Mães foi comemorado no dia",
+      "question_number": 17,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "Michael coleciona moedas brasileiras, americanas e francesas. Para cada 3 moedas americanas Michael tem 7 moedas brasileiras e para cada 5 moedas brasileiras, ele tem 2 francesas. Com relação às moedas de Michael, a razão entre a quantidade de moedas brasileiras e a quantidade de moedas não brasileiras é igual a 7",
       "alternatives": {
-        "A": "9 de maio.",
-        "B": "10 de maio.",
-        "C": "11 de maio.",
-        "D": "12 de maio.",
-        "E": "13 de maio. 19 Horácio tem 5 filhos. Cada um desses 5 filhos, também tem 5 filhos ou não tem filho algum. Horácio não tem bisnetos. Ao todo, somando filhos e netos, Horácio tem 20 descendentes. O número de descendentes de Horácio que não têm filhos é igual a (A) 3. (B) 6. (C) 9. (D) 15. (E) 17. 20 Em uma caixa há 18 bolas. A bola mais leve pesa 20 gramas e a mais pesada, 24 gramas. O peso de cada bola é um número inteiro de gramas. É correto concluir que: (A) pelo menos uma bola pesa 22 gramas. (B) nenhuma bola pesa 22 gramas. (C) a média dos pesos de todas as bolas é 22 gramas. (D) pelo menos 4 bolas têm o mesmo peso. (E) a soma dos pesos de todas as bolas é maior do que 396 gramas. Atualidades 21 “Um novo mural do controverso e misterioso artista britânico Banksy apareceu na cidade de Dover, na Inglaterra. Na gravura, é possível ver um operário que retira uma das estrelas que compõe a bandeira da União Europeia.” (Revista Galileu, maio de 2017) O mural mostra um operário a martelar e destruir uma estrela da bandeira da União Europeia. Ele trata, de modo crítico, (A) da possibilidade de os países membros da União Europeia caírem, um a um, nas mãos do Estado Islâmico. (B) da iminência da guerra Rússia – Ucrânia, ocasionada pelo desejo da Ucrânia ingressar na União Europeia. (C) da ameaça da Hungria, sob um governo nacionalista, sair da União Europeia. (D) do “Brexit”, a saída do Reino Unido do bloco econômico europeu. (E) do temor de que a França saísse da União Europeia devido ao 22 “O escritor e jornalista foi eleito para a vaga deixada por Sérgio Paulo Rouanet na Academia Brasileira de Letras. O autor de 74 anos obteve 32 votos entre 35 imortais que compareceram à cerimônia, que ocorreu a portas fechadas, durante cerca de meia hora. O presidente da Academia, Merval Pereira, queimou os votos em uma pira, como é tradição. O ato simboliza que há consenso entre os acadêmicos na escolha. ‘Ele é um grande escritor, um biógrafo excepcional, só vai acrescentar à Academia’, disse Pereira. Indagado se o fato de o autor ser um campeão de vendas influenciou na escolha, o presidente refutou e disse que a qualidade do trabalho foi determinante. O autor é um dos principais biógrafos do Brasil, tendo realizado obras seminais sobre figuras de sua admiração como Carmen Miranda (‘Carmen, uma Biografia’, de 2005), Garrincha (‘Estrela Solitária’, de 1995) e Nelson Rodrigues (‘O Anjo Pornográfico’, de 1992).” (adaptado de Folha de São Paulo, 07/10/2022) O texto refere-se a (A) Geraldo Carneiro. (B) Fernando Morais. (C) Ruy Castro. (D) Sérgio Rodrigues. (E) Itamar Vieira Junior. 23 “É um tipo especial de token criptográfico que representa algo único. Diferentemente das criptomoedas como o Bitcoin e de vários outros tokens utilitários, eles não são mutuamente intercambiáveis. Um item fungível, como o dinheiro, pode ser trocado por outro. Uma cédula de Real pode ser substituída, desde que de mesmo valor. Já os itens infungíveis são como as obras de arte, objetos raros, exemplares únicos etc.” (adaptado, Wikipedia) Ele representa algo específico e individual e não pode ser substituído. Assim, esses tokens vêm sendo muito comercializados no mercado de artes. O texto fala do uso e comércio de arte na forma conhecida pela sigla (A) NFT. (B) GLE. (C) ESG. (D) BDF. (E) TTT."
+        "A": "5. 12",
+        "B": "7 . 25",
+        "C": "19. 30",
+        "D": "23. 35",
+        "E": "29."
       },
-      "answer": "A",
+      "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 5
     },
     {
+      "question_number": 18,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "No Brasil, o Dia das Mães é comemorado no segundo domingo de maio. Em um determinado ano bissexto, o dia 1o de janeiro ocorreu em uma terça-feira. Lembrando que, em ano bissexto, fevereiro tem 29 dias, concluímos que, nesse ano, o Dia das Mães foi comemorado no dia",
+      "alternatives": {
+        "A": "9 de maio.",
+        "B": "10 de maio.",
+        "C": "11 de maio.",
+        "D": "12 de maio.",
+        "E": "13 de maio."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 19,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "Horácio tem 5 filhos. Cada um desses 5 filhos, também tem 5 filhos ou não tem filho algum. Horácio não tem bisnetos. Ao todo, somando filhos e netos, Horácio tem 20 descendentes. O número de descendentes de Horácio que não têm filhos é igual a",
+      "alternatives": {
+        "A": "3.",
+        "B": "6.",
+        "C": "9.",
+        "D": "15.",
+        "E": "17."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "Em uma caixa há 18 bolas. A bola mais leve pesa 20 gramas e a mais pesada, 24 gramas. O peso de cada bola é um número inteiro de gramas. É correto concluir que:",
+      "alternatives": {
+        "A": "pelo menos uma bola pesa 22 gramas.",
+        "B": "nenhuma bola pesa 22 gramas.",
+        "C": "a média dos pesos de todas as bolas é 22 gramas.",
+        "D": "pelo menos 4 bolas têm o mesmo peso.",
+        "E": "a soma dos pesos de todas as bolas é maior do que 396 gramas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 21,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "“Um novo mural do controverso e misterioso artista britânico Banksy apareceu na cidade de Dover, na Inglaterra. Na gravura, é possível ver um operário que retira uma das estrelas que compõe a bandeira da União Europeia.” (Revista Galileu, maio de 2017) O mural mostra um operário a martelar e destruir uma estrela da bandeira da União Europeia. Ele trata, de modo crítico,",
+      "alternatives": {
+        "A": "da possibilidade de os países membros da União Europeia caírem, um a um, nas mãos do Estado Islâmico.",
+        "B": "da iminência da guerra Rússia – Ucrânia, ocasionada pelo desejo da Ucrânia ingressar na União Europeia.",
+        "C": "da ameaça da Hungria, sob um governo nacionalista, sair da União Europeia.",
+        "D": "do “Brexit”, a saída do Reino Unido do bloco econômico europeu.",
+        "E": "do temor de que a França saísse da União Europeia devido ao protagonismo da Alemanha de Angela Merkel nas decisões econômicas do bloco. FGV"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/trt16_analista-judiciario-area-administrativa-estatistica_q21.png",
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "“O escritor e jornalista foi eleito para a vaga deixada por Sérgio Paulo Rouanet na Academia Brasileira de Letras. O autor de 74 anos obteve 32 votos entre 35 imortais que compareceram à cerimônia, que ocorreu a portas fechadas, durante cerca de meia hora. O presidente da Academia, Merval Pereira, queimou os votos em uma pira, como é tradição. O ato simboliza que há consenso entre os acadêmicos na escolha. ‘Ele é um grande escritor, um biógrafo excepcional, só vai acrescentar à Academia’, disse Pereira. Indagado se o fato de o autor ser um campeão de vendas influenciou na escolha, o presidente refutou e disse que a qualidade do trabalho foi determinante. O autor é um dos principais biógrafos do Brasil, tendo realizado obras seminais sobre figuras de sua admiração como Carmen Miranda (‘Carmen, uma Biografia’, de 2005), Garrincha (‘Estrela Solitária’, de 1995) e Nelson Rodrigues (‘O Anjo Pornográfico’, de 1992).” (adaptado de Folha de São Paulo, 07/10/2022) O texto refere-se a",
+      "alternatives": {
+        "A": "Geraldo Carneiro.",
+        "B": "Fernando Morais.",
+        "C": "Ruy Castro.",
+        "D": "Sérgio Rodrigues.",
+        "E": "Itamar Vieira Junior."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/trt16_analista-judiciario-area-administrativa-estatistica_q22.png",
+      "page_number": 6
+    },
+    {
+      "question_number": 23,
+      "discipline": "Raciocínio Lógico Matemático",
+      "statement": "“É um tipo especial de token criptográfico que representa algo único. Diferentemente das criptomoedas como o Bitcoin e de vários outros tokens utilitários, eles não são mutuamente intercambiáveis. Um item fungível, como o dinheiro, pode ser trocado por outro. Uma cédula de Real pode ser substituída, desde que de mesmo valor. Já os itens infungíveis são como as obras de arte, objetos raros, exemplares únicos etc.” (adaptado, Wikipedia) Ele representa algo específico e individual e não pode ser substituído. Assim, esses tokens vêm sendo muito comercializados no mercado de artes. O texto fala do uso e comércio de arte na forma conhecida pela sigla",
+      "alternatives": {
+        "A": "NFT.",
+        "B": "GLE.",
+        "C": "ESG.",
+        "D": "BDF.",
+        "E": "TTT."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O fornecimento de gás da Rússia a países europeus tornou-se tema central nas consequências da guerra motivada pela invasão da Ucrânia pela Rússia. Como reação à invasão, a União Europeia e os EUA apoiaram a Ucrânia e estabeleceram duras sanções econômicas à Rússia. Em resposta, a Rússia cortou o fornecimento de gás à Europa. Em relação ao tema, é correto afirmar que",
       "alternatives": {
         "A": "o fato de o petróleo ser a principal matriz energética usada na Europa atenua os eventuais efeitos danosos do corte no fornecimento de gás natural russo à União Europeia.",
@@ -314,14 +416,14 @@
     },
     {
       "question_number": 25,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "As mudanças climáticas representam um desafio sem precedente para a política ambiental global, colocando em xeque a capacidade de articulação dos Estados, ao mesmo tempo em que evidencia desigualdades globais. O enfrentamento eficaz do problema deve ter em mente um acordo que combine responsabilidades e vulnerabilidades diferenciadas. Sobre a lógica inaugurada no Acordo de Paris, analise as afirmativas a seguir. I. Centra-se nas contribuições nacionais, em que cada Estado determina, internamente, sua contribuição para a redução da emissão de gases de efeito estufa. II. Serve de base para uma ação global mais forte em relação às mudanças climáticas, impondo as mesmas obrigações a todos os países participantes. III. Permite que circunstâncias nacionais sejam levadas em consideração e estabelece uma estrutura duradoura para uma cooperação de longo prazo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III."
+        "E": "I, II e III. FGV"
       },
       "answer": "C",
       "annulled": false,
@@ -331,7 +433,7 @@
     },
     {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Christo e Jeanne-Claude foi um casal de artistas plásticos que se notabilizou por um trabalho muito próximo à arquitetura e com forte componente social, que aparecia na execução de seus projetos, que sempre envolviam a comunidade onde as obras eram instaladas. Alguns aspectos presentes em sua obra, evidenciados nas fotos, são apresentados nas opções a seguir, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "A escala de suas obras.",
@@ -348,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "O ESG surgiu no mercado financeiro como uma forma de medir o impacto que as ações de sustentabilidade geram nos resultados das empresas. A sigla surgiu a primeira vez em 2004, dentro de um grupo de trabalho do Principles for Responsible Investment (PRI), rede ligada à ONU que tem como objetivo atrair investimentos sustentáveis. James Gifford, economista que liderava o PRI, resumiu assim o significado de ESG: “O ESG é apenas um subgrupo inserido no contexto maior do investimento sustentável. O termo foi criado, especificamente, para focar em questões materiais. A ideia foi inverter a lógica do que, na época, era chamado de investimento ético, para se concentrar em fatores relevantes para os investidores. Se você tem uma responsabilidade fiduciária, como no caso de um fundo de pensão, não deveria estar pensando num horizonte de nove meses, mas sim de nove anos, ou de 20 anos. E quando se considera esse horizonte, temas como mudanças climáticas, riscos sociopolíticos etc., se tornam relevantes. Algumas pessoas usam o termo de maneira mais ampla, mas o ponto central é a incorporação de fatores socioambientais nos investimentos para gerenciar riscos. Não é mais sobre ética.” (https://exame.com/esg/) A sigla em inglês ESG significa",
       "alternatives": {
         "A": "meio ambiente, social e governança.",
@@ -365,14 +467,14 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Leia o fragmento a seguir. “Viver é muito perigoso... Porque aprender a viver é que é o viver mesmo... Travessia perigosa, mas é a da vida. Sertão que se alteia e abaixa... O mais difícil não é um ser bom e proceder honesto, dificultoso mesmo, é um saber definido ...” O fragmento mostra a linguagem característica de",
       "alternatives": {
         "A": "João Guimarães Rosa.",
         "B": "Manoel Bandeira.",
         "C": "Carlos Drummond de Andrade.",
         "D": "Jorge Amado.",
-        "E": "Euclides da Cunha."
+        "E": "Euclides da Cunha. FGV"
       },
       "answer": "A",
       "annulled": false,
@@ -382,7 +484,7 @@
     },
     {
       "question_number": 29,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "Anjos Tronchos (Caetano Veloso) Uns anjos tronchos do Vale do Silício Desses que vivem no escuro em plena luz Disseram: Vai ser virtuoso no vício Das telas dos azuis mais do que azuis Agora a minha história é um denso algoritmo Que vende venda a vendedores reais Neurônios meus ganharam novo outro ritmo E mais, e mais, e mais, e mais, e mais Primavera árabe E logo o horror Querer que o mundo acabe-se Sombras do amor Palhaços líderes brotaram macabros No império e nos seus vastos quintais Ao que revêm impérios já milenares Munidos de controles totais Anjos já mi, ou bi, ou trilionários Comandam só seus mi, bi, trilhões E nós, quando não somos otários Ouvimos Schoenberg, Webern, Cage, canções Ah, morena bela Estás aqui Sem pele, tela a tela Estamos aí Um post vil poderá matar Que é que pode ser salvação? Que nuvem, se nem espaço há? Nem tempo, nem sim, nem não Sim, nem não Mas há poemas como jamais Ou como algum poeta sonhou Nos tempos em que havia tempos atrás E eu vou, por que não? Eu vou, por que não? Eu vou Uns anjos tronchos do Vale do Silício Tocaram fundo o minimíssimo grão E enquanto nós nos perguntamos do início Miss Eilish faz tudo do quarto com o irmão. As afirmativas a seguir, acerca de referências que a letra da música faz, estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "“Vale do Silício”, na Califórnia, EUA, é uma das maiores aglomerações de empresas com domínio de tecnologia de ponta do mundo.",
@@ -399,14 +501,14 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Raciocínio Lógico Matemático",
       "statement": "A Academia Real das Ciências da Suécia anunciou que Alain Aspect (Universidade de Paris-Saclay e Escola Politécnica, França), John F. Clauser (J.F. Clauser & Associados, EUA) e Anton Zeilinger (Universidade de Viena, Áustria) foram os laureados do Prêmio Nobel de Física de 2022. O trio recebeu o reconhecimento por experimentos envolvendo emaranhamento quântico, cujos resultados abriram caminho para o desenvolvimento de novas tecnologias na era da informação quântica. “Tornou-se cada vez mais claro que um novo tipo de tecnologia está surgindo. Podemos ver que o trabalho dos laureados com estados emaranhados é de grande importância, mesmo para além das questões fundamentais sobre a interpretação da mecânica quântica” anunciou o comitê do Nobel. (Adaptado de https://jornal.unesp.br/2022/10/04) A mecânica quântica é um ramo da física que surgiu por volta de _____ e se dedica a pesquisar o comportamento de partículas em escalas atômicas e subatômicas, como átomos, elétrons e prótons. A lacuna fica corretamente preenchida por",
       "alternatives": {
         "A": "1800.",
         "B": "1850.",
         "C": "1900.",
         "D": "1950.",
-        "E": "2000. Legislação"
+        "E": "2000. FGV"
       },
       "answer": "C",
       "annulled": false,
@@ -416,7 +518,7 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "João, Diretor de Licitações no âmbito da Administração Pública direta do Município Alfa, foi consultado por Maria sobre o documento necessário, previsto na Lei nº 14.133/2021, para a contratação de bens e serviços, isto com o objetivo de estabelecer os contornos básicos do objeto a ser contratado. João respondeu corretamente que",
       "alternatives": {
         "A": "o projeto básico é o documento necessário à contratação de bens.",
@@ -433,7 +535,7 @@
     },
     {
       "question_number": 32,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A sociedade empresária Alfa recebeu dados cadastrais de um consumidor. Ato contínuo, decidiu que esses atos seriam avaliados, para determinados fins da atividade empresarial, por João, pessoa natural. Considerando a sistemática estabelecida pela Lei nº 13.709/2018, é correto afirmar que Alfa deve ser considerada",
       "alternatives": {
         "A": "controladora, enquanto João é o operador, que realiza uma atividade de tratamento.",
@@ -450,7 +552,7 @@
     },
     {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Pedro, pessoa com deficiência, após concluir a educação básica, almejava ingressar em uma instituição de ensino superior (IES). Ao se inteirar dos seus direitos, visando à participação no processo seletivo, foi-lhe informado que a Lei nº 13.146/2015 lhe assegurava: (1) disponibilização de provas em formatos acessíveis, para atendimento às suas necessidades especiais; (2) disponibilização, de ofício, pela IES, de recursos de acessibilidade, permitindo que ele possa escolher, entre essas opções, aquela que mais se aproxima da satisfação de suas necessidades; (3) dilação de tempo, em 20%, no exame de seleção, a ser oferecida a todas as pessoas com deficiência, incluindo Pedro; e (4) adoção de critérios de avaliação das provas escritas, discursivas ou de redação, que considerem a singularidade linguística de Pedro no domínio da escrita da língua portuguesa. À luz das informações fornecidas a Pedro, é correto afirmar que",
       "alternatives": {
         "A": "todas estão corretas.",
@@ -467,7 +569,7 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Joana, recém-empossada servidora do Tribunal Regional do Trabalho da 16ª Região, recebeu a incumbência de verificar, considerando o respectivo objeto, os processos a serem encaminhados à Procuradoria Regional do Trabalho para a emissão de parecer. Após analisar as normas de regência, Joana concluiu corretamente que deveriam ser obrigatoriamente encaminhados",
       "alternatives": {
         "A": "quaisquer processos em que a Procuradoria Regional do Trabalho entenda ser necessária a sua atuação.",
@@ -484,7 +586,7 @@
     },
     {
       "question_number": 35,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Ana, servidora de certo Tribunal de Justiça, foi incumbida da elaboração da minuta do Plano de Logística Sustentável (PLS), disciplinado pela Resolução CNJ nº 400/2021. Ao inteirar-se das normas a serem observadas para o cumprimento da tarefa recebida, Ana concluiu que o PLS deve: 1. ser composto por um indicador de desempenho mínimo unitário, obtido a partir da diferença entre receita e despesa nos três últimos exercícios financeiros; 2. ser instituído por ato do Tribunal Pleno, ou órgão especial, onde houver; e 3. contar com uma pluralidade de planos de ações. À luz da sistemática estabelecida pela Resolução CNJ nº 400/2021, deve ser reconhecido, em relação às conclusões de Ana, que",
       "alternatives": {
         "A": "todas estão corretas.",
@@ -500,8 +602,25 @@
       "page_number": 9
     },
     {
+      "question_number": 36,
+      "discipline": "Legislação",
+      "statement": "O Presidente da autarquia federal XX delegou a órgão hierarquicamente inferior, por tempo indeterminado, a competência para praticar certos atos administrativos de natureza não normativa. Apesar da plena vigência da delegação, esse agente desejava praticar, ele próprio, certo ato administrativo. À luz da sistemática estabelecida pela Lei nº 9.784/1999, é correto afirmar que o Presidente da autarquia federal XX",
+      "alternatives": {
+        "A": "pode exercer, no momento em que melhor lhe aprouver, independente de qualquer motivação, a competência que fora delegada, desde que comunique ao órgão delegado.",
+        "B": "está impedido de exercer a competência que fora delegada, sem exceções, enquanto perdurar a delegação, pois se trata de uma nova regra de competência, de natureza derivada.",
+        "C": "somente pode exercer a competência que fora delegada após o decurso de trinta dias, contados da notificação administrativa do órgão hierarquicamente inferior.",
+        "D": "pode avocar temporariamente a competência que fora delegada, o que se dará em caráter excepcional e por motivos relevantes devidamente justificados.",
+        "E": "possui competência concorrente com o órgão hierarquicamente inferior para o exercício da competência que fora delegada a este último. FGV"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
       "question_number": 37,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Antônio, agente público, foi acusado, por seu superior hierárquico, de ter causado dano ao Erário, o que foi reduzido a termo em representação na qual lhe atribuiu ato de improbidade tipificado na Lei nº 8.429/1992. À luz da sistemática legal, é correto afirmar que a tipologia da Lei nº 8.429/1992, na qual pode ser enquadrada a mencionada conduta de Antônio, é",
       "alternatives": {
         "A": "taxativa, admitindo apenas o dolo.",
@@ -518,7 +637,7 @@
     },
     {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Pedro, servidor público federal ocupante de cargo de provimento efetivo, respondia a processo administrativo disciplinar sob a imputação de ter desviado recursos públicos. Para sua surpresa, pouco tempo depois, antes da conclusão do processo administrativo, tornou-se réu em um processo criminal, sendo acusado com base nos mesmos fatos. Considerando a sistemática estabelecida no regime jurídico dos servidores públicos civis da União,",
       "alternatives": {
         "A": "Pedro não poderia ser responsabilizado em duas instâncias distintas com base nos mesmos fatos.",
@@ -535,7 +654,7 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Ana, servidora pública federal, solicitou o seu afastamento para participar de programa de pós-graduação stricto sensu no País. À luz da disciplina estabelecida no regime jurídico dos servidores públicos civis da União, a pretensão de Ana, preenchidos outros requisitos eventualmente exigidos,",
       "alternatives": {
         "A": "pode ser acolhida, mas apenas se Ana for ocupante de cargo de provimento efetivo.",
@@ -552,7 +671,7 @@
     },
     {
       "question_number": 40,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Inês, servidora pública federal investida em cargo de direção, foi afastada de suas funções, vindo a ser substituída por Bruna, conforme dispunha o regimento interno da estrutura orgânica em que atuava. Considerando a sistemática estabelecida no regime jurídico dos servidores públicos civis da União, Bruna",
       "alternatives": {
         "A": "fará jus à retribuição pelo exercício do cargo de direção, desde o primeiro dia de substituição a Inês, independentemente do período de afastamento.",
@@ -569,7 +688,7 @@
     },
     {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A e B são dois eventos independentes com probabilidades P[A] = 0,2 e P[B] = 0,5. A probabilidade condicional P[A|B] e as probabilidades P[AB] e P[AB] valem respectivamente",
       "alternatives": {
         "A": "0,2; 0,6; 0,1.",
@@ -586,14 +705,14 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie se as afirmativas a seguir, acerca de dois eventos A e B com probabilidades P[A] > 0 e P[B] > 0, são falsas (F) ou verdadeiras (V): I. Se A e B são mutuamente exclusivos então não são independentes. II. Se A e B são independentes então P[AB] > 0. III. Se A e B não são independentes, então P[A|B] ≠ P[A]. As afirmativas são respectivamente",
       "alternatives": {
         "A": "V, V e F.",
         "B": "V, F e F.",
         "C": "F, F e F.",
         "D": "F, V e V.",
-        "E": "V, V e V."
+        "E": "V, V e V. FGV"
       },
       "answer": "A",
       "annulled": false,
@@ -603,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Na sala 1 há 12 alunos do sexo masculino e 8 do feminino; na sala 2 há 10 alunos do sexo masculino e 9 do feminino. Um aluno da sala 1 é aleatoriamente escolhido e conduzido à sala 2. Em seguida, um aluno da sala 2, já com o sorteado na sala 1 incluído, é aleatoriamente escolhido. A probabilidade de que o aluno sorteado na sala 2 seja do sexo feminino é igual a",
       "alternatives": {
         "A": "0,42.",
@@ -620,7 +739,7 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Dois dados serão lançados aleatoriamente sobre uma mesa e os números resultantes nas faces superiores serão anotados. Se X é o valor absoluto de diferença entre os dois números, então a probabilidade de que X seja igual a 3 é igual a",
       "alternatives": {
         "A": "1/12.",
@@ -637,7 +756,7 @@
     },
     {
       "question_number": 45,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma moeda honesta será lançada 10 vezes. Se X é o número de caras observadas, então a variância de X vale",
       "alternatives": {
         "A": "1,0.",
@@ -654,7 +773,7 @@
     },
     {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma variável aleatória discreta X tem função de probabilidade dada por: Valores de X 0 3 10 12 probabilidades 0,2 0,1 0,3 0,4 A média e a mediana de X são respectivamente iguais a",
       "alternatives": {
         "A": "8,1 e 10.",
@@ -671,7 +790,7 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma variável aleatória discreta X tem função de probabilidade dada por: Valores de X 0 2 6 8 Probabilidades 0,2 0,3 0,3 0,2 A variância de X é igual a",
       "alternatives": {
         "A": "7,2.",
@@ -688,7 +807,7 @@
     },
     {
       "question_number": 48,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Se X tem distribuição exponencial com parâmetro , ou seja, se f(x) = e-x, se x > 0,  > 0, então a variância de X é igual a",
       "alternatives": {
         "A": "2",
@@ -705,7 +824,7 @@
     },
     {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma variável aleatória X tem função de densidade de probabilidade dada por: kx2, se 0 < x < 3 f(x) = 0, nos demais casos O valor da constante k é",
       "alternatives": {
         "A": "1/9.",
@@ -722,7 +841,7 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma variável aleatória X tem função de distribuição dada por 0, se x < 0 F(x) = x2, se 0 ≤ x ≤ 1 1, se x > 1. O valor da probabilidade P[ X > 0,8 ] é",
       "alternatives": {
         "A": "0,16",
@@ -739,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Suponha que um processo Poisson esteja ocorrendo no tempo a uma taxa média de 0,5/min. Usando e-0,25 = 0,7788, a probabilidade de que ocorra um acontecimento num intervalo de 30s é, aproximadamente, igual a",
       "alternatives": {
         "A": "0,104.",
@@ -756,14 +875,14 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma amostra aleatória simples de tamanho 784 será obtida para se estimar o valor de uma média populacional. Se  é o valor do desvio padrão populacional, a probabilidade de que o valor da média amostral não difira do valor da média populacional por mais de 0,1, é aproximadamente igual a",
       "alternatives": {
         "A": "0,995.",
         "B": "0,975.",
         "C": "0,957.",
         "D": "0,946.",
-        "E": "0,933."
+        "E": "0,933. FGV"
       },
       "answer": "D",
       "annulled": false,
@@ -773,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A soma dos quadrados de n variáveis aleatórias independentes e identicamente distribuídas N(0, 1) tem distribuição",
       "alternatives": {
         "A": "N(n, 1)",
@@ -790,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Suponha uma amostra aleatória simples X1, X2, X3, X4 de uma variável populacional com média . Assinale a opção que apresenta um estimador não tendencioso de .",
       "alternatives": {
         "A": "X1 + X2",
@@ -807,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Suponha uma amostra X1, X2, X3, X4 de uma variável populacional com média  e variância 2. Se 𝑋̅ é a média amostral, assinale a opção que apresenta uma estatística não tendenciosa para 2",
       "alternatives": {
         "A": "(X12 + X22 + X32 + X42 – 4𝑋̅ 2)/3",
@@ -824,7 +943,7 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "O valor esperado E[XY] é igual a",
       "alternatives": {
         "A": "0,0.",
@@ -841,7 +960,7 @@
     },
     {
       "question_number": 57,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "A covariância entre X e Y é igual a",
       "alternatives": {
         "A": "–0,35.",
@@ -858,7 +977,7 @@
     },
     {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Numa dada população, 50% das pessoas são do sexo feminino. Usando o teorema central do limite, se uma amostra aleatória simples de tamanho n = 1.225 dessa população for observada, a probabilidade de que, na amostra, a porcentagem de pessoas do sexo feminino seja menor do que 0,46 ou maior do que 0,54 é aproximadamente igual a",
       "alternatives": {
         "A": "0.",
@@ -875,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma fábrica produz N itens, dos quais K são defeituosos. Se n itens diferentes forem sorteados aleatoriamente dessa produção, então o número de itens defeituosos nessa amostra tem distribuição",
       "alternatives": {
         "A": "binomial.",
@@ -892,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Um exemplo de variável aleatória cuja distribuição de probabilidades é tal que a média é sempre igual a variância é a",
       "alternatives": {
         "A": "binomial.",
@@ -909,7 +1028,7 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Suponha que experimentos Bernoulli independentes sejam realizados até que o primeiro “sucesso” aconteça. Se X é o número de tentativas anteriores a esse primeiro “sucesso”, avalie se as afirmativas a seguir sobre a distribuição de X estão corretas. I. X tem distribuição geométrica. II. E[X] = (1 – p)/p III. Var[X] = (1 – p)/p2 Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -926,14 +1045,14 @@
     },
     {
       "question_number": 62,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Se X tem distribuição qui-quadrado com n graus de liberdade, Y tem distribuição qui-quadrado com m graus de liberdade e se X e Y são independentes, então a seguinte variável tem distribuição F com n e m graus de liberdade:",
       "alternatives": {
         "A": "XY/nm",
         "B": "nmX/Y",
         "C": "nX2/mY2",
         "D": "mX/nY",
-        "E": "X2/Y"
+        "E": "X2/Y FGV"
       },
       "answer": "C",
       "annulled": false,
@@ -943,7 +1062,7 @@
     },
     {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Pela Desigualdade de Tchebichev, se X é uma variável aleatória com média  e desvio padrão , a probabilidade de que o valor de X se afaste do de  por no mínimo 5 é menor ou igual a",
       "alternatives": {
         "A": "0,04.",
@@ -960,7 +1079,7 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Uma amostra aleatória de tamanho 144 de uma população descrita por uma variável aleatória suposta normalmente distribuída com média  e variância 2 apresentou os seguintes dados: 𝑥̅ = 52,5, ∑ (𝑥𝑖−𝑥̅)2 100 𝑖=1 = 5.148 Assim, se queremos testar H0:  ≤ 50 versus H1:  > 50, o critério de decisão com base na estatística de teste t usual, ao nível de significância de 5%, e a respectiva decisão serão:",
       "alternatives": {
         "A": "Rejeitar H0 se 𝑥̅ ≥ 54,02, logo não rejeitamos H0.",
@@ -977,7 +1096,7 @@
     },
     {
       "question_number": 65,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Para testar a independência entre dois atributos, 400 pessoas foram classificadas de acordo com sexo e opinião em relação a certa proposta da prefeitura. Os resultados observados estão na tabela de contingências a seguir. Opinião Total Contra A favor Masc. 120 80 200 Sexo Fem. 130 70 200 Total 250 150 400 O valor da estatística de teste qui-quadrado usual para esses dados é aproximadamente igual a",
       "alternatives": {
         "A": "1,07.",
@@ -994,7 +1113,7 @@
     },
     {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Se p é uma proporção populacional, o tamanho da amostra necessário para que possamos garantir, com 95% de confiança, que o valor da proporção amostral não se afastará do valor de p por mais de 2% é, aproximadamente, igual a",
       "alternatives": {
         "A": "1.600.",
@@ -1011,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie se, na análise de resíduos, o diagrama de dispersão de resíduo e predito de uma regressão linear simples é usado para detectar: I. heterocedasticidade dos erros. II. não-linearidade entre as variáveis X e Y. III. prováveis dados atípicos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1028,7 +1147,7 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie se as seguintes afirmativas acerca dos pressupostos do teste de postos sinalizados de Wilcoxon são falsas (F) ou verdadeiras (V): 1. A população das diferenças tem distribuição que pode ser assimétrica ou simétrica. 2. Cada par é escolhido aleatoriamente e de forma independente. 3. Os dados podem ser medidos em escala nominal. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, V e V.",
@@ -1045,7 +1164,7 @@
     },
     {
       "question_number": 69,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Para testar se a proporção p de pessoas infectadas pela dengue já é superior a 10%, num dado momento, uma amostra aleatória simples de 400 pessoas será observada e será usado o critério de decisão que decide por p > 10% se ao menos 48 pessoas estiverem infectadas. O nível de significância associado a esse critério é aproximadamente igual a",
       "alternatives": {
         "A": "0,01.",
@@ -1062,14 +1181,14 @@
     },
     {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Considere uma amostra aleatória de tamanho n obtida de uma distribuição Bernoulli com parâmetro p, f(x; p) = px(1-p)1-x, x = 0 ou 1, 0 ≤ p≤ 1 . A função de verossimilhança correspondente é então",
       "alternatives": {
         "A": "𝐿(𝑝) = 𝑝∑𝑥𝑖(1 −𝑝)𝑛− ∑𝑥𝑖",
         "B": "𝐿(𝑝) = 𝑝𝑛− ∑𝑥𝑖(1 −𝑝)1− ∑𝑥𝑖",
         "C": "𝐿(𝑝) = 𝑝2(1 −𝑝)𝑛− 1 ∑𝑥𝑖",
         "D": "𝐿(𝑝) = 𝑝𝑛(1 −𝑝)𝑛− 1 ∑𝑥𝑖",
-        "E": "𝐿(𝑝) = (1 −𝑝)𝑛− 1 ∑𝑥𝑖/ 𝑝∑𝑥𝑖"
+        "E": "𝐿(𝑝) = (1 −𝑝)𝑛− 1 ∑𝑥𝑖/ 𝑝∑𝑥𝑖 FGV"
       },
       "answer": "B",
       "annulled": false,
@@ -1079,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Se X1, X2, ..., Xn é uma amostra aleatória simples de uma variável populacional normalmente distribuída com média  e variância 2, então o estimador de máxima verossimilhança de log(2) é",
       "alternatives": {
         "A": "𝑛log [ ∑ (𝑋𝑖− 𝑋̅ )2 𝑛 𝑖=1 ] 1 𝑛+1 ∑ (𝑋𝑖− 𝑋̅ )2 𝑛 𝑖=1 ]",
@@ -1096,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "“Este esquema amostral é usado quando há uma subdivisão da população em grupos que sejam bastante semelhantes entre si, mas com fortes discrepâncias dentro dos grupos, de modo que cada um possa ser uma pequena representação da população de interesse específico.” O trecho faz referência à amostragem",
       "alternatives": {
         "A": "aleatória simples.",
@@ -1113,7 +1232,7 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie se as seguintes afirmativas a respeito das propriedades do estimador razão estão, em geral, corretas. I. O estimador razão é aproximadamente não viciado se o tamanho da amostra é suficientemente grande. II. Para amostras pequenas, o estimador razão apresentará pequeno viés ou viés nulo com grande probabilidade. III. O viés pode ser calculado considerando-se o truncamento na expansão em série de Taylor, a partir do termo de interesse; quanto menor a ordem do truncamento, mais preciso é o resultado. Está correto apenas o que se afirma em",
       "alternatives": {
         "A": "I.",
@@ -1130,7 +1249,7 @@
     },
     {
       "question_number": 74,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie se as propriedades desejadas em um gerador de números aleatórios incluem: I. Ser computacionalmente eficiente. II. O período deve ser muito longo. III. Os sucessivos valores devem ser independentes e uniformemente distribuídos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1147,7 +1266,7 @@
     },
     {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Considere X1, X2, ..., Xn uma amostra aleatória simples de uma função de densidade exponencial parâmetro , ou seja, f(x; ) = exp{-x}, se x > 0, f(x, ) = 0, se x ≤ 0. O estimador não tendencioso de variância uniformemente mínima de 1/ é",
       "alternatives": {
         "A": "𝑛 / ∑ 𝑋𝑖 𝑛 𝑖=1",
@@ -1164,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Se X é um vetor p-dimensional com distribuição normal multivariada com vetor de médias  e matriz de covariâncias  e se A é uma matriz qxp constante, então AX tem distribuição normal multivariada com vetor de médias e matriz de covariâncias dados respectivamente por",
       "alternatives": {
         "A": "A e A-1At",
@@ -1181,7 +1300,7 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "As afirmativas a seguir, acerca da análise de componentes principais (ACP) estão corretas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "É uma técnica estatística que transforma linearmente um conjunto original de variáveis, inicialmente correlacionadas entre si, num segundo conjunto menor de variáveis não correlacionadas.",
@@ -1198,14 +1317,14 @@
     },
     {
       "question_number": 78,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie as seguintes afirmativas acerca da Análise Discriminante Linear (ADL) estão corretas: I. Análise Discriminante Linear é usada para classificar e visualizar dados e reduzir dimensão do problema. II. A ideia é dividir o espaço de dados em regiões que representam as classes e usar uma regra de alocação para alocar cada observação em alguma região. III. O que se espera com a aplicação da ADL é que a variância entre classes seja maximizada em relação à variância intraclasse. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "I e II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III."
+        "E": "I, II e III. FGV"
       },
       "answer": "D",
       "annulled": false,
@@ -1215,7 +1334,7 @@
     },
     {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Em relação a características das séries temporais, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V): I. A autocorrelação avalia o modo como uma observação, num dado instante, está relacionada com as observações passadas; em particular, a autocorrelação de primeira ordem caracteriza séries nas quais uma observação está correlacionada com a observação imediatamente anterior. II. A tendência de uma série temporal é uma medida do padrão de crescimento (positivo ou negativo) da variável em um certo período de tempo. III. A sazonalidade mede se há padrões de comportamento que se repetem em épocas específicas. IV. Dizemos que uma série temporal apresenta estacionariedade se a variável em estudo se comporta de modo aleatório ao longo do tempo ao redor de uma média constante. As afirmativas são respectivamente",
       "alternatives": {
         "A": "V, V, V e V.",
@@ -1232,14 +1351,14 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "Legislação",
       "statement": "Avalie se as afirmativas a seguir, acerca do Índice de Gini, são falsas (F) ou verdadeiras (V). I. Mede o grau de concentração de renda em determinado grupo, apontando a diferença entre os rendimentos dos mais pobres e os dos mais ricos. II. Numericamente, varia de zero a um. III. Quanto mais perto de zero é o índice de Gini de um grupo, mais concentrada nas mãos de poucos é a renda do grupo. As afirmativas são respectivamente",
       "alternatives": {
         "A": "V, V e V.",
         "B": "V, F e V.",
         "C": "F, V e F.",
         "D": "V, V e F.",
-        "E": "F, F e V. Realização"
+        "E": "F, F e V. SEMSA - SECRETARIA MUNICIPAL DE SAÚDE DE MANAUS (ESPECIALISTA EM SAÚDE) #organizadora# Distribuição t de Student Realização"
       },
       "answer": "B",
       "annulled": false,

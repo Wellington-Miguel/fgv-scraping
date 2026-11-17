@@ -4,11 +4,11 @@
   "concurso_title": "Concurso Público para a Prefeitura de Macaé",
   "cargo_title": "Médico I - Patologista",
   "exam_type": "Tipo 1",
-  "total_questions": 58,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "O texto abaixo, retirado do site “Somos Brasileiros”, explora o tema da saúde pública no Brasil. “O Brasil enfrenta vários desafios na área da saúde pública que impactam a qualidade e a acessibilidade dos serviços de saúde: Desigualdade no Acesso aos Serviços de Saúde. Apesar de ser um sistema de saúde universal, a desigualdade no acesso aos serviços de saúde entre regiões urbanas e rurais, bem como entre diferentes classes sociais, continua a ser um problema significativo.” Sobre a estruturação desse texto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O primeiro parágrafo apresenta os problemas que serão desenvolvidos no parágrafo seguinte.",
@@ -25,14 +25,14 @@
     },
     {
       "question_number": 2,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "No mesmo artigo está presente um segundo aspecto de nosso sistema de saúde: “Financiamento e Recursos. A falta de recursos financeiros adequados e a gestão ineficiente dos fundos destinados à saúde são desafios críticos. Isso afeta a capacidade dos hospitais e centros de saúde em oferecer serviços de qualidade.” Sobre a estruturação ou significação desse texto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O pronome demonstrativo “Isso” se refere a algo que é citado na continuidade do texto.",
         "B": "O termo “capacidade dos hospitais” alude à capacidade profissional dos funcionários que lá trabalham.",
         "C": "Os vocábulos – “Financiamento e Recursos” – do início do texto resumem tematicamente o seu conteúdo.",
         "D": "Ao afirmar que os problemas citados são “desafios críticos”, o texto indica que são problemas que nunca serão resolvidos.",
-        "E": "A falta de recursos adequados e a ineficiência da gestão financeira são críticas dirigidas aos funcionários da área da saúde. Leia o trecho a seguir. “O Brasil enfrenta altas taxas de doenças crônicas como diabetes e hipertensão, além de lidar com epidemias recorrentes, como o dengue e a gripe. A gestão dessas condições requer uma abordagem integrada e recursos substanciais.” No trecho, há uma série de expressões e vocábulos que necessitam de perfeita compreensão. Assinale a opção que apresenta um significado adequado para o segmento destacado. (A) “doenças crônicas” são as que se repetem todos os anos. (B) “epidemias recorrentes” são aquelas que estão presentes em todo o país. (C) “o dengue e a gripe” são exemplos de doenças crônicas, citadas anteriormente. (D) As “condições” citadas, referem-se às condições financeiras no atendimento do público. (E) “abordagem integrada” se refere a uma participação coletiva na solução do problema."
+        "E": "A falta de recursos adequados e a ineficiência da gestão financeira são críticas dirigidas aos funcionários da área da saúde."
       },
       "answer": "C",
       "annulled": false,
@@ -41,8 +41,25 @@
       "page_number": 3
     },
     {
+      "question_number": 3,
+      "discipline": "Língua Portuguesa",
+      "statement": "Leia o trecho a seguir. “O Brasil enfrenta altas taxas de doenças crônicas como diabetes e hipertensão, além de lidar com epidemias recorrentes, como o dengue e a gripe. A gestão dessas condições requer uma abordagem integrada e recursos substanciais.” No trecho, há uma série de expressões e vocábulos que necessitam de perfeita compreensão. Assinale a opção que apresenta um significado adequado para o segmento destacado.",
+      "alternatives": {
+        "A": "“doenças crônicas” são as que se repetem todos os anos.",
+        "B": "“epidemias recorrentes” são aquelas que estão presentes em todo o país.",
+        "C": "“o dengue e a gripe” são exemplos de doenças crônicas, citadas anteriormente.",
+        "D": "As “condições” citadas, referem-se às condições financeiras no atendimento do público.",
+        "E": "“abordagem integrada” se refere a uma participação coletiva na solução do problema."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
       "question_number": 4,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Apesar dos desafios, o Brasil tem avançado significativamente em várias áreas da saúde pública: Expansão da Cobertura de Saúde. A expansão da cobertura de saúde, especialmente com a implementação de programas de saúde da família e a ampliação da rede de unidades básicas de saúde, tem melhorado o acesso aos serviços”. Sobre o texto acima, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O substantivo “acesso” poderia ser adequadamente substituído por ascender.",
@@ -59,14 +76,14 @@
     },
     {
       "question_number": 5,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Não há investimento melhor para qualquer comunidade do que pôr leite em bebês. Cidadãos saudáveis são o maior bem que qualquer país pode ter.” Sobre esse pequeno segmento textual, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A expressão “pôr leite em bebês” equivale semanticamente a “adotar bebês”.",
         "B": "O termo “qualquer comunidade” poderia ser, sem alteração semântica, substituída por “uma comunidade qualquer”.",
         "C": "A expressão “Não há investimento melhor” corresponde semanticamente a “Há investimento pior”.",
         "D": "O primeiro período mostra um exemplo de grau comparativo de inferioridade.",
-        "E": "O segundo período do texto funciona como uma conclusão do primeiro. “A saúde é o estado no qual as funções necessárias se cumprem insensivelmente ou com prazer.” O termo “insensivelmente ou com prazer” poderia ser escrito de forma sintaticamente paralela e correta do seguinte modo: (A) sem sensibilidade ou sem prazer. (B) sem sensibilidade ou com prazer. (C) com sensibilidade ou com prazer. (D) insensivelmente ou prazeirosamente. (E) insensivelmente ou prazerentamente."
+        "E": "O segundo período do texto funciona como uma conclusão do primeiro."
       },
       "answer": "C",
       "annulled": false,
@@ -75,8 +92,25 @@
       "page_number": 3
     },
     {
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "“A saúde é o estado no qual as funções necessárias se cumprem insensivelmente ou com prazer.” O termo “insensivelmente ou com prazer” poderia ser escrito de forma sintaticamente paralela e correta do seguinte modo:",
+      "alternatives": {
+        "A": "sem sensibilidade ou sem prazer.",
+        "B": "sem sensibilidade ou com prazer.",
+        "C": "com sensibilidade ou com prazer.",
+        "D": "insensivelmente ou prazeirosamente.",
+        "E": "insensivelmente ou prazerentamente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
       "question_number": 7,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Leia o texto a seguir. “Quando o assunto é a saúde da tireoide, um nutriente se destaca como o mais essencial: o iodo. Ele é a matéria-prima usada pela glândula para produzir hormônios que controlam o metabolismo, a energia e o funcionamento de praticamente todos os órgãos do corpo. Junto com o selênio, forma a base nutricional que permite à tireoide trabalhar bem. Entender o papel desses nutrientes e suas principais fontes ajuda a manter o equilíbrio hormonal em dia.” (Tua Saúde, 15/04/2026) Assinale a opção que indica a finalidade principal desse texto.",
       "alternatives": {
         "A": "Procurar ensinar o leitor sobre o funcionamento de seu corpo.",
@@ -93,14 +127,14 @@
     },
     {
       "question_number": 8,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Quando o assunto é a saúde da tireoide, um nutriente se destaca como o mais essencial: o iodo. Ele é a matéria-prima usada pela glândula para produzir hormônios que controlam o metabolismo, a energia e o funcionamento de praticamente todos os órgãos do corpo.” Sobre a estruturação desse segmento, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Após o primeiro período, o texto mostra a conclusão da frase anterior.",
         "B": "O pronome relativo “que” tem por antecedente o substantivo “matéria-prima”.",
         "C": "A primeira frase – Quando o assunto é a saúde da tireoide – delimita o assunto a ser explorado no texto.",
         "D": "Ao dizer que o iodo é o nutriente mais essencial, o texto mostra a falta de importância dos demais nutrientes.",
-        "E": "O termo “glândula” está mal-empregado, por não haver informação anterior sobre qual glândula o texto se refere. “Entender o papel desses nutrientes e suas principais fontes ajuda a manter o equilíbrio hormonal em dia.” Sobre os termos desse fragmento textual, assinale a afirmativa correta. (A) A forma verbal “ajuda” deveria estar no plural, pois o sujeito é plural. (B) A expressão “em dia” pode ser adequadamente substituída por “diariamente”. (C) As duas formas verbais “Entender” e “manter” exemplificam a estrutura de voz passiva. (D) O demonstrativo “desses” e o possessivo “suas” possuem o mesmo antecedente textual. (E) A informação passada ao leitor por esse segmento textual incentiva-o a procurar novas informações sobre o tema."
+        "E": "O termo “glândula” está mal-empregado, por não haver informação anterior sobre qual glândula o texto se refere."
       },
       "answer": "C",
       "annulled": false,
@@ -109,8 +143,25 @@
       "page_number": 4
     },
     {
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "“Entender o papel desses nutrientes e suas principais fontes ajuda a manter o equilíbrio hormonal em dia.” Sobre os termos desse fragmento textual, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A forma verbal “ajuda” deveria estar no plural, pois o sujeito é plural.",
+        "B": "A expressão “em dia” pode ser adequadamente substituída por “diariamente”.",
+        "C": "As duas formas verbais “Entender” e “manter” exemplificam a estrutura de voz passiva.",
+        "D": "O demonstrativo “desses” e o possessivo “suas” possuem o mesmo antecedente textual.",
+        "E": "A informação passada ao leitor por esse segmento textual incentiva-o a procurar novas informações sobre o tema."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
       "question_number": 10,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“O Ministério da Saúde registra a ocorrência de 400 mil casos de infarto agudo do miocárdio por ano no Brasil. O índice posiciona a condição como uma das principais causas de óbito no país. Apesar da alta incidência, a percepção de bem-estar da população permanece vinculada apenas ao peso corporal total, ignorando os indicadores específicos de distribuição de gordura.” Catraca Livre, 16/04/2026.",
       "alternatives": {
         "A": "O período inicial mostra que o texto foi estruturado a partir da opinião de quem o escreveu.",
@@ -127,14 +178,14 @@
     },
     {
       "question_number": 11,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "“Entre as raízes mais estudadas pela ciência moderna, a cúrcuma ganha destaque pela sua ação direta sobre o fígado. Também conhecida como açafrão-da-terra, essa especiaria milenar contém a curcumina, composto com potente ação anti-inflamatória e antioxidante capaz de proteger as células hepáticas, reduzir o acúmulo de gordura e ajudar a equilibrar enzimas como ALT e AST, marcadores importantes de saúde do fígado.” Anhanguera Pós-Graduação, 15/4/2026. Sobre a estruturação ou a significação desse pequeno texto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Segundo o texto, “açafrão-da-terra” é o nome mais culto dado à cúrcuma.",
         "B": "“Cúrcuma” e “curcumina” são termos considerados textualmente sinônimos.",
         "C": "Pelos termos empregados, o texto foi redigido para o público leigo no assunto tratado.",
         "D": "Como mostra a grafia de “antioxidante”, o termo “anti- inflamatória” deveria ser grafado sem hífen.",
-        "E": "A redução do acúmulo de gordura e o equilíbrio das enzimas são benefícios para o fígado, trazidos pela cúrcuma. Leia o texto a seguir. “A caminhada regular fortalece o músculo do coração, melhora a circulação do sangue e contribui para a redução da pressão arterial. Com o tempo, o corpo se torna mais eficiente no transporte de oxigênio e nutrientes para os tecidos, o que diminui a sobrecarga sobre todo o sistema cardiovascular. Pessoas que caminham diariamente apresentam menor risco de infarto, derrame e outras complicações relacionadas ao coração. Esse benefício aparece mesmo em caminhadas de intensidade leve a moderada, sem necessidade de correr ou fazer exercícios de alto impacto.” Anhanguera Pós-Graduação, 15/4/2026. A finalidade principal desse pequeno texto é a de (A) prevenir doenças cardíacas. (B) promover a busca pela saúde. (C) divulgar a utilidade das academias. (D) incentivar o leitor a fazer caminhadas. (E) informar sobre métodos terapêuticos."
+        "E": "A redução do acúmulo de gordura e o equilíbrio das enzimas são benefícios para o fígado, trazidos pela cúrcuma."
       },
       "answer": "E",
       "annulled": false,
@@ -143,15 +194,32 @@
       "page_number": 4
     },
     {
+      "question_number": 12,
+      "discipline": "Língua Portuguesa",
+      "statement": "Leia o texto a seguir. “A caminhada regular fortalece o músculo do coração, melhora a circulação do sangue e contribui para a redução da pressão arterial. Com o tempo, o corpo se torna mais eficiente no transporte de oxigênio e nutrientes para os tecidos, o que diminui a sobrecarga sobre todo o sistema cardiovascular. Pessoas que caminham diariamente apresentam menor risco de infarto, derrame e outras complicações relacionadas ao coração. Esse benefício aparece mesmo em caminhadas de intensidade leve a moderada, sem necessidade de correr ou fazer exercícios de alto impacto.” Anhanguera Pós-Graduação, 15/4/2026. A finalidade principal desse pequeno texto é a de",
+      "alternatives": {
+        "A": "prevenir doenças cardíacas.",
+        "B": "promover a busca pela saúde.",
+        "C": "divulgar a utilidade das academias.",
+        "D": "incentivar o leitor a fazer caminhadas.",
+        "E": "informar sobre métodos terapêuticos."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
       "question_number": 13,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Leia o texto a seguir. “A caminhada regular fortalece o músculo do coração, melhora a circulação do sangue e contribui para a redução da pressão arterial. Com o tempo, o corpo se torna mais eficiente no transporte de oxigênio e nutrientes para os tecidos, o que diminui a sobrecarga sobre todo o sistema cardiovascular. Pessoas que caminham diariamente apresentam menor risco de infarto, derrame e outras complicações relacionadas ao coração. Esse benefício aparece mesmo em caminhadas de intensidade leve a moderada, sem necessidade de correr ou fazer os exercícios de alto impacto.” Anhanguera Pós-Graduação, 15/4/2026. Assinale a opção em que o termo precedido da preposição de mostra função diferente das demais.",
       "alternatives": {
         "A": "o músculo do coração.",
         "B": "a circulação do sangue.",
         "C": "a redução da pressão arterial.",
         "D": "em caminhadas de intensidade leve.",
-        "E": "os exercícios de alto impacto. “A imagem da dor no peito como único sinal de um problema cardíaco está ultrapassada. Muitas doenças do coração evoluem de forma silenciosa, sem causar desconforto intenso no tórax, e começam com manifestações discretas que costumam ser atribuídas ao cansaço do dia a dia. O cansaço ao subir escadas, a falta de ar leve durante atividades simples e o inchaço nos pés estão entre os primeiros alertas e merecem atenção antes que o quadro evolua.” O termo “cardíaco” é um adjetivo culto relacionado a “coração”. Assinale a opção que presenta a frase em que o adjetivo culto está corretamente relacionado a um substantivo anterior. (A) Os meninos traziam marcas na testa; essas marcas cervicais podem ser sinais de maus-tratos. (B) Os cabelos fazem parte de nossa apresentação social; por isso os cuidados capilares nunca são exagerados. (C) Dores nos rins devem ser imediatamente analisadas; os incômodos hepáticos são sinais de moléstias graves. (D) A cera nos ouvidos impede uma perfeita audição; esse cuidado óptico deve fazer parte de nossas preocupações. (E) O cuidado com os dentes deve nos acompanhar todos os dias; a preocupação oftalmológica deve ser ensinada desde a infância."
+        "E": "os exercícios de alto impacto."
       },
       "answer": "C",
       "annulled": false,
@@ -160,8 +228,25 @@
       "page_number": 5
     },
     {
+      "question_number": 14,
+      "discipline": "Língua Portuguesa",
+      "statement": "“A imagem da dor no peito como único sinal de um problema cardíaco está ultrapassada. Muitas doenças do coração evoluem de forma silenciosa, sem causar desconforto intenso no tórax, e começam com manifestações discretas que costumam ser atribuídas ao cansaço do dia a dia. O cansaço ao subir escadas, a falta de ar leve durante atividades simples e o inchaço nos pés estão entre os primeiros alertas e merecem atenção antes que o quadro evolua.” O termo “cardíaco” é um adjetivo culto relacionado a “coração”. Assinale a opção que presenta a frase em que o adjetivo culto está corretamente relacionado a um substantivo anterior.",
+      "alternatives": {
+        "A": "Os meninos traziam marcas na testa; essas marcas cervicais podem ser sinais de maus-tratos.",
+        "B": "Os cabelos fazem parte de nossa apresentação social; por isso os cuidados capilares nunca são exagerados.",
+        "C": "Dores nos rins devem ser imediatamente analisadas; os incômodos hepáticos são sinais de moléstias graves.",
+        "D": "A cera nos ouvidos impede uma perfeita audição; esse cuidado óptico deve fazer parte de nossas preocupações.",
+        "E": "O cuidado com os dentes deve nos acompanhar todos os dias; a preocupação oftalmológica deve ser ensinada desde a infância."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
       "question_number": 15,
-      "discipline": null,
+      "discipline": "Língua Portuguesa",
       "statement": "Assinale a opção que apresenta a frase que deve ser incluída entre os textos argumentativos por apresentar a defesa de uma ideia com argumentos.",
       "alternatives": {
         "A": "Beber água é fundamental; beber álcool não é fundamental.",
@@ -178,7 +263,7 @@
     },
     {
       "question_number": 16,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O Produto Interno Bruto (PIB) é um indicador utilizado para medir a atividade econômica de um país em determinado período. No seu cálculo, consideram-se apenas os bens e serviços finais produzidos, o que evita a dupla contagem de etapas intermediárias da produção. Além disso, o PIB é um indicador de fluxo, e não de estoque, refletindo apenas a produção realizada em um intervalo de tempo específico. Considerando essa definição, assinale a opção correta.",
       "alternatives": {
         "A": "O PIB representa toda a riqueza acumulada por um país ao longo de sua história, incluindo bens produzidos em anos anteriores e ativos já existentes na economia.",
@@ -195,14 +280,14 @@
     },
     {
       "question_number": 17,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No contexto das mudanças climáticas, o conceito de injustiça climática refere-se à situação em que os impactos ambientais atingem de forma mais intensa as populações socialmente vulneráveis. Assinale a opção que exemplifica corretamente esse conceito.",
       "alternatives": {
         "A": "Uma pesquisa mostra que moradores de diferentes bairros apresentaram os mesmos índices de internação durante uma onda de calor.",
         "B": "Uma pessoa sofreu insolação durante uma onda de calor por não ter se hidratado adequadamente.",
         "C": "Um levantamento mostra que moradores de favelas, devido à pouca arborização e à infraestrutura precária, sofrem mais com ondas de calor e enchentes do que moradores de áreas mais favorecidas.",
         "D": "Uma prefeitura identifica ilhas de calor no centro da cidade e propõe arborização, tratando o fenômeno como problema de desenho urbano e ligado à questão do bem-estar.",
-        "E": "Um estudo associa o calor extremo ao aumento de mortalidade e recomenda a ampliação do atendimento hospitalar como principal resposta. Em maio de 2025, a Organização Mundial da Saúde (OMS) publicou um relatório sobre determinantes sociais da equidade em saúde. Esses determinantes sociais dizem respeito às condições sociais, econômicas e ambientais que influenciam a saúde das populações. Considerando essa relação, assinale a afirmativa correta. (A) A expansão da proteção social tende a ampliar as desigualdades em saúde ao reduzir os incentivos ao trabalho nas populações vulneráveis. (B) As desigualdades em saúde entre países refletem sobretudo diferenças nos sistemas de saúde, sendo superadas à medida que a cobertura é ampliada. (C) O crescimento econômico, ao elevar a renda média dos países, tende a reduzir automaticamente as desigualdades em saúde entre os grupos sociais. (D) As desigualdades em saúde decorrem principalmente de diferenças genéticas entre as populações, sendo os fatores sociais de influência secundária. (E) A desvantagem social está diretamente associada à piora dos indicadores de saúde, padrão observado tanto em países ricos quanto em países pobres."
+        "E": "Um estudo associa o calor extremo ao aumento de mortalidade e recomenda a ampliação do atendimento hospitalar como principal resposta."
       },
       "answer": "C",
       "annulled": false,
@@ -211,8 +296,25 @@
       "page_number": 6
     },
     {
+      "question_number": 18,
+      "discipline": "Atualidades",
+      "statement": "Em maio de 2025, a Organização Mundial da Saúde (OMS) publicou um relatório sobre determinantes sociais da equidade em saúde. Esses determinantes sociais dizem respeito às condições sociais, econômicas e ambientais que influenciam a saúde das populações. Considerando essa relação, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A expansão da proteção social tende a ampliar as desigualdades em saúde ao reduzir os incentivos ao trabalho nas populações vulneráveis.",
+        "B": "As desigualdades em saúde entre países refletem sobretudo diferenças nos sistemas de saúde, sendo superadas à medida que a cobertura é ampliada.",
+        "C": "O crescimento econômico, ao elevar a renda média dos países, tende a reduzir automaticamente as desigualdades em saúde entre os grupos sociais.",
+        "D": "As desigualdades em saúde decorrem principalmente de diferenças genéticas entre as populações, sendo os fatores sociais de influência secundária.",
+        "E": "A desvantagem social está diretamente associada à piora dos indicadores de saúde, padrão observado tanto em países ricos quanto em países pobres."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
       "question_number": 19,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A economia brasileira ocupa uma posição relevante no cenário mundial devido ao fato de combinar um grande mercado consumidor, a abundância de recursos naturais e uma forte participação no comércio internacional de commodities. Em 2025, o país seguiu como parceiro comercial importante para diferentes regiões do mundo. Com relação ao ano de 2025, assinale a opção correta.",
       "alternatives": {
         "A": "A Argentina se mantém como principal destino das exportações brasileiras, enquanto os automóveis lideram a pauta exportadora nacional.",
@@ -229,14 +331,14 @@
     },
     {
       "question_number": 20,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Um estudo sobre o financiamento do Sistema Único de Saúde (SUS) estimou que os gastos necessários para manter e ampliar os serviços de saúde pública deverão crescer, em média, 3,9% ao ano. No mesmo período, as regras fiscais federais limitam o crescimento das despesas públicas a 2,5% ao ano. Com base nessas informações, é correto afirmar que",
       "alternatives": {
         "A": "as regras fiscais federais permitem crescimento superior ao necessário para financiar o SUS.",
         "B": "as despesas públicas com saúde permanecerão abaixo dos limites fiscais previstos.",
         "C": "os custos necessários para manutenção do SUS tendem a diminuir gradualmente ao longo do tempo.",
         "D": "os gastos estimados para o SUS superam o limite fiscal, indicando pressão estrutural sobre seu financiamento.",
-        "E": "o financiamento da saúde pública deixará de enfrentar restrições orçamentárias. A dengue tem representado um importante desafio para a saúde pública do Estado do Rio de Janeiro, especialmente em períodos de temperaturas elevadas e maior volume de chuvas, condições que favorecem a proliferação do Aedes aegypti. Com relação às medidas a serem adotadas no enfrentamento da dengue, assinale a afirmativa correta. (A) A redução dos casos de dengue ocorre principalmente por isolamento dos pacientes, já que a transmissão se dá pelo contato direto entre pessoas. (B) O enfrentamento da dengue articula ações da Secretaria Estadual com os municípios, incluindo capacitação de agentes e implantação de centros de hidratação. (C) A vacina contra dengue é indicada para toda a população, independentemente da faixa etária, sendo a principal medida preventiva adotada pelo Estado. (D) O enfrentamento da dengue deve priorizar a assistência hospitalar, pois as ações ambientais têm efeito limitado durante períodos de maior transmissão. (E) A eliminação de criadouros nas residências tem impacto limitado, pois a maioria dos focos do Aedes aegypti se encontra em espaços públicos."
+        "E": "o financiamento da saúde pública deixará de enfrentar restrições orçamentárias."
       },
       "answer": "D",
       "annulled": false,
@@ -245,15 +347,15 @@
       "page_number": 6
     },
     {
-      "question_number": 22,
-      "discipline": null,
-      "statement": "Dados recentes do Instituto Brasileiro de Geografia e Estatística (IBGE) mostram que, nos últimos anos, a pobreza recuou expressivamente no Brasil, enquanto a desigualdade de renda permaneceu entre as mais elevadas do mundo. A pobreza diz respeito à insuficiência de renda para suprir necessidades básicas, enquanto a desigualdade se refere à forma como a renda se distribui relativamente entre os diferentes grupos sociais. Considerando a relação entre pobreza e desigualdade, assinale a afirmativa correta.",
+      "question_number": 21,
+      "discipline": "Atualidades",
+      "statement": "A dengue tem representado um importante desafio para a saúde pública do Estado do Rio de Janeiro, especialmente em períodos de temperaturas elevadas e maior volume de chuvas, condições que favorecem a proliferação do Aedes aegypti. Com relação às medidas a serem adotadas no enfrentamento da dengue, assinale a afirmativa correta.",
       "alternatives": {
-        "A": "A redução da pobreza leva à diminuição da desigualdade no médio prazo, pois o crescimento econômico beneficia progressivamente todos os grupos.",
-        "B": "A pobreza e a desigualdade são fenômenos distintos, que podem evoluir em direções diferentes dentro de uma mesma sociedade, como demonstra o caso brasileiro.",
-        "C": "A queda da pobreza indica que os rendimentos estão crescendo de forma mais equitativa entre os diferentes grupos sociais da população.",
-        "D": "A desigualdade de renda é consequência direta da pobreza, de modo que combater uma equivale a combater a outra no contexto brasileiro.",
-        "E": "A redução da pobreza é condição suficiente para a redução da desigualdade, desde que os programas sociais alcancem os mais vulneráveis da população. O município de Macaé é reconhecido como a capital brasileira do petróleo, tendo seu desenvolvimento econômico historicamente vinculado à exploração da Bacia de Campos e aos repasses de royalties. O problema apontado por especialistas é que os royalties dependem da exploração de um recurso natural não renovável e que está sujeito às oscilações do mercado internacional. Com relação a esse tema, assinale a afirmativa correta. (A) A Bacia de Campos assegura décadas de produção petrolífera, tornando a diversificação econômica uma preocupação desnecessária no planejamento municipal. (B) O processamento de gás natural substitui progressivamente o petróleo como base econômica do Município, assegurando receitas equivalentes aos royalties no futuro. (C) A dependência dos royalties expõe o Município a riscos fiscais de longo prazo, justificando investimentos em turismo, agronegócio e atração de novas indústrias. (D) O crescimento da produção do pré-sal tende a ampliar os repasses de royalties a Macaé, reduzindo a necessidade de se investir na diversificação econômica. (E) A diversificação econômica do Município já está consolidada, com pesca, pecuária e comércio compensando eventual redução dos repasses de royalties petrolíferos."
+        "A": "A redução dos casos de dengue ocorre principalmente por isolamento dos pacientes, já que a transmissão se dá pelo contato direto entre pessoas.",
+        "B": "O enfrentamento da dengue articula ações da Secretaria Estadual com os municípios, incluindo capacitação de agentes e implantação de centros de hidratação.",
+        "C": "A vacina contra dengue é indicada para toda a população, independentemente da faixa etária, sendo a principal medida preventiva adotada pelo Estado.",
+        "D": "O enfrentamento da dengue deve priorizar a assistência hospitalar, pois as ações ambientais têm efeito limitado durante períodos de maior transmissão.",
+        "E": "A eliminação de criadouros nas residências tem impacto limitado, pois a maioria dos focos do Aedes aegypti se encontra em espaços públicos."
       },
       "answer": "B",
       "annulled": false,
@@ -262,15 +364,49 @@
       "page_number": 7
     },
     {
+      "question_number": 22,
+      "discipline": "Atualidades",
+      "statement": "Dados recentes do Instituto Brasileiro de Geografia e Estatística (IBGE) mostram que, nos últimos anos, a pobreza recuou expressivamente no Brasil, enquanto a desigualdade de renda permaneceu entre as mais elevadas do mundo. A pobreza diz respeito à insuficiência de renda para suprir necessidades básicas, enquanto a desigualdade se refere à forma como a renda se distribui relativamente entre os diferentes grupos sociais. Considerando a relação entre pobreza e desigualdade, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A redução da pobreza leva à diminuição da desigualdade no médio prazo, pois o crescimento econômico beneficia progressivamente todos os grupos.",
+        "B": "A pobreza e a desigualdade são fenômenos distintos, que podem evoluir em direções diferentes dentro de uma mesma sociedade, como demonstra o caso brasileiro.",
+        "C": "A queda da pobreza indica que os rendimentos estão crescendo de forma mais equitativa entre os diferentes grupos sociais da população.",
+        "D": "A desigualdade de renda é consequência direta da pobreza, de modo que combater uma equivale a combater a outra no contexto brasileiro.",
+        "E": "A redução da pobreza é condição suficiente para a redução da desigualdade, desde que os programas sociais alcancem os mais vulneráveis da população."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 23,
+      "discipline": "Atualidades",
+      "statement": "O município de Macaé é reconhecido como a capital brasileira do petróleo, tendo seu desenvolvimento econômico historicamente vinculado à exploração da Bacia de Campos e aos repasses de royalties. O problema apontado por especialistas é que os royalties dependem da exploração de um recurso natural não renovável e que está sujeito às oscilações do mercado internacional. Com relação a esse tema, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A Bacia de Campos assegura décadas de produção petrolífera, tornando a diversificação econômica uma preocupação desnecessária no planejamento municipal.",
+        "B": "O processamento de gás natural substitui progressivamente o petróleo como base econômica do Município, assegurando receitas equivalentes aos royalties no futuro.",
+        "C": "A dependência dos royalties expõe o Município a riscos fiscais de longo prazo, justificando investimentos em turismo, agronegócio e atração de novas indústrias.",
+        "D": "O crescimento da produção do pré-sal tende a ampliar os repasses de royalties a Macaé, reduzindo a necessidade de se investir na diversificação econômica.",
+        "E": "A diversificação econômica do Município já está consolidada, com pesca, pecuária e comércio compensando eventual redução dos repasses de royalties petrolíferos."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
       "question_number": 24,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A saúde pública no Estado do Rio de Janeiro enfrenta desafios históricos e estruturais, destacados pela baixa cobertura da Atenção Primária à Saúde (APS), severas desigualdades regionais e sobrecarga na média e alta complexidade, agravadas por limitações no repasse de verbas federais. A respeito dos desafios da saúde pública no Estado do Rio de Janeiro, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A baixa cobertura da APS no Estado do Rio de Janeiro, contribui para a sobrecarga das emergências hospitalares, especialmente em áreas metropolitanas e na Baixada Fluminense. ( ) A concentração de leitos de UTI, especialistas e recursos de saúde na capital faz com que diversos municípios do interior dependam da regulação para acessar procedimentos de maior complexidade. ( ) O sistema estadual de regulação tem reduzido significativamente os tempos de espera para consultas especializadas, exames e cirurgias eletivas, eliminando grande parte das desigualdades de acesso entre as regiões. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
         "B": "V – F – F.",
         "C": "F – V – F.",
         "D": "F – F – V.",
-        "E": "V – F – V. A conquista de uma maior expectativa de vida para a sociedade altera a ocorrência populacional das Doenças Crônicas Não Transmissíveis (DCNTs). Com relação ao tema, analise os itens a seguir. I. O envelhecimento aumenta a ocorrência de DCNTs na população, dado que essas doenças são as principais causas de morte e incapacidade entre os idosos. II. O envelhecimento populacional reduz a prevalência de DCNTs, pois os idosos tendem a adotar hábitos de vida mais saudáveis do que os adultos jovens. III. O envelhecimento populacional, ao lado do sedentarismo e da obesidade, constitui um dos principais fatores para o aumento da ocorrência das DCNTs no Brasil. Está correto o que se afirma em (A) III, apenas. (B) I e II, apenas. (C) I e III, apenas. (D) II e III, apenas. (E) I, II e III. Políticas de Saúde"
+        "E": "V – F – V."
       },
       "answer": "A",
       "annulled": false,
@@ -279,8 +415,25 @@
       "page_number": 7
     },
     {
+      "question_number": 25,
+      "discipline": "Atualidades",
+      "statement": "A conquista de uma maior expectativa de vida para a sociedade altera a ocorrência populacional das Doenças Crônicas Não Transmissíveis (DCNTs). Com relação ao tema, analise os itens a seguir. I. O envelhecimento aumenta a ocorrência de DCNTs na população, dado que essas doenças são as principais causas de morte e incapacidade entre os idosos. II. O envelhecimento populacional reduz a prevalência de DCNTs, pois os idosos tendem a adotar hábitos de vida mais saudáveis do que os adultos jovens. III. O envelhecimento populacional, ao lado do sedentarismo e da obesidade, constitui um dos principais fatores para o aumento da ocorrência das DCNTs no Brasil. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III. Políticas de Saúde"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
       "question_number": 26,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No contexto da organização do Sistema Único de Saúde (SUS), o Ministério da Saúde promoveu a transferência da gestão de dois hospitais federais para a administração de um Município. Assinale a opção que indica o princípio a que essa medida está diretamente relacionada.",
       "alternatives": {
         "A": "Equidade.",
@@ -297,7 +450,7 @@
     },
     {
       "question_number": 27,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No Sistema Único de Saúde (SUS), a Atenção Secundária corresponde ao nível intermediário de cuidado, destinado a usuários que necessitam de intervenções clínicas mais específicas e direcionadas. Nesse sentido, assinale a opção que indica um serviço compatível com esse nível de atenção.",
       "alternatives": {
         "A": "Transplante.",
@@ -314,14 +467,31 @@
     },
     {
       "question_number": 28,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Um determinado Município elaborou um documento, com vigência de quatro anos, para a organização das ações e dos serviços de saúde. Ele definiu as diretrizes, os objetivos e as metas a serem atingidas e as articulações com o Plano Plurianual (PPA). O documento descrito corresponde",
       "alternatives": {
         "A": "ao Plano de Saúde.",
         "B": "ao Relatório Anual de Gestão.",
         "C": "à Programação Anual de Saúde.",
         "D": "à Pactuação Integrada de Saúde.",
-        "E": "ao Plano Diretor de Regionalização. Com base nas disposições sobre o acompanhamento à mulher nos serviços de saúde, previstas na Lei nº 8.080/1990, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Toda mulher tem o direito de ser acompanhada por pessoa maior de idade durante a realização de consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deve ser feita por escrito, após o esclarecimento dos seus direitos, com, no mínimo, 24 horas de antecedência. ( ) No caso de atendimento realizado em centro cirúrgico ou unidade de terapia intensiva, somente será admitido acompanhante que seja profissional de saúde. As afirmativas são, respectivamente, (A) V – V – F. (B) F – F – F. (C) V – F – V. (D) F – V – F. (E) V – V – V."
+        "E": "ao Plano Diretor de Regionalização."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 29,
+      "discipline": "Atualidades",
+      "statement": "Com base nas disposições sobre o acompanhamento à mulher nos serviços de saúde, previstas na Lei nº 8.080/1990, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Toda mulher tem o direito de ser acompanhada por pessoa maior de idade durante a realização de consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deve ser feita por escrito, após o esclarecimento dos seus direitos, com, no mínimo, 24 horas de antecedência. ( ) No caso de atendimento realizado em centro cirúrgico ou unidade de terapia intensiva, somente será admitido acompanhante que seja profissional de saúde. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – F.",
+        "B": "F – F – F.",
+        "C": "V – F – V.",
+        "D": "F – V – F.",
+        "E": "V – V – V."
       },
       "answer": "A",
       "annulled": false,
@@ -331,7 +501,7 @@
     },
     {
       "question_number": 30,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Acerca dos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Em situações de transferências ou remoção para realização de exames externos, deve haver pactuação formal prévia entre os estabelecimentos envolvidos.",
@@ -348,14 +518,14 @@
     },
     {
       "question_number": 31,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Durante a assistência a um paciente adulto, internado na clínica médica de um hospital, o profissional de saúde cometeu um erro que ocasionou a incapacidade motora do paciente. De acordo com as disposições do Ministério da Saúde, essa situação caracteriza a ocorrência de",
       "alternatives": {
         "A": "Near miss.",
         "B": "Evento adverso.",
         "C": "Evento sentinela.",
         "D": "Quase incidente.",
-        "E": "Incidente controlado. Uma equipe de gestores de uma empresa pública de saúde criou um grupo de trabalho para discutir a implementação efetiva dos princípios e diretrizes da Política Nacional de Humanização (PNH). Um dos pontos discutidos foi a necessidade de integração entre gestores, trabalhadores e usuários para a tomada de decisão. Assinale a opção que indica o pilar da PNH relacionado a esse ponto. (A) Ambiência. (B) Transversalidade. (C) Clínica ampliada. (D) Gestão compartilhada. (E) Valorização do trabalhador."
+        "E": "Incidente controlado."
       },
       "answer": "B",
       "annulled": false,
@@ -364,8 +534,25 @@
       "page_number": 8
     },
     {
+      "question_number": 32,
+      "discipline": "Atualidades",
+      "statement": "Uma equipe de gestores de uma empresa pública de saúde criou um grupo de trabalho para discutir a implementação efetiva dos princípios e diretrizes da Política Nacional de Humanização (PNH). Um dos pontos discutidos foi a necessidade de integração entre gestores, trabalhadores e usuários para a tomada de decisão. Assinale a opção que indica o pilar da PNH relacionado a esse ponto.",
+      "alternatives": {
+        "A": "Ambiência.",
+        "B": "Transversalidade.",
+        "C": "Clínica ampliada.",
+        "D": "Gestão compartilhada.",
+        "E": "Valorização do trabalhador."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
       "question_number": 33,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Com base na Lei Orgânica da Saúde, assinale a opção que corresponde a uma competência da direção municipal do Sistema Único de Saúde.",
       "alternatives": {
         "A": "Coordenar os serviços de vigilância epidemiológica.",
@@ -382,14 +569,14 @@
     },
     {
       "question_number": 34,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Com base nas disposições legais acerca dos direitos e deveres dos usuários do Sistema Único de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O usuário tem direito a receber informações claras, completas e compreensíveis sobre seu estado de saúde, incluindo diagnóstico, prognóstico e alternativas de tratamento disponíveis. ( ) É dever do usuário colaborar com as equipes de saúde, fornecendo informações verdadeiras sobre seu estado de saúde e histórico, contribuindo para a qualidade do cuidado prestado. ( ) Deve ser garantido ao usuário o sigilo de suas informações de saúde, podendo o serviço compartilhá-las com familiares ou terceiros somente em caso de vínculo afetivo ou interesse no cuidado. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – V.",
         "B": "V – F – V.",
         "C": "F – F – V.",
         "D": "V – V – F.",
-        "E": "F – V – F. Com base nas diretrizes para instituição, reformulação, reestruturação e funcionamento dos Conselhos de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em cada esfera de Governo. ( ) A representação dos usuários nos Conselhos de Saúde deve ser paritária em relação ao conjunto dos demais segmentos representados. ( ) Os Conselhos de Saúde devem ser compostos por 50% de entidades e movimentos representativos de usuários e 50% de entidades representativas dos trabalhadores da área de saúde. As afirmativas são, respectivamente, (A) V – F – V. (B) F – F – F. (C) V – V – F. (D) F – V – F. (E) V – V – V. Normas Municipais"
+        "E": "F – V – F."
       },
       "answer": "D",
       "annulled": false,
@@ -398,15 +585,15 @@
       "page_number": 9
     },
     {
-      "question_number": 36,
-      "discipline": null,
-      "statement": "Dionísio, profissional da área de saúde, deseja atuar como membro do Conselho de Saúde do Município de Macaé, razão pela qual passou a analisar as normas constantes da Lei nº 3.233/2009 acerca da composição do mencionado Conselho. Com base na referida Lei, assinale a opção que indica a correta conclusão a que Dionísio chegou.",
+      "question_number": 35,
+      "discipline": "Atualidades",
+      "statement": "Com base nas diretrizes para instituição, reformulação, reestruturação e funcionamento dos Conselhos de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O Conselho de Saúde é uma instância colegiada, deliberativa e permanente do Sistema Único de Saúde (SUS) em cada esfera de Governo. ( ) A representação dos usuários nos Conselhos de Saúde deve ser paritária em relação ao conjunto dos demais segmentos representados. ( ) Os Conselhos de Saúde devem ser compostos por 50% de entidades e movimentos representativos de usuários e 50% de entidades representativas dos trabalhadores da área de saúde. As afirmativas são, respectivamente,",
       "alternatives": {
-        "A": "O Secretário de Saúde é membro nato do Conselho de Saúde do Município de Macaé, de modo que, necessariamente, participa da eleição da Mesa Diretora.",
-        "B": "O mandato inicial dos membros do Conselho de Saúde do Município de Macaé é de 4 (quatro) anos, coincidente com o de Prefeito, admitindo-se a recondução por igual período.",
-        "C": "Os membros do Conselho de Saúde do Município de Macaé terão o seu mandato extinto, caso faltem, sem prévia justificação, a três reuniões consecutivas ou cinco intercaladas em um período de 12 (doze) meses.",
-        "D": "O exercício do mandato de membro do Conselho Municipal de Saúde do Município de Macaé será remunerado, de modo que há necessidade de compatibilidade de horário com o exercício da atividade de profissional da área de saúde.",
-        "E": "Os membros do Conselho de Saúde do Município de Macaé serão indicados por seus respectivos segmentos, mas serão substituídos por outro segmento, na medida em que não há previsão de suplente para cada entidade participante. Acerca da participação de instituições privadas nas ações de saúde desenvolvidas pelo Município de Macaé, à luz dos dispositivos da respectiva Lei Orgânica relativos à saúde, assinale a afirmativa correta. (A) A participação de instituições privadas, tenham ou não fins lucrativos, nas ações de saúde desenvolvidas pelo Município de Macaé, é absolutamente vedada, seja de forma primária ou de forma suplementar. (B) As instituições privadas, preferencialmente as entidades filantrópicas e as sem fins lucrativos, poderão participar de forma suplementar das ações de saúde desenvolvidas pelo Município de Macaé, mediante convênio ou contrato. (C) Apenas instituições privadas filantrópicas e sem fins lucrativos poderão participar das ações de saúde desenvolvidas pelo Município de Macaé, as quais devem ser realizadas de forma complementar, por meio de contrato administrativo, sempre por meio de licitação. (D) As instituições privadas, independentemente de serem filantrópicas e sem fins lucrativos, poderão participar primariamente das ações de saúde do Município de Macaé, desde que formalizado o devido contrato administrativo, que não precisa ser precedido de licitação. (E) A participação de instituições privadas que tenham fins lucrativos nas ações de saúde desenvolvidas pelo Município de Macaé não é admitida, de modo que está proibida a formalização de convênios ou contratos com tais instituições em qualquer hipótese, incluindo situações de caso fortuito."
+        "A": "V – F – V.",
+        "B": "F – F – F.",
+        "C": "V – V – F.",
+        "D": "F – V – F.",
+        "E": "V – V – V. Normas Municipais"
       },
       "answer": "C",
       "annulled": false,
@@ -415,8 +602,42 @@
       "page_number": 9
     },
     {
+      "question_number": 36,
+      "discipline": "Atualidades",
+      "statement": "Dionísio, profissional da área de saúde, deseja atuar como membro do Conselho de Saúde do Município de Macaé, razão pela qual passou a analisar as normas constantes da Lei nº 3.233/2009 acerca da composição do mencionado Conselho. Com base na referida Lei, assinale a opção que indica a correta conclusão a que Dionísio chegou.",
+      "alternatives": {
+        "A": "O Secretário de Saúde é membro nato do Conselho de Saúde do Município de Macaé, de modo que, necessariamente, participa da eleição da Mesa Diretora.",
+        "B": "O mandato inicial dos membros do Conselho de Saúde do Município de Macaé é de 4 (quatro) anos, coincidente com o de Prefeito, admitindo-se a recondução por igual período.",
+        "C": "Os membros do Conselho de Saúde do Município de Macaé terão o seu mandato extinto, caso faltem, sem prévia justificação, a três reuniões consecutivas ou cinco intercaladas em um período de 12 (doze) meses.",
+        "D": "O exercício do mandato de membro do Conselho Municipal de Saúde do Município de Macaé será remunerado, de modo que há necessidade de compatibilidade de horário com o exercício da atividade de profissional da área de saúde.",
+        "E": "Os membros do Conselho de Saúde do Município de Macaé serão indicados por seus respectivos segmentos, mas serão substituídos por outro segmento, na medida em que não há previsão de suplente para cada entidade participante."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 37,
+      "discipline": "Atualidades",
+      "statement": "Acerca da participação de instituições privadas nas ações de saúde desenvolvidas pelo Município de Macaé, à luz dos dispositivos da respectiva Lei Orgânica relativos à saúde, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "A participação de instituições privadas, tenham ou não fins lucrativos, nas ações de saúde desenvolvidas pelo Município de Macaé, é absolutamente vedada, seja de forma primária ou de forma suplementar.",
+        "B": "As instituições privadas, preferencialmente as entidades filantrópicas e as sem fins lucrativos, poderão participar de forma suplementar das ações de saúde desenvolvidas pelo Município de Macaé, mediante convênio ou contrato.",
+        "C": "Apenas instituições privadas filantrópicas e sem fins lucrativos poderão participar das ações de saúde desenvolvidas pelo Município de Macaé, as quais devem ser realizadas de forma complementar, por meio de contrato administrativo, sempre por meio de licitação.",
+        "D": "As instituições privadas, independentemente de serem filantrópicas e sem fins lucrativos, poderão participar primariamente das ações de saúde do Município de Macaé, desde que formalizado o devido contrato administrativo, que não precisa ser precedido de licitação.",
+        "E": "A participação de instituições privadas que tenham fins lucrativos nas ações de saúde desenvolvidas pelo Município de Macaé não é admitida, de modo que está proibida a formalização de convênios ou contratos com tais instituições em qualquer hipótese, incluindo situações de caso fortuito."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
       "question_number": 38,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Patrícia, servidora estável do Município de Macaé, após anos de exercício regular, pela primeira vez, cometeu uma falta funcional, de modo que está preocupada com a aplicação da penalidade de demissão, após o devido processo administrativo disciplinar, razão pela qual passou a analisar quais condutas poderiam ensejar a referida penalidade, nos termos do Regime Jurídico dos Servidores Municipais (Lei Complementar nº 011/1998 e suas alterações). Assinale a opção que indica a conduta que, sem reincidência, poderia ensejar a penalidade de demissão.",
       "alternatives": {
         "A": "Proceder de forma escandalosa na repartição e manter uma conduta de incontinência pública.",
@@ -433,14 +654,14 @@
     },
     {
       "question_number": 39,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A Lei Complementar nº 346/2025 dispõe sobre a reestruturação na Administração Pública do Município de Macaé. As normas constantes da Seção XIII delineiam os aspectos atinentes à Secretaria Municipal de Saúde. À luz da mencionada disposição legal, é correto afirmar que o Serviço Municipal de Hemoterapia está vinculado à",
       "alternatives": {
         "A": "Coordenadoria Especial de Odontologia.",
         "B": "Secretaria Executiva de Atenção Básica.",
         "C": "Coordenadoria Especial de Vigilância Sanitária.",
         "D": "Secretaria Executiva de Alta e Média Complexidade.",
-        "E": "Coordenadoria Especial de Vigilância Ambiental em Saúde. Marcela, servidora estável, ocupante do cargo de médica do Município de Macaé, exerce atribuições perante a Junta Médica do Município. No exercício de sua atividade profissional foi questionada sobre as peculiaridades da licença para tratamento de saúde, na forma do Regime Jurídico dos Servidores Municipais (Lei Complementar nº 11/98 e suas alterações). Conforme o mencionado Diploma Legal, assinale a opção que indica, corretamente, a resposta dada por Marcela. (A) A remuneração dos servidores municipais estáveis em licença para tratamento de saúde será integralmente suportada pela Prefeitura do Município de Macaé, sem que haja necessidade de levar em conta o prazo deferido para tal finalidade. (B) O servidor não poderá permanecer em licença para tratamento de saúde por prazo superior a 12 (doze) meses, salvo em casos considerados recuperáveis, nos quais, a critério da Junta Médica, tal benefício poderá ser excepcionalmente prorrogado pelo prazo de até 6 (seis) meses. (C) A licença para tratamento de saúde poderá cessar antes do final do prazo conferido, a requerimento do servidor que, julgando-se apto para o exercício das atividades, reassumirá o cargo imediatamente, independentemente da realização de inspeção médica, que não é exigida para tal fim. (D) O servidor licenciado para tratamento de saúde, se exercer, durante o período de licença, quaisquer atividades profissionais remuneradas, terá como interrompida a licença, com perda total da remuneração, a partir da data em que for verificada essa prática, até que reassuma o exercício do cargo. (E) O servidor que se encontrar em outro Município ou Estado da Federação não poderá realizar a inspeção médica para fins de licença para tratamento de saúde pelo respectivo médico oficial, devendo se locomover até a Junta Médica do Município de Macaé para tanto ou solicitar a efetivação à distância."
+        "E": "Coordenadoria Especial de Vigilância Ambiental em Saúde."
       },
       "answer": "B",
       "annulled": false,
@@ -449,8 +670,25 @@
       "page_number": 10
     },
     {
+      "question_number": 40,
+      "discipline": "Atualidades",
+      "statement": "Marcela, servidora estável, ocupante do cargo de médica do Município de Macaé, exerce atribuições perante a Junta Médica do Município. No exercício de sua atividade profissional foi questionada sobre as peculiaridades da licença para tratamento de saúde, na forma do Regime Jurídico dos Servidores Municipais (Lei Complementar nº 11/98 e suas alterações). Conforme o mencionado Diploma Legal, assinale a opção que indica, corretamente, a resposta dada por Marcela.",
+      "alternatives": {
+        "A": "A remuneração dos servidores municipais estáveis em licença para tratamento de saúde será integralmente suportada pela Prefeitura do Município de Macaé, sem que haja necessidade de levar em conta o prazo deferido para tal finalidade.",
+        "B": "O servidor não poderá permanecer em licença para tratamento de saúde por prazo superior a 12 (doze) meses, salvo em casos considerados recuperáveis, nos quais, a critério da Junta Médica, tal benefício poderá ser excepcionalmente prorrogado pelo prazo de até 6 (seis) meses.",
+        "C": "A licença para tratamento de saúde poderá cessar antes do final do prazo conferido, a requerimento do servidor que, julgando-se apto para o exercício das atividades, reassumirá o cargo imediatamente, independentemente da realização de inspeção médica, que não é exigida para tal fim.",
+        "D": "O servidor licenciado para tratamento de saúde, se exercer, durante o período de licença, quaisquer atividades profissionais remuneradas, terá como interrompida a licença, com perda total da remuneração, a partir da data em que for verificada essa prática, até que reassuma o exercício do cargo.",
+        "E": "O servidor que se encontrar em outro Município ou Estado da Federação não poderá realizar a inspeção médica para fins de licença para tratamento de saúde pelo respectivo médico oficial, devendo se locomover até a Junta Médica do Município de Macaé para tanto ou solicitar a efetivação à distância. Conhecimentos Específicos Clínica Geral"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
       "question_number": 41,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Com relação à evolução da pressão arterial sistêmica nas sociedades industrializadas, assinale a opção que indica o fenômeno hemodinâmico que é característico em indivíduos com idade superior a 60 anos.",
       "alternatives": {
         "A": "Não há alterações no padrão de pressão arterial em pacientes de idade superior a 60 anos.",
@@ -467,7 +705,7 @@
     },
     {
       "question_number": 42,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "As úlceras duodenais, na maioria dos casos, ocorrem",
       "alternatives": {
         "A": "igualmente por todo o duodeno.",
@@ -484,7 +722,7 @@
     },
     {
       "question_number": 43,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que apresenta a interpretação clínica correta de um paciente com Anti-HBs positivo isoladamente, na ausência de Anti-HBc e HBsAg.",
       "alternatives": {
         "A": "Infecção ativa pelo vírus HBs.",
@@ -501,14 +739,14 @@
     },
     {
       "question_number": 44,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No que diz respeito às recomendações de atividade física para adultos (18 a 64 anos) visando à promoção da saúde e longevidade, assinale a opção que indica a orientação correta.",
       "alternatives": {
         "A": "Focar apenas em exercícios aeróbicos, uma vez que o treinamento de força é indicado apenas para idosos com o objetivo de prevenir sarcopenia.",
         "B": "Praticar exclusivamente atividades de alta intensidade por 30 minutos diários, visto que atividades leves não trazem benefícios marginais para a saúde cardiovascular.",
         "C": "Substituir qualquer atividade moderada por treinos de resistência extrema, como maratonas, que comprovadamente zeram o risco de morte súbita cardíaca.",
         "D": "Realizar exercícios de baixo impacto exclusivamente, tais como caminhadas, pois exercícios mais vigorosos geram lesões osteomusculares além de não ocasionarem benefícios à saúde.",
-        "E": "Realizar pelo menos 150 minutos de atividade aeróbica de intensidade moderada por semana, preferencialmente espalhados pelos dias, somados a exercícios de fortalecimento muscular em 2 ou mais dias. Em relação ao manejo de uma encefalopatia hipertensiva, assinale a opção que indica, corretamente, a estratégia de redução da pressão arterial para evitar isquemia cerebral iatrogênica. (A) Reduzir a pressão arterial média em, no máximo, 25% nas primeiras horas, ou atingir uma faixa de 160/100–110 mmHg. (B) Reduzir a pressão arterial sistólica para níveis normais (< 120 mmHg) nos primeiros 15 minutos utilizando nifedipina sublingual. (C) Não procurar corrigir a hipertensão porque uma encefalopatia hipertensiva é sempre secundária a processos cerebrais. (D) Usar apenas agentes orais de longa ação, como o atenolol, para evitar quedas bruscas que ocorrem com medicações parenterais. (E) Manter a pressão arterial elevada (acima de 220/120 mmHg) por pelo menos 48 horas para garantir a perfusão tecidual."
+        "E": "Realizar pelo menos 150 minutos de atividade aeróbica de intensidade moderada por semana, preferencialmente espalhados pelos dias, somados a exercícios de fortalecimento muscular em 2 ou mais dias."
       },
       "answer": "E",
       "annulled": false,
@@ -517,8 +755,25 @@
       "page_number": 11
     },
     {
+      "question_number": 45,
+      "discipline": "Atualidades",
+      "statement": "Em relação ao manejo de uma encefalopatia hipertensiva, assinale a opção que indica, corretamente, a estratégia de redução da pressão arterial para evitar isquemia cerebral iatrogênica.",
+      "alternatives": {
+        "A": "Reduzir a pressão arterial média em, no máximo, 25% nas primeiras horas, ou atingir uma faixa de 160/100–110 mmHg.",
+        "B": "Reduzir a pressão arterial sistólica para níveis normais (< 120 mmHg) nos primeiros 15 minutos utilizando nifedipina sublingual.",
+        "C": "Não procurar corrigir a hipertensão porque uma encefalopatia hipertensiva é sempre secundária a processos cerebrais.",
+        "D": "Usar apenas agentes orais de longa ação, como o atenolol, para evitar quedas bruscas que ocorrem com medicações parenterais.",
+        "E": "Manter a pressão arterial elevada (acima de 220/120 mmHg) por pelo menos 48 horas para garantir a perfusão tecidual."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11
+    },
+    {
       "question_number": 46,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A hiperinsuflação pulmonar é uma adaptação fisiopatológica na doença pulmonar obstrutiva crônica para preservar o fluxo expiratório máximo. No entanto, ela gera desvantagens mecânicas significativas para o diafragma. Assinale a opção que apresenta, corretamente, um desses efeitos adversos.",
       "alternatives": {
         "A": "A elevação da cúpula diafragmática causa uma compressão mecânica que resulta em menor força muscular.",
@@ -535,14 +790,14 @@
     },
     {
       "question_number": 47,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que indica o teste laboratorial mais importante para a avaliação da gravidade da necrose hepatocelular e do prognóstico na hepatite viral aguda.",
       "alternatives": {
         "A": "Nível absoluto de Alanina Aminotransferase.",
         "B": "Título de anticorpos anti-músculo liso.",
         "C": "Concentração de Fosfatase Alcalina.",
         "D": "Tempo de Protrombina.",
-        "E": "Título sérico de HBsAg. Alterações eletrolíticas podem ser fatais e detectadas precocemente no ECG. Assinale a opção que indica a sequência de alterações esperada na hipercalemia grave. (A) Inicia com alargamento de QRS, seguido de distúrbios de repolarização, inversão de ondas T seguido de fibrilação ventricular. (B) Inicia com o prolongamento do intervalo PR e o surgimento de ondas Delta, progredindo para taquicardia supraventricular persistente. (C) Inicia com encurtamento do intervalo QT e ondas U proeminentes, evoluindo para infradesnivelamento generalizado do segmento ST. (D) Inicia com inversão profunda de ondas T em derivações precordiais (V1-V4), evoluindo para supradesnivelamento ST simulando um infarto anterior. (E) Inicia com ondas T altas e pontiagudas (em tenda), seguido por distúrbios de condução AV, perda da onda P, alargamento do QRS e padrão sinusoidal."
+        "E": "Título sérico de HBsAg."
       },
       "answer": "D",
       "annulled": false,
@@ -551,8 +806,25 @@
       "page_number": 11
     },
     {
+      "question_number": 48,
+      "discipline": "Atualidades",
+      "statement": "Alterações eletrolíticas podem ser fatais e detectadas precocemente no ECG. Assinale a opção que indica a sequência de alterações esperada na hipercalemia grave.",
+      "alternatives": {
+        "A": "Inicia com alargamento de QRS, seguido de distúrbios de repolarização, inversão de ondas T seguido de fibrilação ventricular.",
+        "B": "Inicia com o prolongamento do intervalo PR e o surgimento de ondas Delta, progredindo para taquicardia supraventricular persistente.",
+        "C": "Inicia com encurtamento do intervalo QT e ondas U proeminentes, evoluindo para infradesnivelamento generalizado do segmento ST.",
+        "D": "Inicia com inversão profunda de ondas T em derivações precordiais (V1-V4), evoluindo para supradesnivelamento ST simulando um infarto anterior.",
+        "E": "Inicia com ondas T altas e pontiagudas (em tenda), seguido por distúrbios de condução AV, perda da onda P, alargamento do QRS e padrão sinusoidal."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12
+    },
+    {
       "question_number": 49,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Um paciente de 55 anos, sem antecedentes de doenças cardiovasculares, apresenta níveis pressóricos de 150/95 mmHg em consultas repetidas. De acordo com as estratégias de prevenção e cuidados gerais com o paciente em medicina interna, o início do tratamento anti- hipertensivo para este paciente é classificado como prevenção",
       "alternatives": {
         "A": "primordial, uma vez que o foco é evitar que o paciente desenvolva outros fatores de risco no futuro.",
@@ -569,14 +841,14 @@
     },
     {
       "question_number": 50,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A Doença de Parkinson é definida clinicamente por uma síndrome parkinsoniana. Assinale a opção que apresenta as características cardinais da Doença de Parkinson associadas a uma acurácia diagnóstica superior a 90% na presença de assimetria motora e boa resposta à levodopa.",
       "alternatives": {
         "A": "Tremor de repouso, rigidez e bradicinesia.",
         "B": "Coreia, demência de evolução crônica e ataxia.",
         "C": "Tremor essencial familiar, nistagmo e ataxia cerebelar.",
         "D": "Coreia, distonia focal e crises convulsivas generalizadas.",
-        "E": "Instabilidade postural precoce, quedas frequentes e demência no primeiro ano."
+        "E": "Instabilidade postural precoce, quedas frequentes e demência no primeiro ano. Médico I – Patologista"
       },
       "answer": "A",
       "annulled": false,
@@ -586,7 +858,7 @@
     },
     {
       "question_number": 51,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que apresenta o fator que, morfologicamente, diferencia a apoptose da necrose.",
       "alternatives": {
         "A": "A ausência de gasto de ATP.",
@@ -603,7 +875,7 @@
     },
     {
       "question_number": 52,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que indica os mediadores sistêmicos que induzem a síntese de proteínas de fase aguda da inflamação no fígado.",
       "alternatives": {
         "A": "Histamina e Serotonina.",
@@ -620,7 +892,7 @@
     },
     {
       "question_number": 53,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O aspecto macroscópico de fígado “em noz-moscada' é característico do seguinte processo patológico:",
       "alternatives": {
         "A": "Cirrose hepática.",
@@ -637,7 +909,7 @@
     },
     {
       "question_number": 54,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que indica, no processo de reparo tecidual, a principal diferença entre regeneração e cicatrização.",
       "alternatives": {
         "A": "Não há diferença entre regeneração e cicatrização.",
@@ -654,7 +926,7 @@
     },
     {
       "question_number": 55,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "O depósito amiloide do tipo AA é comumente associado",
       "alternatives": {
         "A": "ao Diabetes Mellitus tipo 2, no pâncreas.",
@@ -671,14 +943,14 @@
     },
     {
       "question_number": 56,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a opção que indica a principal característica clínica de um infarto lacunar no cérebro.",
       "alternatives": {
         "A": "Hemorragia subaracnóidea massiva.",
         "B": "Presença de extensa necrose caseosa.",
         "C": "Inflamação generalizada das meninges.",
         "D": "Formação de placas de aterosclerose nas carótidas.",
-        "E": "Pequenas áreas de necrose liquefativa em vasos perfurantes profundos. Assinale a opção que indica a principal consequência funcional da formação de uma cicatriz no miocárdio, após um infarto. (A) A recuperação total da área afetada. (B) O aumento da condução elétrica cardíaca. (C) A dissolução espontânea da cicatriz após 6 meses. (D) A perda definitiva da capacidade contrátil naquela área. (E) A regeneração completa das fibras nervosas autonômicas."
+        "E": "Pequenas áreas de necrose liquefativa em vasos perfurantes profundos."
       },
       "answer": "E",
       "annulled": false,
@@ -687,8 +959,25 @@
       "page_number": 12
     },
     {
+      "question_number": 57,
+      "discipline": "Atualidades",
+      "statement": "Assinale a opção que indica a principal consequência funcional da formação de uma cicatriz no miocárdio, após um infarto.",
+      "alternatives": {
+        "A": "A recuperação total da área afetada.",
+        "B": "O aumento da condução elétrica cardíaca.",
+        "C": "A dissolução espontânea da cicatriz após 6 meses.",
+        "D": "A perda definitiva da capacidade contrátil naquela área.",
+        "E": "A regeneração completa das fibras nervosas autonômicas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
       "question_number": 58,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Assinale a característica do estroma tumoral maligno que o diferencia do estroma de um tumor benigno.",
       "alternatives": {
         "A": "A ausência total de células inflamatórias.",
@@ -705,7 +994,7 @@
     },
     {
       "question_number": 59,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A caquexia neoplásica é caracterizada pela perda severa de gordura e massa muscular, mediada, principalmente, por",
       "alternatives": {
         "A": "incapacidade física de ingestão de alimentos.",
@@ -722,7 +1011,7 @@
     },
     {
       "question_number": 60,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "A opção que apresenta a via de disseminação metastática mais comum para os carcinomas é a via",
       "alternatives": {
         "A": "linfática.",
@@ -739,14 +1028,14 @@
     },
     {
       "question_number": 61,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No que se refere ao diagnóstico anatomopatológico e à patologia molecular do adenocarcinoma pulmonar, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O marcador imuno histoquímico TTF-1 (thyroid transcription factor-1) é frequentemente utilizado no diagnóstico, apresentando positividade nuclear que auxilia na identificação da origem pulmonar do tumor.",
         "B": "A pesquisa de mutações no gene EGFR é considerada opcional, visto que a detecção dessas alterações não influencia a escolha de terapias-alvo ou o prognóstico do paciente.",
         "C": "Rearranjos no gene ALK são achados diagnósticos exclusivos de carcinomas espinocelulares (células escamosas) e não possuem relevância no manejo de adenocarcinomas.",
         "D": "A biópsia líquida é um método ineficaz para o câncer de pulmão, uma vez que o DNA tumoral circulante (ctDNA) só é liberado na corrente sanguínea em neoplasias do trato gastrointestinal.",
-        "E": "Diferente do câncer de mama, o adenocarcinoma pulmonar caracteriza-se por uma tumorigênese lenta, permitindo que o tumor permaneça localizado por décadas antes de colonizar sítios distantes. No que se refere à dermatose bolhosa por IgA, assinale a opção que indica, respectivamente, a característica morfológica e o achado de imunofluorescência esperados. (A) Formação de pústulas epidérmicas e depósitos de imunoglobulina em padrão granular. (B) Presença de bolhas intraepidérmicas e depósitos de imunoglobulina associados a mastócitos. (C) Formação de bolha subepidérmica e a imunofluorescência com depósitos de imunoglobulina em padrão linear na região dermoepidérmica. (D) Degeneração hidrópica de ceratinócitos e ausência total de depósitos de imunoglobulinas. (E) Formação de granulomas Th2 ao redor de cristais de colesterol na derme profunda."
+        "E": "Diferente do câncer de mama, o adenocarcinoma pulmonar caracteriza-se por uma tumorigênese lenta, permitindo que o tumor permaneça localizado por décadas antes de colonizar sítios distantes."
       },
       "answer": "A",
       "annulled": false,
@@ -755,8 +1044,25 @@
       "page_number": 13
     },
     {
+      "question_number": 62,
+      "discipline": "Atualidades",
+      "statement": "No que se refere à dermatose bolhosa por IgA, assinale a opção que indica, respectivamente, a característica morfológica e o achado de imunofluorescência esperados.",
+      "alternatives": {
+        "A": "Formação de pústulas epidérmicas e depósitos de imunoglobulina em padrão granular.",
+        "B": "Presença de bolhas intraepidérmicas e depósitos de imunoglobulina associados a mastócitos.",
+        "C": "Formação de bolha subepidérmica e a imunofluorescência com depósitos de imunoglobulina em padrão linear na região dermoepidérmica.",
+        "D": "Degeneração hidrópica de ceratinócitos e ausência total de depósitos de imunoglobulinas.",
+        "E": "Formação de granulomas Th2 ao redor de cristais de colesterol na derme profunda."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13
+    },
+    {
       "question_number": 63,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "No que se refere aos aspectos histopatológicos e à patogênese da hanseníase na pele, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A hanseníase virchowiana caracteriza-se pela formação de granulomas epitelioides bem constituídos, circundados por um halo denso de linfócitos.",
@@ -773,14 +1079,14 @@
     },
     {
       "question_number": 64,
-      "discipline": null,
+      "discipline": "Atualidades",
       "statement": "Referente aos aspectos genéticos e moleculares dos Linfomas não Hodgkin, assinale a opção que indica a associação correta.",
       "alternatives": {
         "A": "Linfoma de Burkitt: caracteriza-se pela translocação t(8;14), que aproxima o proto-oncogene MYC de um promotor de genes para imunoglobulinas.",
         "B": "Linfoma Folicular: sua principal alteração é a translocação t(9;22), que gera o gene de fusão BCR-ABL5.",
         "C": "Linfoma de Células do Manto: envolve a hiperexpressão do gene BCL-2 devido à translocação t(14;18).",
-        "D": "Linfoma de Burkitt: a ativação do gene MYC ocorre exclusivamente por deleção do braço curto do cromossomo 84.",
-        "E": "Linfoma Folicular: caracteriza-se por um ritmo de crescimento acelerado devido à ausência total de proteínas antiapoptóticas. Sobre o Linfoma de Hodgkin e sua relação com o vírus Epstein-Barr (EBV), assinale a afirmativa correta. (A) O EBV não possui relação epidemiológica ou patogênica com o surgimento do Linfoma de Hodgkin. (B) As células de Reed-Sternberg, típicas dessa neoplasia, originam-se obrigatoriamente de linfócitos T auxiliares Th1. (C) No Linfoma de Hodgkin, as células T neoplásicas apresentam características de células do centro germinativo com defeito na apoptose. (D) A detecção do EBV no Linfoma de Hodgkin é feita pela pesquisa do padrão de latência tipo III, o mesmo observado no linfoma de Burkitt. (E) No diagnóstico do Linfoma de Hodgkin associado ao EBV, a proteína viral LMP-1 é pesquisada por imunohistoquímica, caracterizando o padrão de latência II2."
+        "D": "Linfoma de Burkitt: a ativação do gene MYC ocorre",
+        "E": null
       },
       "answer": "A",
       "annulled": false,
@@ -789,8 +1095,25 @@
       "page_number": 13
     },
     {
+      "question_number": 65,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
+      "statement": "Sobre o Linfoma de Hodgkin e sua relação com o vírus Epstein-Barr (EBV), assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "O EBV não possui relação epidemiológica ou patogênica com o surgimento do Linfoma de Hodgkin.",
+        "B": "As células de Reed-Sternberg, típicas dessa neoplasia, originam-se obrigatoriamente de linfócitos T auxiliares Th1.",
+        "C": "No Linfoma de Hodgkin, as células T neoplásicas apresentam características de células do centro germinativo com defeito na apoptose.",
+        "D": "A detecção do EBV no Linfoma de Hodgkin é feita pela pesquisa do padrão de latência tipo III, o mesmo observado no linfoma de Burkitt.",
+        "E": "No diagnóstico do Linfoma de Hodgkin associado ao EBV, a proteína viral LMP-1 é pesquisada por imunohistoquímica, caracterizando o padrão de latência II2."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
       "question_number": 66,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "No que se refere à patologia gástrica e à infecção pelo Helicobacter pylori, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A gastrite crônica pelo Helicobacter pylori reduz o risco de desenvolvimento de linfomas gástricos do tipo MALT.",
@@ -807,7 +1130,7 @@
     },
     {
       "question_number": 67,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "Sobre os pólipos e adenomas do intestino grosso, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Todos os pólipos não neoplásicos do cólon possuem potencial de transformação maligna em curto prazo.",
@@ -824,14 +1147,14 @@
     },
     {
       "question_number": 68,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "Sobre as doenças inflamatórias intestinais (DII), assinale a afirmativa correta.",
       "alternatives": {
         "A": "A colite ulcerativa caracteriza-se por inflamação transmural e presença frequente de granulomas não caseosos.",
         "B": "A doença de Crohn atinge preferencialmente a mucosa e submucosa de forma contínua, iniciando-se sempre pelo reto.",
         "C": "A doença de Crohn pode atingir qualquer segmento do trato gastrointestinal e, frequentemente, apresenta inflamação transmural e tendência a formar fístulas.",
         "D": "O risco de adenocarcinoma colorretal é inexistente em pacientes com colite ulcerativa crônica de longa data.",
-        "E": "A amiloidose secundária (tipo AA) é uma complicação impossível de ocorrer em pacientes com DII. As proteínas oncogênicas E6 e E7 do HPV, relacionadas ao carcinoma de colo uterino, atuam, respectivamente, inativando as seguintes proteínas supressoras de tumor do hospedeiro: (A) PSA e CEA. (B) p53 e pRB. (C) HER2 e EGFR. (D) BRCA1 e BRCA2. (E) APC e Beta-catenina."
+        "E": "A amiloidose secundária (tipo AA) é uma complicação impossível de ocorrer em pacientes com DII."
       },
       "answer": "C",
       "annulled": false,
@@ -840,8 +1163,25 @@
       "page_number": 14
     },
     {
+      "question_number": 69,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
+      "statement": "As proteínas oncogênicas E6 e E7 do HPV, relacionadas ao carcinoma de colo uterino, atuam, respectivamente, inativando as seguintes proteínas supressoras de tumor do hospedeiro:",
+      "alternatives": {
+        "A": "PSA e CEA.",
+        "B": "p53 e pRB.",
+        "C": "HER2 e EGFR.",
+        "D": "BRCA1 e BRCA2.",
+        "E": "APC e Beta-catenina."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14
+    },
+    {
       "question_number": 70,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "O teratoma cístico maduro do ovário (cisto dermoide) caracteriza- se, microscopicamente, por apresentar",
       "alternatives": {
         "A": "necrose gordurosa maciça.",
@@ -858,7 +1198,7 @@
     },
     {
       "question_number": 71,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "O Tumor de Krukenberg refere-se a",
       "alternatives": {
         "A": "metástases ovarianas bilaterais de neoplasias originadas no trato gastrointestinal.",
@@ -875,7 +1215,7 @@
     },
     {
       "question_number": 72,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "Nos carcinomas da mama, a imunohistoquímica (IHQ) é fundamental para a definição do perfil molecular e do planeamento terapêutico. Considere um laudo anatomopatológico de um carcinoma mamário invasivo, tipo não especial que apresenta o seguinte perfil: Recetores de Estrogénio (RE): Positivo (90%); Recetores de Progesterona (RP): Positivo (80%); HER2: Negativo (Score 0); Ki-67: 8%. Assinale a opção que indica o subtipo molecular desse tumor e a abordagem terapêutica sistêmica inicial mais adequada.",
       "alternatives": {
         "A": "Luminal A; Quimioterapia adjuvante imediata seguida de Trastuzumabe.",
@@ -892,14 +1232,14 @@
     },
     {
       "question_number": 73,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "A Síndrome de Von Hippel-Lindau (VHL) é uma condição hereditária de predisposição a algumas neoplasias. Assinale a opção que indica a neoplasia renal que está, classicamente, associada a essa síndrome.",
       "alternatives": {
         "A": "Carcinoma urotelial da pelve renal.",
         "B": "Carcinoma de células renais.",
         "C": "Adenoma nefrogênico.",
         "D": "Angiomiolipoma.",
-        "E": "Oncocitoma. Na pancreatite aguda necro-hemorrágica, a observação macroscópica de manchas esbranquiçadas com aspecto de \"pingo de vela\" no tecido adiposo peripancreático deve-se à(ao) (A) esteatonecrose (necrose gordurosa) resultante da ação de lipases. (B) calcificação metastática por hipercalcemia. (C) deposição de material amiloide tipo AA. (D) infarto hemorrágico por obstrução venosa. (E) hiperplasia nodular compensatória."
+        "E": "Oncocitoma."
       },
       "answer": "B",
       "annulled": false,
@@ -908,8 +1248,25 @@
       "page_number": 14
     },
     {
+      "question_number": 74,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
+      "statement": "Na pancreatite aguda necro-hemorrágica, a observação macroscópica de manchas esbranquiçadas com aspecto de \"pingo de vela\" no tecido adiposo peripancreático deve-se à(ao)",
+      "alternatives": {
+        "A": "esteatonecrose (necrose gordurosa) resultante da ação de lipases.",
+        "B": "calcificação metastática por hipercalcemia.",
+        "C": "deposição de material amiloide tipo AA.",
+        "D": "infarto hemorrágico por obstrução venosa.",
+        "E": "hiperplasia nodular compensatória."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
       "question_number": 75,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "No sistema de estadiamento TNM, amplamente usado em Oncologia, a letra \"T\" refere-se à(ao)",
       "alternatives": {
         "A": "taxa de replicação mitótica do tumor.",
@@ -926,7 +1283,7 @@
     },
     {
       "question_number": 76,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "Em relação às doenças inflamatórias e aos distúrbios funcionais da tireoide, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A Doença de Graves caracteriza-se morfologicamente como bócio nodular atóxico.",
@@ -943,14 +1300,14 @@
     },
     {
       "question_number": 77,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "Em relação às neoplasias malignas do ovário, seus aspectos morfológicos, marcadores e comportamento biológico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os sarcomas mieloide e estromal são formas comuns de neoplasia primária ovariana.",
         "B": "Os psamomas são concreções calcificadas de natureza distrófica, sendo achados morfológicos no carcinoma seroso.",
         "C": "A alfafetoproteína (AFP) é o marcador sorológico e imunohistoquímico de escolha para o diagnóstico e monitoramento de carcinomas epiteliais ovarianos.",
         "D": "O tumor de Krukenberg define-se como uma neoplasia maligna primária do ovário, originada por diferenciação de células totipotentes da linhagem germinativa.",
-        "E": "As síndromes hereditárias associadas ao câncer de ovário decorrem exclusivamente de mutações somáticas adquiridas nos genes BRCA1 e BRCA2, sem transmissão para os descendentes. Em relação ao glioblastoma, uma das neoplasias primárias mais agressivas do sistema nervoso central, assinale a afirmativa correta. (A) Pode levar o paciente a óbito devido a efeitos locais, como a compressão de estruturas nervosas vitais e a interrupção da circulação do líquor, mesmo sendo um tumor de origem glial. (B) Trata-se de um tumor benigno das células da glia que, embora não sofra metástases, é curável na maioria dos casos através de ressecção cirúrgica simples com margem de segurança. (C) É classificado pela Organização Mundial da Saúde (OMS) como uma neoplasia de grau 1, devido ao seu padrão de crescimento predominantemente expansivo e bem delimitado. (D) A presença do marcador molecular MGMT é um achado exclusivo de tumores de baixa malignidade, não possuindo aplicação clínica ou preditiva no manejo de pacientes com glioblastoma. (E) Estudos epidemiológicos recentes estabeleceram uma relação causal direta e comprovada entre o uso prolongado de telefones celulares e o aumento do risco de desenvolvimento de gliomas."
+        "E": "As síndromes hereditárias associadas ao câncer de ovário decorrem exclusivamente de mutações somáticas adquiridas nos genes BRCA1 e BRCA2, sem transmissão para os descendentes."
       },
       "answer": "B",
       "annulled": false,
@@ -959,8 +1316,25 @@
       "page_number": 15
     },
     {
+      "question_number": 78,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
+      "statement": "Em relação ao glioblastoma, uma das neoplasias primárias mais agressivas do sistema nervoso central, assinale a afirmativa correta.",
+      "alternatives": {
+        "A": "Pode levar o paciente a óbito devido a efeitos locais, como a compressão de estruturas nervosas vitais e a interrupção da circulação do líquor, mesmo sendo um tumor de origem glial.",
+        "B": "Trata-se de um tumor benigno das células da glia que, embora não sofra metástases, é curável na maioria dos casos através de ressecção cirúrgica simples com margem de segurança.",
+        "C": "É classificado pela Organização Mundial da Saúde (OMS) como uma neoplasia de grau 1, devido ao seu padrão de crescimento predominantemente expansivo e bem delimitado.",
+        "D": "A presença do marcador molecular MGMT é um achado exclusivo de tumores de baixa malignidade, não possuindo aplicação clínica ou preditiva no manejo de pacientes com glioblastoma.",
+        "E": "Estudos epidemiológicos recentes estabeleceram uma relação causal direta e comprovada entre o uso prolongado de telefones celulares e o aumento do risco de desenvolvimento de gliomas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15
+    },
+    {
       "question_number": 79,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "Assinale a opção que indica o volume ideal de fixador para uma amostra de tecido.",
       "alternatives": {
         "A": "Igual ao volume do tecido.",
@@ -977,7 +1351,7 @@
     },
     {
       "question_number": 80,
-      "discipline": null,
+      "discipline": "exclusivamente por deleção do braço curto do cromossomo",
       "statement": "Sobre o sigilo médico e o laudo anatomopatológico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O laudo deve ser escrito em código secreto conhecido apenas por médicos.",
