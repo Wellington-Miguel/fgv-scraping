@@ -1,0 +1,1013 @@
+{
+  "concurso_slug": "mpgo22",
+  "cargo_slug": "assistente-programador",
+  "concurso_title": "Concurso Público para o Ministério Público do Estado de Goiás - Servidores",
+  "cargo_title": "Assistente Programador",
+  "exam_type": "Tipo 1",
+  "total_questions": 59,
+  "questions": [
+    {
+      "question_number": 1,
+      "discipline": null,
+      "statement": "O Texto 1 corresponde ao prefácio de um livro e uma de suas funções é atrair o leitor para a leitura da obra. A principal estratégia usada para isso é",
+      "alternatives": {
+        "A": "aludir a uma série de mistérios estranhos, cuja resposta vai ser dada na continuação do livro.",
+        "B": "prometer, implicitamente, respostas para um conjunto de perguntas formuladas a respeito do tema da obra.",
+        "C": "mostrar que o livro vai dar esclarecimentos definitivos sobre pontos até hoje não revelados.",
+        "D": "criar suspense sobre aspectos curiosos que envolvem o tema, cuja revelação será feita no texto do livro.",
+        "E": "comprometer-se a informar, com base segura e científica, sobre a história indicada no título do livro."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 2,
+      "discipline": null,
+      "statement": "“Este livro é sobre uma das ideias mais importantes da humanidade – a ideia do alfabeto – e a sua forma mais difundida: o sistema de letras que você está lendo neste momento.” A afirmação incorreta sobre um dos elementos sublinhados nesse pequeno fragmento do texto 1 é:",
+      "alternatives": {
+        "A": "o vocábulo “sobre” equivale a “a respeito de” e indica o tema do livro.",
+        "B": "a expressão ”mais importante” mostra uma opinião do autor do texto.",
+        "C": "o termo “a ideia do alfabeto” especifica qual é a ideia citada anteriormente.",
+        "D": "o termo “você” indica um leitor indeterminado, já que indica qualquer um que esteja lendo o livro.",
+        "E": "o demonstrativo “neste” indica o momento em que foi escrito o texto."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 3,
+      "discipline": null,
+      "statement": "O segundo parágrafo do texto começa pela frase “Não se trata da simplicidade do projeto perfeito”. Tal frase desempenha o papel textual de",
+      "alternatives": {
+        "A": "indicar uma ressalva em relação à afirmação anterior de que a simplicidade é uma marca destacada do alfabeto.",
+        "B": "mostrar uma contradição com algo dito anteriormente.",
+        "C": "destacar uma característica que se soma às três anteriormente indicadas.",
+        "D": "apresentar um argumento na defesa da ideia de que o alfabeto mostra uma perfeita simplicidade.",
+        "E": "explicar o que significam a simplicidade, a singularidade e a adaptabilidade do alfabeto."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 4,
+      "discipline": null,
+      "statement": "“Não se trata da simplicidade do projeto perfeito. A força do alfabeto como ideia reside na sua virtual imperfeição.” Esse segmento do texto mostra dois períodos com um ponto entre os dois. Se substituíssemos, de forma adequada, esse ponto por um elemento de ligação, o conectivo mais adequado para isso seria:",
+      "alternatives": {
+        "A": "“Não se trata da simplicidade do projeto perfeito, pois a força do alfabeto como ideia reside na sua virtual imperfeição.”",
+        "B": "“Não se trata da simplicidade do projeto perfeito, porque a força do alfabeto como ideia reside na sua virtual imperfeição.”",
+        "C": "“Não se trata da simplicidade do projeto perfeito, no entanto, a força do alfabeto como ideia reside na sua virtual imperfeição.”",
+        "D": "“Não se trata da simplicidade do projeto perfeito, embora a força do alfabeto como ideia resida na sua virtual imperfeição.”",
+        "E": "“Não se trata da simplicidade do projeto perfeito, caso a força do alfabeto como ideia resida na sua virtual imperfeição.”"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 5,
+      "discipline": null,
+      "statement": "A “virtual imperfeição” do alfabeto, citada no segundo parágrafo, se refere à",
+      "alternatives": {
+        "A": "maleabilidade, podendo transformar-se no sistema de letras romanas hoje usado.",
+        "B": "capacidade de, mesmo imperfeitamente, ser original em sua expressão.",
+        "C": "capacidade de facilmente adaptar-se qualquer idioma, embora de forma imperfeita.",
+        "D": "singularidade de criar palavras em todos os idiomas, ainda que deficientemente.",
+        "E": "possibilidade de permitir a expressão de todos os pensamentos, mesmo que de forma inadequada."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 6,
+      "discipline": null,
+      "statement": "O autor do texto define o alfabeto como “generalista”. Isso quer dizer que ele",
+      "alternatives": {
+        "A": "registra conhecimentos especializados.",
+        "B": "facilita a comunicação de ideias gerais.",
+        "C": "mostra uma grande amplitude de usos.",
+        "D": "demonstra uma excelente organização interna",
+        "E": "pode registrar todas as ideias, gerais ou especializadas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 2
+    },
+    {
+      "question_number": 7,
+      "discipline": null,
+      "statement": "Observe o segundo parágrafo do texto 1: “Não se trata da simplicidade do projeto perfeito. A força do alfabeto como ideia reside na sua virtual imperfeição. Embora não se adapte com perfeição a qualquer idioma, pode, com alguma adequação, adaptar-se a todos eles. Assim como a nossa própria espécie, de cérebro mais desenvolvido, que pode ser superada por outras espécies em diversas atividades, mas não no campo do pensamento, o alfabeto é um generalista. Em termos de software, seu sucesso reside em sua maleabilidade. Mas de onde teria surgido essa ideia do alfabeto? Como e onde se disseminou ao transformar-se no sistema de letras romanas que é hoje a escrita mais conhecida do mundo?” Sobre a estruturação geral desse parágrafo, assinale a única afirmativa verdadeira.",
+      "alternatives": {
+        "A": "O terceiro período mostra uma incoerência.",
+        "B": "O quarto período se apoia em uma analogia.",
+        "C": "O quinto período estabelece uma relativização.",
+        "D": "O sexto período se refere a algo desconhecido.",
+        "E": "O último período contradiz o anterior."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 8,
+      "discipline": null,
+      "statement": "“É preciso um bom tempo para examinar essas questões, porque as raízes do alfabeto ainda continuam vindo à tona.” As opções a seguir mostram maneiras de reescrever corretamente essa frase, à exceção de uma, que apresenta um erro gramatical. Assinale-a.",
+      "alternatives": {
+        "A": "é preciso um bom tempo para o exame dessas questões, porque as raízes do alfabeto ainda continuam vindo à tona.",
+        "B": "foi preciso um bom tempo para que se examinassem essas questões, porque as raízes do alfabeto ainda continuavam vindo à tona.",
+        "C": "porque as raízes do alfabeto ainda continuam vindo à tona, é preciso um bom tempo para examinar essas questões.",
+        "D": "é preciso um bom tempo para examinar essas questões, porque ainda continuam vindo à tona as raízes do alfabeto.",
+        "E": "é preciso um bom tempo para que se examine essas questões, porque as raízes do alfabeto ainda continuam vindo à tona. Atenção: use o Texto 2 para responder às questões de 9 a 12. Texto 2 “O alfabeto? É um pouco difícil saber exatamente o que o ‘o’ significa, porque existem vários assim chamados alfabetos que não começam por a e b. Ogham, o sistema do irlandês antigo, começava com BLF; a escrita medieval alemã, o rúnico, cujos caracteres se chamavam runas, começavam com seis letras que lhe deram o nome. O etíope começava com h-l. (....) Porém, apesar das modificações, persistia um ideal comum: captar os sons da fala por meio de um conjunto de duas ou três dúzias de sinais únicos, cada um dos quais correspondendo a um som falado. Na verdade, como veremos, trata-se de uma vã esperança.”"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 9,
+      "discipline": null,
+      "statement": "O tema básico desse Texto 2 é o de",
+      "alternatives": {
+        "A": "demonstrar a utilidade do alfabeto.",
+        "B": "indicar a diversidade de alfabetos no mundo.",
+        "C": "destacar uma marca básica de todos os alfabetos.",
+        "D": "informar o leitor sobre a história dos alfabetos.",
+        "E": "mostrar a inutilidade dos alfabetos criados."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 10,
+      "discipline": null,
+      "statement": "“Na verdade, como veremos, trata-se de uma vã esperança.” O autor do texto considera uma vã esperança a",
+      "alternatives": {
+        "A": "necessidade de se criarem mais letras a fim de que os alfabetos possam fazer uma escrita perfeita.",
+        "B": "criação de alfabetos que se iniciem pelas mesmas letras.",
+        "C": "possibilidade de haver um só alfabeto universal.",
+        "D": "existência de um alfabeto que se adapte adequadamente a todas as línguas.",
+        "E": "tentativa de reproduzir os variados sons da fala por meio de poucas letras."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 11,
+      "discipline": null,
+      "statement": "A falta de correspondência perfeita entre os sons e as letras aparece em nossa língua numa série de pontos. Assinale a opção em que isso não aparece comprovado nos exemplos.",
+      "alternatives": {
+        "A": "a presença do H mudo em alguns vocábulos: honra, herói.",
+        "B": "a possibilidade de duas letras representarem o mesmo som: asa, azar.",
+        "C": "a existência de sons que podem ser representados de formas diferentes: roupa, carro.",
+        "D": "a dupla grafia de uma mesma palavra: alevantar/levantar.",
+        "E": "a presença de uma grafia única para diferentes pronúncias como nas de Brasil e Portugal; fazê (BR), fazeire (PT)."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 12,
+      "discipline": null,
+      "statement": "Os exemplos citados no Texto 2 têm a finalidade de",
+      "alternatives": {
+        "A": "abrir caminho para novas discussões.",
+        "B": "mostrar o conhecimento do autor sobre o tema.",
+        "C": "enriquecer a informação do texto.",
+        "D": "comprovar uma afirmação anterior.",
+        "E": "demonstrar a existência de vários alfabetos."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3
+    },
+    {
+      "question_number": 13,
+      "discipline": null,
+      "statement": "Num célebre texto sobre o alfabeto, Millôr Fernandes escreveu: “O A é uma letra com sótão. Chove sempre um pouco sobre o à craseado. O B é um l que se apaixonou por um 3. O b minúsculo é uma letra grávida. Ao C só lhe resta uma saída. O Ç cedilha, esse jamais tira a gravata.” Esse pequeno texto se baseia",
+      "alternatives": {
+        "A": "no significado de cada letra citada.",
+        "B": "na semelhança visual de letras e outras realidades.",
+        "C": "na possibilidade cômica de ridicularizar o alfabeto.",
+        "D": "na criatividade dos autores dos desenhos das letras.",
+        "E": "na explicação histórica de cada formato das letras."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 14,
+      "discipline": null,
+      "statement": "Um dicionário ensina o seguinte sobre o vocábulo alfabeto: empréstimo do latim, composto de alfa e beta, as duas primeiras letras do alfabeto grego. Esse tipo de dicionário nos dá dos vocábulos",
+      "alternatives": {
+        "A": "a formação histórica.",
+        "B": "as marcas gramaticais.",
+        "C": "a origem espacial.",
+        "D": "a origem temporal.",
+        "E": "a relação entre as línguas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 15,
+      "discipline": null,
+      "statement": "Um texto do mesmo livro de onde foram retirados os textos 1 e 2, diz o seguinte: “Com essa inovação intelectual [o alfabeto], os gregos podiam registrar os seus próprios processos de pensamento, desenvolver seu autoconhecimento, aperfeiçoar ideias, elaborando-as, criar sistemas de ética, filosofia e ciência, desenvolver novas formas de poesia, tornar-se pioneiros em história e biografias.” Segundo esse texto, entre as possibilidades do alfabeto, não está incluída:",
+      "alternatives": {
+        "A": "dar início ao conhecimento humano.",
+        "B": "criar novas formas de expressão.",
+        "C": "possibilitar o desenvolvimento da inteligência.",
+        "D": "ampliar as possibilidades de conhecimento.",
+        "E": "tornar possível a criação de novas formas literárias. Raciocínio Lógico-Analítico"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 16,
+      "discipline": null,
+      "statement": "Renata, Sara e Tânia estão, nessa ordem, em uma fila. Sabe-se que há 10 pessoas na frente de Renata, 8 pessoas entre Renata e Sara e 7 pessoas depois de Tânia. Sabe-se ainda que Sara está no centro da fila. O lugar que Tânia ocupa nessa fila é o",
+      "alternatives": {
+        "A": "30º.",
+        "B": "31º.",
+        "C": "32º.",
+        "D": "33º.",
+        "E": "34º."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4
+    },
+    {
+      "question_number": 17,
+      "discipline": null,
+      "statement": "Na operação de multiplicação abaixo, cada letra representa um algarismo, letras diferentes representam algarismos diferentes e C não pode ser zero. O valor de A + B + C é igual a",
+      "alternatives": {
+        "A": "13.",
+        "B": "14.",
+        "C": "15.",
+        "D": "16.",
+        "E": "17."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpgo22_assistente-programador_q17.png",
+      "page_number": 4
+    },
+    {
+      "question_number": 18,
+      "discipline": null,
+      "statement": "Cinco pessoas cujos nomes têm as iniciais J, K, L, M e N fizeram as duas provas necessárias para concorrer ao cargo de gerente de uma empresa. As provas foram duas, P1 e P2, com peso 2 para a primeira e peso 1 para a segunda. As notas dos candidatos estão na matriz abaixo. Considerando as notas da matriz e o critério dado acima, o vencedor será o que tiver maior pontuação. Quem ganhou o cargo de gerente foi",
+      "alternatives": {
+        "A": "J.",
+        "B": "K.",
+        "C": "L.",
+        "D": "M.",
+        "E": "N."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpgo22_assistente-programador_q18.png",
+      "page_number": 4
+    },
+    {
+      "question_number": 19,
+      "discipline": null,
+      "statement": "11 pessoas, numeradas sequencialmente de 1 a 11 estão dispostas em torno de uma mesa circular de forma que a pessoa seguinte à pessoa 11 é a pessoa 1. Em um jogo, cada pessoa, na sua vez, deve dizer uma letra do alfabeto e, após isso, a pessoa seguinte deve dizer a letra seguinte do alfabeto. O jogo começou pela pessoa 1 que disse",
+      "alternatives": {
+        "A": "Dessa forma, a pessoa 2 disse B, a pessoa 3 disse C e assim por diante. Considere que, no alfabeto de 26 letras, a letra seguinte ao Z seja o A. A sexta letra Z foi dita pela pessoa (A) 2.",
+        "B": "5.",
+        "C": "8.",
+        "D": "9.",
+        "E": "11."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 20,
+      "discipline": null,
+      "statement": "No código Morse, as “letras” são · e – (ponto e traço). Certa instrução é formada por “símbolos” e cada símbolo é formado por uma sequência de duas, três ou quatro letras do código Morse. Por exemplo, “– · –” e “– – ·” são símbolos diferentes. O número de símbolos diferentes que essa instrução possui é",
+      "alternatives": {
+        "A": "18.",
+        "B": "20.",
+        "C": "24.",
+        "D": "26.",
+        "E": "28."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 21,
+      "discipline": null,
+      "statement": "A tabela a seguir mostra o número de funcionários de uma empresa por sexo e por nível de escolaridade. O valor de Y – X é",
+      "alternatives": {
+        "A": "20.",
+        "B": "25.",
+        "C": "30.",
+        "D": "35.",
+        "E": "40."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/mpgo22_assistente-programador_q21.png",
+      "page_number": 5
+    },
+    {
+      "question_number": 22,
+      "discipline": null,
+      "statement": "Em um grupo de 48 pessoas, há 35 advogados e 32 policiais. Nesse grupo, o número mínimo de pessoas que são ao mesmo tempo advogados e policiais é",
+      "alternatives": {
+        "A": "13.",
+        "B": "16.",
+        "C": "19.",
+        "D": "32.",
+        "E": "35."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 23,
+      "discipline": null,
+      "statement": "Ari, Bia e Carol combinaram um encontro ao meio-dia e meia. Ari chegou 16 minutos antes do horário combinado, Bia chegou ao meio-dia e 12 minutos e Carol chegou 31 minutos depois de Ari. É correto afirmar que",
+      "alternatives": {
+        "A": "Bia chegou 19 minutos antes de Carol.",
+        "B": "Ari chegou 2 minutos depois de Bia.",
+        "C": "Carol chegou ao meio-dia e 15 minutos.",
+        "D": "Bia chegou 28 minutos depois de Ari.",
+        "E": "Ari chegou ao meio-dia e 16 minutos."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 24,
+      "discipline": null,
+      "statement": "Cinco amigas, Ana, Bia, Carol, Deise e Elisa, foram ao cinema e sentaram-se em cinco cadeiras consecutivas. Passados 5 minutos, Ana trocou de lugar com Deise e Carol trocou de lugar com Elisa. Passados mais 5 minutos, Bia trocou de lugar com Ana e Deise trocou de lugar com Elisa. Após essas trocas, a ordem delas era: Ana, Elisa, Bia, Carol e Deise (AEBCD). Representando cada uma delas pela letra inicial do respectivo nome, a ordem inicial em que elas estavam sentadas foi",
+      "alternatives": {
+        "A": "BCAED.",
+        "B": "DCBEA.",
+        "C": "DAEBC.",
+        "D": "EABDC.",
+        "E": "BADEC."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 25,
+      "discipline": null,
+      "statement": "Paulo e Berenice possuem, respectivamente, R$ 47,30 e R$ 62,50. Para que Berenice fique com o triplo da quantia de Paulo, Paulo tem que dar a Berenice",
+      "alternatives": {
+        "A": "R$ 19,85.",
+        "B": "R$ 20,35.",
+        "C": "R$ 21,25.",
+        "D": "R$ 24,15.",
+        "E": "R$ 27,45. Noções de Informática"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5
+    },
+    {
+      "question_number": 26,
+      "discipline": null,
+      "statement": "Dado que, numa instalação Windows 10, o arquivo Texto.docx está localizado na pasta C:\\Users\\WWW\\Desktop\\XXXX\\YYY\\ZZZ\\TTT\\ a conta de usuário à qual esse arquivo está vinculado é",
+      "alternatives": {
+        "A": "TTT.",
+        "B": "WWW.",
+        "C": "XXX.",
+        "D": "YYY.",
+        "E": "ZZZ."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 27,
+      "discipline": null,
+      "statement": "Quando é aberto, por meio do menu Iniciar ou da Barra de Tarefas do Windows 10, o aplicativo Excel 2010 BR apresenta uma pasta de trabalho totalmente nova se não houver referência a algum arquivo específico. Considerando a configuração padrão do Excel, o número de planilhas presentes na nova pasta de trabalho é igual a",
+      "alternatives": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4.",
+        "E": "5."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 28,
+      "discipline": null,
+      "statement": "Considere uma planilha nova no Excel 2010, na qual a(s) célula(s):  C6 até C8 contêm respectivamente os valores 7, 3 e 5;  D6 até D8 contêm respectivamente os valores 6, -1 e 5;  E6 até E8 contêm respectivamente os valores 3, 9 e 4;  F6 contém a fórmula “=SE(C$6>D6;C$7;C6)”;  F6 foi copiada e colada na célula G7, e na célula H8. Considerando que nenhuma outra célula tenha sido alterada, os valores exibidos pelas células F6, G7 e H8 são, respectivamente,",
+      "alternatives": {
+        "A": "3, -1, 9.",
+        "B": "5, 5, 4.",
+        "C": "5, 9, 3.",
+        "D": "7, -1, 4.",
+        "E": "7, -1, 5."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 29,
+      "discipline": null,
+      "statement": "No contexto do MS Word, assinale o atalho de teclado que permite desfazer operações de edição recém-realizadas.",
+      "alternatives": {
+        "A": "Ctrl+N",
+        "B": "Ctrl+O",
+        "C": "Ctrl+S",
+        "D": "Ctrl+T",
+        "E": "Ctrl+Z"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 31,
+      "discipline": null,
+      "statement": "Devido ao crescente número de ataques ransomware aos sistemas de uma empresa, a Chefe da Informática elaborou um documento com orientações de segurança para seus colaboradores que trabalham em home office. Para proteção específica a contra-ataques ransoware, a Chefe da Informática orientou corretamente seus usuários a",
+      "alternatives": {
+        "A": "utilizar conta de usuário com perfil de administrador e restringir o máximo possível o uso de contas de usuário comum.",
+        "B": "manter o sistema operacional, antivírus e todos os demais programas instalados no computador em suas versões mais recentes.",
+        "C": "fazer backup dos dados regularmente e manter uma cópia armazenada no computador para agilizar o procedimento de recuperação caso necessário.",
+        "D": "configurar o software de correio eletrônico para que a auto execução de anexos dos e-mails esteja habilitada.",
+        "E": "configurar o antivírus para bloquear as tentativas de invasão e de exploração de vulnerabilidades do computador."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 32,
+      "discipline": null,
+      "statement": "O Departamento de TI de uma empresa de e-commerce especializada em materiais para prática de surf está substituindo seus equipamentos. Foram adquiridos novos servidores, interconectados entre si, para implementação de virtualização. O Departamento de TI utilizará um hypervisor para criação das máquinas virtuais para execução dos sistemas utilizados pela empresa. Uma das funcionalidades do hypervisor de virtualização adotado pelo Departamento de TI é permitir",
+      "alternatives": {
+        "A": "compartilhamento dos recursos físicos do servidor com as máquinas virtuais que serão executadas no equipamento, permitindo que os respectivos sistemas operacionais interajam diretamente com o hardware.",
+        "B": "acesso e gerenciamento de todos os dispositivos de armazenamento da rede, instalados em servidores individuais ou em equipamentos de armazenamento independentes, como um único dispositivo de armazenamento para as máquinas virtuais.",
+        "C": "criação de um cluster de servidores, onde seus recursos de computação serão compartilhados entre as máquinas virtuais de forma a garantir um ambiente de alta disponibilidade e com maior tolerância a falhas.",
+        "D": "manutenção de uma réplica das máquinas virtuais em outro servidor, para que seja utilizada caso o servidor principal sofra uma falha que cause a sua indisponibilidade, com o objetivo de aumentar a segurança do ambiente.",
+        "E": "atuação como uma interface entre a máquina virtual e o hardware físico do servidor, a fim de garantir às máquinas virtuais o acesso aos recursos físicos do servidor que precisa para executar de forma segura, sem que uma máquina virtual interfira nos recursos de outras."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6
+    },
+    {
+      "question_number": 33,
+      "discipline": null,
+      "statement": "A implementação de virtualização nos servidores permite o melhor aproveitamento dos seus recursos físicos. O uso de máquinas virtuais (VM) permite que diversas aplicações operem em um mesmo servidor físico, sem interferência entre elas. A propriedade das VM que assegura a segregação de falhas e segurança no nível do hardware é o(a)",
+      "alternatives": {
+        "A": "isolamento.",
+        "B": "particionamento.",
+        "C": "automação das operações.",
+        "D": "encapsulamento.",
+        "E": "independência de hardware."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 34,
+      "discipline": null,
+      "statement": "A equipe de marketing da empresa XPTO está desenvolvendo um novo produto que necessita ser mantido em sigilo até sua divulgação na mídia. Para evitar vazamento de informação acerca do projeto, o Gerente da equipe de marketing decidiu que todos os arquivos do projeto sejam criptografados e, por questões de segurança, ele altera a senha utilizada na criptografia dos arquivos eventualmente, divulgando-a entre os membros de sua equipe de forma segura. A forma de criptografia utilizada pelo gerente de marketing da empresa XPTO é",
+      "alternatives": {
+        "A": "hash.",
+        "B": "criptografia de chave assimétrica.",
+        "C": "criptografia de chave simétrica.",
+        "D": "assinatura digital.",
+        "E": "certificado digital."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 35,
+      "discipline": null,
+      "statement": "Com o intuito de reduzir gastos com o uso de papéis e agilizar o trabalho, um escritório de advocacia passou a adotar o trâmite de documentos eletrônicos em seus processos e no envio de documentos externos. Para assegurar que os documentos não serão adulterados durante o envio, o escritório adotou a assinatura digital, baseada em certificados digitais emitidos por autoridades certificadoras. Com o uso da assinatura digital em seus documentos, o escritório de advocacia garante",
+      "alternatives": {
+        "A": "a integridade do meio de transmissão dos arquivos.",
+        "B": "o não repúdio dos e-mails com os documentos assinados.",
+        "C": "a privacidade dos dados pessoais nos arquivos enviados.",
+        "D": "a disponibilidade dos arquivos enviados.",
+        "E": "a autenticidade do signatário do arquivo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 36,
+      "discipline": null,
+      "statement": "A empresa WakeUp Seguros investiu em novos computadores para seu parque computacional, os quais operam com um pacote de aplicativos para a proteção individual dos colaboradores. Dentre esses novos aplicativos encontra-se o firewall pessoal que possui a funcionalidade de",
+      "alternatives": {
+        "A": "alertar os usuários quando há suspeita de acessos às páginas falsas.",
+        "B": "detectar, anular ou remover os códigos maliciosos instalados nos computadores.",
+        "C": "registrar as atividades geradas pelos programas e serviços em execução no computador.",
+        "D": "registrar as tentativas de acesso aos serviços habilitados no computador.",
+        "E": "bloquear os cookies das páginas de internet."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 37,
+      "discipline": null,
+      "statement": "A empresa ABCTech, especializada em segurança da informação, anunciou o lançamento de um produto para proteção corporativa com a promessa de segurança inviolável. Durante o lançamento do produto, o site da empresa ficou indisponível para acesso devido a um grande número de acessos, impedindo que futuros clientes conhecessem a nova tecnologia. Simultaneamente, os canais de TV que divulgavam a propaganda do produto tiveram seus sites invadidos nos quais foram postadas informações de que o site da empresa ABCTech estava sob ataque impedindo a divulgação do novo produto. A técnica de ataque utilizada para indisponibilizar o site da empresa ABCTech é",
+      "alternatives": {
+        "A": "spoofing.",
+        "B": "denial of service (DoS).",
+        "C": "defacement.",
+        "D": "brute force.",
+        "E": "sniffing."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 38,
+      "discipline": null,
+      "statement": "Roberto é administrador de redes responsável pelo monitoramento da rede local do Ministério Público de Goiás. Ele faz uso de algumas ferramentas como: consulta de dispositivos, monitoramento de eventos e análise de fluxo. Porém, Roberto descobriu que essas ferramentas operam remotamente, exigindo um conhecimento mais profundo sobre o protocolo SNMP (Simple Network Management Protocol). Para efetuar o monitoramento corretamente, com base na utilização dessas ferramentas, Roberto deve",
+      "alternatives": {
+        "A": "criar uma rede segregada para o monitoramento de forma a não obstruir o tráfego de produção.",
+        "B": "implementar na organização uma redundância completa de todos os hardwares para a comunicação.",
+        "C": "trabalhar em nível de aplicação para monitorar e controlar os dispositivos de rede.",
+        "D": "efetuar a análise do fluxo da rede segregada e comparar com o ambiente produtivo para o correto monitoramento.",
+        "E": "fazer uso da nomenclatura cliente para quem controla e servidor para o controlado na identificação dos itens a serem monitorados."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 39,
+      "discipline": null,
+      "statement": "João está implementando um sistema de gerenciamento de redes para o Ministério Público. Para tal, está utilizando o protocolo SNMP (Simple Network Management Protocol) que define como uma entidade gerente se comunica com um agente dentro da rede. Para adotar o nível mais alto de segurança de comunicação entre entidades da rede, João deve implementar o SNMP com",
+      "alternatives": {
+        "A": "autenticação e privacidade.",
+        "B": "disponibilidade e ocultação da informação.",
+        "C": "integridade e assinatura digital.",
+        "D": "não repúdio e confidencialidade.",
+        "E": "controle de acesso e criptografia."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7
+    },
+    {
+      "question_number": 40,
+      "discipline": null,
+      "statement": "Maria é gerente de redes e precisa implementar um sistema de monitoramento que seja seguro para a organização. Ela pesquisou várias soluções e comparou prós e contra de forma que a melhor solução encontrada foi o SNMP (Simple Network Management Protocol). Dentre as características do protocolo SNMP, aquela que Maria selecionou como sendo necessária para garantir a segurança de sua utilização é a",
+      "alternatives": {
+        "A": "autenticação baseada no usuário no SNMP (v1 e v2) ou baseada em strings no SNMPv3.",
+        "B": "privacidade que utiliza o algoritmo AES por padrão para criptografar e decriptografar as mensagens SNMP.",
+        "C": "autenticação utilizando o MAC (código de autenticação de mensagens), algoritmos para autenticar os usuários sem enviar uma senha em claro.",
+        "D": "autenticação, privacidade e não repúdio para garantir um nível de segurança mais elevado.",
+        "E": "versão 3 do SNMP, pois fornece funcionalidades de segurança como: integridade, autenticação e criptografia."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 41,
+      "discipline": null,
+      "statement": "Responsável pela administração de redes do Ministério Público, Aurélio faz o monitoramento da rede local por meio do protocolo SNMP (Simple network management protocol). Dessa forma, ele consegue otimizar o desempenho de todos os equipamentos que estão operando em conjunto. Aurélio verificou que não estava recebendo informações de alerta de seus agentes. Para recuperar as informações por meio do agente de maneira direta, Aurélio deve usar os comandos",
+      "alternatives": {
+        "A": "getnext ou getbulk.",
+        "B": "setnext ou setrequest.",
+        "C": "put ou putrequest",
+        "D": "trap ou inform.",
+        "E": "get ou post."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 42,
+      "discipline": null,
+      "statement": "O Ministério Público de Goiás (MP-GO) implementou um serviço de atendimento que precisa de uma proximidade maior com seu usuário. O objetivo é trabalhar colaborativamente com seus usuários de forma a obter um relacionamento benéfico e interativo, capacitando-os a serem colaboradores na cadeia de serviços. De acordo com o ITIL, para auxiliar nesse processo, o MP-GO fez uso da prática de",
+      "alternatives": {
+        "A": "criação de valor.",
+        "B": "co-criação de valor.",
+        "C": "princípios orientadores.",
+        "D": "provedores de serviços.",
+        "E": "sistema de valor de serviço."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 43,
+      "discipline": null,
+      "statement": "Em virtude da crise sanitária vivida em função da Covid-19, os funcionários do Ministério Público de Goiás (MP-GO) foram informados da necessidade de se fazer, de forma temporária, o trabalho remoto. Camila, administradora da rede, identificou que tal atividade geraria uma sobrecarga dos recursos existentes. Como o MP-GO faz uso das melhores práticas de gestão, Camila foi buscar essa informação no modelo COBIT. Para criar uma estratégia de governança que evite interrupções nos seus serviços, de acordo com o COBIT, Maria deve focar no gerenciamento de",
+      "alternatives": {
+        "A": "continuidade.",
+        "B": "problemas.",
+        "C": "performance e monitoramento de conformidade.",
+        "D": "operações.",
+        "E": "mudanças."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 44,
+      "discipline": null,
+      "statement": "Anderson está modernizando a infraestrutura de redes do Ministério Público de Goiás. Para isso está efetuando a troca dos cabos de categoria 5 para a categoria 5E. Durante a passagem dos cabos não houve problemas técnicos. Contudo, precisou buscar informações quanto ao procedimento de crimpagem dos cabos de rede. Anderson não tinha conhecimento sobre os códigos de cores dos conectores. Considerando que todos os pontos de conexão serão interligados através de um switch, Anderson deverá utilizar o padrão EIA/TIA",
+      "alternatives": {
+        "A": "568A nas extremidades onde se encontram as máquinas e EIA/TIA 568B nas extremidades onde se encontram os switches.",
+        "B": "568B nas extremidades onde se encontram as máquinas e EIA/TIA 568A nas extremidades onde se encontram os switches.",
+        "C": "568B com a codificação de cores em crossover na outra extremidade do cabo para melhoria da conexão.",
+        "D": "568A ou o EIA/TIA 568B desde que seja cada codificação de cores em uma extremidade diferente do cabo.",
+        "E": "568A ou o EIA/TIA 568B desde que possua a mesma codificação de cores em ambos os lados."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 45,
+      "discipline": null,
+      "statement": "Durante uma movimentação de departamentos dentro do Ministério Público (MP), foi determinado que o Departamento de Pessoal mudasse para o andar recém construído. Foi verificado que nesse andar já havia alguns subsistemas de cabeamento previstos na norma NBR 14565, que versa sobre cabeamento estruturado em edifícios comerciais, faltando apenas a instalação do sistema de cabeamento horizontal. Alguns dos itens pertencentes a esse subsistema que exigem instalação são",
+      "alternatives": {
+        "A": "jumpers e patch cords no distribuidor de campus e qualquer cabeamento dentro da infraestrutura de entrada.",
+        "B": "tomadas de telecomunicações, jumpers e patch cords no distribuidor de piso.",
+        "C": "jumpers e patch cords no distribuidor de campus, patch cord de área de trabalho.",
+        "D": "cabos horizontais e patch cords de área de trabalho.",
+        "E": "jumpers e patch cords no distribuidor do edifício, cabos de backbone do edifício."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8
+    },
+    {
+      "question_number": 46,
+      "discipline": null,
+      "statement": "A equipe de especialistas de uma empresa está implantando uma rede de computadores. Nesta rede haverá um único ponto central, e todos os dispositivos serão conectados a ele. Logo, a equipe de redes deve implantar uma topologia física",
+      "alternatives": {
+        "A": "em anel.",
+        "B": "em estrela.",
+        "C": "de barramento.",
+        "D": "em malha.",
+        "E": "em árvore."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 47,
+      "discipline": null,
+      "statement": "Uma equipe de suporte foi contratada para melhorar o desempenho da rede de computadores de uma grande empresa. A empresa informou à equipe que sua rede interliga duas ou mais redes de área local, geograficamente distantes. Logo, a equipe de suporte deve se preparar para otimizar uma rede",
+      "alternatives": {
+        "A": "Wide Area Network.",
+        "B": "Personal Area Network.",
+        "C": "Metropolitan Area Network.",
+        "D": "Local Area Network.",
+        "E": "Wireless Local Area Network."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 48,
+      "discipline": null,
+      "statement": "Uma equipe de técnicos em redes de computadores constatou falha na geração dos segmentos de dados de um dispositivo. A fim de entender melhor as possíveis causas e os impactos da falha, a equipe resolveu identificar a camada do modelo ISO/OSI em que ocorre o problema, vindo a descobrir que se trata da camada de",
+      "alternatives": {
+        "A": "transporte.",
+        "B": "sessão.",
+        "C": "aplicação.",
+        "D": "rede.",
+        "E": "enlace."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 49,
+      "discipline": null,
+      "statement": "Uma equipe de assistentes está planejando o endereçamento lógico de dois departamentos de uma empresa. Uma única rede classe C, utilizando a primeira faixa de endereços desta classe, atenderá ambos os departamentos. Porém, a rede será dividida em duas sub-redes de mesmo tamanho, uma para cada departamento. Portanto, na notação CIDR (Classless Inter-Domain Routing), a equipe utilizará os blocos de endereços",
+      "alternatives": {
+        "A": "192.167.0.0/25 e 192.167.0.128/25.",
+        "B": "192.0.0.0/25 e 192.0.0.128/25.",
+        "C": "191.0.0.0/28 e 191.0.0.128/28.",
+        "D": "191.0.1.0/28 e 191.0.1.128/28.",
+        "E": "191.0.128.0/25 e 192.0.128.0/25."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 50,
+      "discipline": null,
+      "statement": "Um assistente programador do MPGO precisa descobrir o endereço IP de dois computadores da rede. Um dos computadores executa o sistema operacional Windows e o outro Linux. Para descobrir os endereços IP, utilizando comandos simples no terminal destes computadores, o assistente programador deve utilizar no Windows e no Linux, respectivamente, os comandos",
+      "alternatives": {
+        "A": "getmac e ipconfig.",
+        "B": "ipconfig e getmac.",
+        "C": "ipconfig e ipconfig.",
+        "D": "ipconfig e ip.",
+        "E": "ip e ip."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 51,
+      "discipline": null,
+      "statement": "Uma equipe de suporte de redes foi chamada para resolver um problema de conectividade de um computador que se comunica normalmente com os demais dispositivos da rede, mas falha em navegar na Internet. A equipe verificou, porém, que quando se digita o endereço IP dos sites, a navegação ocorre normalmente. A experiente equipe de suporte de redes concluiu que houve uma desconfiguração no endereço do servidor",
+      "alternatives": {
+        "A": "User Datagram Protocol.",
+        "B": "Transmission Control Protocol.",
+        "C": "Windows Internet Name Service.",
+        "D": "Domain Name System.",
+        "E": "Dynamic Host Configuration Protocol."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 52,
+      "discipline": null,
+      "statement": "Uma equipe de manutenção de redes está configurando os dispositivos de uma rede local dividida em várias sub-redes lógicas. O computador Z está conectado à sub-rede 223.1.0.96/30 e utilizará o último endereço de host desta sub-rede. Assim sendo, a equipe deve configurar o computador Z com o seguinte endereço IP de host e máscara de sub-rede",
+      "alternatives": {
+        "A": "223.1.0.100 e 255.255.255.253.",
+        "B": "223.1.0.99 e 255.255.255.253.",
+        "C": "223.1.0.99 e 255.255.255.252.",
+        "D": "223.1.0.98 e 255.255.255.253.",
+        "E": "223.1.0.98 e 255.255.255.252."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 53,
+      "discipline": null,
+      "statement": "Um assistente programador está investigando um comportamento anormal que ocorre em um computador do MP-GO. O computador está, sem prejuízo em seu desempenho, enviando dados pessoais para a Internet por um programa desconhecido. A fim de evitar que o mesmo tipo de problema volte a ocorrer, o assistente deve revisar a configuração e a atualização da seguinte classe de software:",
+      "alternatives": {
+        "A": "anti-spam.",
+        "B": "anti-worm.",
+        "C": "anti-spyware.",
+        "D": "anti-cookie.",
+        "E": "anti-adware."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9
+    },
+    {
+      "question_number": 54,
+      "discipline": null,
+      "statement": "Uma equipe de especialistas está implantando uma nova aplicação web que opera em conjunto com uma base de dados. A equipe resolveu utilizar o Docker para esta implantação isolando a aplicação em um container e a base de dados em outro container. Para definir os dois containers e configurar sua comunicação através de um único arquivo, a equipe deve usar a ferramenta Docker",
+      "alternatives": {
+        "A": "File.",
+        "B": "Scan.",
+        "C": "Buildx.",
+        "D": "Compose.",
+        "E": "Hub."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 55,
+      "discipline": null,
+      "statement": "Um assistente programador está avaliando preventivamente o comportamento de um servidor do MP-GO que executa containers Docker. O assistente deseja verificar os nomes de todos os containers que estão parados e de todos os containers que estão em execução em uma única saída no terminal do servidor. Para realizar essa verificação usando um simples comando no terminal, o assistente deve usar o comando",
+      "alternatives": {
+        "A": "docker ps -a",
+        "B": "docker ps -l",
+        "C": "docker ps -s",
+        "D": "docker ps -q",
+        "E": "docker ps"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 56,
+      "discipline": null,
+      "statement": "Uma equipe de especialistas em infraestrutura está implantando o orquestrador Kubernetes em um servidor do MP-GO que possui vários containers Docker. Foi decidido que alguns desses containers serão agrupados na unidade básica de operações do Kubernetes. Para isso, a equipe deve definir um novo",
+      "alternatives": {
+        "A": "statefulSet.",
+        "B": "replicaSet.",
+        "C": "service.",
+        "D": "ingress.",
+        "E": "pod."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 57,
+      "discipline": null,
+      "statement": "Uma equipe de manutenção está instalando uma nova rede de computadores que será composta por dois pontos de acesso sem fio, operando em 2.4 GHz, com largura de canal de 20 MHz. A equipe decidiu que um dos pontos de acesso irá operar no 11º canal da faixa de 2.4 GHz. A fim de evitar ao máximo a colisão de dados no meio sem fio, os demais pontos de acesso deverão ser configurados para operar, respectivamente, nos canais",
+      "alternatives": {
+        "A": "9 e 13.",
+        "B": "3 e 8.",
+        "C": "2 e 7.",
+        "D": "1 e 6.",
+        "E": "4 e 7."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 58,
+      "discipline": null,
+      "statement": "Uma equipe de suporte busca reforçar o sinal de uma rede sem fio para que ela cubra mais salas do prédio do MP-GO. Essa rede possui um único roteador sem fio, dual band, configurado para operar em 2.4 GHz com largura de canal de 40 MHz, e em 5 GHz com largura de canal de 80 Mhz. A equipe deseja reforçar o sinal da frequência de maior alcance por meio da otimização de parâmetros do roteador. Para tanto, ao configurar a largura de canal do roteador, a equipe deve",
+      "alternatives": {
+        "A": "aumentar para 160 MHz, na faixa de 5 GHz.",
+        "B": "aumentar para 160 MHz, na faixa de 2.4 GHz.",
+        "C": "diminuir para 20 MHz, na faixa de 2.4 GHz.",
+        "D": "diminuir para 40 MHz, na faixa de 5GHz.",
+        "E": "aumentar para 80 MHz, na faixa de 2.4 GHz."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 59,
+      "discipline": null,
+      "statement": "De acordo com o PMBOK, projetos são empreendidos em todos os níveis organizacionais com diferentes objetivos. A natureza temporária dos projetos indica que eles",
+      "alternatives": {
+        "A": "são de curta duração.",
+        "B": "agregam valores temporários ao negócio.",
+        "C": "têm um início e um término definidos.",
+        "D": "geram entregas que produzem efeitos temporários.",
+        "E": "findam automaticamente quando há um cronograma bem definido."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    },
+    {
+      "question_number": 60,
+      "discipline": null,
+      "statement": "Um determinado órgão da administração pública irá modernizar seu parque computacional. De modo a obter a padronização das aquisições, tecnologias e métodos, a unidade organizacional do mais alto nível da hierarquia executará a gerência dos projetos de modernização de suas subordinadas de modo coordenado. Dessa forma, a unidade de mais alto nível organizacional visa à obtenção de benefícios que não estariam disponíveis se os projetos fossem gerenciados individualmente. Com isso, a organização deve compor um(a)",
+      "alternatives": {
+        "A": "megaprojeto.",
+        "B": "programa.",
+        "C": "portfólio.",
+        "D": "operação.",
+        "E": "serviço. Redação “Três problemas básicos afetam o Poder Judiciário brasileiro: o excesso de processos, a morosidade e a falta de acesso à Justiça. O diagnóstico foi apresentado nesta segunda-feira (17/02) pelo secretário de Reforma do Judiciário do Ministério da Justiça, Flávio Caetano, durante audiência pública para debater a eficiência do primeiro grau de jurisdição, organizada pelo Conselho Nacional de Justiça (CNJ)”. Diante dos três problemas apresentados em audiência pública, o que pode ser feito? Redija sua opinião em texto dissertativo-argumentativo, em linguagem culta, de aproximadamente 30 linhas, dando especial atenção aos argumentos apresentados."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Instalação:
+# 1. Instale as dependências:
+#    pip install -r requirements.txt
+# 2. Instale o navegador Chromium para o Playwright:
+#    playwright install chromium
+
+playwright>=1.40.0
+beautifulsoup4>=4.12.0
+pymupdf>=1.23.0
+pdfplumber>=0.10.0
+pydantic>=2.5.0
+tqdm>=4.66.0
+requests>=2.31.0
+
