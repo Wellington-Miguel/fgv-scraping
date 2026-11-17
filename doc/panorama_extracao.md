@@ -78,3 +78,4 @@ Todos os arquivos gerados na pasta local foram verificados contra a branch remot
 - **Metadados (`data/raw/*/*/metadata.json`)**: `1.554` locais vs. `1.554` no remoto (**100% sincronizado**)
 - **Provas Processadas (`data/processed/*.json`)**: `1.309` locais vs. `1.309` no remoto (**100% sincronizado**)
 - **Imagens Recortadas (`data/processed/images/*.png`)**: `4.054` locais vs. `4.054` no remoto (**100% sincronizado**)
+
