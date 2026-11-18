@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_fisico_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "No processo de licenciamento de uma instalação nuclear, a Aprovação do Local constitui uma das etapas iniciais previstas na Norma CNEN NE-1.04. Essa fase tem como objetivo verificar se o local proposto para implantação da instalação atende aos requisitos de segurança nuclear e radiológica, considerando diversos aspectos que possam influenciar a proteção das pessoas e do meio ambiente. Com base nas disposições dessa norma, assinale a opção correta sobre o conteúdo e os requisitos relacionados ao Relatório do Local a ser submetido à CNEN para análise:",
       "alternatives": {
         "A": "O requerimento de Aprovação do Local deve ser submetido à CNEN acompanhado de 5 exemplares do \"Relatório do Local\".",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "dc13adbce4f5abc7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dc13adbce4f5abc7",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Durante o processo de licenciamento de uma instalação nuclear, a Norma CNEN NE-1.04 – Licenciamento de Instalações Nucleares, estabelece que o titular da instalação deve garantir a existência de um Plano de Emergência capaz de orientar ações imediatas e eficazes, em caso de eventos anormais que possam representar risco à saúde humana, ao meio ambiente ou à integridade da instalação. Esse plano deve abranger procedimentos técnicos e administrativos para prevenção, resposta e mitigação de acidentes radiológicos ou nucleares, assegurando que todos os responsáveis saibam como agir para proteger o público, os trabalhadores e as propriedades potencialmente afetados. Considerando o que dispõe o item 8.5 da Norma CNEN NE-1.04, assinale a opção correta:",
       "alternatives": {
         "A": "O Plano de Emergência deve ser elaborado apenas após a concessão da Licença de Construção.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6688d75b3bc6936f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6688d75b3bc6936f",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "A Norma CNEN NN 3.01 – Diretrizes Básicas de Proteção Radiológica define, em sua Seção V, as funções, responsabilidades e autoridade do Supervisor de Radioproteção, profissional essencial para garantir que as práticas envolvendo radiação ionizante sejam conduzidas de acordo com os princípios de segurança e proteção radiológica. Cabe a esse profissional identificar riscos, orientar a equipe quanto a procedimentos seguros e comunicar, de forma imediata, qualquer irregularidade que possa comprometer a segurança da instalação, dos trabalhadores ou do público. Com base nas disposições dessa norma, analise os itens a seguir: I. Valendo-se dos requisitos de proteção radiológica, o Supervisor de Radioproteção deve interromper qualquer atividade da instalação a partir do momento em que identificar potencial risco. II. Não é de responsabilidade do Supervisor de Radioproteção manter o titular da instalação informado sobre eventos relativos à radioproteção e à segurança radiológica, sendo necessário apenas informá-lo sobre alterações na rotina e nos procedimentos dentro da instalação. III. O Supervisor de Radioproteção deve comunicar ao titular da instalação em momento oportuno irregularidades constatadas com fontes de radiação. Está incorreto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "24c9c6e54c2554df"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "24c9c6e54c2554df",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "As exposições médicas acidentais ou não intencionais representam situações em que pacientes, embriões, fetos ou indivíduos são expostos à radiação ionizante de forma não planejada ou em magnitude superior à prescrita, podendo comprometer a segurança do procedimento e os princípios de justificação e otimização da proteção radiológica. A CNEN NN 3.01 – Diretrizes Básicas de Proteção Radiológica, estabelece que, nesses casos, o titular da instalação é responsável por adotar medidas imediatas para investigar, relatar e corrigir a ocorrência, bem como notificar a CNEN quando houver situações que indiquem falhas significativas no controle radiológico ou risco indevido ao paciente. Com base nesse dispositivo normativo, assinale a opção correta com relação às responsabilidades dos titulares da instalação.",
       "alternatives": {
         "A": "Investigar e relatar casos de exposição inadvertida do embrião ou feto, administração de radiofármaco errado ou falha de equipamento que altere substancialmente a exposição pretendida.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1f207ddfe8b9332e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1f207ddfe8b9332e",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Em ambientes que utilizam fontes de radiação ionizante, a segurança radiológica é uma responsabilidade compartilhada. Os Indivíduos Ocupacionalmente Expostos (IOE) desempenham um papel crucial no cumprimento das normas e na manutenção de um ambiente de trabalho seguro. O não cumprimento de seus deveres e obrigações pode comprometer a eficácia das medidas de proteção e colocar vidas em risco. De acordo com as obrigações e deveres dos Indivíduos Ocupacionalmente Expostos (IOE) com relação à radioproteção e segurança radiológica, conforme estabelecido em normas de segurança radiológica, assinale a opção incorreta.",
       "alternatives": {
         "A": "É dever do IOE fornecer ao titular ou empregador informações detalhadas sobre todo o seu histórico de trabalho, passado e presente, que seja relevante para a eficácia da radioproteção e segurança radiológica.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0d62b072ded640b2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0d62b072ded640b2",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "A escolha do detector de radiação adequado é crucial em física nuclear aplicada, radioproteção e análise ambiental, pois cada tipo de detector possui características distintas de resolução energética, eficiência e necessidade operacional, afetando diretamente a qualidade da medição. Deseja-se selecionar o detector mais apropriado para três cenários distintos de medição de radiação ionizante. A tabela a seguir lista três tipos comuns de detectores: Considerando as características desses detectores, analise os itens a seguir: I. O Detector a Gás é a melhor escolha para a medição da taxa de dose de radiação em uma área de trabalho, embora não forneça informações detalhadas sobre a energia dos fótons. II. O Detector cintilador apresenta a melhor resolução energética entre os três, permitindo a separação precisa de picos gama com energias muito próximas. III. O Detector HPGe é o mais indicado para a detecção de raios gama de alta energia, exigindo, contudo, resfriamento criogênico para alcançar resolução ideal. IV. Para a identificação isotópica de amostras ambientais que contenham diversos radionuclídeos, a alta resolução energética do Detector HPGe é preferível à eficiência intrínseca do Detector NaI(Tl). Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III, apenas.",
@@ -687,12 +722,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q36.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8f42b59b9e26c246"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8f42b59b9e26c246",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "O decaimento radioativo é o processo pelo qual núcleos atômicos instáveis se transformam em núcleos mais estáveis, emitindo radiação (partículas ou energia). Os tipos mais comuns de decaimento são alfa (α), beta (β) e gama (γ), cada um alterando o núcleo de maneira distinta e possuindo diferentes características de poder de penetração. Considerando as características e o efeito de cada decaimento no núcleo atômico, assinale a opção correta.",
       "alternatives": {
         "A": "No decaimento alfa, o número atômico do núcleo original diminui em duas unidades e o número de massa permanece inalterado.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "be53d6893235a45e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "be53d6893235a45e",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "A figura a seguir apresenta um espectro de raios gama característico, obtido com um detector HPGe de alta resolução, para uma fonte radioativa cuja energia de emissão principal é conhecida por ser maior que 2 MeV. Considerando as interações da radiação com o detector e seus arredores, assinale a opção que apresenta corretamente as características espectrais associadas aos índices de (a), (b), (c), (d) e (e):",
       "alternatives": {
         "A": "(a) Pico de Soma, (b) Espalhamento Retroespalhado, (c) Borda Compton, (d) Pico de Escape Simples, (e) Pico de Energia Total.",
@@ -725,12 +762,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q38.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "35ec1591a72342c8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "35ec1591a72342c8",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Um especialista em detecção de radiações ionizantes ficou responsável por investigar amostras que haviam sido analisadas por espectrometria alfa, beta e gama. Durante a análise dos resultados, o especialista observou os espectros obtidos e verificou que cada tipo de radiação apresenta uma assinatura característica, conforme ilustrado nos gráficos a seguir. Os gráficos que melhor representam as espectrometrias alfa, beta e gama, respectivamente, são",
       "alternatives": {
         "A": "II, V, II",
@@ -744,12 +782,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q39.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "05458d05df45ab2e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "05458d05df45ab2e",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Um dos isótopos de radônio existentes é integrante da série de decaimento do U-238. Trata-se de um radionuclídeo que decai por emissão alfa e possui grande importância radiobiológica, pois pode ser incorporado pelo organismo por inalação, depositando dose diretamente nos pulmões. Na série em que esse radônio se encontra, o pai da série é o U-238, que também decai por alfa, transmutando-se sucessivamente até a formação do radônio (vide figura). Considerando que a linha vertical representa uma transmutação alfa e a linha diagonal uma transmutação beta menos (β-), assinale a opção que apresenta a melhor representação para o radônio pertencente à série do U-238.",
       "alternatives": {
         "A": "Rn 92 238",
@@ -763,12 +802,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q40.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "482002c65358e717"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "482002c65358e717",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "O segundo princípio da Termodinâmica impõe uma limitação fundamental aos processos de conversão de energia térmica em trabalho. Esse princípio pode ser enunciado da seguinte forma: “É impossível construir uma máquina térmica que opere em ciclos e tenha como único efeito retirar calor de uma fonte e convertê-lo integralmente em trabalho.” A partir dessa formulação, é correto inferir que",
       "alternatives": {
         "A": "teoricamente, as máquinas térmicas podem atingir um rendimento de 100%.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d141aad2aba2b82d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d141aad2aba2b82d",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Um nêutron livre, com massa aproximadamente igual a mn = 1,67ꞏ10−27 kg e viajando a uma velocidade de vn = 2ꞏ107 m/s (um nêutron rápido), colide frontalmente e é absorvido por um núcleo de Deutério (que possui um próton e um nêutron, massa aproximadamente mD ≈2mn). Imediatamente antes da colisão, o núcleo de Deutério estava em repouso. Considerando que a colisão é perfeitamente inelástica (o nêutron e o núcleo se unem, formando um núcleo de Trítio). A velocidade do núcleo resultante (Trítio) imediatamente após a colisão será",
       "alternatives": {
         "A": "7,3ꞏ107 m/s",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "823dc779bd9f65a8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "823dc779bd9f65a8",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Ao longo da história da ciência, a compreensão da estrutura da matéria tem sido um pilar fundamental para o avanço do conhecimento. Desde as primeiras ideias filosóficas até os modelos baseados em evidências experimentais, a concepção do átomo passou por diversas transformações. Cada novo modelo atômico surgiu para explicar fenômenos observados que as teorias anteriores não conseguiam, revelando camadas mais profundas e complexas da realidade subatômica. Considerando a evolução histórica e as principais características dos modelos atômicos que moldaram nosso entendimento da estrutura da matéria, analise os itens a seguir: I. O modelo atômico de Dalton propôs que o átomo era indivisível e que possuía um núcleo central onde se concentrava a carga positiva. II. No modelo de Rutherford, os elétrons giravam em órbitas bem definidas, e ao passar de uma órbita mais energética para uma menos energética, emitiam luz de um espectro contínuo. III. O modelo atômico de Bohr estabeleceu que os elétrons se movem em órbitas quantizadas ao redor do núcleo, podendo mudar de nível energético ao absorver ou emitir energia. IV. O modelo atômico de Thomson foi o primeiro a propor a existência de partículas subatômicas (elétrons) incrustadas em uma massa esférica de carga positiva. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3ecf1566b59ee668"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3ecf1566b59ee668",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "No projeto e operação de reatores nucleares, o entendimento dos mecanismos de interação entre nêutrons e a matéria é fundamental para o controle da reação em cadeia, o dimensionamento de blindagens e a análise de segurança. Considerando os principais processos de interação, assinale a opção incorreta.",
       "alternatives": {
         "A": "No espalhamento elástico, a energia cinética total do sistema é conservada, e o nêutron transfere parte de sua energia ao núcleo alvo, mudando de direção após a colisão.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1c217a259447a470"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1c217a259447a470",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "A interação de fótons com a matéria é regida por três processos principais. A probabilidade de ocorrência de cada um desses processos é função da energia do fóton incidente e do número atômico (Z) do material absorvedor, conforme ilustrado de forma esquemática no gráfico abaixo. Considerando o gráfico, onde as regiões (I), (II) e (III) representam a dominância de um dos processos de interação, assinale a opção que identifica corretamente o mecanismo predominante em cada uma delas.",
       "alternatives": {
         "A": "I - Absorção Fotoelétrica; II - Espalhamento Compton; III - Produção de Pares.",
@@ -858,12 +902,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q45.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a7184e4ccfd14674"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a7184e4ccfd14674",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Considere as relações entre massa e energia no contexto da mecânica relativística. Sabendo que a variação da massa com a velocidade implica modificações na definição de energia e que a energia total de um corpo envolve tanto a energia cinética quanto a energia de repouso, assinale a opção que apresenta um erro conceitual.",
       "alternatives": {
         "A": "A relação diferencial 𝑑𝑇= 𝑐2𝑑𝑚 demonstra que qualquer acréscimo na energia cinética de uma partícula corresponde diretamente a um aumento proporcional em sua massa relativística.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "51cea4962d14b21e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "51cea4962d14b21e",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "A fissão nuclear do U 235 por nêutrons térmicos é um dos processos fundamentais para a operação de reatores nucleares. Considere uma das possíveis reações de fissão: O valor Q da reação, que representa a energia liberada, é dado por Q = ∆m ∙c2, onde Δm é o \"defeito de massa\", ou seja, a diferença entre a massa total dos reagentes e a massa total dos produtos. Para esta reação, foi calculado um defeito de massa de: ∆m = 3,0893 ∙10−28 kg Sabendo que: 1kg. c2 ≈8,98755179 ∙1016 J/kg, Assinale a opção incorreta.",
       "alternatives": {
         "A": "No processo de fissão do U 235 , o cálculo do defeito de massa de ∆m = 3,0893 ∙10−28 kg comprova que a soma das massas dos produtos é inferior a soma das massas dos reagentes, em um processo de conversão direta de massa em energia térmica.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7eb733f401052ec6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7eb733f401052ec6",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "No setor de Medicina Nuclear de um hospital, o controle de qualidade de radiofármacos exige o conhecimento preciso do decaimento radioativo desses compostos. O gráfico abaixo representa a massa de um radiofármaco em função do tempo. Sabendo que a vida média é o tempo médio esperado para o decaimento de um núcleo radioativo, determine a vida média desse elemento.",
       "alternatives": {
         "A": "4,0 h",
@@ -915,12 +962,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q48.png",
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "99330a393dd9dfc4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "99330a393dd9dfc4",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "A radioatividade é um fenômeno fundamental em diversas áreas da ciência e tecnologia, como: saúde, indústria, pesquisa e segurança nuclear. Seu estudo envolve conceitos essenciais sobre a transformação espontânea de núcleos instáveis e o comportamento estatístico desses processos. Com base nesses conceitos, analise as afirmativas a seguir: I. A taxa de transformações nucleares de átomos instáveis em um determinado instante é denominada Atividade (A). No Sistema Internacional de Unidades, a atividade é medida em becquerel (Bq), unidade equivalente a uma transformação por segundo (s⁻¹); II. A atividade de uma amostra radioativa depende do valor inicial da atividade no instante t = 0 e decresce exponencialmente ao longo do tempo. O intervalo necessário para que a atividade diminua por um fator 1/e é denominado vida média (τ), sendo dado por τ = 1/λ, onde λ é a constante de decaimento; III. A equação de decaimento radioativo permite determinar com precisão o instante exato em que um núcleo instável sofrerá sua transmutação. Além disso, o comportamento exponencial da atividade indica que todos os núcleos instáveis de uma mesma espécie presentes em uma amostra decaem de forma simultânea; IV. A meia-vida (T₁/₂), definida como o tempo necessário para que metade dos núcleos radioativos presentes em uma amostra decaiam, é diretamente proporcional à constante de decaimento (λ), obedecendo à relação T₁/₂ = λ/0,693. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "41f89b0428a451e4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "41f89b0428a451e4",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Os diferentes tipos de radiação ionizante interagem com a matéria de maneiras distintas. Essas diferenças se refletem diretamente em sua penetrabilidade, característica que permite, inclusive, identificar o tipo de radiação analisando o comportamento da intensidade transmitida ao atravessar um material. A figura a seguir (fora de escala) apresenta três curvas típicas de 𝐼 𝐼0 em função da espessura 𝑥 atenuação, representando a razão do material para três formas diferentes de radiação. Com base na análise das curvas apresentadas, assinale a opção correta.",
       "alternatives": {
         "A": "A curva (i) representa partículas gama, pois apresentam grande poder de penetração e sofrem atenuação exponencial contínua, enquanto a curva (ii) corresponde à radiação beta, já que esta sofre atenuação abrupta apenas no final do percurso.",
@@ -953,12 +1002,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q50.png",
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d800cfcee120c278"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d800cfcee120c278",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Os nêutrons desempenham papel fundamental em aplicações nucleares, especialmente em reatores. Por não possuírem carga elétrica, sua interação com a matéria ocorre de maneira distinta das partículas carregadas, envolvendo fenômenos específicos que determinam sua velocidade, possibilidade de captura e capacidade de provocar reações nucleares. Sobre os principais mecanismos de interação dos nêutrons com os núcleos atômicos, assinale a opção incorreta.",
       "alternatives": {
         "A": "Uma vez que o nêutron não possui carga elétrica, ele interage com os núcleos sem a necessidade de superar a barreira de Coulomb. Consequentemente, a probabilidade (seção de choque) para interações nucleares é maior para nêutrons do que para partículas carregadas.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "913eac835186d2c5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "913eac835186d2c5",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Os esquemas de decaimento radioativo representam visualmente as transições nucleares que ocorrem quando um nuclídeo instável busca estabilidade. No caso do Cobalto-60, o decaimento segue um padrão característico mostrado na figura. A partir do esquema, analise os itens a seguir: I. Em um espectro gama do 𝐶𝑜 27 60 , observa-se a curva característica da emissão beta associada aos picos das duas energias gama: 1173,2 keV e 1332,5 keV. II. O elemento final dessa transmutação ( 𝑍 𝑦𝑥) será indubitavelmente o 𝑁𝑖 28 60 , independentemente do caminho de desintegração percorrido pelo núcleo. III. É possível ocorrer transmutação entre quaisquer níveis de energia, não necessariamente apenas pelas transições mostradas, podendo inclusive o elemento final ( 𝑍 𝑦𝑥) encerrar o processo de transmutação no estado de conversão interna de 2505,7 keV. IV. Todo decaimento beta do 𝐶𝑜 27 60 está associado à emissão de pelo menos 1 raio gama. Está correto o que se afirma em",
       "alternatives": {
         "A": "II e IV, apenas.",
@@ -991,12 +1042,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q52.png",
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d7e945bd9c1509da"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d7e945bd9c1509da",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Com base no gráfico anexado, que ilustra a variação da Energia de Ionização (eV) em função do Número Atômico (Z) dos elementos químicos, analise os itens a seguir: I. Os valores máximos (picos) na curva correspondem a elementos que possuem a camada de valência completa, como os Gases Nobres (Z=2, Z=10, Z=18, etc.), indicando a maior estabilidade e, consequentemente, a maior dificuldade para remover um elétron. II. Os elementos localizados nos valores mínimos da curva, que ocorrem imediatamente após os picos, são os Metais Alcalinos (Z=3, Z=11, Z=19, etc.), que possuem o menor potencial de ionização em seus respectivos períodos devido à presença de um único elétron na camada de valência, afastado do núcleo. III. Ao longo da Tabela Periódica (da esquerda para a direita em um período), observa-se uma tendência geral de aumento na energia de ionização. Isso ocorre porque o raio atômico diminui e a carga nuclear efetiva aumenta, tornando a atração sobre os elétrons mais forte. IV. A energia de ionização dos elétrons da última camada, representada no gráfico (eV), é significativamente menor do que a energia de ligação dos elétrons das camadas internas (mais próximos do núcleo). É correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -1010,12 +1062,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_fisico_q53.png",
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b6e7841c8898997d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b6e7841c8898997d",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "A espectrometria gama é uma técnica fundamental para a identificação e quantificação de radionuclídeos. Um exemplo clássico de sua aplicação é a determinação da atividade do Rádio- 226, que é feita medindo-se os raios gama emitidos pelo seu produto de decaimento, o Bi-214, após o estabelecimento do equilíbrio radioativo na cadeia de decaimento. Com base nesse princípio, assinale a opção correta.",
       "alternatives": {
         "A": "Este princípio só é aplicável quando o radionuclídeo filho possui uma meia-vida significativamente maior que a do radionuclídeo pai.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d01c3c489a161775"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d01c3c489a161775",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Um físico médico está analisando os riscos de diferentes tipos de radiação em um projeto de proteção radiológica. Durante os estudos, precisa compreender detalhadamente o conceito de Transferência Linear de Energia (LET) e suas implicações práticas. Considerando as informações fornecidas sobre LET, assinale a opção correta.",
       "alternatives": {
         "A": "O LET representa o poder de frenamento do meio material sobre a partícula carregada, sendo calculado como a energia total perdida ao longo de todo o alcance da partícula.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ed85cda7047acffa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ed85cda7047acffa",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Considere a reação nuclear: n + B 5 10 →Z yx + Li 3 7 Aplicando-se as leis de conservação, o núclídeo Z y x formado é necessariamente",
       "alternatives": {
         "A": "n 0 1",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d2b6dd97be051236"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d2b6dd97be051236",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "O Rn-222 representou um marco no desenvolvimento da oncologia radioterápica, sendo uma das primeiras fontes utilizadas em implantes terapêuticos. Seu uso pioneiro abriu caminho para as técnicas modernas de braquiterapia, hoje precisas, computadorizadas e baseadas em fontes encapsuladas com meias- vidas mais adequadas. Considere uma amostra recente preparada com radônio-222 para uso em braquiterapia, contendo 2,2ꞏ10−6 g deste radionuclídeo. Considerando que a meia-vida do Rn-222 é de 3,82 dias, a constante de Avogadro é 6,02ꞏ1023 mol−1 e ln2≈0,693, assinale a opção que determina corretamente a atividade inicial da amostra, em becqueréis (desintegrações por segundo), imediatamente após sua preparação.",
       "alternatives": {
         "A": "3,1ꞏ107 Bq",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d0c5d8fc6db4c322"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d0c5d8fc6db4c322",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Em aplicações médicas envolvendo radionuclídeos, a taxa de eliminação da atividade no organismo depende simultaneamente do decaimento físico e dos processos biológicos de excreção. Para representar essa combinação, utiliza-se a meia-vida efetiva, resultante da contribuição conjunta da meia-vida física e da meia- vida biológica. Considere um indivíduo que recebeu uma atividade de Iodo-125 (I- 125), cujo comportamento é descrito pelos seguintes parâmetros: Meia-vida física: 60 dias Meia-vida biológica: 3 dias Com base nessas informações, assinale a opção que determina, aproximadamente, o tempo necessário para que a atividade remanescente no organismo se reduza a 1/10 do valor inicial. (Considere log2 10 ≈3,32)",
       "alternatives": {
         "A": "5,7 dias",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "eb1e1808dc561eaa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eb1e1808dc561eaa",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "Em um experimento de física nuclear, foi observada a reação a seguir, onde alguns parâmetros não estão revelados: Al + X →[ P ? 31 ] → Y 14 30 + Z 1 1 + Q ? ? 13 ? Considerando os princípios básicos que envolvem as reações nucleares, assinale a opção incorreta.",
       "alternatives": {
         "A": "A reação é do tipo (α,p) sobre o elemento alumínio.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "860770af97a2e01e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "860770af97a2e01e",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Física",
       "statement": "A interação de nêutrons com a matéria é caracterizada por um conceito de probabilidade por unidade de caminho, conhecido como seção de choque. Com base nas propriedades e definições sobre a seção de choque microscópica e macroscópica, e seus conceitos relacionados, assinale a opção incorreta.",
       "alternatives": {
         "A": "A seção de choque microscópica, expressa por núcleo para um mecanismo de interação específico (como captura radiativa ou espalhamento elástico), é tradicionalmente medida na unidade de barn, que equivale a 10−28 m2.",
         "B": "A seção de choque macroscópica, que representa a probabilidade por unidade de caminho para um processo específico, é obtida pelo produto da seção de choque microscópica pelo número de núcleos por unidade de volume, e possui dimensão do inverso do comprimento.",
         "C": "A atenuação de um feixe estreito de nêutrons em um absorvedor segue uma relação exponencial com a espessura, onde a atenuação depende da seção de choque macroscópica total.",
         "D": "A densidade da taxa de reação (reações por unidade de tempo e volume) é determinada pelo produto da seção de choque macroscópica pelo fluxo de nêutrons, que é definido como o produto da densidade numérica de nêutrons pela sua velocidade.",
-        "E": "O caminho livre médio, que é o inverso da seção de choque macroscópica total, é normalmente da ordem de dezenas de centímetros para nêutrons lentos em materiais sólidos, sendo menor (da ordem de um centímetro ou menos) para nêutrons rápidos. Redação"
+        "E": "O caminho livre médio, que é o inverso da seção de choque macroscópica total, é normalmente da ordem de dezenas de centímetros para nêutrons lentos em materiais sólidos, sendo menor (da ordem de um centímetro ou menos) para nêutrons rápidos."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 16,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "93fb3502613137b0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "93fb3502613137b0",
+      "base_text": null
     }
   ],
   "year": 2024,

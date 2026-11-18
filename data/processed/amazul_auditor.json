@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_auditor_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Um gestor recém-nomeado buscou entender a estrutura do Sistema de Controle Interno do Poder Executivo Federal, com foco nas responsabilidades de cada linha de defesa. Após a leitura da Instrução Normativa CGU nº 3/2017, percebeu que a terceira linha de defesa tem papel diferenciado no modelo adotado, especialmente no que se refere à autonomia técnica, à objetividade e ao tipo de serviço que presta à alta administração. Considerando a IN CGU nº 3/2017, assinale a opção que apresenta corretamente a função atribuída à terceira linha de defesa.",
       "alternatives": {
         "A": "Implementar controles internos primários nos macroprocessos finalísticos.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a9f69d3353de4725"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a9f69d3353de4725",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Durante reunião de planejamento, a Unidade de Auditoria Interna Governamental (UAIG) discutiu a distinção entre trabalhos de avaliação e de consultoria, conforme o Manual de Orientações Técnicas da Atividade de Auditoria Interna Governamental. O coordenador ressaltou que, embora ambos os serviços sejam prestados pela auditoria interna, existem diferenças quanto à origem da demanda, ao propósito do trabalho, ao planejamento, à forma de comunicação dos resultados e ao monitoramento. Considerando a IN SFC/CGU nº 8/2017, assinale a opção que apresenta corretamente uma diferença entre trabalhos de avaliação e de consultoria.",
       "alternatives": {
         "A": "Nos trabalhos de avaliação, o planejamento do escopo é realizado exclusivamente pela Unidade Auditada.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b78761f38ce961b2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b78761f38ce961b2",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A Unidade de Auditoria Interna Governamental (UAIG) de um órgão federal está revisando seu processo anual de elaboração do Plano Anual de Auditoria Interna (PAINT), conforme a Instrução Normativa SFC/CGU nº 5/2021. Durante a reunião, o coordenador destacou que o PAINT deve refletir as prioridades de trabalho para o período e que sua construção precisa considerar fatores estratégicos, riscos, complexidade organizacional e condições da própria UAIG. Com base na IN SFC/CGU nº 5/2021, assinale a opção que apresenta um dos elementos que obrigatoriamente devem ser considerados na elaboração do PAINT.",
       "alternatives": {
         "A": "As recomendações pendentes emitidas pelo Tribunal de Contas da União.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0f93f67b40cb2c41"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0f93f67b40cb2c41",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Uma entidade da administração pública federal está revisando suas normas internas relativas à gestão da Unidade de Auditoria Interna Governamental (UAIG). O dirigente máximo recebeu parecer recomendando atenção às regras da Portaria CGU nº 2.737/2017, especialmente no que se refere ao tempo máximo de permanência no cargo, à prorrogação possível, às situações de dispensa e às exigências de avaliação prévia da CGU para exoneração. Considerando a Portaria CGU nº 2.737/2017, assinale a opção correta.",
       "alternatives": {
         "A": "O titular da unidade de auditoria interna pode permanecer por prazo indeterminado no cargo, desde que obtenha avaliações anuais satisfatórias.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f5da4c420270bee1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f5da4c420270bee1",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "O termo controle ganha diversos desdobramentos e aplicabilidades dentro da gestão pública, sendo frequentemente associado à fiscalização e à auditoria. Contudo, cada um desses conceitos possui natureza e finalidade próprias. Considerando essas distinções, assinale a opção que apresenta corretamente o conceito de controle, conforme definido na literatura especializada.",
       "alternatives": {
         "A": "Atividade de inspeção realizada apenas quando há denúncia formal ou determinação judicial.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "52dbd82b86355730"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "52dbd82b86355730",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "As camadas de controle na Administração Pública apresentam o modo como a função controle pode ser compreendida enquanto função administrativa, permitindo comparar resultados alcançados com aqueles planejados. Considerando essa estrutura de camadas de controle, assinale a opção que apresenta corretamente a segunda camada.",
       "alternatives": {
         "A": "Corresponde ao controle interno primário exercido pelos responsáveis diretos pela execução das atividades administrativas.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a47613502e352fa6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a47613502e352fa6",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "O controle na Administração Pública pode assumir diferentes formas conforme a natureza do órgão controlador. Considerando essas diferentes formas, assinale a opção que apresenta corretamente um exemplo de controle parlamentar.",
       "alternatives": {
         "A": "Revisão, pela própria Administração, de um ato ilegal praticado por um servidor.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "97d0047a82e66c5f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "97d0047a82e66c5f",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A Lei nº 8.429/1992 estabelece mecanismos de responsabilização dos agentes públicos por atos de improbidade administrativa, constituindo importante instrumento de controle da Administração Pública. Entre as categorias de atos previstos na lei, há aqueles que importam enriquecimento ilícito, dano ao erário e violação aos princípios da Administração Pública. Considerando a legislação vigente, assinale a opção que apresenta corretamente um ato que configura enriquecimento ilícito.",
       "alternatives": {
         "A": "Divulgar, sem justa causa, sigilo obtido em razão do cargo.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "cce59675b233cf71"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cce59675b233cf71",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A accountability envolve a obrigação de prestar contas, justificar ações e assumir responsabilidades pelos resultados obtidos na gestão pública. Trata-se de uma relação em que um agente, ao receber a delegação de recursos ou atribuições, deve demonstrar de forma clara e acessível como conduziu a atividade, permitindo o acompanhamento e a avaliação por parte dos cidadãos e instituições de controle. Considerando esse entendimento, assinale a opção que representa corretamente uma prática associada à accountability na Administração Pública.",
       "alternatives": {
         "A": "Tornar públicas as informações sobre a execução de programas governamentais, permitindo que a sociedade acompanhe resultados e cobre justificativas dos gestores.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1e9ac7febee7a69b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1e9ac7febee7a69b",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A Lei de Acesso à Informação estabelece mecanismos que garantem ao cidadão a possibilidade de solicitar e obter informações de órgãos e entidades públicas. Considerando esses mecanismos, assinale a opção que representa corretamente uma forma de assegurar o acesso às informações públicas.",
       "alternatives": {
         "A": "Implantação de um serviço de informações ao cidadão, destinado a orientar o público, informar sobre a tramitação de documentos e receber solicitações de acesso.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "52f57837103fe5c2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "52f57837103fe5c2",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A legislação societária brasileira estabelece limites rigorosos para que uma companhia adquira ações de sua própria emissão. Essas operações buscam evitar manipulação do capital social, proteger os acionistas e preservar a integridade das demonstrações contábeis. Considerando essas regras, assinale a opção que descreve uma situação em que a companhia pode adquirir ações próprias.",
       "alternatives": {
         "A": "Compra de ações próprias para reforçar o poder de voto dos administradores em assembleia.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bfd9097837db4237"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bfd9097837db4237",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "O regime de caixa é um método simplificado de apuração contábil adotado por algumas entidades, que registra receitas e despesas conforme a movimentação financeira efetiva. Esse instrumento é especialmente utilizado por microempresas e organizações sem fins lucrativos, dada sua simplicidade operacional. Considerando as características do regime de caixa, assinale a opção que o descreve corretamente.",
       "alternatives": {
         "A": "Reconhece receitas no momento da emissão do documento fiscal e despesas quando são incorridas.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "08364bbe8288ffb9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "08364bbe8288ffb9",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "No âmbito da Contabilidade, as contas a receber representam direitos que a entidade possui em relação a terceiros, decorrentes de transações cujo recebimento ocorrerá futuramente. Esses direitos podem surgir, por exemplo, de vendas a prazo, de valores depositados em instituições financeiras ou de outros contratos que asseguram o recebimento de recursos. Considerando o conceito de contas a receber, assinale a opção que apresenta corretamente um exemplo dessa categoria contábil.",
       "alternatives": {
         "A": "Equipamentos adquiridos para uso operacional da empresa.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "87229dc52f810782"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "87229dc52f810782",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Estoques são registrados inicialmente pelo custo de aquisição. Entretanto, quando o valor de mercado torna-se inferior ao custo, a Contabilidade exige o reconhecimento da perda para refletir o valor recuperável desse ativo. Considerando esse critério de avaliação, assinale a opção que apresenta o procedimento correto quando o valor de mercado do estoque fica menor que o seu custo.",
       "alternatives": {
         "A": "Manter o estoque registrado pelo custo e reconhecer a perda somente no momento da venda.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2d68e834b1ea2067"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2d68e834b1ea2067",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "No estudo dos intangíveis, diferentes elementos agregam valor às organizações, como o capital intelectual, o fundo de comércio e o goodwill. Cada um deles apresenta características próprias, relacionadas a benefícios econômicos futuros e a fatores incorpóreos que contribuem para a competitividade das empresas. Considerando os conceitos apresentados, assinale a opção que corresponde corretamente ao goodwill.",
       "alternatives": {
         "A": "Valor decorrente da localização estratégica do estabelecimento e da carteira de clientes.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "946a87491b15b04b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "946a87491b15b04b",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Um sistema de custeio caracteriza-se por incluir, como custo dos produtos, todos os custos e todas as despesas incorridas no período, sem distinção entre itens relacionados diretamente à fabricação e gastos operacionais. Embora exista em alguns países, sua aplicação contabilmente é inviável no Brasil, pois conflita com o regime de competência e com a legislação tributária. Com base na descrição apresentada, classifique o sistema de custeio mencionado.",
       "alternatives": {
         "A": "Por absorção.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1fe8bc955713ddf4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1fe8bc955713ddf4",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A Estrutura Conceitual para Elaboração e Divulgação de Informação Contábil de Propósito Geral pelas Entidades do Setor Público estabelece os conceitos que devem ser aplicados no desenvolvimento das demais Normas Brasileiras de Contabilidade Aplicadas ao Setor Público (NBCs TSP) do Conselho Federal de Contabilidade (CFC) destinados às entidades do setor público. Além disso, tais conceitos são aplicáveis à elaboração e à divulgação formal dos Relatórios Contábeis de Propósito Geral das Entidades do Setor Público (RCPGs). Considerando a finalidade dos RCPGs, assinale a opção que apresenta corretamente uma informação necessária aos usuários desses relatórios.",
       "alternatives": {
         "A": "Estimar o valor das ações emitidas pela entidade para fins de negociação no mercado financeiro.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b260709fa912bb93"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b260709fa912bb93",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "As características qualitativas da informação incluída nos Relatórios Contábeis de Propósito Geral das Entidades do Setor Público (RCPGs) contribuem para que essa informação seja útil aos usuários. Uma dessas características diz respeito à necessidade de que a informação esteja disponível no momento adequado, de modo que possa ser utilizada efetivamente para fins de prestação de contas, accountability e tomada de decisão. Quando a informação chega tarde demais, sua utilidade é reduzida. Considerando essa característica qualitativa, assinale a opção que a identifica corretamente.",
       "alternatives": {
         "A": "Relevância.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "95da3adb686233ef"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "95da3adb686233ef",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A seleção das bases de mensuração para ativos e passivos contribui para satisfazer aos objetivos da elaboração e divulgação da informação contábil pelas entidades do setor público. Considerando as bases de mensuração dos ativos, assinale a opção que apresenta corretamente uma base que fornece um valor de saída e cujo valor é observável no mercado.",
       "alternatives": {
         "A": "Custo histórico.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5bbcf3f1ffcff1bc"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5bbcf3f1ffcff1bc",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "As demonstrações contábeis do setor público, além de evidenciarem a situação patrimonial, financeira e o desempenho da entidade, também exercem função preditiva. Considerando essa função preditiva, assinale a opção que apresenta corretamente uma informação a ser fornecida pelas demonstrações contábeis.",
       "alternatives": {
         "A": "Se os recursos foram obtidos e utilizados de acordo com o orçamento aprovado.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f2282d514bd674d4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f2282d514bd674d4",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "O Plano de Contas Aplicado ao Setor Público (PCASP) organiza suas contas de forma hierarquizada. O segundo nível representa o desdobramento da classe. Considerando essa estrutura da classe do PCASP, assinale a opção correta.",
       "alternatives": {
         "A": "A classe “Variação Patrimonial Aumentativa” reúne contas relacionadas a obrigações exigíveis perante terceiros.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8294d671f4191b30"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8294d671f4191b30",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Os sistemas de custos no setor público são estruturados para apoiar a gestão governamental, oferecendo informações que auxiliam diferentes processos administrativos. Para que funcionem adequadamente, precisam ser organizados a partir de componentes que definem como os custos serão identificados, acompanhados e analisados dentro das entidades públicas. Considerando esses componentes estruturais, assinale a opção que apresenta corretamente um dos elementos que integram um sistema de custos governamental.",
       "alternatives": {
         "A": "A definição de procedimentos voltados à apuração de receitas orçamentárias.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "df4b1362ae359b10"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "df4b1362ae359b10",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Os princípios orçamentários setoriais orientam a elaboração, aprovação, execução e controle do orçamento público, garantindo legitimidade, consistência e aderência ao planejamento estatal. Considerando esses princípios, assinale a opção que corresponde ao princípio segundo o qual o orçamento deve evitar superestimativas ou subestimativas de receitas e despesas, de modo a ser elaborado com o máximo de exatidão e refletir adequadamente a realidade econômico-social, evitando que se torne um instrumento meramente fictício.",
       "alternatives": {
         "A": "Princípio da tecnicidade orçamentária.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ab84cb9bf4f2c92e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ab84cb9bf4f2c92e",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A Lei de Responsabilidade Fiscal (LRF) estabeleceu princípios e mecanismos destinados a promover planejamento, transparência e equilíbrio nas finanças públicas, impondo limites, controles e exigências de divulgação das informações fiscais a todos os Poderes da República. Considerando essas diretrizes, assinale a opção que apresenta corretamente um dos mecanismos adotados pela LRF para assegurar a responsabilidade na gestão fiscal.",
       "alternatives": {
         "A": "Determinação de que os órgãos públicos concentrem a maior parte de sua execução orçamentária nos últimos meses de cada exercício financeiro.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0c053e577fbfe6b8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0c053e577fbfe6b8",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Em um processo de apuração de improbidade administrativa, verificou-se que uma empresa privada participou de um contrato irregular firmado com o poder público. Durante a investigação, constatou-se que apenas um dos diretores da empresa atuou conscientemente para viabilizar a conduta ilícita, enquanto os demais colaboradores não tiveram participação no fato. Também foi identificado que a empresa já estava sendo responsabilizada, em processo próprio, pelas infrações previstas na legislação aplicável aos atos lesivos contra a administração pública praticados por pessoas jurídicas. Considerando o regime jurídico atual, assinale a opção correta.",
       "alternatives": {
         "A": "Todos os sócios e colaboradores da empresa devem ser responsabilizados solidariamente, ainda que não tenham participado diretamente do ilícito.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fae35b44852a1d37"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fae35b44852a1d37",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Pesquisas recentes destacam que o governo aberto representa uma mudança paradigmática na forma de atuação estatal baseada em interação, abertura de dados e coprodução de valor público. Com base nos fundamentos do governo aberto, analise as assertivas a seguir: I. O governo aberto é caracterizado como uma filosofia que orienta a relação entre Estado e sociedade, estimulando diálogo, transparência e colaboração. II. O governo aberto consiste em um conjunto de novas tecnologias que automatizam processos governamentais e prescindem a participação cidadã. III. A concepção de governo aberto se coaduna com uma visão sociocêntrica do Estado, mantendo o público como monopólio e restringindo o compartilhamento de poder com a sociedade civil. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "da1c7c4baeea8458"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "da1c7c4baeea8458",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "Pesquisas contemporâneas em teoria do Estado destacam que suas funções envolvem tanto a definição dos fins essenciais da coletividade quanto o conjunto de atividades destinadas a concretizá-los por meio de políticas públicas. Com base nesses fundamentos, analise as assertivas a seguir: I. A função do bem-estar está ligada à legitimação do poder estatal ao buscar atender necessidades materiais e sociais da coletividade, ampliadas ao longo da evolução histórica do Estado. II. As funções do Estado, vistas como atividades, correspondem às manifestações do poder político expressas por políticas públicas que visam concretizar fins essenciais definidos pela sociedade. III. As políticas distributivas configuram mecanismos por meio dos quais o Estado intervém para mitigar assimetrias sociais, promovendo ajustes na distribuição de recursos, oportunidades ou benefícios. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5685af39d9381d33"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5685af39d9381d33",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "As políticas públicas compreendem o conjunto de programas, ações e atividades empreendidas pelos entes federativos para concretizar direitos fundamentais e promover o desenvolvimento social e econômico, especialmente para grupos em situação de maior vulnerabilidade. Considerando as classificações propostas para as políticas públicas, identifique aquela que se distingue por estabelecer padrões de comportamento, regras de conduta ou requisitos técnicos dirigidos a indivíduos, organizações ou setores, com a finalidade de orientar práticas e assegurar o interesse coletivo.",
       "alternatives": {
         "A": "Fiscal.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "214ce8d30d1930b4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "214ce8d30d1930b4",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A realização da despesa pública envolve fases encadeadas, disciplinadas pela Lei nº 4.320/1964, que definem a forma como o gasto é registrado, verificado e autorizado para pagamento. Esse processo garante que o Estado somente efetue despesas após constituir obrigação válida, comprovar o direito do credor e autorizar o pagamento por autoridade competente. Considerando os estágios da despesa previstos na legislação financeira, assinale a opção que descreve corretamente a fase de liquidação.",
       "alternatives": {
         "A": "Ato que autoriza o pagamento da despesa e determina sua quitação perante a tesouraria.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7687f049c7198233"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7687f049c7198233",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Auditoria e Controle",
       "statement": "A Lei de Responsabilidade Fiscal estabelece um conjunto de regras e condicionantes para assegurar o equilíbrio das contas públicas. Entre seus pilares estão o planejamento integrado entre PPA, LDO e LOA, a transparência na gestão fiscal, a responsabilização dos gestores e a imposição de limites e vedações para prevenir riscos e corrigir desvios capazes de comprometer a sustentabilidade fiscal dos entes federativos. Considerando os fundamentos da Lei de Responsabilidade Fiscal, assinale a opção que apresenta corretamente uma de suas diretrizes centrais voltadas à prevenção e correção de riscos fiscais.",
       "alternatives": {
         "A": "Exigir que os Tribunais de Contas realizem auditorias operacionais anuais em todos os programas governamentais.",
         "B": "Determinar a revisão obrigatória e quadrienal do Plano Plurianual para alinhamento de metas setoriais.",
         "C": "Impor limites, condições e vedações para evitar desequilíbrios e garantir sustentabilidade na gestão fiscal.",
         "D": "Proibir a contratação de operações de crédito por qualquer ente federativo durante períodos de expansão econômica.",
-        "E": "Estabelecer que a execução orçamentária dependa de autorização prévia do Poder Legislativo para cada despesa individual. Redação"
+        "E": "Estabelecer que a execução orçamentária dependa de autorização prévia do Poder Legislativo para cada despesa individual."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d54b500384979ab4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d54b500384979ab4",
+      "base_text": null
     }
   ],
   "year": 2024,

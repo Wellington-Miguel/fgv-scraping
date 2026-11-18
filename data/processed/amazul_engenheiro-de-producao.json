@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Raciocínio Lógico-Matemático",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-de-producao_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um projeto de implantação de um novo sistema de automação apresenta o seguinte relatório de valor agregado no 4º mês: Custo Orçado do Trabalho Realizado (EV) = R$ 300.000, Custo Orçado do Trabalho Agendado (PV) = R$ 360.000 e Custo Real do Trabalho Realizado (AC) = R$ 250.000. Com base nessas informações, identifique a situação do projeto em termos de prazo e custo, respectivamente.",
       "alternatives": {
         "A": "Adiantado e acima do orçamento.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9515dd93e77cc845"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9515dd93e77cc845",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa de alimentos realiza pedidos periódicos de embalagens para o envase de seus produtos. A demanda anual é de 1.800 unidades, o custo por pedido é de R$ 50,00, e o custo de manutenção unitário anual é de R$ 2,00 por unidade. Assinale a opção que apresenta o valor do lote econômico de compra (LEC) desse item, em unidades.",
       "alternatives": {
         "A": "300 unidades",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0ec648a65dd4306c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0ec648a65dd4306c",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere um projeto que exige um investimento inicial de R$ 100.000,00 e gera fluxos de caixa anuais de R$ 40.000,00 no 1º ano, R$ 50.000,00 no 2º ano e R$ 60.000,00 no 3º ano. Ao descontar esses valores a uma taxa mínima de atratividade de 10% a.a., obtém-se o Valor Presente Líquido (VPL). Sobre o significado econômico do VPL para esse projeto, assinale é correto afirmar que o VPL é",
       "alternatives": {
         "A": "positivo e indica que o projeto é economicamente viável.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "74e5625069c0fd4a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "74e5625069c0fd4a",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma linha de produção, o tempo de ciclo é de 3 minutos por unidade. O processo gargalo possui uma capacidade produtiva de 15 unidades por hora. Considerando que o tempo disponível de trabalho é de 60 minutos por hora, determine a eficiência máxima da linha de produção, em percentual.",
       "alternatives": {
         "A": "45%",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e2b5499b5999832d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e2b5499b5999832d",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma sala de controle de processos contínuos, um engenheiro de ergonomia observa que os operadores cometem erros principalmente em situações de pressão temporal, nas quais decisões rápidas são necessárias para manter a estabilidade do processo. Considerando os princípios de Ergonomia Cognitiva, a intervenção mais adequada é",
       "alternatives": {
         "A": "aumentar a força necessária para acionar os dispositivos, reforçando o controle físico sobre os comandos.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1a9aef288bb15344"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1a9aef288bb15344",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma indústria de autopeças suspeita que os operadores de uma célula de usinagem passam parte significativa do tempo ociosos, possivelmente devido a falhas de balanceamento da linha. Para quantificar esse percentual, o engenheiro de produção opta por aplicar a técnica de amostragem do trabalho, estimando a proporção de tempo em atividade (p). Em um estudo preliminar, estima-se que os operadores permanecem ativos em cerca de 60% do tempo. Considerando a necessidade de obter uma estimativa com erro absoluto máximo de 5% e nível de confiança de 95% (Z = 1,96), o número mínimo de observações necessárias é, aproximadamente,",
       "alternatives": {
         "A": "150.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "edaa81fa6d174400"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "edaa81fa6d174400",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma organização está mapeando o processo de liberação de componentes nucleares. Após a usinagem fina, cada componente passa por uma verificação automática: Caso esteja conforme, segue para liberação; caso não esteja conforme, é encaminhado para análise de irregularidades. No diagrama BPMN desse processo, assinale o elemento que representa corretamente o ponto de decisão entre esses caminhos.",
       "alternatives": {
         "A": "Tarefa de Serviço.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2c22422b024360ec"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2c22422b024360ec",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante um projeto Seis Sigma conduzido por uma empresa de logística, a equipe iniciou a quantificação detalhada do desempenho atual do processo, realizando coleta sistemática de dados, definição das métricas de desempenho, estratificação das ocorrências e cálculo do baseline. Sobre essas atividades, assinale a opção que caracteriza corretamente a etapa da metodologia DMAIC.",
       "alternatives": {
         "A": "Definir",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "18bd075628a3391d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "18bd075628a3391d",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um e-commerce de cosméticos planeja automatizar seu centro de distribuição (CD). A operação envolve duas fases distintas: 1. Fase de Fracionamento: Produtos são separados em grandes lotes de acordo com o tipo (líquidos, pós, cremes). 2. Fase de Separação e Embalagem: Cada pedido individual (alto mix e rota variável) é montado e embalado. A solução de arranjo físico híbrido mais provável para otimizar o fluxo de trabalho neste CD é um arranjo físico",
       "alternatives": {
         "A": "posicional na Fracionamento e arranjo físico funcional na Separação e Embalagem.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "402a0d510094c678"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "402a0d510094c678",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa do setor nuclear opera uma unidade onde o fluido de resfriamento dos reatores é tratado continuamente por meio de filtração, purificação química e controle automatizado, funcionando 24 horas por dia sem interrupção do fluxo. Esse tipo de operação caracteriza um processo de fabricação do tipo",
       "alternatives": {
         "A": "de projeto.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4005d75e68eba506"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4005d75e68eba506",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um Engenheiro de Qualidade em uma indústria de autopeças monitora a rugosidade superficial de um componente. Após coleta de dados, os gráficos de controle X̄ e R mostram que nenhum ponto ultrapassou os limites superior e inferior de controle, nem houve sequências anormais que indiquem causas especiais. Os Limites de Especificação definidos pelo cliente são LSE = 3,5 µm e LIE = 2,5 µm e a análise de capacidade revelou os seguintes índices: Cp = 0,85 e Cpk = 0,80. Diante desses resultados, o diagnóstico é de um processo:",
       "alternatives": {
         "A": "instável e incapaz, pois apresenta causas assinaláveis e não atende às especificações.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "394e26830844166e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "394e26830844166e",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma planta industrial ligada ao setor nuclear avalia o desempenho de um compressor responsável pelo suporte a sistemas críticos de ventilação e contenção. Os registros históricos mostram que o Tempo Médio Entre Falhas (TMEF) é de 120 horas, enquanto o Tempo Médio de Reparo (TMPR) é de 8 horas. Considerando o conceito de Disponibilidade Inerente, assinale a opção que apresenta corretamente o valor aproximado desse indicador.",
       "alternatives": {
         "A": "85%",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "07e01fdb1f96c27f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "07e01fdb1f96c27f",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma fábrica busca reduzir o problema de peças fora de especificação. Para priorizar e analisar as causas, a equipe utilizou diferentes Ferramentas da Qualidade. Analise os itens a seguir: I. O Diagrama de Pareto identificou que os defeitos dimensionais representavam 70% do total. II. O Diagrama de Causa e Efeito foi empregado para organizar possíveis causas, incluindo falha de calibração na categoria Medida. III. O Histograma foi usado para relacionar a dimensão da peça com o tempo de uso da máquina. IV. Para analisar a distribuição dos pesos das peças, utilizou-se o Diagrama de Dispersão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "be77ba7f81d8e98b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "be77ba7f81d8e98b",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma indústria têxtil está padronizando o tempo de costura de uma peça. Após estudo de tempos, foram obtidos: Tempo cronometrado médio (TC) = 1,20 min; fator de avaliação do ritmo (V) = 105%; tolerâncias de 10% para fadiga e 5% para necessidades pessoais. Considerando que cada turno possui 7 horas efetivas de produção, o número aproximado de peças que podem ser produzidas em um turno é",
       "alternatives": {
         "A": "290.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1b668a929567165c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1b668a929567165c",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa do setor nuclear precisa estimar a demanda futura de um novo módulo eletrônico de segurança. Como a decisão envolve alto risco, a organização busca um método de previsão que permita reunir especialistas de diferentes áreas, garantir anonimato nas respostas e possibilitar revisões sucessivas até que se alcance um consenso técnico. Nesse contexto, o método de previsão mais adequado é",
       "alternatives": {
         "A": "método Delphi",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ac930b0c15e52c35"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ac930b0c15e52c35",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma indústria de cosméticos utiliza o método de média móvel ponderada para prever a demanda. A empresa atribui pesos maiores aos períodos mais recentes para captar melhor as oscilações do mercado. Os dados dos últimos três meses são: A empresa utiliza os seguintes pesos, do período mais recente para o mais antigo: 0,50 para M3, 0,30 para M2, e 0,20 para M1. Com base nesse método, a previsão da demanda para o próximo mês (M4) é de",
       "alternatives": {
         "A": "1.045 unidades.",
@@ -877,12 +922,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-de-producao_q46.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f6f2aeb0456e8bb4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f6f2aeb0456e8bb4",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma indústria de bebidas acompanha o desempenho de sua máquina de envase por meio do indicador OEE. No último turno, foram registradas as seguintes informações: Tempo disponível no turno: 440 minutos; paradas não programadas: 60 minutos; Produção total: 12.600 garrafas; Tempo de ciclo ideal da máquina: 0,02 minuto por garrafa; e Produtos defeituosos: 300 garrafas. O OEE, em porcentagem, é aproximadamente",
       "alternatives": {
         "A": "52%.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f81531ef4d121008"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f81531ef4d121008",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de filas M/M/1, λ = 10/h e μ = 12/h. O tempo médio no sistema W é",
       "alternatives": {
         "A": "0,25h.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "eec1390258e6e076"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eec1390258e6e076",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No contexto da aplicação do QFD ao planejamento do produto, quatro estágios fundamentais compõem essa fase do processo. Assinale a opção incorreta em relação a esses estágios.",
       "alternatives": {
         "A": "Converter características desejadas pelos consumidores em atributos técnicos.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "cb95c4016811f569"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cb95c4016811f569",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma inspeção de rotina em uma unidade industrial, a equipe de Segurança do Trabalho identifica as seguintes situações: I. Operadores expostos a ruído contínuo acima de 85 dB(A). II. Manipulação de solventes orgânicos voláteis em área sem exaustão adequada. III. Contato frequente com micro-organismos presentes em resíduos biológicos. IV. Tarefas repetitivas de montagem com ciclos curtos e alto esforço dos punhos. V. Piso escorregadio próximo a equipamentos rotativos expostos. Com base na classificação de riscos ocupacionais, assinale a opção que associa corretamente os itens I a V aos grupos de risco.",
       "alternatives": {
         "A": "I-Químico; II-Biológico; III-Físico; IV-Acidentes; V-Ergonômico.",
@@ -953,15 +1002,16 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "890dd4c9bc5d6685"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "890dd4c9bc5d6685",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
-      "statement": "Uma fábrica utiliza MRP para planejar um item do subconjunto",
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "Uma fábrica utiliza MRP para planejar um item do subconjunto A. Para a próxima semana, o planejador identificou: Necessidade bruta: 220 unidades Estoque disponível no início da semana: 50 unidades Recebimento programado durante a semana: 40 unidades Lote múltiplo de produção: 100 unidades (o pedido deve ser múltiplo de 100) A quantidade liberada (ordem planejada) pelo MRP é de",
       "alternatives": {
-        "A": "Para a próxima semana, o planejador identificou: Necessidade bruta: 220 unidades Estoque disponível no início da semana: 50 unidades Recebimento programado durante a semana: 40 unidades Lote múltiplo de produção: 100 unidades (o pedido deve ser múltiplo de 100) A quantidade liberada (ordem planejada) pelo MRP é de (A) 100.",
+        "A": "100.",
         "B": "150.",
         "C": "200.",
         "D": "300.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "aff78e638e703faf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ee6f22537eb5e8d2",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma equipe de engenharia está estruturando o cronograma de um projeto de manutenção industrial. Com base na gestão de projetos, é correto afirmar que o caminho crítico é o conjunto de atividades que",
       "alternatives": {
         "A": "define o menor custo total possível para execução do projeto.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2a24ed292aa8cc72"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2a24ed292aa8cc72",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre as causas do efeito chicote nas cadeias de suprimentos, assinale a opção que indica um fator que não está associado à sua ocorrência.",
       "alternatives": {
         "A": "A utilização de previsões construídas de forma autônoma por cada elo, resultando em ajustes sucessivos que se acumulam conforme a cadeia se distancia da demanda real.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3d6abffedd2dc8e3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3d6abffedd2dc8e3",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma linha de montagem opera em sistema puxado e utiliza cartões Kanban para controlar o fluxo de produção. O posto seguinte consome peças a uma taxa constante de 180 peças por hora, e o tempo total de reposição — incluindo transporte, espera e preparação — é de 20 minutos. Cada contêiner possui capacidade para 15 peças, e não se utiliza fator de segurança adicional. Assinale a opção que apresenta corretamente a quantidade mínima de cartões kanban necessária para garantir o fluxo do sistema.",
       "alternatives": {
         "A": "2",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "cad50e4579efac75"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cad50e4579efac75",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa do setor industrial pretende integrar práticas de gestão ambiental e responsabilidade social em seu sistema de governança. Considerando os propósitos e características das normas ISO 14001:2015 e ISO 26000:2010, a interpretação mais adequada para orientar essa integração é que",
       "alternatives": {
         "A": "as duas normas têm natureza semelhante e ambas permitem certificação conjunta em auditorias externas.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bc4f64b9476844dd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bc4f64b9476844dd",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa industrial deseja melhorar o alinhamento entre metas, indicadores e iniciativas estratégicas. Para isso, precisa de uma ferramenta que conecte objetivos em diferentes níveis, evidencie relações de causa e efeito e apoie a definição de KPIs coerentes com a estratégia. A ferramenta que atende melhor a esse propósito é",
       "alternatives": {
         "A": "Matriz SWOT",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "74ea5d2f3beea84b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "74ea5d2f3beea84b",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa de tecnologia fabrica dois kits educacionais: Kit A e Kit B. Cada unidade do Kit A requer 4 horas de montagem e 3 horas de testes. Cada unidade do Kit B requer 2 horas de montagem e 6 horas de testes. O lucro unitário é de R$ 350 para o Kit A e R$ 480 para o Kit B. A empresa dispõe de, no máximo, 96 horas de montagem e 120 horas de testes por semana. A demanda do Kit B está limitada a 10 unidades, enquanto o Kit A não possui limite de demanda. Sejam: 𝑥=quantidade produzida do Kit A; 𝑦=quantidade produzida do Kit B Assinale a opção que apresenta o modelo de programação linear que representa corretamente o problema de maximização do lucro.",
       "alternatives": {
         "A": "Max Z=350x+480y s.a. 4𝑥+ 3𝑦≤96 2𝑥+ 6𝑦≤120 𝑦≤10, 𝑥, 𝑦≥0",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "63a8a4b5a6d57559"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "63a8a4b5a6d57559",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa de energia solar está ampliando sua estratégia de desenvolvimento sustentável e implementou quatro iniciativas: (I) Lançamento de uma nova linha de comunicação verde com foco em educar o cliente sobre redução de carbono e incentivar práticas de uso consciente da energia. (II) Implantação de um sistema interno de gestão ambiental que reorganiza processos e responsabilidades, visando certificação ISO 14001. (III) Modernização de uma etapa de produção com tecnologias de menor consumo de água e energia, reduzindo impactos ambientais. (IV) Desenvolvimento de um novo módulo fotovoltaico com maior eficiência energética e componentes recicláveis. Com base nas classificações de inovação alinhadas ao desenvolvimento sustentável, a associação correta é",
       "alternatives": {
         "A": "(I) organizacional; (II) marketing; (III) processo; (IV) produto.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e5553bb0c5176a68"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e5553bb0c5176a68",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma unidade nuclear, a reposição de componentes críticos deve ser planejada com alta confiabilidade. O estoque de segurança é estimado considerando a demanda média diária de 20 unidades e um desvio-padrão de 6 unidades/dia. Para um nível de serviço de 95% (z = 1,65), assinale a opção que apresenta a melhor decisão para representar a lógica da política de reposição.",
       "alternatives": {
         "A": "Adotar estoque de segurança igual à média da demanda multiplicada pelo z.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2d1d62ac8e730c9b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2d1d62ac8e730c9b",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre gráficos de controle utilizados no CEP (Controle Estatístico de Processo) é incorreto afirmar que",
       "alternatives": {
         "A": "para monitorar medições individuais (uma observação por amostra), o gráfico np é a ferramenta mais indicada.",
         "B": "o gráfico c é utilizado para controlar o número de não conformidades quando a área/volume inspecionado é constante.",
         "C": "o gráfico u controla o número médio de não conformidades por unidade, aceitando tamanhos de amostra diferentes.",
         "D": "o gráfico p é adequado para monitorar a proporção de itens não conformes, mesmo com tamanhos de amostra variáveis.",
-        "E": "os gráficos X̄–R e X̄–S são utilizados para monitorar características mensuráveis (variáveis), como tempo, comprimento e peso. Redação"
+        "E": "os gráficos X̄–R e X̄–S são utilizados para monitorar características mensuráveis (variáveis), como tempo, comprimento e peso."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2cd952657806966c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2cd952657806966c",
+      "base_text": null
     }
   ],
   "year": 2024,

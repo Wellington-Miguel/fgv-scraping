@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Polícia Militar do Estado da Paraíba",
   "cargo_title": "PARAÍBA - CURSO DE FORMAÇÃO DE OFICIAIS",
   "exam_type": "Tipo 1",
-  "total_questions": 79,
+  "total_questions": 80,
   "questions": [
     {
       "question_number": 1,
@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "39da123f09b33b5b"
+      "question_hash": "39da123f09b33b5b",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "dc906619db74f3ea"
+      "question_hash": "dc906619db74f3ea",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "43b7d3d57874541e"
+      "question_hash": "43b7d3d57874541e",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "90e99226e56a26cf"
+      "question_hash": "90e99226e56a26cf",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b39648bad8e3c8bd"
+      "question_hash": "b39648bad8e3c8bd",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2324ef276dc7f2c8"
+      "question_hash": "2324ef276dc7f2c8",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4cb4241f880cc5ed"
+      "question_hash": "4cb4241f880cc5ed",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "756d368ed3c45809"
+      "question_hash": "756d368ed3c45809",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd3f497dde2c6e10"
+      "question_hash": "fd3f497dde2c6e10",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,11 +203,12 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "163445948d0ba19e"
+      "question_hash": "163445948d0ba19e",
+      "base_text": null
     },
     {
       "question_number": 11,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Informática",
       "statement": "Utilizando seu notebook com Windows 10, Gabriel notou que o computador ficou excessivamente lento, e está tentando identificar a razão dessa lentidão. O recurso do Windows que é adequado para que Gabriel possa identificar, dentre os programas e processos ativos no seu sistema, o consumo de recursos como memória, disco, rede e outros, é denominado:",
       "alternatives": {
         "A": "Assistência Rápida;",
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "810229528046beb3"
+      "question_hash": "810229528046beb3",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,7 +243,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2e2262b46df3b436"
+      "question_hash": "2e2262b46df3b436",
+      "base_text": null
     },
     {
       "question_number": 13,
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6a65ec0027c42bf5"
+      "question_hash": "6a65ec0027c42bf5",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e3893896f0ea3393"
+      "question_hash": "e3893896f0ea3393",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,28 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d4c0952b55d9f4f1"
+      "question_hash": "d4c0952b55d9f4f1",
+      "base_text": null
+    },
+    {
+      "question_number": 16,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "Considere o conjunto {−3; −2; −1; 0; 1; 2; 3}. Sorteiam-se, aleatoriamente sem reposição, dois elementos desse conjunto. A probabilidade de a soma dos dois números sorteados ser positiva é:",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a25536c607f70fde",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -308,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "20cb69d726df3afb"
+      "question_hash": "20cb69d726df3afb",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -327,7 +363,8 @@
       "image_path": "data/processed/images/pmpb2021_cargo-geral_q18.png",
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "32189ee4a8b864c7"
+      "question_hash": "32189ee4a8b864c7",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -346,14 +383,15 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "0937736ad90a566c"
+      "question_hash": "0937736ad90a566c",
+      "base_text": null
     },
     {
       "question_number": 20,
       "discipline": "Conhecimentos Básicos / Gerais",
-      "statement": "“Na década de 1990 começou-se a compreender a noção de segurança humana como a busca pela segurança fundada no fortalecimento das instituições democráticas e do Estado de Direito, proporcionando ao indivíduo condições adequadas para o seu desenvolvimento pessoal, familiar e social. Dessa forma, na atualidade, a segurança é vista pelo Programa das Nações Unidas para o Desenvolvimento (PNUD) como um assunto relacionado diretamente com o respeito à vida e à dignidade, que inclui segurança econômica, alimentar, sanitária, ambiental, pessoal, comunitária e política, dimensões estas relacionadas com as Metas de Desenvolvimento para o Milênio.” Adaptado de VELÁSQUEZ, H.",
+      "statement": "“Na década de 1990 começou-se a compreender a noção de segurança humana como a busca pela segurança fundada no fortalecimento das instituições democráticas e do Estado de Direito, proporcionando ao indivíduo condições adequadas para o seu desenvolvimento pessoal, familiar e social. Dessa forma, na atualidade, a segurança é vista pelo Programa das Nações Unidas para o Desenvolvimento (PNUD) como um assunto relacionado diretamente com o respeito à vida e à dignidade, que inclui segurança econômica, alimentar, sanitária, ambiental, pessoal, comunitária e política, dimensões estas relacionadas com as Metas de Desenvolvimento para o Milênio.” Adaptado de VELÁSQUEZ, H. A. Os governos locais e a segurança cidadã. Brasília – DF: Secr. Nac. de Seg. Pública – PNUD, 2009, p. 44. Com base no texto, analise as afirmativas a seguir sobre esse novo paradigma de segurança pública. I. Fortalece a segurança nacional, entendida como a defesa da nação e de seus valores fundamentais em face de inimigos externos e internos que ameaçam a integridade do Estado. II. Preconiza a prevenção e a redução da violência e o aumento da sensação de segurança e pertencimento à cidade para promover a melhoria das condições de vida da população em uma ambiência mais pacífica. III. Facilita o acesso dos cidadãos a mecanismos de resolução de conflito e relaciona a segurança pública ao respeito à vida e à dignidade humana, tornando-a um pré-requisito para a consolidação da democracia. Está correto o que se afirma em:",
       "alternatives": {
-        "A": "Os governos locais e a segurança cidadã. Brasília – DF: Secr. Nac. de Seg. Pública – PNUD, 2009, p. 44. Com base no texto, analise as afirmativas a seguir sobre esse novo paradigma de segurança pública. I. Fortalece a segurança nacional, entendida como a defesa da nação e de seus valores fundamentais em face de inimigos externos e internos que ameaçam a integridade do Estado. II. Preconiza a prevenção e a redução da violência e o aumento da sensação de segurança e pertencimento à cidade para promover a melhoria das condições de vida da população em uma ambiência mais pacífica. III. Facilita o acesso dos cidadãos a mecanismos de resolução de conflito e relaciona a segurança pública ao respeito à vida e à dignidade humana, tornando-a um pré-requisito para a consolidação da democracia. Está correto o que se afirma em: (A) somente I;",
+        "A": "somente I;",
         "B": "somente II;",
         "C": "somente III;",
         "D": "somente II e III;",
@@ -361,15 +399,16 @@
       },
       "answer": "D",
       "annulled": false,
-      "has_image": false,
-      "image_path": null,
+      "has_image": true,
+      "image_path": "data/processed/images/pmpb2021_cargo-geral_q20.png",
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2903a7bd4188e26f"
+      "question_hash": "e9443b1ff85402a1",
+      "base_text": null
     },
     {
       "question_number": 21,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Auditoria e Controle",
       "statement": "Não existe uma palavra em português para o termo accountability, mas ele pode ser traduzido como controle, fiscalização, responsabilização, ou ainda prestação de contas. A respeito dos mecanismos de accountability na governança pública brasileira, analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s). ( ) O grau de independência do funcionalismo em relação às pressões políticas mede a qualidade da governança pública: quanto menor for o grau de independência, mais democrático será o nível de governança. ( ) O Tribunal de Contas da União e o Ministério Público são exemplos de órgãos de controle institucional, pois avaliam o desempenho de agentes públicos dentro da própria máquina estatal. ( ) As corregedorias são um instrumento interno de controle de forças policiais e sua tarefa é a averiguação de crimes, faltas disciplinares e infrações administrativas, para combater condutas desviantes de funcionários de segurança pública. A sequência correta é:",
       "alternatives": {
         "A": "F – V – F;",
@@ -383,8 +422,9 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "34f34fda15964611"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "34f34fda15964611",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -403,7 +443,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "268434c7d4e413b7"
+      "question_hash": "268434c7d4e413b7",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -422,7 +463,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a7fb4941b9087f3b"
+      "question_hash": "a7fb4941b9087f3b",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -441,7 +483,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "0c8e8b8c6e3a55b5"
+      "question_hash": "0c8e8b8c6e3a55b5",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -460,7 +503,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "397e6ba16b22abe8"
+      "question_hash": "397e6ba16b22abe8",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -479,7 +523,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b1a484cfe5531ac8"
+      "question_hash": "b1a484cfe5531ac8",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -498,7 +543,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "88c697b2a139eab5"
+      "question_hash": "88c697b2a139eab5",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -517,7 +563,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9f17407afbd1f6d6"
+      "question_hash": "9f17407afbd1f6d6",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -536,7 +583,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c5112f0abd6f3fb8"
+      "question_hash": "c5112f0abd6f3fb8",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -555,7 +603,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "53e17e255a06b8f2"
+      "question_hash": "53e17e255a06b8f2",
+      "base_text": null
     },
     {
       "question_number": 31,
@@ -574,7 +623,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9e71634da173b10d"
+      "question_hash": "9e71634da173b10d",
+      "base_text": null
     },
     {
       "question_number": 32,
@@ -593,7 +643,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd54996afd8eec67"
+      "question_hash": "fd54996afd8eec67",
+      "base_text": null
     },
     {
       "question_number": 33,
@@ -612,11 +663,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "94a854668b0192c3"
+      "question_hash": "94a854668b0192c3",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Penal e Criminologia",
       "statement": "Inês, adolescente de 17 anos de idade, foi acusada da prática de ato infracional análogo ao crime de homicídio. À luz da sistemática constitucional, é correto afirmar que, na relação processual instituída perante o juízo competente, sem prejuízo de outras garantias, devem ser observados os seguintes aspectos:",
       "alternatives": {
         "A": "defesa técnica por profissional habilitado, limitada eventual aplicação de medida privativa de liberdade à metade da pena cominada aos imputáveis;",
@@ -630,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "11d834d39a0ec854"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "11d834d39a0ec854",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Legislação do SUS e Saúde Pública",
       "statement": "Gérson, Prefeito do Município Alfa, decidiu adotar uma série de medidas com o objetivo de aprimorar os serviços de saúde oferecidos à coletividade. Entre essas medidas, (1) permitiu que instituições privadas participassem de forma complementar do Sistema Único de Saúde, celebrando um ajuste para este fim; (2) concedeu uma subvenção aos hospitais privados, com fins lucrativos, que comprovadamente atendessem pessoas de baixa renda em caráter oneroso; e (3) estabeleceu ampla e irrestrita igualdade de tratamento entre as sociedades empresárias de capital nacional e aquelas de capital estrangeiro, de modo a estimular a atuação dessas últimas na área de assistência à saúde. À luz da sistemática constitucional, é correto afirmar que:",
       "alternatives": {
         "A": "todas as medidas são constitucionais;",
@@ -649,8 +702,9 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e5394492def69615"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e5394492def69615",
+      "base_text": null
     },
     {
       "question_number": 36,
@@ -669,11 +723,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "325cd374fa05167b"
+      "question_hash": "325cd374fa05167b",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Penal e Criminologia",
       "statement": "No site da Polícia Militar do Estado da Paraíba, consta matéria com o título “TECNOLOGIA: Polícia Militar da Paraíba avança e aprova Regulamento Interno de Segurança Cibernética”, datada de 29/04/2021. No corpo da notícia, é informado que foi publicada a Resolução nº 003 de 2021, pelo Comandante-geral da Polícia Militar, com o objetivo de regular as ações de segurança cibernética da instituição para prevenir invasão de dispositivos eletrônicos, perdas, roubos, vazamento ou falsificação de dados, além de verificar fragilidades e apontar soluções para as demandas apresentadas, entre outros serviços. Ao final, é ressaltado que a resolução foi criada no âmbito da Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD). Com base na doutrina de Direito Administrativo, é correto afirmar que a resolução mencionada é um ato editado para complementar e facilitar a execução da lei e está diretamente baseado no poder administrativo:",
       "alternatives": {
         "A": "de polícia, eis que foi praticado pelo chefe da instituição, que detém competência privativa para tal;",
@@ -687,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6921431d2c064a73"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6921431d2c064a73",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Administrativo",
       "statement": "O Comandante-Geral da Polícia Militar do Estado Beta, no regular exercício de suas funções, praticou ato administrativo de remoção do PM Moacir do BPM - Batalhão de Polícia Militar X para o BPM Y. O ato foi publicado no boletim interno da corporação no dia 5 de agosto de 2021, com efeitos a partir de 1º de setembro do mesmo ano. Ocorre que, em razão de grave conflito entre traficantes de drogas e milicianos em comunidade situada na área do BPM X, o Comandante-Geral, por motivo de oportunidade e conveniência, resolveu extinguir o ato administrativo de remoção do PM Moacir, de maneira que ele continuasse lotado no BPM X, em razão de novas operações policiais que estão sendo planejadas para os próximos meses, que demandarão o maior número possível de policiais. A mencionada extinção do ato administrativo de remoção do PM Moacir é chamada pela doutrina de Direito Administrativo de:",
       "alternatives": {
         "A": "anulação, que é um ato vinculado;",
@@ -706,8 +762,9 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ba7d48a806548831"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ba7d48a806548831",
+      "base_text": null
     },
     {
       "question_number": 39,
@@ -726,7 +783,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b303445479ca435f"
+      "question_hash": "b303445479ca435f",
+      "base_text": null
     },
     {
       "question_number": 40,
@@ -745,11 +803,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7dbd9e566fa4145b"
+      "question_hash": "7dbd9e566fa4145b",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Penal e Criminologia",
       "statement": "João, policial militar do Estado da Paraíba, foi preso preventivamente pela prática do crime de concussão, no bojo de ação penal na qual ainda nem se iniciou a fase de instrução probatória. De acordo com o texto legal do Estatuto dos Policiais Militares do Estado da Paraíba (Lei Estadual nº 3.909/1977), João tem a prerrogativa de:",
       "alternatives": {
         "A": "cumprimento da prisão preventiva somente em organização policial militar, cujo comandante, chefe ou diretor lhe tenha precedência hierárquica;",
@@ -763,8 +822,9 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "de7563b547961959"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "de7563b547961959",
+      "base_text": null
     },
     {
       "question_number": 42,
@@ -783,7 +843,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a93f7c16b2971bc4"
+      "question_hash": "a93f7c16b2971bc4",
+      "base_text": null
     },
     {
       "question_number": 43,
@@ -802,7 +863,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "de460e04fa556e05"
+      "question_hash": "de460e04fa556e05",
+      "base_text": null
     },
     {
       "question_number": 44,
@@ -821,7 +883,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c60eab5047a2fe5d"
+      "question_hash": "c60eab5047a2fe5d",
+      "base_text": null
     },
     {
       "question_number": 45,
@@ -840,11 +903,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "aca1d1cf1e578b8c"
+      "question_hash": "aca1d1cf1e578b8c",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Informática",
       "statement": "Em determinado mercado, ao suspeitar do comportamento de uma pessoa, o gerente dirigiu-se à sala de monitoramento, passando a acompanhar a movimentação no interior do estabelecimento. Em certo momento, viu quando o sujeito colocou duas garrafas no interior da sua calça e se dirigiu à saída da loja. Ainda de dentro da sala, acionou um fiscal de salão, pelo rádio, determinando que o sujeito fosse parado. Em razão do movimento da loja, o fiscal não conseguiu se deslocar a tempo, tendo o sujeito saído à rua e sido contido por populares, após gritos de “pega ladrão”. Com a chegada da Polícia Militar, o sujeito retirou as garrafas de dentro da calça, sendo constatado que se tratava de duas unidades de whisky importado, no valor unitário de R$ 1.500,00. Diante do cenário, a respeito da conduta praticada pelo sujeito, é correto afirmar que:",
       "alternatives": {
         "A": "configura furto consumado, pois a existência de vigilância, por si só, não afasta a viabilidade da conduta;",
@@ -859,11 +923,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "778755d167db1059"
+      "question_hash": "778755d167db1059",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Administrativo",
       "statement": "Ao tentar sacar parcela do seguro-desemprego a que fazia jus, Mário foi informado, por funcionário da Caixa Econômica Federal, em Niterói/RJ, de que tais valores haviam sido previamente sacados por terceiro não identificado em agência da mesma instituição bancária, localizada em João Pessoa/PB. Investigada a ação, constatou-se que o modus operandi consistia em saques efetuados em autoatendimento ou lotéricas, com utilização de cartão cidadão emitido pelo Ministério do Trabalho, sem a prévia solicitação dos beneficiários, cujos endereços de entrega foram indevidamente alterados. Diante desse cenário, é correto afirmar que se trata de:",
       "alternatives": {
         "A": "estelionato, consumado em João Pessoa;",
@@ -877,8 +942,9 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9b467032653b99be"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9b467032653b99be",
+      "base_text": null
     },
     {
       "question_number": 48,
@@ -897,11 +963,12 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "21e9fe7ca0b563d1"
+      "question_hash": "21e9fe7ca0b563d1",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Penal e Criminologia",
       "statement": "A vida militar tem regras próprias e também princípios próprios, que foram inclusive consagrados no texto constitucional de 1988, e devido a essa especialidade foi que o Código Penal Militar estabeleceu determinados ilícitos que alcançam tanto os integrantes das Forças Armadas como aqueles que integram as Forças Auxiliares. De igual forma, atento às especificidades da vida em caserna, estabeleceu uma Parte Geral com regras próprias, algumas vezes distintas daquelas praticadas no Código Penal comum. No que toca ao concurso de crimes, é correto afirmar que:",
       "alternatives": {
         "A": "as regras de aplicação dos concursos material e formal são iguais nos dois Códigos;",
@@ -915,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0edcab69166a42ec"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0edcab69166a42ec",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Processual Penal",
       "statement": "Em relação à prisão em flagrante (texto 1), é correto afirmar que:",
       "alternatives": {
         "A": "a cláusula que limita o ingresso ao período da noite é aplicável apenas aos casos em que a busca é determinada por ordem judicial;",
@@ -934,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d52c6692bf84551e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d52c6692bf84551e",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Processual Penal",
       "statement": "Em relação às buscas incidentais à prisão em flagrante (texto 1), é correto afirmar que é:",
       "alternatives": {
         "A": "inválida a ação de agente policial que atende ligação direcionada ao aparelho celular do capturado, durante a prisão em flagrante;",
@@ -953,8 +1022,9 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d19d2c9406eeab95"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d19d2c9406eeab95",
+      "base_text": null
     },
     {
       "question_number": 52,
@@ -973,7 +1043,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f1a5c8e0224d30cb"
+      "question_hash": "f1a5c8e0224d30cb",
+      "base_text": null
     },
     {
       "question_number": 53,
@@ -992,7 +1063,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7e4e28c1fd14d0f3"
+      "question_hash": "7e4e28c1fd14d0f3",
+      "base_text": null
     },
     {
       "question_number": 54,
@@ -1011,7 +1083,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d0b1428893c33ba"
+      "question_hash": "8d0b1428893c33ba",
+      "base_text": null
     },
     {
       "question_number": 55,
@@ -1030,7 +1103,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a0f834c4adb7fa0c"
+      "question_hash": "a0f834c4adb7fa0c",
+      "base_text": null
     },
     {
       "question_number": 56,
@@ -1049,7 +1123,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c9a0934ea0c20da3"
+      "question_hash": "c9a0934ea0c20da3",
+      "base_text": null
     },
     {
       "question_number": 57,
@@ -1068,7 +1143,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "0269ebf3d380b8d2"
+      "question_hash": "0269ebf3d380b8d2",
+      "base_text": null
     },
     {
       "question_number": 58,
@@ -1087,11 +1163,12 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "78e01cbe872a74e0"
+      "question_hash": "78e01cbe872a74e0",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Processual Penal",
       "statement": "Em relação à perda do cargo como efeito da sentença penal condenatória, a Constituição da República de 1988 estabeleceu, no Art. 125, § 4º, um sistema especial em que cabe ao Tribunal competente a decisão. No entanto, por força de tratados internacionais, uma lei especial confere competência ao juiz de direito, em primeiro grau, para decretar a perda do cargo do militar como efeito automático da condenação penal. Trata-se da lei de:",
       "alternatives": {
         "A": "Tortura (Lei nº 9.455/1997);",
@@ -1105,12 +1182,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a65d2ced8c40f6cb"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a65d2ced8c40f6cb",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Conhecimentos Básicos / Gerais",
+      "discipline": "Direito Processual Penal",
       "statement": "Após flagrar uma negociação criminosa, determinado policial militar realiza a condução dos capturados à unidade de polícia judiciária. Após os trâmites legais, referentes à lavratura do auto de prisão em flagrante, fica sabendo que o agente capturado pretende fazer acordo de delação premiada, iniciando tratativas com o delegado de polícia, visando à diminuição de eventual pena. Insatisfeito com o rumo adotado, por acreditar que seria mais um caso de impunidade, o policial militar procura um contato da imprensa e revela a negociação, repassando os dados qualificativos e imagens do agente capturado. Agindo dessa forma, o policial militar pratica o crime de:",
       "alternatives": {
         "A": "abuso de autoridade, por constranger o preso a exibir-se ao público;",
@@ -1124,8 +1202,9 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "aeeb7e84a3fee5c7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "aeeb7e84a3fee5c7",
+      "base_text": null
     },
     {
       "question_number": 61,
@@ -1144,7 +1223,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d77f44f831a1db66"
+      "question_hash": "d77f44f831a1db66",
+      "base_text": null
     },
     {
       "question_number": 62,
@@ -1163,7 +1243,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d42fcff82a9a0993"
+      "question_hash": "d42fcff82a9a0993",
+      "base_text": null
     },
     {
       "question_number": 63,
@@ -1182,7 +1263,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2a171e127393560e"
+      "question_hash": "2a171e127393560e",
+      "base_text": null
     },
     {
       "question_number": 64,
@@ -1201,7 +1283,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9f7ff04226cd9edb"
+      "question_hash": "9f7ff04226cd9edb",
+      "base_text": null
     },
     {
       "question_number": 65,
@@ -1220,7 +1303,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Específicos",
-      "question_hash": "87a5cb99bca56632"
+      "question_hash": "87a5cb99bca56632",
+      "base_text": null
     },
     {
       "question_number": 66,
@@ -1239,7 +1323,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Específicos",
-      "question_hash": "036dd9a8f022a04e"
+      "question_hash": "036dd9a8f022a04e",
+      "base_text": null
     },
     {
       "question_number": 67,
@@ -1258,7 +1343,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4cb5fe223d507a29"
+      "question_hash": "4cb5fe223d507a29",
+      "base_text": null
     },
     {
       "question_number": 68,
@@ -1277,7 +1363,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d621ff71db8f68e6"
+      "question_hash": "d621ff71db8f68e6",
+      "base_text": null
     },
     {
       "question_number": 69,
@@ -1296,7 +1383,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c494d5197a810912"
+      "question_hash": "c494d5197a810912",
+      "base_text": null
     },
     {
       "question_number": 70,
@@ -1315,7 +1403,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Específicos",
-      "question_hash": "beda5856ec4d66e5"
+      "question_hash": "beda5856ec4d66e5",
+      "base_text": null
     },
     {
       "question_number": 71,
@@ -1334,7 +1423,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Específicos",
-      "question_hash": "14411aca98bf0503"
+      "question_hash": "14411aca98bf0503",
+      "base_text": null
     },
     {
       "question_number": 72,
@@ -1353,7 +1443,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Específicos",
-      "question_hash": "422efe747f6d7314"
+      "question_hash": "422efe747f6d7314",
+      "base_text": null
     },
     {
       "question_number": 73,
@@ -1372,7 +1463,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Específicos",
-      "question_hash": "17fdce4ffcfe7e16"
+      "question_hash": "17fdce4ffcfe7e16",
+      "base_text": null
     },
     {
       "question_number": 74,
@@ -1391,7 +1483,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Específicos",
-      "question_hash": "95b18ac8336f9af2"
+      "question_hash": "95b18ac8336f9af2",
+      "base_text": null
     },
     {
       "question_number": 75,
@@ -1410,7 +1503,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ddc2d3b37e0d22aa"
+      "question_hash": "ddc2d3b37e0d22aa",
+      "base_text": null
     },
     {
       "question_number": 76,
@@ -1429,7 +1523,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Específicos",
-      "question_hash": "80fcb70d3ca32dde"
+      "question_hash": "80fcb70d3ca32dde",
+      "base_text": null
     },
     {
       "question_number": 77,
@@ -1448,7 +1543,8 @@
       "image_path": null,
       "page_number": 18,
       "module": "Conhecimentos Específicos",
-      "question_hash": "bddf91ab9e4a5f89"
+      "question_hash": "bddf91ab9e4a5f89",
+      "base_text": null
     },
     {
       "question_number": 78,
@@ -1467,7 +1563,8 @@
       "image_path": null,
       "page_number": 18,
       "module": "Conhecimentos Específicos",
-      "question_hash": "26e792ce4a99a125"
+      "question_hash": "26e792ce4a99a125",
+      "base_text": null
     },
     {
       "question_number": 79,
@@ -1486,7 +1583,8 @@
       "image_path": null,
       "page_number": 18,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ae665b03d3feb4fb"
+      "question_hash": "ae665b03d3feb4fb",
+      "base_text": null
     },
     {
       "question_number": 80,
@@ -1505,7 +1603,8 @@
       "image_path": null,
       "page_number": 18,
       "module": "Conhecimentos Específicos",
-      "question_hash": "0e8b176bc7f7c5a3"
+      "question_hash": "0e8b176bc7f7c5a3",
+      "base_text": null
     }
   ],
   "year": 2021,

@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_designer-grafico_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -566,7 +595,7 @@
         "B": "prediction.",
         "C": "suggestion.",
         "D": "permission.",
-        "E": "willingness. Módulo II Design Gráfico"
+        "E": "willingness."
       },
       "answer": "C",
       "annulled": false,
@@ -574,7 +603,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
@@ -593,7 +623,8 @@
       "image_path": "data/processed/images/amazul_designer-grafico_q31.png",
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "84a45955b8651a40"
+      "question_hash": "84a45955b8651a40",
+      "base_text": null
     },
     {
       "question_number": 32,
@@ -612,7 +643,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd97f885fe0e1327"
+      "question_hash": "fd97f885fe0e1327",
+      "base_text": null
     },
     {
       "question_number": 33,
@@ -631,7 +663,8 @@
       "image_path": "data/processed/images/amazul_designer-grafico_q33.png",
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "378a2bf6221c8cc4"
+      "question_hash": "378a2bf6221c8cc4",
+      "base_text": null
     },
     {
       "question_number": 34,
@@ -650,7 +683,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "74b0d3b1d33cf11c"
+      "question_hash": "74b0d3b1d33cf11c",
+      "base_text": null
     },
     {
       "question_number": 35,
@@ -669,7 +703,8 @@
       "image_path": "data/processed/images/amazul_designer-grafico_q35.png",
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e92670c39ef509ca"
+      "question_hash": "e92670c39ef509ca",
+      "base_text": null
     },
     {
       "question_number": 36,
@@ -688,7 +723,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "43ad311ff3d8c45a"
+      "question_hash": "43ad311ff3d8c45a",
+      "base_text": null
     },
     {
       "question_number": 37,
@@ -707,7 +743,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b8e7ee2c5e3ad5d6"
+      "question_hash": "b8e7ee2c5e3ad5d6",
+      "base_text": null
     },
     {
       "question_number": 38,
@@ -726,7 +763,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f31e8aa479509372"
+      "question_hash": "f31e8aa479509372",
+      "base_text": null
     },
     {
       "question_number": 39,
@@ -745,7 +783,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7fa53e50a69ec94c"
+      "question_hash": "7fa53e50a69ec94c",
+      "base_text": null
     },
     {
       "question_number": 40,
@@ -764,7 +803,8 @@
       "image_path": "data/processed/images/amazul_designer-grafico_q40.png",
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7936286ab1358367"
+      "question_hash": "7936286ab1358367",
+      "base_text": null
     },
     {
       "question_number": 41,
@@ -783,7 +823,8 @@
       "image_path": "data/processed/images/amazul_designer-grafico_q41.png",
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3168baa674c6d31a"
+      "question_hash": "3168baa674c6d31a",
+      "base_text": null
     },
     {
       "question_number": 42,
@@ -802,7 +843,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "063a4996a1acd4ea"
+      "question_hash": "063a4996a1acd4ea",
+      "base_text": null
     },
     {
       "question_number": 43,
@@ -821,7 +863,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "0c5103ddc8222ff1"
+      "question_hash": "0c5103ddc8222ff1",
+      "base_text": null
     },
     {
       "question_number": 44,
@@ -840,7 +883,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "761a92282eec3328"
+      "question_hash": "761a92282eec3328",
+      "base_text": null
     },
     {
       "question_number": 45,
@@ -859,7 +903,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "90aec80f22c99065"
+      "question_hash": "90aec80f22c99065",
+      "base_text": null
     },
     {
       "question_number": 46,
@@ -878,7 +923,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c0831f2d33f8cf7e"
+      "question_hash": "c0831f2d33f8cf7e",
+      "base_text": null
     },
     {
       "question_number": 47,
@@ -897,7 +943,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d15262f5a2f5fbd3"
+      "question_hash": "d15262f5a2f5fbd3",
+      "base_text": null
     },
     {
       "question_number": 48,
@@ -916,7 +963,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "55cb722021840272"
+      "question_hash": "55cb722021840272",
+      "base_text": null
     },
     {
       "question_number": 49,
@@ -935,7 +983,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "dc4f75f737fe4c78"
+      "question_hash": "dc4f75f737fe4c78",
+      "base_text": null
     },
     {
       "question_number": 50,
@@ -954,7 +1003,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cbbfe68f0d5989a9"
+      "question_hash": "cbbfe68f0d5989a9",
+      "base_text": null
     },
     {
       "question_number": 51,
@@ -973,7 +1023,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7a1dcdd1417bb68b"
+      "question_hash": "7a1dcdd1417bb68b",
+      "base_text": null
     },
     {
       "question_number": 52,
@@ -992,7 +1043,8 @@
       "image_path": "data/processed/images/amazul_designer-grafico_q52.png",
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4171c666908dc783"
+      "question_hash": "4171c666908dc783",
+      "base_text": null
     },
     {
       "question_number": 53,
@@ -1011,7 +1063,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d2700fdd9c8344b5"
+      "question_hash": "d2700fdd9c8344b5",
+      "base_text": null
     },
     {
       "question_number": 54,
@@ -1030,7 +1083,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "92677efb274a7d03"
+      "question_hash": "92677efb274a7d03",
+      "base_text": null
     },
     {
       "question_number": 55,
@@ -1049,7 +1103,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8ac2bc91ddd48132"
+      "question_hash": "8ac2bc91ddd48132",
+      "base_text": null
     },
     {
       "question_number": 56,
@@ -1068,7 +1123,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "90c1eb932deba813"
+      "question_hash": "90c1eb932deba813",
+      "base_text": null
     },
     {
       "question_number": 57,
@@ -1087,7 +1143,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "60a4c39ca06c34c3"
+      "question_hash": "60a4c39ca06c34c3",
+      "base_text": null
     },
     {
       "question_number": 58,
@@ -1106,7 +1163,8 @@
       "image_path": "data/processed/images/amazul_designer-grafico_q58.png",
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "db563fb12a61ebe7"
+      "question_hash": "db563fb12a61ebe7",
+      "base_text": null
     },
     {
       "question_number": 59,
@@ -1125,7 +1183,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "331c0724400d4707"
+      "question_hash": "331c0724400d4707",
+      "base_text": null
     },
     {
       "question_number": 60,
@@ -1136,7 +1195,7 @@
         "B": "III, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III. Redação"
+        "E": "I, II e III."
       },
       "answer": "B",
       "annulled": false,
@@ -1144,7 +1203,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1e4134155919355c"
+      "question_hash": "1e4134155919355c",
+      "base_text": null
     }
   ],
   "year": 2024,

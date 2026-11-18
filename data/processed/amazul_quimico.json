@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_quimico_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Durante a preparação de uma solução padrão em um laboratório de controle de qualidade, o analista precisa escolher um composto adequado para atuar como padrão primário em uma titulação. Para garantir a precisão dos resultados, esse composto deve atender a requisitos específicos, e uma característica que deve ser evitada é a elevada",
       "alternatives": {
         "A": "pureza.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "db842a33bf728b6b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "db842a33bf728b6b",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Embora exista um número relativamente pequeno de substâncias que apresentem as características exigidas para funcionar como padrão primário, algumas delas atendem aos requisitos necessários, como é o caso do",
       "alternatives": {
         "A": "FeCl₂",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e1d20592b30fdcc7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e1d20592b30fdcc7",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Uma amostra padrão de um corante foi analisada em um espectrofotômetro utilizando uma cubeta de quartzo com caminho óptico de 2 cm. Ao empregar luz de comprimento de onda de 543 nm, observou-se que a solução transmitia apenas 10% da luz incidente (valor já corrigido para absorção do solvente). A absortividade molar do corante nesse comprimento de onda é ε = 1000 L·mol⁻¹·cm⁻¹. Admitindo que o sistema obedece à Lei de Beer-Lambert e apresenta comportamento linear, a concentração desta solução é",
       "alternatives": {
         "A": "1,00×10⁻⁴ mol·L⁻¹.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "60cde2570daf4905"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "60cde2570daf4905",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Nas técnicas espectroscópicas que operam na região do ultravioleta, a escolha da fonte de radiação é fundamental para garantir boa intensidade, estabilidade e largura de banda adequada. Diferentes lâmpadas apresentam características específicas quanto ao espectro emitido, o que torna algumas mais apropriadas para esta faixa energética. Considerando as propriedades das principais fontes utilizadas em espectroscopia, a lâmpada mais apropriada para atuar como fonte para análises na região do ultravioleta é a",
       "alternatives": {
         "A": "lâmpada de tungstênio.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "49181c59ea07699c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "49181c59ea07699c",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "O potencial padrão de redução do par Cu²⁺/Cu⁺ é igual a +0,153 V em relação ao eletrodo padrão de hidrogênio (EPH). O eletrodo de referência Ag/AgCl (KCl sat.) apresenta potencial de redução igual a +0,197 V em relação ao EPH. I. Cu²⁺(aq) + e⁻ → Cu⁺(aq) E° = +0,153 V II. AgCl(s) + e⁻ → Ag(s) + Cl⁻(aq) E° = +0,197 V Assim, o potencial padrão de redução do Cu²⁺/Cu⁺ em relação ao eletrodo Ag/AgCl (KCl sat.) é",
       "alternatives": {
         "A": "–0,044 V.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e3c4d7199c6a221c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e3c4d7199c6a221c",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Nos atomizadores que utilizam chama, a temperatura elevada pode provocar a ionização de certos analitos, reduzindo a quantidade de átomos neutros disponíveis para absorção e, consequentemente, diminuindo a sensibilidade da análise. Para minimizar esse efeito indesejado, costuma-se adicionar um supressor de ionização, como é o caso do",
       "alternatives": {
         "A": "paládio (Pd).",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7cf84b4233ef3c4a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7cf84b4233ef3c4a",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "O eletrodo de membrana de vidro é um dos mais utilizados em potenciometria. A respeito desse eletrodo, a única opção incorreta é que",
       "alternatives": {
         "A": "o eletrodo de vidro é um eletrodo especial utilizado para quantificar a atividade do íon hidrogênio.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f33f223234307cf5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f33f223234307cf5",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "A espectroscopia de absorção atômica por vapor a frio é uma técnica que apresenta vantagens como alta sensibilidade, simplicidade, e menor custo energético, sendo apropriada para a determinação de",
       "alternatives": {
         "A": "mercúrio (Hg).",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "986cd168840dc02f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "986cd168840dc02f",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Um dos elementos fundamentais em um espectrofotômetro é a fonte de radiação. Na técnica de absorção atômica, utiliza-se a lâmpada de cátodo oco justamente porque a radiação produzida por esse tipo de fonte",
       "alternatives": {
         "A": "tem grande capacidade de atravessar materiais densos.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7293a00dc824bb37"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7293a00dc824bb37",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Em cromatografia gasosa, alguns analitos podem ser pouco voláteis. Para permitir sua detecção adequada, utiliza-se um procedimento pré-analítico que aumenta a volatilidade e estabilidade térmica das moléculas, que é chamado de",
       "alternatives": {
         "A": "pré-evaporação.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e4bf85198d912b50"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e4bf85198d912b50",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Em uma coluna de troca catiônica forte (grupos sulfonato), injeta- se uma amostra contendo Li⁺, Na⁺, Ca²⁺ e Al³⁺. Com um gradiente crescente de força iônica, a ordem mais provável de saída da coluna, do primeiro ao último cátion, após a eluição é",
       "alternatives": {
         "A": "Al³⁺ → Ca²⁺ → Na⁺ → Li⁺",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "263056a0904537b2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "263056a0904537b2",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "No monitoramento da qualidade de efluentes industriais, diferentes parâmetros analíticos são utilizados para avaliar o potencial de impacto ambiental e a eficiência dos processos de tratamento. Alguns desses parâmetros são",
       "alternatives": {
         "A": "turbidez, DQO e Oxigênio Dissolvido (OD) — usados para estimar sólidos sedimentáveis, toxicidade aguda e eficiência de neutralização ácida.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3be82254265b38ea"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3be82254265b38ea",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "De acordo com a Resolução CONAMA nº 357, de 17 de março de 2005, define-se como água salobra aquela que apresenta salinidade",
       "alternatives": {
         "A": "entre 0‰ e 0,5‰",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8edf236b461c133d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8edf236b461c133d",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "No processo de separação de misturas por cromatografia gasosa, a temperatura desempenha um papel fundamental. Com base nisso, analise os itens a seguir e marque como verdadeiro (V) ou falso (F). ( ) Idealmente, obtém-se uma melhor resolução entre os sinais quando a temperatura é mais elevada. ( ) Temperaturas mais baixas possibilitam melhor resolução entre os sinais, porém podem aumentar o tempo da análise. ( ) Deve-se sempre usar a temperatura entre 10 e 15 °C abaixo do ponto de ebulição médio das amostras, pois isso permitiria uma melhor separação. ( ) É possível programar a temperatura da coluna de forma a obter um equilíbrio entre resolução e tempo de análise. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "F – F – F – V.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ef05a59fbefe114c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ef05a59fbefe114c",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Um químico responsável pelo controle de qualidade deseja determinar com precisão o teor de ferro em um caminhão carregado com hematita. Para isso, ele precisa coletar amostras representativas do minério. Considerando boas práticas de amostragem em materiais sólidos e granulados, o procedimento que assegura a melhor representatividade da amostra é",
       "alternatives": {
         "A": "coletar amostras apenas na superfície lateral do caminhão, pois essa região é facilmente acessível e tende a representar toda a carga.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "88b5860f0e149342"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "88b5860f0e149342",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Os dados abaixo referem-se à determinação de glicose no soro sanguíneo. Assumindo que existe uma relação linear entre as variáveis, o valor aproximado para a sensibilidade de calibração do método é",
       "alternatives": {
         "A": "0,01 L mmol -1",
@@ -877,12 +922,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_quimico_q46.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f59d70b6daa3e9c3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f59d70b6daa3e9c3",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Um químico deseja determinar a concentração de íons Ca²⁺ em uma amostra aquosa por titulação complexométrica com EDTA. No entanto, ao analisar a ficha do processo industrial de onde a amostra foi coletada, ele percebeu que ela também contém quantidades significativas de Fe³⁺, que interfere na determinação dos íons Ca2+. Com base nisso, o preparo prévio adequado da amostra antes da titulação é",
       "alternatives": {
         "A": "adicionar excesso de NH₄Cl antes da titulação, pois o cloreto forma complexos estáveis com Ca²⁺, impedindo interferências de outros cátions metálicos.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "61b2661a314b08f9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "61b2661a314b08f9",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Foram realizadas medidas de emissão atômica para determinar a concentração de sódio no soro sanguíneo, cujos resultados são apresentados na tabela abaixo. Todas as intensidades foram corrigidas pelo branco, que apresentou valor 0,000 (com desvio padrão 0,0071) para a Csódio =0. Considerando o fator de confiança, k, com o valor de 3, o valor, aproximado, para o limite de detecção deste método é",
       "alternatives": {
         "A": "0,21 ng mL-1",
@@ -915,12 +962,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_quimico_q48.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "41bd7cbf9ac40341"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "41bd7cbf9ac40341",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "O ácido nítrico é amplamente utilizado na dissolução de materiais inorgânicos para fins analíticos, especialmente metais. Contudo, alguns metais nobres, como ouro e platina, não reagem com o ácido nítrico isoladamente. Nesses casos, a combinação de ácidos que deve ser realizada para possibilitar a dissolução desses metais é",
       "alternatives": {
         "A": "uma mistura de ácido sulfúrico e ácido nítrico na proporção de 1:1, respectivamente.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ced49b82986b6e08"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ced49b82986b6e08",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "A famosa Pilha de Daniell, amplamente descrita em livros didáticos de Química, é constituída, entre outros componentes, por um eletrodo de cobre metálico imerso em uma solução contendo íons cúpricos, e por um eletrodo de zinco metálico imerso em uma solução contendo íons zinco. Os eletrodos podem classificações distintas, de acordo com sua natureza, e na Pilha de Daniell",
       "alternatives": {
         "A": "o eletrodo de cobre é um eletrodo do primeiro tipo, porque ocorre a redução (cátodo), e o eletrodo de zinco é um eletrodo do segundo tipo, porque ocorre a oxidação (ânodo).",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3ff0c65761136ea9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3ff0c65761136ea9",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Ao construir uma curva de calibração para uma análise por absorção molecular em 567 nm, um analista obteve, após o tratamento adequado dos dados, a equação y = 2,01x + 0,030 (R² = 0,9995). Em seguida, mediu a absorbância da amostra em estudo e encontrou o valor 0,432. Considerando que a cubeta utilizada possui caminho óptico de 1,5 cm, a absortividade molar do analito no comprimento de onda de 567 nm é aproximadamente",
       "alternatives": {
         "A": "1,02 L mol-1 cm-1",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "28fcb78af3366ba8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "28fcb78af3366ba8",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "A cromatografia gasosa acoplada à espectrometria de massas (CG/MS) é considerada uma das técnicas mais importantes e poderosas da química analítica moderna, pois permite separar, identificar e quantificar compostos com alta sensibilidade e seletividade. Com base em sua natureza operacional, a CG/MS pode ser classificada como",
       "alternatives": {
         "A": "técnica hifenada.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5f480de74e521a80"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5f480de74e521a80",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "O fator de retenção (k) é um parâmetro fundamental na cromatografia, pois expressa o quanto um analito permanece interagindo com a fase estacionária em relação ao tempo gasto apenas pela fase móvel na coluna. Valores muito baixos de k dificultam a separação, enquanto valores excessivamente altos aumentam o tempo total da análise. Considere um analito que apresenta tempo de retenção (tᵣ) igual a 4,8 min. O tempo morto (tₘ), correspondente ao tempo necessário para a fase móvel atravessar toda a coluna, é de 0,8 min. O fator de retenção (k) do analito é:",
       "alternatives": {
         "A": "4,0",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9e4dc5db0df049e9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9e4dc5db0df049e9",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Durante uma análise cromatográfica, duas substâncias, X e Y, apresentaram tempos de retenção iguais a 15,30 min e 18,78 min, respectivamente. A coluna utilizada possui 30 cm de comprimento, e as larguras dos picos na base foram de 1,11 min para X e 1,21 min para Y. Com base nesses dados, a resolução (R) entre os dois picos é",
       "alternatives": {
         "A": "1,50",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b686a9c31b205ec2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b686a9c31b205ec2",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Em espectrometria de massas, a separação dos íons ocorre de acordo com a razão massa-carga (m/z). Para o íon ¹³C2¹H₄²⁺, a razão m/z aproximada é",
       "alternatives": {
         "A": "15",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "70c2211d34230719"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "70c2211d34230719",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Os atomizadores por plasma indutivamente acoplado (ICP) estão entre os mais utilizados em técnicas de emissão atômica, principalmente devido às vantagens que apresentam quando comparados aos atomizadores baseados em chama. No que se refere às características típicas do ICP, analise os itens a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) A atomização ocorre em um meio essencialmente inerte. ( ) A temperatura transversal no plasma tende a ser relativamente uniforme. ( ) Há boa tolerância à introdução de solventes orgânicos. ( ) Os processos de dessolvatação e vaporização são, em geral, praticamente completos. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V - F - V - V.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8000979917eb73d6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8000979917eb73d6",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "A temperatura é um fator decisivo nas técnicas de absorção e emissão que utilizam atomizadores por chama. Em algumas análises, é necessário elevar a temperatura para assegurar uma atomização eficiente; em outras, o controle térmico deve ser mais cuidadoso para evitar a ionização excessiva do analito. Considerando que o termo “gás” se refere, em geral, ao propano ou ao gás natural, a combinação de combustíveis e comburentes que produz a chama de maior temperatura é",
       "alternatives": {
         "A": "gás/ar.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d805535bc2da2504"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d805535bc2da2504",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Em procedimentos analíticos, a calibração determina a relação entre a resposta analítica e a concentração do analito. A grande maioria dos métodos necessitam de algum tipo de calibração com um padrão químico, e os poucos que não necessitam de calibração são chamados métodos absolutos. Dentre esses métodos está",
       "alternatives": {
         "A": "gravimetria.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2e7d8b97afb1716d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2e7d8b97afb1716d",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "Ao se construir uma curva de calibração confiável, os valores experimentais devem ser ajustados por meio da solução branco (muitas vezes chamada apenas de “branco”). Para que essa solução cumpra corretamente sua função, ela deve apresentar características específicas e, por isso, ela deve",
       "alternatives": {
         "A": "ser constituída exclusivamente de água destilada.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b37cb99ca476a6cf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b37cb99ca476a6cf",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Química",
       "statement": "O método conhecido como adição de padrão interno consiste na incorporação de uma quantidade conhecida da espécie que atua como referência em todas as amostras, brancos, etc. Usualmente, após as medições, constrói-se uma curva em que, no eixo x, é representada a concentração, e é representado no eixo y",
       "alternatives": {
         "A": "o sinal do analito.",
         "B": "o sinal do padrão externo.",
         "C": "o sinal do padrão interno.",
         "D": "a razão entre o sinal do analito e o sinal da espécie de referência.",
-        "E": "o produto entre o sinal do analito e o sinal da espécie de referência. Redação"
+        "E": "o produto entre o sinal do analito e o sinal da espécie de referência."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d0e4d6a11ddcedd4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d0e4d6a11ddcedd4",
+      "base_text": null
     }
   ],
   "year": 2024,

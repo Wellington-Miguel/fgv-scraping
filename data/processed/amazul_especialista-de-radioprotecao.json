@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_especialista-de-radioprotecao_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Em um átomo excitado em sua eletrosfera, o excesso de energia é transferido diretamente para um elétron de uma camada mais externa, arrancando-o do átomo; esse fenômeno é caracterizado por",
       "alternatives": {
         "A": "conversão interna.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7ca01814dd74bf6a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ca01814dd74bf6a",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "No tocante à atividade de uma substância radioativa, analise as afirmativas a seguir: I. A atividade é proporcional ao número de núcleos instáveis existentes na amostra, diminuindo à medida que esses núcleos se desintegram. II. O tempo de vida média é o tempo médio que um núcleo radioativo leva para decair, ou seja, o valor médio esperado do tempo de existência de um núcleo instável antes de se transformar. III. Uma transformação por segundo não significa a emissão de uma radiação por segundo, pois, numa transformação nuclear, podem ser emitidas várias radiações de vários tipos e várias energias. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "68af5d05d3677be6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "68af5d05d3677be6",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Durante a operação de um tubo de raios X de 87 kVp, foi possível visualizar através de medidas o espectro contínuo de bremsstrahlung e as linhas características Kα e Kβ. Analise os itens a seguir sobre as linhas Kα e Kβ e julgue-as como verdadeiras (V) ou falsas (F): ( ) A linha Kα é gerada quando um elétron cai da camada L para a camada K. ( ) Se o potencial de aceleração dos elétrons for inferior à energia de ligação da camada K, as linhas Kα e Kβ ainda poderão ser observadas no espectro, pois resultam de transições espontâneas entre níveis excitados superficiais. ( ) A intensidade da linha Kα é normalmente maior que a da linha Kβ devido à maior probabilidade de transição eletrônica entre as camadas L e K. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "F – V – V.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e40e9d42514148d8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e40e9d42514148d8",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Durante um teste de blindagem de materiais como chumbo e concreto, um supervisor de radioproteção analisou os diferentes efeitos das blindagens quando submetidas a um intervalo de energia de fótons do acelerador. Assinale a opção que relaciona corretamente a energia do fóton incidente e o tipo de interação predominante da radiação eletromagnética com a matéria.",
       "alternatives": {
         "A": "em baixas energias, predomina o espalhamento Compton, pois o fóton transfere toda sua energia ao elétron ligado, sendo completamente absorvido.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4fdf99720a541248"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4fdf99720a541248",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Antes de submeter o Plano de Proteção Radiológica à aprovação da CNEN pelo titular da instalação, o analista de radioproteção projetou uma barreira de concreto para proteção dos profissionais da radiação gama de 1,0 MeV de energia, emitida por uma fonte de Césio. Sabendo que o coeficiente de atenuação linear do concreto para a energia de 1,0 MeV é μconcreto = 0,12 cm⁻¹, assinale a opção que indica a espessura da barreira de concreto (em cm) necessária para reduzir a intensidade do feixe em 1/100 do valor inicial. (Dado: In 0,01 = – 4,6)",
       "alternatives": {
         "A": "38,3.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "06afb89c89f1c063"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "06afb89c89f1c063",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O especialista de proteção radiológica sabe que a radiação alfa (α) é a que apresenta o maior risco biológico, quando incorporada pelo organismo (inalada, ingerida ou absorvida). Para levar em conta o tipo e o poder de ionização da radiação, foi introduzido um fator corretivo (Q) usado em radioproteção. Esse fator considera quantas ionizações são produzidas por unidade de percurso (densidade linear de ionização). O sucessor e análogo direto do Fator Corretivo, utilizado nas recomendações mais recentes da ICRP (a partir da Publicação 60), é o",
       "alternatives": {
         "A": "fator biológico.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "782c1adb0ef71efd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "782c1adb0ef71efd",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A Figura abaixo representa o modelo conservativo em termos de proteção radiológica, seria a correlação linear entre dose e efeito, mesmo para baixos valores de dose. (Radioproteção e Dosimetria – Fundamentos, 2014; IRD/CNEN) Na região de baixas doses, há incertezas experimentais significativas, o que leva ao uso de diferentes modelos de extrapolação. Na figura, são indicados os seguintes comportamentos: (a) Modelo linear sem limiar (LNT); (b) Modelo de limiar (threshold); (c) Modelo hormético; (d) Dados experimentais disponíveis. Com base na figura e nos princípios de radioproteção, analise os itens a seguir: I. O modelo linear sem limiar (a) considera que qualquer dose, por menor que seja, implica em algum risco, sendo o mais conservativo e adotado oficialmente pela ICRP. II. O modelo de limiar (b) admite a existência de uma dose mínima abaixo da qual não ocorrem efeitos biológicos detectáveis, sendo aplicável a efeitos determinísticos, como eritema ou catarata. III. O modelo hormético (c) sugere que pequenas doses de radiação podem induzir mecanismos biológicos de reparo, reduzindo a probabilidade de ocorrência de efeitos adversos em comparação à ausência total de exposição. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -706,12 +742,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_especialista-de-radioprotecao_q37.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "13962770244b0d51"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "13962770244b0d51",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O Efeito da Taxa de Dose é um princípio fundamental em Radiobiologia que descreve a relação dose e resposta. Para uma mesma quantidade de radiação, os efeitos biológicos resultantes podem ser muito diferentes. Considerando uma dose total de radiação absorvida constante, assinale a opção que apresenta corretamente o dano biológico esperado quando a taxa de dose é reduzida ao longo do tempo.",
       "alternatives": {
         "A": "o dano biológico aumenta, visto que a distribuição da dose em um período estendido impede a ativação dos mecanismos de defesa celular.",
@@ -725,16 +762,17 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "911d64b041cc54be"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "911d64b041cc54be",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma equipe de especialistas em radioproteção está conduzindo um estudo comparativo para otimizar protocolos de segurança de dois serviços oferecidos na instituição. O foco da pesquisa é a avaliação da proteção radiológica dos funcionários que trabalham nos dois serviços da instituição a partir do risco biológico (EBR). Para isso, o estudo utiliza as duas fontes de radiação da instituição, ambas entregando a mesma dose física (em Gray) ao alvo: 1. Fonte A (Acelerador Linear): Emissão de fótons de alta energia (raios X), 2. Fonte B (Síncrotron de Pesquisa): Emissão de íons de Carbono (partículas pesadas), Os resultados preliminares indicam que, para a mesma dose física, a Fonte B é significativamente mais perigosa na indução de morte celular. A equipe precisa de uma análise aprofundada para justificar essa diferença de eficácia e suas implicações em radioproteção. Com base no cenário apresentado e nos seus conhecimentos sobre radiobiologia, assinale a opção que descreve corretamente as características da radiação de alto LET em comparação com a de baixo LET e justifica sua maior eficácia biológica.",
       "alternatives": {
-        "A": "a radiação de alto LET (Fonte",
-        "B": "deposita sua energia de forma espalhada, resultando em danos celulares predominantemente indiretos e facilmente reparáveis. (B) a radiação de alto LET (Fonte B) apresenta um padrão de ionização denso, causando danos celulares predominantemente diretos e complexos (quebras de fita dupla do DNA). Isso resulta em uma baixa capacidade de reparo e uma EBR invariavelmente maior que 1,0.",
+        "A": "a radiação de alto LET (Fonte B) deposita sua energia de forma espalhada, resultando em danos celulares predominantemente indiretos e facilmente reparáveis.",
+        "B": "a radiação de alto LET (Fonte B) apresenta um padrão de ionização denso, causando danos celulares predominantemente diretos e complexos (quebras de fita dupla do DNA). Isso resulta em uma baixa capacidade de reparo e uma EBR invariavelmente maior que 1,0.",
         "C": "a radiação de alto LET (Fonte B) tem sua eficácia biológica reduzida em células com baixa oxigenação, pois a falta de oxigênio impede a formação de radicais livres, o principal mecanismo de dano para este tipo de radiação.",
         "D": "a Eficácia Biológica Relativa (EBR) da radiação de alto LET é sempre menor que 1,0, pois a densa ionização leva à saturação do alvo biológico, desperdiçando energia e reduzindo a taxa de sobrevivência celular.",
         "E": "a principal vantagem da radiação de alto LET (Fonte B) é a sua capacidade de induzir dano celular apenas por meio de mecanismos indiretos, embora sua EBR seja igual à da radiação de baixo LET."
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d55a2fcd340c9977"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "106abafd083113ef",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O método que é empregado para a avaliação da dose interna em Indivíduos Ocupacionalmente Expostos (IOE) é caracterizado por",
       "alternatives": {
         "A": "dosímetro fotográfico e dosímetro albedo.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "dbce9bf074be59fb"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dbce9bf074be59fb",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A respeito dos procedimentos de padronização e calibração de kerma no ar, analise os itens a seguir: I. Na calibração de feixes-padrão de raios X para padronização de kerma no ar, utiliza-se uma câmara de ionização de referência, calibrada e posicionada no ponto definido (geralmente a 1 m do foco, com campo de 10 × 10 cm²), aplicando correções de temperatura, pressão e umidade para assegurar rastreabilidade metrológica. II. A rastreabilidade só é garantida por conexão eletricamente direta ao padrão primário, não sendo aceitos certificados de calibração com incertezas emitidos por laboratórios acreditados. III. Com equilíbrio de partículas carregadas e perdas radiativas desprezíveis, o kerma no ar equivale à dose absorvida, como ocorre em feixes de raios X diagnósticos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "df73c14ff253b36d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "df73c14ff253b36d",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "No estaleiro de construção do submarino nuclear, um analista de radioproteção precisa avaliar uma situação de campo. Um técnico de radioproteção precisa permanecer em uma área de manutenção próxima a um irradiador industrial. No local onde ele realizará a atividade, o nível de radiação medido é de 120 μSv/h. De acordo com o nível de investigação estabelecido pela CNEN- NN-3.01 (1 mSv/mês para indivíduos ocupacionalmente expostos), assinale a opção que determina corretamente por quanto tempo, diariamente, o técnico poderá permanecer nesse local, considerando uma jornada mensal de 20 dias úteis e a ausência de blindagens adicionais.",
       "alternatives": {
         "A": "0,55 h.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c6fe93a507ed29fa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c6fe93a507ed29fa",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um especialista de radioproteção precisa usar os níveis de referência estabelecidos pela norma CNEN-NN-3.01 em uma situação de trabalho. Analise os itens a seguir e assinale V para verdadeiro e F para falso. ( ) O nível de registro é a dose mínima que, quando ultrapassada, deve ser registrada e analisada para fins de acompanhamento individual de exposição ocupacional. ( ) Segundo a CNEN-NN-3.01, o nível de registro corresponde a 1/10 do limite anual de dose efetiva para trabalhadores ocupacionalmente expostos, ou seja, 2 mSv por ano. ( ) A ultrapassagem do nível de investigação obriga a suspensão imediata das atividades até que se prove não haver risco radiológico ao trabalhador. ( ) Diferente do nível de investigação, o nível de intervenção se aplica a situações de exposição potencial ou de emergência radiológica, e não a condições normais de trabalho. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – F – F – V.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7534d8cc41a60ed8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7534d8cc41a60ed8",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma ação que implique exposição radiológica só pode ser autorizada quando for comprovado, mediante análise comparativa de opções possíveis, que a incorporação dessa prática acrescenta valor social mensurável e supera, em magnitude, todos os riscos radiológicos e não radiológicos associados. Essa ação é caracterizada pelo princípio da",
       "alternatives": {
         "A": "ALARA.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d48e5da22766c816"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d48e5da22766c816",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Durante a avaliação da blindagem de uma sala de irradiador industrial, deseja-se verificar se a espessura da blindagem é suficiente para reduzir a exposição do operador a uma fonte selada de Cs-137, que emite fótons gama de energia média 0,5 MeV, incidindo sobre uma barreira de concreto de 10 cm de espessura. O coeficiente de atenuação linear para o concreto de 0,5 MeV é  = 0,200 cm-1. Como o campo de radiação é amplo e inclui radiação espalhada proveniente das paredes adjacentes, o fator de crescimento (build-up) é igual a B = 5,0 (Dado:e-2 = 0,1353). Com base nesses dados, o percentual da intensidade total transmitida (I/I₀) levando em conta o efeito de espalhamento é",
       "alternatives": {
         "A": "67,66%.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5cb5e65f0045a0e1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5cb5e65f0045a0e1",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Durante um ensaio de Gamagrafia Industrial para inspeção de solda em um oleoduto (Teste Não Destrutivo – END), um irradiador portátil utiliza uma fonte selada de 192-Irídio(192Ir) com uma atividade de 8,0 Ci. A fonte é projetada para estar próxima a 2,0 m de uma barreira temporária de concreto. A taxa de exposição medida no limite da Área Controlada, a 2,0 m da fonte, é de 4 mR/h. Sabe-se que o coeficiente de atenuação linear do concreto para fonte de 192Ir em MeV é μ = 0,15 cm⁻¹, dado: Ln(0,125) = – 2,0. Assinale a opção que indica a espessura mínima de parede necessária para que a taxa de exposição na área vizinha não ultrapasse 0,5 mR/h.",
       "alternatives": {
         "A": "11,3 cm.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c8703e99dd65f512"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c8703e99dd65f512",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "No âmbito da radioproteção, são estabelecidas grandezas radiológicas específicas para práticas que usem fontes ou geradores de radiação. As grandezas radiológicas mais consistentes em radioproteção, tanto na monitoração de área como na monitoração individual, são caracterizadas como grandezas",
       "alternatives": {
         "A": "limitantes.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1621ae30f687c658"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1621ae30f687c658",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um Analista de Radioproteção precisa dar orientação aos técnicos no uso dos equipamentos de proteção individual (EPIs) durante os exames de Medicina Nuclear com base nas normas e práticas de proteção radiológica. I. Guarda-corpo ou barreira física, usados para afastamento de feixe, encontram‐se entre os equipamentos de proteção individual (EPIs) no serviço de medicina nuclear; II. Quando um trabalhador acompanhar um paciente na Cintilografia de paratireoides, esse deve utilizar os EPIs; III. A RDC 330/2019 exige a inspeção periódica dos EPIs, incluindo verificação de integridade por métodos de imagem. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "96e5b73b9f8fc1ea"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "96e5b73b9f8fc1ea",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Analise os itens a seguir, relativos às respostas a emergências radiológicas e ao conteúdo de um plano de emergência, indicando (V) para verdadeiro ou (F) para falso. ( ) o plano de emergência radiológica deve prever níveis de intervenção pré-estabelecidos para orientar a tomada de decisão em situações que envolvam exposições anormais ou potenciais liberações de material radioativo. ( ) a primeira ação em qualquer emergência radiológica é isolar a fonte de radiação, mesmo que isso exija aproximação imediata da área perigosa antes de avaliar as condições de segurança. ( ) a comunicação imediata ao supervisor de radioproteção e às autoridades competentes faz parte das ações iniciais em emergências radiológicas, devendo ocorrer após a proteção pessoal e o reconhecimento da cena. ( ) o plano de emergência deve incluir procedimentos escritos para evacuação, delimitação de zonas de controle, atendimento médico inicial e monitorização radiológica das pessoas envolvidas. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – V – V – F.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f5507ad8ba6ad54f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f5507ad8ba6ad54f",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Cenário envolve a revisão de um Programa de Monitoração Radiológica Ambiental (PMRA) de uma Usina Nuclear, com o objetivo de manter a comparabilidade dos dados históricos e a validade legal/científica das amostras. A medida mais abrangente e crítica de Garantia do Controle de Qualidade (QC) para alcançar esses objetivos é",
       "alternatives": {
         "A": "ampliar em 50% os TLDs na cerca da UN e substituir o espectrômetro HPGe por um modelo de maior resolução para aumentar a sensibilidade à detecção de radionuclídeos de meia-vida curta.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "895f828312cf125f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "895f828312cf125f",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um Analista de Radioproteção utiliza um medidor de taxa de dose para monitorar uma área controlada. Ele, inicialmente, ajusta o seletor de escalas para a posição x100 e observa que o ponteiro do seletor de taxa de dose fica fixado no valor 32 em uma escala de 0 a 100 Sv/h. Posicionado em outro local devido a saturação da leitura anterior, ele decide ajustar a escala para a posição x10 para confirmar a medição. Nas duas situações, respectivamente, as taxas de dose registradas pelo analista são",
       "alternatives": {
         "A": "32 mSv/h e 3,2 mSv/h.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b19b9ea80d807c10"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b19b9ea80d807c10",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Ao analisar a curva de comportamento dos detectores a gás, o analista de radioproteção observou as seguintes regiões do gráfico: O gráfico representa a curva característica da resposta de um detector a gás em função da tensão aplicada, apresentando as regiões de operação. Antes de olhar o gráfico, o analista havia recebido uma lista com o comportamento de cada região da curva de um estagiário: I. Descarga contínua. II. Região de Ionização. III. Região Proporcional Limitada. IV. Geiger-Müller. V. Proporcional. As regiões corretamente identificadas, entre aquelas indicadas pelo estagiário, na curva característica de operação dos detectores a gás são as que figuram em",
       "alternatives": {
         "A": "I, apenas.",
@@ -991,12 +1042,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_especialista-de-radioprotecao_q52.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "62422a8675671c89"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "62422a8675671c89",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um Analista de radioproteção precisa avaliar o melhor detector para se usar na área controlada. A partir de critérios técnicos, a seleção de detectores de radiação (como Geiger-Müller, Cintiladores ou Semicondutores), analise os itens a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) A Eficiência Absoluta é a razão entre as contagens registradas e o número de partículas que realmente alcançam a área sensível do detector, sendo um parâmetro essencial em geometrias de contagem 4π. ( ) A Resolução Energética, normalmente expressa pela Largura Total à Meia Altura, FWHM, deve ser a maior possível para melhorar a separação entre picos de energia próximos em um espectrômetro. ( ) O Tempo Morto torna-se mais crítico em altas taxas de contagem, exigindo maior correção, porque aumenta a perda de pulsos válidos. ( ) Detectores gasosos, como câmaras de ionização e contadores proporcionais, tendem a ser mais adequados para detectar gamas de alta energia do que semicondutores, por apresentarem maior densidade e número atômico efetivo. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "F – F – V – F.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "737f428f3dd99ae1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "737f428f3dd99ae1",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A respeito dos requisitos básicos de radioproteção e segurança radiológica de fontes de radiação estabelecidos na Norma CNEN- NN-3.01, quanto à monitoração individual, analise os itens a seguir: I. Para exposição externa de corpo inteiro, devido a campos uniformes de radiação, os monitores individuais devem ser utilizados, no ponto mais exposto do tórax e calibrados na grandeza equivalente de dose ambiental para a profundidade de 10 mm, H*(10). O resultado desta medição é a componente externa da dose efetiva; II. A monitoração individual é obrigatória para todos os IOE que possam receber dose efetiva igual ou superior a 3/10 do limite anual; III. A avaliação das doses recebidas pelos IOE, em decorrência da incorporação de radionuclídeos deve ser efetuada a partir do estabelecimento de um programa de monitoração individual externa, composto por uma ou mais técnicas de monitoração. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "89587ffa3abd6558"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "89587ffa3abd6558",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma usina nuclear com vida útil estabelecida até 2030 (40 anos de operação) pretende operar por mais 20 anos. De acordo com o processo de licenciamento estabelecido na Norma CNEN NE 1.04, com as alterações promovidas pela Resolução CNEN nº 324/24, o instrumento regulatório necessário para formalizar essa operação além do prazo original é chamado",
       "alternatives": {
         "A": "autorização para operação.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "749b850fbc8323d0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "749b850fbc8323d0",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Segundo a Norma CNEN-NE-3.02 (Resolução CNEN nº 231/18), no Item 6.2 – Controle de Áreas, a exigência de que áreas restritas desativadas ou em emergência permaneçam bloqueadas até avaliação das condições de exposição é caracterizada como",
       "alternatives": {
         "A": "avaliação e classificação de áreas.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "609a6928779996fe"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "609a6928779996fe",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Analise os itens a seguir, relativos à Norma CNEN NE 1.04 – \"Licenciamento de Instalações Nucleares\", conforme as alterações e inclusões promovidas pela Resolução CNEN nº 324/24. Assinale V para Verdadeiro e F para Falso. ( ) A Resolução CNEN nº 324/24 atualizou a Norma CNEN NE 1.04 para incorporar o processo de Autorização para Operação a Longo Prazo, voltado à extensão da vida útil de instalações nucleares. ( ) A norma CNEN NE 1.04, na versão atual, trata exclusivamente do licenciamento das usinas nucleoelétricas, não se aplicando às demais instalações do ciclo do combustível. ( ) A solicitação de uma Autorização para Operação a Longo Prazo (AOLP) deve ser apresentada pelo titular da licença imediatamente após o vencimento da Autorização para Operação Permanente (AOP), para garantir a continuidade das atividades. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – F – F.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ca6aab84f6c3db42"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ca6aab84f6c3db42",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Sobre as obrigações de um supervisor de radioproteção, segundo a Norma CNEN NN 3.01 resolução CNEN 344/25, analise os itens a seguir: I. interromper qualquer atividade que considere potencialmente insegura em termos da proteção radiológica. II. elaborar ou coordenar a elaboração do plano de radioproteção da instalação ou atividade, mantê-lo atualizado e assegurar sua aplicação. III. manter sob controle, em conformidade com requisitos estabelecidos em normas da CNEN, com exigências de licenciamento e condições operacionais autorizadas, as áreas supervisionadas e controladas. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "082f4f2d5e3e1a40"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "082f4f2d5e3e1a40",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A Norma CNEN-NE-3.02 estabelece os requisitos para a implantação e o funcionamento dos Serviços de Radioproteção. Em relação ao Controle de Trabalhadores e, especificamente, à monitoração individual e aos cuidados relativos à contaminação externa, analise os itens a seguir: I. O fornecimento de todos os equipamentos e meios necessários para evitar a contaminação de trabalhadores sujeitos ao risco de contaminação externa é um requisito obrigatório. II. Os monitores de contaminação em pessoas devem ser testados diariamente com fontes-teste adequadas, mas a calibração pode ser realizada em intervalos apropriados pela própria instalação, desde que o procedimento seja validado pelo Supervisor de Radioproteção. III. A monitoração individual permanente de cada trabalhador de áreas controladas com dosímetros deve ser providenciada pelo Serviço de Radioproteção. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "88e4eb6fc00bee72"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "88e4eb6fc00bee72",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A Resolução CNEN nº 324/24 incluiu na Norma CNEN NE 1.04 – Licenciamento de Instalações Nucleares, no item Definições e Siglas, uma nova definição de autorização, caracterizada por",
       "alternatives": {
         "A": "AOI – Autorização para Operação Inicial.",
         "B": "AO – Autorização para operação.",
         "C": "AOP – Autorização para Operação Permanente.",
         "D": "Autorização para Utilização de Material Nuclear.",
-        "E": "Autorização para Operação a Longo Prazo. Redação"
+        "E": "Autorização para Operação a Longo Prazo."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "77250f9efa138d0f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "77250f9efa138d0f",
+      "base_text": null
     }
   ],
   "year": 2024,

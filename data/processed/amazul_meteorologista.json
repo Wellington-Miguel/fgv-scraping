@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_meteorologista_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -566,7 +595,7 @@
         "B": "prediction.",
         "C": "suggestion.",
         "D": "permission.",
-        "E": "willingness. Módulo II Meteorologia"
+        "E": "willingness."
       },
       "answer": "C",
       "annulled": false,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Preocupado com a confiabilidade de um anemômetro digital que seria usado em uma torre micrometeorológica, um meteorologista recorreu ao Parque de Material de Eletrônica da Aeronáutica do Rio de Janeiro, laboratório acreditado pela ISO/IEC 17025, para realizar sua calibração. O instrumento foi calibrado em túnel de vento, com velocidade nominal de 10 m/s. Durante o procedimento, foram realizadas medições nos sentidos ascendente e descendente para avaliar o erro de histerese: leitura ascendente (subindo): 10,15 m/s; leitura descendente (descendo): 9,90 m/s; e valor de referência: 10,00 m/s. Assinale a opção que apresenta o valor do erro de histerese no ponto de 10 m/s e a ação obrigatória que é exigida pela norma ISO 17025 em relação a esse valor.",
       "alternatives": {
         "A": "A histerese é de 0,15 m/s e a ISO 17025 exige que o laboratório descarte o equipamento e não emita o certificado de calibração.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ea13381137532b48"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ea13381137532b48",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "Com o objetivo de aprimorar o desenvolvimento de modelos atmosféricos para a Comissão Nacional de Energia Nuclear (CNEN), um meteorologista decidiu analisar o comportamento de modelos simplistas, especificamente o que assume uma atmosfera homogênea (densidade não varia com a altura). Ele determinou que a combinação da equação hidrostática e da equação de estado, comumente utilizada em Meteorologia, resulta em uma atmosfera de altura finita que é função apenas da temperatura da superfície. Para este modelo atmosférico, ele calculou a taxa de variação da temperatura com relação à altura (gradiente térmico vertical) usando constantes típicas, como a gravidade média global (g = 9,81 ms-2) e a constante específica do ar seco (Rd = 287 J K-1 Kg- 1). O valor obtido, expresso em °C/(100 m), permitiu classificar a estabilidade atmosférica de acordo com a classe de Pasquill contida na norma CNEN NN 1.22, que foi",
       "alternatives": {
         "A": "Classe A – extremamente instável.",
@@ -612,11 +643,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e0735fa15067f169"
+      "question_hash": "e0735fa15067f169",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "O XOQDOQ é um modelo computacional clássico de dispersão atmosférica, desenvolvido para calcular rotineiramente a razão entre concentração média de efluentes radioativos e a taxa de liberação da fonte de emissão (/Q), bem como a razão entre deposição média para localizações específicas e para distâncias radiais padrões à fonte de emissão (D/Q). Ele foi escrito em uma linguagem científica bastante popular nas décadas de 1970 e 1980, conhecida por sua eficiência em cálculos numéricos e processamento de matrizes. Observe o trecho a seguir, retirado de uma das rotinas do código- fonte do XOQDOQ a seguir: Assinale a opção correta.",
       "alternatives": {
         "A": "O trecho foi escrito em Assembly, devido ao uso de comandos curtos e numéricos.",
@@ -631,11 +663,12 @@
       "image_path": "data/processed/images/amazul_meteorologista_q33.png",
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3d06e1489d1b48a7"
+      "question_hash": "3d06e1489d1b48a7",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "Um algoritmo foi desenvolvido para estimar a intensidade do vento (U) em diferentes alturas (z) dentro da Camada Limite Atmosférica (CLA), a partir de valores simulados por um modelo de mesoescala, cujo ponto de grade fornece dados de vento a 50 m acima do nível do solo na região de um complexo industrial. O cálculo utiliza o fluxo de momento turbulento para determinar a velocidade de fricção (u*) e a escala de comprimento de rugosidade do terreno (z0). A extrapolação da intensidade do 𝑢∗ 𝑘[ln ( 𝑧 𝑧0) −𝜓𝑚(𝑧 𝐿)], onde vento é feita pela expressão: 𝑈(𝑧) =  é a constante de von Kármán, L é a escala de comprimento da teoria envolvida e m é a função de correção de estabilidade, que depende das condições térmicas da atmosfera (estável, neutra ou instável). Assinale a opção que identifica corretamente a teoria utilizada no algoritmo.",
       "alternatives": {
         "A": "Teoria do escoamento (laminar, transição e turbulento) do número de Reynolds.",
@@ -650,11 +683,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b917828c1a28dd0d"
+      "question_hash": "b917828c1a28dd0d",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um meteorologista experiente, sem o uso de instrumentos, observa a pluma de fumaça de uma chaminé industrial em um dia muito quente e ensolarado. Ele nota que a pluma apresenta um comportamento ondulado e errático, com grandes oscilações verticais, chegando ocasionalmente a atingir o nível do solo em curtas distâncias conforme a figura abaixo. Com base nessa observação, assinale a opção que apresenta a conclusão mais provável do meteorologista sobre o tipo de pluma e a estabilidade atmosférica local.",
       "alternatives": {
         "A": "É uma pluma do tipo fanning onde a atmosfera está extremamente estável, o que suprime a dispersão vertical dos poluentes.",
@@ -668,12 +702,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q35.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1286dc3a1864385c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1286dc3a1864385c",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "Um meteorologista trabalha em uma usina nucleoelétrica que necessita monitorar a dispersão de poluentes radioativos. Ele precisa modelar a turbulência e a dispersão vertical na camada limite adequadamente, mas não sabe o valor da velocidade de fricção (u*) sob condições de neutralidade atmosférica para o local de interesse. Na torre anemométrica principal da usina, os sensores foram instalados inicialmente nos dois níveis obrigatórios determinados na Norma CNEN NN 1.22. Em um dia com condições atmosféricas neutras, o meteorologista fez as seguintes medições: velocidade do vento no nível mais próximo da superfície (z1): 6,2 m/s; e velocidade do vento no nível mais acima conforme Norma CNEN NN 1.22 (z2): 9,8 m/s. O meteorologista, sem acesso a uma calculadora e precisando de uma estimativa, lembrou-se da lei do perfil logarítmico do vento para condições neutras: 𝑈(𝑧) = 𝑢∗ 𝑘ln ( 𝑧 𝑧0). Ele assumiu que a constante de von Kármán () é 0,4, mas não arriscou estimar o valor do comprimento de rugosidade (z0) por tabelas. Diante das considerações e assumindo que o logaritmo neperiano de 6 é aproximadamente 1,8, realize as operações algébricas necessárias e assinale a opção que mais se aproxima do cálculo da velocidade de fricção estimada pelo meteorologista.",
       "alternatives": {
         "A": "0,80 m/s",
@@ -688,11 +723,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c99466d41599f781"
+      "question_hash": "c99466d41599f781",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em modelagem matemática, a resolução numérica das equações diferenciais parciais que descrevem o transporte e dispersão de poluentes na atmosfera – como o clássico modelo de pluma gaussiana - frequentemente utiliza o método de diferenças finitas que é facilmente programável nas mais diversas linguagens computacionais. Tal abordagem, embora prática, é um tanto contraditória, pois introduz uma representação de esquema discreto de um meio que originalmente é considerado contínuo no espaço e no tempo. O equacionamento dos esquemas desenvolvidos pelo método de diferenças finitas baseia-se na expansão em série de Taylor, conforme as expressões a seguir: 0 ∆𝑥+ 𝜕2𝐶 (∆𝑥)2 𝐶(𝑥0 + ∆𝑥, 𝑦0) = 𝐶(𝑥0, 𝑦0) + 𝜕𝐶 𝜕𝑥) 𝜕𝑥2) 2! 0 + 𝜕3𝐶 (∆𝑥)3 𝜕𝑥3) 3! + ⋯ 0 0 ∆𝑥+ 𝜕2𝐶 (∆𝑥)2 𝐶(𝑥0 −∆𝑥, 𝑦0) = 𝐶(𝑥0, 𝑦0) −𝜕𝐶 𝜕𝑥) 𝜕𝑥2) 2! 0 −𝜕3𝐶 (∆𝑥)3 𝜕𝑥3) 3! + ⋯ 0 onde C é uma variável escalar, tal como a concentração de um poluente, x0 e y0 são os pontos centrais da grade e Δx é o espaçamento entre dois pontos adjacentes. Truncando as séries até os termos de terceira ordem e realizando as operações algébricas, obtém-se o esquema de diferenças centradas para derivada primeira. Nesse caso, a equação diferencial parcial é aproximada pela equação em diferenças finitas somada a um erro de truncamento, cuja ordem de grandeza é",
       "alternatives": {
         "A": "𝜗[(𝛥𝑥)−1]",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "78a3c29380c6176f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "78a3c29380c6176f",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "Um meteorologista de uma empresa foi solicitado a estimar a intensidade do vento no nível da chaminé de uma fábrica, pois uma operação de emissão de poluentes estava prestes a ocorrer. Ao consultar os dados da torre meteorológica próxima, percebeu que o sistema estava fora do ar. Sem alternativa, decidiu testar um protótipo em desenvolvimento: um anemômetro embarcado em um drone. O drone foi lançado e seguiu em direção ao norte com velocidade de 50 m/s. No nível de voo, a intensidade do vento aumenta em direção ao norte à razão de 0,03 m/s por quilômetro. A bordo do drone, a intensidade do vento cresce à taxa de 36 m/s por hora. Com base nesses dados, o meteorologista calculou a tendência local da intensidade do vento, ou seja, a variação temporal da intensidade medida por um observador quase- estacionário próximo ao drone, no instante em que ele se aproximava da saída da chaminé. Sabendo que a condição inicial de vento era nula e considerando um intervalo de 10 min, a velocidade estimada pelo meteorologista foi de",
       "alternatives": {
         "A": "12,0 m/s",
@@ -726,11 +763,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f00cce1395e5a928"
+      "question_hash": "f00cce1395e5a928",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "A Comissão Reguladora Nuclear dos EUA (NRC) estabelece metodologias distintas para a avaliação da dispersão atmosférica em usinas nucleares, formalizadas em guias (Regulatory Guides – RG - 1.111 e 1.145). Estes guias orientam o cálculo dos fatores de concentração relativa (/Q) essenciais para estimar doses radiológicas e convencionais em receptores sensíveis. Como exemplo de metodologias computacionais adotadas podemos citar o modelo AERMOD, utilizado para efluentes atmosféricos convencionais e que ajudou na tomada de decisões para construção da usina de Angra III. Assinale a opção que descreve corretamente a principal distinção e aplicação dessas duas metodologias da NRC e como elas se relacionam com o cálculo do /Q.",
       "alternatives": {
         "A": "O RG 1.111 utiliza o modelo AERMOD para calcular o /Q em cenários de acidentes, enquanto o RG 1.145 ignora o /Q e foca apenas nos efeitos da brisa marítima de Angra dos Reis.",
@@ -745,11 +783,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "08496e3c7d6e58bd"
+      "question_hash": "08496e3c7d6e58bd",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "Ventos verticais subsidentes de 216 km/h (60 m/s) sopram com a força de um furacão em direção à entrada superior de um bunker vertical subterrâneo de um complexo industrial, onde funcionários se abrigam de desastres, inclusive os ambientais. O bunker possui 5 m de altura e o fundo é impermeável. A densidade inicial do ar no interior do bunker é 1 kg m-3. Considerando a equação de conservação de massa escrita em termos da divergência do campo de velocidade, sob as assunções do contínuo aplicadas a um domínio discretizado, fluxo predominantemente vertical, escoamento 1-D, e desprezando trocas laterais e compressibilidade, além da implicada pela continuidade, assinale a alternativa que representa a taxa local de aumento da densidade do ar no bunker calculada pelo meteorologista que atua no complexo industrial.",
       "alternatives": {
         "A": "- 0,08 kg m-3 s-1",
@@ -764,11 +803,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "394c03f45817e545"
+      "question_hash": "394c03f45817e545",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Durante as obras de terraplanagem para a instalação de uma nova unidade no Complexo Nuclear de Angra (Angra III), a equipe de segurança e Meteorologia monitorava as condições de tempo, conforme exigido para o licenciamento da obra. Sob condições sinóticas de céu claro e forte aquecimento diurno, um fenômeno meteorológico local conhecido como Dust Devil se formou, gerando uma grande nuvem de poeira que reduzia drasticamente a visibilidade e criava um risco operacional (risco não radiológico). O meteorologista de plantão, parte integrante do programa de apoio meteorológico da instalação, ilustrou o fenômeno no esquema a seguir para explicá-lo ao responsável técnico da obra e ao supervisor de radioproteção. No diagrama, o item I representa o vento tangencial, resultante do equilíbrio entre os itens II e III, que correspondem às principais forças atuantes no fenômeno. À luz da Norma CNEN NN 3.01 e das responsabilidades do titular/requerente, assinale a opção correta em relação aos itens I, II e III.",
       "alternatives": {
         "A": "I: Vento ciclostrófico; II: Força do gradiente de pressão; III: Força de Coriolis.",
@@ -782,12 +822,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q41.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "92af379143d5c606"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "92af379143d5c606",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em uma área relativamente plana ao nível médio do mar de um complexo nuclear em fase inicial de construção, reservada para experimentação meteorológica, centrado entre duas estações meteorológicas separadas por 200 km, demarcado pelo “x” na figura, observa-se a plotagem do vento sinótico em ambas as estações. Por conveniência pode-se considerar 1 nó igual a 0,5 m/s, que a atmosfera em questão é hipoteticamente incompressível e que derivadas locais podem ser aproximadas por diferenças finitas (valores discretos). Assinale a opção correta a respeito da componente vertical da velocidade w no local indicado pelo “x”.",
       "alternatives": {
         "A": "Diminui com altitude e seu valor é igual a -5 × 10-5 m/s.",
@@ -801,12 +842,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q42.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "cd5155447a222bbe"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cd5155447a222bbe",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma brigada de incêndio florestal opera na região da Costa Verde, em Angra dos Reis, uma área de Mata Atlântica próxima às instalações nucleares que exigem monitoramento rigoroso. Para avaliar as condições meteorológicas locais e prever o comportamento do fogo, os brigadistas utilizam um psicrômetro ventilado portátil (psicrômetro de manivela), composto por dois termômetros (bulbo seco e bulbo molhado) montados lado a lado em uma base de metal que é girada manualmente. Com base nesse cenário e em conhecimentos técnicos sobre Meteorologia, combate a incêndios e legislação nuclear, é incorreto afirmar que",
       "alternatives": {
         "A": "a leitura do psicrômetro é fundamental, pois permite calcular a umidade relativa do ar. Em condições de baixa umidade relativa, a vegetação fica mais seca, aumentando a velocidade de propagação do fogo, um fator crítico na previsão do risco.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "aed7a3b7fcc2129a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "aed7a3b7fcc2129a",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para explicar ao engenheiro que mecanismos de transporte de poluentes em grande escala podem atuar independentemente da altura da chaminé, o meteorologista-chefe elaborou o esquema a seguir. Ele representa a circulação fechada anticiclônica do vento, que sopra paralelamente às isolinhas de pressão ou altura geopotencial, e se baseia no balanço de três forças. Assinale a opção que indica o hemisfério em que o sistema atua, o tipo de vento indicado em I e as forças indicadas por II, III e IV, respectivamente.",
       "alternatives": {
         "A": "Hemisfério Sul; I: Vento gradiente; II: Força de Coriolis; III: Força do gradiente de pressão; IV: Força centrífuga.",
@@ -839,12 +882,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q44.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2b088e9ca5ebc21e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2b088e9ca5ebc21e",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma indústria química na periferia de São Paulo - SP enfrenta um aumento inesperado na demanda por um produto, exigindo uma produção contínua de alta intensidade nas próximas 24 horas. Para atender à demanda e maximizar o lucro, a produção deve operar com a capacidade máxima, o que resultará em uma emissão significativa de poluentes pela chaminé. A diretoria da empresa, preocupada com a imagem e com possíveis multas ambientais, solicitou a um meteorologista que avalie se as condições atmosféricas serão favoráveis à dispersão desses poluentes. Para a análise e devido a um apagão de dados, o meteorologista utilizou apenas dados de vento real em dois níveis atmosféricos distintos, fora da Camada Limite Atmosférica, onde o vento geostrófico é uma boa aproximação. Em 850 mb o vento sopra de sudoeste (SW), com velocidade moderada e em 200 mb o vento sopra de oeste (W), com velocidade maior que a do nível inferior. Assinale a opção que representa a conclusão mais precisa do meteorologista sobre as condições para a emissão de poluentes pela chaminé.",
       "alternatives": {
         "A": "A rotação do vento no sentido horário com a altura (de SW para W) indica advecção quente, que, combinada com a velocidade moderada do vento, cria as condições ideais para a dispersão dos poluentes.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f0d709711c1e67f5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f0d709711c1e67f5",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Durante o treinamento de técnicos em Meteorologia, o sábio instrutor, atento à crescente preocupação com a qualidade do ar nas grandes metrópoles, abordou a estrutura vertical da atmosfera, destacando como ela influencia tanto a dispersão de poluentes quanto o aproveitamento do vento para a instalação de parques eólicos. Para ilustrar, apresentou um esquema da estrutura vertical da Camada Limite Atmosférica (CLA) em condição neutra, na qual podem ser observadas três regiões bem definidas de acordo com o comportamento do perfil de velocidade do vento. Em uma dessas regiões, o vento apresenta perfil potencial; em outra, perfil logarítmico; e em outra, o perfil em espiral, resultante da combinação entre funções trigonométricas e exponencial. Com base nessas informações, assinale a opção que indica corretamente a nomenclatura das regiões I, II e III, respectivamente.",
       "alternatives": {
         "A": "I: Camada Limite Superficial; II: Balanço geostrófico; III: Camada de Ekman.",
@@ -877,12 +922,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q46.png",
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "99dc4c3540e4e963"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "99dc4c3540e4e963",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O esquema abaixo representa ventos horizontalmente balanceados, ou seja, ventos que se aproximam do vento realmente observado, seja em níveis superiores da atmosfera ou em níveis da Camada Limite Atmosférica, no mesmo horário, em 6 pontos que simulam a localização de estações meteorológicas. Isso faz parte da tecnologia de monitoramento adotado para subsidiar a modelagem matemática da dispersão atmosférica de potenciais poluentes e efluentes, conforme exigido pelas normas ambientais e de segurança (incluindo diretrizes que se alinham à CNEN-NN- 3.01 para instalações nucleares). Observa-se que os pontos 1 e 4 estão sobre uma mesma isógona, assim como os pares de pontos 2-5 e 3–6. Além disso, notam-se isóbaras paralelas (linhas contínuas) na região. Com base nessas informações e nos princípios das escalas meteorológicas, assinale a opção correta.",
       "alternatives": {
         "A": "O escoamento na região é predominantemente zonal.",
@@ -896,12 +942,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q47.png",
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "cb1f86743501b6c1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cb1f86743501b6c1",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma empresa que apoia um complexo de usinas nucleoelétricas enviou um dos seus meteorologistas para um treinamento nos Estados Unidos, com o objetivo de capacitá-lo e ampliar sua experiência em diferentes regiões do planeta. Após algumas aulas de Meteorologia Sinótica, foi aplicado um teste prático que envolvia aspectos da circulação atmosférica. A figura a seguir representa o campo de pressão ao nível médio do mar sobre os Estados Unidos. Considerando a aproximação geostrófica, assinale a opção que indica corretamente a direção do vento nos pontos I e II marcados na figura.",
       "alternatives": {
         "A": "I: leste; II: oeste.",
@@ -915,12 +962,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q48.png",
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c643d3d09473f830"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c643d3d09473f830",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A temperatura potencial é a temperatura que uma parcela de ar teria se fosse expandida ou comprimida adiabaticamente de um nível de pressão qualquer até um nível de pressão de referência tomado como 1000 mb. Esse conceito é fundamental para determinar a estabilidade atmosférica, que rege a dispersão de poluentes. Nos gráficos abaixo é possível observar o comportamento da temperatura potencial e o valor dos respectivos gradientes. De acordo com essas informações, assinale a opção correta para os itens I, II e III, respectivamente, desde que a afirmação associada a essa classificação também seja verdadeira.",
       "alternatives": {
         "A": "I: instável; II: estável; III: neutra. A modelagem matemática considera a condição I (instável) como a mais segura para a liberação de efluentes.",
@@ -934,12 +982,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q49.png",
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7b40c48cbb1487a1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7b40c48cbb1487a1",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A norma CNEN NN 1.22 adota a classificação de estabilidade atmosférica de Pasquill-Gifford, baseada nas condições de turbulência e na estrutura térmica da Camada Limite Atmosférica. A seguir, estão representadas as curvas de Taxa de Variação Vertical da Temperatura (TVVT), também conhecida como lapse- rate, tanto do ambiente () quanto da parcela de ar (a). Considerando a hipótese de uma atmosfera estática e seca, é correto afirmar que",
       "alternatives": {
         "A": "A temperatura aumenta com a altura já que se observa inversão térmica.",
@@ -953,12 +1002,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q50.png",
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d1cea41a29695345"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d1cea41a29695345",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A instrutora de um curso de capacitação promovido por uma indústria foi questionada por um dos alunos, funcionário do setor ambiental, sobre o comportamento da pluma de um poluente emitido por uma chaminé. Considerando uma atmosfera neutra e seca, ela fez uma analogia comparando a pluma a um balão de ar quente mantido estacionário a certa altura na atmosfera. Solicitou, então, que os funcionários imaginassem duas colunas de ar: uma do lado de fora e outra dentro do balão, sendo a coluna interna ligeiramente mais alta a externa. A instrutora destacou que, apesar da diferença de altura, a pressão é a mesma no topo das duas colunas. Assim, é correto afirmar que",
       "alternatives": {
         "A": "a pressão atmosférica decresce com a altura mais rapidamente em uma camada de ar frio do que em uma camada quente.",
@@ -972,31 +1022,33 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "69eafe15c20c33dc"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "69eafe15c20c33dc",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma indústria em Salvador – BA, construída a mais de 50 anos e situada a cerca de 20 km da linha de costa, está passando por um processo de modernização para atender as novas exigências tecnológicas e legislações vigentes. Entre as medidas, busca-se avaliar a dispersão dos poluentes na região, de forma a evitar impactos à saúde de uma comunidade de pescadores localizada mais adentro do continente, a aproximadamente 40 km da costa. Para isso, um meteorologista contratado pela indústria foi solicitado a estimar a aceleração do vento associado à brisa marítima. Sem dispor de um histórico de dados in situ, ele adotou um modelo simplificado de circulação da brisa e utilizou dados de satélite para estimar a temperatura média da camada de ar sobre o mar (𝑇1̅) e sobre a terra (𝑇2̅̅̅). Além disso, ele determinou, por meio de GPS, a altura da célula de circulação da brisa (h) e a extensão horizontal da brisa (L). Considerando o teorema da circulação de Kelvin aplicado a uma circulação absoluta no plano vertical da brisa, dado por 𝑑𝐶𝑎 𝑑𝑡= −∮𝑅𝑑𝑇̅𝑑(ln𝑝), onde Rd = 287 𝐽 ⋅ 𝐾−1 ⋅ 𝑘𝑔−1 é a constante dos gases para o ar seco, 𝑇̅ é a temperatura média da camada de ar e 𝑑(ln𝑝) representa o diferencial do logaritmo natural da pressão (de p0 na superfície até p1 no nível h), determine a expressão da aceleração do vento associada à brisa marítima, sabendo que 𝐶𝑎: = ∮𝑈⃗⃗ ⋅𝑑𝑙 = ∮𝑈cos(𝛼) 𝑑𝑙, onde U é a velocidade do vento, dl é a variação infinitesimal ao longo do perímetro do circuito fechado, que representa a célula de circulação da brisa (vide figura) e  é o ângulo entre vetores U e dl. 𝑑U 𝑅𝑑𝑙𝑛(𝑇2−𝑇1) 𝑑𝑡= 2𝐿 (𝑝0 −𝑝1)",
       "alternatives": {
         "A": "𝑅𝑑𝑙𝑛(𝑝0 𝑝1) 𝑑U 𝑑𝑡= 2(𝐿+ℎ) (𝑇1 −𝑇2)",
         "B": "𝑅𝑑 𝑙𝑛(𝑝1 𝑝0) 𝑑U 𝑑𝑡= 2(𝐿+ℎ) (𝑇2 −𝑇1)",
         "C": "𝑅𝑑 𝑙𝑛(𝑝0 𝑝1) 𝑑U 𝑑𝑡= 2(𝐿+ℎ) (𝑇2 −𝑇1)",
-        "D": "𝑅𝑑 𝑙𝑛(𝑝0 𝑝1) 𝑑U 𝑑𝑡= (𝑇2−𝑇1) (𝐿+ ℎ) (E)",
-        "E": null
+        "D": "𝑅𝑑 𝑙𝑛(𝑝0 𝑝1) 𝑑U 𝑑𝑡= (𝑇2−𝑇1) (𝐿+ ℎ)",
+        "E": "[Imagem na questão]"
       },
       "answer": "D",
       "annulled": false,
-      "has_image": false,
-      "image_path": null,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_meteorologista_q52.png",
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e93653722bc7b15c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e93653722bc7b15c",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "Um meteorologista descobriu que se uma pluma circular, de um determinado poluente convencional, de raio 200 km, centrada na linha do polo sul (90°), inicialmente em repouso em relação à Terra, for levada para linha do equador (0°), ao longo de uma superfície isobárica (barotropia), conservando a sua área, a circulação relativa em torno da circunferência, na latitude do equador C = Cf, pode ser calculada pela expressão derivada do teorema de Bjerknes: 𝐶= 𝐶0 −2 𝛺 𝐴(𝑠𝑒𝑛(𝑙𝑎𝑡𝑖𝑡𝑢𝑑𝑒𝑓𝑖𝑛𝑎𝑙) − 𝑠𝑒𝑛(𝑙𝑎𝑡𝑖𝑡𝑢𝑑𝑒𝑖𝑛𝑖𝑐𝑖𝑎𝑙)), onde C0 é a circulação inicial (no polo sul) e A é a área circular da pluma. Sabendo que o valor da velocidade de rotação da Terra  é aproximadamente igual a 7,292 x 10-5 rad s-1, e que por definição 𝐶: = ∮𝑈⃗⃗ ⋅𝑑𝑙 , onde 𝑈⃗⃗ é o vetor velocidade do vento e 𝑑𝑙 é vetor variação infinitesimal ao longo da pluma circular, determine o valor aproximado da velocidade tangencial da pluma e o tipo de rotação que ela adquiriu.",
       "alternatives": {
         "A": "+14,6 m / s; anticiclônica.",
@@ -1011,11 +1063,12 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b41dd9ef49393bf7"
+      "question_hash": "b41dd9ef49393bf7",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "De acordo com a Norma CNEN-NN-3.01 – Requisitos Básicos de Radioproteção e Segurança Radiológica de Fontes de Radiação, incluindo situações em que condições meteorológicas podem influenciar na segurança radiológica, e considerando seus desdobramentos práticos em situações de exposição de emergência, é incorreto afirmar que",
       "alternatives": {
         "A": "A Norma estabelece limites de dose específicos que não se aplicam a doses resultantes de exposições de emergência, sendo que, nestas situações, a eficácia de ações protetoras, como a abrigagem, pode ser influenciada por variáveis ambientais, como a velocidade e direção do vento.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "410aaf3ca7c25e69"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "410aaf3ca7c25e69",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma pluma de poluentes, misturada ao ar úmido, é forçada a subir por uma encosta montanhosa devido à direção do escoamento, à geometria da topografia e à conservação de massa. Ao atingir o topo, a 3000 m de altitude, a temperatura local é de 0 °C. Em seguida, a pluma desce a sotavento, onde o ar se aquece e se torna seco em razão do efeito föhn. Assinale a opção que apresenta o valor aproximado da temperatura da pluma quando ela atinge a superfície, ao nível médio do mar.",
       "alternatives": {
         "A": "0 °C",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 16,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d44a4ee6db9af2a6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d44a4ee6db9af2a6",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Nos estudos de poluição atmosférica, energia eólica e aplicações de engenharia, modelos de mesoescala baseados na física do escoamento newtoniano, tais como: ARPS, RAMS, MM5 e WRF vêm sendo adaptados para escalas mais resolutas, incorporando o tensor de difusividade turbulenta adequado e abordagens híbridas RANS–LES, em função da chamada “Terra Incógnita”. Esse termo descreve o intervalo de transição em que a escala de comprimento característico de energia e fluxo turbulento (𝑙), contido nas parametrizações da turbulência incorporados aos modelos, torna- se da mesma ordem de grandeza da escala espacial vertical do modelo (Δz). Enquanto na modelagem RANS tem-se tipicamente 𝑙 ≪ Δz e em LES 𝑙 ≫ Δz, na zona intermediária (𝑙 ≈ Δz), ou seja, na “Terra Incognita”, os modelos de subescala (SFS – subfilter-scale), concebidos para regimes bem separados, perdem validade. Com base nesse contexto, analise os itens a seguir: I. O método DNS (Direct Numerical Simulation) resolve todas as escalas de movimento descritas pelas equações de Navier– Stokes, sem necessidade de modelos de fechamento. Seu custo computacional é extremamente elevado, tornando-o impraticável para escoamentos geofísicos em domínios numéricos globais. II. No método RANS (Reynolds Averaged Navier–Stokes equations), a modelagem enfrenta o problema de fechamento dos fluxos turbulentos, exigindo o uso de esquemas semiempíricos, como os modelos de viscosidade turbulenta e de camada de mistura, além do modelo de ordem 1,5-TKE. III. Em LES (Large-Eddy Simulation), as equações de Navier–Stokes são filtradas para descrever apenas as grandes estruturas turbulentas, através do tensor de Leonard, enquanto as escalas subgrade são modeladas. Essa técnica baseia-se na teoria de similaridade de Kolmogorov. Está correto o que se afirma em",
       "alternatives": {
         "A": "II e III, apenas.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 16,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ba320099911d1fb5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ba320099911d1fb5",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Informática",
       "statement": "Uma indústria está preocupada em quantificar o fluxo de CO2 proveniente de uma área adjacente de restinga, que apresenta vegetação arbustiva e acúmulo de serapilheira, para garantir que as licenças ambientais estejam em conformidade. Para isso, foi solicitado um estudo que permite distinguir a contribuição das emissões biogênicas da restinga daquelas originadas pela própria indústria. No entanto, uma fase pré-analítica foi conduzida por um meteorologista júnior, considerando amostras (ver tabela) de três pares de dados instantâneos da componente vertical de velocidade do vento (𝑤) e da concentração de CO2 (𝐶𝐶𝑂2 em ppm), coletados em escala de segundos, para o cálculo do fluxo de CO2, isto é, 𝐹𝑐= 𝜌𝑎̅̅̅ ⋅𝐾⋅𝑤′𝐶𝐶𝑂2 ′̅̅̅̅̅̅̅̅̅ , onde 𝜌𝑎̅̅̅ (= 1,2 kg ⋅ m-3) é a densidade média do ar úmido para o período de medição; 𝐾 (= 1,5×10−6 kg ⋅ kg-1 ⋅ ppm-1) é o fator de conversão molar de unidades (ppm para kg/kg) para o CO2; 𝑤′𝐶𝐶𝑂2 ′̅̅̅̅̅̅̅̅̅ é a covariância, média do produto entre a flutuação da componente vertical de velocidade do vento (𝑤′) e a flutuação da concentração de CO2 (𝐶𝐶𝑂2 ′ ). Reproduza o cálculo do fluxo de CO2 (𝐹𝑐) em kg/m2s realizado pelo do meteorologista júnior, e assinale a opção que contenha o valor do fluxo e a justificativa mais adequada para o cenário.",
       "alternatives": {
         "A": "𝐹𝑐 = 0 kg ⋅ m-2 ⋅ s-1. A ausência de fluxo indica equilíbrio entre absorção e emissão de CO2, o que seria esperado em uma área natural estável e mínima influência antrópica.",
@@ -1087,11 +1143,12 @@
       "image_path": "data/processed/images/amazul_meteorologista_q57.png",
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8539e056a1d7c329"
+      "question_hash": "8539e056a1d7c329",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um meteorologista visionário, vinculado ao setor de pesquisa de um complexo industrial, reflete sobre um cenário climático crítico, no qual a temperatura média global ultrapassa permanentemente 2,0 °C acima dos níveis pré-industriais, limiar associado à transgressão de tipping points. Neste cenário projeta-se mudanças significativas nos padrões da Circulação Geral da Atmosfera (CGA), aumento na frequência e persistência de ondas de calor urbanas, intensificação de eventos atmosféricos extremos (ciclones, tempestades severas, tornados), dentre outros. A Camada Limite Urbana (CLU), especificamente, tornar-se-ia mais instável durante o dia (maior turbulência), e as inversões térmicas noturnas tornar- se-iam mais intensas e duradouras, agravando a retenção de poluentes. Paralelamente, discutem-se a substituição de termelétricas fósseis por matrizes nucleares, eólicas e solares para descarbonização. Considerando as teleconexões entre os fenômenos de grandes escalas, a dinâmica da Camada Limite Atmosférica (CLA), o transporte de poluentes (convencionais e radiológicos) e a cascata de energia turbulenta de Kolmogorov, que rege a transferência da energia dos grandes aos pequenos turbilhões (eddies) e a consequente dispersão de substâncias na atmosfera, a avaliação mais adequada para o cenário de presságio do meteorologista é de que",
       "alternatives": {
         "A": "o aumento da turbulência diurna na CLA é a consequência dominante e suficiente para garantir uma melhor dispersão de poluentes de usinas nucleares e convencionais, tornando a opção nuclear intrinsecamente mais segura sob qualquer condição climática futura.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 17,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2f5836ea846a77c3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2f5836ea846a77c3",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A formação do ozônio troposférico (O3), componente principal do smog fotoquímico, é um desafio complexo que envolve modelagem numérica, Climatologia, Meteorologia, qualidade do ar, saúde pública, dentre outros. Diferente dos efluentes de uma usina nuclear (regidos por normas como a CNEN NN 1.22), que envolveriam a difusão de radionuclídeos, o O3 é um poluente secundário formado por reações fotoquímicas, envolvendo precursores como NO𝑥 e compostos voláteis (COVs). De acordo com o contexto sobre fatores que afetam a concentração de ozônio na baixa atmosfera, e o papel da camada de mistura em relação a dispersão desses poluentes, analise os itens a seguir: I. A formação de O3 troposférico é favorecida em dia de forte insolação e ventos calmos, pois a radiação solar fornece energia para as reações fotoquímicas e a ausência de ventos reduz a dispersão e difusão dos poluentes, permitindo seu acúmulo. II. À noite, a camada de mistura dá lugar a camada limite estável, onde apesar de ter uma altura mais baixa, apresenta escoamento intermitente, desafiador para os esquemas de parametrização da turbulência. Principalmente em condições de inversão térmica, o volume de ar disponível pode concentrar poluentes primários perto do solo, mesmo que haja formação de jato noturno de baixos níveis, mas inibe a formação de ozônio que requer luz solar. III. O ozônio na troposfera é benéfico, pois contribui para a proteção contra a radiação UV, e não interfere no efeito estufa, o que ajuda a mitigar o aquecimento global. IV. Existem resoluções que estabelecem padrões de qualidade do ar para o ozônio e que, quando ultrapassados, indicam a necessidade de ações de controle de emissões, mesmo em situações de forte mistura dentro da Camada Limite Urbana. Entre essas emissões destacam-se as provenientes de tráfego de veículos, importantes fontes móveis de COVs e NOx que podem ser reduzidas por medidas com o rodízio de automóveis nas grandes cidades. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e IV, apenas.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 17,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5dd2981ff6e03475"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5dd2981ff6e03475",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A figura a seguir apresenta o campo de concentração média (20 anos - mês de fevereiro) de radionuclídeos normalizados pela intensidade da fonte (χ/Q, em s·m⁻³), em torno (20 km x 20 km) de uma instalação nuclear hipotética, simulada segundo metodologia compatível com os Regulatory Guides 1.111 e 1.145 da U.S. NRC e com a norma CNEN NN 1.22 – Programas de Meteorologia de Apoio a Usinas Nucleares. As áreas hachuradas representam a distribuição de χ/Q, enquanto as isolinhas contínuas em preto representam a topografia (altitude em metros). Com base nas informações fornecidas e nos princípios de dispersão atmosférica, analise os itens a seguir: I. Os maiores valores de χ/Q ocorrem nas áreas próximas à fonte emissora e indicam maior potencial de dose para receptores localizados a jusante da direção do vento predominante. II. O formato alongado das regiões hachuradas sugere vento predominante de sudeste e noroeste durante o período simulado. III. A presença de relevo mais elevado, destacado pelo forte gradiente das isoípsas, pode influenciar a dispersão, canalizando ou bloqueando parcialmente a pluma de poluentes. IV. A norma CNEN NN 1.22 e o Regulatory Guide 1.145 recomendam o uso de dados meteorológicos locais e modelagem de dispersão em função da estabilidade atmosférica e da topografia local. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e IV, apenas.",
         "B": "I, III e IV, apenas.",
         "C": "I e II, apenas.",
         "D": "I, II, III e IV.",
-        "E": "I e II, apenas. Redação"
+        "E": "I e II, apenas."
       },
       "answer": "B",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/amazul_meteorologista_q60.png",
       "page_number": 18,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "feebd6faa0e8fda0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "feebd6faa0e8fda0",
+      "base_text": null
     }
   ],
   "year": 2024,

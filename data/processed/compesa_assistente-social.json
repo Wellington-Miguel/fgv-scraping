@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para Companhia Pernambucana de Saneamento - COMPESA",
   "cargo_title": "Assistente Social",
   "exam_type": "Tipo 1",
-  "total_questions": 69,
+  "total_questions": 70,
   "questions": [
     {
       "question_number": 1,
@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3d8862330458a6b3"
+      "question_hash": "3d8862330458a6b3",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a66ad2246ee1a3e4"
+      "question_hash": "a66ad2246ee1a3e4",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fc0154eb1d8d0746"
+      "question_hash": "fc0154eb1d8d0746",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c750bb5d70eaad11"
+      "question_hash": "c750bb5d70eaad11",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4ee0f3ac64682232"
+      "question_hash": "4ee0f3ac64682232",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f7fbae9fc9e2cb2c"
+      "question_hash": "f7fbae9fc9e2cb2c",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cf1a3e28e0582aa9"
+      "question_hash": "cf1a3e28e0582aa9",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "174f6c991e466fe0"
+      "question_hash": "174f6c991e466fe0",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8b6523ed1e4265c0"
+      "question_hash": "8b6523ed1e4265c0",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2affecf82f577a22"
+      "question_hash": "2affecf82f577a22",
+      "base_text": null
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": "data/processed/images/compesa_assistente-social_q11.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b95d162b8c6f0567"
+      "question_hash": "b95d162b8c6f0567",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,7 +243,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9b8a8406c8404ca0"
+      "question_hash": "9b8a8406c8404ca0",
+      "base_text": null
     },
     {
       "question_number": 13,
@@ -251,7 +263,8 @@
       "image_path": "data/processed/images/compesa_assistente-social_q13.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "292c0db47d9037a3"
+      "question_hash": "292c0db47d9037a3",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -266,11 +279,12 @@
       },
       "answer": "B",
       "annulled": false,
-      "has_image": false,
-      "image_path": null,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa_assistente-social_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "38ef0bef1c861de1"
+      "question_hash": "38ef0bef1c861de1",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ff49bd2b3af4d567"
+      "question_hash": "ff49bd2b3af4d567",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": "data/processed/images/compesa_assistente-social_q16.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fda8eb4a160e30fe"
+      "question_hash": "fda8eb4a160e30fe",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": "data/processed/images/compesa_assistente-social_q17.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b644ff595ac8ea9b"
+      "question_hash": "b644ff595ac8ea9b",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": "data/processed/images/compesa_assistente-social_q18.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "24356dd160a66e2d"
+      "question_hash": "24356dd160a66e2d",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,28 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f1dfe7b51a295d0a"
+      "question_hash": "f1dfe7b51a295d0a",
+      "base_text": null
+    },
+    {
+      "question_number": 20,
+      "discipline": "Informática",
+      "statement": "No Word 2010 BR, por default, um documento é configurado no modo , mas pode ser mudado para . Para isso, escolhe-se um desses modos em uma pequena janela que se abre quando se clica em um ícone, a partir da guia na barra de menus da Faixa de Opções. O ícone é:",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa_assistente-social_q20.png",
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cfc09b1252beab31",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -384,7 +423,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "447ea43e7ab440bc"
+      "question_hash": "447ea43e7ab440bc",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -403,7 +443,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "8d296cfec40887ae"
+      "question_hash": "8d296cfec40887ae",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -422,7 +463,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b4826640507caf23"
+      "question_hash": "b4826640507caf23",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -441,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "24315884ec731393"
+      "question_hash": "24315884ec731393",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -460,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "3fd508d21e716912"
+      "question_hash": "3fd508d21e716912",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -479,7 +523,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "575ddb7d9c9c5d0a"
+      "question_hash": "575ddb7d9c9c5d0a",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -498,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c149775587d93a9e"
+      "question_hash": "c149775587d93a9e",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -517,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6dc5db591d9d8b1b"
+      "question_hash": "6dc5db591d9d8b1b",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -536,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6a6f08f931119ce7"
+      "question_hash": "6a6f08f931119ce7",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -555,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ef3700f36bc82dc5"
+      "question_hash": "ef3700f36bc82dc5",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Assinale a opção que define o papel dos indicadores sociais e sua relação com o processo de conhecimento da realidade social no âmbito do planejamento de políticas sociais.",
       "alternatives": {
         "A": "Elementos de descrição da realidade social com caráter operacional.",
@@ -574,11 +623,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "95438b5fda99d626"
+      "question_hash": "95438b5fda99d626",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre as novas características das políticas sociais no Brasil, a partir da Constituição Federal de 1988, assinale V para a afirmativa verdadeira e F para falsa. ( ) As políticas sociais são estruturadas em programas específicos e desarticulados entre si. ( ) As políticas sociais sofrem influências das novas feições estabelecidas entre o Estado brasileiro e a sociedade civil sob a influência neoliberal. ( ) As políticas sociais representam as respostas do Estado brasileiro às contradições da questão social no sistema capitalista. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e V.",
@@ -593,11 +643,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ae311d493ef3f449"
+      "question_hash": "ae311d493ef3f449",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre a prática profissional do Assistente Social, nos mais diferentes campos de atuação, assinale V para a afirmativa verdadeira e F para falsa. ( ) O estudo social é um instrumento neutro cujo uso não se relaciona com os objetivos profissionais. ( ) O uso do estudo social está relacionado à natureza dos espaços ocupacionais da profissão. ( ) O uso do estudo social deve ser precedido de uma autorização institucional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e V.",
@@ -612,11 +663,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "5f446d2fe6f98e0a"
+      "question_hash": "5f446d2fe6f98e0a",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Leia o fragmento a seguir. “A instituição situada no nível _____ e a organização, enquanto uma estrutura _____ e _____, estão socialmente relacionadas e se complementam mutuamente”. Assinale a opção que completa corretamente as lacunas do fragmento acima.",
       "alternatives": {
         "A": "organizacional –social – autônoma",
@@ -631,11 +683,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "33cf9e923d357937"
+      "question_hash": "33cf9e923d357937",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "O caráter operacional e tecnicista das metodologias avaliativas das políticas e dos programas sociais tem sido muito criticado. Sobre essas metodologias de avaliação, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Carecem de análises qualitativas voltadas para o conteúdo e para o significado da política social. ( ) Concebem as políticas sociais como processo de consolidação de direitos e serviços sociais. ( ) Possuem uma visão linear, etapista e de resultados no enfretamento das desigualdades sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e V.",
@@ -650,11 +703,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "052130226e84ef1d"
+      "question_hash": "052130226e84ef1d",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "As opções a seguir se referem aos princípios da Seguridade Social brasileira, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Universalidade e equivalência dos benefícios e serviços para as populações urbanas e rurais.",
@@ -669,11 +723,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ed9fcf03adf4cea6"
+      "question_hash": "ed9fcf03adf4cea6",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "A respeito do planejamento de políticas sociais, analise as afirmativas a seguir. I. A diferença entre plano, programa e projeto está no nível de agregação das decisões e no detalhamento das operações da execução. II. A diferença entre plano, programa e projeto está no público alvo dos programas sociais para o qual os serviços sociais são estruturados. III. A diferença entre plano, programa e projeto está no ente federativo responsável pela formulação, execução e avaliação da política social. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -688,11 +743,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "72e40c61486678f6"
+      "question_hash": "72e40c61486678f6",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "As organizações públicas e privadas têm utilizado os recursos do Planejamento Estratégico para direcionar seus objetivos organizacionais. Sobre a etapa preliminar do planejamento estratégico, analise as afirmativas a seguir. I. Ela deve identificar o “terreno” ou o “cenário” em que se desenvolverá a ação. II. Ela deve identificar o perfil, os recursos e as técnicas das forças sociais em confronto. III. Ela deve avaliar os métodos usados na resolução dos problemas dos atores envolvidos. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -707,11 +763,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "abe71d78c022d7c9"
+      "question_hash": "abe71d78c022d7c9",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "A Política Nacional de Assistência Social estrutura-se com base em diferentes modalidades de garantias sociais. A Promoção Social está voltada para",
       "alternatives": {
         "A": "estruturar serviços sociais para as populações marginalizadas e excluídas.",
@@ -726,11 +783,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "33c339e12d6ba178"
+      "question_hash": "33c339e12d6ba178",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Assinale a opção que apresenta uma característica do princípio da equanimidade, segundo o Sistema Único de Saúde.",
       "alternatives": {
         "A": "Os recursos devem ser oferecidos de acordo com as necessidades de cada sujeito.",
@@ -745,11 +803,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6ae7861de50acbd8"
+      "question_hash": "6ae7861de50acbd8",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre as entidades de assistência social que fazem parte do Sistema Único de Assistência Social, assinale V para a afirmativa verdadeira e F para falsa. ( ) Elas prestam serviços, executam programas ou projetos e concedem benefícios de prestação social básica ou especial. ( ) Elas executam prioritariamente programas e projetos voltados para a luta e a defesa dos direitos socioassistenciais. ( ) Elas prestam serviços voltados para o fortalecimento das organizações de usuários e para a formação de lideranças comunitárias. As afirmativas são respectivamente,",
       "alternatives": {
         "A": "F, V e F.",
@@ -764,11 +823,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "eccdfa56565dc2d8"
+      "question_hash": "eccdfa56565dc2d8",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre o auxílio-acidente no âmbito da Previdência Social, analise as afirmativas a seguir. I. Benefício pago ao trabalhador que sofreu um acidente e ficou com sequelas que reduzem sua capacidade de trabalho. II. Benefício concedido para o segurado que recebia auxílio- doença acidentário ou previdenciário. III. Benefício de direito acumulativo com os proventos oriundos de aposentadoria e auxílio-doença. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta",
@@ -783,11 +843,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "372595fe95c15f1b"
+      "question_hash": "372595fe95c15f1b",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Na Previdência Social o estudo social é utilizado para",
       "alternatives": {
         "A": "solucionar divergências em matéria de direito previdenciário.",
@@ -802,11 +863,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "adafb46def32bfc5"
+      "question_hash": "adafb46def32bfc5",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "De acordo com a análise institucional, o Assistente Social pode ser um agente subordinado ou privilegiado, dependendo da função que a instituição/organização desempenha na realidade social. Sobre a inserção profissional do Assistente Social nesses serviços, analise as afirmativas a seguir. I. É um agente privilegiado quando é o profissional responsável pela realização da função social da organização. II. É um agente privilegiado quando realiza o objeto e objetivo central do espaço organizacional. III. É um agente subordinado quando não ocupa as funções gerenciais nas organizações sociais. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -821,11 +883,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "1d122c15dabc8c81"
+      "question_hash": "1d122c15dabc8c81",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "As opções a seguir caracterizam corretamente as novas condições de inserção do Assistente Social nos sistemas nacionais responsáveis pela gestão das políticas sociais, no campo da assistência social e saúde, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Os sistemas de gestão das políticas sociais encerram novas racionalidades que passam a organizar o modo como os serviços sociais são prestados à população.",
@@ -840,11 +903,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f052c712a55bfed0"
+      "question_hash": "f052c712a55bfed0",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre as atuais características do trabalho do Assistente Social na Política de Assistência Social, analise as afirmativas a seguir. I. Inserção em equipes multiprofissionais que não estão isentas de tensões em relação às competências e atribuições dos profissionais envolvidos. II. Aumento da atuação nas instâncias de gestão e controle social em detrimento das ações pedagógicas. III. Aumento das ações interinstitucionais em função da dimensão intersetorial da política, com envolvimento de órgãos de vários poderes. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -859,11 +923,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b2998440ad293281"
+      "question_hash": "b2998440ad293281",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "A Política de Atenção à Criança e ao Adolescente é estruturada a partir de um elenco integrado de ações, que lhe confere determinadas características. Sobre essas características, assinale a afirmativa correta.",
       "alternatives": {
         "A": "forte componente intersetorial e interdisciplinar que produz interfaces nas instâncias responsáveis por programas, projetos e serviços para a criança e o adolescente.",
@@ -878,11 +943,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "a2e3417cc4ec4a22"
+      "question_hash": "a2e3417cc4ec4a22",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre a atuação do Assistente Social no atendimento da população idosa, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Sua atuação passou, nos últimos anos, a ser mediada por um conjunto articulado de políticas sociais. ( ) Na área da saúde, as ações profissionais se relacionam às condições sociofamiliares decorrentes dos agravos da saúde da população idosa. ( ) O reconhecimento social e político da população idosa, a partir do Estatuto do Idoso e da Política Nacional do Idoso, incorporou o Poder Judiciário na defesa dos seus direitos. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e F.",
@@ -897,11 +963,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f68ceb89581ba189"
+      "question_hash": "f68ceb89581ba189",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "O Sistema Único de Saúde é organizado como um modelo de saúde hierarquizado e regionalizado, segundo a lógica programática, entre outras. A lógica programática corresponde",
       "alternatives": {
         "A": "ao nível de complexidade dos serviços estruturados na atenção básica, na atenção secundária e na atenção terciária.",
@@ -916,11 +983,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "901a2bf6539088bf"
+      "question_hash": "901a2bf6539088bf",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre as limitações da família como instância de apoio e proteção social no Brasil, assinale V para a afirmativa verdadeira e F para a falsa. ( ) A família é um espaço contraditório no qual se articulam situações de proteção e violência. ( ) A família diminuiu de tamanho o que coloca limites para as práticas de apoio entre seus membros. ( ) As famílias, quando chefiada por mulheres, tendem a se caracterizar pela pobreza e pelos baixos salários. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, V e V.",
@@ -935,11 +1003,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "0282c15165471e2a"
+      "question_hash": "0282c15165471e2a",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre o conceito de família, a partir das alterações no Código Civil de 1916, analise a afirmativa correta.",
       "alternatives": {
         "A": "É constituída pelo casamento, com relações internas de caráter patriarcal e hierarquizado.",
@@ -954,11 +1023,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "09c6ba409ba52153"
+      "question_hash": "09c6ba409ba52153",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Os objetivos do PAIF – Proteção e Atendimento Integral à Família, no âmbito da Política de Assistência Social, estão listados a seguir, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "Fortalece a função protetiva da família, para melhoria da qualidade de vida.",
@@ -973,11 +1043,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4f055648bd1e71d7"
+      "question_hash": "4f055648bd1e71d7",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Relacione os instrumentos técnico-operativos, usados pelos assistentes sociais no trabalho profissional com família, listados a seguir, ao objetivo do seu uso. 1. Encaminhamentos 2. Reuniões 3. Visitas domiciliares 4. Estudo Social ( ) Estudos de casos , avaliação do trabalho realizado ( ) Planejamento da intervenção e conhecimento da realidade ( ) Conhecimento do cotidiano das famílias e comunidades ( ) Atendimento da família para programas e serviços sociais Assinale a opção que indica a sequência correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 3 – 2 – 4",
@@ -992,11 +1063,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "40232a818cf28712"
+      "question_hash": "40232a818cf28712",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre os desafios que ainda permanecem no trabalho do Assistente Social com família, assinale V para a afirmativa verdadeira e F para falsa. ( ) Ultrapassar a visão da família como instituição natural a-histórica. ( ) Romper com a concepção da família como espaço homogêneo e de forte unidade. ( ) Reconhecer que o foco das ações socioassistenciais deve ser a garantia de direitos sociais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, V e V.",
@@ -1011,11 +1083,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b20f12060a2a357b"
+      "question_hash": "b20f12060a2a357b",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Assinale a opção que apresenta o conceito correto de burocracia.",
       "alternatives": {
         "A": "Conjunto organizado de normas assumidas pelo Estado e suas organizações.",
@@ -1030,11 +1103,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4aae849aae2af98b"
+      "question_hash": "4aae849aae2af98b",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "A redescoberta da família, como instância de proteção social, ganhou força, na década de 1980, a partir da perspectiva do pluralismo de bem-estar, segundo a parceria ou corresponsabilidade de três esferas. Assinale a opção que indica essas três esferas.",
       "alternatives": {
         "A": "Instituição, governo e filantropia.",
@@ -1049,11 +1123,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7ebbbf333f8fb30b"
+      "question_hash": "7ebbbf333f8fb30b",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre as práticas empresariais em torno da “responsabilidade social” como campo de atuação para o Assistente Social, analise as afirmativas a seguir. I. Partem do pressuposto de uma suposta diminuição do papel do Estado como agente de regulação social e de provisão social. II. São atividades realizadas pelas empresas para atender às necessidades dos seus empregados e da comunidade. III. São práticas destituídas de qualquer princípio ideológico, uma vez que pautadas em pressupostos humanitários. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -1068,11 +1143,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7dffc2bc068c7918"
+      "question_hash": "7dffc2bc068c7918",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "As opções a seguir apresentam áreas de atuação do Assistente Social em organizações privadas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Participação em programas de qualificação e formação de mão de obra.",
@@ -1087,11 +1163,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7dd9a286819b0f95"
+      "question_hash": "7dd9a286819b0f95",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre a reestruturação produtiva e suas repercussões nos processos de produção, analise as afirmativas a seguir. I. As empresas públicas foram refratárias aos processos de reestruturação produtiva, pois seus processos de trabalho são influenciados pelo fordismo. II. As alterações, no processo produtivo de mercadorias, apoiam-se nos pressupostos da flexibilidade dos processos de trabalho, dos produtos e dos padrões de consumo. III. Face à profundidade das mudanças nos processos de organização do trabalho, o capitalismo foi alterado, enquanto modo de produção. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -1106,11 +1183,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9426dde47d015018"
+      "question_hash": "9426dde47d015018",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre as possibilidades de trabalho no âmbito empresarial, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Deve atuar na orientação socioassistencial e na oferta de serviços à população. ( ) Passa a ser responsável pela gestão de recursos humanos e por programas participativos. ( ) Atua na melhoria da ambiência organizacional, da qualidade de vida e do trabalho voluntário. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e V.",
@@ -1125,11 +1203,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d68cdc4ef7daff0c"
+      "question_hash": "d68cdc4ef7daff0c",
+      "base_text": null
     },
     {
       "question_number": 61,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Os impactos das mudanças nas políticas sociais e, por consequência, no trabalho do Assistente Social, devido aos processos de contrarreforma, são evidentes. Sobre essa relação, assinale a alternativa que não compõe o quadro característico deste processo.",
       "alternatives": {
         "A": "A organização das políticas públicas apresenta-se como um campo de contradições e tensões, o que atinge a profissão.",
@@ -1144,11 +1223,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c30102f40dbfc145"
+      "question_hash": "c30102f40dbfc145",
+      "base_text": null
     },
     {
       "question_number": 62,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre o trabalho profissional no âmbito das políticas sociais, analise as afirmativas a seguir e assinale V para a afirmativa verdadeira e F para a falsa. ( ) No âmbito das políticas públicas, as racionalidades dos processos de trabalho resultam de processos políticos, econômicos e ideológicos. ( ) O Assistente Social integra processos de trabalho coletivos em unidades que implementam, gerenciam e articulam serviços sociais. ( ) O trabalho profissional, nas instituições públicas, possui um processo próprio, em virtude da natureza do espaço público. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e V.",
@@ -1163,11 +1243,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "593a1a6965796495"
+      "question_hash": "593a1a6965796495",
+      "base_text": null
     },
     {
       "question_number": 63,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre o trabalho profissional do Assistente Social nas empresas privadas, analise as afirmativas a seguir. I. Um novo campo de atuação, aberto pelos processos de reestruturação produtiva das empresas. II. A valorização da imagem da empresa, por meio de projetos de responsabilidade social, demanda a presença do Assistente Social. III. A autonomia profissional é tensionada pelos mecanismos empresariais de controle da força de trabalho. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -1182,11 +1263,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "50a5686d728fa616"
+      "question_hash": "50a5686d728fa616",
+      "base_text": null
     },
     {
       "question_number": 64,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "A atuação profissional do Assistente Social nas empresas privadas se efetua por meio de algumas requisições relacionadas à força de trabalho empregada. Relacione as requisições, listadas a seguir, às suas respectivas características. 1. Consumo da força de trabalho 2. Controle da força de trabalho 3. Reprodução da força de trabalho ( ) Processos relacionados à produtividade do trabalhador ( ) Processos relacionados à prestação de benefícios sociais ( ) Processos relacionados à adequação de comportamento Assinale a opção que indica a sequência correta, de cima para baixo.",
       "alternatives": {
         "A": "1, 3 e 2.",
@@ -1201,11 +1283,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "1d32efed62ae3c9d"
+      "question_hash": "1d32efed62ae3c9d",
+      "base_text": null
     },
     {
       "question_number": 65,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Com a crescente parceria entre o público e o privado na proteção social brasileira, o mercado de trabalho para os Assistentes Social tendeu a crescer no âmbito das entidades não governamentais. Assinale a opção que não caracteriza esse espaço profissional.",
       "alternatives": {
         "A": "Forte influência do discurso da autonomia, solidariedade e parceria nas ações sociais.",
@@ -1220,11 +1303,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "3cd3daefd5b23622"
+      "question_hash": "3cd3daefd5b23622",
+      "base_text": null
     },
     {
       "question_number": 66,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Dentre os vários tipos de entrevistas destaca-se a chamada entrevista semi-estruturada. A respeito da entrevista semi-estruturada, assinale V para a afirmativa verdadeira e F para falsa. ( ) Caracteriza-se por ser um roteiro de questões fechadas e previamente definidas. ( ) Caracteriza-se por ser um relato livre acerca de temáticas de livre escolha do entrevistado. ( ) Caracteriza-se por ser um instrumento de perguntas abertas que orientam a entrevista. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e V.",
@@ -1239,11 +1323,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9a0859529a0cb434"
+      "question_hash": "9a0859529a0cb434",
+      "base_text": null
     },
     {
       "question_number": 67,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Acerca da legislação e da ética na regulação da profissão, analise as afirmativas a seguir. I. O Código de Ética define princípios que orientam a relação entre os assistentes sociais e os usuários dos serviços sociais. II. Relaciona o compromisso do Assistente Social com os princípios democráticos. III. A atividade profissional está regida apenas pela legislação profissional, de ordem operacional. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa III estiver correta.",
@@ -1258,11 +1343,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "54271873e2491586"
+      "question_hash": "54271873e2491586",
+      "base_text": null
     },
     {
       "question_number": 68,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "De acordo com o Código de Ética, as opções a seguir apresentam direitos do Assistente Social, à exceção de uma. Assinale-a",
       "alternatives": {
         "A": "Exercer livremente as atividades inerentes à profissão.",
@@ -1277,11 +1363,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "82f0a2f915db40c5"
+      "question_hash": "82f0a2f915db40c5",
+      "base_text": null
     },
     {
       "question_number": 69,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "Sobre a definição de competências e atribuições privativas na lei de regulamentação do Assistente Social, assinale V para a afirmativa verdadeira e F para a falsa. ( ) As atribuições privativas são definidas pelo lugar que a profissão ocupa na divisão sociotécnica do trabalho. ( ) As atribuições privativas são prerrogativas profissionais decorrentes de uma formação específica. ( ) As competências profissionais são responsabilidades que se definem nos espaços ocupacionais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e F.",
@@ -1296,11 +1383,12 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "560f9f2e2e45ab4e"
+      "question_hash": "560f9f2e2e45ab4e",
+      "base_text": null
     },
     {
       "question_number": 70,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Serviço Social",
       "statement": "No âmbito da saúde, a atuação profissional do Assistente Social realiza-se em quatro grandes eixos, articulados entre si. A esse respeito, relacione esses eixos às suas respectivas características. 1. Atendimento direto aos usuários 2. Mobilização, participação e controle social 3. Investigação, planejamento e gestão 4. Assessoria, qualificação e formação profissional ( ) Aprimoramento profissional e atividades de estágio ( ) gestão das unidades de saúde de forma horizontal e democrática ( ) democratização da instituição por meio de conselhos gestores ( ) ações socioassistenciais na atenção básica e nos serviços de média e alta complexidade Assinale a opção que indica a sequência correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 3 – 2 – 4",
@@ -1315,7 +1403,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4610548c89791c97"
+      "question_hash": "4610548c89791c97",
+      "base_text": null
     }
   ],
   "year": 2024,

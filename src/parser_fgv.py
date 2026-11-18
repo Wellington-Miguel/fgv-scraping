@@ -263,8 +263,10 @@ class FGVParser:
         re.IGNORECASE,
     )
 
+    # Aceita (A)..(E) com parênteses em qualquer posição precedida por início/espaço/quebra,
+    # ou A) / A. / A- sem parênteses EXCLUSIVAMENTE no início da linha (evitando iniciais de autores/variáveis como 'A. T. Guerra' ou 'A - B')
     ALT_SPLIT_RE = re.compile(
-        r"(?:^|\n|\s)(?:\(([A-E])\)|([A-E])\s*[\)\.\-])\s+",
+        r"(?:(?:^|\n|\s)\(([A-E])\)|(?:^|\n)([A-E])\s*[\)\.\-])(?:\s+|(?=\n|$))",
         re.MULTILINE,
     )
 
@@ -552,12 +554,18 @@ class FGVParser:
 
                 image_path_str: Optional[str] = None
                 has_image = False
-                if rq.get("alt_a_y0") is not None and rq["column"] == rq.get("alt_a_col"):
+                has_visual_alts = bool(rq.get("has_visual_alts"))
+                crop_bottom_y = (
+                    rq.get("q_end_y1")
+                    if (has_visual_alts and rq.get("q_end_y1"))
+                    else rq.get("alt_a_y0")
+                )
+                if crop_bottom_y is not None and (has_visual_alts or rq["column"] == rq.get("alt_a_col")):
                     cropped = self._check_and_crop_visuals(
                         page=page,
                         column=rq["column"],
                         q_y0=rq["q_y0"],
-                        alt_a_y0=rq["alt_a_y0"],
+                        alt_a_y0=crop_bottom_y,
                         slug_prefix=slug_prefix,
                         question_number=q_num,
                     )
@@ -1198,12 +1206,17 @@ class FGVParser:
         full_parts: List[str] = []
         alt_a_y0: Optional[float] = None
         alt_a_col: Optional[int] = None
+        q_end_y1: Optional[float] = None
 
         for blk, text_piece in raw_q["blocks"]:
+            if blk.page_index == raw_q["page_index"] and blk.column == raw_q["column"]:
+                q_end_y1 = max(q_end_y1 or blk.y1, blk.y1)
             if not text_piece:
                 continue
             full_parts.append(text_piece)
-            if alt_a_y0 is None and re.search(r"(?:^|\n|\s)(?:\(A\)|A\s*[\)\.\-])\s+", text_piece):
+            if alt_a_y0 is None and re.search(
+                r"(?:(?:^|\n|\s)\(A\)|(?:^|\n)A\s*[\)\.\-])(?:\s+|(?=\n|$))", text_piece
+            ):
                 alt_a_y0 = blk.y0
                 alt_a_col = blk.column
 
@@ -1312,6 +1325,7 @@ class FGVParser:
 
         statement = combined_text[: selected_matches[0].start()].strip()
         alternatives: Dict[str, Optional[str]] = {"A": None, "B": None, "C": None, "D": None, "E": None}
+        has_visual_alts = False
 
         for i, letter in enumerate(active_letters):
             start_pos = selected_matches[i].end()
@@ -1323,6 +1337,9 @@ class FGVParser:
             alt_val = combined_text[start_pos:end_pos].strip()
             if i == len(active_letters) - 1:
                 alt_val = self._strip_trailing_section_headers(alt_val)
+            if not alt_val:
+                alt_val = "[Imagem na questão]"
+                has_visual_alts = True
             alternatives[letter] = alt_val
 
         return {
@@ -1331,8 +1348,10 @@ class FGVParser:
             "page_index": raw_q["page_index"],
             "column": raw_q["column"],
             "q_y0": raw_q["q_y0"],
+            "q_end_y1": q_end_y1,
             "alt_a_y0": alt_a_y0,
             "alt_a_col": alt_a_col,
+            "has_visual_alts": has_visual_alts,
             "statement": statement,
             "alternatives": alternatives,
         }

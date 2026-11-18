@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-ambiental_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No que se refere à Resolução CONAMA nº 357/2005, alterada pela Resolução 410/2009 e pela 430/2011, analise os itens a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) A definição de enquadramento se refere ao conjunto de condições e padrões de qualidade de água necessários ao atendimento dos usos preponderantes, atuais ou futuros; ( ) O enquadramento do corpo hídrico será definido pelos usos preponderantes mais restritivos da água, atuais ou pretendidos ( ) As águas doces, salobras e salinas do Território Nacional são classificadas segundo a quantidade de carga poluidora. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – V – F.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f68fe87a603d699d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f68fe87a603d699d",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Impactos ambientais negativos em corpos hídricos são recorrentes em diversos estados brasileiros. Considere dois lagos interligados por tubulações que exibem colorações bastante distintas. Sabe-se que um deles apresenta maior acúmulo de matéria orgânica e forte proliferação de algas. Considerando os conceitos de Oxigênio Dissolvido (OD) e Demanda Bioquímica de Oxigênio (DBO), assinale a opção que explica a diferença de coloração observada entre os lagos.",
       "alternatives": {
         "A": "O lago com maior carga de matéria orgânica apresenta DBO mais elevada, consumindo mais oxigênio e alterando suas condições ecológicas, o que favorece a proliferação de algas e a alteração da cor da água.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "401282bcb5197014"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "401282bcb5197014",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Resolução CONAMA nº 001, de 23 de janeiro de 1986, dispõe sobre critérios básicos e diretrizes gerais para a avaliação de impacto ambiental. Segundo este instrumento legal, o Relatório de Impacto Ambiental - RIMA refletirá as conclusões do estudo de impacto ambiental e conterá um escopo mínimo, do qual não faz parte",
       "alternatives": {
         "A": "a descrição do projeto e suas alternativas tecnológicas e locacionais.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "333a8bbd922469a7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "333a8bbd922469a7",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma rotina de fiscalização ambiental, verificou-se que um efluente industrial lançado em um rio adjacente à indústria, enquadrado como classe 2, apresentava temperatura acima do limite estabelecido pela Resolução CONAMA 430/2011. Considerando os potenciais efeitos ambientais e sanitários decorrentes da alteração térmica deste corpo receptor, a situação que melhor descreve uma consequência provável e consistente com esse cenário é",
       "alternatives": {
         "A": "a redução da solubilidade do oxigênio provocada pela temperatura alta da água favorece processos anaeróbios, intensifica a decomposição da matéria orgânica e pode facilitar a proliferação de microrganismos oportunistas, aumentando riscos sanitários inclusive quando o corpo d’água é usado para abastecimento, após tratamento convencional.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "752525e85c3d4475"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "752525e85c3d4475",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um Sistema de Gestão Ambiental (SGA) estruturado conforme a ABNT NBR ISO 14001, o processo de planejamento exige que a organização compreenda fatores internos e externos capazes de influenciar seu desempenho ambiental e utilize essas informações para definir ações, prioridades e direcionamentos estratégicos. Nessa perspectiva, a abordagem adequada consiste em reconhecer que o planejamento deve",
       "alternatives": {
         "A": "focar nas influências externas, já que o desempenho ambiental depende do atendimento aos requisitos legais e mitigação dos impactos externos.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9135fb15a735253e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9135fb15a735253e",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Lei nº 9.605, de 12 de fevereiro de 1998, dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente. À luz de suas disposições, analise as afirmativas a seguir. I. Incorre nas mesmas penas quem, de qualquer forma, tendo conhecimento da prática criminosa de outrem, deixa de impedir o delito quando podia agir para evitá-lo. II. As penas restritivas de direitos previstas na legislação incluem a prestação pecuniária, mas não a prestação de serviços à comunidade. III. Constituem circunstâncias que agravam a pena o fato de o agente cometer a infração durante a noite, ou coagir terceiro para a execução material do crime. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0f9dff1de0c76b4b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0f9dff1de0c76b4b",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um Estudo de Avaliação do Ciclo de Vida (ACV) permite identificar múltiplos impactos ambientais associados a um processo, produto ou organização, e diferentes pegadas ambientais podem ser comunicadas com base nesses resultados. Entre os instrumentos derivados da ACV, destaca-se a Declaração Ambiental de Produto (EPD), padronizado pela ISO 14025 e classificado como rótulo ambiental Tipo III. Nesse contexto, rótulos ambientais fundamentados em metodologias reconhecidas podem apoiar políticas de compras públicas sustentáveis na medida em que",
       "alternatives": {
         "A": "substituem a ficha técnica convencional uma vez que oferecem um resumo suficiente das características ambientais do produto.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "61315223ee002a43"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "61315223ee002a43",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A recente Lei nº 15.190, de 8 de agosto de 2025, dispõe sobre o licenciamento ambiental e estabelece, entre outras diretrizes",
       "alternatives": {
         "A": "o Estudo de Impacto Ambiental (EIA), conforme Termo de Referência, constitui requisito para a emissão da Licença Prévia (LP) e da Licença de Operação (LO).",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8f29817d58c621c6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8f29817d58c621c6",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Nem todas as empresas no Brasil são obrigadas a realizar auditorias ambientais, essa obrigatoriedade se aplica apenas a atividades ou empreendimentos classificados como de significativo potencial poluidor ou de alto risco ambiental. No contexto do licenciamento ambiental, como parte do processo de concessão da licença de operação ou pedido de renovação deve ser realizada de forma periódica",
       "alternatives": {
         "A": "a Auditoria Ambiental de Controle.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6610e9774d311d93"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6610e9774d311d93",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Lei nº 12.305/2010 institui a Política Nacional de Resíduos Sólidos, dispondo sobre seus princípios, objetivos e instrumentos, bem como sobre as diretrizes relativas à gestão integrada e ao gerenciamento de resíduos sólidos, incluídos os perigosos, às responsabilidades dos geradores e do poder público e aos instrumentos econômicos aplicáveis. Com base no preconizado por essa norma,",
       "alternatives": {
         "A": "na gestão e gerenciamento de resíduos sólidos, deve ser observada a seguinte ordem de prioridade: não geração, redução, reciclagem, reutilização, tratamento dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b181570a86f7fa1c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b181570a86f7fa1c",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Líquidos percolados em diferentes sistemas ambientais variam de acordo com o material que atravessam. Pesquisas relatam que percolados gerados em aterros sanitários, resultantes da combinação entre infiltração de água e decomposição dos resíduos, costumam apresentar elevada carga orgânica, altas concentrações de nitrogênio amoniacal e presença significativa de metais e compostos recalcitrantes. Em contraste, percolados oriundos de infiltração em solos naturais ou de sistemas de compostagem adequadamente manejados tendem a apresentar menor concentração de contaminantes, refletindo a natureza do material percolado e os processos predominantes no sistema. Com base nessas informações, a distinção técnica mais adequada entre percolado e chorume é que",
       "alternatives": {
         "A": "o chorume é definido exclusivamente pela presença de metais pesados, independentemente da origem.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "17c64a37a47ec9fb"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "17c64a37a47ec9fb",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma equipe de inovação analisou diferentes soluções tecnológicas que prometem reduzir impactos ambientais em processos produtivos. O gestor solicitou que a equipe identifique qual das opções realmente se enquadra como tecnologia limpa, entendida como aquela que reduz impactos ao longo de todo o ciclo de vida, sem transferir pressões ambientais para outra etapa da cadeia. A solução tecnológica que apresenta, de fato, uma tecnologia limpa se refere a",
       "alternatives": {
         "A": "sistemas de cogeração que utilizam gás natural para aumentar a eficiência energética e diminuir perdas térmicas em instalações industriais.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1ab2308a5e4243e0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1ab2308a5e4243e0",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Quando se realiza a combustão do resíduo a cerca de 850°C para a geração de energia térmica e elétrica, refere-se à tecnologia de recuperação energética conhecida como",
       "alternatives": {
         "A": "coprocessamento",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "88247cc95b7f5e5f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "88247cc95b7f5e5f",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre os impactos das mudanças climáticas no meio aquático, considerando discussões relacionadas ao processo preparatório da mais recente Conferência das Partes (COP 30), analise as afirmativas a seguir. I. O aumento da temperatura média global intensifica a estratificação térmica de lagos e reservatórios, reduzindo a circulação vertical e favorecendo períodos prolongados de baixa oxigenação em camadas mais profundas. II. A elevação do nível do mar, destacada em análises técnicas que subsidiaram debates para a COP30, tende a ampliar a intrusão salina em zonas costeiras, afetando a qualidade da água doce e sua disponibilidade para consumo humano e atividades agrícolas. III. A acidificação dos oceanos, resultante da maior absorção de dióxido de carbono pela água do mar, tende a limitar os impactos sobre recifes de coral, sobretudo nas regiões tropicais, já que a maior temperatura superficial compensa parcialmente a diminuição do pH e reduz o estresse fisiológico sobre esses organismos calcificadores. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bf83e8b3c817c0c1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bf83e8b3c817c0c1",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Com base na Política Nacional do Meio Ambiente (PNMA), instituída pela Lei nº 6.938/1981, assinale a opção que não faz parte de suas diretrizes, objetivos ou instrumentos.",
       "alternatives": {
         "A": "A PNMA tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "05382b935500b1cf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "05382b935500b1cf",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um dos mais emblemáticos episódios de intoxicação humana por mercúrio é o caso Minamata, no Japão. Diversos danos severos, que incluíram perda de visão e audição, más-formações congênitas, problemas cognitivos, dentre outros, foram causados pelo despejo de metilmercúrio em ambiente aquático e posterior ingestão de peixes e mariscos contaminados. O processo ecológico responsável pelo aumento da concentração desse contaminante ao longo da cadeia alimentar, resultando em graves impactos à saúde humana, é denominado como",
       "alternatives": {
         "A": "bioacumulação.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a4027bbf17d4c81c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a4027bbf17d4c81c",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O município fictício de Serra Verde enfrenta recorrentes problemas de falta d’água, sobrecarga no sistema de esgotamento sanitário e acúmulo de resíduos sólidos em diversos espaços públicos. Diante desse cenário, o órgão ambiental municipal foi convocado a colaborar na elaboração de um instrumento legal que deverá reunir o diagnóstico da situação e de seus impactos nas condições de vida, estabelecer metas de curto, médio e longo prazo, definir mecanismos de avaliação sistemática da eficiência e da eficácia das ações programadas e apresentar diretrizes voltadas à universalização dos serviços de saneamento, conforme determina a legislação federal (Lei nº 11.445/2007). De acordo com essa Lei, o instrumento que o município deve elaborar é o",
       "alternatives": {
         "A": "Termo de Cooperação Interfederativa para Gestão de Serviços.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "01a5a31903f4368f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "01a5a31903f4368f",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Floresta Amazônica exerce papel essencial no equilíbrio do clima global ao atuar como um dos maiores sumidouros naturais de carbono do planeta. Sua grande biomassa vegetal armazena quantidades expressivas de carbono e remove CO2 da atmosfera por meio da fotossíntese. No entanto, o avanço do desmatamento, da degradação florestal e das secas extremas tem reduzido essa capacidade, trazendo o risco de que a região deixe de ser um sumidouro e passe a liberar mais carbono do que armazena. Com base nessas informações, analise as afirmativas a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) A capacidade da Floresta Amazônica de sequestrar carbono decorre de sua imensa biomassa, que armazena grandes quantidades de carbono na vegetação e nos solos, contribuindo para reduzir a concentração de CO2 na atmosfera. ( ) O aumento do desmatamento tende a fortalecer o papel da Floresta Amazônica como reguladora climática, pois a substituição da floresta por áreas abertas favorece a remoção de CO2 da atmosfera. ( ) A intensificação das secas, das queimadas e da mortalidade de árvores enfraquece o sumidouro de carbono amazônico, havendo evidências de que em alguns anos a floresta já libera mais carbono do que sequestra. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – F – V.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c57a2ba580c5683c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c57a2ba580c5683c",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No Brasil, diversas iniciativas públicas seguem impulsionando a adoção de soluções de infraestrutura ecológica em áreas rurais e periurbanas, como o Programa de Saneamento Rural da FUNASA, que incentiva tecnologias sociais de baixo custo voltadas ao saneamento descentralizado, e as ações de assistência técnica das EMATER estaduais, que promovem práticas sustentáveis de manejo hídrico e ambiental. Considerando a necessidade de ampliar sistemas ecológicos de tratamento local de águas cinzas, especialmente aqueles que combinam filtração em meio granular, remoção biológica de matéria orgânica e nutrientes, evapotranspiração e participação de vegetação adaptada a ambientes úmidos, a solução descentralizada mais adequada é",
       "alternatives": {
         "A": "o emprego de círculos de bananeiras.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5aeaa03dbe8c129c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5aeaa03dbe8c129c",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A bacia hidrográfica é reconhecida como a unidade fundamental de planejamento e gestão dos recursos hídricos, pois permite integrar variáveis ambientais, sociais e econômicas que determinam a disponibilidade e o uso da água. Segundo o Relatório de Conjuntura da Agência Nacional de Águas e Saneamento Básico (ANA), publicado em 2024 com dados consolidados de 2023, os usos consuntivos de água no Brasil apresentam a seguinte distribuição setorial: irrigação (50,5 %), abastecimento urbano (23,9 %), indústria (9,4 %), água para animais (8,2%), abastecimento rural (1,8%), termoeletricidade consuntiva (1,5%), mineração (1,2%) e outros usos menores. Considerando esses dados e o fato de que conflitos de uso tendem a se intensificar em bacias com baixa disponibilidade hídrica, é adequado realizar uma análise considerando que",
       "alternatives": {
         "A": "como a soma dos usos urbanos e industriais ultrapassa 50% da retirada total, a gestão por bacia deve priorizar o abastecimento urbano e a indústria, pois são os setores que mais pressionam a oferta hídrica na escala nacional.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2976811ad193b7a3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2976811ad193b7a3",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Nos últimos anos, um determinado município tem recebido solicitações de parcelamento de solo em áreas limítrofes à zona urbana, onde há pressão imobiliária e expansão rápida da infraestrutura. Em uma das análises, a equipe técnica verificou que o projeto apresentado por um empreendedor inclui: abertura de novas vias internas conectadas a uma rodovia estadual existente, lotes destinados predominantemente a uso residencial, previsão de redes de abastecimento de água e de drenagem pluvial ainda em fase de negociação com a concessionária e ausência de indicação precisa das áreas destinadas ao uso público, o que motivou dúvidas sobre o atendimento integral às exigências legais. Diante deste contexto, e considerando o que dispõem as Leis Federais nº 6.766/1979 e nº 9.785/1999, que estabelecem as normas gerais para o parcelamento do solo urbano no Brasil, a atuação adequada do município é",
       "alternatives": {
         "A": "exigir a definição final das redes de abastecimento e drenagem, uma vez que a legislação federal trata apenas da implantação de infraestrutura básica, sem a necessidade de se detalhar a destinação de áreas públicas.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b485e6454815a1af"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b485e6454815a1af",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma grande metrópole brasileira, a prefeitura implantou um corredor verde com espécies arbóreas de alta emissão de compostos orgânicos voláteis biogênicos (BVOCs), como isopreno e monoterpenos. Embora o objetivo fosse reduzir as ilhas de calor existentes e melhorar o conforto urbano, medições subsequentes detectaram elevação das concentrações de ozônio na baixa troposfera, sobretudo em dias ensolarados e com tráfego intenso. Considerando que a prevenção da poluição atmosférica exige compreender os diferentes papéis do ozônio nas camadas da atmosfera, é correto afirmar que",
       "alternatives": {
         "A": "o aumento de ozônio troposférico contribui para melhorar a qualidade do ar, já que ele atua como filtrante de radiação ultravioleta da mesma forma que na estratosfera.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ade3f04251879b6a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ade3f04251879b6a",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma instalação industrial de segurança crítica mantém rígidos protocolos de controle radiológico, com monitoramento contínuo de radionuclídeos (átomos de núcleos instáveis) no ar e sistemas de exaustão projetados prioritariamente para essa finalidade. Durante uma auditoria interna, o engenheiro ambiental constatou que, embora o monitoramento radiológico seja minucioso, não há qualquer controle sistemático sobre as emissões de gases refrigerantes de alto GWP (Global Warming Potential, em português Potencial de Aquecimento Global), nem sobre vapores químicos utilizados em processos auxiliares. A equipe de radioproteção argumentou que tais compostos não representam risco radiológico e, portanto, não foram incluídos nos programas de vigilância. Considerando a predominância institucional do controle radiológico e as atribuições do engenheiro ambiental, a ação mais adequada é",
       "alternatives": {
         "A": "manter o foco exclusivamente no monitoramento radiológico, pois as normas setoriais já determinam as prioridades de controle na instalação.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "016b52a7fc6e7d6a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "016b52a7fc6e7d6a",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Empresas sujeitas a compromissos de compensação ambiental têm financiado projetos que buscam restaurar áreas degradadas e recolocar ecossistemas em trajetórias sucessionais mais estáveis. Ações como recomposição da vegetação nativa, recuperação de áreas com perda de umidade e reforço da conectividade entre fragmentos têm sido consideradas essenciais para aumentar a resiliência ecológica em regiões afetadas por pressões climáticas e antrópicas, incluindo paisagens que já apresentam sinais de transição estrutural e perda acelerada de biodiversidade. Com base nesse contexto, analise as afirmativas a seguir: I. As ações de compensação ambiental baseadas na introdução de espécies pioneiras em larga escala tendem a conduzir o ambiente a uma trajetória sucessional completa, já que espécies tardias e intermediárias se estabelecem naturalmente em qualquer cenário de degradação independentemente das condições ecológicas locais. II. A efetividade de programas de compensação ambiental na restauração da sucessão ecológica depende principalmente de fatores climáticos regionais, pois a influência de intervenções planejadas sobre padrões de regeneração, estrutura da vegetação e retomada de funções ecossistêmicas tende a permanecer limitada diante das variabilidades climáticas de longo prazo. III. Projetos corporativos de compensação ambiental que utilizam múltiplas estratégias de restauração, integração de espécies com diferentes características funcionais, reconexão de habitats e acompanhamento de processos ecológicos ao longo do tempo podem favorecer trajetórias sucessionais mais robustas e contribuir para a recuperação de funções ecossistêmicas essenciais, especialmente em regiões vulneráveis à perda de umidade, fragmentação e redução de biomassa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "84053e2732f1d8b0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "84053e2732f1d8b0",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma equipe multidisciplinar analisou uma área degradada e concluiu que, para o local em questão, seria necessário recuperar a função da vegetação, empregando técnicas de controle da erosão e estabilização do solo, sem preocupação com a composição florística original. A técnica descrita é conhecida como",
       "alternatives": {
         "A": "recuperação.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d617f6c01f2bf078"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d617f6c01f2bf078",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Na Política Nacional de Resíduos Sólidos, nas suas disposições gerais no Capítulo II, são definidos conceitos importantes. Estabeleça a associação dos conceitos listados à esquerda com a respectiva definição à direita. A sequência correta, de cima para baixo, é",
       "alternatives": {
         "A": "1 – 3 – 2 – 4",
@@ -1067,12 +1122,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-ambiental_q56.png",
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "634c2bde3e50362d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "634c2bde3e50362d",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em atividades de educação ambiental, é comum destacar que a matéria circula continuamente pelos ecossistemas e pelos sistemas produtivos, enquanto a energia apresenta um comportamento diferente ao longo das transformações. Considerando os conceitos de reciclagem da matéria e de fluxo de energia é correto afirmar que",
       "alternatives": {
         "A": "quando ocorre reciclagem, tanto a matéria quanto a energia retornam integralmente ao sistema, pois ambas realizam ciclos fechados sem perdas.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "596a0b8120d146d0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "596a0b8120d146d0",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em instalações industriais, o reuso da água é uma prática adotada para reduzir a captação de recursos hídricos, diminuir a geração de efluentes e otimizar processos internos. Em treinamentos ambientais, gestores destacam que diferentes tipos de reuso podem ser aplicados conforme a qualidade da água tratada e a demanda operacional de cada setor. Considerando os princípios gerais do reuso da água, é correto afirmar que",
       "alternatives": {
         "A": "quando ocorre reuso da água, todo o volume é direcionado ao consumo humano, já que a qualidade resultante do tratamento atende automaticamente aos padrões de potabilidade.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2511407d942407e2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2511407d942407e2",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em sistemas de gestão ambiental baseados na ABNT NBR ISO 14001, espera-se que organizações adotem abordagens proativas para reduzir riscos e impactos antes que eles se materializem, seja atuando sobre as causas dos aspectos ambientais, seja considerando incertezas científicas relacionadas aos potenciais danos. Nesse contexto, a adoção dessas abordagens implica que",
       "alternatives": {
         "A": "a prevenção da poluição seja limitada ao uso de tecnologias de controle aplicadas depois que resíduos e emissões já foram gerados, enquanto o princípio da precaução justifique a tomada de decisão somente quando exista total certeza científica sobre seus possíveis impactos.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "42cedce496ca44d0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "42cedce496ca44d0",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Lei nº 12.651 de 25 de maio de 2012, estabelece normas gerais sobre a proteção da vegetação, áreas de Preservação Permanente e as áreas de Reserva Legal, a exploração florestal, o suprimento de matéria-prima florestal, o controle da origem dos produtos florestais e o controle e prevenção dos incêndios florestais, e prevê instrumentos econômicos e financeiros para o alcance de seus objetivos. Com base nesta Lei, é correto afirmar que",
       "alternatives": {
         "A": "se entende como uma Área de Preservação Permanente uma área protegida, coberta ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem-estar das populações humanas.",
         "B": "a localização da área de uma Reserva Legal no imóvel rural deverá levar em consideração as áreas de menor fragilidade ambiental.",
         "C": "quando indicado pelo Zoneamento Ecológico-Econômico - ZEE estadual, realizado segundo metodologia unificada, o poder público federal poderá reduzir as áreas de Reserva Legal em até 50% dos percentuais previstos nesta Lei, para cumprimento de metas nacionais de proteção à biodiversidade ou de redução de emissão de gases de efeito estufa.",
         "D": "não é admitida a exploração econômica da Reserva Legal em nenhuma circunstância.",
-        "E": "será exigida Área de Preservação Permanente no entorno de reservatórios artificiais de água ainda que não decorram de barramento ou represamento de cursos d’água naturais. Redação"
+        "E": "será exigida Área de Preservação Permanente no entorno de reservatórios artificiais de água ainda que não decorram de barramento ou represamento de cursos d’água naturais."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4c74e9f2a428a5fd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4c74e9f2a428a5fd",
+      "base_text": null
     }
   ],
   "year": 2024,

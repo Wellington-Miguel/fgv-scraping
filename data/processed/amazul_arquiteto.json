@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_arquiteto_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma equipe de arquitetura e urbanismo recebeu a tarefa de analisar dois projetos distintos de parcelamento do solo: Projeto A: prevê a subdivisão de uma grande gleba em lotes, com a criação de novas ruas e logradouros públicos para acesso às futuras edificações. Projeto B: prevê a subdivisão de outra gleba, também em lotes destinados à edificação, mas sem abrir novas vias, aproveitando integralmente o sistema viário já existente. Com base na Lei Federal nº 6.766/1979, é correto afirmar que",
       "alternatives": {
         "A": "ambos os projetos configuram loteamento.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e13e8e2c1ddb9555"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e13e8e2c1ddb9555",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A NBR 9050 (Acessibilidade a Edificações, Mobiliário, Espaços e Equipamentos Urbanos) estabelece dois tipos principais de sinalização tátil no piso para orientar pessoas com deficiência visual: o piso tátil de alerta e o piso tátil direcional. O piso de alerta tem a função de advertir sobre mudanças de direção, obstáculos ou situações de perigo, enquanto o piso direcional tem a função de guiar o percurso. Considerando as diretrizes da NBR 9050, analise os itens que indicam a aplicação correta do tipo de piso tátil para cada uma das situações descritas a seguir: I. No início e no fim de uma rampa. II. Ao longo de um corredor extenso e sem obstáculos laterais. III. Em frente a um elevador. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "I. Direcional; II. Alerta; III. Direcional.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "27c480d30686677c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "27c480d30686677c",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Segundo a NBR 6492 (Representação de Projetos de Arquitetura), o desenvolvimento de um projeto arquitetônico segue uma sequência de estágios, cada um com uma finalidade e um nível de detalhamento específicos, sendo estes: o Estudo Preliminar (EP- ARQ), o Anteprojeto (AP-ARQ), o Projeto para Licenciamento (PL- ARQ) e o Projeto Executivo (PE-ARQ). Nesse contexto, analise as afirmativas a seguir: I. O Anteprojeto (AP-ARQ) é o estágio onde se define a solução técnica e construtiva do projeto, ideal para a compatibilização com os projetos complementares. II. O Projeto para Licenciamento (PL-ARQ), por ser destinado à aprovação nos órgãos competentes, deve conter o mesmo nível de detalhamento do Projeto Executivo (PE-ARQ). III. O Estudo Preliminar (EP-ARQ) tem como principal objetivo a concepção geral do projeto. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d508334afba50dfb"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d508334afba50dfb",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma planta baixa de arquitetura, há três representações de elementos distintos que não estão diretamente visíveis no plano: I. Um elemento físico oculto sob o piso (ex: uma viga baldrame). II. Um elemento físico situado acima do plano (ex: a projeção de um beiral da cobertura). III. Um elemento conceitual que não existe fisicamente, mas serve para organizar o desenho (ex: um eixo de simetria). Com base na NBR 6492 (Representação de Projetos de Arquitetura), assinale a opção que descreve a correta aplicação de linhas para as situações mencionadas.",
       "alternatives": {
         "A": "A \"Linha tracejada estreita\" é a convenção correta para representar tanto os elementos ocultos (I) quanto os elementos em projeção (II).",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "133ed9ac11ed0a24"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "133ed9ac11ed0a24",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante a elaboração de um projeto habitacional, a equipe de arquitetura precisa garantir que o edifício atenda aos requisitos mínimos de desempenho conforme a NBR 15575 (Edificações Habitacionais - Desempenho). Considerando os princípios gerais da norma, analise os itens a seguir: I. A “Habitabilidade” está associada ao conforto e à salubridade do ambiente, envolvendo fatores como desempenho térmico, acústico, lumínico e estanqueidade. II. A “Sustentabilidade” abrange critérios relacionados à durabilidade, manutenibilidade e impacto ambiental ao longo da vida útil de projeto da edificação. III. A “Segurança” aborda, exclusivamente, medidas de prevenção e combate a incêndios, como: o uso de extintores, sinalização e saídas de emergência, sistemas de sprinklers e hidrantes, plano de evacuação e treinamento dos ocupantes. IV. A “Vida Útil de Projeto” (VUP) é o período durante o qual a edificação deve manter seu desempenho previsto, desde que atendidas as condições de uso e manutenção estabelecidas. Com base nessas informações, está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "431f32349b61724c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "431f32349b61724c",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante o dimensionamento de uma instalação hidráulica predial, foi constatado que, em determinados pontos de utilização, a pressão dinâmica residual apresentou valores negativos. Assinale a opção que apresenta medidas corretivas que podem ser tecnicamente adotadas para garantir a pressão mínima exigida nos pontos de consumo, conforme os princípios de hidráulica predial.",
       "alternatives": {
         "A": "Substituir o reservatório elevado por um reservatório enterrado, de modo a reduzir a carga estática e compensar o excesso de pressão na rede.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9d57fd3e61b28550"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9d57fd3e61b28550",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante o projeto de um sistema de aproveitamento de água de chuva, a equipe de arquitetura avaliou as condições da cobertura de um edifício e percebeu que parte dela é utilizada como área de convivência, onde há tráfego de pessoas e vegetação ornamental. De acordo com a NBR 15527 (Aproveitamento de Água de Chuva de Coberturas para Fins não Potáveis - Requisitos), a conduta técnica mais adequada em relação à captação da água de chuva proveniente dessa cobertura é",
       "alternatives": {
         "A": "captar toda a água escoada dessa cobertura, desde que seja instalada uma filtragem adicional após o reservatório.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "dd9ee2eaef8b0837"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dd9ee2eaef8b0837",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os sistemas prediais de esgoto sanitário, conforme a NBR 8160 (Sistemas Prediais de Esgoto Sanitário - Projeto e Execução), são projetados para operar sob pressão atmosférica. A ventilação é um componente crucial desse sistema, sendo responsável por conectar o sistema de esgoto à atmosfera. Considerando o princípio de funcionamento hidráulico e a necessidade de proteger os dispositivos de vedação hídrica (sifões), a principal função da ventilação em um sistema predial de esgoto sanitário é",
       "alternatives": {
         "A": "acelerar o escoamento dos efluentes, aumentando a velocidade da água nas tubulações.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3f468da787a5f008"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3f468da787a5f008",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em projetos de arquitetura desenvolvidos no Autodesk AutoCAD, a correta utilização das Camadas (Layers) é essencial para a organização do trabalho. Um projetista está finalizando um projeto e precisa gerar três pranchas distintas: I. Prancha do Pavimento Tipo: Apenas paredes, esquadrias (portas e janelas) e cotas. II. Prancha de Instalações Elétricas: Apenas pontos de luz, tomadas e eletrodutos (com as paredes em segundo plano, mas sem cotas). III. Prancha de Equipamentos e Mobiliário: Apenas equipamentos, móveis e textos de identificação (sem as instalações). A principal função gerencial das Camadas (Layers), que permite ao projetista gerar essas três pranchas diferentes a partir de um único desenho, sem precisar copiar e apagar elementos, é",
       "alternatives": {
         "A": "a capacidade de Bloqueio (Lock), que impede a edição acidental de elementos em outras disciplinas.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "47462a0810243208"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "47462a0810243208",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No Autodesk AutoCAD, um dos métodos mais comuns para criar um sólido tridimensional a partir de uma geometria 2D é o comando EXTRUDE (Extrusão) ou o comando PRESSPULL (Puxar/Pressionar). Para que o resultado da extrusão seja um sólido fechado (e não uma superfície 3D), a geometria 2D de base deve atender a uma condição fundamental. Um projetista desenhou o contorno de uma fundação retangular, utilizando quatro segmentos de linha separados, mas perfeitamente conectados nos vértices. Ao tentar extrudir essa geometria para criar o sólido da fundação, o comando resulta em uma superfície (casca) e não em um sólido. A ação lógica e necessária que o projetista deve realizar na geometria 2D antes de aplicar o comando de extrusão para garantir que o resultado seja um sólido 3D fechado é",
       "alternatives": {
         "A": "mudar o sistema de coordenadas (UCS) para o plano vertical (YZ ou XZ).",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a842c741d38afcc9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a842c741d38afcc9",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um projeto feito no Autodesk AutoCAD, configurado para plotagem a partir de um arquivo CTB, um objeto desenhado na Cor 3 (Verde) tem sua Camada configurada com uma espessura de linha de 0.18 mm. No entanto, o arquivo CTB define que a Cor 3 deve ser impressa com uma espessura de 0.40 mm. Ao plotar o desenho, a espessura final impressa será de 0.40 mm. O motivo funcional para que a configuração de espessura definida no CTB prevaleça sobre a espessura definida na Camada quando o objeto está configurado como ByLayer, é",
       "alternatives": {
         "A": "a espessura da Camada é exclusivamente proprietária para a visualização no Model Space, e o comando REGEN deve ser executado antes da plotagem a fim de forçar a leitura da espessura do CTB.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7aa8df2d57ee34c8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7aa8df2d57ee34c8",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O Autodesk AutoCAD utiliza o Model Space para a criação do desenho em escala real (1:1) e o Paper Space (Layout) para a diagramação da folha de impressão. Um projetista precisa plotar um desenho em uma folha A1 na escala 1:50. Assinale a opção que descreve a relação correta entre os dois ambientes e a escala de plotagem.",
       "alternatives": {
         "A": "O comando DIMENSION deve ser utilizado no Model Space para reduzir o desenho em 50 vezes, garantindo que ele caiba na Viewport do Layout.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9c5c07b2a0245a0a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9c5c07b2a0245a0a",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O projeto de segurança contra incêndio de um novo edifício comercial de múltiplos andares prevê a instalação de um sistema de chuveiros automáticos (sprinklers) e de uma rede de hidrantes. Embora ambos os sistemas utilizem a mesma reserva técnica de incêndio (RTI), suas lógicas de acionamento e operação são fundamentalmente distintas e independentes, visando diferentes estratégias de combate ao fogo. Considerando a interação e a finalidade desses dois sistemas em uma situação de incêndio, é correto afirmar que",
       "alternatives": {
         "A": "o sistema de hidrantes é projetado para ser o primeiro a ser ativado, com o objetivo de controlar focos de incêndio em estágio inicial, enquanto os sprinklers servem como um sistema de apoio para o caso de o fogo se alastrar.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5f24db65f17e40c9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5f24db65f17e40c9",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um eletricista está analisando o projeto elétrico da suíte de um apartamento, representado na planta baixa abaixo. O circuito de iluminação do quarto é comandado por um interruptor three-way (paralelo) localizado próximo à porta de entrada e outro interruptor idêntico ao lado da cama. O ponto de luz central do quarto é simbolizado por um círculo com as letras \"a, b\" inscritas. Considerando o eletroduto que conecta o interruptor paralelo próximo à porta ao ponto de luz central, a descrição correta dos condutores presentes nesse trecho é que passam pelo eletroduto",
       "alternatives": {
         "A": "o condutor fase desse circuito, o condutor neutro e o condutor de proteção (terra), que alimentarão o ponto de luz.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d0c73c74043e48e8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d0c73c74043e48e8",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um arquiteto está definindo a distribuição dos circuitos de um apartamento. Para a área de serviço, ele prevê um circuito de tomadas de uso geral (TUGs) para alimentar aparelhos como máquina de lavar e ferro de passar. Contudo, para o aquecedor elétrico de água de acumulação (boiler) que será instalado no mesmo ambiente, a norma técnica exige a criação de um circuito independente, com uma tomada de uso específico (TUE). Assinale a opção que apresenta a principal razão técnica e de segurança que fundamenta a exigência de um circuito exclusivo para o aquecedor elétrico, em vez de simplesmente conectá-lo ao circuito de TUGs da área de serviço, mesmo que a soma das potências não ultrapasse o limite do disjuntor.",
       "alternatives": {
         "A": "O aquecedor elétrico opera com uma tensão diferente (220V) daquela das TUGs (127V), e a norma proíbe misturar tensões diferentes no mesmo circuito, mesmo que o disjuntor seja bipolar.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "82f680ef549419fd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "82f680ef549419fd",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A fossa séptica é uma unidade de tratamento primário de esgoto doméstico, essencial em locais sem rede coletora. Seu funcionamento se baseia em processos físico-químicos e biológicos que ocorrem em seu interior. Assinale a opção que descreve corretamente a função principal da fossa séptica, o processo biológico que nela ocorre e a consequência para o efluente de saída.",
       "alternatives": {
         "A": "A fossa séptica tem como função principal a oxigenação do esgoto, utilizando bactérias aeróbias para decompor a matéria orgânica e produzir um efluente que pode ser diretamente descartado.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1abdbcf54b2e8f50"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1abdbcf54b2e8f50",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um arquiteto está desenvolvendo o projeto de um edifício residencial com um salão de festas de pé-direito duplo no pavimento térreo. Para criar um grande vão livre, sem a necessidade de pilares no meio do salão, o engenheiro estrutural especificou o uso de uma viga de transição no nível do piso do 1 º pav. residencial. Esta viga especial tem a função de receber a carga de três pilares dos andares superiores (que nascem sobre ela) e transferi-la para apenas dois pilares mais robustos localizados nas extremidades do salão. Considerando a função e a representação gráfica deste elemento estrutural em um projeto, assinale a opção que descreve corretamente a viga de transição e sua representação em uma planta de formas.",
       "alternatives": {
         "A": "Em uma planta de formas, a viga de transição será representada com a mesma altura (h) e largura (bw) das demais vigas do pavimento, sendo identificada apenas por uma nota de texto que indica sua função especial.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8e02cb030b1ccdd1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8e02cb030b1ccdd1",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Dois edifícios comerciais distintos, o Edifício A e o Edifício B, estão na fase de concepção e pré-dimensionamento da estrutura de concreto armado. Ambos os edifícios possuem lajes maciças com vãos e sobrecargas de utilização idênticas. A única diferença significativa no arranjo estrutural entre eles está na continuidade das vigas, conforme descrito: Edifício A: Possui um layout com múltiplos vãos sequenciais de comprimentos similares, resultando em vigas com alto grau de continuidade (por exemplo, uma viga contínua que se apoia em cinco pilares). Edifício B: Possui um layout com vãos únicos e isolados, onde a maioria das vigas é simplesmente apoiada entre dois pilares (biapoiada). Considerando apenas os conceitos de pré-dimensionamento e o comportamento estrutural, assinale a opção que apresenta a consequência mais provável dessa diferença de continuidade na altura estimada para as vigas dos dois edifícios.",
       "alternatives": {
         "A": "As vigas do Edifício B poderão ter uma altura menor, pois, sendo biapoiadas, concentram os esforços de maneira mais eficiente em um único vão, exigindo menos material.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0a7e31d7540b3131"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0a7e31d7540b3131",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um projeto estrutural de um pavimento-tipo de um edifício, a estrutura é composta por lajes maciças, vigas e pilares de concreto armado. Um pilar específico, denominado P5, localizado no centro do pavimento, recebe cargas de quatro vigas que chegam até ele (V1, V2, V3 e V4), e essas vigas, por sua vez, servem de apoio para as lajes adjacentes. Considerando a trajetória e a acumulação das cargas verticais desde a laje até a fundação, assinale a opção que descreve corretamente a principal solicitação no pilar P5 e a origem dessa solicitação.",
       "alternatives": {
         "A": "A principal solicitação no pilar P5 é a flexão composta, causada diretamente pelo peso das lajes que, ao se deformarem, aplicam um momento fletor na cabeça do pilar, sendo a carga das vigas secundária.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d6b9f927ac32e499"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d6b9f927ac32e499",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma construtora está executando um grande complexo comercial de concreto armado, que consiste em duas torres de escritórios (Torre A e Torre B) conectadas por uma passarela elevada com 30 metros de comprimento no nível do 10º pavimento. A estrutura de cada torre foi projetada e está sendo construída de forma independente. A passarela, por sua vez, será estruturalmente apoiada nas vigas de borda de cada uma das torres. Considerando que as torres possuem comportamento estrutural independente, assinale a opção correta quanto ao tipo de ligação estrutural da passarela com as torres, de modo a permitir os deslocamentos relativos.",
       "alternatives": {
         "A": "Não é necessária nenhuma junta de dilatação. A passarela deve ser engastada (conectada rigidamente) em ambas as torres para formar um pórtico único, aumentando a estabilidade geral da estrutura contra possíveis ventos.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e998a6bf3ba00462"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e998a6bf3ba00462",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um projeto de construção civil que adota a metodologia BIM (Building Information Modeling), a interoperabilidade é um aspecto central, especialmente quando diferentes disciplinas (Arquitetura, Estrutura, Instalações) utilizam softwares proprietários distintos. Para garantir a troca de informações sem perdas significativas de dados, o conceito de Open BIM e o uso de formatos neutros são cruciais. Neste contexto, assinale a opção que descreve corretamente a função do formato Industry Foundation Classes (IFC) e sua implicação na gestão da informação do modelo.",
       "alternatives": {
         "A": "O IFC é um formato de arquivo proprietário, desenvolvido para padronizar a comunicação entre softwares, garantindo acesso controlado aos dados de modelos BIM de outros usuários.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4a0f500cf0879bbc"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4a0f500cf0879bbc",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A modelagem paramétrica é uma característica presente em muitos softwares BIM (Building Information Modeling), onde os elementos do modelo são definidos por regras e relações que permitem ajustes automáticos. No entanto, o BIM é conceitualmente mais abrangente do que o simples desenho paramétrico. Assinale a opção a seguir que apresenta o fator distintivo fundamental que eleva o BIM para além do desenho paramétrico avançado.",
       "alternatives": {
         "A": "O BIM é o único capaz de realizar a Detecção de Interferências (Clash Detection) automatizada em modelos federados, o que é inviável em um ambiente paramétrico.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9a0708dae9c4b91d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9a0708dae9c4b91d",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em regiões de clima quente e úmido (como grande parte do litoral brasileiro), o principal desafio do projeto arquitetônico é promover o resfriamento e a dissipação da umidade interna a fim de garantir o conforto térmico dos ocupantes. Para isso, o arquiteto deve priorizar determinadas estratégias bioclimáticas. Considerando as características desse tipo de clima, assinale a opção que apresenta a estratégia passiva de projeto mais adequada e fundamental para o conforto térmico.",
       "alternatives": {
         "A": "Adoção de alta inércia térmica nas paredes e coberturas.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "af3419976f842796"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "af3419976f842796",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um projeto de arquitetura, o controle do ruído é realizado por duas estratégias principais: Isolamento Acústico e Absorção Acústica. A escolha da estratégia correta depende do problema a ser resolvido. Assinale a opção que apresenta a distinção técnica e funcional correta entre Isolamento e Absorção Acústica.",
       "alternatives": {
         "A": "O Isolamento Acústico utiliza materiais porosos e leves para reduzir o tempo de reverberação dentro de um ambiente, enquanto a Absorção Acústica utiliza massa e densidade para bloquear a passagem do som entre ambientes.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0d326947a3ede9ca"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0d326947a3ede9ca",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O projeto de iluminação e conforto visual em arquitetura se baseia em diversos conceitos fotométricos. A correta compreensão da diferença entre eles é essencial para a especificação de luminárias e o dimensionamento de aberturas. Assinale a opção que apresenta a associação correta entre o conceito fotométrico e sua definição ou unidade de medida.",
       "alternatives": {
         "A": "Iluminância: É a medida da luz que sai de uma superfície ou fonte em uma determinada direção, sendo sua unidade de medida o lúmen (lm).",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5d8279eae0fcd6d4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5d8279eae0fcd6d4",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Ao analisar uma planta topográfica, em determinada área as curvas de nível estão muito próximas entre si, enquanto em outra região do mesmo mapa, elas aparecem mais espaçadas. Sobre a interpretação dessas características, assinale a opção correta.",
       "alternatives": {
         "A": "Curvas muito próximas indicam uma região de topografia plana, ideal para construção de infraestrutura.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9cfe47e91f79e9ec"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9cfe47e91f79e9ec",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante o restauro de uma igreja colonial do século XVIII, tombada, a equipe técnica identificou a existência de uma pintura barroca sob várias camadas de tinta. A análise laboratorial confirmou que 60% da pintura original está preservada, mas com perda significativa de pigmentos. De acordo com os Artigos 9º a 13º da Carta de Veneza (1964), assinale a opção que apresenta a proposta de intervenção que está em conformidade com os princípios internacionais de restauro.",
       "alternatives": {
         "A": "Reconstituição integral da pintura utilizando técnicas e pigmentos idênticos aos originais, visando recompor a estética do bem.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1a744106147fb074"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1a744106147fb074",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Constituição Federal de 1988 ampliou a noção de patrimônio cultural, reconhecendo bens de natureza material e imaterial, e estabeleceu novas formas de preservação, como o Registro e o Inventário, além do Tombamento (Decreto-Lei nº 25/1937), que é adequado, principalmente, à proteção de edificações e conjuntos históricos urbanos. Considerando a natureza dos bens e os instrumentos de proteção citados, assinale a opção a seguir que apresenta a associação correta entre o instrumento e o tipo de bem que ele visa proteger primariamente.",
       "alternatives": {
         "A": "O Tombamento é o instrumento mais adequado para a proteção de bens de natureza material imóvel, enquanto o Registro é o instrumento mais adequado para a proteção de bens de natureza imaterial.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2d8f4cce5ca2ad11"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2d8f4cce5ca2ad11",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante a elaboração de um Plano de Gerenciamento de Resíduos da Construção Civil (PGRCC) para uma obra de um edifício, a equipe técnica pretende alinhar o documento aos princípios da Política Nacional de Resíduos Sólidos (PNRS), Lei nº 12.305/2010. O Art. 9º da PNRS estabelece que na gestão e no gerenciamento de resíduos sólidos, deve ser observada a seguinte ordem de prioridade: não geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos. No contexto do canteiro de obras, a aplicação mais adequada da hierarquia de gestão de resíduos da PNRS aos resíduos da construção civil consiste em",
       "alternatives": {
         "A": "priorizar a instalação de uma usina de reciclagem no próprio canteiro, ainda que a obra gere baixo volume de resíduos.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "223340307d91b66b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "223340307d91b66b",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No contexto do uso racional da energia em edificações, as tecnologias solares passivas utilizam fenômenos naturais para reduzir a demanda por climatização artificial. No contexto do uso racional da energia em edificações, as tecnologias solares passivas caracterizam-se por",
       "alternatives": {
         "A": "dependem de sistemas automatizados de abertura e fechamento de esquadrias, controlados por sensores, para ajustar o ganho térmico.",
         "B": "baseiam-se no isolamento total entre interior e exterior, evitando qualquer troca térmica com o ambiente.",
         "C": "requerem superfícies com baixa absorção térmica para impedir variações de temperatura, independentemente da orientação solar.",
         "D": "impedem a entrada de luz natural direta por meio de barreiras opacas contínuas, evitando sobreaquecimento.",
-        "E": "aproveitam radiação solar, ventilação natural e massa térmica para regular ganhos e perdas de calor sem uso de energia mecânica. Redação"
+        "E": "aproveitam radiação solar, ventilação natural e massa térmica para regular ganhos e perdas de calor sem uso de energia mecânica."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "adff96af55ca0737"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "adff96af55ca0737",
+      "base_text": null
     }
   ],
   "year": 2024,

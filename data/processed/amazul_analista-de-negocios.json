@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_analista-de-negocios_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Na análise de negócios, uma das funções centrais é apoiar decisões que assegurem a perpetuação da organização por meio da geração líquida de caixa futuro. Nesse contexto, a decisão de investimento envolve identificar e avaliar oportunidades que possam ampliar a geração de valor. Considerando esses princípios da análise de negócios, assinale a opção que representa corretamente o foco central da decisão de investimento.",
       "alternatives": {
         "A": "Analisar variações de curto prazo no mercado financeiro para ajustar previsões operacionais imediatas.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0da8a8a9740a4d48"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0da8a8a9740a4d48",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Na análise de negócios, a metodologia ASG destaca que fatores ambientais, sociais e de governança podem influenciar diretamente a percepção pública sobre uma organização. Quando eventos adversos afetam um projeto podem desencadear deterioração da imagem institucional. Essa piora de reputação pode gerar redução de receitas, perda de valor de mercado e enfraquecimento das relações com investidores, reguladores, fornecedores e consumidores. Considerando esse contexto, assinale a opção descreve corretamente a relação entre a metodologia ASG e o risco reputacional nas organizações.",
       "alternatives": {
         "A": "O risco reputacional limita-se a oscilações financeiras de curto prazo decorrentes de variações cambiais.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6ada10bec423fd25"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6ada10bec423fd25",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Na análise de viabilidade econômica e financeira de projetos, diferentes metodologias podem ser empregadas para apoiar a tomada de decisão, variando conforme o tipo de fluxo de caixa, o grau de incerteza e a natureza dos critérios considerados. Considerando essas características, assinale a opção que corresponde ao método utilizado para avaliar projetos com base em diversos critérios simultaneamente, englobando aspectos econômicos, sociais e ambientais.",
       "alternatives": {
         "A": "Árvore de decisão.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9c0689519f65418b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9c0689519f65418b",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A análise de dados, no contexto da análise de negócios, envolve o uso integrado de tecnologias computacionais, técnicas estatísticas e métodos de ciência administrativa para transformar dados históricos em informações úteis, apoiando decisões e recomendando ações. Dentro desse escopo, a análise preditiva busca responder “o que provavelmente acontecerá?”, recorrendo a ferramentas capazes de identificar padrões e antecipar comportamentos futuros a partir de grandes volumes de dados. Considerando os facilitadores característicos da análise de negócios preditiva, assinale a opção que apresenta um facilitador típico dessa abordagem.",
       "alternatives": {
         "A": "Dashboard.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "eb9510cbf0859daf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eb9510cbf0859daf",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A análise de dados passou a ser aplicada em diversos setores, originando vocabulários e práticas específicas conforme o domínio analisado. Essa diversificação ocorre porque, embora muitas técnicas sejam comuns, cada área possui características próprias que influenciam coleta, processamento e aplicação dos dados. Considerando essas aplicações verticais, assinale a opção que apresenta um exemplo típico de domínio em que a análise de dados tem sido amplamente utilizada.",
       "alternatives": {
         "A": "Jardinagem.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "be5370a327299520"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "be5370a327299520",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A análise de negócios utiliza indicadores para monitorar metas e orientar decisões. Entre esses indicadores, destacam-se os KPIs, que se diferenciam das métricas operacionais por estarem diretamente vinculados aos objetivos estratégicos da organização. Considerando as características de um KPI, assinale a opção que apresenta um exemplo compatível com esse tipo de indicador.",
       "alternatives": {
         "A": "Número total de acessos ao site corporativo.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c35005da9918d638"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c35005da9918d638",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "No contexto da análise de negócios, os indicadores de desempenho podem ser classificados em indicadores de resultado final e indicadores condutores. Os primeiros medem efeitos já ocorridos, enquanto os condutores antecipam tendências e influenciam diretamente os resultados futuros. Considerando essa distinção, assinale a opção que apresenta um exemplo típico de indicador condutor.",
       "alternatives": {
         "A": "Total mensal de receitas obtidas.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7b24157313598088"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7b24157313598088",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Na gestão de contratos comerciais, diferentes mecanismos podem ser utilizados para estruturar o relacionamento entre as partes. Os mecanismos informais levam em conta o contexto histórico e social, podendo se manifestar em acordos não escritos baseados na confiança e na integridade percebida. Já os mecanismos formais definem obrigações e níveis de cooperação por meio de instrumentos contratuais detalhados. Considerando esses conceitos, assinale a opção que apresenta um exemplo típico de mecanismo informal em relações contratuais.",
       "alternatives": {
         "A": "Cláusula de penalidade estipulada no contrato.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f6011e0e928d5a07"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f6011e0e928d5a07",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Os contratos podem ser classificados de acordo com o grau de detalhamento das obrigações e das contingências previstas. Entre os chamados contratos completos, destacam-se duas modalidades: os contratos contingenciais, que ajustam variáveis como quantidades, preços e especificações conforme estados da natureza plenamente conhecidos; e os contratos compreensivos, que reúnem todas as informações disponíveis para definir as obrigações das partes em curto prazo. Considerando essas características, assinale a opção que descreve corretamente um contrato compreensivo.",
       "alternatives": {
         "A": "Acordo baseado apenas em confiança mútua, sem especificações formais sobre obrigações.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "67e8b98de2f36a02"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "67e8b98de2f36a02",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A incompletude dos contratos é definida em função da racionalidade limitada e do oportunismo das partes envolvidas na transação. Considerando os fatores que explicam a incompletude dos contratos, assinale a opção que apresenta uma razão típica para que um contrato seja classificado como incompleto.",
       "alternatives": {
         "A": "Todas as contingências futuras relevantes podem ser plenamente previstas e descritas pelas partes.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "851c5b464e34a712"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "851c5b464e34a712",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "No gerenciamento de contratos de compra e venda de bens e serviços, diferentes ferramentas auxiliam o monitoramento das obrigações assumidas por fornecedores e compradores. Essas ferramentas abrangem aspectos como escopo, prazos, critérios de aceitação, riscos, andamento das atividades e desempenho econômico-financeiro, permitindo ao gestor acompanhar a execução contratual e agir preventivamente diante de possíveis interrupções ou desvios. Considerando essas práticas, assinale a opção que apresenta corretamente a ferramenta utilizada para registrar e comunicar o andamento das atividades previstas no contrato ao longo do tempo.",
       "alternatives": {
         "A": "Avaliação econômica do contrato.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d53bd09f5f493e89"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d53bd09f5f493e89",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "O Gerenciamento do Ciclo de Vida do Contrato (GCVC) constitui uma abordagem sistêmica que integra todas as etapas do processo de compras e suprimentos, desde a identificação das necessidades até o encerramento e registro histórico. Essa gestão visa garantir maior eficiência, controle e transparência por meio de práticas estruturadas e ferramentas adequadas ao monitoramento e à execução contratual. Considerando as etapas que compõem o GCVC, assinale a opção que apresenta corretamente uma de suas fases.",
       "alternatives": {
         "A": "Acompanhamento do contrato e negociação de aditivos durante sua execução.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3e36182ab39ef5b5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3e36182ab39ef5b5",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "As alianças estratégicas permitem que organizações combinem recursos e competências para obter vantagens competitivas, concentrando-se em seu core business e estabelecendo parcerias apenas com atores considerados estratégicos. Considerando essas características, assinale a opção que apresenta um exemplo típico de parceria estratégica voltada ao fortalecimento do negócio principal das organizações.",
       "alternatives": {
         "A": "Contratação pontual de serviços padronizados sem compartilhamento de objetivos entre as partes.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "424a2b55eac4e4b3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "424a2b55eac4e4b3",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "O estabelecimento de parcerias pressupõe uma grande dose de envolvimento de ambas as partes, tornando impossível e economicamente inviável efetivá‐la com todos os fornecedores e clientes. Considerando esses aspectos, assinale a opção que corresponde a um pré-requisito essencial para o estabelecimento de uma parceria estratégica eficaz.",
       "alternatives": {
         "A": "Realização de compras esporádicas sem alinhamento operacional.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bcec27b6f0989447"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bcec27b6f0989447",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "No financiamento de projetos, a forma como os fluxos de caixa são organizados influencia diretamente a alocação de riscos e a transparência para os credores. Enquanto o financiamento direto utiliza a estrutura tradicional da empresa, o project finance cria uma entidade específica, vinculada exclusivamente ao projeto. Considerando as características financeiras e de risco dessas modalidades, assinale a opção que apresenta corretamente uma vantagem típica do project finance em relação ao financiamento direto.",
       "alternatives": {
         "A": "Simplificação dos trâmites legais, já que a estrutura contratual exige menor personalização.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9151107fdea97f65"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9151107fdea97f65",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "O valor presente líquido (VPL) é um dos métodos mais utilizados para avaliar a viabilidade econômica de projetos de investimento. A interpretação do VPL permite decidir se um projeto cria ou destrói valor econômico, orientando decisões de investimento com base na comparação entre entradas futuras de caixa e o desembolso inicial. Considerando essas regras de decisão aplicadas ao método do VPL, assinale a opção correta.",
       "alternatives": {
         "A": "O cálculo do VPL dispensa o uso de taxa de desconto quando os fluxos de caixa permanecem constantes ao longo do horizonte de análise.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2ea74ac3b01db9da"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2ea74ac3b01db9da",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A taxa interna de retorno (TIR) é um indicador amplamente utilizado na análise de investimentos, definida como a taxa de desconto que torna o valor presente líquido de um projeto igual a zero. A decisão de aceitar ou rejeitar um projeto depende da comparação entre a TIR e o custo de capital adotado na avaliação, permitindo identificar se o retorno esperado compensa o investimento realizado. Considerando essa regra de decisão, assinale a opção que apresenta corretamente a condição em que um projeto deve ser aceito.",
       "alternatives": {
         "A": "Quando a TIR supera o custo de capital utilizado na análise.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f33bf82530af00a2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f33bf82530af00a2",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A análise de sensibilidade é utilizada para avaliar como mudanças controladas em variáveis relevantes afetam indicadores econômicos de um projeto, tais como o valor presente líquido, a taxa interna de retorno ou a relação benefício-custo. Considerando essas características, assinale a opção que descreve corretamente uma situação típica de aplicação da análise de sensibilidade.",
       "alternatives": {
         "A": "Comparar dois projetos distintos utilizando seus valores presentes líquidos sem considerar variações das premissas.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "399978d30028c024"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "399978d30028c024",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "O documento do escopo do projeto estabelece entendimento comum entre a equipe, o patrocinador e demais partes interessadas, detalhando requisitos do cliente, principais tarefas a serem executadas, entregas previstas e critérios de aceitação. Esse documento orienta todo o trabalho do projeto e define claramente o que está ou não incluído no escopo. Considerando a estrutura típica do documento de escopo, assinale a opção que corresponde ao elemento destinado a descrever, de forma detalhada, os produtos ou saídas que serão fornecidos ao cliente ao longo do projeto.",
       "alternatives": {
         "A": "As exigências do cliente.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "38ad0d1417d1f1f5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "38ad0d1417d1f1f5",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A identificação e o gerenciamento de stakeholders são etapas essenciais no início de qualquer projeto, permitindo mapear indivíduos e grupos que podem influenciar ou ser afetados pelos resultados. Para orientar esse processo, o gerente de projetos utiliza ferramentas que consolidam informações sobre interesses, expectativas, potenciais impactos e formas de comunicação com cada interessado. Considerando as práticas recomendadas para o gerenciamento de stakeholders, assinale a opção que corresponde ao documento destinado a registrar informações relevantes sobre cada parte interessada identificada ao longo do projeto.",
       "alternatives": {
         "A": "Estrutura analítica do projeto.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "866f74d73096f166"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "866f74d73096f166",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A gestão de riscos em projetos envolve identificar eventos que possam comprometer o alcance dos objetivos, avaliando sua probabilidade e impacto, e definindo respostas adequadas para minimizá-los. Entre as abordagens recomendadas está a classificação dos riscos em categorias, o que facilita a análise sistemática das fontes potenciais de incerteza. Considerando as categorias de riscos apresentadas na literatura de gestão de projetos, assinale a alternativa que exemplifica corretamente um risco de natureza externa.",
       "alternatives": {
         "A": "Dificuldade de cumprir requisitos técnicos definidos pelo cliente.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ae1c8a36b1e46989"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ae1c8a36b1e46989",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "O planejamento estratégico integra um modelo de gestão orientado a resultados e depende da coerência entre propósito, missão, visão e valores para produzir diretrizes consistentes. Como esses elementos expressam a identidade organizacional e se relacionam diretamente com a cultura — que pode facilitar ou dificultar mudanças — sua integração adequada é essencial para orientar escolhas e alinhar comportamentos ao longo do processo estratégico. Considerando esses fundamentos, assinale a opção que apresenta corretamente o papel dos valores organizacionais no planejamento estratégico.",
       "alternatives": {
         "A": "Definem metas quantitativas de curto prazo a serem incorporadas no plano tático.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1409f9857ce29513"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1409f9857ce29513",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "A matriz BCG classifica produtos ou unidades de negócio de acordo com a taxa de crescimento do mercado e a participação relativa no mercado, permitindo analisar o estágio do ciclo de vida e orientar decisões sobre manutenção, investimento ou descontinuidade. Considerando as características dos quadrantes desse modelo, assinale a opção que corresponde ao produto classificado como vaca leiteira.",
       "alternatives": {
         "A": "Produto consolidado com baixa perspectiva de crescimento e alto fluxo de receita.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "09b6e50b3c286a5a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "09b6e50b3c286a5a",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "As alianças estratégicas permitem que organizações combinem recursos e capacidades para alcançar objetivos comuns, reduzindo riscos e acelerando a expansão em mercados novos ou complexos. Entre as modalidades existentes, destacam-se as joint ventures, que envolvem a criação de uma nova entidade com propriedade, riscos, retornos e governança compartilhados entre os parceiros. Considerando as características e finalidades das alianças estratégicas, assinale a opção que apresenta uma situação típica em que a formação de uma joint venture é especialmente recomendada.",
       "alternatives": {
         "A": "Quando o objetivo é promover uma cooperação pontual baseada unicamente em contratos de curto prazo.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1467dac38f6733cd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1467dac38f6733cd",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Uma empresa de equipamentos industriais está redesenhando sua estratégia comercial para ampliar sua participação em diferentes segmentos de mercado. No diagnóstico inicial, a diretoria constatou que a base de clientes do setor organizacional apresenta comportamentos distintos conforme o tipo de comprador. Em especial, observou que determinados clientes atribuem importância elevada ao produto adquirido, pesquisam amplamente fornecedores alternativos e mudam de prestador de serviços diante de pequenas variações de preço ou condições contratuais. Já outros clientes valorizam mais a estabilidade do relacionamento e realizam compras de maneira programada, com menor propensão à mudança. Considerando os fundamentos da segmentação de mercado no contexto B2B, assinale a opção que descreve corretamente o tipo de comprador cuja decisão é fortemente orientada por comparações competitivas e propensão à troca de fornecedor.",
       "alternatives": {
         "A": "Comprador programado.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ce18aac755b7c10b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ce18aac755b7c10b",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "As organizações utilizam diferentes técnicas interpessoais para administrar conflitos em processos de negociação. Algumas delas envolvem intervenções estruturadas para alterar percepções, incentivar cooperação e facilitar acordos entre indivíduos ou grupos, especialmente quando a tensão compromete o desempenho coletivo. Considerando as estratégias de negociação, assinale a opção que identifica a técnica que consiste em envolver uma pessoa externa à situação para facilitar a resolução de conflitos significativos, empregando métodos de avaliação ou negociação para restabelecer a cooperação entre as partes.",
       "alternatives": {
         "A": "Formação de equipes.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f92bc0bb0a0d3b53"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f92bc0bb0a0d3b53",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Durante uma excursão corporativa realizada no Monte Roraima, um grupo de profissionais participou de atividades de formação de equipes baseadas em desafios ao ar livre, com o objetivo de fortalecer vínculos, desenvolver confiança e melhorar a cooperação no ambiente de trabalho. Algumas semanas após o retorno, dois membros da equipe entraram em conflito sobre a condução de um projeto. Apesar das atividades vivenciais anteriores, o impasse não foi solucionado por intervenções comportamentais ou dinâmicas de grupo. Em vez disso, a organização aplicou integralmente o procedimento já previsto no contrato coletivo de trabalho, que estabelece etapas formais para registro de queixas, resposta gerencial e condução estruturada de disputas até sua resolução. Considerando as técnicas de gestão de conflitos utilizadas pelas organizações, assinale a opção que apresenta a abordagem que melhor descreve a forma pela qual o conflito foi administrado nesse caso.",
       "alternatives": {
         "A": "A utilização de atividades externas para reforçar vínculos e prevenir tensões futuras por meio de formação de equipes.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0f2aed8947fd5d2c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0f2aed8947fd5d2c",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Durante uma negociação entre duas áreas internas de uma empresa, um gerente interpretou como ofensiva uma observação feita pelo representante da outra área. A tensão aumentou rapidamente, mesmo sem evidências de que a fala tivesse sido intencionalmente agressiva. Após alguns minutos, a coordenadora responsável pela mediação da reunião sugeriu que ambos explicitassem, em suas próprias palavras, o que haviam entendido da conversa, e orientou o gerente a expressar seu desconforto descrevendo como se sentiu, sem atribuir intenção negativa ao interlocutor. Considerando os princípios de comunicação aplicados à negociação, assinale a opção que apresenta a estratégia que melhor se alinha às recomendações para lidar com ruídos, mal- entendidos e interpretações equivocadas.",
       "alternatives": {
         "A": "Atribuir ao emissor a responsabilidade integral pelo mal- entendido, enfatizando a necessidade de maior clareza e cuidado na formulação das mensagens.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4beefc26e65e4cea"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4beefc26e65e4cea",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Durante a evolução do direito empresarial brasileiro, um tipo societário ganhou destaque por oferecer estrutura simples, flexível e adequada tanto a pequenos empreendimentos quanto a organizações de maior porte que buscam reduzir formalidades excessivas. Nesse modelo, o capital social é dividido em quotas, e a responsabilidade dos sócios é restrita à quantia integralizada, o que o torna especialmente atraente para empresários que desejam limitar riscos patrimoniais. Considerando essas características, assinale a opção que apresenta corretamente a modalidade societária descrita.",
       "alternatives": {
         "A": "Sociedade simples.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "60611a13fe5f4e1e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "60611a13fe5f4e1e",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Administração Geral e Pública",
       "statement": "Nas discussões contemporâneas sobre governança corporativa, a Teoria da Agência é utilizada para explicar tensões que decorrem da separação entre propriedade e gestão. Embora formulada originalmente para sociedades de capital aberto, essa teoria tem sido reinterpretada no contexto brasileiro. Nesse cenário, determinadas práticas podem favorecer determinados grupos em detrimento de outros, exigindo mecanismos de governança que promovam transparência, equidade e prestação de contas. Considerando essas características, assinale a opção que apresenta corretamente a configuração típica do conflito de agência no ambiente empresarial brasileiro.",
       "alternatives": {
         "A": "Conflito entre sócios controladores e sócios minoritários, decorrente da possibilidade de uso de recursos corporativos em benefício particular dos controladores.",
         "B": "Tensões entre conselhos de administração e auditorias externas, motivadas por divergências na definição de padrões de divulgação contábil.",
         "C": "Desalinhamento entre executivos profissionais e acionistas dispersos, típico de mercados em que o controle é amplamente pulverizado.",
         "D": "Choques entre gestores operacionais e fornecedores estratégicos, originados de incentivos divergentes quanto à alocação de custos e prazos contratuais.",
-        "E": "Divergências entre assembleias gerais e órgãos reguladores, associadas à adoção de padrões internacionais de reporte financeiro. Redação"
+        "E": "Divergências entre assembleias gerais e órgãos reguladores, associadas à adoção de padrões internacionais de reporte financeiro."
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5d2da08cef28f616"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5d2da08cef28f616",
+      "base_text": null
     }
   ],
   "year": 2024,

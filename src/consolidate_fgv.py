@@ -460,6 +460,141 @@ def normalize_discipline_and_module(
     return (canonical, _infer_module(canonical), True)
 
 
+def specialize_generic_discipline(
+    canonical_disc: str,
+    cargo_title: str,
+    statement: str,
+) -> Tuple[str, str]:
+    """
+    Quando a disciplina capturada do cabeçalho do caderno é genérica
+    ('Conhecimentos Específicos' ou 'Conhecimentos Básicos / Gerais'),
+    especializa a disciplina combinando o `cargo_title` higienizado e o `statement`.
+    """
+    if canonical_disc not in {"Conhecimentos Específicos", "Conhecimentos Básicos / Gerais"}:
+        return (canonical_disc, _infer_module(canonical_disc))
+
+    nc = _norm(cargo_title)
+    ns = _norm(statement)
+
+    # 1. Para Conhecimentos Específicos, primeiro verifica a especialidade explícita do cargo
+    if canonical_disc == "Conhecimentos Específicos":
+        if any(k in nc for k in ("medico", "medicina", "psiquiatra", "pediatra", "cardiologista", "ginecologista", "obstetra", "cirurgiao", "anestesiologista", "ortopedista", "neurologista", "oftalmologista", "dermatologista", "endocrinologista", "geriatra", "hematologista", "infectologista", "nefrologista", "oncologista", "otorrinolaringologista", "pneumologista", "proctologista", "radiologista", "reumatologista", "urologista", "legista")):
+            return ("Medicina", "Conhecimentos Específicos")
+        if any(k in nc for k in ("enfermeiro", "enfermagem")):
+            return ("Enfermagem", "Conhecimentos Específicos")
+        if any(k in nc for k in ("odontologo", "odontologia", "cirurgiao dentista", "dentista", "auxiliar de odontologia")):
+            return ("Odontologia", "Conhecimentos Específicos")
+        if any(k in nc for k in ("farmaceutico", "farmacia", "bioquimico")):
+            return ("Farmácia", "Conhecimentos Específicos")
+        if any(k in nc for k in ("psicologo", "psicologia")):
+            return ("Psicologia", "Conhecimentos Específicos")
+        if any(k in nc for k in ("assistente social", "servico social", "assistencia social")):
+            return ("Serviço Social", "Conhecimentos Específicos")
+        if any(k in nc for k in ("nutricionista", "nutricao", "fisioterapeuta", "fisioterapia", "fonoaudiologo", "fonoaudiologia", "terapeuta ocupacional", "terapia ocupacional", "veterinario", "medicina veterinaria", "biomedico", "biomedicina", "educacao fisica")):
+            return ("Ciências da Saúde", "Conhecimentos Específicos")
+        if any(k in nc for k in ("contador", "contabilidade", "ciencias contabeis", "contabil")):
+            return ("Contabilidade Geral", "Conhecimentos Específicos")
+        if any(k in nc for k in ("economista", "economia", "ciencias economicas")):
+            return ("Economia e Finanças", "Conhecimentos Específicos")
+        if any(k in nc for k in ("estatistico", "estatistica")):
+            return ("Estatística", "Conhecimentos Específicos")
+        if any(k in nc for k in ("tecnologia da informacao", "analista de sistemas", "analise de sistemas", "ciencia da computacao", "engenharia de software", "engenheiro de software", "informatica", "desenvolvimento de sistemas", "infraestrutura de ti", "seguranca da informacao", "banco de dados", "redes", "programador", "processamento de dados")):
+            return ("Tecnologia da Informação", "Conhecimentos Específicos")
+        if any(k in nc for k in ("engenheiro", "engenharia", "arquiteto", "arquitetura", "projetista", "edificacoes", "estradas", "geoprocessamento", "agrimensura", "cartografia", "geologia", "geologo", "eletricista", "eletronica", "mecanica", "mecatronica", "telecomunicacoes", "saneamento")):
+            return ("Engenharia e Arquitetura", "Conhecimentos Específicos")
+        if any(k in nc for k in ("bibliotecario", "biblioteconomia", "biblioteconomista", "arquivista", "arquivologia")):
+            return ("Biblioteconomia e Arquivologia", "Conhecimentos Específicos")
+        if any(k in nc for k in ("comunicacao social", "jornalista", "jornalismo", "publicidade", "relacoes publicas", "audiovisual", "cinegrafista", "radialista", "revisor", "redator")):
+            return ("Comunicação Social e Jornalismo", "Conhecimentos Específicos")
+        if any(k in nc for k in ("professor", "pedagogo", "pedagogia", "educacao", "orientador educacional", "supervisor escolar", "diretores")):
+            if "matematica" in nc:
+                return ("Matemática", "Conhecimentos Específicos")
+            if "historia" in nc:
+                return ("História", "Conhecimentos Específicos")
+            if "geografia" in nc:
+                return ("Geografia", "Conhecimentos Específicos")
+            if "fisica" in nc and "educacao fisica" not in nc:
+                return ("Física", "Conhecimentos Específicos")
+            if "quimica" in nc:
+                return ("Química", "Conhecimentos Específicos")
+            if "biologia" in nc or "ciencias" in nc:
+                return ("Biologia e Ciências", "Conhecimentos Específicos")
+            if "ingles" in nc:
+                return ("Língua Inglesa", "Conhecimentos Específicos")
+            if "espanhol" in nc:
+                return ("Língua Espanhola", "Conhecimentos Específicos")
+            if "portugues" in nc or "letras" in nc:
+                return ("Língua Portuguesa", "Conhecimentos Específicos")
+            return ("Pedagogia e Legislação Educacional", "Conhecimentos Específicos")
+        if any(k in nc for k in ("biologo", "biologia")):
+            return ("Biologia e Ciências", "Conhecimentos Específicos")
+        if any(k in nc for k in ("quimico", "quimica")):
+            return ("Química", "Conhecimentos Específicos")
+        if any(k in nc for k in ("fisico", "fisica")):
+            return ("Física", "Conhecimentos Específicos")
+        if any(k in nc for k in ("historiador", "historia")):
+            return ("História", "Conhecimentos Específicos")
+        if any(k in nc for k in ("geografo", "geografia")):
+            return ("Geografia", "Conhecimentos Específicos")
+
+    # 2. Inferência de alta precisão por palavras-chave exclusivas do enunciado (statement)
+    if any(k in ns for k in ("constituicao federal", "direitos e garantias fundamentais", "controle de constitucionalidade", "poder constituinte", "acao direta de inconstitucionalidade", "argicao de descumprimento", "mandado de seguranca", "habeas corpus", "repercussao geral")):
+        return ("Direito Constitucional", "Conhecimentos Específicos")
+    if any(k in ns for k in ("ato administrativo", "atos administrativos", "licitacao", "lei n 14 133", "lei 14 133", "lei n 8 666", "improbidade administrativa", "poder de policia", "desapropriacao", "concessao de servico publico", "servidor publico", "processo administrativo disciplinar", "autarquia", "sociedade de economia mista")):
+        return ("Direito Administrativo", "Conhecimentos Específicos")
+    if any(k in ns for k in ("codigo tributario nacional", "fato gerador", "credito tributario", "lancamento tributario", "imunidade tributaria", "icms", "issqn", "iptu", "ipva", "obrigacao tributaria", "execucao fiscal")):
+        return ("Direito Tributário", "Conhecimentos Específicos")
+    if any(k in ns for k in ("orcamento publico", "lei de responsabilidade fiscal", "plano plurianual", "diretrizes orcamentarias", "lei orcamentaria anual", "restos a pagar", "creditos adicionais", "despesa publica", "receita publica", "estagios da despesa")):
+        return ("Administração Financeira e Orçamentária (AFO)", "Conhecimentos Específicos")
+    if any(k in ns for k in ("codigo penal", "tipicidade", "ilicitude", "culpabilidade", "legitima defesa", "estado de necessidade", "concurso de pessoas", "peculato", "corrupcao passiva", "concussao", "prevaricacao", "estelionato", "homicidio", "furto", "roubo")):
+        return ("Direito Penal e Criminologia", "Conhecimentos Específicos")
+    if any(k in ns for k in ("inquerito policial", "acao penal", "prisao preventiva", "prisao em flagrante", "prisao temporaria", "tribunal do juri", "codigo de processo penal", "juiz das garantias", "interceptacao telefonica")):
+        return ("Direito Processual Penal", "Conhecimentos Específicos")
+    if any(k in ns for k in ("codigo de processo civil", "tutela provisoria", "tutela de urgencia", "litisconsorcio", "intervencao de terceiros", "coisa julgada", "cumprimento de sentenca", "agravo de instrumento", "apelacao", "embargos de declaracao")):
+        return ("Direito Processual Civil", "Conhecimentos Específicos")
+    if any(k in ns for k in ("codigo civil", "negocio juridico", "prescricao e decadencia", "responsabilidade civil", "direitos reais", "usucapiao", "sucessao legitima", "testamento", "regime de bens", "inadimplemento das obrigacoes")):
+        return ("Direito Civil", "Conhecimentos Específicos")
+    if any(k in ns for k in ("consolidacao das leis do trabalho", "clt", "contrato individual de trabalho", "rescisao do contrato de trabalho", "fgts", "aviso previo", "justa causa", "reclamacao trabalhista")):
+        return ("Direito e Processo do Trabalho", "Conhecimentos Específicos")
+    if any(k in ns for k in ("sociedade anonima", "sociedade limitada", "recuperacao judicial", "falencia", "titulos de credito", "nota promissoria", "duplicata")):
+        return ("Direito Empresarial", "Conhecimentos Específicos")
+    if any(k in ns for k in ("estatuto da crianca e do adolescente", "conselho tutelar", "medida socioeducativa", "ato infracional")):
+        return ("Direito da Criança e do Adolescente", "Conhecimentos Específicos")
+    if any(k in ns for k in ("codigo de defesa do consumidor", "fornecedor", "relacao de consumo", "vicio do produto", "fato do produto")):
+        return ("Direito do Consumidor", "Conhecimentos Específicos")
+    if any(k in ns for k in ("sistema unico de saude", "lei n 8 080", "lei 8 080", "lei n 8 142", "atencao primaria a saude", "vigilancia epidemiologica", "vigilancia sanitaria", "estrategia saude da familia")):
+        return ("Legislação do SUS e Saúde Pública", "Conhecimentos Específicos")
+    if any(k in ns for k in ("balanco patrimonial", "demonstracao do resultado", "ativo circulante", "passivo circulante", "patrimonio liquido", "depreciacao", "amortizacao", "lancamento contabil", "cpc ")):
+        return ("Contabilidade Geral", "Conhecimentos Específicos")
+    if any(k in ns for k in ("windows", "linux", "microsoft word", "microsoft excel", "powerpoint", "libreoffice", "calc", "writer", "navegador", "phishing", "malware", "ransomware", "atalho de teclado")):
+        return ("Informática", "Conhecimentos Básicos")
+    if any(k in ns for k in ("sql", "select ", "banco de dados relacional", "chave primaria", "algoritmo", "orientacao a objetos", "java", "python", "javascript", "html", "css", "tcp/ip", "ipv4", "ipv6", "firewall", "kubernetes", "docker", "scrum", "itil", "cobit")):
+        return ("Tecnologia da Informação", "Conhecimentos Específicos")
+    if any(k in ns for k in ("probabilidade", "combinatoria", "permutacao", "arranjo", "progressao aritmetica", "progressao geometrica", "proposicao logica", "tabela-verdade", "equivalencia logica", "negacao da proposicao")):
+        return ("Raciocínio Lógico-Matemático", "Conhecimentos Básicos")
+    if any(k in ns for k in ("juros compostos", "juros simples", "taxa interna de retorno", "valor presente liquido", "sistema price", "sistema sac", "desconto racional", "desconto comercial")):
+        return ("Matemática Financeira", "Conhecimentos Específicos")
+    if any(k in ns for k in ("base nacional comum curricular", "bncc", "lei de diretrizes e bases da educacao", "ldb", "projeto politico-pedagogico", "avaliacao formativa", "piaget", "vygotsky", "paulo freire")):
+        return ("Pedagogia e Legislação Educacional", "Conhecimentos Específicos")
+    if any(k in ns for k in ("planejamento estrategico", "matriz swot", "balanced scorecard", "gestao por processos", "gestao de projetos", "pmbok", "cultura organizacional", "lideranca", "motivacao", "maslow", "herzberg")):
+        return ("Administração Geral e Pública", "Conhecimentos Específicos")
+    if any(k in ns for k in ("auditoria interna", "auditoria externa", "risco de auditoria", "evidencia de auditoria", "controle interno", "coso", "tribunal de contas")):
+        return ("Auditoria e Controle", "Conhecimentos Específicos")
+
+    # 3. Se o cargo ainda indicar área jurídica/administrativa ampla
+    if canonical_disc == "Conhecimentos Específicos":
+        if any(k in nc for k in ("juiz", "promotor", "defensor", "procurador", "advogado", "analista judiciario", "oficial de justica", "delegado", "escrivao")):
+            return ("Noções de Direito", "Conhecimentos Específicos")
+        if any(k in nc for k in ("auditor fiscal", "agente tributario", "fiscal de tributos", "receita")):
+            return ("Direito Tributário", "Conhecimentos Específicos")
+        if any(k in nc for k in ("auditor de controle", "analista de controle", "controlador")):
+            return ("Auditoria e Controle", "Conhecimentos Específicos")
+        if any(k in nc for k in ("administrador", "administracao", "gestao publica", "assistente administrativo", "tecnico administrativo", "agente administrativo", "analista administrativo")):
+            return ("Administração Geral e Pública", "Conhecimentos Específicos")
+
+    return (canonical_disc, _infer_module(canonical_disc))
+
+
 def _infer_module(canonical_discipline: str) -> str:
     basic_set = {
         "Língua Portuguesa",
@@ -488,14 +623,20 @@ def _infer_module(canonical_discipline: str) -> str:
 
 SWALLOWED_Q_SPLIT_RE = re.compile(
     r"^(.*?)\s+"
-    r"(?:FGV\s*[‐\-–]\s*Projetos\s+|o\s+da\s+Bahia\s*[–\-].*?FGV\s*[‐\-–]\s*Projetos\s+)?"
-    r"(?:(?:Q?uest[aã]o\s+)?(?:[A-Z]{0,2}(\d{1,3})\s*(?:\([A-Z0-9_\-]+\))?|(?:NMCB|NSCE|NMCE|NS)[A-Z0-9_\-]+))"
+    r"(?:FGV\s*[‐\-–]?\s*(?:Projetos\s+)?|o\s+da\s+Bahia\s*[–\-].*?FGV\s*[‐\-–]\s*Projetos\s+)?"
+    r"(?:(?:Q?uest[aã]o\s+)?(?:[A-Z]{0,2}(\d{1,3})\s*(?:\([A-Z0-9_\-]+\))?|(?:NMCB|NSCE|NMCE|NS|P\d+CE)[A-Z0-9_\-]+))"
     r"\s+([A-ZÀ-Ý“\"«].*)$",
     re.DOTALL,
 )
 
+# Caso em que o número da questão engolida não apareceu entre o ponto final da alternativa E e o enunciado da próxima
+SWALLOWED_NO_NUM_SPLIT_RE = re.compile(
+    r"^([^\n]{5,240}?[\.\!\?;])\s+([A-ZÀ-Ý“\"«].{35,}?\(A\).*?\(B\).*?\(C\).*?\(D\).*)$",
+    re.DOTALL,
+)
+
 DISCURSIVE_TAIL_RE = re.compile(
-    r"^(.*?)\s+(?:FGV\s+)?(?:Prova\s+Discursiva|Quest[aã]o\s+Discursiva|Discursiva\s+1)\b.*$",
+    r"^(.*?)(?:\s+|\n)(?:(?:FGV|FUNDA[CÇ][AÃ]O\s+GETULIO\s+VARGAS)\s+)?(?:Prova\s+Discursiva|Quest[aã]o\s+Discursiva|Quest[oõ]es\s+Discursivas|Discursiva\s+1|RASCUNHO\b|M[OÓ]DULO\s+[I123V]+\b|CONHECIMENTOS\s+(?:B[AÁ]SICOS|ESPEC[IÍ]FICOS|GERAIS)\s*$).*$",
     re.IGNORECASE | re.DOTALL,
 )
 
@@ -506,7 +647,7 @@ def unmerge_swallowed_questions(
 ) -> Tuple[List[Dict], int]:
     """
     Inspeciona a última alternativa (E ou D) de cada questão.
-    1. Remove caudas de 'Prova Discursiva' no fim do caderno.
+    1. Remove caudas de 'Prova Discursiva', 'Rascunho' ou 'Módulo II' no fim da alternativa.
     2. Se houver uma questão objetiva engolida (com (A), (B), (C), (D)) cujo número esteja
        faltando na lista de questões da prova, separa-a em uma nova questão válida!
     """
@@ -521,25 +662,33 @@ def unmerge_swallowed_questions(
             continue
         last_val = alts[last_key] or ""
 
-        # 1. Remove cauda de Prova Discursiva se houver
+        # 1. Remove cauda de Prova Discursiva / Rascunho / Módulo se houver
         m_disc = DISCURSIVE_TAIL_RE.match(last_val)
-        if m_disc and len(m_disc.group(1).strip()) >= 2:
+        if m_disc and len(m_disc.group(1).strip()) >= 1:
             alts[last_key] = m_disc.group(1).strip()
             last_val = alts[last_key]
+            unmerged_count += 1
 
         # 2. Verifica se contém (A), (B), (C), (D) engolidos
         if not all(f"({let})" in last_val for let in ("A", "B", "C", "D")):
             continue
 
         m_sw = SWALLOWED_Q_SPLIT_RE.match(last_val)
-        if not m_sw:
-            continue
+        clean_prev_alt = ""
+        sw_num_str: Optional[str] = None
+        sw_body = ""
 
-        clean_prev_alt = m_sw.group(1).strip()
-        sw_num_str = m_sw.group(2)
-        sw_body = m_sw.group(3).strip()
+        if m_sw:
+            clean_prev_alt = m_sw.group(1).strip()
+            sw_num_str = m_sw.group(2)
+            sw_body = m_sw.group(3).strip()
+        else:
+            m_no_num = SWALLOWED_NO_NUM_SPLIT_RE.match(last_val)
+            if m_no_num:
+                clean_prev_alt = m_no_num.group(1).strip()
+                sw_body = m_no_num.group(2).strip()
 
-        if len(clean_prev_alt) < 2:
+        if len(clean_prev_alt) < 2 or not sw_body:
             continue
 
         # Determina o número da questão engolida
@@ -743,6 +892,78 @@ def compute_question_hash(statement: str, alternatives: Dict[str, Optional[str]]
     return digest[:16]
 
 
+TEXT_REF_RE = re.compile(
+    r"\b(?:no texto|nesse texto|neste texto|segundo o texto|de acordo com o texto|o texto (?:acima|apresentado|aborda|trata|mostra|defende|informa|afirma)|"
+    r"texto\s+(?:I|II|III|IV|1|2|3|4)|primeiro par[aá]grafo|segundo par[aá]grafo|terceiro par[aá]grafo|[uú]ltimo par[aá]grafo|"
+    r"na cr[oô]nica|no poema|no fragmento|no trecho|in the text|according to the text|the text|en el texto|seg[uú]n el texto)\b",
+    re.IGNORECASE,
+)
+
+QUESTION_COMMAND_SPLIT_RE = re.compile(
+    r"^(.*?[\.\!\?”\"»\)])\s+("
+    r"(?:Assinale|Indique|Marque|Identifique|Aponte|Julgue|Considere|Analise|Avalie|Sobre\s+o\s+texto|De\s+acordo\s+com\s+o\s+texto|Segundo\s+o\s+texto|"
+    r"No\s+(?:primeiro|segundo|terceiro|[uú]ltimo)\s+par[aá]grafo|No\s+texto|Nesse\s+texto|O\s+texto\s+acima|A\s+respeito\s+do\s+texto|"
+    r"In\s+the\s+text|According\s+to\s+the\s+text|The\s+(?:author|text|main\s+purpose))\b.*)$",
+    re.DOTALL,
+)
+
+
+def propagate_shared_base_texts(questions: List[Dict]) -> int:
+    """
+    Em disciplinas de interpretação textual (Língua Portuguesa, Língua Inglesa, Língua Espanhola, Redação Oficial),
+    quando a primeira questão de um bloco traz o texto-base longo junto ao seu enunciado (>320 caracteres) e as
+    questões seguintes referenciam 'o texto'/'Texto I'/'primeiro parágrafo' mas possuem enunciado curto (<280 caracteres),
+    propaga o texto-base para o campo `base_text` dessas questões dependentes para que possam ser exibidas isoladamente no App!
+    """
+    current_base_text: Optional[str] = None
+    current_disc: Optional[str] = None
+    last_q_num = 0
+    propagated = 0
+
+    lang_disciplines = {
+        "Língua Portuguesa",
+        "Língua Inglesa",
+        "Língua Espanhola",
+        "Língua Francesa",
+        "Redação Oficial",
+    }
+
+    for q in questions:
+        disc = q.get("discipline")
+        st = (q.get("statement") or "").strip()
+        q_num = q["question_number"]
+
+        if disc not in lang_disciplines or (last_q_num and q_num - last_q_num > 4):
+            current_base_text = None
+            current_disc = disc
+
+        if disc in lang_disciplines:
+            if len(st) >= 340:
+                m_split = QUESTION_COMMAND_SPLIT_RE.match(st)
+                if m_split and len(m_split.group(1).strip()) >= 180:
+                    current_base_text = m_split.group(1).strip()
+                else:
+                    current_base_text = st
+                current_disc = disc
+                q["base_text"] = None
+            elif (
+                current_base_text
+                and current_disc == disc
+                and len(st) < 280
+                and TEXT_REF_RE.search(st)
+            ):
+                q["base_text"] = current_base_text
+                propagated += 1
+            else:
+                q["base_text"] = q.get("base_text")
+        else:
+            q["base_text"] = None
+
+        last_q_num = q_num
+
+    return propagated
+
+
 def run_full_consolidation(
     raw_dir: Path = Path("data/raw"),
     proc_dir: Path = Path("data/processed"),
@@ -768,9 +989,9 @@ def run_full_consolidation(
             print(f"  [WARN] Erro ao atualizar dnit23: {exc}")
 
         # -------------------------------------------------------------------------
-        # PASSO 2: Reprocessar as provas que tinham sequence gaps ou swallowed alts
+        # PASSO 2: Reprocessar as provas que tinham sequence gaps, alts com (A)-(D) ou statements curtos
         # -------------------------------------------------------------------------
-        print("[2/5] Reprocessando provas com buracos de sequência usando o filtro corrigido...")
+        print("[2/5] Reprocessando provas afetadas por iniciais no meio de frase, alternativas visuais ou lacunas...")
         to_reparse: List[Path] = []
         for jpath in sorted(proc_dir.glob("*.json")):
             if jpath.name.startswith("_"):
@@ -782,14 +1003,20 @@ def run_full_consolidation(
                 continue
             start_exp = 1 if min(q_nums) < 10 else min(q_nums)
             has_gap = len(set(range(start_exp, max(q_nums) + 1)) - set(q_nums)) > 0
-            has_short = any(len(q["statement"].strip()) < 15 for q in qs)
+            has_short = any(len(q["statement"].strip()) < 25 for q in qs)
+            has_mid_initial = any(
+                f"({let})" in (q["alternatives"].get(k) or "")
+                for q in qs
+                for k in ("A", "B", "C")
+                for let in ("A", "B", "C", "D")
+            )
             has_sw = any(
                 q["alternatives"].get(k)
                 and all(f"({let})" in q["alternatives"][k] for let in ("A", "B", "C", "D"))
                 for q in qs
                 for k in ("D", "E")
             )
-            if has_gap or has_short or has_sw:
+            if has_gap or has_short or has_mid_initial or has_sw:
                 c_dir = raw_dir / d["concurso_slug"] / d["cargo_slug"]
                 if c_dir.exists():
                     to_reparse.append(c_dir)
@@ -802,13 +1029,19 @@ def run_full_consolidation(
 
     # -------------------------------------------------------------------------
     # PASSO 3, 4 e 5: Higienizar cargo_title, desmembrar questões engolidas,
-    # normalizar disciplinas/módulos e enriquecer com metadados e question_hash
+    # especializar disciplinas/módulos, propagar textos-base e gerar _index.json
     # -------------------------------------------------------------------------
-    print("[3/5 a 5/5] Higienizando títulos, desmembrando questões, normalizando disciplinas e enriquecendo JSONs...")
+    print("[3/5 a 5/5] Higienizando títulos, desmembrando questões, especializando disciplinas, propagando textos-base e gerando _index.json...")
     total_unmerged = 0
+    total_base_texts = 0
     total_questions_final = 0
     unique_hashes: Dict[str, List[str]] = {}
     disc_counter: Counter = Counter()
+    mod_counter: Counter = Counter()
+    uf_counter: Counter = Counter()
+    year_counter: Counter = Counter()
+    level_counter: Counter = Counter()
+    exams_catalog: List[Dict] = []
 
     for jpath in sorted(proc_dir.glob("*.json")):
         if jpath.name.startswith("_"):
@@ -822,7 +1055,7 @@ def run_full_consolidation(
         clean_ct = clean_cargo_title(stem, d.get("cargo_title", ""))
         d["cargo_title"] = clean_ct
 
-        # 3b. Desmembrar eventuais questões engolidas na última alternativa
+        # 3b. Desmembrar eventuais questões engolidas na última alternativa e limpar caudas
         gab_path = raw_dir / c_slug / g_slug / "gabarito.pdf"
         qs = d["questions"]
         has_full_swallowed_q = any(
@@ -833,11 +1066,7 @@ def run_full_consolidation(
         )
         has_disc_tail = any(
             q["alternatives"].get(k)
-            and (
-                "prova discursiva" in q["alternatives"][k].lower()
-                or "discursiva 1" in q["alternatives"][k].lower()
-                or "questão discursiva" in q["alternatives"][k].lower()
-            )
+            and DISCURSIVE_TAIL_RE.match(q["alternatives"][k])
             for q in qs
             for k in ("D", "E")
         )
@@ -854,8 +1083,9 @@ def run_full_consolidation(
             qs, unm = unmerge_swallowed_questions(qs, ans_map)
             total_unmerged += unm
 
-        # 4. Normalizar disciplinas e inferir módulo (Conhecimentos Básicos vs Específicos)
+        # 4. Normalizar e especializar disciplinas + inferir módulo
         prev_valid_disc: Optional[str] = None
+        exam_disciplines: Counter = Counter()
         for q in qs:
             canon_disc, mod, is_valid = normalize_discipline_and_module(
                 raw_disc=q.get("discipline"),
@@ -864,9 +1094,17 @@ def run_full_consolidation(
             )
             if is_valid:
                 prev_valid_disc = canon_disc
-            q["discipline"] = canon_disc
-            q["module"] = mod
-            disc_counter[canon_disc] += 1
+            # Especializa se ficou em 'Conhecimentos Específicos' ou 'Conhecimentos Básicos / Gerais'
+            spec_disc, spec_mod = specialize_generic_discipline(
+                canonical_disc=canon_disc,
+                cargo_title=clean_ct,
+                statement=q.get("statement", ""),
+            )
+            q["discipline"] = spec_disc
+            q["module"] = spec_mod
+            disc_counter[spec_disc] += 1
+            mod_counter[spec_mod] += 1
+            exam_disciplines[spec_disc] += 1
 
             # 5a. Hash único da questão para deduplicação no banco
             q_hash = compute_question_hash(q["statement"], q["alternatives"])
@@ -877,6 +1115,9 @@ def run_full_consolidation(
             if q["alternatives"].get("E") is None and q["alternatives"].get("A") is not None and q.get("answer") == "E":
                 q["answer"] = "ANULADA"
                 q["annulled"] = True
+
+        # 4b. Propagar texto-base compartilhado (base_text) nas questões de interpretação
+        total_base_texts += propagate_shared_base_texts(qs)
 
         # 5b. Metadados do exame (year, uf, level, question_type)
         meta_extra = infer_exam_metadata(c_slug, d.get("concurso_title", ""), clean_ct)
@@ -892,13 +1133,55 @@ def run_full_consolidation(
         d["questions"] = qs
         total_questions_final += len(qs)
 
+        year_counter[d["year"]] += 1
+        uf_counter[d["uf"]] += 1
+        level_counter[d["level"]] += 1
+
+        exams_catalog.append(
+            {
+                "exam_id": stem,
+                "file": jpath.name,
+                "concurso_slug": c_slug,
+                "concurso_title": d.get("concurso_title", ""),
+                "cargo_slug": g_slug,
+                "cargo_title": clean_ct,
+                "year": d["year"],
+                "uf": d["uf"],
+                "level": d["level"],
+                "question_type": q_type,
+                "total_questions": len(qs),
+                "disciplines": dict(exam_disciplines),
+            }
+        )
+
         jpath.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # 6. Salvar catálogo mestre data/processed/_index.json para o App
+    index_payload = {
+        "total_exams": len(exams_catalog),
+        "total_questions": total_questions_final,
+        "unique_questions": len(unique_hashes),
+        "shared_question_appearances": total_questions_final - len(unique_hashes),
+        "total_canonical_disciplines": len(disc_counter),
+        "modules_distribution": dict(mod_counter),
+        "levels_distribution": dict(level_counter),
+        "years_distribution": dict(sorted(year_counter.items())),
+        "ufs_distribution": dict(uf_counter.most_common()),
+        "disciplines_distribution": dict(disc_counter.most_common()),
+        "exams": exams_catalog,
+    }
+    (proc_dir / "_index.json").write_text(
+        json.dumps(index_payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
     print(f"Consolidação concluída!")
     print(f"  -> Questões desmembradas/limpas de alternativas finais: {total_unmerged}")
+    print(f"  -> Questões enriquecidas com texto-base compartilhado (base_text): {total_base_texts}")
     print(f"  -> Total final de questões validadas: {total_questions_final}")
     print(f"  -> Total de questões únicas deduplicadas (question_hash): {len(unique_hashes)}")
     print(f"  -> Total de disciplinas canônicas padronizadas: {len(disc_counter)}")
+    print(f"  -> Catálogo mestre gerado em: {proc_dir / '_index.json'}")
 
 
 if __name__ == "__main__":

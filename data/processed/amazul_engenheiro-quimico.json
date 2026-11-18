@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL",
   "cargo_title": "Engenheiro Químico",
   "exam_type": "Tipo 1",
-  "total_questions": 57,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Raciocínio Lógico-Matemático",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-quimico_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,7 +603,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
@@ -593,7 +623,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "799cd69a27f01b0d"
+      "question_hash": "799cd69a27f01b0d",
+      "base_text": null
     },
     {
       "question_number": 32,
@@ -612,7 +643,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ce840ff6840e453a"
+      "question_hash": "ce840ff6840e453a",
+      "base_text": null
     },
     {
       "question_number": 33,
@@ -631,7 +663,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "aa500adc08937192"
+      "question_hash": "aa500adc08937192",
+      "base_text": null
     },
     {
       "question_number": 34,
@@ -650,7 +683,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "e6d6e2c6c4a3288c"
+      "question_hash": "e6d6e2c6c4a3288c",
+      "base_text": null
     },
     {
       "question_number": 35,
@@ -669,7 +703,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "815bfba9aa441101"
+      "question_hash": "815bfba9aa441101",
+      "base_text": null
     },
     {
       "question_number": 36,
@@ -688,7 +723,28 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "0688b3418df4b14f"
+      "question_hash": "0688b3418df4b14f",
+      "base_text": null
+    },
+    {
+      "question_number": 37,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "Com base na Norma CNEM NN 3.0 (de março de 2014), no que tange a regulamentação da água potável, a estimativa da dose efetiva ingerida é realizada através de uma equação com os seguintes parâmetros: Ding- dose efetiva anual devido à ingestão de água (Sv . ano-1) TIágua - taxa de ingestão anual de água por indivíduo do público (L . ano-1) Cjágua - concentração de atividade de radionuclídeo j na água potável (Bq . L-1) FCDjing - fator de conversão de dose para ingestão de radionuclídeo j (Sv/Bq) A equação que relaciona de forma correta esses parâmetros de acordo com a norma é",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_engenheiro-quimico_q37.png",
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fe5c5280a1bd74f1",
+      "base_text": null
     },
     {
       "question_number": 38,
@@ -707,7 +763,28 @@
       "image_path": "data/processed/images/amazul_engenheiro-quimico_q38.png",
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "1dad480e7e9baf75"
+      "question_hash": "1dad480e7e9baf75",
+      "base_text": null
+    },
+    {
+      "question_number": 39,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "O colesterol é precursor bioquímico de alguns hormônios como a testosterona, a progesterona, o cortisol e o estradiol. Desses, o estradiol é o responsável pelo desenvolvimento sexual e preparo do útero para gravidez e é o único dos compostos mencionados que apresenta o grupamento fenólico. Sendo assim, a estrutura do estradiol está representada pela opção:",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_engenheiro-quimico_q39.png",
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9b503c3cee935a20",
+      "base_text": null
     },
     {
       "question_number": 40,
@@ -726,7 +803,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-quimico_q40.png",
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "48a463199772e2e5"
+      "question_hash": "48a463199772e2e5",
+      "base_text": null
     },
     {
       "question_number": 41,
@@ -745,7 +823,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "e7a7cdd0c607b77e"
+      "question_hash": "e7a7cdd0c607b77e",
+      "base_text": null
     },
     {
       "question_number": 42,
@@ -764,7 +843,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-quimico_q42.png",
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "59cfb375b0df1e09"
+      "question_hash": "59cfb375b0df1e09",
+      "base_text": null
     },
     {
       "question_number": 43,
@@ -783,7 +863,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "dd78c5671c3ac65f"
+      "question_hash": "dd78c5671c3ac65f",
+      "base_text": null
     },
     {
       "question_number": 44,
@@ -802,7 +883,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b185997e51b5e756"
+      "question_hash": "b185997e51b5e756",
+      "base_text": null
     },
     {
       "question_number": 45,
@@ -821,7 +903,28 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7579c54fe7934a90"
+      "question_hash": "7579c54fe7934a90",
+      "base_text": null
+    },
+    {
+      "question_number": 46,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "Com base nos coeficientes estequiométricos apresentados para cada uma das reações, I) 2 H3PO4 + 3 CaO → 1 _______ + 3 H2O II) 1 _______ + 2 NaOH → 1 Na2HBO3 + 2 H2O III) 1 SO2 + 1 Ca(OH)2 → 1 _______ + 1 H2O IV) 1 H2SO4 + 2 KOH → _______ + 2 H2O Complete as lacunas e assinale a opção que mostra as fórmulas corretas na ordem apresentada",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8f205673a7811db6",
+      "base_text": null
     },
     {
       "question_number": 47,
@@ -840,7 +943,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "aca34fca01f98069"
+      "question_hash": "aca34fca01f98069",
+      "base_text": null
     },
     {
       "question_number": 48,
@@ -859,7 +963,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "21bb1126e1a68f4e"
+      "question_hash": "21bb1126e1a68f4e",
+      "base_text": null
     },
     {
       "question_number": 49,
@@ -878,7 +983,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-quimico_q49.png",
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "41eb43d01e7ee12f"
+      "question_hash": "41eb43d01e7ee12f",
+      "base_text": null
     },
     {
       "question_number": 50,
@@ -897,7 +1003,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "fc85824507310744"
+      "question_hash": "fc85824507310744",
+      "base_text": null
     },
     {
       "question_number": 51,
@@ -916,14 +1023,15 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "5833b20428585824"
+      "question_hash": "5833b20428585824",
+      "base_text": null
     },
     {
       "question_number": 52,
       "discipline": "Engenharia e Arquitetura",
-      "statement": "Associe as descrições da coluna B aos processos correspondentes da coluna",
+      "statement": "Associe as descrições da coluna B aos processos correspondentes da coluna A. Assinale a opção que apresente a sequência correta.",
       "alternatives": {
-        "A": "Assinale a opção que apresente a sequência correta. (A) 5, 2, 1, 3, 4",
+        "A": "5, 2, 1, 3, 4",
         "B": "2, 3, 1, 5, 4",
         "C": "5, 3, 1, 2, 4",
         "D": "2, 1, 3, 4, 5",
@@ -935,7 +1043,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-quimico_q52.png",
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "dfabe3ddefa9ab4c"
+      "question_hash": "f84a9350504f2454",
+      "base_text": null
     },
     {
       "question_number": 53,
@@ -954,7 +1063,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c8098a2c6c6c1132"
+      "question_hash": "c8098a2c6c6c1132",
+      "base_text": null
     },
     {
       "question_number": 54,
@@ -973,7 +1083,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "eac661b9fadbe03c"
+      "question_hash": "eac661b9fadbe03c",
+      "base_text": null
     },
     {
       "question_number": 55,
@@ -992,7 +1103,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ff7f2f7581886a4f"
+      "question_hash": "ff7f2f7581886a4f",
+      "base_text": null
     },
     {
       "question_number": 56,
@@ -1011,7 +1123,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "65fa8593ac16add5"
+      "question_hash": "65fa8593ac16add5",
+      "base_text": null
     },
     {
       "question_number": 57,
@@ -1030,7 +1143,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "1c175c5390214d29"
+      "question_hash": "1c175c5390214d29",
+      "base_text": null
     },
     {
       "question_number": 58,
@@ -1049,7 +1163,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "e954c319d146298b"
+      "question_hash": "e954c319d146298b",
+      "base_text": null
     },
     {
       "question_number": 59,
@@ -1068,7 +1183,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2f8d2151d0e11c8e"
+      "question_hash": "2f8d2151d0e11c8e",
+      "base_text": null
     },
     {
       "question_number": 60,
@@ -1087,7 +1203,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6a8c99d490bc5a18"
+      "question_hash": "6a8c99d490bc5a18",
+      "base_text": null
     }
   ],
   "year": 2024,

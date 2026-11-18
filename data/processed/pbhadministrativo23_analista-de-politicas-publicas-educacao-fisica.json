@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "addc7b697d303bf0"
+      "question_hash": "addc7b697d303bf0",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ea8e2df21686f635"
+      "question_hash": "ea8e2df21686f635",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ff0b66ea70e77921"
+      "question_hash": "ff0b66ea70e77921",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "baad2ae684a1d508"
+      "question_hash": "baad2ae684a1d508",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "61660bc8446c38ac"
+      "question_hash": "61660bc8446c38ac",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "900401a73dfd7644"
+      "question_hash": "900401a73dfd7644",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "61e755d5dd9f1b00"
+      "question_hash": "61e755d5dd9f1b00",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f2ddef521ff37a7f"
+      "question_hash": "f2ddef521ff37a7f",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fae475a4aac705dd"
+      "question_hash": "fae475a4aac705dd",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "39f5e4cee523b427"
+      "question_hash": "39f5e4cee523b427",
+      "base_text": null
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2e91be81237eb5ba"
+      "question_hash": "2e91be81237eb5ba",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,7 +243,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "52e6b53cd028ad08"
+      "question_hash": "52e6b53cd028ad08",
+      "base_text": null
     },
     {
       "question_number": 13,
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c752bd9392c086ee"
+      "question_hash": "c752bd9392c086ee",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4f497302056420b3"
+      "question_hash": "4f497302056420b3",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,14 +303,15 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "bb3e740a75a3d8d4"
+      "question_hash": "bb3e740a75a3d8d4",
+      "base_text": null
     },
     {
       "question_number": 16,
       "discipline": "Língua Portuguesa",
-      "statement": "Em uma prateleira há três caixas A, B e C nessa ordem, todas contendo dinheiro, mas em moedas diferentes: uma contém apenas reais, outra contém apenas dólares e, a outra, apenas euros. Considere as afirmativas: • os reais estão na caixa A; • os dólares não estão na caixa B; • os euros estão na caixa C; • os reais não estão na caixa",
+      "statement": "Em uma prateleira há três caixas A, B e C nessa ordem, todas contendo dinheiro, mas em moedas diferentes: uma contém apenas reais, outra contém apenas dólares e, a outra, apenas euros. Considere as afirmativas: • os reais estão na caixa A; • os dólares não estão na caixa B; • os euros estão na caixa C; • os reais não estão na caixa A. Das quatro afirmativas acima, apenas uma é verdadeira. Assim, é correto concluir que",
       "alternatives": {
-        "A": "Das quatro afirmativas acima, apenas uma é verdadeira. Assim, é correto concluir que (A) os dólares estão na caixa A.",
+        "A": "os dólares estão na caixa A.",
         "B": "os euros estão na caixa B.",
         "C": "os reais estão na caixa C.",
         "D": "a caixa que contém reais é vizinha da que contém euros.",
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "bc27927ca954a977"
+      "question_hash": "c2ed0aa9c63ab457",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1f2bcc393ddd0e1d"
+      "question_hash": "1f2bcc393ddd0e1d",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ae04e3e6d12987b3"
+      "question_hash": "ae04e3e6d12987b3",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a802dc6b0ba4ff17"
+      "question_hash": "a802dc6b0ba4ff17",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": "data/processed/images/pbhadministrativo23_analista-de-politicas-publicas-educacao-fisica_q20.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "057a825b98d86cb4"
+      "question_hash": "057a825b98d86cb4",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4b545830001312fa"
+      "question_hash": "4b545830001312fa",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7a0be8a14d05958f"
+      "question_hash": "7a0be8a14d05958f",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "63aa008e76459b00"
+      "question_hash": "63aa008e76459b00",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c1f165517ce88b55"
+      "question_hash": "c1f165517ce88b55",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d35a5db143e1bc34"
+      "question_hash": "d35a5db143e1bc34",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "683d44ea9285cfa4"
+      "question_hash": "683d44ea9285cfa4",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "bd84fed21d32e8c3"
+      "question_hash": "bd84fed21d32e8c3",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d1316f1fb469cbd5"
+      "question_hash": "d1316f1fb469cbd5",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "a51df430df3b4a3d"
+      "question_hash": "a51df430df3b4a3d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,7 +603,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "281f66e3091250d1"
+      "question_hash": "281f66e3091250d1",
+      "base_text": null
     },
     {
       "question_number": 31,
@@ -593,7 +623,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b4e78cbcd6acbd56"
+      "question_hash": "b4e78cbcd6acbd56",
+      "base_text": null
     },
     {
       "question_number": 32,
@@ -612,7 +643,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ad2ef1403081100c"
+      "question_hash": "ad2ef1403081100c",
+      "base_text": null
     },
     {
       "question_number": 33,
@@ -631,7 +663,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b033e5e918efcfb7"
+      "question_hash": "b033e5e918efcfb7",
+      "base_text": null
     },
     {
       "question_number": 34,
@@ -650,7 +683,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d4781007acc6821e"
+      "question_hash": "d4781007acc6821e",
+      "base_text": null
     },
     {
       "question_number": 35,
@@ -669,7 +703,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "19e330e2b0a31256"
+      "question_hash": "19e330e2b0a31256",
+      "base_text": null
     },
     {
       "question_number": 36,
@@ -688,7 +723,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6f9ff951d6ceabe7"
+      "question_hash": "6f9ff951d6ceabe7",
+      "base_text": null
     },
     {
       "question_number": 37,
@@ -707,7 +743,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c3e973b9196bf34e"
+      "question_hash": "c3e973b9196bf34e",
+      "base_text": null
     },
     {
       "question_number": 38,
@@ -726,7 +763,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "a96011e185e8bbfb"
+      "question_hash": "a96011e185e8bbfb",
+      "base_text": null
     },
     {
       "question_number": 39,
@@ -745,7 +783,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "39ef00b76cd5e923"
+      "question_hash": "39ef00b76cd5e923",
+      "base_text": null
     },
     {
       "question_number": 40,
@@ -764,7 +803,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "a57a3840ae4c4973"
+      "question_hash": "a57a3840ae4c4973",
+      "base_text": null
     },
     {
       "question_number": 41,
@@ -783,7 +823,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "38de221d9bee3ff2"
+      "question_hash": "38de221d9bee3ff2",
+      "base_text": null
     },
     {
       "question_number": 42,
@@ -802,7 +843,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d07a14ea7e511286"
+      "question_hash": "d07a14ea7e511286",
+      "base_text": null
     },
     {
       "question_number": 43,
@@ -821,7 +863,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "88a65680ec18dd3e"
+      "question_hash": "88a65680ec18dd3e",
+      "base_text": null
     },
     {
       "question_number": 44,
@@ -840,7 +883,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "8e0ff5db88d89e74"
+      "question_hash": "8e0ff5db88d89e74",
+      "base_text": null
     },
     {
       "question_number": 45,
@@ -859,7 +903,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "034178f655dbbc1e"
+      "question_hash": "034178f655dbbc1e",
+      "base_text": null
     },
     {
       "question_number": 46,
@@ -878,7 +923,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c1185fcd3aca4afb"
+      "question_hash": "c1185fcd3aca4afb",
+      "base_text": null
     },
     {
       "question_number": 47,
@@ -897,7 +943,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ffbc5969ea2efc2f"
+      "question_hash": "ffbc5969ea2efc2f",
+      "base_text": null
     },
     {
       "question_number": 48,
@@ -916,7 +963,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "283674db13ff4dc1"
+      "question_hash": "283674db13ff4dc1",
+      "base_text": null
     },
     {
       "question_number": 49,
@@ -935,7 +983,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "bb5f98f7bac73ec8"
+      "question_hash": "bb5f98f7bac73ec8",
+      "base_text": null
     },
     {
       "question_number": 50,
@@ -954,7 +1003,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "586edf6be7cca087"
+      "question_hash": "586edf6be7cca087",
+      "base_text": null
     },
     {
       "question_number": 51,
@@ -973,7 +1023,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "402c1c0474ceaa51"
+      "question_hash": "402c1c0474ceaa51",
+      "base_text": null
     },
     {
       "question_number": 52,
@@ -992,7 +1043,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c7c114d0e9881726"
+      "question_hash": "c7c114d0e9881726",
+      "base_text": null
     },
     {
       "question_number": 53,
@@ -1011,7 +1063,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "95b3fd2873a603e5"
+      "question_hash": "95b3fd2873a603e5",
+      "base_text": null
     },
     {
       "question_number": 54,
@@ -1030,7 +1083,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "71544f7dcad63084"
+      "question_hash": "71544f7dcad63084",
+      "base_text": null
     },
     {
       "question_number": 55,
@@ -1049,7 +1103,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b4cb4218ad4eb26d"
+      "question_hash": "b4cb4218ad4eb26d",
+      "base_text": null
     },
     {
       "question_number": 56,
@@ -1068,7 +1123,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "87a3ab43ee40fa81"
+      "question_hash": "87a3ab43ee40fa81",
+      "base_text": null
     },
     {
       "question_number": 57,
@@ -1087,7 +1143,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6cc9cf10c7a7a37e"
+      "question_hash": "6cc9cf10c7a7a37e",
+      "base_text": null
     },
     {
       "question_number": 58,
@@ -1106,7 +1163,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "55898dd2550286c9"
+      "question_hash": "55898dd2550286c9",
+      "base_text": null
     },
     {
       "question_number": 59,
@@ -1125,7 +1183,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "69b4337fce64af79"
+      "question_hash": "69b4337fce64af79",
+      "base_text": null
     },
     {
       "question_number": 60,
@@ -1144,7 +1203,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b1441e997d48c2c5"
+      "question_hash": "b1441e997d48c2c5",
+      "base_text": null
     }
   ],
   "year": 2023,

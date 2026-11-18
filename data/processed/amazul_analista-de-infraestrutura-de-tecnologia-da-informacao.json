@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_analista-de-infraestrutura-de-tecnologia-da-informacao_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -566,7 +595,7 @@
         "B": "prediction.",
         "C": "suggestion.",
         "D": "permission.",
-        "E": "willingness. Módulo II Infraestrutura de Tecnologia da Informação"
+        "E": "willingness."
       },
       "answer": "C",
       "annulled": false,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "No cabeçalho do protocolo TCP está definido a quantidade de bits que representará a “Source Port” e a “Destination Port”, números que identificam clientes, serviços, aplicações ou processos. Analise as afirmativas a seguir: I. Tanto para o TCP quanto para o UDP existem 65.535 portas; II. A quantidade de portas é igual tanto para o IPv4 quanto para o IPv6; III. Para o protocolo IPv4 o tamanho da porta é igual a 16 bits; IV. A porta 443 é chamada “bem conhecida” e representa o HTTPS; V. Determinados dispositivos de rede bloqueiam serviços identificados pelas portas TCP. As portas UDP não permitem a identificação de serviço. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e V , apenas.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2352b6b423eacd19"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2352b6b423eacd19",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Ao analisar o tráfego de uma comunicação entre computadores utilizando o analisador de pacotes estas duas sequências numéricas foram verificadas: origem 192.168.10.1:50964 e destino 142.250.79.206:53. Nesse contexto, assinale a opção correta.",
       "alternatives": {
         "A": "O destino representa um soquete e acessa o servidor POP3.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "cb1c46d692e03098"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cb1c46d692e03098",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Para analisar a latência entre as LANs da matriz e da filial em uma rede IPv4, foi realizado um teste entre um host da LAN da filial e o servidor web (www.xpto.io) localizado na matriz. Como o endereçamento IPv6 está sendo implementado na empresa, o técnico observou que os resultados da análise estavam sendo obtidos utilizando IPv6. Assinale a opção que apresenta o comando que deverá ser utilizado na linha de comando do sistema operacional para que a resposta seja fornecida utilizando o IPv4.",
       "alternatives": {
         "A": "tracert www.xpto.io",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4493db3675a01cbd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4493db3675a01cbd",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Na empresa Xpec Ltda., o administrador de rede foi responsável pelo projeto de endereçamento IP para atender a quatro VLANs (VA, VB, VC e VD). Em seu projeto, a quantidade mínima de endereços IP utilizáveis (hosts) por VLAN foi de: VA: 30 hosts – rede administrativa, considerar expansão futura; VB: 14 hosts – rede sem necessidade de expansão futura; VC: 13 hosts – rede sem necessidade de expansão futura; VD: 10 hosts – rede de servidores, considerar a necessidade de expansão futura em 40%, com arredondamento para o inteiro imediatamente superior. Considerando exclusivamente o bloco de IP 200.3.100.128/25, assinale a opção que apresenta o último octeto do endereço inicial de cada sub-rede e seu respectivo prefixo, de forma a representar a melhor solução de projeto de endereçamento.",
       "alternatives": {
         "A": "VA - .128/26; VB -.192/28; VC - .208/28; VD - .224/28; Reserva .240/28.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3d36b58cf82dad75"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3d36b58cf82dad75",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Um “ticket” de serviço foi aberto para manutenção de um computador que não se conectava à internet, apesar de acessar a impressora na LAN. No roteador, havia acesso à internet. O técnico ao iniciar os testes, anotou alguns parâmetros do computador. IP host: 192.168.26.0 Máscara: 255.255.240.0 GW: 192.168.32.254 DNS: 8.8.8.8 Após a análise e solução do problema, o técnico relatou para a chefia imediata que: I. O IP do DNS não pertence à rede local, o que provocou a impossibilidade de acesso à internet; II. O computador não acessa a internet por causa do IP do gateway padrão; III. O IP do host é um endereço privado e não pode acessar a internet; Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "545f0f5c4444893a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "545f0f5c4444893a",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "A representação do endereço IPv6 é escrita na forma hexadecimal com 128 bits divididos em 8 grupos de hextetos, separados pelo caractere “:”. Apesar desta quantidade de bits, existem regras que permitem a abreviação do endereço IPv6 em formatos reduzidos. Assinale a opção que apresenta corretamente a forma mais reduzida possível para o endereço 2001:0DB8:0000:0000:0CAF:B000:0000:0000.",
       "alternatives": {
         "A": "2001:0DB8::0CAF:B::",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7c78d521e4ad5721"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7c78d521e4ad5721",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Uma das formas de autoconfiguração da rede IPv6 é a SLAAC, que é um processo em que o próprio host gera seu endereço IP. Neste procedimento de autoconfiguração do endereço, o roteador envia mensagens informando o prefixo de rede. A partir dessa informação, o host gera seu endereço IPv6 global. Considere as informações a seguir: IPv4 – 192.168.10.4 Gateway padrão – 192.168.10.254 Máscara de sub-rede – 255.255.255.0 Endereço Físico – 00-FF-32-B0-FC-AB Prefixo de rede IPv6 – 2001:0DB8:CAFF:0000::/64 O endereço IPv6 gerado é",
       "alternatives": {
         "A": "2001:0DB8:CAFF:0000:00FF:32FF:FEB0:FCAB",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "50e7f27da4506c7e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "50e7f27da4506c7e",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "A empresa de tecnologia XIS recebeu da sua operadora de Telecomunicações um bloco /48 para atender a matriz (MAT) e as suas duas unidades regionais (UnA e UnB). O analista de infraestrutura deverá planejar a divisão desta rede para atender todas as unidades da empresa. Sendo atribuído pela operadora o bloco 2001:DB8:AB:: /48, assinale a opção que apresenta corretamente o planejamento de designação dos blocos para cada unidade.",
       "alternatives": {
         "A": "2001:DB8:AB::/50 – MAT 2001:DB8:AB:4000::/50 – UnA 2001:DB8:AB:8000::/50 – UnB 2001:DB8:AB:C000::/50 – reserva",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3a725d8186aa408f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3a725d8186aa408f",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "No protocolo IPv6 não foi previsto o endereçamento broadcast para trocas de mensagens, como existe no IPv4. Entretanto, ainda existe a necessidade de comunicação com todos os hosts de uma LAN. O endereço IPv6 que realiza um multicast para todos os dispositivos localizados na mesma rede local é",
       "alternatives": {
         "A": "ff02::1",
@@ -744,15 +782,16 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "daf59b0ea8a892b6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "daf59b0ea8a892b6",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
-      "statement": "Em uma LAN, o técnico utilizou o protocolo ARP para descobrir o MAC do computador B através da consulta ao comando arp -a no CMD do computador",
+      "discipline": "Tecnologia da Informação",
+      "statement": "Em uma LAN, o técnico utilizou o protocolo ARP para descobrir o MAC do computador B através da consulta ao comando arp -a no CMD do computador A. Contudo, não obteve sucesso. Assinale a opção que apresenta uma solução para obtenção do MAC do host B a partir do host A.",
       "alternatives": {
-        "A": "Contudo, não obteve sucesso. Assinale a opção que apresenta uma solução para obtenção do MAC do host B a partir do host A. (A) No host A, deve-se acessar o “prompt de comando” e digitar o comando ipconfig.",
+        "A": "No host A, deve-se acessar o “prompt de comando” e digitar o comando ipconfig.",
         "B": "No host A, deve-se acessar o “prompt de comando” e digitar o comando ipconfig /all.",
         "C": "No “prompt de comando” do host A, deve-se fazer um ping para o computador B, e depois consulta com o comando arp - a.",
         "D": "No “prompt de comando” do host A, deve-se fazer um ping para o computador B, e depois o comando ipconfig /all.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "efaa59bc72249449"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "aff419cc18e522fb",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "O processo de roteamento dinâmico utiliza protocolos de roteamento para mapear a rede e atualizar automaticamente as tabelas de roteamento. Estes protocolos são agrupados em duas categorias: IGP (Interior Gateway Protocol) e ERP (Exterior Routing Protocol). Considere os itens a seguir: I. OSPF II. BGP III. RIP IV. EIGRP V. IS-IS Refere-se somente ao protocolo ERP o que figura em",
       "alternatives": {
         "A": "I, II e III, apenas.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8a185777a642b8c4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8a185777a642b8c4",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Considerando um roteador responsável pelo encaminhamento do tráfego de várias LANs para a internet, assinale a opção correta.",
       "alternatives": {
         "A": "De acordo com a RFC 1918, a faixa de endereçamento dos computadores de uma LAN deve ser obrigatoriamente a faixa de endereços privados que possui unicidade local, por exemplo, o bloco 192.168.0.0/24.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "188762d34b52d40a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "188762d34b52d40a",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Para minimizar a escassez dos endereços IPv4, a IETF publicou a RFC 6598, na qual se define a alocação do bloco de endereços IPv4 /10, para ser utilizado como “Espaço de Endereçamento Compartilhado” e atender as necessidades de dispositivos Carrier- Grade NAT (CGN). Sobre CGN, analise os itens a seguir: I. Informações de roteamento sobre redes que usam o Espaço de Endereçamento Compartilhado NÃO DEVEM ser propagadas através dos limites do Provedor de Serviços. II. Os Provedores de Serviços DEVEM filtrar anúncios recebidos referentes ao Espaço de Endereçamento Compartilhado. III. A IANA reservou o bloco 192.0.2.0/24 para uso pelo CGNAT. IV. A IANA registrou a alocação do intervalo de endereços 100.64.0.0/10 para uso como Espaço de Endereçamento Compartilhado. V. Para o bloco de endereços 100.64.0.0/10 é permitido roteamento na internet e troca de tráfego entre IPv4 e IPv6. Está correto o que se afirma em",
       "alternatives": {
         "A": "II, III e IV, apenas.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "76f8cf2dc688b86e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "76f8cf2dc688b86e",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Na RFC 2865 é especificado o protocolo RADIUS (Remote Authentication Dial In User Service), que tem como uma de suas características um mecanismo de autenticação flexível que pode suportar uma variedade de métodos para autenticar os usuários. Assinale a opção que apresenta corretamente mecanismos de autenticação suportados pelo RADIUS.",
       "alternatives": {
         "A": "SHA-256, PAP e CHAP.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8582c499bd849337"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8582c499bd849337",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "RADIUS e TACACS+ são protocolos de autenticação utilizados com servidores AAA, sendo que o RADIUS especificado pela RFC 2865 é um padrão aberto, enquanto o TACACS+ é suportado pela Cisco. Em relação ao protocolo de transporte, assinale a opção correta.",
       "alternatives": {
         "A": "Os dois protocolos usam o TCP.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e00e362f820fa326"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e00e362f820fa326",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "A empresa XTAL possui cinco departamentos e utiliza uma única rede com 150 computadores, todos interconectados por switches L3 gerenciáveis. Existe uma reclamação constante dos usuários em relação à lentidão da rede. Assinale a opção que pode minimizar este problema.",
       "alternatives": {
         "A": "Substituir todos os switches por um único switch de chassis gerenciável.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1271ff10a11b1820"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1271ff10a11b1820",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um cenário onde várias VLANs estão configuradas, cada switch deve ser capaz de identificar qual das VLAN cada quadro pertence. As informações que identificam um quadro Ethernet como pertencente a uma determinada VLAN estão inseridas em seu cabeçalho e permitem a comunicação via porta configurada do switch, como porta-tronco ou porta de acesso. Assinale a opção que está relacionada ao processo de marcação.",
       "alternatives": {
         "A": "Padrão IEEE 802.1q insere uma tag de quatro bytes no quadro Ethernet ultrapassando seu tamanho original de 1518 bytes.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "81642c4f62a151bd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "81642c4f62a151bd",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Um dos primeiros ataques na internet foi através da técnica de inundação de requisições TCP, denominada “SYN flood”. Outro incidente muito divulgado pela mídia foi o ataque à Universidade de Minnesota, com a utilização de ferramentas de botnets. O atacante coordenou uma rede de computadores comprometidos em inundar um alvo específico com requisições. Considerando o contexto, assinale a opção que apresenta corretamente o principal objetivo de um ataque de Negação de Serviço Distribuído (DDoS).",
       "alternatives": {
         "A": "Obter acesso não autorizado através da engenharia social proporcionada pelo ataque.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "56736ff0d0e7a8a8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "56736ff0d0e7a8a8",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Os computadores de uma LAN conectados à internet possuem configurado o endereço IP do roteador de primeiro salto. Os métodos comuns utilizados para a atribuição deste IP são o DHCPv4 ou a configuração de uma rota padrão estática. Esta última opção é bastante popular pois minimiza a sobrecarga de configuração e processamento no host final. No entanto, isso cria um ponto único de falha. A perda do roteador padrão resulta em um evento catastrófico, isolando todos os hosts desta LAN que não conseguem detectar um caminho alternativo disponível. Sobre o protocolo que foi projetado para eliminar o ponto único de falha inerente a uma rede que utiliza roteamento padrão e, dentre suas funções, elege um roteador ativo entre outros roteadores de backup em uma LAN, assinale a opção correta.",
       "alternatives": {
         "A": "Protocolo de roteamento EIGRP.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "08082082bad349ff"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "08082082bad349ff",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "O COBIT foi desenvolvido com base em dois conjuntos de princípios: princípios para um sistema de governança e princípios de um framework de governança. Assinale a opção que apresenta corretamente um dos seis princípios para um sistema de governança.",
       "alternatives": {
         "A": "Sistema de governança dinâmico.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0c9edc463ec0ca91"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0c9edc463ec0ca91",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "De acordo com a ISO/IEC 27002, existem três pilares que formam a base para a proteção de dados, garantindo, assim, a proteção da informação, a inviolabilidade e a prontidão de uso. A tríade que compõe as propriedades de segurança da informação é",
       "alternatives": {
         "A": "Controle, Propósito e Orientação.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a8832d213e8b8097"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a8832d213e8b8097",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "A política de grupo pode representar as configurações de política localmente no sistema de arquivos, ou no AD DS (Active Directory Domain Services). Quando utilizadas com o Active Directory (AD), as configurações de Política de Grupo são contidas em um GPO (Objeto de Política de Grupo). Os dois componentes principais que consistem em um GPO são:",
       "alternatives": {
         "A": "Regras do certificado e Regras de hash.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b6a575a5445882ad"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b6a575a5445882ad",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Tanto no Linux quanto no Windows a ferramenta ping é utilizada para teste de conectividade e condições da rede. É baseada no protocolo ICMP e possibilita obter diagnósticos de perdas, atraso e alcance entre hosts. Considerando o uso da ferramenta ping em sistemas Linux, assinale o teste de rede que envia o limite de 20 pacotes.",
       "alternatives": {
         "A": "ping www.google.com",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3910fc805b33a2d2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3910fc805b33a2d2",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "A empresa de informática ACME possui uma parede com 300 metros de comprimento. Nesta parede serão instaladas duas TOs a cada 30 metros, totalizando 22 TOs. O projetista de cabeamento estruturado decidiu pelo uso da fibra óptica 62,5/125µm multimodo no backbone de edifício (entre BD e FD). Entretanto, há dúvidas quanto à definição de qual mídia será instalada no cabeamento horizontal. Analise os itens a seguir: I. Instalar um FD no comprimento 150 metros e, no cabeamento horizontal, utilizar cabos U/UTP para a distribuição dos pontos TOs; II. Instalar dois distribuidores de piso, FD1 a 75 metros e FD2 a 225 metros, cada um atendendo a 10 e 12 TOs, respectivamente, com cabo U/UTP no cabeamento horizontal; III. Instalar um FD no comprimento 150 metros e, no cabeamento horizontal, utilizar fibra óptica 62,5/125 µm multimodo para a distribuição dos pontos TOs; IV. Instalar dois FDs, o primeiro FD1 a 75 metros com switch SW1 conectado ao switch SW0 localizado no BD e o segundo FD2 a 225 metros, com seu switch SW2 em cascata com SW1. Cada rack atendendo a 10 e 12 TOs, respectivamente, via cabo U/UTP no cabeamento horizontal; É solução adequada para o problema narrado, considerando todas as medidas a partir do início da parede (0 metro), o que consta em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "542c2833adaf9cdd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "542c2833adaf9cdd",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um projeto de cabeamento estruturado foi especificada a seguinte infraestrutura seca: eletrocalha 75mm x 75mm, com estrutura em perfil “U” e seus acessórios; eletroduto de aço carbono 3/4” (diâmetro interno 25 mm) e seus acessórios; e cabo de categoria 6 U/UTP com diâmetro externo medido de 4,8 mm (área 18 mm²). Observando os tipos de caminhos, o cabo selecionado e conhecendo as Normas de cabeamento estruturado, assinale a opção correta sobre o projeto.",
       "alternatives": {
         "A": "Como o cabo utilizado é um cabo blindado, a taxa máxima de ocupação nesta eletrocalha será de 124 cabos, e por norma, o eletroduto não poderá conter mais de duas curvas entre caixas de passagens.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "416e7e91aef8906a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "416e7e91aef8906a",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Como analista de infraestrutura, assinale a opção que apresenta sua indicação para um projeto de cabeamento estruturado de um ambiente, em que a flexibilização na realocação de TOs fosse necessária.",
       "alternatives": {
         "A": "Uso de patch panels descarregados.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9d1e613b8a5af673"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9d1e613b8a5af673",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "De acordo com a norma NBR 14565, assinale a opção que apresenta o comprimento máximo do canal a partir do distribuidor de piso no cabeamento horizontal.",
       "alternatives": {
         "A": "Depende do fabricante. O analista deverá verificar nas especificações do equipamento.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "eedce0c4cc6ba541"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eedce0c4cc6ba541",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Os modelos de computação em nuvem são definidos por privado, público e híbrido. A partir da definição do modelo a ser utilizado, define-se o tipo de implantação de recursos na nuvem. Analise os itens a seguir sobre os aspectos do modelo de nuvens híbridas. I. Os dados privados não são colocados com os dados de outras organizações. II. Fornece maior flexibilidade. III. As organizações pagam apenas pelo que utilizam. IV. O hardware deve ser comprado e ter sua manutenção gerenciada. V. As organizações controlam a segurança, a conformidade ou os requisitos legais. VI. As organizações determinam o local (ou tipo de nuvem) para executar os aplicativos. Está correto o que se afirma em",
       "alternatives": {
         "A": "II, V e VI, apenas.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ebe67a9e4db77fa5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ebe67a9e4db77fa5",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Organizações que oferecem serviços de computação e armazenamento em nuvem, na forma de plataformas de serviços escalonáveis sob demanda evitam altos investimentos pelas empresas clientes em equipamentos físicos, infraestruturas, espaço físico, energia, manutenção a longo prazo, entre outros gastos. Em relação aos tipos de modelos de serviços de nuvem, assinale a opção que apresenta corretamente o serviço PaaS (Plataforma como Serviço).",
       "alternatives": {
         "A": "Fornece acesso sob demanda a serviços de infraestrutura de TI, como computação, armazenamento, rede e virtualização.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d6220659163f9d99"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d6220659163f9d99",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Assinale a opção que apresenta a ferramenta que executa a orquestração de contêineres, gerencia a implantação, automatizando a implantação e o escalonamento de aplicativos em contêineres.",
       "alternatives": {
         "A": "Docker.",
         "B": "KVM.",
         "C": "IaaS.",
         "D": "VMware.",
-        "E": "Kubernetes. Redação"
+        "E": "Kubernetes."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "84bc10de4834fff5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "84bc10de4834fff5",
+      "base_text": null
     }
   ],
   "year": 2024,

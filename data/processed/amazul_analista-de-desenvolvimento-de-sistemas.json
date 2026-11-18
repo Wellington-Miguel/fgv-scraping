@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_analista-de-desenvolvimento-de-sistemas_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -566,7 +595,7 @@
         "B": "prediction.",
         "C": "suggestion.",
         "D": "permission.",
-        "E": "willingness. Módulo II Engenharia de Software e Desenvolvimento de Sistemas"
+        "E": "willingness."
       },
       "answer": "C",
       "annulled": false,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Um administrador de sistemas gerencia um ambiente VMware vSphere 8.x e precisa implementar uma solução para garantir a alta disponibilidade das máquinas virtuais (VMs) em caso de falha de um host ESXi. A configuração deve permitir a reinicialização automática das VMs afetadas em hosts saudáveis no mesmo cluster, sem a necessidade de intervenção manual. Assinale a opção que apresenta a funcionalidade do vSphere que deve ser configurada para atender a esse requisito.",
       "alternatives": {
         "A": "VMware vMotion",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3b18d040e3d64613"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3b18d040e3d64613",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "No contexto da administração do armazenamento em um ambiente VMware vSphere, o recurso que permite o provisionamento eficiente de espaço em disco para máquinas virtuais, onde o espaço físico é alocado, apenas quando efetivamente utilizado pelo sistema operacional convidado, e não no momento da criação do disco virtual denomina-se",
       "alternatives": {
         "A": "Thick Provision Lazy Zeroed",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "23ae7ff38566492b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "23ae7ff38566492b",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um ambiente de produção de banco de dados, o Administrador de Banco de Dados (DBA) planeja uma estratégia de recuperação de desastres. O objetivo principal é garantir o menor tempo de inatividade (RTO - Recovery Time Objective) e a mínima perda de dados (RPO - Recovery Point Objective) possíveis. Assinale a opção que apresenta as abordagens de backup e recuperação mais adequadas para atender a esses requisitos rigorosos em um sistema de missão crítica.",
       "alternatives": {
         "A": "Point-in-Time Recovery (PITR) utilizando os arquivos de log de transação contínuos.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a846cfafb3c40b48"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a846cfafb3c40b48",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Uma empresa está adotando uma nova política de gerenciamento de licenças de software para garantir a conformidade legal e otimizar custos. Um dos principais desafios é o controle de licenças de software comercial que são instaladas e utilizadas em múltiplos servidores. Assinale a opção que apresenta a prática que é fundamental para uma administração eficaz de licenças de software (Software Asset Management - SAM) neste cenário.",
       "alternatives": {
         "A": "Instalar o software em quantos computadores forem necessários, desde que a empresa possua um número mínimo de licenças vitalícias.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d441f76054120bad"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d441f76054120bad",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Analise o seguinte trecho de código em linguagem C: Assinale a opção que apresenta a saída impressa pelo programa quando executado.",
       "alternatives": {
         "A": "60",
@@ -668,12 +702,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_analista-de-desenvolvimento-de-sistemas_q35.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6f10b2c385d6f232"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6f10b2c385d6f232",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Considere as seguintes definições de enum e struct em C: Assinale a opção que apresenta a saída impressa pelo programa quando executado.",
       "alternatives": {
         "A": "Outro status",
@@ -687,12 +722,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_analista-de-desenvolvimento-de-sistemas_q36.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c04305b50b3a37ba"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c04305b50b3a37ba",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um banco de dados MySQL, o otimizador de consultas decide qual é a melhor forma de executar uma query. Para analisar o plano de execução e identificar gargalos de performance, assinale a opção que apresenta o comando SQL que é utilizado, e informação específica que pode indicar a necessidade de criação de um índice.",
       "alternatives": {
         "A": "CHECK TABLE; a presença de \"Using temporary\" ou \"Using filesort\" na coluna Extra sugere problemas.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "561618420e6f4602"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "561618420e6f4602",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Para combater o spam e, principalmente, o phishing (fraude de identidade em e-mail), foram desenvolvidos métodos de autenticação que verificam a legitimidade do remetente. Assinale a opção que descreve corretamente o papel do DMARC (Domain- based Message Authentication, Reporting and Conformance) nesse processo.",
       "alternatives": {
         "A": "O DMARC é um registro DNS que lista os endereços IP autorizados a enviar e-mails em nome de um domínio específico. Se o IP do remetente não estiver na lista, a mensagem é imediatamente rejeitada.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "edad7cedc064f052"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "edad7cedc064f052",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Os princípios fundamentais da segurança da informação, frequentemente referidos pela sigla CID, expandiram-se para incluir outros pilares essenciais em abordagens modernas, como a autenticidade e o não repúdio. A integridade é um desses pilares cruciais. Assinale a opção que descreve corretamente o conceito de integridade na segurança da informação.",
       "alternatives": {
         "A": "Garantir que a informação esteja acessível e utilizável para indivíduos autorizados sempre que necessário.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "627c9097398c2405"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "627c9097398c2405",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Uma empresa de médio porte sofreu um ataque cibernético devastador. Os invasores criptografaram todos os arquivos críticos da rede e exigiram um pagamento em criptomoedas para fornecer a chave de descriptografia, sob a ameaça de perda permanente dos dados. A empresa ficou com seus serviços indisponíveis por vários dias e sofreu grandes prejuízos financeiros. Assinale a opção que apresenta corretamente o ataque cibernético que foi utilizado nesse cenário descrito.",
       "alternatives": {
         "A": "Phishing",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5727a1e4c4e3f8a7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5727a1e4c4e3f8a7",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um ambiente de rede corporativa, um administrador de segurança implementou um Sistema de Detecção de Intrusão (IDS), baseado em anomalias para identificar ameaças internas e ataques de dia zero. Assinale a opção que apresenta a principal desvantagem que esse administrador, provavelmente enfrentará em comparação com um IDS baseado em assinaturas, e o motivo.",
       "alternatives": {
         "A": "Alta taxa de falsos positivos (alarmes que não são ameaças reais), devido à natureza de aprendizado de máquina e modelagem do tráfego de referência.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "28826437ce154377"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "28826437ce154377",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um ambiente de servidor multiusuário e multitarefa, o administrador de sistemas precisa garantir que processos interativos (que exigem resposta rápida ao usuário) tenham prioridade sobre processos em background (que realizam tarefas longas e não urgentes). Assinale a opção que apresenta o algoritmo de escalonamento de CPU, ou conceito relacionado, que é mais adequado para atingir esse objetivo de forma eficiente em um sistema operacional moderno.",
       "alternatives": {
         "A": "First-Come, First-Served (FCFS)",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "122e9d434a7cf42d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "122e9d434a7cf42d",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Um sistema operacional utiliza paginação para gerenciar a memória virtual. O administrador do sistema observa um desempenho significativamente degradado, com a CPU gastando a maior parte do tempo trocando páginas entre a memória principal (RAM) e o disco, em vez de executar instruções úteis dos programas. Esse fenômeno é conhecido como",
       "alternatives": {
         "A": "Swapping de Kernel",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0042dbfb4602a9ba"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0042dbfb4602a9ba",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "A API de Streams do Java 8 introduziu uma nova forma de processar coleções de dados de maneira declarativa e, opcionalmente, paralela. Considere o seguinte trecho de código: Assinale a opção que apresenta o valor da variável resultado, após a execução deste código.",
       "alternatives": {
         "A": "12",
@@ -839,12 +882,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_analista-de-desenvolvimento-de-sistemas_q44.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5096f5e3526fd2bc"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5096f5e3526fd2bc",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um ambiente Linux, o administrador de sistemas precisa iniciar um processo de backup de dados de grande volume, mas deseja garantir que ele não consuma recursos de CPU excessivamente e não prejudique o desempenho de outras aplicações críticas em execução. Assinale a opção que apresenta corretamente o comando, ou combinação de comandos, que devem ser utilizados para iniciar o processo backup_script.sh, com a menor prioridade de execução possível.",
       "alternatives": {
         "A": "nice -n -20 ./backup_script.sh",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4c4a1c046020f005"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4c4a1c046020f005",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em sistemas operacionais modernos, as políticas de escalonamento preemptivo permitem que o sistema interrompa um processo em execução para ceder a CPU a outro processo, baseando-se em determinados critérios. Um algoritmo clássico que utiliza a preempção por meio de fatias de tempo (quantum) é o Round Robin (RR). Nesse contexto, é correto afirmar que",
       "alternatives": {
         "A": "Tempo de turnaround (tempo total de conclusão do processo) médio, minimizando-o.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b3935caa35403b69"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b3935caa35403b69",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "No contexto de sistemas operacionais modernos, a memória virtual é uma técnica crucial que permite a execução de programas maiores do que a memória física (RAM) disponível, utilizando parte do espaço do disco rígido como extensão da RAM. Assinale a opção que descreve corretamente o principal objetivo ou uma característica fundamental da memória virtual.",
       "alternatives": {
         "A": "Eliminar completamente a necessidade de memória RAM, utilizando apenas o disco rígido para armazenamento primário.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f42cec41553f8a33"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f42cec41553f8a33",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "O método de alocação contígua aloca blocos de disco adjacentes (sequenciais) para um arquivo. Embora esse método proporcione um desempenho de acesso sequencial excelente, ele apresenta um grande desafio na prática diária de um sistema de arquivos com muitas operações de criação e exclusão de arquivos. Assinale a opção que descreve esse principal desafio.",
       "alternatives": {
         "A": "A complexidade de implementação do sistema de arquivos no núcleo do sistema operacional.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ddb5d2f9eb6ec4d8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ddb5d2f9eb6ec4d8",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um ambiente de data center, o administrador de sistemas precisa implementar uma solução de armazenamento que combine bom desempenho de leitura e escrita, eficiência no uso do espaço de armazenamento e capacidade de tolerar a falha de dois discos simultaneamente sem perda de dados. Assinale a opção que apresenta o nível de RAID padrão que atende a esses requisitos específicos.",
       "alternatives": {
         "A": "RAID 6",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9daee273a84f7ec5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9daee273a84f7ec5",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Uma das principais características de um dispositivo NAS é a sua facilidade de implementação e gerenciamento. O dispositivo é essencialmente um servidor de arquivos simplificado, que abstrai a complexidade do sistema de arquivos subjacente do usuário final. Em relação ao sistema de arquivos, o NAS gerencia o armazenamento de dados em seus discos rígidos internos. Assinale a opção que descreve com mais precisão como o sistema de arquivos é gerenciado em um dispositivo NAS típico.",
       "alternatives": {
         "A": "O cliente (computador do usuário) formata os discos do NAS com seu próprio sistema de arquivos local, como NTFS ou APFS, para garantir compatibilidade.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "dc9bbf39be0ef151"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dc9bbf39be0ef151",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Uma empresa implementou uma política de backup semanal que consiste em um backup completo (Full) todo domingo e backups incrementais (Incremental) de segunda a sábado. Ocorreu uma falha catastrófica no servidor na quinta-feira, às 15h. Para restaurar o sistema ao estado mais recente possível, o procedimento que o administrador de sistemas deverá seguir e a principal desvantagem desse método são",
       "alternatives": {
         "A": "o administrador deve restaurar apenas o último backup incremental (de quinta-feira). A desvantagem é a perda de dados entre o último backup e a falha.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "015412b6d0d00c9e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "015412b6d0d00c9e",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Durante a definição da Política de Continuidade de Negócios de uma organização, a equipe de TI estabeleceu que o RPO (Recovery Point Objective) para um sistema crítico de gestão financeira deve ser de, no máximo, 1 hora. Assinale a opção que apresenta a implicação técnica direta dessa definição para a estratégia de backup desse sistema.",
       "alternatives": {
         "A": "O tempo máximo necessário para restaurar o sistema (RTO) após uma falha deve ser de 1 hora.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4683b800815a7c0f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4683b800815a7c0f",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Uma empresa necessita que seus funcionários de filiais acessem e executem um software de gestão específico que está instalado apenas no servidor principal localizado na matriz. O objetivo é que a aplicação seja executada no servidor, e apenas a interface gráfica seja transmitida para os computadores clientes, que podem ter hardware limitado. Assinale a opção que apresenta o serviço de função de servidor que é o mais apropriado para essa situação.",
       "alternatives": {
         "A": "Serviços de Área de Trabalho Remota (Remote Desktop Services).",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "14ab5159548268e7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "14ab5159548268e7",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "No contexto de gerenciamento de banco de dados relacional (RDBMS), as transações devem aderir às propriedades ACID para garantir a integridade e consistência dos dados, mesmo em caso de falhas no sistema. Assinale a opção que descreve corretamente a propriedade da Isolamento (Isolation).",
       "alternatives": {
         "A": "Garante que uma transação completa seja permanentemente registrada no banco de dados, após a confirmação (commit), e que os efeitos de uma transação incompleta sejam desfeitos (rollback) em caso de falha.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a8118badffcba5f5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a8118badffcba5f5",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "A assinatura digital é um mecanismo crucial na segurança da informação que utiliza a criptografia assimétrica para garantir determinados princípios. Assinale a opção que descreve incorretamente um dos princípios fundamentais da segurança da informação, garantidos tecnicamente pelo uso de uma assinatura digital válida, atrelada a um certificado digital emitido por uma Autoridade Certificadora (AC).",
       "alternatives": {
         "A": "Autenticidade: Garante a identidade do signatário, confirmando quem assinou o documento.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c20137b34b016045"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c20137b34b016045",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Os certificados digitais no padrão ICP-Brasil são classificados em diferentes tipos, sendo os mais comuns o A1 e o A3. Cada tipo possui características específicas quanto ao seu armazenamento e nível de segurança. A principal diferença prática entre um certificado tipo A1 e um tipo A3 reside no local onde a chave privada é gerada e armazenada. Assinale a opção que descreve corretamente o armazenamento e a validade típicos do certificado digital tipo A3.",
       "alternatives": {
         "A": "É armazenado diretamente no navegador web do computador ou em um arquivo no disco rígido, com validade máxima de 12 meses.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "af38f274254b30df"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "af38f274254b30df",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "O Maven é baseado em um conceito central de fases de ciclo de vida (lifecycle phases). Considere o ciclo de vida padrão (default). Assinale a opção que apresenta a sequência correta e obrigatória de fases que são executadas quando o comando mvn install é invocado na linha de comando.",
       "alternatives": {
         "A": "validate, compile, test, package, verify, install, deploy",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e95553acb6367cef"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e95553acb6367cef",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Em um repositório Git local, o fluxo de trabalho básico envolve três áreas conceituais principais: Diretório de Trabalho (Working Directory), Área de Staging (Staging Area, ou Index) e Repositório Git (Git Directory/Repository). Considere que você modificou um arquivo existente (projeto.txt) no seu Diretório de Trabalho. Para que as alterações realizadas no arquivo sejam registradas permanentemente no histórico do repositório local, a sequência correta de comandos é:",
       "alternatives": {
         "A": "git commit -a && git push",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9a601232a848eb46"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9a601232a848eb46",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "Considere o seguinte código Python: A saída produzida pelo código é:",
       "alternatives": {
         "A": "[0, 1, 2]",
@@ -1124,27 +1182,29 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_analista-de-desenvolvimento-de-sistemas_q59.png",
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c369ea926df2bca4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c369ea926df2bca4",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Tecnologia da Informação",
       "statement": "O Android passou por uma mudança significativa em seu ambiente de tempo de execução (runtime). Nas versões mais antigas (até o Android KitKat), a Dalvik Virtual Machine era utilizada para executar o bytecode dos aplicativos. A partir do Android Lollipop, um novo ambiente foi introduzido para substituir a Dalvik, oferecendo melhor desempenho e eficiência. O ambiente de tempo de execução que substituiu a Dalvik Virtual Machine no Android e a principal técnica de compilação que ele emprega são, respectivamente,",
       "alternatives": {
         "A": "Java Virtual Machine (JVM) e compilação Just-In-Time (JIT)",
         "B": "Dalvik Turbo e compilação AOT",
         "C": "ART Runtime Environment e compilação JIT",
         "D": "Android RunTime (ART) e compilação Ahead-Of-Time (AOT)",
-        "E": "Android Optimized Runtime (AOR) e compilação Interpretada Redação"
+        "E": "Android Optimized Runtime (AOR) e compilação Interpretada"
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "523f6db66d76012e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "523f6db66d76012e",
+      "base_text": null
     }
   ],
   "year": 2024,

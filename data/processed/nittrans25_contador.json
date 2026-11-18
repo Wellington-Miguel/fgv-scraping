@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "097773d3eed3a2da"
+      "question_hash": "097773d3eed3a2da",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "580bb73d284eaceb"
+      "question_hash": "580bb73d284eaceb",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4cad68f37bc79728"
+      "question_hash": "4cad68f37bc79728",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17cac62fc985f567"
+      "question_hash": "17cac62fc985f567",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "542691fde1da426d"
+      "question_hash": "542691fde1da426d",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7059fd7eae5e412d"
+      "question_hash": "7059fd7eae5e412d",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4358cde1941264d2"
+      "question_hash": "4358cde1941264d2",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,11 +163,12 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "97a163cd48abec7e"
+      "question_hash": "97a163cd48abec7e",
+      "base_text": null
     },
     {
       "question_number": 9,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "A respeito da história de Niterói, desde sua fundação, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) A aldeia de São Lourenço, criada sob a administração temporal e espiritual dos jesuítas, foi um importante baluarte de defesa do Rio de Janeiro até o século XVIII. ( ) Os índios aldeados eram súditos cristãos do Rei, e esse reconhecimento jurídico permitia-lhes participar de expedições militares, negociar as próprias terras e investir em empreendimentos lucrativos na capitania. ( ) A aldeia indígena de São Lourenço foi extinta oficialmente por decreto em 1866, devido à expulsão dos jesuítas de Portugal e de seus domínios, o que levou ao seu progressivo despovoamento. A sequência correta, segundo a ordem apresentada, é:",
       "alternatives": {
         "A": "F – V – V.",
@@ -174,15 +182,16 @@
       "has_image": true,
       "image_path": "data/processed/images/nittrans25_contador_q9.png",
       "page_number": 4,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "5fbee44d481a73e1"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5fbee44d481a73e1",
+      "base_text": null
     },
     {
       "question_number": 10,
-      "discipline": "Conhecimentos Específicos",
-      "statement": "Entre as décadas de 1900 e 1930, sem a magnitude e a rapidez das obras que modernizaram a capital federal, a região central de Niterói viveu imersa em reformas urbanas, com obras que refletiam o processo de inserção da cidade nas novas circunstâncias da economia nacional. Adaptado de CORTE,",
+      "discipline": "Atualidades",
+      "statement": "Entre as décadas de 1900 e 1930, sem a magnitude e a rapidez das obras que modernizaram a capital federal, a região central de Niterói viveu imersa em reformas urbanas, com obras que refletiam o processo de inserção da cidade nas novas circunstâncias da economia nacional. Adaptado de CORTE, A. (org.). Niterói 450 anos: capítulos de sua história. São Paulo: Alameda, 2024.p. 81 A respeito do processo de modernização niteroiense nesse período, é correto afirmar que",
       "alternatives": {
-        "A": "(org.). Niterói 450 anos: capítulos de sua história. São Paulo: Alameda, 2024.p. 81 A respeito do processo de modernização niteroiense nesse período, é correto afirmar que (A) durante o governo do prefeito Pereira Ferraz (1906-1910), foram realizadas melhorias no saneamento, nos calçamentos e foram abertas ruas para reestruturar o espaço urbano do centro da cidade, como a Avenida Ernani do Amaral Peixoto.",
+        "A": "durante o governo do prefeito Pereira Ferraz (1906-1910), foram realizadas melhorias no saneamento, nos calçamentos e foram abertas ruas para reestruturar o espaço urbano do centro da cidade, como a Avenida Ernani do Amaral Peixoto.",
         "B": "a abertura da Rua da Conceição na área central, da Alameda São Boaventura, na zona norte, e o alargamento da Estrada Leopoldo Fróes permitiram aumentar o fluxo com as regiões contíguas a Niterói, sobretudo com São Gonçalo.",
         "C": "a construção do Porto de Niterói, na Enseada de São Lourenço, levou ao aterramento do manguezal da enseada, ao desmonte de morros e à remoção dos casebres ali instalados, considerados espaços insalubres da cidade pelos higienistas.",
         "D": "o aterro da faixa litorânea central, entre a Ponta da Armação e a Praia das Flechas, e o seu loteamento, deram origem às áreas denominadas Enseada da Praia Grande, Enseada de São Domingos e Morro do Gragoatá.",
@@ -193,12 +202,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 4,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "8009dc117749e07e"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "535704430c428fee",
+      "base_text": null
     },
     {
       "question_number": 11,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "A condição de capital trouxe uma série de avanços ao desenvolvimento urbano de Niterói no século XIX, como os corretamente indicados a seguir, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "A navegação a vapor para a travessia da Baia de Guanabara.",
@@ -212,12 +222,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 4,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "a3a44701ff04fc86"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a3a44701ff04fc86",
+      "base_text": null
     },
     {
       "question_number": 12,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "O Museu de Arte Contemporânea de Niterói (MAC), projetado por Oscar Niemeyer e inaugurado em 1996, se ergue sobre o promontório da Boa Viagem, à beira do mar. A arquitetura do museu se apresenta como um valor em si mesma, transformando o edifício em obra de arte e ícone urbano. O MAC estabelece uma relação sensível com o espaço urbano e natural, promovendo um descortinar gradativo de surpresas sensoriais para os visitantes. Mais do que as obras expostas, o que atrai o público é o próprio edifício, sua leveza estrutural e a integração com a paisagem da enseada, composta historicamente por marcos naturais e construções humanas. Adaptado de CUNHA BRUNO, J. S. O Museu de Arte Contemporânea de Niterói, RJ. Uma estratégia de promoção da cidade. RB. Estudos Urbanos e Regionais, v. 4, 2002. Com base no texto, avalie as afirmativas a seguir. I. O MAC, ao se tornar um ícone arquitetônico, cumpre a função de abrigar obras de arte e, também, de gerar impacto simbólico e turístico para a cidade de Niterói. II. A localização do MAC, no promontório da Boa Viagem, estabelece um diálogo entre a obra arquitetônica e os elementos naturais e históricos da enseada, reforçando sua presença urbana e paisagística. III. A arquitetura do MAC, marcada pelo uso de transparências, rampas e perspectivas progressivas, cria experiências sensoriais para os visitantes e destaca a integração entre o edifício e a paisagem. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -231,12 +242,13 @@
       "has_image": true,
       "image_path": "data/processed/images/nittrans25_contador_q12.png",
       "page_number": 4,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "e7e403afd891ede1"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "e7e403afd891ede1",
+      "base_text": null
     },
     {
       "question_number": 13,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "Instituído pela Lei nº 827/1990 e vinculado à Secretaria Municipal das Culturas, o Departamento de Preservação do Patrimônio Cultural (DePAC) é responsável pela proteção e preservação do patrimônio cultural de Niterói. Diante dessa atribuição, assinale a opção que exemplifica corretamente um instrumento ou categoria de preservação previsto em sua área de atuação.",
       "alternatives": {
         "A": "Bens tombados, como a Fortaleza de Santa Cruz e a Pedra de Itapuca.",
@@ -250,12 +262,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 5,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "5d2d016386a66191"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5d2d016386a66191",
+      "base_text": null
     },
     {
       "question_number": 14,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "O município de Niterói possui aproximadamente 56% de seu território composto por unidades de conservação e áreas ambientalmente protegidas. Entre as zonas ambientais, consta a descrita a seguir. O entorno de uma unidade de conservação, onde as atividades humanas estão sujeitas às normas e restrições específicas, com o propósito de minimizar os impactos negativos sobre a unidade. A descrição refere-se a uma:",
       "alternatives": {
         "A": "Zona de Uso Especial.",
@@ -269,12 +282,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 5,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "92487e0e419e0094"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "92487e0e419e0094",
+      "base_text": null
     },
     {
       "question_number": 15,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "Com o passar do tempo, a população da cidade de Niterói cresceu e as moradias foram se afastando do centro, provocando o que chamamos espraiamento urbano, produto das políticas de uso e ocupação do solo, incentivado, principalmente, pelo uso do automóvel. Como consequência, as viagens casa-trabalho ficaram cada vez mais longas, aumentando os tempos de deslocamento e prejuízos ao desempenho do transporte coletivo. Isso favorece ainda mais a busca por veículos particulares. Nesse processo, as áreas verdes são comprometidas, os engarrafamentos são recorrentes, a poluição atmosférica e sonora aumenta, além de aumentar também o número de acidentes. Adaptado de https://urbanismo.niteroi.rj.gov.br/pmus Para enfrentar os impactos negativos do espraiamento urbano, podem ser adotadas as medidas indicadas a seguir, exceto uma. Assinale-a.",
       "alternatives": {
         "A": "Investir na criação de faixas exclusivas, ciclovias e ampliação de passeios.",
@@ -288,12 +302,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 5,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "48b145bd0a719a6a"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "48b145bd0a719a6a",
+      "base_text": null
     },
     {
       "question_number": 16,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "Observe o quadro a seguir sobre a evolução sociodemográfica de Niterói entre os anos 1970 e 2010. Fonte: https://www.niteroi.rj.gov.br/pmus Com base nos dados relativos à população e à ocupação urbana, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) O território de ocupação urbana de Niterói mais do que dobrou de 1970 a 1990, em função de uma série de fatores, entre os quais a inauguração da Ponte Rio-Niterói (1974), que gerou aquecimento da economia local e dinamização urbana, com intensificação da produção imobiliária nas áreas centrais e bairros litorâneos consolidados da Zona Sul. ( ) De 1990 a 2010 a densidade urbana decaiu constantemente, o que significa que o espraiamento urbano cresceu proporcionalmente mais rápido do que o ritmo de crescimento demográfico, fazendo com que a infraestrutura urbana esteja mais disponível e seja mais barata para a população. ( ) De 1970 a 2010, enquanto as zonas tradicionais, onde localizava-se grande parte dos empregos, como a região norte e Praias da Baía tiveram pouco adensamento urbano, as Regiões de Pendotiba e Oceânica foram ocupadas por extensas áreas urbanizadas com baixa ocupação, pouca oferta de empregos, consumindo grande parte de área verde do município. A sequência correta, segundo a ordem apresentada, é:",
       "alternatives": {
         "A": "F – V – V.",
@@ -307,12 +322,13 @@
       "has_image": true,
       "image_path": "data/processed/images/nittrans25_contador_q16.png",
       "page_number": 6,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "13f757eaf3508e1a"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "13f757eaf3508e1a",
+      "base_text": null
     },
     {
       "question_number": 17,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "As manifestações culturais de Niterói refletem tanto tradições locais quanto influências regionais. Nesse sentido, é correto afirmar que",
       "alternatives": {
         "A": "a Festa de São Sebastião, padroeiro do município, é a principal celebração religiosa da cidade, manifestada por meio de missas, procissões e queima de fogos.",
@@ -326,12 +342,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 6,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "7164a4d9875e836a"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7164a4d9875e836a",
+      "base_text": null
     },
     {
       "question_number": 18,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Atualidades",
       "statement": "Com o objetivo de mudar o paradigma da mobilidade urbana, as cidades tem adotado os “princípios da mobilidade urbana sustentável”. A esse respeito, relacione os princípios listados a seguir às respectivas definições. 1. Pedalar 2. Conectar 3. Densificar 4. Compactar ( ) É o ato de exercitar uma modalidade saudável, econômica e inclusiva de mobilidade urbana, que combina a conveniência da viagem porta-a-porta e a flexibilidade da rota e do horário, atingindo distâncias e velocidades semelhantes às dos serviços locais de transporte coletivo. ( ) É o ato necessário para atender ao crescimento dentro de áreas limitadas, considerando o número adequado de usuários em relação ao desenvolvimento de uma infraestrutura de transporte público coletivo. ( ) É o ato de estruturar o tecido urbano de modo a prever distâncias mais curtas, que exigem menos tempo e energia para o deslocamento entre uma atividade e outra, e infraestruturas menos extensas e custosas. ( ) É o ato de produzir uma trama bem estruturada de ruas e passagens que oferece múltiplos trajetos a muitos destinos, com esquinas frequentes, vias públicas mais estreitas e menor velocidade veicular, tornando os trajetos mais variados e aprazíveis e revigorando a atividade das ruas e o comércio local. A sequência correta, segundo a ordem apresentada, é:",
       "alternatives": {
         "A": "1 – 2 – 4 – 3.",
@@ -345,8 +362,9 @@
       "has_image": false,
       "image_path": null,
       "page_number": 6,
-      "module": "Conhecimentos Específicos",
-      "question_hash": "8944bcbf3eeb9326"
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8944bcbf3eeb9326",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "58f4ca4bf8d54783"
+      "question_hash": "58f4ca4bf8d54783",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6ea374ce3793893c"
+      "question_hash": "6ea374ce3793893c",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e95b4decf4b99eac"
+      "question_hash": "e95b4decf4b99eac",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9fc10bb6abbf0c0c"
+      "question_hash": "9fc10bb6abbf0c0c",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "24521f25a6371956"
+      "question_hash": "24521f25a6371956",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": "data/processed/images/nittrans25_contador_q24.png",
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "769cac69a618a249"
+      "question_hash": "769cac69a618a249",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "bd790fcb6f44e3fc"
+      "question_hash": "bd790fcb6f44e3fc",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a2517eb185927a7e"
+      "question_hash": "a2517eb185927a7e",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7896af3bbbea93aa"
+      "question_hash": "7896af3bbbea93aa",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3d7f69455a5d8492"
+      "question_hash": "3d7f69455a5d8492",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "21ea2083c6d4e47d"
+      "question_hash": "21ea2083c6d4e47d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,7 +603,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5b13a954066e692e"
+      "question_hash": "5b13a954066e692e",
+      "base_text": null
     },
     {
       "question_number": 31,
@@ -593,7 +623,8 @@
       "image_path": "data/processed/images/nittrans25_contador_q31.png",
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "43ec5e5f3b417bc5"
+      "question_hash": "43ec5e5f3b417bc5",
+      "base_text": null
     },
     {
       "question_number": 32,
@@ -612,7 +643,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "504352e87bc4f779"
+      "question_hash": "504352e87bc4f779",
+      "base_text": null
     },
     {
       "question_number": 33,
@@ -631,7 +663,8 @@
       "image_path": "data/processed/images/nittrans25_contador_q33.png",
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7cde551d40c93d8a"
+      "question_hash": "7cde551d40c93d8a",
+      "base_text": null
     },
     {
       "question_number": 34,
@@ -650,7 +683,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c2e889b79004d055"
+      "question_hash": "c2e889b79004d055",
+      "base_text": null
     },
     {
       "question_number": 35,
@@ -669,7 +703,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7a3cb5a8f272cceb"
+      "question_hash": "7a3cb5a8f272cceb",
+      "base_text": null
     },
     {
       "question_number": 36,
@@ -688,7 +723,8 @@
       "image_path": "data/processed/images/nittrans25_contador_q36.png",
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f3501c30c5933848"
+      "question_hash": "f3501c30c5933848",
+      "base_text": null
     },
     {
       "question_number": 37,
@@ -707,7 +743,8 @@
       "image_path": "data/processed/images/nittrans25_contador_q37.png",
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f5779369fbca182c"
+      "question_hash": "f5779369fbca182c",
+      "base_text": null
     },
     {
       "question_number": 38,
@@ -726,7 +763,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "47dd36639bcca9cc"
+      "question_hash": "47dd36639bcca9cc",
+      "base_text": null
     },
     {
       "question_number": 39,
@@ -745,7 +783,8 @@
       "image_path": "data/processed/images/nittrans25_contador_q39.png",
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "067496908afdb738"
+      "question_hash": "067496908afdb738",
+      "base_text": null
     },
     {
       "question_number": 40,
@@ -764,7 +803,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "65f009eeca695fb5"
+      "question_hash": "65f009eeca695fb5",
+      "base_text": null
     },
     {
       "question_number": 41,
@@ -783,7 +823,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e20b76bae0501e6c"
+      "question_hash": "e20b76bae0501e6c",
+      "base_text": null
     },
     {
       "question_number": 42,
@@ -802,7 +843,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "66644b40eabc36fc"
+      "question_hash": "66644b40eabc36fc",
+      "base_text": null
     },
     {
       "question_number": 43,
@@ -821,7 +863,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Básicos",
-      "question_hash": "415337838ce9424d"
+      "question_hash": "415337838ce9424d",
+      "base_text": null
     },
     {
       "question_number": 44,
@@ -840,7 +883,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4b9d62e28de321dd"
+      "question_hash": "4b9d62e28de321dd",
+      "base_text": null
     },
     {
       "question_number": 45,
@@ -859,7 +903,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b78355a8d2850b23"
+      "question_hash": "b78355a8d2850b23",
+      "base_text": null
     },
     {
       "question_number": 46,
@@ -878,7 +923,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1c5dc2df100a884e"
+      "question_hash": "1c5dc2df100a884e",
+      "base_text": null
     },
     {
       "question_number": 47,
@@ -897,7 +943,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "71a625cd2806be08"
+      "question_hash": "71a625cd2806be08",
+      "base_text": null
     },
     {
       "question_number": 48,
@@ -916,7 +963,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c7e4ed28dbe8e66c"
+      "question_hash": "c7e4ed28dbe8e66c",
+      "base_text": null
     },
     {
       "question_number": 49,
@@ -935,7 +983,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5c80301e9690fbdb"
+      "question_hash": "5c80301e9690fbdb",
+      "base_text": null
     },
     {
       "question_number": 50,
@@ -954,7 +1003,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Básicos",
-      "question_hash": "97284d2d3570b3da"
+      "question_hash": "97284d2d3570b3da",
+      "base_text": null
     },
     {
       "question_number": 51,
@@ -973,7 +1023,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "dbef2b0a9c606a79"
+      "question_hash": "dbef2b0a9c606a79",
+      "base_text": null
     },
     {
       "question_number": 52,
@@ -992,7 +1043,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f7d147533fa0e5aa"
+      "question_hash": "f7d147533fa0e5aa",
+      "base_text": null
     },
     {
       "question_number": 53,
@@ -1011,7 +1063,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fdc9720a9e6a91ee"
+      "question_hash": "fdc9720a9e6a91ee",
+      "base_text": null
     },
     {
       "question_number": 54,
@@ -1030,7 +1083,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "96542dafe17a6666"
+      "question_hash": "96542dafe17a6666",
+      "base_text": null
     },
     {
       "question_number": 55,
@@ -1049,7 +1103,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ec7fa0f1076ba6d5"
+      "question_hash": "ec7fa0f1076ba6d5",
+      "base_text": null
     },
     {
       "question_number": 56,
@@ -1068,7 +1123,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7168ea3531d85dfe"
+      "question_hash": "7168ea3531d85dfe",
+      "base_text": null
     },
     {
       "question_number": 57,
@@ -1087,7 +1143,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Básicos",
-      "question_hash": "98a1838fd2e860e8"
+      "question_hash": "98a1838fd2e860e8",
+      "base_text": null
     },
     {
       "question_number": 58,
@@ -1106,7 +1163,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "813e17cd7a3db95b"
+      "question_hash": "813e17cd7a3db95b",
+      "base_text": null
     },
     {
       "question_number": 59,
@@ -1125,7 +1183,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c8c5878537c10ba0"
+      "question_hash": "c8c5878537c10ba0",
+      "base_text": null
     },
     {
       "question_number": 60,
@@ -1144,7 +1203,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "606717934f05c62d"
+      "question_hash": "606717934f05c62d",
+      "base_text": null
     },
     {
       "question_number": 61,
@@ -1163,7 +1223,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5a85b695cfdf34f6"
+      "question_hash": "5a85b695cfdf34f6",
+      "base_text": null
     },
     {
       "question_number": 62,
@@ -1182,7 +1243,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2634f681e1577fa9"
+      "question_hash": "2634f681e1577fa9",
+      "base_text": null
     },
     {
       "question_number": 63,
@@ -1201,7 +1263,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Básicos",
-      "question_hash": "dd52636d9dc5661e"
+      "question_hash": "dd52636d9dc5661e",
+      "base_text": null
     },
     {
       "question_number": 64,
@@ -1220,7 +1283,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "0c679af0c03ba439"
+      "question_hash": "0c679af0c03ba439",
+      "base_text": null
     },
     {
       "question_number": 65,
@@ -1239,7 +1303,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4a952dc9d5a427bc"
+      "question_hash": "4a952dc9d5a427bc",
+      "base_text": null
     },
     {
       "question_number": 66,
@@ -1258,7 +1323,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "185d3944cd9cf04c"
+      "question_hash": "185d3944cd9cf04c",
+      "base_text": null
     },
     {
       "question_number": 67,
@@ -1277,7 +1343,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a775778e73c1d73a"
+      "question_hash": "a775778e73c1d73a",
+      "base_text": null
     },
     {
       "question_number": 68,
@@ -1296,7 +1363,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3691ad707ed7ece4"
+      "question_hash": "3691ad707ed7ece4",
+      "base_text": null
     },
     {
       "question_number": 69,
@@ -1315,7 +1383,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c3b80e701cbcbd82"
+      "question_hash": "c3b80e701cbcbd82",
+      "base_text": null
     },
     {
       "question_number": 70,
@@ -1334,7 +1403,8 @@
       "image_path": null,
       "page_number": 15,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a16e93dbb3f58570"
+      "question_hash": "a16e93dbb3f58570",
+      "base_text": null
     },
     {
       "question_number": 71,
@@ -1353,7 +1423,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2c69384bf56e5296"
+      "question_hash": "2c69384bf56e5296",
+      "base_text": null
     },
     {
       "question_number": 72,
@@ -1372,7 +1443,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990916ccae8da151"
+      "question_hash": "990916ccae8da151",
+      "base_text": null
     },
     {
       "question_number": 73,
@@ -1391,7 +1463,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c7b77e04852da9c3"
+      "question_hash": "c7b77e04852da9c3",
+      "base_text": null
     },
     {
       "question_number": 74,
@@ -1410,7 +1483,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8506425af6b6b754"
+      "question_hash": "8506425af6b6b754",
+      "base_text": null
     },
     {
       "question_number": 75,
@@ -1429,7 +1503,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "463513498904790b"
+      "question_hash": "463513498904790b",
+      "base_text": null
     },
     {
       "question_number": 76,
@@ -1448,7 +1523,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "121a2b9927dba71e"
+      "question_hash": "121a2b9927dba71e",
+      "base_text": null
     },
     {
       "question_number": 77,
@@ -1467,7 +1543,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8417d8fcf110bd05"
+      "question_hash": "8417d8fcf110bd05",
+      "base_text": null
     },
     {
       "question_number": 78,
@@ -1486,7 +1563,8 @@
       "image_path": null,
       "page_number": 16,
       "module": "Conhecimentos Básicos",
-      "question_hash": "70f50e4002262843"
+      "question_hash": "70f50e4002262843",
+      "base_text": null
     },
     {
       "question_number": 79,
@@ -1505,7 +1583,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Básicos",
-      "question_hash": "14886f76e24310f7"
+      "question_hash": "14886f76e24310f7",
+      "base_text": null
     },
     {
       "question_number": 80,
@@ -1524,7 +1603,8 @@
       "image_path": null,
       "page_number": 17,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c0a4ce379f18bc8b"
+      "question_hash": "c0a4ce379f18bc8b",
+      "base_text": null
     }
   ],
   "year": 2025,

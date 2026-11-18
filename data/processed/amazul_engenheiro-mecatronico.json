@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um engenheiro mecatrônico precisa projetar um eixo para um manipulador robótico. Este eixo, circular e sólido, deverá transmitir 900 W enquanto gira a 60 rpm (rev/min). A tensão de cisalhamento admissível é de 100 MPa. Assinale a opção que apresenta o menor diâmetro admissível para esse eixo. Considere π = 3.",
       "alternatives": {
         "A": "10 mm",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9652c8a6453d11a6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9652c8a6453d11a6",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O ciclo Otto é amplamente utilizado em motores de combustão interna. Assinale a opção que descreve corretamente as características desse ciclo.",
       "alternatives": {
         "A": "É composto por dois processos isobáricos e dois processos isentrópicos.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8afed03d1b1492c3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8afed03d1b1492c3",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A programação orientada a objetos é um paradigma de programação que organiza o código em torno de objetos, em vez de funções e lógica. Ela busca modelar entidades e situações do mundo real. Assinale a opção que apresenta corretamente o termo utilizado para descrever uma estrutura que define o comportamento geral que toda uma categoria de objetos pode ter.",
       "alternatives": {
         "A": "Polimorfismo",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2aa771e9e0f8fb09"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2aa771e9e0f8fb09",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma barra de aço, com módulo de elasticidade E igual a 200 GPa, com seção quadrada de lado igual a 40 mm e comprimento igual a 1 m, é submetida a uma força axial de 160 kN. O alongamento total da barra é",
       "alternatives": {
         "A": "0,5 mm",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7641e1234dab0832"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7641e1234dab0832",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Na área da Robótica, a cinemática direta consiste na mudança da representação da posição do manipulador de uma descrição no espaço de juntas para uma descrição no espaço cartesiano. Na figura a seguir é mostrado um manipulador robótico planar do tipo RR. Considerando que os elos móveis possuem comprimentos iguais a 1 m, obtenha a cinemática direta, ou seja, a posição do efetuador, ponto P, em coordenadas cartesianas para o instante mostrado na figura.",
       "alternatives": {
         "A": "((3)1/2 m, 1 m)",
@@ -668,12 +702,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q35.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bd60768ffe6d721d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bd60768ffe6d721d",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A massa específica de um fluido é uma propriedade física importante na Mecânica dos Fluidos. Sobre essa grandeza, é correto afirmar que",
       "alternatives": {
         "A": "definida como a razão entre o peso do fluido e o volume ocupado, sendo expressa em N/m3.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4999e8878cabf8a7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4999e8878cabf8a7",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um engenheiro mecatrônico precisa projetar um manipulador robótico do tipo paralelo, ou seja, de cadeia cinemática fechada, de dois graus de liberdade. Assinale a opção que apresenta o número de atuadores que são necessários para movimentar esse robô de modo previsível e controlado.",
       "alternatives": {
         "A": "5 atuadores.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6eb9b1ae0ee257b4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6eb9b1ae0ee257b4",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Para o mecanismo mostrado na figura a seguir, o disco, de raio 0,3 m, gira sem deslizamento com o solo. Considere que o elo de entrada, elo 2, está girando com uma velocidade constante de 10 rad/s no sentido horário. Para a posição mostrada na figura, determine a velocidade do centro do disco.",
       "alternatives": {
         "A": "1 m/s",
@@ -725,12 +762,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q38.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ed1beb72e32696e7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ed1beb72e32696e7",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um engenheiro mecatrônico precisa especificar uma caixa de redução de engrenagens para o sistema de locomoção de um robô móvel. Esse trem de engrenagens deverá ter uma razão de velocidades de -0,05. Considerando-se que a maior razão de transmissão admissível para um par de engrenagens é de 10:1, assinale a opção que se mostra mais viável.",
       "alternatives": {
         "A": "Um trem de engrenagens simples com 3 engrenagens.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "12489aff2504d7b7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "12489aff2504d7b7",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "No estudo de Vibrações Mecânicas, o fator de ampliação dinâmica, ou coeficiente de amplitude, é um importante parâmetro para se analisar a severidade da vibração do sistema para diferentes frequências de excitação. Na figura a seguir, é mostrado o gráfico do fator de ampliação pela razão entre a frequência de excitação e a frequência natural de um sistema com fator de amortecimento igual a 0,05. Ao se analisar esse gráfico, é correto concluir que",
       "alternatives": {
         "A": "quando ocorre a ressonância, a massa do sistema aumenta em 10 vezes.",
@@ -763,12 +802,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q40.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "83beed9dadbbbaad"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "83beed9dadbbbaad",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Considere o modelo de um motor CC com excitação independente: Analise os itens a seguir: I. A constante 𝐾𝑐𝑒 relaciona a velocidade de rotação com a força contra-eletromotriz. II. O aumento do atrito viscoso 𝐵𝑚 reduz a velocidade de regime de armadura. III. O torque eletromagnético é diretamente proporcional à corrente de armadura. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -782,12 +822,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q41.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1694aaf48584de55"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1694aaf48584de55",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um motor de indução trifásico de 4 polos alimentado por um inversor opera com frequência de 40 Hz. O escorregamento em regime é 3%. A velocidade aproximada do rotor é",
       "alternatives": {
         "A": "1170 rpm.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3138d1cb1e5f95a1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3138d1cb1e5f95a1",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A dinâmica aproximada de uma junta de robô é descrita por: 𝐽𝜃̈(𝑡) + 𝐵𝜃̇(𝑡) + 𝐾𝜃(𝑡) = 𝑇(𝑡) com os parâmetros numéricos: 𝐽= 2 𝑘𝑔𝑚2, 𝐵= 4 𝑁𝑚𝑠/𝑟𝑎𝑑, 𝐾= 18 𝑁𝑚/𝑟𝑎𝑑 Assinale a opção correta. 𝑟𝑎𝑑 1",
       "alternatives": {
         "A": "𝜔𝑛= 3 𝑠, 𝜁= 2 𝑟𝑎𝑑 1",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "69e4c6f42e3ba61b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "69e4c6f42e3ba61b",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Considere o sistema de controle em malha fechada a seguir. É correto afirmar que o sistema",
       "alternatives": {
         "A": "é estável para 𝐾> 0.",
@@ -839,12 +882,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q44.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6cbcb7194ca26b48"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6cbcb7194ca26b48",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Considere o diagrama Ladder abaixo com entradas digitais X1, X2, X3 e saídas digitais 𝑌1, 𝑌2, 𝑌3 Analise os itens a seguir: I. Se 𝑋1 = 1 e 𝑋3 = 0, então a saída 𝑌3 será acionada independentemente do valor de 𝑋2. II. Se 𝑋2 = 1, a saída 𝑌1 estará necessariamente desligada. III. A saída 𝑌2 só pode ser acionada se pelo menos uma das saídas 𝑌1 ou 𝑌3 estiver acionada. IV. A saída 𝑌3 só será acionada se a saída 𝑌2 também estiver acionada. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -858,12 +902,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q45.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f168fb7d28a6d9b4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f168fb7d28a6d9b4",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Considere duas engrenagens simples sem perdas, que estão diretamente engrenadas uma na outra. A engrenagem motora possui 𝑁1dentes e a engrenagem movida possui 𝑁2 dentes. A relação entre suas velocidades angulares 𝜔1e 𝜔2 é dada por",
       "alternatives": {
         "A": "𝜔1 = 𝜔2, pois a transmissão ideal não altera velocidades. 𝑁2 𝑁1. com inversão de sentido de rotação.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f5081e77421892e7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f5081e77421892e7",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Dado um escoamento de água a 20 ℃ em um tubo horizontal de diâmetro 𝐷= 5 cm e comprimento 𝐿= 20 m, sabe-se que o número de Reynolds no regime é Re = 4000, que o fator de atrito no diagrama de Moody para esse caso é aproximadamente f = 0,04 e que a velocidade média do fluido é 3 𝑚/𝑠. Considerando que a aceleração da gravidade é 𝑔≈10 𝑚/𝑠2 , calcule a perda de carga ℎ𝑓 aproximada.",
       "alternatives": {
         "A": "ℎ𝑓= 4 m.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a5a7170ab20b3c38"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a5a7170ab20b3c38",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Considere a tabela verdade do sistema lógico S(A, B, C, D): A expressão booleana minimizada para 𝑆 é",
       "alternatives": {
         "A": "𝑆= 𝐴̅𝐶+ 𝐵̅𝐷+ 𝐴̅𝐷.",
@@ -915,12 +962,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q48.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "adde47ae9ae43e64"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "adde47ae9ae43e64",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A respeito do funcionamento de um transistor MOSFET de canal N, analise os itens a seguir: I. Para que o MOSFET entre em condução, a tensão 𝑉𝐺𝑆 deve ser maior que a tensão de limiar 𝑉𝑡ℎ. II. Na região ôhmica, o MOSFET se comporta aproximadamente como um resistor controlado por tensão. III. Para aumentar a corrente de dreno, necessariamente é preciso aumentar 𝑉𝐷𝑆. Está correto o que se apresenta em",
       "alternatives": {
         "A": "I, apenas.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ad8c4691bcc6dcb2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ad8c4691bcc6dcb2",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Considere o circuito composto a seguir. Assumindo o amplificador operacional ideal, a função de transferência é 1+𝑅2 𝑅1 1+𝑗𝜔𝑅3𝐶1 com frequência de corte 𝑓𝑐= 𝑉𝑜𝑢𝑡 𝑉𝑖𝑛= 2𝜋𝑅3𝐶1.",
       "alternatives": {
         "A": "1 𝑉𝑜𝑢𝑡 𝑅2 𝑅1) 𝑗𝜔𝑅3𝐶1 1+𝑗𝜔𝑅3𝐶1, com frequência de corte 𝑓𝑐= 𝑉𝑖𝑛= (1 +",
@@ -950,15 +999,16 @@
       },
       "answer": "A",
       "annulled": false,
-      "has_image": false,
-      "image_path": null,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q50.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a252fad6e987b3fe"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a252fad6e987b3fe",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Considere o diagrama de circuito lógico abaixo: A expressão lógica simplificada da saída Y, em função das entradas A, B e C, é igual a",
       "alternatives": {
         "A": "𝐴̅(𝐵+ 𝐶).",
@@ -972,12 +1022,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q51.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "214126289c7c74c1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "214126289c7c74c1",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Sobre contadores digitais implementados por meio de flip flops, é correto afirmar que",
       "alternatives": {
         "A": "consistem em circuitos lógicos combinacionais, montados a partir de portas lógicas do tipo AND, OR e NOT.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3db3df9d5ba2429e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3db3df9d5ba2429e",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Sobre inversores monofásicos de ponte completa, assinale a opção incorreta.",
       "alternatives": {
         "A": "São usados para converter de corrente contínua para corrente alternada.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e9c6ac171b8bf9c8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e9c6ac171b8bf9c8",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O circuito a seguir foi montado para realização de uma medição diferencial: Caso o sinal de entrada Vi variar entre -9V e 9V com um valor médio nulo, os valores da medição de saída Vo irão variar entre",
       "alternatives": {
         "A": "-4,5V e 4,5V.",
@@ -1029,12 +1082,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q54.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1847b3cb9554f4af"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1847b3cb9554f4af",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma planta industrial tem seu comportamento dinâmico representado pela seguinte função de transferência: 𝐺(𝑠) = 9 𝑠2 + 2𝑠+ 9 Sobre a resposta dessa planta a uma entrada em degrau, é correto afirmar que a planta apresentará uma",
       "alternatives": {
         "A": "saída subamortecida.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5c866b8e950396a4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5c866b8e950396a4",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A figura a seguir mostra um diagrama de controle em malha fechada, onde G(s) corresponde a uma planta que se deseja controlar por meio do controlador H(s). Sendo assim, a função de transferência em malha fechada é 𝑠+1",
       "alternatives": {
         "A": "𝑠2+6𝑠+5 𝑠2+6𝑠+5",
@@ -1064,15 +1119,16 @@
       },
       "answer": "B",
       "annulled": false,
-      "has_image": false,
-      "image_path": null,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_engenheiro-mecatronico_q56.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "026222a53a56519f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "026222a53a56519f",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um motor de indução trifásico de 10 polos opera em condições nominais quando alimentado por uma fonte de tensão em corrente alternada de 60 Hz. Nessas condições, o motor apresenta uma velocidade mecânica de 684 rpm. Sendo assim, assinale a opção que apresenta o escorregamento deste motor.",
       "alternatives": {
         "A": "0,01",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "200bf69a8536483f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "200bf69a8536483f",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Sobre motores de corrente contínua, assinale a opção correta.",
       "alternatives": {
         "A": "Podem operar também como gerador em corrente contínua, convertendo energia mecânica em energia elétrica.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "dba07eeeee01a670"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dba07eeeee01a670",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Sobre controle de velocidade em motores de indução, analise os itens a seguir: I. Tanto o controle escalar quanto o controle vetorial não podem ser implementados por meio de inversores de frequência; II. O controle escalar consiste em variar a amplitude de tensão de alimentação do motor em proporção com a frequência de alimentação, permitindo o controle do motor em uma ampla faixa de velocidades; III. O controle escalar é o método mais antigo de controle de velocidade de motores de indução, não sendo utilizado atualmente por ser considerado ineficiente; IV. O soft-starter é um equipamento capaz de mitigar as altas correntes de partida dos motores de indução, não sendo empregado para o controle de velocidade continuamente. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3a0725d4a2cfd2ef"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3a0725d4a2cfd2ef",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Considere a função de transferência abaixo, que representa um determinado sistema dinâmico: (𝑠+ 1)(𝑠−5) (𝑠+ 10)(𝑠−1)(𝑠+ 7) 𝑇(𝑠) = Sobre a estabilidade deste sistema, é correto afirmar que se trata de um sistema",
       "alternatives": {
         "A": "instável, por possuir um zero no semiplano direito.",
         "B": "estável, por possuir polos e zeros no semiplano esquerdo.",
         "C": "instável, por possuir ao menos um polo no semiplano direito.",
         "D": "estável, por possuir polos no semiplano esquerdo.",
-        "E": "instável, por possuir todos os seus polos no semiplano direito. Redação"
+        "E": "instável, por possuir todos os seus polos no semiplano direito."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "08a4e65023074048"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "08a4e65023074048",
+      "base_text": null
     }
   ],
   "year": 2024,

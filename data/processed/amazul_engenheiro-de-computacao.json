@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-de-computacao_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma equipe de desenvolvimento está iniciando um novo projeto de software para um cliente que ainda não tem clareza sobre todos os requisitos do sistema. O cliente deseja entregas frequentes de funcionalidades para validar se o produto atende às suas necessidades. Nesse cenário, a metodologia de desenvolvimento mais adequada é",
       "alternatives": {
         "A": "modelo cascata, pois permite um planejamento detalhado antes do início da codificação.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9836681b187cf670"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9836681b187cf670",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante a fase de análise de requisitos de um sistema de gestão hospitalar, a equipe identificou a necessidade de representar os diferentes tipos de usuários e suas interações com o sistema. Assinale a opção que apresenta o diagrama UML mais apropriado para representar essas interações funcionais entre atores externos e o sistema.",
       "alternatives": {
         "A": "Diagrama de Classes, que representa a estrutura estática do sistema.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a17c38d8a938016c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a17c38d8a938016c",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um processador utiliza uma hierarquia de memória para otimizar o acesso aos dados. Considere que a CPU solicita um dado que não está na memória cache L1. Assinale a opção que apresenta corretamente a sequência de busca que o sistema realiza até encontrar o dado.",
       "alternatives": {
         "A": "Memória principal → Cache L2 → Cache L3 → Disco rígido.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c3950ed2b9b5c66a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c3950ed2b9b5c66a",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma rede corporativa, um administrador precisa segmentar o tráfego entre departamentos para aumentar a segurança e reduzir domínios de broadcast. Os equipamentos disponíveis são switches gerenciáveis. Assinale a opção que apresenta corretamente a tecnologia que deve ser implementada para atingir esse objetivo, sem a necessidade de separação física das redes.",
       "alternatives": {
         "A": "NAT (Network Address Translation), que traduz endereços IP privados para públicos.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "02ea65fe093f7c8b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "02ea65fe093f7c8b",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um analista de banco de dados identificou que uma tabela de pedidos contém redundância de dados, pois o nome e endereço do cliente são repetidos em cada registro de pedido. Para eliminar essa redundância e garantir que cada informação seja armazenada em apenas um lugar, a forma normal que deve ser aplicada como primeiro passo é a",
       "alternatives": {
         "A": "Primeira Forma Normal (1FN), eliminando grupos repetitivos e garantindo atomicidade.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ce9b331195a067df"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ce9b331195a067df",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um administrador de sistemas Linux precisa verificar quais processos estão consumindo mais recursos de CPU no momento. O comando que exibe, em tempo real, os processos ordenados por consumo de CPU, permitindo também finalizar processos diretamente pela interface é",
       "alternatives": {
         "A": "ps aux",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4b548b4b562a1ec2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4b548b4b562a1ec2",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em programação orientada a objetos, um desenvolvedor precisa garantir que apenas uma instância de uma classe de conexão com banco de dados seja criada durante toda a execução da aplicação, evitando múltiplas conexões desnecessárias. O padrão de projeto que resolve esse problema é o",
       "alternatives": {
         "A": "Factory Method.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "50665f79c2b5235b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "50665f79c2b5235b",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa precisa implementar um mecanismo de criptografia para proteger a comunicação entre seus servidores e clientes web. O requisito é que a chave de criptografia possa ser compartilhada publicamente sem comprometer a segurança da comunicação. O tipo de criptografia que atende a esse requisito é a",
       "alternatives": {
         "A": "criptografia assimétrica.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "80f85a8eb4a3e160"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "80f85a8eb4a3e160",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em Redes de Computadores, o modelo OSI possui 7 camadas. A camada que é responsável pelo roteamento de pacotes entre redes distintas, utilizando endereçamento lógico (como o IP) é chamada camada",
       "alternatives": {
         "A": "de Transporte",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "31016e38b9d6f2c6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "31016e38b9d6f2c6",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No contexto de Segurança da Informação, o princípio que visa garantir que a informação não seja alterada ou destruída de forma não autorizada, assegurando sua exatidão e completude denomina-se",
       "alternatives": {
         "A": "confidencialidade.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fa03681c6d00186f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fa03681c6d00186f",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de controle de temperatura de um forno industrial, o controlador compara a temperatura desejada (setpoint) com a temperatura atual medida pelo sensor e ajusta a potência do aquecedor. No cenário, foi descrito o sistema de controle",
       "alternatives": {
         "A": "em malha aberta, sem realimentação.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f93eae6df2d4ffd2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f93eae6df2d4ffd2",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O serviço de rede que é responsável por traduzir nomes de domínio amigáveis (como www.amazul.gov.br) para endereços IP numéricos que os computadores utilizam para se comunicar denomina-se",
       "alternatives": {
         "A": "DHCP.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "14e4e961aba6183a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "14e4e961aba6183a",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma equipe de desenvolvimento identificou que o código de um módulo de autenticação está sendo duplicado em vários pontos do sistema, dificultando a manutenção. A equipe decide refatorar o código aplicando um padrão que centralize a criação de objetos de autenticação, permitindo que subclasses decidam qual tipo específico de autenticador instanciar (OAuth, LDAP, ou local). O padrão de projeto que atende a essa necessidade é chamado",
       "alternatives": {
         "A": "Abstract Factory.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ae23a65d9e6cb1d1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ae23a65d9e6cb1d1",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante a modelagem de um sistema de e-commerce, foi identificado que um Pedido pode estar em diferentes estados (Criado, Pago, Em Separação, Enviado, Entregue, Cancelado) e que as transições entre estados seguem regras específicas de negócio. O diagrama UML mais adequado para modelar essas transições de estado e as condições que as disparam é o diagrama",
       "alternatives": {
         "A": "de Atividades",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "436f0b6b169a8b29"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "436f0b6b169a8b29",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sistema embarcado utiliza memória cache com política de escrita write-through. Durante a execução, o processador realiza uma operação de escrita em um endereço presente na cache. Assinale a opção que apresenta corretamente o comportamento do sistema nessa situação.",
       "alternatives": {
         "A": "O dado é escrito apenas na cache, e a memória principal é atualizada posteriormente quando a linha é substituída.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c5f2193dc2d077df"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c5f2193dc2d077df",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um administrador de rede está analisando um problema de conectividade e executa o comando 'traceroute' para um servidor remoto. O resultado mostra que os pacotes chegam até o roteador de borda da rede destino, mas não alcançam o servidor final. Considerando o modelo TCP/IP, provavelmente o problema está na camada",
       "alternatives": {
         "A": "de Aplicação, pois o serviço no servidor pode estar indisponível.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7f770c6d59c28c87"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7f770c6d59c28c87",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de Data Warehouse, a equipe de BI precisa criar um modelo dimensional para análise de vendas por produto, região e tempo. Considerando a modelagem multidimensional, assinale a opção que apresenta corretamente a estrutura que é mais adequada para organizar os dados, de forma que permita análises OLAP eficientes com agregações em diferentes níveis de granularidade.",
       "alternatives": {
         "A": "Modelo relacional normalizado em 3FN com tabelas de junção",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "245ca6e3b8f3b731"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "245ca6e3b8f3b731",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um servidor Linux está apresentando lentidão e o administrador suspeita de excesso de processos em estado de espera por I/O. Ao executar o comando 'vmstat 1', ele observa valores altos na coluna 'wa'. Assinale a opção que apresenta o que essa métrica indica e que mostra a ação que é mais adequada.",
       "alternatives": {
         "A": "Alto tempo de espera por I/O; deve-se investigar gargalos no subsistema de disco",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8b6fa863447f3e0b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8b6fa863447f3e0b",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um desenvolvedor precisa implementar um algoritmo de busca em uma estrutura de dados que armazena 1 milhão de registros ordenados. O requisito é encontrar um registro específico com o menor número de comparações possível. O algoritmo e a complexidade de tempo mais adequados são",
       "alternatives": {
         "A": "busca linear com complexidade O(n)",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "36d1afb0c947db59"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "36d1afb0c947db59",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma aplicação web permite que usuários façam login usando credenciais armazenadas em banco de dados. Um teste de segurança identificou que a aplicação é vulnerável a SQL Injection no campo de senha. A técnica de mitigação mais efetiva para corrigir essa vulnerabilidade é",
       "alternatives": {
         "A": "implementar validação de entrada apenas no lado cliente usando JavaScript.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "facf6e85e5833b63"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "facf6e85e5833b63",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma organização está implementando o framework COBIT 2019 e precisa definir os objetivos de governança de TI alinhados com os objetivos estratégicos do negócio. Segundo o COBIT, o mecanismo utilizado para desdobrar os objetivos estratégicos do negócio em objetivos de TI é",
       "alternatives": {
         "A": "Processos de TI, que definem as atividades operacionais",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "57d487fdfe7fe68a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "57d487fdfe7fe68a",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um projetista precisa implementar um circuito combinacional que converta um código BCD (Binary Coded Decimal) de 4 bits em um código de 7 segmentos para display. Para otimizar o circuito, ele decide usar o mapa de Karnaugh para cada segmento. A principal vantagem dessa técnica em relação à implementação direta pela tabela verdade é que",
       "alternatives": {
         "A": "permite identificar condições 'don't care' e eliminá-las do projeto.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "98d544b197e5dfde"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "98d544b197e5dfde",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um circuito sequencial síncrono é projetado utilizando Flip-Flops tipo J-K. Se as entradas J e K forem ambas mantidas em nível lógico ‘1’ (High), na próxima borda de clock, a saída Q",
       "alternatives": {
         "A": "manterá o estado anterior (Latch).",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4f535a5cd9066361"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4f535a5cd9066361",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa está migrando sua arquitetura monolítica para microsserviços. Durante a análise, identificou-se que vários serviços precisam acessar dados de clientes, atualmente centralizados em um único banco de dados. Considerando os princípios de arquitetura de microsserviços e o teorema CAP, a abordagem mais adequada para garantir autonomia dos serviços, sem comprometer a consistência dos dados críticos de clientes é",
       "alternatives": {
         "A": "manter o banco de dados compartilhado entre todos os serviços para garantir consistência forte.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7ff027460252af8f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ff027460252af8f",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um processador superescalar com pipeline de 5 estágios executa instruções fora de ordem (out-of-order execution). Durante a execução, uma instrução de divisão (latência de 20 ciclos) é seguida por três instruções de soma que não dependem do resultado da divisão. Considerando que o processador possui unidades funcionais separadas para divisão e soma, e um buffer de reordenação (ROB), o comportamento esperado do pipeline é que",
       "alternatives": {
         "A": "todas as instruções aguardam a conclusão da divisão antes de iniciar execução.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fde2042bcc5bdb2c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fde2042bcc5bdb2c",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa implementou QoS (Quality of Service) em sua rede para priorizar tráfego de videoconferência. O administrador configurou DSCP (Differentiated Services Code Point) nos pacotes de vídeo com valor EF (Expedited Forwarding). Após a implementação, usuários em uma filial remota reportam degradação na qualidade do vídeo durante horários de pico, apesar dos roteadores intermediários estarem configurados corretamente. Assinale a opção que apresenta a causa mais provável do problema.",
       "alternatives": {
         "A": "O valor DSCP está incorreto; deveria usar AF (Assured Forwarding) em vez de EF",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4c30616a33e43165"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4c30616a33e43165",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de banco de dados distribuído com replicação, duas transações concorrentes T1 e T2 executam em réplicas diferentes. T1 lê o saldo de uma conta (R$ 1000), subtrai R$ 200 e grava o novo saldo (R$ 800). Simultaneamente, T2 lê o mesmo saldo original (R$ 1000), subtrai R$ 300 e grava o novo saldo (R$ 700). Ambas as transações são confirmadas com sucesso em suas réplicas locais. A anomalia de concorrência que ocorreu e a técnica poderia preveni-la são, respectivamente,",
       "alternatives": {
         "A": "Dirty read; uso de isolamento READ COMMITTED",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bc8a0458114911d0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bc8a0458114911d0",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um engenheiro precisa projetar um circuito combinacional com 4 variáveis de entrada (A, B, C, D) que implementa a seguinte função booleana, onde os termos são mintermos: F(A,B,C,D) = Σm(0, 2, 5, 7, 8, 10, 13, 15) Além disso, as combinações correspondentes aos mintermos 1, 3, 9 e 11 são condições \"don't care\" (podem ser 0 ou 1). Após a minimização pelo mapa de Karnaugh, utilizando as condições \"don't care\" para obter a expressão mais simplificada possível, a expressão booleana mínima em soma de produtos (SOP) é dada por",
       "alternatives": {
         "A": "F = B'D' + BD",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9dd703355dce3b15"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9dd703355dce3b15",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere o seguinte esquema de banco de dados de uma loja virtual: CLIENTE(cliente_id, nome, email, cidade, estado) PEDIDO(pedido_id, cliente_id, data_pedido, valor_total, status) ITEM_PEDIDO(pedido_id, produto_id, quantidade, preco_unitario) PRODUTO(produto_id, nome, categoria, estoque) O gerente de vendas precisa de um relatório que mostre o nome de cada cliente e o valor total de todos os seus pedidos com status 'ENTREGUE', exibindo apenas os clientes que gastaram mais de R$ 1.000,00 no total. O resultado deve ser ordenado do maior para o menor valor gasto. Assinale a opção que apresenta corretamente a consulta SQL que atende corretamente a esse requisito.",
       "alternatives": {
         "A": "SELECT c.nome, SUM(p.valor_total) AS total_gasto FROM CLIENTE c JOIN PEDIDO p ON c.cliente_id = p.cliente_id WHERE p.status = 'ENTREGUE' GROUP BY c.cliente_id, c.nome HAVING SUM(p.valor_total) > 1000 ORDER BY total_gasto DESC",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8d63400c6379f932"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8d63400c6379f932",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um desenvolvedor está otimizando um algoritmo recursivo de Fibonacci e observa que para n=45 o tempo de execução é inaceitável. A análise mostra que a função é chamada repetidamente com os mesmos argumentos. A técnica de otimização mais adequada para reduzir drasticamente o tempo de execução, sem alterar a natureza recursiva do algoritmo é",
       "alternatives": {
         "A": "Memoization",
         "B": "Tail recursion optimization",
         "C": "Loop unrolling",
         "D": "Branch prediction",
-        "E": "SIMD vectorization Redação"
+        "E": "SIMD vectorization"
       },
       "answer": "A",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7ca106b742494248"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ca106b742494248",
+      "base_text": null
     }
   ],
   "year": 2024,

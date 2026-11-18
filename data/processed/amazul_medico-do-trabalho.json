@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_medico-do-trabalho_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A falsificação de bebidas alcoólicas com metanol é uma prática ilegal e extremamente perigosa que pode causar cegueira irreversível, danos neurológicos graves e até a morte, mesmo em pequenas quantidades. O metanol (álcool metílico) é um produto químico industrial tóxico, frequentemente confundido com o etanol (álcool etílico) presente nas bebidas, pois ambos são incolores e têm cheiro e sabor semelhantes. Trata-se de crime, segundo o Código Penal, artigo 272: \"Corromper, adulterar, falsificar ou alterar substância ou produto alimentício destinado a consumo, tornando-a nociva à saúde ou reduzindo-lhe o valor nutritivo\". A pena prevista para essa infração é de reclusão de",
       "alternatives": {
         "A": "6 a 12 meses ou multa.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "11c68671b3d3b01c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "11c68671b3d3b01c",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A Política Nacional de Saúde do Trabalhador e da Trabalhadora tem como finalidade definir os princípios, as diretrizes e as estratégias a serem observados pelas três esferas de gestão do Sistema Único de Saúde (SUS), para o desenvolvimento da atenção integral à saúde do trabalhador, com ênfase na vigilância, visando a promoção e a proteção da saúde dos trabalhadores e a redução da morbimortalidade decorrente dos modelos de desenvolvimento e dos processos produtivos. Para fins de implementação da Política Nacional de Saúde do Trabalhador e da Trabalhadora, dever-se-á considerar a articulação entre: I. as ações individuais, de assistência e de recuperação dos agravos, com ações coletivas, de promoção, de prevenção, de vigilância dos ambientes, processos e atividades de trabalho, e de intervenção sobre os fatores determinantes da saúde dos trabalhadores; II. as ações de planejamento e avaliação com as práticas de saúde; III. o conhecimento técnico e os saberes, experiências e subjetividade dos trabalhadores e destes com as respectivas práticas institucionais. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "53123cdcfcfbad13"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "53123cdcfcfbad13",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "LER/Dort são agravos relacionados ao trabalho decorrentes da utilização excessiva, imposta ao sistema musculoesquelético, sem que haja tempo para sua recuperação fisiológica, e constituem um problema de saúde com alta prevalência, sendo motivo frequente de busca de assistência nos serviços de saúde, com implicações nos campos do trabalho, emprego e seguridade social, em decorrência da incapacidade laboral temporária ou permanente gerada. As opções apresentam ocupações e/ou atividades que apresentam risco aumentado para desenvolvimento de LER/Dort, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Teleatendentes",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "983b147851ced67f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "983b147851ced67f",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Quanto à natureza, os efeitos biológicos das radiações podem ser classificados em reações teciduais, anteriormente chamadas de efeitos determinísticos, e efeitos estocásticos, que são probabilísticos. As reações teciduais se tornam observáveis quando grande número de células de um órgão ou tecido morrem, sendo efeitos somáticos, isto é, efeitos que afetam a pessoa irradiada, ao passo que os efeitos estocásticos podem ser somáticos, como no caso de indução de câncer, e hereditários, quando o dano é repassado aos descendentes. Assinale a opção que apresenta corretamente os efeitos biológicos da radiação.",
       "alternatives": {
         "A": "Resposta adaptativa, que é o aumento na sensibilidade das células à radiação ionizante, protegendo-as contra seus efeitos danosos, se elas forem submetidas à irradiação teste com dose baixa poucas horas antes da irradiação com dose alta.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b18e7ae2184f0c62"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b18e7ae2184f0c62",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Para incorporar um agravo ou doença à lista de notificação compulsória, é necessário considerar alguns aspectos, a exemplo de características que possam apresentar riscos à saúde pública: potencial para surto ou epidemia; doença ou agravo de causa desconhecida; alteração no padrão clínico-epidemiológico das doenças conhecidas; considerando o potencial de disseminação, a magnitude, a gravidade, a severidade, a transcendência e a vulnerabilidade na população. Assinale a opção que representa uma doença de notificação compulsória com obrigação de notificação imediata (até 24h).",
       "alternatives": {
         "A": "Câncer relacionado ao trabalho",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8ea156beec33dd03"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8ea156beec33dd03",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Sobre as Unidades Hospitalares de Atendimento às Urgências e Emergências Tipo I, II e III, devem contar com profissionais mínimos indispensáveis, presentes no hospital para atendimento de urgência /emergência nas suas áreas de atuação profissional. As opções a seguir apresentam profissionais listados como indispensáveis nas Unidades Hospitalares de Atendimento às Urgências e Emergências, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Médico clínico geral.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "43376f4f78800316"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "43376f4f78800316",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A NR 17 é a Norma Regulamentadora que estabelece diretrizes sobre ergonomia no ambiente de trabalho, visando adaptar as condições de trabalho às características psicofisiológicas dos trabalhadores para garantir conforto, segurança e desempenho eficiente. A norma abrange aspectos como mobiliário, organização do trabalho, iluminação, ruído, temperatura, esforços repetitivos e prevenção de lesões como LER/DORT. Conforme o ANEXO II da NR 17 TRABALHO EM TELEATENDIMENTO/TELEMARKETING, no item 6 - Organização do Trabalho, é correto afirmar que",
       "alternatives": {
         "A": "é dever da organização exigir a observância estrita do script ou roteiro de atendimento.",
@@ -706,12 +742,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_medico-do-trabalho_q37.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "226d03fa68dca807"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "226d03fa68dca807",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A RN nº 465 tem como objetivo atualizar o Rol de Procedimentos e Eventos em Saúde, que define a cobertura assistencial obrigató ria a ser garantida nos planos privados de assistência à saúde. Ess a atualização é válida para planos contratados a partir de 1º de ja neiro de 1999 e para aqueles que foram adaptados conforme a le gislação vigente. Conforme o Art. 5º da RNM 465, a atenção à saúde, na saúde suplementar, deverá observar alguns princípios. Avalie os princípios listados a seguir: I. uso da epidemiologia para monitoramento da qualidade das ações e gestão em saúde. II. adoção de medidas que evitem a estigmatização e incentivem a institucionalização dos portadores de transtornos mentais, visando ao aumento de sua autonomia. III. incorporação de ações de promoção da saúde e prevenção de riscos e doenças, bem como de estímulo ao parto normal. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a826297f92fb7fa2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a826297f92fb7fa2",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Conforme as Diretrizes de Utilização para Cobertura de Procedimentos na Saúde Suplementar, assinale a opção que apresenta corretamente a medicação indicada para tratamento antineoplásico oral do câncer de mama.",
       "alternatives": {
         "A": "Anastrozol",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b58b67bdd9340475"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b58b67bdd9340475",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A Lei nº 11.105/2005 estabelece normas de segurança e mecanismos de fiscalização sobre a construção, o cultivo, a produção, a manipulação, o transporte, a transferência, a importação, a exportação, o armazenamento, a pesquisa, a comercialização, o consumo, a liberação no meio ambiente e o descarte de organismos geneticamente modificados (OGM) e seus derivados, tendo como diretrizes o estímulo ao avanço científico na área de biossegurança e biotecnologia, a proteção à vida e à saúde humana, animal e vegetal, e a observância do princípio da precaução para a proteção do meio ambiente. Conforme a Lei nº 11.105/2005, é",
       "alternatives": {
         "A": "permitida, para fins de pesquisa e terapia, a utilização de células-tronco embrionárias obtidas de embriões humanos produzidos por fertilização in vitro e não utilizados no respectivo procedimento, desde que não haja ciência dos genitores.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a02146e9b1f91c3b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a02146e9b1f91c3b",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Quanto à exposição ocupacional ao agente calor, conforme o Anexo III da NR-9, assinale a opção incorreta.",
       "alternatives": {
         "A": "preventivamente, sempre que os níveis de ação para exposição ocupacional ao calor, estabelecidos no Quadro 1 forem excedidos, deve-se programar os trabalhos mais pesados (acima de 414W - quatrocentos e quatorze watts), preferencialmente nos períodos com condições térmicas mais amenas, mesmo que nesses períodos ocorram riscos adicionais.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4f33302e34fc4a70"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4f33302e34fc4a70",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "O Programa de Conservação Auditiva (PCA), também denominado Programa de Prevenção de Perdas Auditivas (PPPA), corresponde a um conjunto de atividades que visam prevenir ou estabilizar as perdas auditivas ocupacionais por meio de um processo de melhoria contínua que requer conhecimento multidisciplinar, e se desenvolve por meio de atividades planejadas e coordenadas entre diversas áreas da empresa. Assinale a opção que apresenta corretamente os ditames do PCA.",
       "alternatives": {
         "A": "A participação dos trabalhadores e dos demais profissionais envolvidos na implantação e na execução das diversas etapas do PCA são essenciais para o tratamento das perdas auditivas.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "629de4456b344bd5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "629de4456b344bd5",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Deve ser realizada a avaliação da exposição dos trabalhadores a fontes de risco que possam contribuir para a ocorrência de perdas auditivas, tais como: ruído, agentes ototóxicos e vibração. Segundo a NR 9, essa avaliação deve incluir o reconhecimento dos ambientes e das condições de trabalho, as atividades realizadas, as situações de rotina e específicas, a identificação, a quantificação e a classificação das exposições com relação ao ruído. Se houver a presença de substâncias químicas com evidências de ototoxicidade estas devem ser identificadas e a exposição dos trabalhadores quantificada conforme previsto na NR 9 (Anexo A). Assinale a opção que apresenta corretamente o medicamento considerado ototóxico e potencialmente causador de perda auditiva.",
       "alternatives": {
         "A": "atenolol",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9609861cf6ffd00c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9609861cf6ffd00c",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Paciente masculino de 30 anos deu entrada no PS com quadro de intoxicação exógena por inseticida, apresentando quadro de sialorreia, sudorese, vômitos, diarreia, bradicardia, miose, broncorreia, sibilos, incontinência urinária, fasciculações, mioclonias, taquicardia, hiperglicemia, fraqueza muscular, insuficiência respiratória, agitação seguida de sonolência. Assinale a opção que apresenta corretamente a medicação que é a primeira opção de antídoto para o caso.",
       "alternatives": {
         "A": "Atropina",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "56006fc8ab025a13"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "56006fc8ab025a13",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A injeção intravesical de toxina botulínica é um tratamento eficaz para condições como a bexiga hiperativa e a cistite intersticial. O procedimento envolve a aplicação de toxina botulínica diretamente na parede da bexiga, relaxando os músculos e reduzindo a urgência miccional, o que melhora significativamente a qualidade de vida dos pacientes. Conforme as Diretrizes de Utilização da ANS, assinale a opção que representa um critério de exclusão para a injeção intravesical de toxina botulínica.",
       "alternatives": {
         "A": "Bexiga hiperativa há pelo menos 6 meses com incontinência urinária de urgência.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b4db87022273aa6f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b4db87022273aa6f",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A ulceração do septo nasal pode resultar da ação local de aerossóis irritantes, produtores de um processo inflamatório crônico, que pode ser acompanhado por secreção sanguinolenta, ardência e dor nas fossas nasais ou, mais frequentemente, cursar de forma assintomática. Pode evoluir para a perfuração do septo. Frequentemente é um achado ocasional ao exame clínico e rinoscópico. A ulceração e a perfuração de septo nasal, de origem ocupacional, têm sido descritas em trabalhadores expostos aos agentes patogênicos listados nas opções, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "ácido cianídrico",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "40e3341b28954624"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "40e3341b28954624",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Os principais sinais e sintomas desta intoxicação são: rubor facial, euforia, alterações da fala, alterações na coordenação motora, podendo evoluir para: tontura, ataxia e incoordenação motora mais acentuada, passando para confusão, desorientação e atingindo graus variáveis de anestesia, entre eles: estupor e coma. Assinale a opção que apresenta corretamente o agente causador da intoxicação acima descrita.",
       "alternatives": {
         "A": "anabolizante",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "27ef54bdb648de5d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "27ef54bdb648de5d",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A ceratose palmar e plantar é caracterizada pelo desenvolvimento de múltiplas ceratoses pontuais, semelhantes a calos, simetricamente distribuídas nas palmas das mãos e nas plantas dos pés, que pode ser de origem ocupacional. Assinale a opção que representa a principal substância relacionada à ceratose palmar e plantar de origem ocupacional.",
       "alternatives": {
         "A": "arsênio",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "837924f3d8f4da68"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "837924f3d8f4da68",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A gestão adequada dos níveis de pressão sonora no ambiente de trabalho é crucial para a saúde auditiva dos trabalhadores. A implementação de medidas preventivas e a realização de exames regulares são essenciais para evitar danos auditivos permanentes e garantir um ambiente de trabalho seguro. Assinale a opção que apresenta uma doença associada à exposição ocupacional a níveis elevados de pressão sonora, independentemente da perda auditiva.",
       "alternatives": {
         "A": "Infertilidade masculina",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "37ae0abace3e48ad"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "37ae0abace3e48ad",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A exposição ocupacional a agentes químicos é um tema crítico na saúde e segurança no trabalho. A NR- 9 estabelece diretrizes para a avaliação e controle das exposições ocupacionais a agentes químicos, físicos e biológicos. As medidas de prevenção incluem a identificação e controle dos riscos, a utilização de EPIs, a extração de ar localizada e a gestão do tempo de exposição. A exposição ocupacional ao cobalto pode levar a efeitos adversos à saúde, como asma brônquica e fibrose pulmonar. Assinale a opção que representa corretamente uma doença não respiratória associada a exposição ao cobalto.",
       "alternatives": {
         "A": "hepatite tóxica aguda",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b910318a2f6c23b2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b910318a2f6c23b2",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "O calendário nacional de vacinação contempla, na rotina dos serviços, 19 vacinas que protegem o indivíduo em todos os ciclos de vida, desde o nascimento. O PNI (Programa Nacional de Imunizações) é responsável por coordenar as campanhas anuais de vacinação. Essas campanhas têm como objetivo alcançar altas coberturas vacinais, garantindo a proteção individual e coletiva contra diversas doenças. Assinale a opção que apresenta corretamente uma vacina que deve ser administrada ao adulto (25–29 anos) em duas doses, na ausência de comprovação de imunidade natural ou vacinal, para trabalhadores da saúde.",
       "alternatives": {
         "A": "hepatite B",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5e740afb9fed8eee"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5e740afb9fed8eee",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Trabalhador de 22 anos, vítima de acidente de trabalho, ao acender forno, sofreu queimaduras na porção anterior dos membros inferiores, região genital e porção anterior do tronco. Assinale a opção que determina corretamente a superfície corporal acometida pela queimadura.",
       "alternatives": {
         "A": "19%",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4f6d293554140e37"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4f6d293554140e37",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Os indivíduos que apresentem sintomas gripais, inicialmente, devem ser acompanhados pela atenção primária. O uso de antiviral deve ser iniciado em, no máximo, 48 horas, a partir da data de início dos sintomas. Os pacientes com fatores de risco apresentam indicação para tratamento medicamentoso, a critério médico. Em relação aos fatores de risco para o agravamento do caso, analise os itens a seguir: I. Indivíduos menores de 19 anos em uso prolongado de ácido acetil salicílico. II. Extremos de idade: pacientes com idade abaixo de 5 anos ou acima de 55 anos. III. População indígena. Configura grupo de risco para o agravamento do caso o que figura em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "190e0c8ada24dd60"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "190e0c8ada24dd60",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A dor de ouvido (ou otalgia) está entre as queixas mais comuns nos atendimentos de demanda espontânea na atenção primária. A otalgia pode ser de origem primária, na orelha externa ou média, ou secundária, causada por problemas em pontos distantes do ouvido (dor referida ou reflexa). As opções a seguir representam fatores de risco para diagnóstico de pior prognóstico em pacientes com otalgia, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Retração da membrana timpânica superior",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "99ee34767ee27f00"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "99ee34767ee27f00",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A definição de dor abdominal aguda é bastante arbitrária, já que não está estabelecida uma duração específica para ela. Quadros que duram poucos dias, com piora recente, configuram claramente uma dor abdominal aguda; quadros com instalação por meses ou anos configuram dor abdominal crônica. Analise o caso: Paciente do sexo feminino de 25 anos deu entrada para atendimento com quadro de dor pélvica há 4 dias, dispareunia, irregularidade menstrual, ao exame com dor à mobilização cervical e à palpação dos anexos e febre. Assinale a opção que representa o diagnóstico mais provável.",
       "alternatives": {
         "A": "Pielonefrite",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2b5f443aa0bafd95"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2b5f443aa0bafd95",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Hipotireoidismo é a síndrome clínica provocada pela redução, na circulação, do hormônio tireoidiano (HT) ou, mais raramente, por resistência periférica à sua ação. Os sintomas geralmente se desenvolvem lentamente e podem ser confundidos com outras condições, como estresse ou depressão. Eles resultam da lentificação geral das funções corporais e incluem: bradicardia, cansaço, ganho de peso, queda de cabelo, pele ressecada, sensibilidade ao frio. A forma primária do hipotireoidismo corresponde a mais de 90% dos casos. A associação com o trabalho tem sido descrita em trabalhadores expostos a certas substâncias químicas. Assinale a opção que apresenta uma substância causadora de hipotireoidismo de origem ocupacional.",
       "alternatives": {
         "A": "mercúrio",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a6a36d8ea94f05eb"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a6a36d8ea94f05eb",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Conforme a CONVENÇÃO Nº 98 DA OIT RELATIVA À APLICAÇÃO DOS PRINCÍPIOS DO DIREITO DE ORGANIZAÇÃO E DE NEGOCIAÇÃO COLETIVA, analise os itens a seguir: I. Os trabalhadores deverão gozar de proteção adequada contra quaisquer atos atentatórios à liberdade sindical em matéria de emprego. II. As organizações de trabalhadores e de empregadores deverão gozar de proteção adequada contra quaisquer atos de ingerência de umas e outras, quer diretamente quer por meio de seus agentes ou membros, em sua formação, funcionamento e administração. III. Fica proibido qualquer desconto dos salários cuja finalidade seja assegurar pagamento direto ou indireto do trabalhador ao empregador, a representante deste ou a qualquer intermediário (tal como um agente encarregado de recrutar a mão de obra), com o fim de obter ou conservar um emprego. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III, apenas.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "08308b48c1327a5c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "08308b48c1327a5c",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A Norma Regulamentadora 4 (NR-4) foi criada para prevenir alguns dos grandes problemas enfrentados pelas empresas: os acidentes de trabalho e o afastamento de funcionários em função de doenças ocupacionais, estabelecendo os parâmetros e os requisitos para constituição e manutenção dos Serviços Especializados em Segurança e Medicina do Trabalho - SESMT, com a finalidade de promover a saúde e proteger a integridade do trabalhador. Conforme os ditames da NR-4, analise os itens a seguir: I. A atividade econômica preponderante é aquela que ocupa o maior número de trabalhadores. Em atividades econômicas distintas com o mesmo número de trabalhadores, deve ser considerada como preponderante aquela com menor grau de risco. II. Compete aos SESMT elaborar plano de trabalho e monitorar metas, indicadores e resultados de segurança e saúde no trabalho III. Os trabalhadores assistidos pelo SESMT compartilhado integram a base de cálculo para dimensionamento de outras modalidades de SESMT. É correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0f3ab3b9b0b4c404"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0f3ab3b9b0b4c404",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "A Convenção 161 da OIT, adotada em 1985, estabelece diretrizes para a criação de serviços de saúde no trabalho, visando a proteção da saúde física e mental dos trabalhadores. A Convenção nº 161 foi aprovada durante a 71ª Conferência Internacional do Trabalho, realizada em Genebra, em 1985. Ela entrou em vigor internacionalmente em 17 de fevereiro de 1988 e foi ratificada pelo Brasil em 18 de maio de 1990, com promulgação em 22 de maio de 1991. Conforme o Artigo 5 da Convenção 161: “Sem prejuízo da responsabilidade de cada empregador a respeito da saúde e da segurança dos trabalhadores que emprega, e tendo na devida conta a necessidade de participação dos trabalhadores em matéria de segurança e saúde no trabalho, os serviços de saúde no trabalho devem assegurar as funções, dentre as seguintes, que sejam adequadas e ajustadas aos riscos da empresa com relação à saúde no trabalho:” Analise os itens a seguir: I. colaborar na difusão da informação, na formação e na educação nas áreas da saúde e da higiene no trabalho, bem como na da ergonomia. II. participar da elaboração de programa de melhoria das práticas de trabalho, bem como dos testes e da avaliação de novos equipamentos no que concerne aos aspectos da saúde. III. promover a adaptação dos trabalhadores ao trabalho. Constitui função dos serviços de saúde no trabalho, nos termos da Convenção nº 161 da OIT, o que figura em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ddb4a462fdc49146"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ddb4a462fdc49146",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Medicina",
       "statement": "Conforme as Diretrizes de Utilização para Cobertura de Procedimentos na Saúde Suplementar, assinale a opção que representa corretamente a cobertura obrigatória para teste ergométrico realizado em pacientes assintomáticos, com finalidade de screening.",
       "alternatives": {
         "A": "paciente de médio risco pelo escore de Framingham.",
         "B": "avaliação de mulheres com mais de 45 anos ou homens com mais de 40 anos candidatos a programas de exercício.",
         "C": "pré-operatório de cirurgias cardíacas em pacientes com risco intermediário a alto pelo escore de Framingham.",
         "D": "adultos com arritmias atriais que apresentam uma probabilidade intermediária ou alta de doença coronariana pelos critérios de Diamond e Forrester.",
-        "E": "avaliação de indivíduos com ocupações especiais responsáveis pela vida de outros como pilotos, motoristas de coletivos ou embarcações ou similares. Redação"
+        "E": "avaliação de indivíduos com ocupações especiais responsáveis pela vida de outros como pilotos, motoristas de coletivos ou embarcações ou similares."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8dcf45b1606c88d9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8dcf45b1606c88d9",
+      "base_text": null
     }
   ],
   "year": 2024,

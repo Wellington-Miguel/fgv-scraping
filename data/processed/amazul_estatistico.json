@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_estatistico_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "A tabela a seguir apresenta as notas (em pontos) dos alunos das turmas A, B, C e D. Cada turma possui quatro alunos, identificados como Aluno 1, Aluno 2, Aluno 3 e Aluno 4. Analise os itens a seguir: I. A média das notas é igual na Turma A e na Turma B. II. A mediana das notas na Turma B é maior que a mediana das notas na Turma C. III. A Turma D é a que apresenta o menor desvio-padrão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -592,12 +622,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_estatistico_q31.png",
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0eb6aba654d382ce"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0eb6aba654d382ce",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Analise a tabela de distribuição de frequências a seguir que representa a altura de uma amostra de estudantes e o número de estudantes em cada faixa. O valor da média dos dados apresentados no quadro é",
       "alternatives": {
         "A": "4,746",
@@ -611,12 +642,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_estatistico_q32.png",
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7aa12a76a492aee8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7aa12a76a492aee8",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Considere um experimento aleatório qualquer e dois resultados possíveis, denominados Evento A e Evento B, onde P(A) é a probabilidade de o evento A ocorrer e P(B) é a probabilidade de o evento B ocorrer. É correto afirmar que",
       "alternatives": {
         "A": "P(A|B)=P(A∪B)/P(B)=P(A).P(B|A)/P(B)",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bbfe3920c943eeef"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bbfe3920c943eeef",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Um analista, ao avaliar os custos diários de produção de uma empresa de autopeças, constatou que a distribuição dos dados apresentava assimetria moderada. A amostra foi composta por 50 dias de produção. Os analistas de qualidade calcularam que o custo médio diário é de R$ 4.250,00 e que o custo mediano é de R$ 4.000,00. Segundo a relação empírica de Pearson para assimetria, o valor aproximado do custo modal (Mo) e o tipo de assimetria da distribuição são:",
       "alternatives": {
         "A": "R$3.200,00; assimetria positiva.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c9e3ec9b5e759d9f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c9e3ec9b5e759d9f",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Uma empresa de navegação marítima está avaliando o desempenho de sua frota comercial. Para isso, foram coletadas informações de 120 viagens realizadas no último trimestre. Para cada viagem, os analistas registraram: 1. Tipo de embarcação utilizada: cargueiro leve, cargueiro médio, cargueiro pesado 2. Tempo total de viagem (em horas) 3. Classificação do estado do mar no momento da partida: calmo, moderado, agitado 4. Consumo total de combustível (em litros) 5. Código do porto de destino (ex.: 01 = Santos, 02 = Rio de Janeiro, 03 = Itajaí etc.) Com base nas definições de tipos de variáveis e níveis de mensuração, assinale a opção que apresenta corretamente a classificação de cada variável, respectivamente.",
       "alternatives": {
         "A": "qualitativa ordinal, quantitativa intervalo, qualitativa nominal, quantitativa razão, quantitativa nominal.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f3dfbeb626ab1a17"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f3dfbeb626ab1a17",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "A amostra a seguir representa o número de livros lidos por 15 estudantes e está organizada na tabela de distribuição de frequências: A variância amostral (𝑠2) é obtida calculando-se a média dos quadrados dos desvios de cada valor em relação à média amostral. A variância amostral (𝑠2) do número de livros lidos é",
       "alternatives": {
         "A": "0,894",
@@ -687,12 +722,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_estatistico_q36.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "854f7c77efe9373d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "854f7c77efe9373d",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Em uma estação de monitoramento, certos eventos aleatórios são registrados ao longo do dia. Sabe-se que esses registros seguem um processo de Poisson, ocorrendo em média 6 vezes por dia. Considere que um desses eventos acabou de ser observado. Seja 𝑋 o intervalo de tempo que levará até que o próximo registro aconteça. Assinale a opção que apresenta corretamente a distribuição de probabilidade associada à variável 𝑋.",
       "alternatives": {
         "A": "exponencial, com parâmetro 0.6",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a296e9d453519265"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a296e9d453519265",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Sejam X e Y variáveis aleatórias independentes, com distribuições X~N(8, 4) e Y~N(6, 4). Então, a diferença (X – Y) segue uma distribuição normal cuja média e variância são, respectivamente,",
       "alternatives": {
         "A": "2 e 8",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "14c92509870bc792"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "14c92509870bc792",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Considere as seguintes proposições a respeito das vantagens e da adequação do uso da amostragem por conglomerados: I. Essa técnica tende a reduzir o custo por unidade entrevistada, sobretudo em pesquisas realizadas em áreas extensas, nas quais a dispersão geográfica dos indivíduos elevaria consideravelmente o gasto com deslocamento e logística. II. O delineamento amostral torna-se mais simples, já que, na etapa inicial de seleção, não é necessário possuir um cadastro completo de todos os elementos da população; é suficiente dispor de uma listagem atualizada apenas dos conglomerados. III. A eficiência estatística pode ser maior (com variâncias menores) quando os membros de um mesmo conglomerado apresentam elevada semelhança em relação à variável de interesse, aumentando a homogeneidade interna do grupo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0e2239ec60402cbc"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0e2239ec60402cbc",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "A respeito da técnica de amostragem estratificada, analise os itens a seguir: I. A utilização da amostragem estratificada tem como objetivo elevar a precisão das estimativas e possibilita obter resultados tanto para o conjunto total da população quanto para cada estrato individualmente. II. A precisão tende a aumentar quando os elementos de um mesmo estrato apresentam alta similaridade entre si, ou seja, quando os estratos são internamente homogêneos. III. A amostragem estratificada não garante, em todos os casos, estimativas mais precisas do que as obtidas por amostragem aleatória simples. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c7fc3ecb112e3f94"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c7fc3ecb112e3f94",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "O tempo de operação (em anos) de três navios de uma frota foi registrado como 3, 6 e 9. Suponha que a variável aleatória 𝑋, representando o tempo de vida útil de um navio, siga uma distribuição Exponencial com parâmetro 𝜆, ou seja, 𝑋∼Exp(𝜆). Determine o estimador de máxima verossimilhança (EMV) para o parâmetro 𝜆. 1",
       "alternatives": {
         "A": "𝜆̂EMV = 3 1",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fd3267acd2c0d591"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fd3267acd2c0d591",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Os pressupostos do modelo de regressão linear simples influenciam diretamente as propriedades dos estimadores obtidos por Mínimos Quadrados Ordinários (MQO), Melhor Estimador Linear Não Tendencioso (BLUE) e Máxima Verossimilhança (MV). Nesse cenário, é correto afirmar que",
       "alternatives": {
         "A": "a construção dos estimadores BLUE e MV depende diretamente dos pressupostos do modelo, enquanto os estimadores MQO não.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ba31890c8160829b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ba31890c8160829b",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Um estudo clínico visa determinar a eficácia de uma intervenção dietética. Para cada sujeito da pesquisa, o peso corporal foi registrado antes do início da dieta e após um período determinado de sua aplicação. Considerando que as duas amostras de peso (inicial e final) são coletadas dos mesmos indivíduos, assinale a opção que apresenta o teste de hipótese mais adequado para avaliar se houve uma diferença estatisticamente significativa na média de peso.",
       "alternatives": {
         "A": "Teste para a diferença entre duas médias, assumindo que as amostras são independentes.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4a6a990a260a723f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4a6a990a260a723f",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Uma empresa de energia deseja prever a demanda mensal de eletricidade para os próximos 12 meses, a fim de planejar sua capacidade de produção. Os analistas observam que: A série histórica de consumo dos últimos 10 anos apresenta tendência crescente, associada ao aumento populacional e industrial da região. Há um comportamento sazonal bem-marcado, com picos nos meses de verão devido ao uso de ar-condicionado. A série também sofre impactos abruptos em anos específicos, como crises hídricas ou campanhas governamentais de redução de consumo. O gestor está em dúvida sobre qual modelo utilizar para obter um ajuste adequado e garantir uma análise cuidadosa dos erros de previsão. Considerando as características da série e os métodos apropriados para lidar com tendência, sazonalidade e intervenções, assinale a opção que apresenta corretamente o modelo mais adequado para analisar a série e produzir previsões confiáveis.",
       "alternatives": {
         "A": "Utilizar um modelo de suavização exponencial simples, adequado para séries localmente constantes, ignorando tendência e sazonalidade.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1d5ccaaa558dd6b8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1d5ccaaa558dd6b8",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Seja X uma variável aleatória cuja função densidade de probabilidade é dada por fy(y) = {𝜃𝑒−𝜃𝑦, 𝑦 ≥0 , 𝜃> 0 0, nos demais casos Determine a função geradora de momentos (FGM) de 𝑌. 1",
       "alternatives": {
         "A": "𝑀𝑌(𝑡) = 𝜃−𝑡 , 𝑡< 𝜃. 𝜃",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e1a182d87fe77a18"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e1a182d87fe77a18",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "O recém-nascido Henrique foi avaliado ao nascer, e seu peso era de 3.475 gramas. Em uma maternidade de referência, o peso de recém-nascidos segue uma Distribuição Normal com média (𝜇) de 3.600 gramas e desvio-padrão (𝜎) de 300 gramas. Assinale a opção que apresenta corretamente a probabilidade de um recém-nascido ter um peso entre a média e o peso de Henrique, P(3.475 < X < 3.600). Considere as seguintes informações da distribuição normal padrão: 𝑃(𝑍< 0) = 0,500 e 𝑃(𝑍< −0,42) = 0,338.",
       "alternatives": {
         "A": "0,162",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7ab5d1e16477cea9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ab5d1e16477cea9",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Em relação aos problemas listados que podem ser identificados por meio da análise dos resíduos em um modelo de regressão linear simples, analise os itens a seguir: I. Normalidade dos erros (resíduos). II. Heterocedasticidade (variância não-constante dos erros). III. Correlação entre os erros, especialmente em séries temporais. IV. Presença de outliers. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d338b7ecbdf4cb6f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d338b7ecbdf4cb6f",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Uma variável aleatória discreta X tem função de probabilidade dada por: O valor absoluto da diferença entre a média e a mediana de X é igual a:",
       "alternatives": {
         "A": "0,100",
@@ -915,12 +962,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_estatistico_q48.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2568e5251b7ad603"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2568e5251b7ad603",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "A figura a seguir ilustra duas urnas com bolas pretas e brancas. Um dado honesto e comum (faces de 1 até 6) será lançado. Se o número obtido no lançamento for par, uma bola será escolhida aleatoriamente da Urna 1. Caso o número seja ímpar, a bola será sorteada, também ao acaso, da Urna 2. Nesse cenário, a probabilidade de que a bola obtida seja branca",
       "alternatives": {
         "A": "é maior que 40%.",
@@ -934,12 +982,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_estatistico_q49.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9c3a29f0078655ed"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9c3a29f0078655ed",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Na modelagem de séries temporais financeiras e econômicas, o uso da metodologia ARIMA é fundamental. Analise as afirmações a seguir sobre a aplicação, capacidade e pressupostos desse modelo e assinale (V) para verdadeira e (F) para falsa. ( ) Ciclo de Construção: A metodologia Box-Jenkins para o desenvolvimento de um modelo ARIMA emprega um processo cíclico e adaptativo. A ordem correta das etapas desse processo é: especificação da estrutura, estimação dos parâmetros, identificação da necessidade de ajustes e, por fim, verificação do modelo final. ( ) Estacionariedade e Aplicação: A família de modelos ARIMA é estatisticamente robusta para modelar séries temporais que exibem estacionariedade (ARIMA(p, 0, q)) e aquelas que exibem não-estacionariedade (quando a diferenciação 𝑑≥1), contanto que o comportamento da série não seja exponencialmente crescente ou divergente. ( ) Pressupostos de Resíduos: O problema de heterocedasticidade (variância não constante) nos resíduos de um modelo ARIMA não compromete a qualidade das estimativas dos parâmetros (que permanecem não-viesados), portanto, não representa uma preocupação significativa na avaliação da acurácia das previsões. A sequência correta, de cima para baixo, é",
       "alternatives": {
         "A": "F – V – F.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "679550533782ac11"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "679550533782ac11",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Uma empresa marítima treinou seus marinheiros com um novo protocolo de segurança para evacuação em caso de emergência. Antes do treinamento, cada marinheiro foi avaliado quanto à sua capacidade de seguir corretamente o procedimento (classificado como \"Adequado\" ou \"Inadequado\"). Após o treinamento, os mesmos marinheiros foram avaliados novamente, usando as mesmas categorias. A empresa deseja saber se o novo protocolo aumentou significativamente a proporção de marinheiros que executam o procedimento de forma adequada. Considerando que os dados vêm dos mesmos indivíduos e são dicotômicos, assinale a opção que apresenta corretamente o teste estatístico que deve ser utilizado.",
       "alternatives": {
         "A": "Teste McNemar",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6166b7fb1cdf1b13"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6166b7fb1cdf1b13",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Considere três caixas, C1, C2 e C3, contendo diferentes tipos de doces. Um doce é escolhido ao acaso de uma caixa que também foi escolhida ao acaso. Verificou-se que o doce escolhido é de chocolate. Dados: Caixa C1: 5 doces de caramelo, 3 doces de frutas e 2 doces de chocolate. Caixa C2: 2 doces de caramelo, 1 doce de fruta e 7 doces de chocolate. Caixa C3: 4 doces de caramelo, 4 doces de fruta e 1 doce de chocolate. A probabilidade de o doce de chocolate ter vindo da C1 é",
       "alternatives": {
         "A": "0,198",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e4e5274f2dab8b79"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e4e5274f2dab8b79",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Considere X uma variável aleatória contínua cuja função densidade de probabilidade (f.d.p.) é definida por 𝑓(𝑥) = 1 20−15 , 15 < 𝑥< 20. Neste caso, os parâmetros inferior e superior são 𝛼= 15 𝑒 𝛽= 20. Com base na forma de 𝑓(𝑥), assinale a opção que apresenta, respectivamente, o nome da distribuição, valor da esperança matemática E[X], e o valor da variância Var[X]. 35",
       "alternatives": {
         "A": "Normal; 17,50; 12 25",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "07ad17802763bcc8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "07ad17802763bcc8",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Um determinado tipo de bateria é produzido por duas linhas de montagem, L₁ e L2. A linha L₁, possui uma capacidade de produzir quatro vezes mais baterias do que a linha L2. Sabe-se, através do controle de qualidade que 2% das baterias produzidas por L₁ são defeituosas e 5% das baterias produzidas por L2 são defeituosas. Todas as baterias das duas linhas são enviadas a um depósito central. Se uma bateria for retirada aleatoriamente desse depósito, a probabilidade de essa bateria ser defeituosa é",
       "alternatives": {
         "A": "0,016",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b6fcf28bb6c225f0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b6fcf28bb6c225f0",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Dois eventos X e Y têm as seguintes probabilidades: P(X) = 0,3; P(Y) = 0,7; P(XY] = 0,9. Qual a probabilidade de X ocorrer dado que Y ocorre?",
       "alternatives": {
         "A": "3/7",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "70633a8797863135"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "70633a8797863135",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Uma urna contém dez bolas idênticas, numeradas de 1 a 10. Três bolas são sorteadas ao acaso, com reposição, ou seja, cada bola pode ser escolhida novamente nos sorteios seguintes. Qual é a probabilidade de que a soma dos três números sorteados seja maior que 10?",
       "alternatives": {
         "A": "0,880",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "25b43ea31b55818f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "25b43ea31b55818f",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Suponha duas variáveis, X e Y, sendo X a Temperatura ambiente em graus Celsius (°C) e Y o consumo de energia elétrica de um aparelho em kWh. Considerando que existe uma relação linear entre essas variáveis e utilizando a tabela de dados, determine a equação da reta de mínimos quadrados (𝑌̂ = 𝑎+ 𝑏𝑋).",
       "alternatives": {
         "A": "𝑌̂ = + 2,352 + 1,324𝑋",
@@ -1086,12 +1142,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_estatistico_q57.png",
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bd66965bd16c332b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bd66965bd16c332b",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Extraiu-se uma amostra Z de uma população Normal, onde Z = {10, 12, 15, 9, 11, 13, 10, 12, 9, 14}. Determine o intervalo de confiança para a média, ao nível de confiança de 90%. Dados: 𝑧̅ = 11,5,𝑠2 = 4,17. Considere o valor crítico t0,05; 9 ~1,833.",
       "alternatives": {
         "A": "[9,392 ;11,745]",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6d1f2ddb293cc30d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6d1f2ddb293cc30d",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Considere o modelo de regressão linear múltipla 𝑦= 𝛽0 + 𝛽1𝑋1 + 𝛽2𝑋2 + 𝛽3𝑋3, ajustado a um conjunto de 15 observações. Sabe-se que os coeficientes de correlação linear entre as variáveis explicativas são: 𝑟12 = 0,75(correlação entre 𝑋1e 𝑋2), 𝑟13 = 0,60(correlação entre 𝑋1e 𝑋3), 𝑟23 = 0,70(correlação entre 𝑋2e 𝑋3). Assinale a opção que apresenta corretamente o coeficiente de correlação parcial entre 𝑋1e 𝑋2 mantendo 𝑿𝟑constante.",
       "alternatives": {
         "A": "0,333",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9487de0480bddd84"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9487de0480bddd84",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Estatística",
       "statement": "Deseja-se testar as hipóteses: H0: µ = 50, H1: µ > 50, O tamanho da amostra é n = 25, a variância é σ² = 100 e o nível de significância é 5%. Dado que o valor de µ = 53, quanto valerá o erro tipo II (β)? Obs.: O valor de Z crítico correspondente é: Z0,05 ≈ 1,645.",
       "alternatives": {
         "A": "0,290",
         "B": "0,442",
         "C": "0,854",
         "D": "0,558",
-        "E": "0,950 Redação"
+        "E": "0,950"
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d54408972201ebf4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d54408972201ebf4",
+      "base_text": null
     }
   ],
   "year": 2024,

@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-de-energia_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere o trecho reduzido da Nota Técnica NT-ONS DOP 0022/2025 - Critérios para Gestão de Excedentes Energéticos do Operador Nacional do Sistema Elétrico (ONS) e responda às próximas três questões “O Setor Elétrico Brasileiro (SEB) está vivenciando uma transformação significativa impulsionada pela crescente participação de fontes renováveis variáveis, especialmente eólica e solar, em sua matriz energética. Embora essa transição contribua para a descarbonização, ela também introduz desafios operacionais complexos, destacando-se o fenômeno do curtailment, que se refere à restrição forçada da geração de energia, quando a produção supera a capacidade de transmissão do sistema elétrico ou a necessidade de consumo demandado pela sociedade. A realidade do curtailment é observada também em outros países do mundo. No Brasil, o potencial de geração renovável eólica e fotovoltaica restrito em 2024 foi de 9,4%. Os estudos de planejamento da operação elétrica realizados pelo ONS têm como principal objetivo assegurar que a operação atual e futura do SIN seja realizada com níveis adequados de segurança e confiabilidade.” Assinale a opção que apresenta a principal condição que leva à ocorrência do curtailment no sistema elétrico, e que mostra o objetivo primário dos estudos de planejamento da operação realizados pelo ONS.",
       "alternatives": {
         "A": "A condição é a baixa demanda de consumo em determinados horários e o objetivo é otimizar o preço da energia junto à Câmara de Comercialização de Energia Elétrica (CCEE).",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c37213881d76b4e3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c37213881d76b4e3",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Dentro do Sistema Interligado Nacional (SIN), o fenômeno do curtailment é citado no texto como um desafio operacional complexo impulsionado pela crescente participação de fontes de energia diferentes. Considerando o contexto, analise os itens a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) A energia nuclear, embora não seja classificada como renovável, apresenta elevada densidade energética e baixa emissão direta de gases de efeito estufa, sendo considerada uma alternativa estratégica para reduzir a dependência de combustíveis fósseis. ( ) A geração hidrelétrica é uma fonte renovável de energia, mas pode ocasionar significativos impactos socioambientais, como a alteração do regime hidrológico, deslocamento populacional e emissões de metano provenientes da decomposição da matéria orgânica nos reservatórios. ( ) As usinas termelétricas a carvão mineral e óleo combustível são classificadas como de base e de alta eficiência, por apresentarem elevado rendimento térmico e baixo custo de implantação. ( ) Fontes eólica e solar, apesar de renováveis e limpas durante a operação, impõem desafios à estabilidade do sistema elétrico devido à intermitência e à necessidade de sistemas de armazenamento e controle avançado de despacho. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – V – F – V.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a4c14190808cb18d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a4c14190808cb18d",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre a situação em que o excedente de algumas fontes de energia renovável ocasiona desequilíbrio entre demanda e geração para o sistema elétrico é correto afirmar que",
       "alternatives": {
         "A": "basta inserir fontes renováveis de baixa inércia na matriz energética, pois o fato de serem sustentáveis garante automaticamente a estabilidade do sistema elétrico.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d12f9d8e85dcdc68"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d12f9d8e85dcdc68",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A gestão de sistemas energéticos na indústria envolve o planejamento, o monitoramento e o controle de diversos fluxos de energia — elétrica, térmica e mecânica — buscando eficiência e segurança operacional. No contexto da norma ISO 50001, assinale a opção correta.",
       "alternatives": {
         "A": "A gestão energética industrial limita-se à medição do consumo de eletricidade, sendo desnecessária a integração de dados de vapor, ar comprimido, refrigeração e calor residual.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "70ffb562ea9eb4f9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "70ffb562ea9eb4f9",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O hidrogênio e as baterias de grande capacidade são tecnologias centrais na transição energética, permitindo maior flexibilidade e segurança em sistemas com elevada penetração de fontes renováveis. Considerando as características e perspectivas dessas tecnologias, assinale a opção correta.",
       "alternatives": {
         "A": "O hidrogênio verde é produzido a partir de combustíveis fósseis e, portanto, apresenta alta emissão de carbono, sendo inadequado para aplicações em sistemas sustentáveis, enquanto as baterias são mais sustentáveis.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9d3ead9ada889c85"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9d3ead9ada889c85",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma termelétrica a vapor possui uma vazão mássica de 3 kg/s e a variação de entalpia específica quando o vapor entra na turbina e sai de 900 kJ/kg. Sabendo que a eficiência da turbina é de 85%, determine a potência mecânica no eixo da turbina.",
       "alternatives": {
         "A": "2,1 MW",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "157f2af97127ef81"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "157f2af97127ef81",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma usina nuclear recebe 600 MW de energia térmica proveniente do reator. O conjunto turbina–gerador apresenta eficiência térmica bruta de 38% e o sistema termelétrico consome 12 MW de potência em serviços auxiliares (bombas, sistemas de compressão e ventilação). Assinale a opção que apresenta corretamente a potência elétrica líquida (Pliq ) fornecida à rede e a eficiência térmica líquida do sistema (ηliq).",
       "alternatives": {
         "A": "Pliq=216 MW e ηliq=36,0%",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6030f83bba0da2b3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6030f83bba0da2b3",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre os conceitos de calor e trabalho em Termodinâmica, analise os itens a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) O calor é uma forma de transferência de energia que ocorre exclusivamente devido a uma diferença de temperatura entre o sistema e o meio externo. ( ) O trabalho é uma forma de energia transferida associada à ação de forças sobre um sistema, podendo ocorrer mesmo sem variação de temperatura. ( ) Tanto o calor quanto o trabalho são propriedades de estado, dependendo apenas da condição inicial e final do sistema. ( ) Em um processo cíclico, a variação da energia interna do sistema é nula, mas pode haver troca de calor e realização de trabalho. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – F – V – V.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5c231bac36c2f5d6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5c231bac36c2f5d6",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No contexto da matriz energética brasileira, a biomassa desempenha um papel crucial, sendo o bagaço de cana-de-açúcar a principal fonte utilizada para geração de eletricidade. Assinale a opção que apresenta corretamente a característica da biomassa, em comparação com fontes intermitentes como a eólica e a solar, que a torna particularmente valiosa para a segurança e a confiabilidade do Sistema Interligado Nacional (SIN).",
       "alternatives": {
         "A": "Sua alta densidade energética, que permite o transporte por longas distâncias com baixo custo.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "786b7344a20a05d1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "786b7344a20a05d1",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A energia geotérmica, que utiliza o calor interno da Terra, é uma fonte de energia renovável com potencial de expansão no Brasil. Apesar de ser uma fonte de base, seu desenvolvimento enfrenta desafios técnicos e econômicos. O principal desafio técnico e econômico para a exploração da energia geotérmica no Brasil é",
       "alternatives": {
         "A": "a intermitência da fonte, por ser renovável, exige sistemas de armazenamento térmico e químico de grande escala.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ea32cbfcb0e09274"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ea32cbfcb0e09274",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A política energética brasileira é marcada pela busca por uma matriz diversificada e renovável. Recentemente, o país tem avançado em leis estruturantes para a transição energética. Um dos principais desafios atuais da política energética brasileira, evidenciado pela expansão acelerada de fontes renováveis variáveis (eólica e solar) é a",
       "alternatives": {
         "A": "necessidade de desinvestimento em fontes hídricas para priorizar outras fontes não renováveis e emergenciais.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f52bdf97a3e2f2ba"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f52bdf97a3e2f2ba",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O Zoneamento Ambiental e a Avaliação de Impacto Ambiental (AIA) são ferramentas cruciais em projetos de infraestrutura energética, como a construção de linhas de transmissão ou usinas. O principal objetivo da AIA no processo de licenciamento ambiental de um empreendimento energético é",
       "alternatives": {
         "A": "por se tratar de empreendimentos fundamentais para sociedade, o objetivo é acelerar o processo de construção, dispensando a necessidade de audiências públicas.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "82ccf9c8215e59e5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "82ccf9c8215e59e5",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma máquina térmica opera seguindo um ciclo de Carnot ideal entre uma fonte quente a 527 °C e uma fonte fria a 27 °C. Se esta máquina absorve 1000 kJ de calor da fonte quente por ciclo, o trabalho líquido produzido pela máquina em cada ciclo é de",
       "alternatives": {
         "A": "850 kJ",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e6e2e4d7512364e0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e6e2e4d7512364e0",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em usinas termelétricas de ciclo combinado, os ciclos termodinâmicos Rankine e Brayton são acoplados para maximizar a eficiência. A principal diferença técnica entre os fluidos de trabalho e os componentes primários que permite o acoplamento eficiente é que o ciclo",
       "alternatives": {
         "A": "Rankine utiliza vapor d'água como fluido de trabalho com troca de fase (líquido-vapor), enquanto o ciclo Brayton utiliza um gás (geralmente ar) sem troca de fase.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f0150959388b2d77"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f0150959388b2d77",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O desastre nuclear de Fukushima Daiichi em 2011, desencadeado por um terremoto e tsunami, ilustra a importância da física nuclear e da segurança de reatores. Sobre os fundamentos teóricos dos princípios e eventos relacionados ao desastre, analise os itens a seguir: I. O desligamento automático (SCRAM) dos reatores ativos interrompeu a reação de fissão em cadeia, mas o calor residual (calor de decaimento) continuou a ser gerado devido à desintegração radioativa dos produtos de fissão. II. A falha no resfriamento do núcleo levou ao superaquecimento e à reação do vapor d'água com o zircônio (material das varetas de combustível), resultando na produção de gás hidrogênio, que causou as explosões. III. A radioatividade liberada no desastre é primariamente composta por partículas alfa e beta, que possuem alto poder de penetração e são a principal causa de contaminação à longa distância. IV. A estabilidade nuclear é mantida pela força nuclear forte, que supera a repulsão eletrostática entre os prótons no núcleo, sendo o urânio-235 um isótopo instável que requer moderação de nêutrons para fissão controlada. Está correto o que se afirma em",
       "alternatives": {
         "A": "IV, apenas.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b2a25b1a3f3c172e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b2a25b1a3f3c172e",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O planejamento energético em nível macro envolve a formulação de estratégias e políticas voltadas para o atendimento sustentável da demanda energética de um país ou região. O objetivo principal desse trabalho é",
       "alternatives": {
         "A": "prever cenários de consumo, definindo políticas públicas de forma a orientar investimentos em infraestrutura energética de médio e longo prazo.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a272fdbbc36ff56f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a272fdbbc36ff56f",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "As ações voltadas à contenção e ao uso racional da energia desempenham papel essencial nas políticas energéticas contemporâneas, sobretudo diante do aumento contínuo da demanda global e da necessidade de promover a sustentabilidade ambiental. No âmbito do planejamento energético e da eficiência na utilização dos recursos, é correto afirmar que",
       "alternatives": {
         "A": "o uso racional da energia envolve o aproveitamento máximo dos recursos energéticos disponíveis.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b7eef8a7d6c0ad59"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b7eef8a7d6c0ad59",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os sistemas de conversão de energia são responsáveis por transformar uma forma de energia em outra, permitindo seu aproveitamento eficiente em diferentes aplicações. Nesse contexto, analise os itens a seguir: I. Em células fotovoltaicas, a conversão ocorre pela emissão termoiônica de elétrons provocada pelo aquecimento de semicondutores sob radiação solar. II. Em sistemas de geração a biomassa, a conversão de energia térmica em elétrica, envolve uma etapa anterior de conversão química. III. Em sistemas termoelétricos, a conversão de energia térmica em elétrica ocorre por meio de ciclos de Carnot e Rankine combinados. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d70b4c138ff78fc2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d70b4c138ff78fc2",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre a relação mais precisa entre a redução de emissões atmosféricas nocivas e a política energética global, considerando o mecanismo de formação de poluentes secundários e a eficiência tecnológica, é correto afirmar que",
       "alternatives": {
         "A": "o aumento da eficiência energética em sistemas de aquecimento industrial, leva a uma redução linear e proporcional da emissão de material particulado fino.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ed5071049d665f01"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ed5071049d665f01",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os condutores e supercondutores apresentam comportamentos distintos em relação à condução elétrica, especialmente quando analisados em níveis microscópicos e sob condições extremas de temperatura. A esse respeito, é correto afirmar que",
       "alternatives": {
         "A": "nos supercondutores, a resistência elétrica é nula devido à eliminação completa das colisões entre elétrons e íons da rede cristalina.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3d548844932fd132"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3d548844932fd132",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O princípio da indução eletromagnética de Faraday é a base conceitual da geração de energia elétrica na maioria unidades geradoras. A esse respeito, é correto afirmar que",
       "alternatives": {
         "A": "o gerador de uma usina termoelétrica depende da Lei de Faraday para induzir tensão no estator.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "58d0a36f7dc6f91b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "58d0a36f7dc6f91b",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre um sistema de escoamento monofásico permanente de um fluido incompressível através de uma tubulação horizontal, é correto afirmar que",
       "alternatives": {
         "A": "no regime turbulento, a perda de carga é proporcional à velocidade média e ao número de Reynolds.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8f85d25edb3a6303"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8f85d25edb3a6303",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A transferência de calor por convecção pode ocorrer de forma natural ou forçada. Sobre este conceito, considere as afirmativas a seguir: I. Na convecção natural, o movimento do fluido ocorre devido às diferenças de densidade causadas por variações de temperatura. II. Na convecção forçada, o regime de escoamento e o coeficiente convectivo são fortemente influenciados pelo número de Reynolds. III. A convecção natural, para o mesmo fluido e diferença de temperatura, o coeficiente de transferência de calor por convecção é maior que na forçada. É correto o que se apresenta em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d68345a5143fc549"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d68345a5143fc549",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um gás ideal sofre um processo isotérmico a temperatura constante de 200 K e uma pressão inicial de 250 kPa. O gás ocupa um volume de 6,0 L e, ao final do processo, o volume é 4,0 L. O trabalho realizado pelo gás é",
       "alternatives": {
         "A": "1500 ln (6/4).",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "19448bd97a8513cd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "19448bd97a8513cd",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um cilindro contém um gás ideal a uma temperatura de 27 °C e ocupando um volume de 15 L sob uma pressão de 100 kPa. O gás é aquecido a uma temperatura de 177 °C, mantendo-se o volume constante. A nova pressão do gás é",
       "alternatives": {
         "A": "50 𝑘𝑃𝑎.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e5a7df535a012b08"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e5a7df535a012b08",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um cilindro contém um gás ideal que, inicialmente, é aquecido a volume constante, recebendo 500 J de calor do ambiente. Em seguida, o gás se expande isotermicamente, realizando um trabalho de 800 J sobre o pistão. Considerando ambos os processos, o calor total trocado pelo gás é igual a",
       "alternatives": {
         "A": "300 J.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "36145d903d1bbe57"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "36145d903d1bbe57",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre a aplicação da Segunda Lei da Termodinâmica, é correto afirmar que",
       "alternatives": {
         "A": "a Segunda Lei da Termodinâmica implica que em qualquer processo real, a variação de entropia de um sistema isolado é sempre positiva ou nula.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e2e0bf311da93292"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e2e0bf311da93292",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre as diferentes formas pelas quais a energia térmica pode ser transmitida entre sistemas ou dentro de um mesmo corpo, é correto afirmar que",
       "alternatives": {
         "A": "a convecção é o modo de transferência de calor que ocorre principalmente em sólidos metálicos.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5ce1c6b284ad35fd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5ce1c6b284ad35fd",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um ciclo motor a vapor, o fluido de trabalho passa por transformações termodinâmicas em diferentes componentes, com o objetivo de converter energia térmica em trabalho mecânico. Sobre este assunto, é correto afirmar que",
       "alternatives": {
         "A": "a turbina converte a energia térmica em trabalho mecânico útil, provocando uma redução de temperatura e pressão.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "647b1d470031ce97"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "647b1d470031ce97",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os trocadores de calor são equipamentos utilizados em sistemas térmicos para transferir energia entre dois fluidos a diferentes temperaturas, sem que haja mistura entre eles. Sobre seu funcionamento, é correto afirmar que",
       "alternatives": {
         "A": "o principal mecanismo de transferência de calor predominante na maioria das aplicações industriais é a radiação térmica.",
         "B": "nos trocadores de calor do tipo casco e tubo, os fluidos sempre escoam no mesmo sentido.",
         "C": "em um trocador de calor contracorrente, a diferença de temperatura entre os fluidos é constante ao longo do equipamento.",
         "D": "o desempenho de um trocador de calor independe das propriedades térmicas dos fluidos envolvidos.",
-        "E": "o trocador de calor promove a transferência de energia térmica por meio de mecanismos combinados de condução e convecção. Redação"
+        "E": "o trocador de calor promove a transferência de energia térmica por meio de mecanismos combinados de condução e convecção."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5ee4543d38934c12"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5ee4543d38934c12",
+      "base_text": null
     }
   ],
   "year": 2024,

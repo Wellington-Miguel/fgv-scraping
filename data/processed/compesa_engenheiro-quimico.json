@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para Companhia Pernambucana de Saneamento - COMPESA",
   "cargo_title": "Engenheiro Químico",
   "exam_type": "Tipo 1",
-  "total_questions": 68,
+  "total_questions": 70,
   "questions": [
     {
       "question_number": 1,
@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3d8862330458a6b3"
+      "question_hash": "3d8862330458a6b3",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a66ad2246ee1a3e4"
+      "question_hash": "a66ad2246ee1a3e4",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fc0154eb1d8d0746"
+      "question_hash": "fc0154eb1d8d0746",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c750bb5d70eaad11"
+      "question_hash": "c750bb5d70eaad11",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4ee0f3ac64682232"
+      "question_hash": "4ee0f3ac64682232",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f7fbae9fc9e2cb2c"
+      "question_hash": "f7fbae9fc9e2cb2c",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cf1a3e28e0582aa9"
+      "question_hash": "cf1a3e28e0582aa9",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "174f6c991e466fe0"
+      "question_hash": "174f6c991e466fe0",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8b6523ed1e4265c0"
+      "question_hash": "8b6523ed1e4265c0",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2affecf82f577a22"
+      "question_hash": "2affecf82f577a22",
+      "base_text": null
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q11.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b95d162b8c6f0567"
+      "question_hash": "b95d162b8c6f0567",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,7 +243,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9b8a8406c8404ca0"
+      "question_hash": "9b8a8406c8404ca0",
+      "base_text": null
     },
     {
       "question_number": 13,
@@ -251,7 +263,8 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q13.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "292c0db47d9037a3"
+      "question_hash": "292c0db47d9037a3",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -266,11 +279,12 @@
       },
       "answer": "B",
       "annulled": false,
-      "has_image": false,
-      "image_path": null,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa_engenheiro-quimico_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "38ef0bef1c861de1"
+      "question_hash": "38ef0bef1c861de1",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ff49bd2b3af4d567"
+      "question_hash": "ff49bd2b3af4d567",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q16.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fda8eb4a160e30fe"
+      "question_hash": "fda8eb4a160e30fe",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q17.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b644ff595ac8ea9b"
+      "question_hash": "b644ff595ac8ea9b",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q18.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "24356dd160a66e2d"
+      "question_hash": "24356dd160a66e2d",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,28 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f1dfe7b51a295d0a"
+      "question_hash": "f1dfe7b51a295d0a",
+      "base_text": null
+    },
+    {
+      "question_number": 20,
+      "discipline": "Informática",
+      "statement": "No Word 2010 BR, por default, um documento é configurado no modo , mas pode ser mudado para . Para isso, escolhe-se um desses modos em uma pequena janela que se abre quando se clica em um ícone, a partir da guia na barra de menus da Faixa de Opções. O ícone é:",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa_engenheiro-quimico_q20.png",
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cfc09b1252beab31",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -384,7 +423,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "447ea43e7ab440bc"
+      "question_hash": "447ea43e7ab440bc",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -403,7 +443,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "8d296cfec40887ae"
+      "question_hash": "8d296cfec40887ae",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -422,7 +463,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b4826640507caf23"
+      "question_hash": "b4826640507caf23",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -441,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "24315884ec731393"
+      "question_hash": "24315884ec731393",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -460,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "3fd508d21e716912"
+      "question_hash": "3fd508d21e716912",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -479,7 +523,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "575ddb7d9c9c5d0a"
+      "question_hash": "575ddb7d9c9c5d0a",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -498,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c149775587d93a9e"
+      "question_hash": "c149775587d93a9e",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -517,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6dc5db591d9d8b1b"
+      "question_hash": "6dc5db591d9d8b1b",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -536,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6a6f08f931119ce7"
+      "question_hash": "6a6f08f931119ce7",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -555,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ef3700f36bc82dc5"
+      "question_hash": "ef3700f36bc82dc5",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A análise da curva de solubilidade permite avaliar a influência da temperatura na formação de um precipitado a partir de uma solução. A solubilidade de um determinado sal em água está representada na curva a seguir. 800 gramas de uma solução saturada desse sal a 70°C foram resfriados até 30°C, ocorrendo, assim, a formação de precipitado. A massa de precipitado formada nessa operação é de",
       "alternatives": {
         "A": "100 g.",
@@ -574,11 +623,12 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q31.png",
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f6f7db387e97ad3f"
+      "question_hash": "f6f7db387e97ad3f",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma solução eletrolítica contém íons livres derivados de eletrólitos. Devido à existência de íons livres, a solução eletrolítica tem a capacidade de conduzir a corrente elétrica. Em 1L de uma solução aquosa estão contidos 0,01 mol de íons K+; 0,03 mol de íons C–; 0,01 mol de íons NO3 – e íons A3+. A concentração, em mol.L–1, dos íons A3+nessa solução é de",
       "alternatives": {
         "A": "0,01.",
@@ -593,11 +643,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "94e477674c20d650"
+      "question_hash": "94e477674c20d650",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O gás hidrogênio é uma substância utilizada para a produção de vários compostos. Atualmente se tem discutido a importância de seu uso como fonte de energia limpa. Entre os estudos está a reforma do gás natural, apresentada na equação a seguir CH4(g) + H2O(g)  CO(g) + 3H2(g) ΔH° = +206,10kJ Segundo o princípio de Le Châtelier, assinale a opção que indica as condições que favorecem a máxima conversão de metano e vapor d’água em produtos.",
       "alternatives": {
         "A": "Baixa temperatura e alta pressão.",
@@ -612,11 +663,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9bf0838586753239"
+      "question_hash": "9bf0838586753239",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Na temperatura de 25°C, o valor considerado para a constante do produto iônica da água (Kw) é 1 x 10–14. Em um recipiente apropriado foram misturados 10 mL de solução de NaOH de pH 10, com 1mL de outra solução de pH 13 da mesma base, a 25°C. O valor aproximado do pOH dessa mistura é",
       "alternatives": {
         "A": "12.",
@@ -631,11 +683,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "e4bb0fd79957535b"
+      "question_hash": "e4bb0fd79957535b",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No equilíbrio iônico de ácidos fracos, em solução aquosa, são encontradas moléculas do ácido não ionizadas, íons H3O+ e sua base conjugada. Considerando a constante de ionização ácida Ka e a constante de ionização da base conjugada Kb é correto afirmar que a relação entre essas duas constantes, a 25°C, é",
       "alternatives": {
         "A": "KaKb = 1",
@@ -650,11 +703,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "03aaccf5024e6cc6"
+      "question_hash": "03aaccf5024e6cc6",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "“O efeito do íon comum é a redução da solubilidade de um sal pouco solúvel por adição de um sal solúvel que tenha um íon em comum com ele.” (ATKINS, P.; JONES, L. Princípios de Química. 5ª Ed Bookman.2012 p.501) Considerando a constante do produto de solubilidade do iodeto de cobre (I) igual a 5,0 x 10–12, assinale a opção que apresenta a solubilidade aproximada desse sal em solução 0,5 mol.L–1 de iodeto de sódio.",
       "alternatives": {
         "A": "1 x 10–11 mol.L–1.",
@@ -669,11 +723,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f3854d3b7fa46462"
+      "question_hash": "f3854d3b7fa46462",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "“O filtro biológico é constituído de um leito que pode ser de pedras, ripas ou material sintético. O efluente é lançado sobre este por meio de braços rotativos e percola através das pedras (ou outro material) formando sobre estas uma película de bactérias. O esgoto passa rapidamente pelo leito em direção ao dreno de fundo, porém a película de bactérias absorve uma quantidade de matéria orgânica e faz sua digestão mais lentamente. É considerado um processo aeróbio uma vez que o ar pode circular entre os vazios do material que constitui o leito fornecendo oxigênio para as bactérias.” (Fonte: http://www.fec.unicamp.br/~bdta/ esgoto/filtrosbiologicos.html Acesso:10/04/2014) Analise as afirmativas sobre os dois tipos de filtros biológicos percoladores: FBP de baixa taxa e FBP de alta taxa I. No FBP de baixa taxa, a carga de DBO aplicada é baixa e o lodo é parcialmente estabilizado. II. O FDB de alta taxa necessita de menor requisito de área para aplicação III. No FDB de alta taxa, o lodo é estabilizado no filtro. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -688,11 +743,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9de07e1edb0786de"
+      "question_hash": "9de07e1edb0786de",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma das etapas do tratamento de água de piscina é a cloração que pode ser feita pela adição de solução aquosa de hipoclorito de sódio a 15%. Esse sal é muito solúvel e se dissocia facilmente liberando íon CO– que sofre hidrólise formando o ácido hipocloroso. Tem-se assim numa piscina o equilíbrio: HCO() + H2O()  CO–(aq) + H3O+(aq). Tanto o ácido hipocloroso como o íon hipoclorito atuam como desinfetante e bactericida, mas a ação do ácido hipocloroso é cerca de 80 vezes maior do que a do íon. O pH da piscina deve ser constantemente monitorado, porque considerando o equilíbrio apresentado, o pH acima de 7,6 Dado: pKa do HCO = 7,53",
       "alternatives": {
         "A": "diminui o efeito bactericida e desinfetante da cloração.",
@@ -707,11 +763,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "fadf9bf06769f275"
+      "question_hash": "fadf9bf06769f275",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "“Os sistemas tamponantes são tão essenciais para a existência dos organismos vivos que a ameaça mais imediata à sobrevivência de uma pessoa com ferimentos graves ou queimaduras é a mudança do pH do sangue. Os processos metabólicos normalmente mantêm o pH do sangue humano dentro de um pequeno intervalo. (7,35-7,45).” (ATKINS, P.; JONES, L. Princípios de Química. 5ª Ed Bookman.2012 p.484) Assinale a opção que apresenta um sistema-tampão do sangue humano.",
       "alternatives": {
         "A": "HC/C–",
@@ -726,11 +783,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "bd518f5a0ef094d7"
+      "question_hash": "bd518f5a0ef094d7",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A reação de dissociação do dióxido de nitrogênio foi realizada a temperatura e volume constantes segundo a equação: 2NO2(g)  2NO(g) + O2(g). Em equilíbrio, sob pressão total de 1 atm, o gás NO2 encontra-se 40% dissociado. Nessas condições, o valor da constante de equilíbrio Kp é:",
       "alternatives": {
         "A": "8",
@@ -745,11 +803,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "be4436d1497e8237"
+      "question_hash": "be4436d1497e8237",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O despejo de esgoto sanitário e industrial em um lago forneceu os nutrientes necessários para o crescimento de plantas e algas, produzindo grande quantidade de biomassa. Ao morrer, a biomassa produzida fica depositada no fundo do lago e sofre decomposição, acumulando material sólido no lago. O processo que ocorreu no lago é denominado",
       "alternatives": {
         "A": "estratificação.",
@@ -764,11 +823,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2c48b001d536f52a"
+      "question_hash": "2c48b001d536f52a",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A formação rochosa de um aquífero pode lixiviar minerais tóxicos para a água, como resultado da ação da água da chuva através de camadas permeáveis da rocha. O ferro é um dos principais componente de rochas e seus íons mais solúveis são os que estão no estado mais reduzido. A presença de íons de ferro na água proporciona sabor metálico e a precipitação da ferrugem. Considerando que um aquífero está contaminado apenas com íons de ferro e a presença destes íons dissolvidos está relacionada somente com a quantidade de oxigênio dissolvido, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Quanto menor a quantidade de oxigênio dissolvido maior o teor de ferro (II) solúvel no aquífero.",
@@ -783,11 +843,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d058e5945bb5a83e"
+      "question_hash": "d058e5945bb5a83e",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Quando um resíduo que demanda oxigênio é lançado em um corpo d’água, a taxa de consumo de oxigênio é alterada, podendo atingir níveis superiores à taxa de oxigênio que é suprido pela atmosfera, provocando a depleção do oxigênio. Em um corpo d’água contendo 109 litros de água ocorreu o despejo acidental de uma solução contendo 920 kg de etanol. O aumento na demanda química de oxigênio provocado pelo acidente foi igual a –1",
       "alternatives": {
         "A": "1,38 mg.L–1.",
@@ -802,11 +863,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f5e8830ea6db064f"
+      "question_hash": "f5e8830ea6db064f",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A água de um aquífero apresentou concentração de íons cálcio e magnésio, respectivamente, iguais a 60mg.L-1 e 36mg.L-1. A remoção da dureza carbonatada desta água pode ser realizada através da adição de cal hidratada de acordo com as reações: Ca(HCO3)2 + Ca(OH)2→ 2 CaCO3 (s) + 2H2O Mg(HCO3)2 + 2Ca(OH)2→ 2 CaCO3 (s) + Mg(OH)2 (s) + 2H2O Para remoção da dureza carbonatada de 5 x 107 L por dia dessa água, a quantidade mínima de cal hidratada necessária é: Dados: Massas molares H = 1g.mol -1 ; Mg = 24g.mol -1 ; C = 12g.mol -1 ; O = 16g.mol -1",
       "alternatives": {
         "A": "5,5 t.",
@@ -821,11 +883,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "fdeb9c38b998ec98"
+      "question_hash": "fdeb9c38b998ec98",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em rios muito poluídos nos quais a matéria orgânica se acumula e o oxigênio molecular não está disponível, as bactérias promovem a desnitrificação que pode diminuir a quantidade de nitrogênio fertilizante. A reação de desnitrificação está representada a seguir 4NO3 – + 5CH2O + 4H+→ 5CO2 + 2N2 + 7H2O Analisando os estados de oxidação das espécies envolvidas na reação, é correto afirmar que o",
       "alternatives": {
         "A": "carbono está sofrendo redução.",
@@ -840,11 +903,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d5161ed6811592da"
+      "question_hash": "d5161ed6811592da",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Reações que envolvem trocas de elétrons são de grande importância nos processos que ocorrem em águas residuais e naturais. Estes processos podem controlar a diminuição dos níveis de oxigênio, a contaminação de corpos d’água por metais e a formação de nutrientes que serão absorvidos por espécies no meio aquático. Três reações importantes que ocorrem em ambientes aquáticos estão representadas a seguir I. {CH2O} + O2→ CO2 + H2O II. 4Fe(OH)2 (s) + O2 + 2H2O →4Fe(OH)3 III. NH4 – + 2H+ + H2O Em cada uma das reações, os agentes redutores são: + + 2O2→ NO3",
       "alternatives": {
         "A": "I. {CH2O}; II. Fe(OH)2 ; III. O2 +",
@@ -859,11 +923,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f4ae15b7b959526b"
+      "question_hash": "f4ae15b7b959526b",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema fechado, a 25°C e 1 atm, a alcalinidade da água é igual a 3 x 10–4 mol.L–1 e o pH desta água é 7,0. Nesse pH, a alcalinidade da água pode ser expressa pela equação 2– ] + [OH – ] – [H+] Considere que o íon bicarbonato apresenta Ka igual a 4,7 x 10 –11. As concentrações dos íons bicarbonato e carbonato, em mol. L–1, neste sistema são respectivamente iguais a – ] + 2 [CO3 alcalinidade = [HCO3 Dados: pKa1 do H2CO3 = 6,35",
       "alternatives": {
         "A": "4,7 x 10–5 e 6,7 x 10–4.",
@@ -878,11 +943,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "0d120eefa05d5e23"
+      "question_hash": "0d120eefa05d5e23",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A desinfecção da água utilizando cloro e seus derivados é uma etapa do tratamento de água necessária para destruir microorganismos. A cloração em presença de amônia é um processo que forma monocloroamina e dicloroamina, diminuindo a formação de trialometanos tóxicos. A formação de monocloroamina e dicloroamina depende do pH, conforme apresentado na tabela pH NH2C % NHC2 % 5 16 84 7 65 35 9 94 6 De acordo com a tabela, neste processo as concentrações de H+ que produzem, respectivamente, as maiores porcentagens de monocloroamina e dicloroamina são",
       "alternatives": {
         "A": "9 x 10–1 mol.L–1 e 5 x 10–1 mol.L–1.",
@@ -897,11 +963,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4d93f35a232b50e9"
+      "question_hash": "4d93f35a232b50e9",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O tratamento de água é necessário para a remoção de microorganismos nocivos, substâncias tóxicas, redução do excesso de impurezas e de compostos orgânicos. Sobre alguns dos principais processos envolvidos no tratamento de água, analise as afirmativas a seguir. I. Aeração: remove substâncias voláteis, aumenta a concentração de oxigênio dissolvido, mas pode remover o excesso de CO2 o que aumenta o potencial corrosivo da água. II. Coagulação: utiliza métodos físicos para tornar partículas de difícil sedimentação em aglomerados que podem ser retirados facilmente. III. Sedimentação: é eficiente na remoção de matéria em suspensão, mas depende do tamanho e da densidade das partículas. IV. Filtração: utiliza materiais de granulometria fina para remover impurezas leves ou finamente divididas. São corretas as afirmativas:",
       "alternatives": {
         "A": "I e II, somente.",
@@ -916,11 +983,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7123d01690addfca"
+      "question_hash": "7123d01690addfca",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O bário ocorre na natureza somente na forma combinada, principalmente como barita ou witherita. No ar atmosférico, a principal fonte desse elemento é a emissão industrial, particularmente combustão de carvão e óleo diesel e incineração de resíduos. Também ocorre naturalmente na maioria das águas superficiais e sua concentração depende do teor de bário lixiviado das rochas. A água potável contém 10 – 100 µg.L–1 de bário e o metal pode estar presente na água subterrânea. Recomenda-se que a concentração de bário em águas doces seja inferior a 0,7 mg.L–1. Para análise desse elemento por espectrofotometria de absorção atômica em chama de acetileno/óxido nitroso, um procedimento comum é a adição de solução de KC em excesso a amostras e padrões. Tipicamente, 2 mL de solução de KC em concentração 1000 mg.L–1 são adicionados a 100 mL de amostras e padrões. A adição de KC às amostras e padrões é feita para",
       "alternatives": {
         "A": "evitar a interferência de prata na análise de bário.",
@@ -935,11 +1003,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4f68452367c5745c"
+      "question_hash": "4f68452367c5745c",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O teor de mercúrio máximo possível em água para o consumo humano, segundo a resolução CONAMA 396, é 1 µg.L–1. A determinação do teor de mercúrio na água pode ser realizada por espectrofotometria de absorção atômica. Considerando o ensaio de mercúrio por espectrofotometria de absorção atômica e a técnica recomendada para a determinação deste elemento em concentrações na ordem de grandeza do valor máximo permitido, analise as afirmativas a seguir. I. As amostras devem ser preservadas com adição de HNO3 até pH < 2 imediatamente após a coleta, sendo estocadas a 4°C por tempo não superior a 28 dias antes do ensaio. II. As amostras devem passar por digestão ácida com posterior redução do cátion para Hg0 e o ensaio, com chama de ar/acetileno, deve ser realizado imediatamente após a etapa de redução. III. A determinação de mercúrio é conduzida pela técnica do vapor frio, na qual vapores de Hg0 são introduzidos numa cela de quartzo e os átomos dispersos no vapor absorvem comprimento de onda específico, emitido pela lâmpada de catodo oco. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -954,11 +1023,32 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b0cad2a407c53e0d"
+      "question_hash": "b0cad2a407c53e0d",
+      "base_text": null
+    },
+    {
+      "question_number": 52,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "O catalisador é uma substância ou um material que, uma vez adicionado ao meio reacional, promove o aumento da velocidade de uma reação química. Assinale a opção que indica o gráfico que representa as curvas de progresso para a reação sem catalisador e com catalisador.",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa_engenheiro-quimico_q52.png",
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "18d71e2e97f8f43f",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A oxidação do iodeto pelo peróxido de hidrogênio em solução aquosa é representada pela equação química H2O2 + 2 I– +2 H3O+ I2 + 4 H2O que pode ser descrita pelo mecanismo abaixo, em que todas as espécies estão em fase aquosa e a primeira etapa é a lenta: Etapa 1: H2O2 + I–  HOI + OH– Etapa 2: HOI + I–  I2 + OH– Etapa 3: OH− + H3O+ 2 H2O A alternativa que apresenta a lei de velocidade desta reação, é:",
       "alternatives": {
         "A": "v = k [H2O2] [I– ]2[H3O+]2",
@@ -973,11 +1063,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "0b018bbef9224e03"
+      "question_hash": "0b018bbef9224e03",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Fatores como a temperatura e as concentrações iniciais, entre outros, podem influenciar na velocidade de algumas reações químicas. Suponha a reação em solução aquosa, conduzida em recipiente aberto e em condição isotérmica: Mg(s) + 2HC (aq)  Mg2+(aq) + 2C– (aq) + H2(g) Em relação à cinética da reação, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O aumento da pressão causará um aumento na velocidade da reação.",
@@ -992,11 +1083,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b0a53faca7f775f0"
+      "question_hash": "b0a53faca7f775f0",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O termo DDT refere-se ao diclorodifeniltricloretano. Este inseticida organoclorado foi extensivamente usado na agricultura, mas foi banido em diversos países devido à sua persistência no ambiente e à biomagnificação na cadeia alimentar. Considerando o monitoramento do DDT em matrizes ambientais e em água para consumo humano, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Os pesticidas organoclorados e seus resíduos, como DDT, DDE e DDD, devem ser monitorados no meio ambiente para que suas concentrações em matrizes como água e solo não superem valores máximos estabelecidos em normas e legislações específicas. ( ) A fabricação, importação, exportação, estoque, comercialização e uso do DDT estão proibidos pela Lei nº 11.936/09 e, por isso, seu monitoramento, em matrizes ambientais e água para consumo humano, tornou-se desnecessário. ( ) Os organoclorados DDE e DDD são produtos de degradação do DDT e não precisam ser monitorados em matrizes ambientais e em água para consumo humano. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, F e F.",
@@ -1011,11 +1103,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "1e855ebea0de9460"
+      "question_hash": "1e855ebea0de9460",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O processo de tratamento de esgoto é separado em: pré-tratamento, tratamento primário, tratamento secundário e tratamento terciário. Assinale a opção que apresenta operações referentes ao tratamento primário e ao tratamento secundário, respectivamente.",
       "alternatives": {
         "A": "Decantação e flotação.",
@@ -1030,11 +1123,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c2b9f5c35d3b2afa"
+      "question_hash": "c2b9f5c35d3b2afa",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A cromatografia gasosa com a utilização do detector por captura de elétrons ou acoplada à espectrometria de massas é relatada como uma técnica bem definida para análise de compostos organoclorados. Uma amostra de água subterrânea foi conduzida ao laboratório para pesquisa e determinação dos pesticidas organoclorados aldrin e dieldrin. A amostra foi submetida ao procedimento de extração de compostos orgânicos semivoláteis com solvente orgânico apropriado. Neste procedimento, 1000 mL da amostra foram usados para a extração de compostos orgânicos a partir de adição de três porções de 100 mL de solvente orgânico. Após as extrações, juntaram-se as frações orgânicas e o extrato total foi concentrado à 1 mL por evaporação do solvente. A solução final foi contaminada com padrão interno (fenantreno d-10), 1 µg.mL–1 e submetida ao ensaio por cromatografia gasosa acoplada a espectrômetro de massas. A curva de calibração foi obtida por injeções de padrões de concentrações na faixa de 0,010 a 10 µg.mL–1, contendo o padrão interno, fenantreno d-10, em concentração 1,0 µg.mL–1. Os fatores de calibração obtidos para aldrin e dieldrin foram, respectivamente, 1,00 e 1,50. Na cromatografia gasosa, as seguintes alturas dos picos (em unidades arbitrárias) foram encontradas, respectivamente, para aldrin, dieldrin e fenantreno-d10: 1,0 x 105, 1,2 x 105 e 1,0 x 107 Com base nos resultados, é possível afirmar que as concentrações de aldrin e dieldrin na amostra são:",
       "alternatives": {
         "A": "1,5 x 10–2 µg.L–1 e 1,8 x 10–2 µg.L–1.",
@@ -1049,11 +1143,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c6f9e6320de8c990"
+      "question_hash": "c6f9e6320de8c990",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A viscosidade é a resistência que sofre uma camada do líquido para mover-se em relação a outra camada vizinha. É possível imaginar uma coluna de líquido, num tubo circular, como sendo constituído de camadas concêntricas cilíndricas. Ao se mover ao longo do tubo, a camada mais próxima das paredes permanece estacionária, no caso do líquido molhar a parede. Cada uma das camadas seguintes, move-se a uma velocidade que aumenta à medida que ficam mais próximas do eixo do cilindro. Esta forma de escoamento é conhecida como escoamento laminar. Como a determinação da viscosidade absoluta é difícil, em geral, prefere-se a determinação da relação entre a viscosidade de dois líquidos. A viscosidade de um líquido foi medida em viscosímetro de Ostwald, mostrando tempo de escoamento de 30s. O etanol foi usado como líquido de referência, apresentando tempo de escoamento de 20s. Na temperatura do experimento, a viscosidade do etanol é 1,20cP. As densidades do líquido e do etanol são 0,85 g.cm–3 e 0,80 g.cm–3, respectivamente. A viscosidade do líquido, em cP, é",
       "alternatives": {
         "A": "1,98",
@@ -1068,11 +1163,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2e6260ea099d1ddc"
+      "question_hash": "2e6260ea099d1ddc",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A poluição por material fecal de origem humana e animal torna a água um veículo de transmissão de doenças infecciosas causadas por microrganismos. Destacam-se as bactérias do grupo coliforme, definidas como bacilos aeróbicos e anaeróbios facultativos, Gram-negativos, não formadores de esporos, capazes de crescer na presença de concentrações relativamente elevadas de sais biliares e fermentar a lactose na temperatura de 35°C – 37°C, com formação de ácido, gás e aldeído, em 24 a 48 horas. A partir desses dados, analise as afirmativas a seguir. I. Com a técnica de tubos múltiplos pode ser utilizado o caldo lauril triptose na etapa presuntiva (incubação a 35°C durante 24 a 48 horas) e o meio EC como etapa de diferenciação para coliformes termotolerantes (incubação a 44,5°C durante 24 horas) sendo necessárias portanto, até 72 horas para a obtenção dos resultados. II. O uso do meio de cultura A-1 representa uma alternativa para o procedimento clássico de ensaio de coliformes termotolerantes, permitindo a incubação das amostras a 44,5°C e a obtenção do número mais provável de coliformes termotolerantes em 24 horas. III. A técnica de tubos múltiplos consiste na inoculação de volumes decrescentes da amostra em meio de cultura adequado ao crescimento dos microrganismos pesquisados, sendo cada volume inoculado em uma série de tubos. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -1087,11 +1183,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9af3b00cbd18aab7"
+      "question_hash": "9af3b00cbd18aab7",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Clorofila a é um parâmetro hidrobiológico usado para avaliar a qualidade da água de abastecimento e corpos hídricos em geral. O procedimento de coleta inclui a filtração das amostras através de membrana de 5μm, aplicando vácuo. Os filtros são guardados em folhas de alumínio e congelados. Preservados dessa forma, podem ficar estocados por até 30 dias, se a amostra apresentar pH 7 ou superior; caso contrário devem ser encaminhados para ensaio imediatamente. A preparação das amostras inclui extração dos pigmentos com acetona e análise dos extratos por espectrofotometria, medindo a absorvância do extrato em comprimentos de onda diversos. Em relação à análise hidrobiológica citada, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A clorofila a é um pigmento característico de algas, representando cerca de 1 a 2% (base seca) de biomassa plactônica, o que torna este parâmetro um conveniente indicador de biomassa algal.",
@@ -1106,11 +1203,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "3ca5803fcaec1d6d"
+      "question_hash": "3ca5803fcaec1d6d",
+      "base_text": null
     },
     {
       "question_number": 61,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A flotação é um processo de separação utilizado tanto para o tratamento de água quanto para o de esgoto. A flotação é descrita como um processo",
       "alternatives": {
         "A": "físico, que tem como objetivo a remoção de areia.",
@@ -1125,11 +1223,12 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "5a1d1257a354638e"
+      "question_hash": "5a1d1257a354638e",
+      "base_text": null
     },
     {
       "question_number": 62,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre o sistema de lagoas de estabilização assinale V para a verdadeira e F para a falsa. ( ) As lagoas de estabilização, em qualquer variante, operam apenas com o uso de equipamentos para a aeração. ( ) A operação ocorre predominantemente de forma anaeróbica, caso a carga de matéria orgânica a ser tratada seja alta. ( ) As lagoas de estabilização possuem baixo tempo de detenção, sendo este processo de tratamento mais rápido que o de tanque de aeração. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, F e F.",
@@ -1144,11 +1243,12 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f601c8ea35c8c79e"
+      "question_hash": "f601c8ea35c8c79e",
+      "base_text": null
     },
     {
       "question_number": 63,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Na figura a seguir são representados três tipos de fluidos que apresentam diferentes perfis de tensão de cisalhamento em função da taxa de deformação, com características reológicas não dependentes do tempo. Os fluidos 1, 2 e 3 são classificados, respectivamente, como:",
       "alternatives": {
         "A": "Fluido de Bingham, Fluido Newtoniano e Fluido Dilatante",
@@ -1163,11 +1263,12 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q63.png",
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b7e535c78f7ce618"
+      "question_hash": "b7e535c78f7ce618",
+      "base_text": null
     },
     {
       "question_number": 64,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma tubulação cilíndrica de seis centímetros de diâmetro escoa-se água a 25°C, sabendo que no centro da tubulação a velocidade é 4 cm.s–1 e que o escoamento ocorre em regime laminar. Assinale a opção que apresenta corretamente a vazão de escoamento, em cm3.s–1.",
       "alternatives": {
         "A": "36 π.",
@@ -1182,11 +1283,12 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "67d96a264374b196"
+      "question_hash": "67d96a264374b196",
+      "base_text": null
     },
     {
       "question_number": 65,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um engenheiro precisa escoar um fluido entre de um tanque para um outro situado em local mais elevado e, para isso, realizou o cálculo da curva característica do sistema e da carga positiva de sucção (NPSH) e comparou com os dados de cinco bombas centrífugas (B1, B2, B3, B4 e B5). Os gráficos a seguir apresentam seus resultados. Assinale a opção em que a bomba opera sem cavitação.",
       "alternatives": {
         "A": "B1",
@@ -1201,11 +1303,12 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q65.png",
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "e06896e74c1b6390"
+      "question_hash": "e06896e74c1b6390",
+      "base_text": null
     },
     {
       "question_number": 66,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um tubo em U contendo dois fluidos manoméricos, conectado por uma extremidade a um tanque de gás e, pela outra, à atmosfera, está em equilíbrio mecânico, conforme a figura a seguir. As densidades dos fluidos 1 e 2 são, respectivamente 8 g.cm–3 e 10 g.cm–3. Dado: Pressão atmosférica = 101325Pa e aceleração da gravidade = 10m.s –2 A pressão no interior do tanque, em Pa, é de",
       "alternatives": {
         "A": "114325.",
@@ -1220,11 +1323,12 @@
       "image_path": "data/processed/images/compesa_engenheiro-quimico_q66.png",
       "page_number": 14,
       "module": "Conhecimentos Específicos",
-      "question_hash": "1ae8132d4052c1aa"
+      "question_hash": "1ae8132d4052c1aa",
+      "base_text": null
     },
     {
       "question_number": 67,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A filtração é uma das aplicações mais comuns do escoamento de fluidos através de leitos compactos. A operação industrial é análoga às filtrações realizadas em um laboratório que utilizam papel de filtro e funil. O objetivo da operação é separar mecanicamente, as partículas sólidas de uma suspensão líquida com o auxílio de um leito poroso. Quando se força a suspensão através do leito, o sólido da suspensão fica retido sobre o meio filtrante, formando um depósito que se denomina torta e cuja espessura vai aumentando no decorrer da operação. O líquido que passa através do leito é chamado de filtrado. Sobre o processo de remoção de partículas sólidas de um fluido, por meio de um filtro prensa, analise as afirmativas a seguir. I. A vazão volumétrica do fluido filtrado permanece constante durante a filtração. II. Ao longo do processo de filtração, a torta formada pelo material particulado atua como meio filtrante III. A perda de carga tende a diminuir durante a operação. Assinale:",
       "alternatives": {
         "A": "se apenas a afirmativa I estiver correta.",
@@ -1239,11 +1343,12 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Específicos",
-      "question_hash": "a0fa0d0e26424226"
+      "question_hash": "a0fa0d0e26424226",
+      "base_text": null
     },
     {
       "question_number": 68,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Segundo a Portaria nº 2.914/11 do Ministério da Saúde, o limite máximo de turbidez para garantir a potabilidade da água é de 5uT, o que torna este parâmetro de fundamental importância para o tratamento de água. Uma das operações que contribui para a redução deste parâmetro é a decantação de material particulado. Em relação à operação ou dimensionamento de um decantador, assinale a afirmativa correta.",
       "alternatives": {
         "A": "No início do processo de decantação em batelada a velocidade de sedimentação das partículas aumenta linearmente.",
@@ -1258,11 +1363,12 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Específicos",
-      "question_hash": "8fb4d85302bd7e86"
+      "question_hash": "8fb4d85302bd7e86",
+      "base_text": null
     },
     {
       "question_number": 69,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No processo de tratamento, depois de filtrada, a água deve ter o pH corrigido e deverá passar pelo processo de desinfecção por cloro, pós-cloração e fluoretação. Só então ela está própria para o consumo, garantindo a inexistência de bactérias e partículas nocivas à saúde humana. Sobre os diversos métodos de cloração da água que, na prática, devem ser examinados para que se adote a solução mais vantajosa do ponto de vista técnico-econômico, assinale V para a afirmativa verdadeira e F para a falsa. ( ) A cloração simples é aplicável às águas de qualidade relativamente boa, sendo a última (ou eventualmente, a única) etapa do tratamento. ( ) A cloração ao ponto de quebra é um processo aplicável apenas às águas pouco poluídas e não forma subprodutos prejudiciais à saúde humana. ( ) A cloração com dióxido de cloro, reagente preparado na própria estação de tratamento é aplicável às águas com odor e gosto desagradáveis. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, V e V.",
@@ -1277,11 +1383,12 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Específicos",
-      "question_hash": "720a79c7bbfba1ba"
+      "question_hash": "720a79c7bbfba1ba",
+      "base_text": null
     },
     {
       "question_number": 70,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Para avaliar a qualidade da água são analisados parâmetros físicos, químicos e biológicos. As variáveis físicas são demonstradas com suas escalas próprias, as químicas normalmente são demonstradas em unidades de concentração e as biológicas pela indicação da densidade populacional do organismo em análise. Assinale a opção que apresenta, respectivamente, um parâmetro físico e um químico utilizados na análise da água.",
       "alternatives": {
         "A": "Dureza e sabor.",
@@ -1296,7 +1403,8 @@
       "image_path": null,
       "page_number": 14,
       "module": "Conhecimentos Específicos",
-      "question_hash": "dd865da15b16ce39"
+      "question_hash": "dd865da15b16ce39",
+      "base_text": null
     }
   ],
   "year": 2024,

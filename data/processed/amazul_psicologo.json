@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_psicologo_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -566,7 +595,7 @@
         "B": "prediction.",
         "C": "suggestion.",
         "D": "permission.",
-        "E": "willingness. Módulo II Psicologia A partir da situação descrita a seguir, responda às duas próximas questões Ana é psicóloga em uma empresa e atendeu uma funcionária, a qual afirma que seu chefe tem realizado cobranças que extrapolam as suas atribuições, solicitado tarefas em uma quantidade que não é comportada na sua carga horária de trabalho, e exigindo prazos curtos. Recorrentemente apresenta falas perante os seus colegas de trabalho, tais como “está lenta como uma tartaruga”, referindo-se ao seu desempenho nas tarefas. A funcionária tem se mostrado desmotivada e cansada, expressando sintomas, como: dificuldade para relaxar e dormir, taquicardia, tremores, falta de ar e medo de morrer."
+        "E": "willingness."
       },
       "answer": "C",
       "annulled": false,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Mediante a situação relatada, Ana deverá",
       "alternatives": {
         "A": "informar ao chefe da funcionária atendida que ele está praticando assédio moral e que precisa cessar tal prática.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a991a2be72746a23"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a991a2be72746a23",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Os sintomas apresentados pela funcionária apontam para um quadro de",
       "alternatives": {
         "A": "transtorno de humor.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4514165b2a83687f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4514165b2a83687f",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "A Resolução CFP nº 31/2022 estabelece diretrizes para a realização da Avaliação Psicológica (AP) no Brasil, complementando o disposto no Código de Ética Profissional do Psicólogo. Considerando a AP em contextos diversos (clínico, organizacional, jurídico, pesquisa), analise as assertivas a seguir: I. O uso de instrumentos psicológicos que constem com parecer desfavorável ou não avaliados no site do SATEPSI não poderão ser utilizados para fins de pesquisa e situações de ensino em Psicologia com objetivo histórico e formativo. II. os protocolos ou registros de observação de comportamentos obtidos individualmente ou por meio de processo grupal e/ou técnicas de grupo são considerados fontes complementares de informação. III. O uso de testes psicológicos é privativo do exercício profissional da Psicologia. IV. Os testes psicológicos estrangeiros, adaptados para uso no Brasil, devem atender aos mesmos requisitos mínimos para os testes brasileiros, além de apresentar, nos manuais técnicos, os estudos científicos realizados com amostras da população brasileira para todos os requisitos apontados. Está correto o que se afirma em",
       "alternatives": {
         "A": "II e IV, apenas.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b6bd1aca56d28fad"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b6bd1aca56d28fad",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Durante um processo seletivo interno de uma empresa pública para um cargo de liderança, a psicóloga responsável pela Avaliação Psicológica (AP) recebeu questionamento de um candidato reprovado, que alegava não ter tido acesso às razões da sua inaptidão. A psicóloga informou que não poderia fornecer informações porque o resultado era sigiloso, conforme regimento da empresa. Considerando as normas vigentes do Conselho Federal de Psicologia acerca do tema, assinale a opção correta.",
       "alternatives": {
         "A": "A conduta da psicóloga foi adequada, o sigilo deve ser absoluto, inclusive ao próprio avaliado.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3f506269685bbc06"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3f506269685bbc06",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Joana é psicóloga do trabalho em uma empresa. Nos últimos meses, ela observou um aumento expressivo nos afastamentos por adoecimento psicológico entre profissionais de nível técnico. Em entrevistas individuais, os trabalhadores relatam cansaço extremo, sentimento de inutilidade, conflitos com as chefias e alijamento das decisões sobre o próprio trabalho, verbalizando que os procedimentos são modificados sem que eles sejam escutados. Com base na conceituação de sofrimento trazida pela Psicodinâmica do Trabalho, assinale a opção correta.",
       "alternatives": {
         "A": "O sofrimento relatado é individual e decorre de fatores de personalidade, devendo ser tratado somente com psicoterapia de base comportamental.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "15f3359fe842c9aa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "15f3359fe842c9aa",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Christophe Dejours, ao analisar a segurança no trabalho na construção civil, aponta que os trabalhadores elaboram “saberes de prudência” que funcionam como formas de resistência às normas de prevenção prescritas externamente. Enquanto engenheiros definem regras de segurança idealizadas, os operários constroem, na prática cotidiana, modos próprios de se proteger, frequentemente recorrendo à improvisação. Assim, configura-se um confronto entre duas formas de conceber a segurança: uma prescrita, externa e normativa, e outra vivida, construída na experiência real de trabalho. Nesse contexto, o conflito fundamental descrito por Dejours ocorre entre",
       "alternatives": {
         "A": "responsabilidade social empresarial × qualidade de vida",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6fcf5d38a8bd5b61"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6fcf5d38a8bd5b61",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Durante a instalação de uma caldeira destinada ao aquecimento urbano, a obra inicia-se com seis meses de atraso por motivos administrativos. Ainda assim, a conclusão deve ocorrer obrigatoriamente no outono, para que o sistema esteja operacional no início do inverno. Diante desse prazo rigidamente encurtado, qualquer contratempo — como dias de intempéries ou atrasos na entrega de materiais — torna inviável a execução conforme o previsto, fazendo com que a improvisação passe a dominar a atividade. À luz da psicodinâmica do trabalho, especialmente segundo Christophe Dejours, esse tipo de cenário favorece o surgimento de",
       "alternatives": {
         "A": "defesas e ideologias coletivas.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "75403a3518c332ec"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "75403a3518c332ec",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Christophe Dejours ressalta que tratar a relação do humano com o trabalho pelo viés da saúde é mais complexo do que falar em sofrimento e doença. Portanto, ele vai privilegiar o ponto de vista dinâmico, a vivência. Sendo assim, é correto afirmar que o objetivo da psicodinâmica do trabalho é compreender",
       "alternatives": {
         "A": "as causas da alienação do trabalhador e os mecanismos da doença mental.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "25dc245ae2f5d398"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "25dc245ae2f5d398",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Estudos sobre a qualidade de vida no trabalho evidenciam que os programas precisam considerar a vida além do trabalho, pois qualidade de vida nesse caso vai muito além de um bom salário. Sobre o que vêm constatando os estudos sobre os programas de qualidade de vida no trabalho, é incorreto afirmar que",
       "alternatives": {
         "A": "na prática, a qualidade de vida no trabalho vem sendo tratada através de programas paliativos de saúde e serviço social.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c1a7cf3c15c573ca"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c1a7cf3c15c573ca",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Os jovens operários de uma obra têm constantemente os olhos fixos no instrumento em ação. Observam a ferramenta e não sabem observar-se a si mesmos. Sua fadiga resulta frequentemente de uma má posição em relação ao trabalho: muito baixa para polir uma cornija, por exemplo, ou demasiado alta. Eles não pensam em colocar os andaimes numa altura adequada, não sabem que é justificável e que ninguém os criticará por isto; pelo contrário, mostrarão que dominam sua profissão. Assim, forçam-se muito e somente quando se veem esgotados deixam o posto de trabalho, reclamando dos olhares dos outros (e do chefe), querendo mostrar uma segurança que não têm (CRU; DEJOURS, 1987, p. 34). É correto afirmar que o relato faz referência",
       "alternatives": {
         "A": "ao sofrimento criativo.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f406cb146eb9afb1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f406cb146eb9afb1",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "O estresse ocupacional é algo comum e marcante, que afeta de modo negativo a vida de trabalhadores e organizações, acontecendo em diversos campos de trabalho. Sobre esse fenômeno, analise os itens a seguir: I. os estressores são diversos e não se modificam historicamente II. a incerteza quanto ao vínculo empregatício é um fator do mercado de trabalho contemporâneo que contribui para o estresse ocupacional III. Para a cura do estresse, basta atuar nos fatores individuais, não necessitando intervir nos fatores do ambiente de trabalho que podem estar causando o estresse. IV. atividades estafantes e prazos apertados contribuem para o estresse ocupacional. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b6eb16db808b57f3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b6eb16db808b57f3",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "De acordo com a Psicologia Sócio-histórica, profissionais, como o/a psicólogo/a, ao trabalhar com grupos e organizações, devem compreender que o ser humano transforma e se transforma dialeticamente, modificando o que está posto pela sociedade. Nesse cenário, é correto afirmar que essa é uma concepção de sujeito",
       "alternatives": {
         "A": "tábula rasa",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a075c3aead6c1761"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a075c3aead6c1761",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Segundo José Bleger, a entrevista é uma técnica de investigação científica, que tem procedimentos e regras empíricas. A entrevista psicológica é aquela na qual são buscados objetivos psicológicos (investigação, diagnóstico, terapia). De acordo com o autor, quanto à padronização da entrevista, é correto afirmar que",
       "alternatives": {
         "A": "a entrevista fechada é composta de questões predeterminadas, mas permite certa flexibilidade de alteração por parte do entrevistador.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d2c41569dd104b5d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d2c41569dd104b5d",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Uma funcionária de uma empresa diz que acredita que todo lugar que toca está contaminado, e que pensa nisso a todo o momento ao longo de todos os dias, o que gera como efeito o pensamento recorrente de que pode, a qualquer momento, adquirir uma doença incurável. Os conceitos presentes no contexto dizem respeito a",
       "alternatives": {
         "A": "tomada de consciência e princípio da concentração sobre o contato.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "dd71703169b65b07"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dd71703169b65b07",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "O contrato terapêutico é de fundamental importância para que o processo psicoterápico se desenvolva de modo a contribuir positivamente para a melhora do paciente. Assinale a opção que não apresenta um elemento do contrato terapêutico.",
       "alternatives": {
         "A": "Definir lugar e frequência das sessões.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8deed7ccb88b5a44"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8deed7ccb88b5a44",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "No início de um processo psicoterapêutico, algumas condições são fundamentais para a construção do vínculo e para o estabelecimento do enquadre clínico. A esse respeito, analise as afirmativas a seguir: I. É comum que emoções e sentimentos surjam tanto no cliente quanto no terapeuta; entretanto, o terapeuta deve impedir qualquer vivência emocional e, caso perceba sentimentos emergindo, deve necessariamente encaminhar o paciente para outro profissional. II. O terapeuta deve atuar com empatia e avaliar, de forma realista, suas condições pessoais e técnicas para atender às demandas do paciente. III. A definição de regras, limites, formas de trabalho, tarefas e responsabilidades deve ser feita exclusivamente pelo terapeuta, sem participação do paciente. Com base nos princípios éticos e técnicos da prática psicoterapêutica, está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2236e8b0c8ed6239"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2236e8b0c8ed6239",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "O grupo focal é uma técnica frequentemente utilizada em pesquisas qualitativas, caracterizada pela interação entre participantes que, mediados por um facilitador, discutem percepções, valores e significados atribuídos a determinado tema. Considerando as características metodológicas dessa técnica, analise os itens a seguir: I. O público-alvo deve ser numeroso, de modo a possibilitar maior generalização estatística dos resultados. II. Cabe ao mediador lançar questões que estimulem a discussão, sempre buscando consensos, permitindo divergências e a circulação de ideias. III. A intervenção ativa durante o encontro é tarefa exclusiva do mediador; o relator registra falas, identifica participantes, anota fatores desencadeadores de manifestações e observa aspectos verbais e não verbais. IV. A quantidade de grupos focais a serem realizados é definida pelo critério de saturação temática, quando não emergem novos elementos relevantes. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6247558a9739ad47"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6247558a9739ad47",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Uma psicóloga organizacional, interessada em compreender temas recorrentes nas interações informais entre colegas de trabalho durante as pausas para o café, decidiu observar esses momentos a fim de subsidiar análises de cultura e clima organizacional. Para isso, manteve-se à distância, não interagiu com os funcionários e registrou discretamente comportamentos, expressões e conteúdos conversacionais, preservando a naturalidade da situação observada. Considerando as características metodológicas do procedimento descrito, assinale a opção correta.",
       "alternatives": {
         "A": "A pesquisa caracteriza-se como observação naturalística, e o relatório deverá limitar-se à descrição literal dos comportamentos, sem envolver interpretações da pesquisadora.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fb18401798a0bd0f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fb18401798a0bd0f",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Durante a década de 1940, o cenário científico era amplamente dominado pelo estudo do comportamento observável e pela defesa da neutralidade do pesquisador como ideal metodológico. Nesse contexto, Kurt Lewin introduziu proposições que deslocaram essa hegemonia ao enfatizar a dinâmica dos campos sociais, a interdependência entre sujeito e ambiente e o papel ativo do pesquisador no processo investigativo. Considerando tais contribuições da Teoria de Campo e da pesquisa-ação, assinale a alternativa incorreta.",
       "alternatives": {
         "A": "A conduta individual deve ser compreendida a partir da interação entre o indivíduo e o ambiente em que está inserido.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1b3b974cb169c345"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1b3b974cb169c345",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "O método cartográfico, inspirado na Esquizoanálise de Deleuze e Guattari, permite a proposição do paradigma do cuidado como conhecimento, entendendo a realidade e os sujeitos como processos, e não como estados fixos e imutáveis. Pelo olhar cartográfico, a realidade é composta por linhas, nas quais o cuidado deve atuar mapeando-as, acompanhando-as, na perspectiva do transformar para conhecer. Tal proposta ético- política requer do/a observador/a uma atitude implicada, pela qual questiona as condições que fazem emergir os sujeitos e objetos, mapeando as linhas que formam o campo da observação. Assinale a opção que apresenta um caminho que se trilha no sentido da dissolução do ponto de vista do observador.",
       "alternatives": {
         "A": "Garantir o distanciamento necessário do fenômeno, buscando atingir a neutralidade como garantia máxima do conhecimento científico da observação em Psicologia.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "72b049b43958e86a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "72b049b43958e86a",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Chega no seu consultório um paciente relatando que, há mais ou menos 4 meses foi sequestrado enquanto trabalhava. O mesmo era caminhoneiro, e estava viajando a trabalho para outro estado, quando aconteceu o sequestro. Permaneceu alguns dias em cativeiro, sendo ameaçado de morte pelos sequestradores, com os olhos vendados, em um local escuro e insalubre. Relata que há mais ou menos 1 mês tem revivido esta situação, evitando trabalhar e sair de casa de carro. Costuma ficar hipervigilante, muito atento a tudo, apresentando sobressaltos. Apresenta pesadelos repetitivos e sintomas de ansiedade durante a revivência do trauma. Diz que não vê perspectivas de futuro: acha que não conseguirá mais trabalhar nem se relacionar afetivamente. Evita situações sociais. A hipótese diagnóstica mais indicada neste caso seria",
       "alternatives": {
         "A": "transtorno de ansiedade generalizada.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5851c2be626e5dbe"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5851c2be626e5dbe",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Durante um processo seletivo em uma empresa, um candidato relata ao psicólogo organizacional responsável que está vivenciando conflitos familiares por ser uma pessoa trans. Ele também afirma que, em um processo seletivo anterior, foi questionado sobre sua orientação sexual e identidade de gênero, o que o deixou desconfortável. Considerando a Resolução CFP nº 001/2018, assinale a opção que apresenta a postura adequada do psicólogo diante dessa situação.",
       "alternatives": {
         "A": "Explicar ao candidato que questões sobre orientação sexual e identidade de gênero podem ser utilizadas para fins de triagem, desde que ele autorize verbalmente.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "799c391cc1e7a2c3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "799c391cc1e7a2c3",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Um jovem universitário relata episódios súbitos de intenso medo acompanhados de tremores, sudorese, taquicardia, sensação de sufocamento, confusão e incapacidade de continuar a tarefa. Esses episódios ocorreram repetidamente (2 a 3 vezes por semana durante um mês), em diferentes contextos — durante uma apresentação acadêmica, no caminho para casa e na residência de um amigo. Nesse período, ele passou a apresentar preocupação persistente com a possibilidade de novos ataques e com suas consequências, passando a evitar atividades que possam desencadeá-los. Seu colega de turma, por outro lado, evita apresentações orais por medo de ser ridicularizado ou agir de forma inadequada diante dos outros, e apresenta sintomas físicos como boca seca, rubor facial e urgência urinária quando exposto (ou ao imaginar-se exposto) a essas situações. Considerando os critérios diagnósticos da CID-11, os quadros descritos correspondem, respectivamente, a",
       "alternatives": {
         "A": "transtorno de estresse pós-traumático / agorafobia.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9fc6945c99cfeb0c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9fc6945c99cfeb0c",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "O setor de saúde do trabalhador de empresa de tecnologia identificou um alto índice de absenteísmo, rotatividade de pessoal e reclamações sobre a qualidade do serviço. As avaliações institucionais apontam que 45% dos colaboradores manifestam sentimentos de esgotamento energético e distanciamento mental em relação ao seu trabalho. A análise preliminar, a partir da escuta dos trabalhadores, sugere que a principal causa é a intensificação das metas de desempenho, aliada à baixa autonomia para resolução de problemas complexos. A direção da empresa deseja realizar um diagnóstico aprofundado e cientificamente validado para quantificar a prevalência da Síndrome de Burnout (CID-11: QD85) e subsidiar um plano de intervenção estrutural. (M) Considerando que a Síndrome de Burnout é um fenômeno de natureza ocupacional e não mera condição clínica individual, o instrumento de avaliação, com parecer favorável pelo SATEPSI, mais adequado para o diagnóstico, e o tipo de intervenção prioritariamente indicado para implementação são, respectivamente,",
       "alternatives": {
         "A": "Escala de Estresse Percebido (PSS) e intervenção focada no aumento do tempo de lazer dos colaboradores.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1d5b0fa4f4d20083"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1d5b0fa4f4d20083",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "A Política de Prevenção ao Suicídio em Ambientes Organizacionais é um tema de crescente relevância para a Saúde e Segurança do Trabalho. Considerando as melhores práticas e diretrizes éticas e legais, assinale a opção que melhor descreve uma prática adequada de implementação desta política.",
       "alternatives": {
         "A": "Adotar medidas punitivas, como a demissão por justa causa, após uma tentativa de suicídio confirmada no ambiente de trabalho, sob a justificativa de quebra de confiança e risco à ordem.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3540a849b5e8dad3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3540a849b5e8dad3",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Existem diversas abordagens para desenvolver líderes, os quais, por sua vez, são fundamentais no desenvolvimento das equipes de trabalho. Assinale a opção que apresenta a abordagem de desenvolvimento de lideranças que pressupõe a adaptação do estilo do líder ao nível de maturidade dos liderados.",
       "alternatives": {
         "A": "A Teoria dos Traços, que foca na identificação de características inatas e universais que distinguem líderes de não-líderes.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "43210279f1ce04e9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "43210279f1ce04e9",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Com base na Resolução CFP nº 006/2019, que estabelece diretrizes para a elaboração de documentos produzidos por psicólogas(os), analise a situação a seguir: Uma psicóloga organizacional foi solicitada pela gerência de Recursos Humanos a elaborar um documento sobre o desempenho de um empregado que participou de um processo de avaliação interna. A gestora pediu que a psicóloga incluísse no documento: (1) uma conclusão diagnóstica sobre possíveis transtornos mentais do trabalhador, (2) informações pessoais obtidas em sessões individuais realizadas meses antes para fins de orientação profissional, e (3) recomendações específicas de tomada de decisão para promoção ou demissão. Considerando as diretrizes da Resolução CFP nº 006/2019, assinale a opção correta.",
       "alternatives": {
         "A": "A psicóloga deve atender ao pedido da gestão, pois a resolução autoriza o uso de informações clínicas, desde que obtidas pelo próprio profissional, e permite a indicação de decisões administrativas quando isso contribuir para a objetividade do documento.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8646355d1a1c244d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8646355d1a1c244d",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Uma organização inicia um processo de diagnóstico de clima com uso de dinâmicas de grupo envolvendo equipes multifuncionais. Durante as sessões, observa-se que: alguns participantes adotam controle excessivo do fluxo de comunicação; outros membros apresentam dependência elevada em relação ao facilitador; surgem subgrupos que reforçam posições defensivas; há resistência a explorar conflitos latentes. Considerando modelos avançados de dinâmica grupal (p. ex., Kurt Lewin, Bion, Schutz e análises contemporâneas de processos grupais em organizações), assinale a opção que apresenta a intervenção mais adequada para que o psicólogo organizacional favoreça o avanço do grupo para um nível de trabalho mais produtivo e menos regido por ansiedades básicas.",
       "alternatives": {
         "A": "Intensificar a estruturação diretiva da atividade, reduzindo a autonomia do grupo para minimizar os comportamentos defensivos e impedir a formação de subgrupos.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "cf87764693a81fd1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cf87764693a81fd1",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "A psicóloga do setor de saúde do trabalhador de uma empresa precisa intervir em um evento crítico no ambiente de trabalho, no qual um funcionário infartou durante o expediente, vindo a óbito. Logo em seguida, nas horas seguintes, surgem reações diversas nos outros funcionários, tais como: • crises de ansiedade; • sentimentos de culpa; • retraimento social e silêncio prolongado; • irritabilidade e busca por respostas imediatas da gestão; • conflitos interpessoais decorrentes de interpretações divergentes sobre o ocorrido; • choro intenso e desespero. Considerando princípios de intervenção em crise no contexto laboral e protocolos de primeiros cuidados psicológicos, assinale a opção que apresenta a estratégia mais adequada a ser adotada pelo psicólogo nas primeiras horas após o incidente.",
       "alternatives": {
         "A": "Realizar uma sessão formal de debriefing psicológico obrigatório, com relato detalhado do evento por todos os trabalhadores, a fim de acelerar o processamento emocional e evitar TEPT.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "051fccd395ccb306"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "051fccd395ccb306",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Psicologia",
       "statement": "Uma equipe de uma empresa de tecnologia foi reunida para revisar o fluxo de comunicação interna após recorrentes falhas na transmissão de informações entre setores. Durante a primeira reunião, o psicólogo organizacional percebe que alguns membros permanecem em silêncio, enquanto outros assumem posições muito diretivas. Além disso, surgem comentários que revelam medo de exposição diante da liderança. Considerando a metodologia de grupos operativos de Pichón- Riviere, assinale a opção que apresenta a intervenção mais adequada do psicólogo nesse momento.",
       "alternatives": {
         "A": "Solicitar que apenas os líderes formais falem, para garantir objetividade e rapidez na resolução da tarefa.",
         "B": "Incentivar a equipe a seguir imediatamente para a elaboração de soluções, evitando focar nas questões emocionais para não desviar da tarefa.",
         "C": "Facilitar a circulação da palavra, explicitando ansiedades e papéis cristalizados que estão dificultando a participação e o avanço do grupo.",
         "D": "Reorganizar o grupo em duplas de trabalho, separando membros silenciosos dos mais participativos, para evitar conflitos diretos.",
-        "E": "Intervir de forma diretiva, atribuindo funções específicas a cada participante, de modo a eliminar a insegurança individual. Redação"
+        "E": "Intervir de forma diretiva, atribuindo funções específicas a cada participante, de modo a eliminar a insegurança individual."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ff8a9040683b1281"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ff8a9040683b1281",
+      "base_text": null
     }
   ],
   "year": 2024,

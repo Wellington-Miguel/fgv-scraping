@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-de-telecomunicacoes_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um vídeo com duração de 10 minutos foi digitalizado e armazenado em um site. A largura da faixa de frequência do sinal de vídeo era de 4,3 MHz, no processo de digitalização foi utilizado uma taxa de amostragem de 4 vezes a taxa de Nyquist e amplitude quantizada em 1024 níveis. Sabendo que o upload foi realizado em 1 minuto, a taxa de transmissão da rede utilizada foi de",
       "alternatives": {
         "A": "3,44 Mbps.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "72df78896dbb80fe"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "72df78896dbb80fe",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um canal de comunicação com largura de banda de 12 MHz opera com uma taxa de transmissão de 120 Mbps. Quando foi medida a taxa de transmissão, a relação sinal-ruído desse canal era de aproximadamente",
       "alternatives": {
         "A": "10 dB.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ed33300e01e13671"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ed33300e01e13671",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os serviços de radiocomunicação utilizam faixas específicas do espectro eletromagnético de acordo com as características do meio de propagação. Para comunicação subaquática, tais como comunicação com submarinos, a faixa mais adequada é",
       "alternatives": {
         "A": "ELF",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "40ba0c32abb308a3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "40ba0c32abb308a3",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sinal 𝑠(𝑡) = 2 𝑠𝑒𝑛(1000𝜋𝑡) modula uma portadora em FM. Sabendo que o índice de modulação () é igual a 150, a largura de banda ocupada pelo sinal modulado é de",
       "alternatives": {
         "A": "150 Hz.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bd682ef6064a99dc"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bd682ef6064a99dc",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema CDMA com duas estações, A e B, cada uma com seu respectivo código de chip único, 𝐶𝐴= [1, 1, 1, −1] e 𝐶𝐵= [1, −1, 1, 1]. Em determinado instante, a estação A transmite o bit 1 e a estação B transmite o bit 0. Esses dois sinais multiplexados serão representados por",
       "alternatives": {
         "A": "[0, 2, 0, −2]",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7ce1e91f9a906f9b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ce1e91f9a906f9b",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sistema de comunicação digital utiliza modulação BPSK para transmitir dados em um canal com ruído Gaussiano branco. A potência média do sinal na entrada do receptor é de 10 mW e a densidade espectral de ruído é de 10-7 W/Hz. Se a taxa de transmissão é de 10 Mpbs, a probabilidade de erro de bit dada pela função Q é de aproximadamente",
       "alternatives": {
         "A": "Q(0,01).",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "12a63a9aa01758bf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "12a63a9aa01758bf",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um radioenlace conecta duas antenas distantes de 10 km uma da outra e opera em 3 GHz. Sabendo que a perda de propagação pode ser modelada como perda de espaço livre, a atenuação do sinal ao longo do percurso é de aproximadamente (considere 2≈10 e log(6,25) ≈0,8)",
       "alternatives": {
         "A": "80 dB.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d1444d84e39e81da"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d1444d84e39e81da",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma antena parabólica de 60 centímetros de diâmetro é usada em um sistema de TV via satélite que opera em 12 GHz. Sabendo que essa antena tem uma eficiência de 50%, seu ganho é de aproximadamente (considere 2≈10 e log(2,88) ≈0,46)",
       "alternatives": {
         "A": "20 dB.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3cd175330b372c63"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3cd175330b372c63",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma linha de transmissão de 300 apresenta uma relação de onda estacionária igual a 4 ao alimentar uma carga puramente resistiva. O menor valor possível da impedância da carga é de",
       "alternatives": {
         "A": "60.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "90dbab34a292e090"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "90dbab34a292e090",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma emissora de rádio opera na frequência de 102,5 MHz. Ultimamente, os ouvintes têm relatado um chiado intermitente na programação, principalmente durante a tarde. O técnico da emissora suspeita de interferência. Analise os itens a seguir que descrevem os passos para identificar e rastrear a fonte de interferência: I. Análise do padrão de interferência: observa as características do ruído e a sua sazonalidade. II. Monitoramento do espectro eletromagnético: permite visualizar a potência do sinal em função da frequência e do tempo. III. Inspeção de campo: Com um receptor portátil e uma antena omnidirecional, identifica-se a direção da fonte de interferência. É correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9e2fbac3f6b5c2b1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9e2fbac3f6b5c2b1",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sistema broadcasting utiliza um transmissor de 20 W e uma antena com ganho de 3 dBi. Sabendo que as perdas no cabo de alimentação da antena são de 2 dB, a potência efetivamente irradiada por esse sistema é de",
       "alternatives": {
         "A": "14 dBm.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fb58532559704cca"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fb58532559704cca",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de transmissão sem fio, a potência de transmissão é de 40 dBm e a perda de propagação de 70 dB. Um engenheiro identificou uma fonte de interferência co-canal com uma potência de -50 dBm no receptor, concluindo que a relação sinal-interferência neste ponto é de",
       "alternatives": {
         "A": "-80 dB.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "223927864e340208"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "223927864e340208",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de comunicação via rádio, o receptor super- heteródino utiliza o misturador para converter o sinal de radiofrequência em um sinal",
       "alternatives": {
         "A": "banda base.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ee78ac684b8f132f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ee78ac684b8f132f",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Para que um satélite geoestacionário mantenha sua órbita com altitude de 36000 km acima da superfície da terra, sua velocidade orbital deve ser de aproximadamente (considere: raio da terra ≈ 6400 km, constante gravitacional ≈ 6,7x10-11 Nm/kg e massa da terra ≈ 6x1024 kg)",
       "alternatives": {
         "A": "1 km/s.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a1df57fbb66f547d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a1df57fbb66f547d",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um pulso de luz se propaga em uma fibra óptica multimodo gerando uma dispersão de 10 ns/km. A largura de banda máxima para uma transmissão sem perda por dispersão para um enlace de 20 km é de",
       "alternatives": {
         "A": "2 MHz.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1fc5edb65c9b5b06"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1fc5edb65c9b5b06",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um decodificador de Hamming (7,4) com paridade par recebeu uma palavra código r = [0110111]. Na saída do decodificador, a sequência correta de bits de dados recuperada é",
       "alternatives": {
         "A": "1111.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b3f654490e8ec1d7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b3f654490e8ec1d7",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Deseja-se digitalizar e comprimir a sequência de caracteres ABACADAE. Ao optar pelo uso do código de Huffman, o número médio de bits/símbolo será de",
       "alternatives": {
         "A": "1.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "669aba61c9ef5bf9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "669aba61c9ef5bf9",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir mostra um circuito de disparo de SCR com uma fonte de tensão alternada de 100 VRMS e 60 Hz. A carga é puramente resistiva, com um resistor de 20 . Um potenciômetro em série com a porta do SCR permite variar o ângulo de disparo. Para que o SCR dispare, a corrente de gatilho deve ser de no mínimo 10 mA e a tensão de gatilho deve ser de 0,7v. A resistência do potenciômetro necessária para obter um ângulo de disparo de 90o é de aproximadamente",
       "alternatives": {
         "A": "2 k.",
@@ -915,12 +962,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-de-telecomunicacoes_q48.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c719338b29aed351"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c719338b29aed351",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um termopar tipo T (cobre-constantan) é utilizado para medir a temperatura de um objeto. O termopar tipo T tem uma sensibilidade de aproximadamente 43 V/oC. Assumindo que a junção de referencia está a 0oC e o termopar gera uma tensão de saída de 17,2 mV, a temperatura do objeto medido é de",
       "alternatives": {
         "A": "100oC.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6580086d99df352a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6580086d99df352a",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um proprietário resolveu construir um anexo a sua casa, composto de um quarto de 3,0 m x 3,0 m e um banheiro de 3,0 m x 1,5 m, com iluminação e tomadas de uso geral (127 V). Seguindo a NBR 5410, a potência elétrica demandada pelo anexo é de",
       "alternatives": {
         "A": "845 VA.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3446a6623711c132"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3446a6623711c132",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma linha de transmissão trifásica de 550 kV, 60 Hz, de 300 km, tem parâmetros por fase: L = 0,6 mH/km e C = 78 nF/km. A potência natural (SIL) desta linha é de aproximadamente",
       "alternatives": {
         "A": "625 MW.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7a77eae04ece2065"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7a77eae04ece2065",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um engenheiro registrado no CREA decide prestar serviço em um estado diferente daquele em que está registrado. De acordo com a resolução no 1007/2004 do CONFEA, ele deve",
       "alternatives": {
         "A": "solicitar um novo registro no CREA do estado onde irá atuar.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f45832220c6d701c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f45832220c6d701c",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa está projetando uma rede local para um escritório com 20 computadores. Eles desejam uma topologia que seja resiliente a falhas em um único ponto. A topologia mais adequada para este escritório é",
       "alternatives": {
         "A": "estrela.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2d200715498799e0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2d200715498799e0",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um engenheiro está projetando um enlace óptico de 10 km. A fibra escolhida tem atenuação de 0,4 dB/km e vem em rolo de 2 km. Ele estima uma perda de 0,1 dB por emenda e o uso de dois pares de conectores (um em cada extremidade do enlace) com perda de 0,75 dB em cada par. Sabendo que a potência do transmissor e a sensibilidade do receptor ópticos escolhidos são de 0,01 W e 100 W, respectivamente, a margem de potência desse sistema está estimada em",
       "alternatives": {
         "A": "1,5 dB.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "46acf3b24ff4066c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "46acf3b24ff4066c",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Analise as sentenças sobre o serviço E-Line da rede Metro Ethernet. I. cria uma conexão dedicada, transparente e virtual. II. permite estender a rede LAN de forma transparente. III. permite garantir um nível de serviço específico, como taxa de transmissão, latência e jitter. É correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a36ccf375fd5011b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a36ccf375fd5011b",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O documento que formaliza um projeto e autoriza o gerente a alocar recursos da organização para atividades do projeto é",
       "alternatives": {
         "A": "a declaração de escopo.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f57d334e1a9e7b34"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f57d334e1a9e7b34",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em relação a norma ABNT NBR ISO 21500 é correto afirmar que",
       "alternatives": {
         "A": "substitui o guia PMBOX como padrão para gerenciamento de projetos no Brasil.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a999127c25b67feb"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a999127c25b67feb",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No software de CAD 2D, como o Progecad e o AutoCad, a função do comando “Trim” é",
       "alternatives": {
         "A": "desenhar uma linha.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "980bbf284b87f0d5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "980bbf284b87f0d5",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O Navisworks é um software da Autodesk utilizado principalmente para",
       "alternatives": {
         "A": "modelagem 3D.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "483ce185f4909e84"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "483ce185f4909e84",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No Windows 11, o atalho de teclado que abre a janela de configurações do sistema é",
       "alternatives": {
         "A": "Ctrl+Shift+Esc.",
         "B": "Windows+I.",
         "C": "Windows+C.",
         "D": "Windows+R.",
-        "E": "Ctrl+Alt+Del. Redação"
+        "E": "Ctrl+Alt+Del."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d41cd3dd16d963e3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d41cd3dd16d963e3",
+      "base_text": null
     }
   ],
   "year": 2024,

@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de controle de temperatura de um trocador de calor, a variável controlada é a temperatura de saída do fluido, e a variável manipulada é a vazão de vapor fornecida por uma válvula pneumática. Durante a fase de projeto, o engenheiro modela o sistema pela seguinte função de transferência linearizada: 𝐺𝑝(𝑠) = 𝐾 𝜏𝑠+ 1, onde 𝐾 representa o ganho do processo e 𝜏 é a constante de tempo térmica do sistema. Com base nesses conceitos, analise as afirmativas a seguir: I. A constante de tempo 𝜏 indica a rapidez da resposta do sistema a uma perturbação, sendo tanto menor quanto mais rápido o processo atingir o regime permanente. II. O ganho 𝐾 representa a sensibilidade do processo, isto é, a razão entre a variação da variável de saída e a variação da variável manipulada em regime permanente. III. O controlador ajusta a válvula com base na comparação entre o valor medido e o valor de referência em um sistema de malha aberta. É correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ead1b0156554d9fa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ead1b0156554d9fa",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sistema físico massa–mola–amortecedor é descrito pela equação diferencial: 𝑚 𝑥̈(𝑡) + 𝑐 𝑥̇(𝑡) + 𝑘 𝑥(𝑡) = 𝐹(𝑡), onde 𝑥(𝑡) é o deslocamento da massa e 𝐹(𝑡) é a força aplicada pelo atuador. Deseja-se controlar a posição da massa por meio de um controlador PID, que recebe como entrada o erro entre a referência 𝑟(𝑡) e a posição medida 𝑥(𝑡). O sinal de controle gerado pelo PID é 𝑢(𝑡), o qual atua sobre um driver de motor que converte o sinal elétrico de controle em força mecânica segundo: 𝐹(𝑡) = 𝐾𝑎 𝑢(𝑡), onde 𝐾𝑎 é a constante de ganho do atuador. Com base na modelagem matemática e nos princípios de malhas de controle, é correto afirmar que",
       "alternatives": {
         "A": "o sistema massa–mola–amortecedor é de primeira ordem, pois contém apenas uma variável de estado.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "df48b8d7b251132d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "df48b8d7b251132d",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A opção que melhor representa o efeito da discretização sobre o comportamento dinâmico do sistema quando comparado ao modelo contínuo é",
       "alternatives": {
         "A": "a discretização elimina o atraso de fase, resultando em resposta mais rápida e estável.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ed51dbfd56c5e439"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ed51dbfd56c5e439",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O modelo discreto G(z) equivalente aproximado, utilizando o 1−𝑧−1 método da substituição 𝑠= 𝑇 , onde o período de amostragem 𝑇= 0,1𝑠 é 𝑧2 21𝑧+20",
       "alternatives": {
         "A": "𝐺(𝑧) = 42 𝑧2−41 21. 1 21𝑧+20",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "54e9f9d13980402e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "54e9f9d13980402e",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No circuito a seguir, o diodo D2 é conhecido como diodo de roda livre. Ele é empregado em circuitos de chaveamento com o intuito de fornecer um caminho para a corrente de descarga do indutor quando a chave S é aberta. Neste caso, a chave é fechada em 𝑡= 0𝑠 e aberta em 𝑡= 3𝑚𝑠. Considerando todos os componentes ideais e sabendo-se que o indutor L está descarregado quando a chave S é fechada, a corrente 𝐼𝑑 no diodo D2 é",
       "alternatives": {
         "A": "𝐼𝑑= { 0, 0 ≤𝑡≤3𝑚𝑠 55𝑒−2000(𝑡−0,003), 𝑡> 3𝑚𝑠",
@@ -668,12 +702,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q35.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8bec906dd81fd929"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8bec906dd81fd929",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os elementos finais de controle são responsáveis por executar fisicamente a ação de controle, convertendo um sinal elétrico em uma alteração efetiva na variável do processo, como vazão, pressão, nível ou temperatura. A respeito dos principais elementos finais de controle, analise as afirmativas abaixo: I. O atuador é o dispositivo que recebe o sinal elétrico, pneumático ou hidráulico do controlador e gera movimento mecânico sobre o elemento final. II. O controlador é um elemento final de controle que executa a lógica de malha, ajustando automaticamente o ponto de trabalho de processo conforme variações externas. III. O posicionador tem a função de eliminar histerese e atrito no atuador, garantindo que a posição da válvula corresponda com exatidão ao sinal de controle. É correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b9fd4bf8868d797e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b9fd4bf8868d797e",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O circuito combinacional a seguir possui três entradas digitais (A, B e C) e uma saída S. É correto afirmar que o circuito implementado é um",
       "alternatives": {
         "A": "multiplexador.",
@@ -706,12 +742,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q37.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "170ce27999927a55"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "170ce27999927a55",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Deseja-se utilizar o circuito a seguir como controlador eletrônico proporcional-integral-derivativo (PID) em uma planta de controle industrial. Os valores de R2 e R3 para que a função de transferência desejada 5(5𝑠+1)(3𝑠+1) 𝑉𝑆 𝑉𝐸= seja 𝐺(𝑠) = 2𝑠 são, respectivamente,",
       "alternatives": {
         "A": "50𝑘Ω e 40𝑘Ω.",
@@ -725,12 +762,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q38.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4012c9d72d74d197"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4012c9d72d74d197",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de controle de temperatura industrial, um CLP lê o sinal de um transmissor 4–20 mA configurado para a faixa 0– 400 °C. Para interfacear com a entrada analógica (0 a 5 V) do CLP, utiliza- se um resistor shunt de 250 Ω. Admita comportamento linear do transmissor e componentes ideais. No instante analisado, a temperatura indicada pelo sensor é 250 °C. A queda de tensão no resistor shunt aplicada à entrada do CLP é igual a",
       "alternatives": {
         "A": "2,5 V.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5830e6093a6f19d2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5830e6093a6f19d2",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema industrial automatizado, proteção, limitação e controle devem ser implementadas para garantir desempenho adequado e operação segura. Considerando as definições de controle, limitação e proteção em sistemas de Instrumentação e Controle (I&C), associe corretamente cada função ao seu conceito. 1. Controle 2. Limitação 3. Proteção ( ) Levar imediatamente o sistema a um estado seguro quando ocorre uma condição perigosa, como falha de sensor, sobrepressão ou emergência; ( ) Evitar que os atuadores e as variáveis ultrapassem valores físicos ou operacionais máximos; ( ) Manter a variável de processo próxima ao valor desejado, mesmo diante de perturbações. A sequência correta, na ordem apresentada é",
       "alternatives": {
         "A": "1, 2 e 3.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "56b6cc226bfc1ecd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "56b6cc226bfc1ecd",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema industrial automatizado de instrumentação e controle, deseja-se garantir o funcionamento seguro de um trocador de calor que utiliza uma bomba de recirculação (M) para manter a vazão de fluido refrigerante. A operação dessa bomba depende de condições permissivas monitoradas por sensores digitais conectados a um controlador lógico programável (CLP), conforme descrito a seguir: A lógica de controle foi projetada para que a bomba M ligue automaticamente sempre que a temperatura estiver alta no trocador e houver nível suficiente no tanque de alimentação, desde que não exista condição de emergência. Caso qualquer sinal assuma o estado de falha, a bomba deve desligar imediatamente, protegendo o sistema contra operação insegura. Com base nessas condições, a expressão lógica de acionamento da bomba M é",
       "alternatives": {
         "A": "𝑀= 𝑆1 + 𝑆2 + 𝑆3",
@@ -782,12 +822,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q41.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5a250fd1b32b95a2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5a250fd1b32b95a2",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os dispositivos semicondutores IGBT (Insulated Gate Bipolar Transistor) e MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) são amplamente utilizados como chaves eletrônicas em conversores e inversores de potência, pois permitem o controle de grandes correntes com sinal de comando de baixa potência. Com base na estrutura física e no princípio de operação desses dispositivos, analise as afirmativas a seguir: I. Tanto o IGBT quanto o MOSFET são dispositivos controlados por tensão aplicada ao gate, com elevada impedância de entrada devido à presença da camada isolante de dióxido de silício, 𝑆𝑖𝑂2. II. No MOSFET, a condução é realizada apenas por portadores majoritários, elétrons, enquanto no IGBT há injeção de portadores minoritários. III. O IGBT apresenta queda de tensão de condução praticamente constante (𝑉𝐶𝐸(𝑠𝑎𝑡)), enquanto o MOSFET possui comportamento resistivo, com perdas proporcionais a 𝐼2𝑅𝐷𝑆(𝑜𝑛). É correto o que se afirma em",
       "alternatives": {
         "A": "II, apenas.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b8509eb8cf3b597f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b8509eb8cf3b597f",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante o projeto térmico de um inversor trifásico PWM operando a 20 kHz, um engenheiro analisa as perdas em um transistor IGBT responsável pelo chaveamento de uma das fases do circuito. O dispositivo é especificado pelo fabricante com os seguintes parâmetros sob as condições nominais de operação: Considerando que o transistor IGBT atua como chave idealizada e que a operação ocorre em regime estacionário, a temperatura aproximada da junção do dispositivo é",
       "alternatives": {
         "A": "45 °C.",
@@ -820,12 +862,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q43.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7450a50999d36ce3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7450a50999d36ce3",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante o comissionamento de um inversor trifásico PWM, observou-se a ocorrência de picos de tensão no instante de desligamento dos IGBTs causados pela energia armazenada nas indutâncias parasitas do circuito. Para eliminar esse problema, o projetista adicionou, em paralelo a cada dispositivo, um circuito passivo composto por resistor e capacitor, capaz de absorver a energia excedente e limitar a taxa de variação de tensão (dv/dt), durante a comutação. Esse tipo de proteção é conhecido como",
       "alternatives": {
         "A": "detecção de desaturação.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ce38b26036197adf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ce38b26036197adf",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um inversor trifásico PWM destinado ao acionamento de um motor de indução, cada fase é composta por um braço com duas chaves semicondutoras (superior e inferior), implementadas com transistores IGBTs. As chaves são comandadas em pares complementares — quando a inferior conduz, a superior está bloqueada — de modo a gerar uma forma de onda PWM simétrica no terminal da fase do motor. Durante o projeto, o engenheiro responsável observou que: As chaves inferiores podem ser facilmente acionadas, pois seus emissores estão conectados ao terra; Já as chaves superiores flutuam em relação ao terra, pois o potencial do emissor varia continuamente entre 0 V e a tensão do barramento CC, que neste caso é de 600 V; Logo, o driver da chave superior precisa receber, de forma segura, uma tensão de gate referida ao emissor flutuante, sem recorrer a fontes isoladas individuais. Para resolver o problema, foi adotado um circuito em que um capacitor auxiliar é carregado enquanto a chave inferior conduz e, durante o acionamento da chave superior, esse capacitor fornece momentaneamente a tensão necessária para alimentar o driver do transistor superior, permitindo seu acionamento com isolação adequada e sem necessidade de fonte adicional. Esse método de acionamento das chaves superiores é conhecido como",
       "alternatives": {
         "A": "acionamento por transformador de pulso.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "62a18fc795690d1c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "62a18fc795690d1c",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os conversores CC–CC são largamente utilizados em sistemas de instrumentação, automação e acionamentos industriais para ajustar o nível de tensão contínua aplicada a uma carga. Seu princípio básico consiste no chaveamento periódico de um transistor IGBT ou MOSFET, cuja razão entre o tempo em que a chave permanece ligada (𝑡𝑜𝑛) e o período total de comutação (𝑇) é denominada ciclo de trabalho: 𝐷= 𝑡𝑜𝑛 𝑇 Com relação aos tipos e princípios de operação dos conversores CC–CC ideais, analise as afirmativas a seguir: I. O conversor Buck produz uma tensão média de saída (𝑉𝑜) menor que a de entrada (𝑉𝑖𝑛), sendo 𝑉𝑜/𝑉𝑖𝑛= 𝐷. II. O conversor Boost possui relação 𝑉𝑜/𝑉𝑖𝑛= 1/(1 −𝐷), permitindo obter tensão maior que a de entrada. III. O conversor Buck–Boost inverte a polaridade da tensão de 𝑉𝑜 𝑉𝑖𝑛= 𝐷/(1 −𝐷). saída, e É correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c220d43898af8a36"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c220d43898af8a36",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A operação do conversor abaixo que opera no modo de corrente contínua (Continuous current mode - CCM) pode ser representada no plano tensão–corrente da carga, onde o eixo das abscissas representa a tensão aplicada à carga (𝑉) e o eixo das ordenadas representa a corrente da carga (𝐼). A classificação dos quadrantes segundo os sinais de 𝑉 e 𝐼 é: Primeiro Quadrante: quando 𝑉> 0, 𝐼> 0; Segundo Quadrante: quando 𝑉> 0, 𝐼< 0; Terceiro Quadrante: quando 𝑉< 0, 𝐼< 0; e Quarto Quadrante: quando 𝑉< 0, 𝐼> 0. Considerando todos os componentes ideais e que a chave S representa um chaveamento periódico, é correto afirmar que o circuito opera",
       "alternatives": {
         "A": "no primeiro e segundo quadrante, apenas.",
@@ -896,12 +942,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q47.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "01bb7c8201af29af"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "01bb7c8201af29af",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A tensão média de saída 𝑉𝑠, em volts, é aproximadamente igual a",
       "alternatives": {
         "A": "880.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f4d5bb0b29191682"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f4d5bb0b29191682",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O valor do indutor L, em 𝜇𝐻, para que a variação máxima da corrente seja igual a 40A, é aproximadamente igual a",
       "alternatives": {
         "A": "50.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a6f290ad480d9d0f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a6f290ad480d9d0f",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Conectou-se uma fonte de tensão regulável 𝑉𝑒 a um circuito com o objetivo de se obter uma tensão média de saída 𝑉𝑠. A chave S representa um chaveamento periódico em que o ciclo de trabalho é igual a 0,4. Considerando todos os componentes ideais e que o circuito opera no modo de corrente contínua (Continuous current mode – CCM), o valor de 𝑉𝑒, em volts, para que 𝑉𝑠= 50𝑉 é aproximadamente",
       "alternatives": {
         "A": "125.",
@@ -953,12 +1002,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q50.png",
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0095c3cef2ee6f93"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0095c3cef2ee6f93",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os conversores CC–CC podem ser classificados conforme o modo de transferência de energia entre a fonte e a carga. Nos conversores diretos, a energia flui continuamente durante todo o ciclo de chaveamento sem armazenamento intermediário significativo. Esses conversores são amplamente utilizados em fontes isoladas, sistemas de média potência e aplicações que exigem boa regulação dinâmica e isolamento galvânico. Três topologias de conversores CC–CC diretos são",
       "alternatives": {
         "A": "Buck, Boost, Flyback.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3a2a4b8d31f6400a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3a2a4b8d31f6400a",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em sistemas eletrônicos alimentados por fontes variáveis, como baterias automotivas e painéis solares, é comum que a tensão de entrada oscile acima ou abaixo da tensão desejada para o circuito de carga. Por essa razão, um conversor CC–CC pode ser empregado para manter a saída regulada mesmo quando a tensão de entrada for maior, menor ou igual à tensão desejada. A topologia de conversor CC-CC mais indicada para a aplicação descrita é",
       "alternatives": {
         "A": "Buck-Boost.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9a41f9e1ec2e2986"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9a41f9e1ec2e2986",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere o circuito de um transistor NPN polarizado por divisor de tensão na base e operando em regime estacionário. Deseja-se que transistor Q1 funcione na região ativa admitindo modelo aproximado com 𝛽 alto. Considerando os possíveis pares de valores para 𝑅1e 𝑅2, assinale a opção em que o transistor opera na região ativa.",
       "alternatives": {
         "A": "𝑅1 = 10 kΩ, 𝑅2 = 10 kΩ.",
@@ -1010,12 +1062,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-eletronico_q53.png",
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ecc1a9ef32480989"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ecc1a9ef32480989",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um conversor CC–CC Half-Bridge isolado do tipo forward é alimentado por um barramento contínuo de 300 V. As duas chaves do meio braço são acionadas de forma complementar, de modo que, durante o intervalo de condução, a tensão aplicada ao primário do transformador é metade da tensão do barramento. 𝑁𝑝 𝑁𝑠= 5, onde 𝑁𝑝 O transformador possui relação de espiras igual a é o número de espiras do primário e 𝑁𝑠 é o número de espiras do secundário. O secundário é retificado e filtrado, e o conversor opera em modo de condução contínua (CCM), com perdas desprezíveis. Se o conversor opera com razão cíclica (ciclo de trabalho) igual a 0,4, a tensão média de saída, em volts, é igual a",
       "alternatives": {
         "A": "12.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2dedff10861af32e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2dedff10861af32e",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um engenheiro analisa a possibilidade de utilizar um conversor CC- CC direto em uma aplicação de armazenamento de energia, onde o mesmo circuito deve permitir carregar e descarregar um banco de baterias. Considera-se que o conversor é implementado com interruptores semicondutores totalmente controláveis (MOSFETs), substituindo diodos por dispositivos síncronos. A respeito da reversibilidade de conversores CC-CC, é correto afirmar que",
       "alternatives": {
         "A": "Um conversor CC-CC direto é sempre reversível, independentemente da topologia, desde que opere em modo contínuo de corrente (CCM).",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bf0ef66d080be779"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bf0ef66d080be779",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um retificador PWM trifásico do tipo VSI (Voltage Source Inverter) operando como retificador ativo está conectado a uma rede de 380 V (linha-linha), 60 Hz. O conversor mantém um barramento CC regulado em 𝑉𝑑𝑐= 700 V e opera com controle vetorial, impondo corrente senoidal na rede e fator de potência unitário. As correntes de fase são senoidais e equilibradas e as perdas no conversor são desprezíveis. O equipamento entrega 10 kW a uma carga resistiva conectada no barramento CC. Com base nessas informações, o valor eficaz da corrente de linha 𝐼𝐿 que o retificador PWM deve absorver da rede, em A, é aproximadamente",
       "alternatives": {
         "A": "5,2.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4daabeb1ef65f229"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4daabeb1ef65f229",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os conversores Analógico-Digitais (ADC) são fundamentais em sistemas eletrônicos, automação industrial e instrumentação, permitindo que sinais analógicos sejam processados digitalmente. Diversas arquiteturas de ADC são utilizadas na prática, como flash, aproximações sucessivas (SAR), sigma-delta, pipeline e rampa/contagem, cada uma com diferentes compromissos entre velocidade, precisão, custo e consumo. Com base nas características típicas desses tipos de conversores A/D, é correto afirmar que",
       "alternatives": {
         "A": "ADC do tipo flash utilizam diversos comparadores em cascata e, embora apresentem baixa velocidade, oferecem alto consumo e são utilizados principalmente em instrumentos de laboratório de baixo custo.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "76bbbe619d16e053"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "76bbbe619d16e053",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de instrumentação, um sensor de pressão, após um estágio de condicionamento inicial, fornece um sinal 𝑉𝑒 de 0 a 2 V proporcional à faixa de medição de interesse. Esse sinal será aplicado à entrada de um conversor A/D que exige uma faixa 𝑉𝑠 de 1 a 5 V para utilizar toda a sua resolução. Deseja-se projetar um estágio com amplificador operacional na configuração somador que realize uma transformação linear do tipo: 𝑉s = 𝑎⋅𝑉e + 𝑏. Com base nesses requisitos, os valores de ganho 𝑎 e offset 𝑏 que devem ser implementados pelo estágio com amplificador operacional são",
       "alternatives": {
         "A": "𝑎= 2 e 𝑏= 1.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "96ba96d892060c5f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "96ba96d892060c5f",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sistemas de Instrumentação e Controle (I&C) utilizam diagramas lógicos para representar condições de operação, permissivos, intertravamentos e funções de proteção de equipamentos. Esses diagramas podem empregar blocos analógicos (comparadores, filtros, limitadores) e digitais (portas lógicas, latches, flip-flops, temporizadores), permitindo a análise estruturada das respostas do sistema frente a falhas e condições operacionais. Considerando princípios de avaliação e interpretação de diagramas lógicos de controle e proteção, é correto afirmar que",
       "alternatives": {
         "A": "em diagramas de intertravamento digital, portas AND são utilizadas para acionar um equipamento sempre que qualquer das condições de entrada for verdadeira, enquanto portas OR garantem que o equipamento só opere quando todas as condições forem satisfeitas.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "60658180e601cf50"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "60658180e601cf50",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um sistema de controle realimentado, a qualidade da resposta depende tanto das características dinâmicas da planta quanto da sintonia do controlador. Ações de controle proporcional, integral e derivativa influenciam diretamente o comportamento transitório, o erro em regime permanente e a estabilidade do sistema. Métodos de sintonia, como Ziegler–Nichols ou sintonia por resposta ao degrau, são utilizados para ajustar o desempenho com base em requisitos como tempo de acomodação, sobressinal e margem de estabilidade. Considerando conceitos de análise de resposta transitória e controle PID, é correto afirmar que",
       "alternatives": {
         "A": "a ação integral do controlador reduz o sobressinal e acelera significativamente o tempo de subida do sistema, sendo usada principalmente para melhorar a resposta transitória.",
         "B": "a ação derivativa aumenta o erro em regime permanente, pois amplifica os erros acumulados ao longo do tempo, degradando a estabilidade.",
         "C": "o aumento do ganho proporcional tende a reduzir o erro em regime permanente, porém pode aumentar o sobressinal e reduzir a margem de estabilidade.",
         "D": "em métodos clássicos de sintonia, como Ziegler–Nichols, o controlador PI não é capaz de eliminar o erro em regime permanente, sendo necessário sempre incluir ação derivativa.",
-        "E": "um sistema realimentado que apresenta sobressinal elevado e oscilação sustentada possui alta margem de ganho e alta margem de fase, indicando sintonia conservadora e estabilidade robusta. Redação"
+        "E": "um sistema realimentado que apresenta sobressinal elevado e oscilação sustentada possui alta margem de ganho e alta margem de fase, indicando sintonia conservadora e estabilidade robusta."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e566249a895ba6e7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e566249a895ba6e7",
+      "base_text": null
     }
   ],
   "year": 2024,

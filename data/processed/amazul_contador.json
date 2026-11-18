@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_contador_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Uma empresa aberta constituiu, em 2024, reserva de lucros a realizar de R$20.000. Em 2025, o lucro de 2024 foi financeiramente realizado, de modo que a empresa reverteu a reserva de lucros a realizar. No ano, o montante revertido deve ser transferido para",
       "alternatives": {
         "A": "reserva legal.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4abc1ef2bb666e0d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4abc1ef2bb666e0d",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Uma sociedade empresária captou um empréstimo de terceiros, no valor de R$200.000. O pagamento deve ser feito, integralmente, em 4 anos. Os custos de transação associados à captação foram de R$15.000, pagos à vista. Na data da captação, o passivo deve ser reconhecido do seguinte modo",
       "alternatives": {
         "A": "R$185.000 em não circulante, apenas.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ffde62d7b4720257"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ffde62d7b4720257",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Uma sociedade empresária apresentou, em sua Demonstração do Resultado, entre as despesas operacionais, a conta “resultado com equivalência patrimonial”, com saldo negativo de R$18.000. O fato foi considerado",
       "alternatives": {
         "A": "incorreto, uma vez que o reconhecimento com equivalência patrimonial não pode ser negativo.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3e12e4739dd8bb41"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3e12e4739dd8bb41",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Em 31/12/2025, uma sociedade empresária realizou o teste de recuperabilidade de seus ativos imobilizados. Uma de suas máquinas foi produzida internamente e possui características individuais, de modo que não foi possível mensurar o valor justo líquido de despesas de alienação, apesar do esforço dispendido. Na data do teste, a máquina apresentava valor contábil de R$80.000 e o valor em uso era estimado em R$78.000. Nesse caso, deve-se",
       "alternatives": {
         "A": "considerar o valor em uso como valor recuperável e reconhecer despesa de R$2.000 na Demonstração do Resultado.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e48de6ab274b2138"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e48de6ab274b2138",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Assinale a opção que indica uma conta de natureza credora, que é incluída no ativo, no Balanço Patrimonial de uma entidade",
       "alternatives": {
         "A": "ações em tesouraria.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "819b0b7154728a1c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "819b0b7154728a1c",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Um escritório de perícia contábil prestou serviços a terceiros em 2024, por R$300.000. O valor foi recebido, integralmente, em 2025. Ao elaborar a Demonstração dos Fluxos de Caixa anual pelo método direto, em 31/12/2025, o valor",
       "alternatives": {
         "A": "foi reconhecido como Atividade Operacional.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8da652775a40aeb0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8da652775a40aeb0",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Uma empresa presta serviços de consultoria tributária. Em 2025, ela vendeu um terreno que era utilizado para aluguel a terceiros por R$200.000, à vista. Na Demonstração do Valor Adicionado anual da empresa, em 31/12/2025, a venda desse ativo é reconhecida em",
       "alternatives": {
         "A": "receitas.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f694cb9d7e40e9b0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f694cb9d7e40e9b0",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Em 2025, uma sociedade empresa teve um aumento de R$30.000 em seu capital social, com a utilização de reservas. O fato foi apresentado na seguinte demonstração contábil",
       "alternatives": {
         "A": "Balanço Patrimonial.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8e45040440a3082c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8e45040440a3082c",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, as notas explicativas contêm informação adicional em relação à apresentada nas demonstrações contábeis. Em relação a elas, analise o que afirma a seguir: I. aberturas de itens divulgados nas demonstrações. II. repetição de itens, cujos valores são considerados relevantes, reconhecidos nas demonstrações. III. informação sobre itens que não se enquadram nos critérios de reconhecimento nas demonstrações. As notas explicativas oferecem o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "37d93d67bdc0d29a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "37d93d67bdc0d29a",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "O Balanço Patrimonial de uma sociedade empresária apresenta saldos positivos no passivo circulante e no passivo não circulante. Ainda, apresenta saldo positivo no ativo circulante, mas o seu ativo realizável a longo prazo é zero. Ao calcular os indicadores de liquidez, pode-se constatar que o índice de liquidez geral é igual ao índice de",
       "alternatives": {
         "A": "liquidez seca.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ce2f030cd4abd0d3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ce2f030cd4abd0d3",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Em 31/12/2025, uma sociedade empresária apresentava os seguintes saldos em seu Balanço Patrimonial: Disponibilidades: R$50.000; Capital Social: R$50.000. Em janeiro de 2026, os sócios aumentaram o capital social da sociedade empresária em R$50.000, por meio de um terreno destinado à valorização, de R$20.000, e um terreno destinado ao uso em sua atividade fim, de R$30.000. Assinale a opção que indica o índice de imobilização do patrimônio líquido após o aumento de capital social.",
       "alternatives": {
         "A": "0,20.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "dba02ff8fff606bf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dba02ff8fff606bf",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "A Cia X e a Cia Y se uniram para formar a Cia Z. Deste modo, a assembleia geral de cada empresa aprovou o protocolo de fusão e realizou os atos que constam na Lei 6.404/76 e alterações. Após a realização dos laudos dos peritos nomeados para avaliar os patrimônios líquidos das empresas, os sócios foram convocados para uma assembleia geral para resolver sobre a constituição definitiva da nova sociedade. Nela, os sócios votaram o laudo de avaliação do patrimônio líquido da sociedade que faziam parte. O fato foi considerado",
       "alternatives": {
         "A": "correto, uma vez que os sócios são os principais interessados na realização da fusão.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "35daaf8f74c20b6f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "35daaf8f74c20b6f",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Em relação à cisão de uma companhia, de acordo com a Lei 6.404/76 e modificações, é correto afirmar que",
       "alternatives": {
         "A": "a companhia cindida deve ser extinta.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "de9cac16a002f6bf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "de9cac16a002f6bf",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "As Cias Branco e Azul apresentavam os seguintes saldos em seus Balanços Patrimoniais, em 31/12/2025: Cia Branco: Disponibilidades: R$40.000; Capital Social: R$40.000. Cia Azul: Disponibilidades: R$10.000; Capital Social: R$10.000. Em janeiro de 2026, a Cia Branco adquiriu participação de 100% na Cia Azul por R$12.000, pagos à vista. Assinale a opção que indica o saldo da conta “Disponibilidades” no Balanço Patrimonial Consolidado, após a aquisição.",
       "alternatives": {
         "A": "R$28.000.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "85e769d802dc77e8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "85e769d802dc77e8",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "A Cia Laranja tem participação de 100% na Cia Amarelo. Em 2025, a Cia Laranja reconheceu receitas com a prestação de serviços a terceiros de R$120.00, enquanto os custos e as despesas incorridos foram de R$70.000. Já a Cia Amarelo reconheceu receitas com a prestação de serviços a terceiros de R$30.000, enquanto os custos e as despesas incorridos foram de R$18.000. Na Demonstração do Resultado individual da Cia Laranja, em 31/12/2025, o resultado, sem considerar impostos, era de",
       "alternatives": {
         "A": "R$50.000.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5e2db662744f9561"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5e2db662744f9561",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Uma entidade do setor público que atua com atendimento a aposentados, possui um prédio de oito andares, cujo valor contábil no Balanço Patrimonial, em 31/12/2025, era de R$800.000. Suas atividades são exercidas no primeiro andar, enquanto os demais andares são alugados a terceiros. Das receitas reconhecidas pela entidade em 2025, 60% vinham do aluguel. Assinale a opção que indica a classificação do prédio no Balanço Patrimonial da entidade do setor público em 31/12/2025.",
       "alternatives": {
         "A": "R$800.000 em ativo imobilizado",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9e716d377c8bc9c7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9e716d377c8bc9c7",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Uma entidade do setor público apresenta, em seu Balanço Patrimonial, um ativo intangível reconhecido por R$30.000. A entidade tem a política de amortizar os seus ativos intangíveis com base no método da linha reta. No entanto, ao verificar a sua Demonstração do Resultado, um auditor constatou que não há despesas relacionadas à amortização desse ativo intangível. O auditor pode constatar que",
       "alternatives": {
         "A": "o ativo não foi utilizado naquele ano.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f4b5ec38930a22d1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f4b5ec38930a22d1",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Uma entidade do setor público reconheceu, em seu passivo, uma provisão para riscos trabalhistas. Para isso, realizou a melhor estimativa do desembolso que, provavelmente, será necessário para a extinção da obrigação na data das demonstrações contábeis. Em relação à estimativa, analise os itens a seguir: I. julgamento da administração da entidade II. experiência de casos similares III. relatórios de peritos independentes Na determinação das estimativas dos resultados e efeitos financeiros, pode-se considerar o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ecfd860660e6bec8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ecfd860660e6bec8",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Em dezembro de 2025, uma sociedade empresária decidiu começar a fabricar um novo produto a partir de 2026. Com este objetivo, adquiriu, em dezembro, uma máquina, por R$50.000 e matéria prima, por R$10.000. Além disso, pagou, antecipadamente, R$20.000, por um treinamento que será oferecido a seus empregados. De acordo com a terminologia de custos, em dezembro, classifica- se como Investimentos o seguinte montante:",
       "alternatives": {
         "A": "R$10.000.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0cdb445e42f0351f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0cdb445e42f0351f",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Em 30/12/2025, os fatos a seguir ocorreram em uma entidade do setor público: Compra, à vista, de material de escritório para ser utilizado durante o primeiro trimestre de 2026: R$2.000 Compra, à vista, de estoque de produtos de limpeza que serão utilizados no primeiro semestre de 2026: R$3.000. Pagamento antecipado de aluguel de veículo que será utilizado durante todo o ano de 2026: R$24.000. Considerando que todos os valores são considerados materiais, no Balanço Patrimonial, em 31/12/2025, a entidade reconheceu como “Variações Patrimoniais Diminutivas (VPD) Pagas Antecipadamente” o seguinte montante:",
       "alternatives": {
         "A": "R$2.000.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c0ddf9d59ee8f3e6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c0ddf9d59ee8f3e6",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Em 31/12/2025, o Balanço Orçamentário não consolidado de uma entidade do setor público apresentava desequilíbrio e déficit orçamentário. A entidade é um agente arrecadador e executa despesas orçamentárias para prestação de serviços públicos, portanto o fato",
       "alternatives": {
         "A": "representa irregularidade e deve ser exposto aos usuários externos.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3fd2e40bb1f2ed8c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3fd2e40bb1f2ed8c",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Com relação à evidência de auditoria, assinale V para a afirmativa verdadeira e F para a falsa. ( ) É obtida, principalmente, a partir dos procedimentos de auditoria realizados durante o curso do trabalho, mas também pode incluir informações obtidas de outras fontes, como auditorias anteriores. ( ) Abrange informações que suportam e corroboram as afirmações da administração e qualquer informação que contradiga tais afirmações, no entanto, não podem ter sido elaboradas com a utilização do trabalho de especialista da administração. ( ) A ausência de informações pode constituir evidência de auditoria como, por exemplo, a recusa da administração em fornecer uma representação solicitada. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ce415462f805103f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ce415462f805103f",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Na realização de auditoria independente de uma entidade, ao verificar os saldos a receber de empresas localizadas no exterior, o auditor independente não conseguiu obter evidência apropriada e suficiente de auditoria para fundamentar a sua opinião. O auditor concluiu que os possíveis efeitos de distorções não detectadas sobre as demonstrações contábeis poderiam ser relevantes, mas não generalizados. Nesse caso o auditor deve emitir, em seu relatório,",
       "alternatives": {
         "A": "opinião adversa.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bc899e48057b41a3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bc899e48057b41a3",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Dois contadores integram uma sociedade profissional que presta serviços de perícia contábil. Em dezembro de 2025, os contadores foram procurados por dois clientes, com interesses opostos, para assistência técnica no mesmo processo. É correto afirmar que os contadores",
       "alternatives": {
         "A": "podem prestar a assistência, desde que não debatam o caso entre eles.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a827fb0450c0b823"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a827fb0450c0b823",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Um perito contábil foi contratado para a realização de uma perícia contábil relacionada a uma sociedade empresária. Em seu planejamento, estabeleceu seus objetivos, diretrizes e recursos a serem aplicados. Este planejamento deve ser",
       "alternatives": {
         "A": "avaliado mensalmente.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1d672d4fec4167a5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1d672d4fec4167a5",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "Um investidor estava avaliando dois projetos direrentes, Gama e Delta, com o objetivo de obter retorno monetário a partir deles. Ele concluiu o seguinte: Projeto Gama: a taxa interna de retorno (TIR) era maior do que o custo de capital. Projeto Delta: a taxa interna de retorno (TIR) era menor do que o custo de capital. O analista optou por",
       "alternatives": {
         "A": "aceitar os dois projetos.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "800740dcfe053091"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "800740dcfe053091",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "A Instrução normativa da Receita Federal do Brasil 1.234/2012 e modificações, dispõe sobre a retenção de tributos incidentes sobre pagamentos efetuados a pessoas jurídicas pelo fornecimento de bens ou prestação de serviços. Com relação aos pagamentos de seguros por intermédio de corretora, a retenção será feita sobre o valor",
       "alternatives": {
         "A": "repassado à corretora.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f56aa7ce287e51d0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f56aa7ce287e51d0",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "De acordo com a Lei Complementar 116/2003, que dipõe sobre o Imposto Sobre Serviços de Qualquer Natureza, de competência dos Municípios e do Distrito Federal, em geral, o serviço considera- se prestado, e o imposto, devido no local do estabelecimento do",
       "alternatives": {
         "A": "prestador.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "477ded9dfc7e5bba"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "477ded9dfc7e5bba",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "De acordo com a Lei 11.107/2005, o consórcio público poderá, para o cumprimento de seus objetivos, ser contratado pela administração direta ou indireta dos entes da Federação consorciados, por meio de",
       "alternatives": {
         "A": "dispensa de licitação.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a24df527568e75fd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a24df527568e75fd",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Contabilidade Geral",
       "statement": "De acordo com a Lei 13.243/2016, a União e os demais entes federativos e suas entidades são autorizados, nos termos de regulamento, a participar minoritariamente do capital social de empresas, com o propósito de desenvolver produtos ou processos inovadores que estejam de acordo com as diretrizes e prioridades definidas nas políticas de ciência, tecnologia, inovação e de desenvolvimento industrial de cada esfera de governo. Nesse sentido, é correto afirmar que",
       "alternatives": {
         "A": "a alienação dos ativos da participação societária deve ser realizada por meio de licitação.",
         "B": "a propriedade intelectual sobre os resultados obtidos pertencerá à União e aos demais entes.",
         "C": "os recursos recebidos em decorrência da alienação da participação societária deverão ser aplicados, exclusivamente, em pesquisa e desenvolvimento.",
         "D": "o poder público poderá condicionar a participação societária via aporte de capital à previsão de licenciamento da propriedade intelectual para atender ao interesse público.",
-        "E": "a participação minoritária somente poderá ocorrer por meio de contribuição financeira e não poderá ser aceita como forma de remuneração pela transferência de tecnologia. Redação"
+        "E": "a participação minoritária somente poderá ocorrer por meio de contribuição financeira e não poderá ser aceita como forma de remuneração pela transferência de tecnologia."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d4a0fce54af94b9c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d4a0fce54af94b9c",
+      "base_text": null
     }
   ],
   "year": 2024,

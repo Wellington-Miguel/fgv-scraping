@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-naval_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma manobra de saída de porto, o comandante percebe que, ao aumentar rapidamente a rotação do eixo propulsor, o navio apresenta forte vibração e aumento no nível de ruído subaquático. Considerando as boas práticas operacionais para reduzir a ocorrência de cavitação na hélice, assinale a opção mais adequada para evitar esse tipo de problema durante acelerações.",
       "alternatives": {
         "A": "aumentar rapidamente o passo da hélice para obter maior velocidade e reduzir o carregamento sobre as pás.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6082cb8e188ddfd0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6082cb8e188ddfd0",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma avaliação de desempenho propulsivo, um engenheiro naval deve selecionar o tipo de hélice mais adequado para uma embarcação que opera alternando manobras frequentes, mudanças rápidas de velocidade e necessidade de controle preciso de empuxo. Considerando as características dos principais tipos de hélice, assinale a opção que representa a escolha tecnicamente mais apropriada.",
       "alternatives": {
         "A": "Hélice de passo fixo, pois permite ajustar o ângulo das pás rapidamente durante a rotação.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "90c5fa51cd229480"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "90c5fa51cd229480",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um estaleiro realiza ensaios em um tanque de provas para um modelo de rebocador construído em escala 1:20, sendo que o navio real possui 60 m de comprimento. Para manter a semelhança dinâmica baseada no número de Froude, assinale a opção que descreve corretamente como deve ser ajustada a velocidade do modelo em relação à velocidade do navio real.",
       "alternatives": {
         "A": "a velocidade do modelo deve ser igual à do navio em escala real, pois o número de Froude não depende da escala.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b53e015c9903cd1b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b53e015c9903cd1b",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante um treinamento de máquinas, o operador observa no manual que a hélice do navio possui um passo nominal de 15 pés. Assinale a opção que define corretamente o conceito de passo da hélice",
       "alternatives": {
         "A": "A hélice desloca exatamente 15 pés de água para trás a cada rotação, garantindo eficiência de 100%.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ab3a4e1803f6c7ba"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ab3a4e1803f6c7ba",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um navio possui comprimento entre perpendiculares 𝐿𝑝𝑝= 150 m e calado T=4 m. O projetista deseja boa manobrabilidade, com pequeno tempo de resposta e pouco ultrapassagem (overshoot) em guinada. Sabe-se que, para navios com alta manobrabilidade, recomenda-se um Ratio do Leme (RAR) dado por RAR=0,025. Considerando o ratio, assinale a opção que apresenta o valor correto de área de leme para o navio em questão.",
       "alternatives": {
         "A": "15 m2",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0fbf64afc73de822"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0fbf64afc73de822",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um engenheiro está avaliando a possibilidade de usar um material frágil, como ferro fundido ou cerâmico, em um componente estrutural que não será submetido a grandes deformações. Considerando as características típicas dos materiais frágeis, assinale a opção que apresenta o uso que seria tecnicamente vantajoso.",
       "alternatives": {
         "A": "Componentes sujeitos a impactos repetitivos, em que a alta tenacidade é essencial para evitar fratura.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "523d18f209eaae25"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "523d18f209eaae25",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No projeto preliminar de um novo cargueiro, o engenheiro naval precisa estimar a potência necessária para o navio atingir a velocidade de operação desejada em mar calmo, sem considerar a influência do propulsor. Com base no conceito Effective Horsepower (EHP), assinale a opção que descreve corretamente essa grandeza.",
       "alternatives": {
         "A": "EHP é a potência fornecida pelo motor ao eixo da hélice, já considerando perdas mecânicas.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a83b5b8771b9d904"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a83b5b8771b9d904",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante operações de atracação em portos congestionados, um navio de grande porte apresenta dificuldade para manobrar em baixas velocidades devido à redução da eficácia hidrodinâmica do leme e da hélice. Considerando soluções típicas de engenharia naval para melhorar a manobrabilidade em baixa velocidade, assinale a opção que representa uma medida eficaz para essa situação.",
       "alternatives": {
         "A": "Reduzir o calado do navio para diminuir o arrasto viscoso e aumentar a autoridade do leme.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a3c798873034fc2a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a3c798873034fc2a",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma barcaça de 100m×20m×10m flutua em águas calmas. O peso leve é de 2000 t, distribuído uniformemente. Os dois porões centrais, 25 m cada, estão completamente cheios de água doce, como indicado na figura. Considere empuxo aproximadamente uniforme e equilíbrio estático. Sendo W(x) a carga distribuída de peso por unidade de comprimento e B(x) a carga distribuída de empuxo por unidade de comprimento. Assinale a opção que descreve corretamente, de forma qualitativa, as curvas de carga R(x)=W(x)−B(x), força cortante V(x) e momento fletor M(x).",
       "alternatives": {
         "A": "R(x) ≈ 0 em todo o comprimento ⇒ V(x) e M(x) quase nulos.",
@@ -744,12 +782,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-naval_q39.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e7e0318a8bbff7c0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e7e0318a8bbff7c0",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um bloco de madeira flutua em água doce e pode ser considerado como uma viga de comprimento 9 m e largura variável, conforme ilustrado na figura. Ele possui densidade uniforme e está em equilíbrio estático. Quando uma carga de 1 tonelada é adicionada no centroide do bloco, assinale a opção que descreve corretamente, de forma qualitativa, as curvas de carga líquida R(x) = W(x) − B(x), força cortante V(x) e momento fletor M(x).",
       "alternatives": {
         "A": "R(x) ≈ 0 em todo o comprimento ⇒ V(x) e M(x) quase nulos.",
@@ -763,12 +802,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-naval_q40.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7ab0a3c24ef0dee7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ab0a3c24ef0dee7",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere uma viga bi-apoiada de comprimento L=1m, solicitada por uma carga concentrada P no meio do vão. A seção da viga é composta por duas lâminas aderidas: a lâmina inferior é de aço (steel) com módulo de elasticidade de 𝐸aço=2×1011 Pa, e a lâmina superior de alumínio de 𝐸Al=0,7×1011 Pa, com dimensões mostradas na figura. Comparando essa viga composta com uma viga de alumínio puro, de mesmas dimensões geométricas, assinale a opção que descreve o comportamento da deflexão do meio do vão.",
       "alternatives": {
         "A": "A deflexão da viga composta é maior, pois o alumínio é menos rígido que o aço.",
@@ -782,12 +822,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-naval_q41.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5387eae569ca822b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5387eae569ca822b",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Mostra-se na figura, um perfil de chapa fina em formato de “U” constituído por: mesa superior horizontal com comprimento de 20 cm e espessura de 7 mm; duas almas verticais com 15 cm de altura e espessura de 5 mm. Um esforço cortante vertical resultante V atuando para baixo, aplicado no centro da mesa superior. Admita que o esforço cortante é equilibrado pelo cisalhamento na parede fina do perfil. O ponto B está localizado na extremidade esquerda da mesa superior (espessura 7 mm). Assinale a opção que descreve corretamente a tensão de cisalhamento em B em comparação com a tensão nas almas verticais.",
       "alternatives": {
         "A": "A tensão em B é maior que nas almas, porque a mesa superior carrega todo o esforço cortante.",
@@ -801,12 +842,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-naval_q42.png",
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d5cd3d47eb144a69"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d5cd3d47eb144a69",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A seção meia-nau de um navio possui um módulo de seção em relação ao fundo Zf, e um módulo de seção em relação ao convés Zc. Sendo que Zf > Zc. Sabendo que o menor módulo de seção da estrutura deve atender ao requisito mínimo Zreq conforme norma, é correto afirmar que o critério é atendido se",
       "alternatives": {
         "A": "Zc > Zreq",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e20aecb4b7992839"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e20aecb4b7992839",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma corveta será modernizada com a instalação, à meia-nau, de um guindaste de longo alcance sobre uma plataforma estabilizada, acrescentando um peso de 10% do deslocamento original. Considere que, antes da modernização, o navio tinha distribuição de peso aproximadamente uniforme, área de plano d’água e coeficiente de bloco praticamente inalterados, e diagrama de momento fletor típico de peso e empuxo quase uniformes em mar calmo. Considerando as condições extremas de onda de tosamento e alquebramento, assinale a opção que descreve corretamente o efeito mais crítico da instalação do guindaste sobre o momento fletor máximo no casco.",
       "alternatives": {
         "A": "O acréscimo de peso em meia-nau torna mais crítica apenas a condição de mar calmo, sem alterar significativamente as condições em ondas.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "abd3a36b8300a2f3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "abd3a36b8300a2f3",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma nova corveta de patrulha deve operar a 20 nós, com deslocamento de 1 500 t e hélice de 4 m de diâmetro. Ensaios em água aberta indicam rendimento da hélice para um coeficiente de avanço J ≈ 0,9. Inicialmente, o motor aciona diretamente o eixo do propulsor; em uma segunda configuração, instala-se um redutor 4:1, mantendo a mesma rotação nominal do motor. Sabendo que o coeficiente de avanço é dado por J=VA/(nD), onde VA é a velocidade de avanço, n é a velocidade de rotação da hélice (rev/s) e D o diâmetro da hélice. Analise a opção que descreve corretamente o efeito qualitativo da instalação do redutor 4:1 sobre a operação da hélice em regime de projeto.",
       "alternatives": {
         "A": "O redutor aumenta a rotação da hélice, reduz J e afasta a operação do ponto de máxima eficiência.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2825961305fd8376"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2825961305fd8376",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um ensaio em tanque com modelo de hélice propulsora, foram obtidos, para a condição de funcionamento com 10 rotações por segundo e velocidade de avanço 𝑉A=5,0 m/s, os seguintes dados experimentais: Empuxo desenvolvido: T=400 N, Torque no eixo: 𝑄=50 N.m. Admita as expressões: THP = 𝑇.𝑉𝐴 e DHP=2πnQ, onde 𝑛 é a rotação em rev/s, e a eficiência do propulsor 𝜂𝑝=THP/DHP. Assinale a opção que apresenta aproximadamente a potência desenvolvida pelo propulsor (THP), a potência fornecida ao eixo (DHP) e a eficiência do modelo 𝜂𝑝.",
       "alternatives": {
         "A": "THP ≈ 3,0 kW, DHP ≈ 4,1 kW, 𝜂𝑝 ≈ 50%",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2a6ac52053aabaa9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2a6ac52053aabaa9",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura representa o arranjo estrutural típico de um navio, destacando anteparas transversais, hastilhas, fundo e teto do duplo fundo. Considere que o casco é submetido a esforços globais e locais decorrentes de cargas hidrostáticas, cargas de carga/lastro e esforços de mar. Com base na teoria de estruturas navais, assinale a opção que descreve corretamente, de forma qualitativa, as deflexões primárias, secundárias e terciárias no casco.",
       "alternatives": {
         "A": "Primárias: deformações locais nas chapas entre longarinas; Secundárias: flexão global do casco como um todo; Terciárias: deformações das anteparas transversais apenas.",
@@ -896,12 +942,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-naval_q47.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0b0e4efe0cdf3f98"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0b0e4efe0cdf3f98",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Analise os três sistemas propulsivos a seguir: I. motor diesel + caixa redutora + hélice de passo fixo II. sistema diesel-elétrico com propulsor azimutal e hélice de passo variável III. pump-jet (moto-bomba propulsora) Com base no porte da embarcação, custos e manutenção, assinale a opção que descreve corretamente a adequação relativa desses sistemas.",
       "alternatives": {
         "A": "I é para grandes navios e é o mais caro; II é para pequenas embarcações; III é o mais econômico para navios mercantes.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f1ac81cab85666b3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f1ac81cab85666b3",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O motor diesel principal depende de diversos sistemas auxiliares, cada um tratando um fluido e operando de forma integrada. Assinale a opção que apresenta três sistemas auxiliares essenciais, descrevendo corretamente: (1) sua função física, (2) o fluido tratado, (3) uma interdependência operacional entre esses sistemas.",
       "alternatives": {
         "A": "Sistema de combustível: lubrifica o motor; fluido: diesel; interdependência: depende do ar comprimido.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8b82cdd47d613ff2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8b82cdd47d613ff2",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Navios mercantes utilizam HFO (óleo pesado) e diesel marinho, cada um com um fluxo típico de armazenamento, tratamento e alimentação do motor. Assinale a opção que apresenta corretamente esses fluxos.",
       "alternatives": {
         "A": "HFO: Armazenagem → Sedimentação → Separador → Serviço aquecido → Aquecedor final → Bombas → Motor. Diesel: Armazenagem → Filtro grosseiro → Serviço → Bombas → Filtros finos → Motor",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "de7316b488e08091"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "de7316b488e08091",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considerando os elementos estruturais típicos de um navio, assinale a opção que apresenta corretamente a função da estrutura transversal e a função da estrutura longitudinal.",
       "alternatives": {
         "A": "Função transversal: resistir ao momento fletor longitudinal; Função longitudinal: manter a forma transversal.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b5710c947060233e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b5710c947060233e",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em navios, elementos estruturais longitudinais e transversais atuam conjuntamente para garantir rigidez global e local do casco. Assinale a opção que apresenta corretamente três elementos longitudinais, três transversais.",
       "alternatives": {
         "A": "Longitudinais: quilha, longarina, caverna; Transversais: caverna, antepara transversal, vau.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ee265f879dca1383"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ee265f879dca1383",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Navios apresentam perdas mecânicas e hidrodinâmicas entre a potência efetiva (EHP) e a potência entregue pelo motor (BHP). Assinale a opção que define corretamente EHP, DHP (Delivered Horse Power), SHP (Shaft Horse Power) e BHP.",
       "alternatives": {
         "A": "EHP: potência para vencer a resistência do casco; DHP: potência perdida na hélice; SHP: potência útil no eixo do motor; BHP: potência no eixo antes da caixa redutora.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5290983fcf1cb4c2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5290983fcf1cb4c2",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma embarcação militar de interceptação foi projetada para atingir 35 nós com calado cheio, acrescido de uma folga operacional de 20%. O engenheiro responsável precisa selecionar o sistema propulsivo mais adequado, considerando eficiência hidrodinâmica, tendência à cavitação e manobrabilidade nas velocidades elevadas. Com base nessa situação, assinale a opção que apresenta a combinação mais adequada de sistema propulsivo e tipo de motor principal para atender aos requisitos de velocidade e operação.",
       "alternatives": {
         "A": "Hélice de passo fixo acoplada a motor diesel de médio porte.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d54837f6e69b18e1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d54837f6e69b18e1",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considerando a definição de tensões primárias, secundárias e terciárias no contexto de estruturas navais, assinale a opção que apresenta corretamente a associação entre tipo de tensão e característica estrutural correspondente.",
       "alternatives": {
         "A": "Tensões primárias são devidas à flambagem local de chapas; tensões secundárias surgem do carregamento global do casco; tensões terciárias decorrem de esforços longitudinais de casco.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "60db4dd5944ddb3e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "60db4dd5944ddb3e",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A resposta do navio às ações do leme e sua capacidade de manter rumo são essenciais para a segurança e o desempenho. Nos testes de manobrabilidade, avaliam-se parâmetros como estabilidade direcional, avanço, transferência e diâmetro tático para analisar o comportamento da embarcação em mudanças de direção. Com base nesses conceitos, assinale a opção que descreve corretamente a relação entre estabilidade direcional e os parâmetros da curva de giro.",
       "alternatives": {
         "A": "Navios com elevada estabilidade direcional sempre apresentam maior transferência e menor avanço, independentemente da ação do leme.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "691a5e2b64dd4781"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "691a5e2b64dd4781",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Para um estado plano de tensões (σz = 0), a tensão σx = 100 MPa, e a tensão σy = -100 MPa, e τxy = 0. Determine a máxima tensão cisalhante τmax.",
       "alternatives": {
         "A": "0 MPa",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "54aebb51df360afd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "54aebb51df360afd",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Turbinas a gás e turbinas a vapor utilizam ciclos termodinâmicos distintos (Brayton e Rankine) que influenciam desempenho e eficiência. Assinale a opção que apresenta corretamente: (i) o ciclo ideal da turbina a gás; (ii) o ciclo ideal da turbina a vapor; (iii)uma vantagem operacional relevante da turbina a gás em aplicações navais.",
       "alternatives": {
         "A": "Turbina a gás → Rankine; turbina a vapor → Brayton; Vantagem: menor consumo específico.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "72909367b86a5673"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "72909367b86a5673",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Diversos fatores influenciam a resistência de um material à fadiga em estruturas navais. Assinale a opção que não representa um fator que afeta a resistência à fadiga.",
       "alternatives": {
         "A": "Propriedades físicas do material.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a30f472f0b541713"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a30f472f0b541713",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A equipe de navegação observa que, durante uma operação de baixa velocidade, o navio apresenta sinais de cavitação na hélice mesmo sem aumento aparente na rotação. Considerando o conceito de coeficiente de carregamento de empuxo (CT), assinale a opção que explica corretamente o motivo pelo qual a cavitação tende a ocorrer nessas condições.",
       "alternatives": {
         "A": "A cavitação diminui quando o empuxo aumenta e a velocidade através do disco da hélice também aumenta.",
         "B": "O coeficiente CT diminui quando a velocidade axial VA diminui, reduzindo o risco de cavitação.",
         "C": "A cavitação ocorre principalmente por efeitos térmicos e não está relacionada ao nível de carregamento da hélice.",
         "D": "Em baixas velocidades VA, para produzir o mesmo empuxo T, o coeficiente CT aumenta, elevando o carregamento sobre as pás e favorecendo a cavitação.",
-        "E": "Um menor empuxo T sempre resulta em maior coeficiente CT, independentemente da velocidade axial VA. Redação"
+        "E": "Um menor empuxo T sempre resulta em maior coeficiente CT, independentemente da velocidade axial VA."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "76f5aabbbe808522"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "76f5aabbbe808522",
+      "base_text": null
     }
   ],
   "year": 2024,

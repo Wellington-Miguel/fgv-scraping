@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Durante o projeto de estruturas metálicas é fundamental determinar os esforços em que a estrutura está submetida para garantir a sua funcionalidade e segurança. Considere o diagrama de corpo livre da viga ilustrada a seguir. A viga possui uma geometria retangular com seção transversal de 100 x 50 mm e é fabricada a partir do aço ASTM A36 com tensão de escoamento 250 MPa. A partir dos dados acima, é correto afirmar que",
       "alternatives": {
         "A": "a tensão máxima de cisalhamento na estrutura é de 76,2 MPa, estando abaixo da tensão de escoamento do material.",
@@ -592,12 +622,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q31.png",
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "24fb134cd74cdafa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "24fb134cd74cdafa",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Durante o projeto de uma viga estrutural, após a determinação dos esforços presentes na estrutura, foi aplicado um fator de segurança = 2,5 em relação à tensão de escoamento. Com base na descrição acima, o que significa o fator de segurança e o que representa o valor 2,5.",
       "alternatives": {
         "A": "representa a tensão máxima em que a viga irá falhar, sendo 2,5 vezes menor que a tensão de ruptura do material.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "752edd296c597faa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "752edd296c597faa",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A curva S-N ou curva de Wöhler relaciona o número de ciclos suportado por um material para uma tensão específica, podendo ser utilizada para determinar o limite de resistência à fadiga do material. Com base na curva S-N, analise os itens a seguir e assinale (V) para verdadeira ou (F) para falsa. ( ) o limite de resistência à fadiga representa as dimensões máximas da trinca antes da ruptura do material. ( ) o limite de resistência à fadiga representa o número de ciclos máximos antes da ruptura do material. ( ) o limite de resistência à fadiga representa o valor de tensão no qual o material terá uma vida infinita. ( ) a vida em fadiga é a quantidade de ciclos que um material suporta para uma determinada tensão. ( ) a vida em fadiga é a quantidade de ciclos que o material suporta independente da tensão aplicada. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V – F – V.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "51040078b96c7c64"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "51040078b96c7c64",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "As curvas Tensão x Deformação dos materiais metálicos permitem a obtenção de propriedades mecânicas importantes para a elaboração de projetos mecânicos. Considere a curva Tensão x Deformação ilustrada a seguir, a qual não apresenta visivelmente o limite de escoamento do material. Assinale a opção que apresenta a metodologia correta para determinação da tensão de escoamento do material.",
       "alternatives": {
         "A": "O limite de escoamento deve ser determinado, a partir da plotagem de uma reta paralela à reta que representa a região elástica do material, deslocada 0,2% da deformação ao longo do eixo de deformação.",
@@ -649,12 +682,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q34.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fac347509027dbf0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fac347509027dbf0",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O tratamento termoquímico de nitretação é caracterizado por obter uma camada superficial de alta dureza a qual afere alta resistência ao desgaste ao material tratado. Em relação ao tratamento superficial de nitretação, analise os itens a seguir e assinale (V) para verdadeiro ou (F) para falso. ( ) a profundidade da camada nitretada é dependente unicamente do tempo do processo. ( ) a profundidade da camada nitretada não depende da temperatura do processo. ( ) a nitretação promove tensões residuais compressivas na superfície melhorando a resistência à fadiga do material tratado. ( ) a camada nitretada é constituída de uma camada de difusão. Ainda pode existir ou não, a presença de uma camada de compostos, também chamada de camada branca. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V – F.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "da88c3d6801f16ce"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "da88c3d6801f16ce",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O conhecimento do tipo de ajuste durante a montagem de um eixo sobre um rolamento é essencial para seleção do método de montagem. Considere os respectivos ajustes do eixo e do rolamento. Com base no desenho supracitado, é correto afirmar que",
       "alternatives": {
         "A": "a montagem apresentará interferência máxima de 0,05 mm e mínima de 0,02 mm.",
@@ -687,12 +722,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q36.png",
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fb477809b981acd5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fb477809b981acd5",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O dimensionamento de uma viga envolve a análise de diferentes carregamentos presentes, os quais devem ser considerados para correta seleção do material e da geometria da seção transversal. Considerando uma viga de seção retangular, analise os itens a seguir em relação aos esforços internos: I. as tensões normais de flexão são nulas no eixo neutro e máximas na superfície (superior e inferior) e variam linearmente. II. as tensões normais de flexão são máximas no eixo neutro e nulas na superfície (superior e inferior) e variam linearmente. III. as tensões de cisalhamento são máximas no eixo neutro e nulas na superfície, sendo distribuídas na forma de uma parábola. IV. as tensões de cisalhamento são nulas no eixo neutro e máximas na superfície, sendo distribuídas na forma de uma parábola. V. a tensão de cisalhamento para uma viga de geometria retangular é 1,5 vezes maior que a tensão média de cisalhamento. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e III, apenas.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6b5225f867a8bb16"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6b5225f867a8bb16",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O processo de usinagem por retífica é uma operação de acabamento empregada para obter alta qualidade superficial e dimensional. Com relação ao processo de retificação, assinale se as afirmativas a seguir são verdadeiras (V) ou falsas (F): ( ) os rebolos são ferramentas abrasivas com múltiplas arestas de corte ( ) o balanceamento do rebolo incorreto aumenta o desgaste do rebolo, mas não interfere na qualidade dimensional da peça retificada. ( ) a queima por retífica é resultado da alta concentração de calor localizada, causada pela utilização de parâmetros de corte inadequados e falta de lubrificação. ( ) a queima por retífica modifica as características metalúrgicas do material na região afetada, podendo levar ao surgimento de trincas e consequente falha do componente. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V – F.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1daf3524c354f8d7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1daf3524c354f8d7",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Os ferramentais de forjamento a quente representam uma parcela significativa dos custos de operação. Portanto, o projeto das matrizes deve considerar os fatores críticos do processo, como temperatura, atrito e distribuição de tensões. Com base no projeto de matrizes de forjamento a quente, assinale a opção correta.",
       "alternatives": {
         "A": "As matrizes não necessitam de ângulos para extração da peça, pois a temperatura do processo já facilita a extração.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b1db77cece359fa6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b1db77cece359fa6",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Um cliente solicitou o envio de um projeto mecânico para apresentar aos diretores da empresa. Para evitar a modificação do projeto, o projetista selecionou uma extensão de arquivo que não permite o acesso direto a arvore do projeto, mas permite a abertura em software 3D e a visualização do projeto. Assinale a opção que indica a extensão utilizada pelo projetista.",
       "alternatives": {
         "A": ".sldprt",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ba5fb582d5c16fc1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ba5fb582d5c16fc1",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Na usinagem, a força de corte (𝐹𝑐) pode ser obtida multiplicando a pressão específica de corte (𝑘𝑠) pela área de seção de corte (𝐴). Essa área, por sua vez, pode ser obtida pelo produto do avanço (𝑓) pela profundidade de usinagem (𝑎𝑝). Portanto, a força de corte pode ser expressa por: 𝐹𝑐= 𝑘𝑠⋅𝑓⋅𝑎𝑝 [𝑁] Considere que uma mesma ferramenta usine um mesmo aço em duas condições: Condição 1: 𝑓= 0,1 mm/rev, 𝑎𝑝= 0,8 mm Condição 2: 𝑓= 0,8 mm/rev, 𝑎𝑝= 0,1 mm Assinale a opção correta.",
       "alternatives": {
         "A": "A força de corte da primeira condição será igual a força de corte da segunda condição.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "09dd4be576e58e5f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "09dd4be576e58e5f",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A Norma ISO 513 (2012) estabelece um sistema padronizado de classificação para insertos de metal duro e outros materiais de corte. Cada inserto é identificado por uma letra e uma cor, que indicam o grupo de aplicação do material a ser usinado. O uso da letra e da cor tem o objetivo de permitir a identificação rápida e padronizada do tipo de material, garantindo que operadores e fabricantes em qualquer lugar do mundo possam reconhecer o grupo de aplicação do inserto sem ambiguidades. Considerando essa padronização, assinale a opção correta.",
       "alternatives": {
         "A": "Os insertos destinados à usinagem dos aços inoxidáveis austeníticos são identificados pela letra K e cor amarela.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9dcc760c6a1099f2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9dcc760c6a1099f2",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Os processos de conformação mecânica podem ser classificados quanto à temperatura de trabalho. Considerando um aço com temperatura de fusão de 1500 °C, sendo conformado a 810 °C, assinale a opção correta:",
       "alternatives": {
         "A": "A temperatura homóloga foi de 0,54, caracterizando trabalho mecânico a quente, em que fenômenos termicamente, como a recristalização, são ativados.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ec122a1c37f30a59"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ec122a1c37f30a59",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Tratamentos térmicos são processos aplicados aos metais, especialmente nos aços, com o objetivo de alterar suas propriedades mecânicas e estruturais. Quanto aos tratamentos térmicos, é incorreto afirmar que",
       "alternatives": {
         "A": "o recozimento subcrítico tem como principal objetivo aliviar as tensões internas geradas por processos como laminação, soldagem, usinagem, conformação a frio ou tratamentos térmicos anteriores.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "512c1955389d651e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "512c1955389d651e",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma equipe de manutenção precisa realizar o reparo por soldagem em um componente crítico fabricado em aço de alto teor de carbono (C > 0,5%) e de grande espessura. A experiência anterior com este material mostrou alta incidência de trincas na Zona Termicamente Afetada (ZTA) após a soldagem. O engenheiro responsável, visando mitigar este problema, revisa os procedimentos operacionais com base nas propriedades do material e nos efeitos da ZTA. Assinale a opção que descreve a estratégia de controle térmico e de consumível mais adequada para garantir a integridade da solda.",
       "alternatives": {
         "A": "Priorizar um alto aporte térmico para reduzir a velocidade de resfriamento e usar eletrodos de alto teor de hidrogênio para promover maior difusão do gás antes do resfriamento total.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "71d9ec0d9f640cf4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "71d9ec0d9f640cf4",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O controle de custos de uma empresa é fundamental para a determinação do resultado financeiro. No setor de suprimentos, o monitoramento do valor investido nos estoques é feito através de diferentes métodos de custeio. Renata, responsável pela contabilidade de custos da TecnoPeças Industriais Ltda., utiliza uma ficha de controle de estoques para monitorar as entradas (compras) e saídas (vendas para produção) do componente crítico \"Válvula Reguladora W5\". A tabela a seguir apresenta as movimentações do componente durante o mês de março: Notas Explicativas: NF = Nota Fiscal (Compra); RM = Requisição de Material (Consumo/Saída). Com base nas movimentações registradas, e considerando o valor do saldo inicial, analise as afirmativas a seguir sobre o valor do estoque final em 31 de março: I. Considerando-se o método do Custo Médio Ponderado, o valor do estoque ao final de março é de R$ 975,00. II. Considerando-se o método PEPS (Primeiro que Entra, Primeiro que Sai), o valor do estoque ao final de março é de R$ 1.050,00. III. Considerando-se o método UEPS (Último que Entra, Primeiro que Sai), o valor do estoque ao final de março é de R$ 900,00. É correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -877,12 +922,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q46.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "71c3f403bcf0f39e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "71c3f403bcf0f39e",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O setor de planejamento e controle da produção (PCP) da Usinagem Precisa Ltda. preparou uma previsão de utilização de pinos roscados M10, um componente crítico para a montagem final de um conjunto mecânico. Os dados de previsão de utilização, apresentados na tabela a seguir (ainda incompleta), cobrem as próximas cinco semanas. Dados Adicionais: • Os pinos roscados M10 são adquiridos em lotes de 600 unidades (ou múltiplos: 600, 1200, 1800, etc.). • O prazo de entrega (lead time) é de duas semanas. • O estoque de segurança exigido é de 250 unidades. • O estoque inicial (Semana 0) é de 500 unidades. O estoque médio projetado (unidades) para o período das cinco semanas seguintes (Semanas 1 a 5) é",
       "alternatives": {
         "A": "410.",
@@ -896,12 +942,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q47.png",
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9d4ace08fe28ecba"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9d4ace08fe28ecba",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Marcela atua como técnica na Metalúrgica UsinaPrime, sendo responsável por otimizar a linha de fabricação de engrenagens e mancais de precisão. Atualmente, a fábrica opera com um arranjo físico departamental, onde todos os tornos CNC estão em um setor e todas as retificadoras em outro, resultando em longos tempos de transporte, filas de espera (alto Estoque em Processo – WIP) e dificuldade em rastrear o fluxo de produção. Marcela propõe a transição para um arranjo físico celular, utilizando o agrupamento de máquinas e recursos com base nas famílias de peças, com o objetivo de reduzir o lead time e o WIP. Para que as células funcionem de maneira autônoma, minimizando a movimentação externa, o estudo de fluxo indicou a necessidade de alocar máquinas de diferentes funções (torno, fresa e retífica) dentro da mesma célula, mesmo que algumas máquinas não sejam utilizadas em tempo integral. Avaliando a transição proposta para o Arranjo Celular e seus desafios estratégicos na Fabricação Mecânica, assinale a opção que representa o principal trade-off e o risco financeiro associado a esta mudança de layout.",
       "alternatives": {
         "A": "O risco principal é a perda de flexibilidade, pois o arranjo celular é ideal apenas para alto volume e baixa variedade, obrigando a fábrica a eliminar as famílias de peças mais complexas.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "60a8a06c9979666e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "60a8a06c9979666e",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Em uma indústria de componentes usinados, a gerente de Qualidade monitora o diâmetro crítico de um lote de eixos por meio do Gráfico de Controle Estatístico de Processo (CEP) apresentado a seguir: Com base no gráfico apresentado, analise os itens a seguir: I. O processo pode ser considerado estável até a medição 17, pois, neste intervalo, a variabilidade está contida dentro dos limites de controle, indicando que apenas as causas comuns inerentes ao processo estão em atuação. II. As variações observadas nas medições 18, 19 e 20 são evidências da ocorrência de causas especiais, que não pertencem ao contexto usual do processo, tornando-o instável e exigindo a intervenção do operador ou supervisor para correção imediata. III. De acordo com os princípios do CEP (Controle por Prevenção), as anomalias detectadas entre as medições 18 e 20 devem ser tratadas por meio de uma inspeção após a conclusão de todo o ciclo produtivo, para comparação com as especificações e subsequente rejeição ou retrabalho. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II,apenas.",
@@ -934,12 +982,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q49.png",
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "856181479b41b9c8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "856181479b41b9c8",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma empresa metalmecânica fabrica eixos usinados com diâmetro nominal de 50 mm, admitindo uma tolerância de ±0,2 mm. Durante a inspeção, observou-se aumento no número de peças rejeitadas. O setor de qualidade realizou medições em 50 unidades, obtendo o seguinte histograma de distribuição de diâmetros. Com base na análise do histograma e nos conceitos de controle estatístico do processo, analise os itens a seguir, classificando-as como verdadeiras (V) ou falsas (F). ( ) A assimetria à direita indica que a média do processo está deslocada acima do valor nominal, o que sugere a presença de causas especiais de variação. ( ) A presença de peças com diâmetro superior a 50,2 mm implica que o processo não é capaz (Cp < 1) de atender aos limites de especificação. ( ) A calibração da máquina e o controle térmico são ações corretivas, aplicadas após a detecção do problema. ( ) O histograma é uma ferramenta da qualidade utilizada para visualizar a distribuição e dispersão dos dados do processo produtivo. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – V – F – V.",
@@ -953,12 +1002,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q50.png",
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "07b53bcc8b23c855"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "07b53bcc8b23c855",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma empresa do setor metalmecânico realizou a Classificação ABC dos itens de seu almoxarifado com base no valor de consumo anual (R$). O gráfico de Pareto a seguir mostra o resultado obtido: Com base nas informações apresentadas, analise os itens a seguir: I. Os itens classificados como A são aqueles que, apesar de representarem pequena quantidade, concentram cerca de 80% do valor total de consumo. II. Os itens C são os de menor valor de consumo, porém geralmente em grande quantidade e com controle mais simples. III. O Gráfico de Pareto é a ferramenta gráfica utilizada para representar visualmente a Classificação ABC. IV. A Classificação ABC é uma técnica de previsão de demanda, empregada para estimar o consumo futuro de materiais. É correto apenas o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -972,12 +1022,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q51.png",
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d61fcb6b1e18d454"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d61fcb6b1e18d454",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A gestão estratégica da produção e operações exige que os gerentes implementem sistemas de planejamento, programação e controle (PCP) que sejam integrados e alinhados aos objetivos organizacionais. A escolha de ferramentas e metodologias, como Lean Manufacturing, Teoria das Restrições (TOC) e as técnicas de arranjo físico, impacta diretamente a eficiência e a capacidade de resposta da cadeia de suprimentos. Com base nos conceitos de Gestão da Produção e Operações e de Planejamento, Programação e Controle da Produção (PCP), avalie as afirmações a seguir: I. O sistema Kanban, por ser uma ferramenta de controle visual, substitui integralmente a necessidade de um Planejamento Mestre da Produção (PMP) em ambientes de alta variabilidade de demanda, focando na eliminação do estoque de produtos em processo. II. A Teoria das Restrições (TOC) e sua metodologia, a OPT (Optimized Production Technology), fundamentam-se no princípio de que o ritmo de produção de todo o sistema deve ser ditado pela capacidade do recurso gargalo, sendo este o único ponto onde o excesso de estoque (pulmão) é justificável. III. O arranjo físico por produto (linear ou em linha) é o mais apropriado para ambientes com baixo volume de produção e alta variedade de produtos, devido à sua flexibilidade em roteiros e especialização do trabalho por processo. IV. Enquanto o Gráfico de Gantt é uma ferramenta primordialmente utilizada para o sequenciamento e visualização temporal de tarefas de curto prazo, o MRP (Planejamento das Necessidades de Materiais) é uma técnica de planejamento de materiais do tipo push orientada para a demanda futura. É correto o que se afirma em",
       "alternatives": {
         "A": "II, III e IV, apenas.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "18c9832a8ca821ec"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "18c9832a8ca821ec",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma indústria metalúrgica está avaliando a aquisição de um dos dois novos sistemas de usinagem, que produzirão uma peça para a linha de montagem. Para tomar essa decisão, o gestor de produção e custos precisa analisar o ponto de equilíbrio econômico de cada equipamento e verificar como eles se adaptam às ferramentas de Controle Estatístico da Qualidade (CEQ) já utilizadas na fábrica. A seguir, tem-se a relação dos custos para os dois sistemas: A peça produzida possui uma dimensão crítica que é mensurada em milímetros. Essa característica, por ser uma variável de natureza contínua, está sujeita a variações durante o processo. Considerando o cenário apresentado, em que a gestão de custos e o controle de qualidade são fatores críticos de decisão, avalie as afirmações a seguir: I. O Ponto de Equilíbrio entre os custos totais dos dois sistemas é alcançado quando a produção atinge 32.000 unidades. II. Em um volume de produção anual de 20.000 unidades, o custo total de produção do Sistema 1 é inferior ao custo total do Sistema 2. III. Para o controle estatístico da dimensão crítica da peça, que é uma característica mensurável, a carta de controle mais adequada para monitorar a variação no longo prazo é a carta p (fração de defeituosos), pois esta é robusta para monitorar variáveis. IV. O diagrama de Pareto seria uma ferramenta útil na fase inicial de melhoria contínua para priorizar as causas de maior incidência de não conformidade relacionadas à dimensão crítica da peça, após a coleta de dados de inspeção. É correto o que se afirma em",
       "alternatives": {
         "A": "II e IV, apenas.",
@@ -1010,12 +1062,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q53.png",
       "page_number": 14,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "19b93392bfa6dbb2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "19b93392bfa6dbb2",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Ana Clara é responsável por reestruturar o sistema de produção de uma metalúrgica que fabrica componentes altamente especializados, como eixos e flanges, em pequenas e médias quantidades. Essa operação exige o controle simultâneo de diversas Ordens de Fabricação (OFs) e a constante reprogramação dos Centros de Usinagem CNC, o que resulta em um ambiente produtivo complexo e em um fluxo de informações fortemente dependente de documentos técnicos específicos de cada OF. O objetivo da reestruturação é migrar para um modelo produtivo que permita reduzir o custo unitário e ampliar o volume de produção, sem perder a flexibilidade necessária para atender às variações dos produtos. Para isso, a empresa busca padronizar subconjuntos e etapas iniciais do processo, tornando o fluxo de informações mais estruturado e menos dependente de instruções individualizadas. Assinale a opção que identifica corretamente a categoria de processo discreto que caracteriza a operação atual da metalúrgica e o modelo de migração que possibilita a padronização do fluxo de informações, o aumento do volume e a redução do custo unitário.",
       "alternatives": {
         "A": "O processo atual é de Produção em Massa; a migração ideal é para Produção Contínua, onde a padronização do fluxo de informações é máxima e os custos unitários são os mais baixos.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "db68014167f55422"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "db68014167f55422",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Produção Enxuta (Lean Manufacturing) é uma filosofia de gestão que busca maximizar o valor para o cliente e minimizar o desperdício. O Sistema Toyota de Produção (STP), base do Lean, utiliza o Sistema Puxado como um de seus pilares para evitar a superprodução. Uma oficina de usinagem que adota o Sistema Puxado de planejamento e controle da produção, como parte da sua filosofia Lean, está optando por um processo produtivo em que",
       "alternatives": {
         "A": "a programação da produção é feita centralmente, com base em previsões de vendas de longo prazo, mantendo um alto estoque de peças semiacabadas.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 15,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f98f31cd22c08bb7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f98f31cd22c08bb7",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A empresa METALTEX Soluções em Usinagem, visando otimizar a eficiência de sua linha de produção e reduzir o tempo de inatividade das suas máquinas de Comando Numérico Computadorizado (CNC), elaborou o fluxograma apresentado. Este diagrama tem como finalidade padronizar as etapas críticas, desde o recebimento de um pedido até a expedição da peça acabada, garantindo o pronto atendimento ao cliente e o controle de qualidade em cada ciclo de usinagem. A respeito do fluxograma apresentado, analise as afirmações a seguir: I. A etapa “Cliente irá aguardar?” representa uma tomada de decisão do cliente, porém o símbolo utilizado é inadequado, devendo ser substituído por um símbolo que indique uma atividade que precisa ser executada. II. Para que o fluxograma corresponda à realidade dos procedimentos, o símbolo utilizado na etapa “Realizar a usinagem da peça” deve ser substituído por um símbolo que indica espera, mudança que resultará em fluxo que se desenvolve sem anormalidades. III. A etapa “Informar ao cliente a falta do produto e o prazo de entrega” corresponde a uma informação prestada pela empresa ao cliente e, portanto, o símbolo utilizado produzirá o mesmo efeito se alterado para o símbolo utilizado na tarefa que avalia se o produto está disponível. IV. Considerando que o cliente tenha decidido aguardar a entrega do produto, os termos da etapa “Receber ordem de fabricação” podem ser mantidos, sendo impróprio alterá-los para “Receber o produto”, uma vez que o processo do fluxograma deverá ser reiniciado. É correto apenas o que se afirma em",
       "alternatives": {
         "A": "IV, apenas.",
@@ -1067,12 +1122,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q56.png",
       "page_number": 16,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ada9da03c5ff0a12"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ada9da03c5ff0a12",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A MetalMec Indústria de Componentes especializada na produção de eixos e componentes metálicos de precisão, identificou aumento no número de peças rejeitadas em suas máquinas CNC. Um inspetor de qualidade coletou, durante 10 dias, dados sobre a temperatura média das máquinas (°C) e o número de peças rejeitadas por dia, obtendo o seguinte gráfico de dispersão. Com base na situação apresentada, analise as afirmações a seguir, classificando-as como verdadeiras (V) ou falsas (F). ( ) Existe uma correlação positiva forte entre a temperatura da máquina e o número de peças rejeitadas. ( ) É possível aplicar um modelo matemático para prever o número de peças rejeitadas em função da temperatura, criando-se uma equação y= a + bx, sendo y a temperatura e x o número de peças rejeitadas. ( ) A causa do aumento de peças rejeitadas é necessariamente a temperatura, e outros fatores podem ser ignorados. ( ) Uma análise de regressão linear poderia quantificar o impacto da temperatura sobre o índice de rejeição, permitindo ações preventivas mais precisas. A sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": {
         "A": "V – V – F – V.",
@@ -1086,12 +1142,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q57.png",
       "page_number": 16,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a639e63f6961f2ae"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a639e63f6961f2ae",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "A alta administração de uma companhia industrial convocou a liderança técnica do setor de produção para uma reunião. Foi demandado que esse time desenvolvesse um documento consolidado, apresentando os indicadores de performance (KPIs) de suas respectivas áreas. Além disso, o documento deveria incluir uma análise integrada, mostrando como esses indicadores setoriais se conectam aos resultados globais da empresa. Considerando as etapas necessárias para a elaboração deste documento, todas as atividades listadas nas opções a seguir o são esperadas, à exceção de uma. Assinale-a",
       "alternatives": {
         "A": "Coletar os dados e informações pertinentes de cada setor produtivo.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 17,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3f61b5b289934023"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3f61b5b289934023",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "O Sistema Toyota de Produção (STP), ou Manufatura Enxuta, é uma filosofia de gestão focada na eliminação sistemática de desperdícios (Muda), no fluxo contínuo e na maximização do valor para o cliente. Isso é alcançado através de pilares fundamentais como o Just-in-Time (JIT) e o Jidoka (autonomação). Para implementar e sustentar essa filosofia, o STP depende de um conjunto integrado de práticas e ferramentas de planejamento e controle. Todas as opções a seguir apresentam técnicas ou conceitos fundamentais do Sistema Toyota de Produção, a exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Just-in-Time (JIT): Princípio de produzir ou entregar componentes apenas no momento exato em que são necessários, minimizando estoques.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 17,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c9b7f20a8ebc6ab5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c9b7f20a8ebc6ab5",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Direito da Criança e do Adolescente",
       "statement": "Uma indústria mecânica de precisão fabrica dois componentes principais, \"Engrenagem A\" e \"Pistão B\", conforme dados apresentados na Tabela abaixo. A empresa incorre em custos fixos de fabricação (depreciação de maquinário CNC, supervisão de fábrica e manutenção) de R$ 360.000,00 no período. Pelo método de custeio por absorção, os valores unitários dos componentes Engrenagem A e Pistão B são, em reais, respectivamente:",
       "alternatives": {
         "A": "18,00 e 12,00.",
         "B": "2,00 e 12,00.",
         "C": "21,60 e 9,60.",
         "D": "6,00 e 6,00.",
-        "E": "18,00 e 8,00. Redação"
+        "E": "18,00 e 8,00."
       },
       "answer": "A",
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/amazul_tecnologo-em-fabricacao-mecanica_q60.png",
       "page_number": 17,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "dfb0d41691ca34d1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dfb0d41691ca34d1",
+      "base_text": null
     }
   ],
   "year": 2024,

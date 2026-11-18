@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Raciocínio Lógico-Matemático",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-de-seguranca-do-trabalho_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma indústria metalúrgica identificou que as inspeções de rotina eram realizadas sem planejamento definido e que o acompanhamento das medidas de prevenção se limitava a registros administrativos. O engenheiro de segurança do trabalho verificou que os relatórios não contemplavam dados sobre o ambiente de trabalho e que o monitoramento era feito apenas quando surgiam reclamações de trabalhadores. Diante dessa situação, a empresa decidiu adequar-se às exigências da NR-1 – Disposições Gerais e Gerenciamento de Riscos Ocupacionais, que estabelece que o desempenho das medidas de prevenção deve ser acompanhado de forma planejada e contemplar a verificação da execução das ações planejadas, as inspeções dos locais e equipamentos de trabalho e o monitoramento",
       "alternatives": {
         "A": "de indicadores administrativos e financeiros relativos à gestão de segurança e saúde.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a8234e5575a97851"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a8234e5575a97851",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Na revisão técnica do Programa de Gerenciamento de Riscos Ocupacionais (PGR) em uma indústria metalúrgica, o engenheiro de segurança do trabalho identificou falhas sucessivas no processo de análise dos riscos. Primeiro, observou que o inventário não indicava quais grupos de trabalhadores estavam expostos aos perigos descritos, nem as circunstâncias em que tais exposições poderiam ocorrer. Em seguida, verificou que as avaliações de risco não apresentavam a estimativa de probabilidade e severidade das possíveis lesões, o que impedia a determinação do nível de risco e a definição das prioridades de prevenção. Com base na NR 1 – Disposições Gerais e Gerenciamento de Riscos Ocupacionais, as falhas identificadas pelo engenheiro de segurança do trabalho correspondem, respectivamente, ao processo de",
       "alternatives": {
         "A": "identificação de perigos e de elaboração do inventário de riscos",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fe27a601cb20c778"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fe27a601cb20c778",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma auditoria interna, o engenheiro de segurança do trabalho identificou que alguns empregados haviam mudado de função, passando a exercer atividades com riscos diferentes dos anteriormente existentes, sem registro formal das orientações obrigatórias. Diante dessa constatação, o auditor analisou a NR-1 – Disposições Gerais e Gerenciamento de Riscos Ocupacionais, que estabelece que, sempre que houver admissão ou mudança de função com alteração de risco, o trabalhador deve receber, entre outras orientações previstas na norma, informações sobre os riscos ocupacionais envolvidos e os meios para preveni-los e controlá- los. De acordo com a NR-1, essas informações podem ser transmitidas",
       "alternatives": {
         "A": "durante os treinamentos e por meio de diálogos de segurança, documento físico ou eletrônico.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "94934f6997e09eee"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "94934f6997e09eee",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A NR-3 – Embargo e Interdição estabelecem as diretrizes para a adoção de medidas de urgência pelo Auditor-Fiscal do Trabalho, diante da constatação de situação que caracterize grave e iminente risco. O embargo e a interdição possuem caráter preventivo e têm por finalidade interromper atividades que exponham trabalhadores a risco acima do aceitável. Nos termos dessa norma, e considerando as circunstâncias do caso específico, são passíveis de embargo ou interdição a obra, a atividade, a máquina ou equipamento, o setor de serviço ou o estabelecimento, com a brevidade que a ocorrência exigir, quando o Auditor-Fiscal do Trabalho constatar a existência de excesso de risco.",
       "alternatives": {
         "A": "Pequeno (P)",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e2254ddad2d60825"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e2254ddad2d60825",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Por ocasião do dimensionamento do Serviço Especializado em Segurança e em Medicina do Trabalho (SESMT), uma empresa verificou que realiza duas atividades econômicas distintas, cada uma com o mesmo número de trabalhadores. Nessa situação, conforme a NR 4 – Serviços Especializados em Segurança e em Medicina do Trabalho, deve ser considerada como atividade preponderante, para fins de aplicação dos critérios de dimensionamento, aquela que",
       "alternatives": {
         "A": "apresenta maior potencial de exposição a agentes nocivos identificados nas atividades.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "350867bb075c6a61"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "350867bb075c6a61",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No processo eleitoral para a Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA) de uma grande empresa, foram identificadas possíveis irregularidades na condução da eleição dos representantes dos trabalhadores. Diante disso, denúncias foram devidamente protocolizadas na unidade descentralizada de inspeção do trabalho, dentro do prazo regulamentar. Confirmadas essas irregularidades, de acordo com a NR 5 – Comissão Interna de Prevenção de Acidentes e de Assédio, compete à autoridade máxima regional em matéria de inspeção do trabalho",
       "alternatives": {
         "A": "designar um novo calendário eleitoral e supervisionar a execução integral da nova votação.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8f4c17f7df307359"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8f4c17f7df307359",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante a análise de um dispositivo de uso individual, com proteção mecânica, desenvolvido para reduzir o risco de corte em atividade operacional repetitiva, constatou-se que o produto não constava no Anexo I da NR-6 – Equipamentos de Proteção Individual. Para definir o procedimento adequado, a equipe consultou a norma, que estabelece o trâmite aplicável às solicitações de inclusão ou reexame de produtos classificados como EPI. Segundo a NR-6, essas solicitações devem ser avaliadas pelo",
       "alternatives": {
         "A": "órgão de âmbito nacional competente em matéria de segurança e saúde no trabalho",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b55c5b804384cf4d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b55c5b804384cf4d",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Na auditoria de uma organização de médio porte do setor metalúrgico, o Auditor-Fiscal do Trabalho verificou que o médico responsável pelo Programa de Controle Médico de Saúde Ocupacional (PCMSO) havia sido recentemente substituído. O novo médico informou não ter recebido formalmente os prontuários médicos individuais dos empregados, o que comprometeu a elaboração adequada do relatório analítico anual. Nos termos da NR 7 – Programa de Controle Médico de Saúde Ocupacional, a organização deve assegurar a guarda, a transferência e a adequada utilização desses prontuários pelo médico responsável. Considerando o que estabelece a NR-7 sobre a guarda, a transferência e a utilização dos prontuários médicos individuais, e diante do fato de que o médico responsável pelo PCMSO não recebeu esses prontuários, a conduta correta desse profissional seria",
       "alternatives": {
         "A": "elaborar o relatório analítico apenas com as informações disponíveis, sem qualquer ressalva, já que a responsabilidade é exclusiva do médico anterior.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8949da1b0eb48afb"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8949da1b0eb48afb",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma auditoria de rotina em indústria química, o engenheiro de segurança do trabalho constatou que o Programa de Gerenciamento de Riscos (PGR) da empresa não contemplava todos os documentos exigidos pela legislação. De acordo com a NR 1 - Disposições Gerais e Gerenciamento de Riscos Ocupacionais, o PGR deve conter, no mínimo",
       "alternatives": {
         "A": "inventário de perigos e análise preliminar de riscos.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0758a2e47be2be7b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0758a2e47be2be7b",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Entre as medidas de controle previstas na NR 10 – Segurança em Instalações e Serviços em Eletricidade, o Prontuário das Instalações Elétricas (PIE) constitui um instrumento essencial de gestão da segurança elétrica, cuja composição varia conforme o tipo de empresa e a natureza das atividades desenvolvidas. De acordo com essa norma, o grupo de empresas que deve manter o prontuário com o maior número de documentos exigidos é formado por aquelas que",
       "alternatives": {
         "A": "possuem carga instalada superior a 75 kW.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1074e5060f637a4f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1074e5060f637a4f",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma empresa, o engenheiro de segurança do trabalho observou que os empregados realizavam a movimentação manual de sacos. Atento ao cumprimento da NR-11 – Transporte, Movimentação, Armazenagem e Manuseio de Materiais, verificou que, para fins de aplicação da presente regulamentação a expressão “transporte manual de sacos” corresponde a toda atividade, contínua ou descontínua, essencial a esse transporte, na qual o peso da carga é suportado integralmente por um só trabalhador, compreendendo",
       "alternatives": {
         "A": "apenas o levantamento, sem incluir a deposição.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8c6055469556712c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8c6055469556712c",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma indústria metalúrgica, o engenheiro de segurança do trabalho realiza a avaliação da exposição ocupacional ao ruído contínuo e intermitente de diversos setores, com base nos critérios definidos pela NHO-01 – Avaliação da Exposição Ocupacional ao Ruído, da Fundacentro. De acordo com essa norma, o critério de referência que embasa os limites de exposição diária corresponde a uma dose de 100% para exposição de 8 horas ao nível de 85 dB(A). O critério de avaliação da NHO-01, por sua vez, considera, além desse critério de referência, o incremento de duplicação da dose (q) e o nível limiar de integração, cujos valores são, respectivamente,",
       "alternatives": {
         "A": "3 e 80 dB (A)",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3eb5d859bfcb7fd5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3eb5d859bfcb7fd5",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma avaliação ambiental realizada em uma marcenaria constatou grande quantidade de partículas em suspensão no ar, produzidas nas operações de corte e lixamento da madeira. Essas partículas sólidas, resultantes da ruptura mecânica do material, permanecem dispersas no ambiente e podem ser inaladas pelos trabalhadores. Com base na NHO-03 – Método de Ensaio: Análise Gravimétrica de Aerodispersóides Sólidos Coletados Sobre Filtros de Membrana (Fundacentro), essas partículas, denominadas poeiras, geralmente apresentam formas irregulares e são maiores que",
       "alternatives": {
         "A": "0,5 µm",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f02769c2c45da141"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f02769c2c45da141",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Na avaliação ambiental de uma fundição, o engenheiro de segurança do trabalho aplicou os procedimentos previstos na NHO-06 – Avaliação da Exposição Ocupacional ao Calor (Fundacentro), com o objetivo de determinar o Índice de Bulbo Úmido Termômetro de Globo (IBUTG) e verificar o grau de exposição dos trabalhadores ao calor. Foram registradas as variáveis ambientais pertinentes e analisadas as características das atividades executadas no posto de trabalho. De acordo com a NHO-06, considera-se taxa metabólica (M) a",
       "alternatives": {
         "A": "quantidade de energia absorvida pelo corpo humano por unidade de tempo em função da radiação térmica.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5a1c1762b7c0efe4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5a1c1762b7c0efe4",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma reunião de planejamento estratégico, uma gestora de Recursos Humanos destacou que a empresa pretende alinhar suas ações de segurança e saúde no trabalho às políticas públicas nacionais, priorizando a prevenção de acidentes, a promoção da saúde e a melhoria da qualidade de vida dos trabalhadores. De acordo com a Política Nacional de Segurança e Saúde no Trabalho (PNSST), tais objetivos estão fundamentados em princípios que incluem, entre outros, a/o",
       "alternatives": {
         "A": "reabilitação prioritária, a compensação e o diálogo coletivo.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "373fef5308f9ea70"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "373fef5308f9ea70",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma auditoria de SST em uma empresa de construção civil, o engenheiro responsável identificou que trabalhadores estavam expostos a ruído contínuo acima do limite de tolerância e a agentes químicos potencialmente insalubres. Para garantir o correto cumprimento das obrigações no eSocial, o engenheiro orientou que essas informações fossem registradas por meio do evento S-2240 (Condições Ambientais do Trabalho – Fatores de Risco), utilizado para registrar as condições ambientais de trabalho pelo declarante, indicando as condições de prestação de serviços pelo trabalhador, bem como para",
       "alternatives": {
         "A": "comunicar afastamentos decorrentes de doença ocupacional reconhecida pelo INSS.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9708fd76c3e8d99d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9708fd76c3e8d99d",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma empresa do setor logístico, um engenheiro de segurança do trabalho acompanhava os registros do eSocial e observou que, após a comunicação de um acidente do trabalho pelo evento S- 2210, foi necessário incluir novas informações referentes à ausência do empregado. O profissional explicou que, nesse caso, o procedimento correto seria utilizar o evento S-2230 – Afastamento Temporário, utilizado para",
       "alternatives": {
         "A": "corrigir dados inconsistentes do evento S-2210, mediante nova transmissão ao ambiente nacional do eSocial.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4e16ffeb20a198c3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4e16ffeb20a198c3",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma empresa do setor de transporte, o engenheiro de segurança do trabalho, ao revisar os registros do eSocial, constatou que um acidente ocorrido nas dependências da empresa não havia sido comunicado. Diante dessa omissão, tornou-se necessário identificar o evento adequado para o devido registro da ocorrência. De acordo com o evento S-2210 – Comunicação de Acidente de Trabalho, é correto afirmar que ele deve ser utilizado para",
       "alternatives": {
         "A": "registrar apenas os acidentes que resultem em afastamento superior a quinze dias.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "11f5d6f91bcda232"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "11f5d6f91bcda232",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma indústria de alimentos, o engenheiro de segurança do trabalho apresentou um relatório de desempenho em segurança e saúde, destacando os principais indicadores estatísticos de acidentes, como Taxa de Frequência (TF) e Taxa de Gravidade (TG), utilizados para avaliar o comportamento dos acidentes ao longo do tempo. No caso da Taxa de Frequência (TF), esse indicador representa o/a",
       "alternatives": {
         "A": "número de dias perdidos em um milhão de horas-homem de exposição ao risco.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "563b2bde4605241b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "563b2bde4605241b",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma inspeção realizada em uma refinaria, o engenheiro de segurança do trabalho observou cilindros contendo gás inflamável armazenados próximos a uma fonte de calor, em desacordo com os procedimentos de segurança da empresa. De acordo com a NR- 1 – Disposições Gerais e Gerenciamento de Riscos Ocupacionais, especialmente seu Anexo I – Termos e Definições, a presença do gás e a probabilidade de explosão diante da fonte de calor evidenciam, respectivamente, um/uma:",
       "alternatives": {
         "A": "risco identificado de explosão e um perigo potencial associado",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "47b5a6d0196fc6b6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "47b5a6d0196fc6b6",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma refinaria de petróleo, o setor de engenharia de processos decidiu revisar o sistema de bombeamento de líquidos inflamáveis após registrar desvios operacionais. Para identificar possíveis causas e consequências desses desvios, foi conduzida uma análise em grupo, com profissionais de diferentes áreas, utilizando palavras-guia, como “mais pressão”, “menos vazão” e “sem fluxo”, a fim de examinar variações em relação às condições normais de operação. Com base na metodologia descrita, o procedimento adotado corresponde ao método",
       "alternatives": {
         "A": "FMEA – Análise dos Modos de Falha e seus Efeitos.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "eae0342aae4badb9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eae0342aae4badb9",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma indústria de alimentos, o engenheiro de segurança do trabalho observou que os empregados do setor de lavagem realizavam suas tarefas em piso constantemente encharcado, devido à limpeza frequente e à condensação de vapor das caldeiras. Alguns trabalhadores relataram irritações na pele e desconforto respiratório, motivando o engenheiro a avaliar se a situação poderia ser enquadrada como insalubre segundo a fundamentação legal. De acordo com a NR-15 – Atividades e Operações Insalubres, especialmente seu Anexo nº 10 – Umidade, as atividades ou operações executadas em locais alagados ou encharcados, com umidade excessiva, capazes de produzir danos à saúde dos trabalhadores, serão consideradas insalubres",
       "alternatives": {
         "A": "em decorrência de laudo de inspeção realizada no local de trabalho.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3d97e0fcde3ea9c5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3d97e0fcde3ea9c5",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma planta de envase de gases industriais, o engenheiro de segurança do trabalho verificou que a ventilação de um compartimento de armazenamento estava parcialmente bloqueada, o que poderia reduzir a concentração de oxigênio no ambiente. A situação foi classificada urgente e exigiu avaliação imediata. De acordo com a NR-15 – Atividades e Operações Insalubres, especialmente seu Anexo nº 11 – Agentes Químicos cuja Insalubridade é Caracterizada por Limite de Tolerância e Inspeção no Local de Trabalho, a Tabela de Limites de Tolerância (Quadro 1) estabelece que, para os “Asfixiantes Simples”, a concentração mínima de oxigênio no ambiente deve ser de 18% em volume. Situações em que a concentração esteja abaixo desse valor são consideradas de",
       "alternatives": {
         "A": "IPVS – Imediatamente Perigosa à Vida e à Saúde.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "37b38525267fe9ca"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "37b38525267fe9ca",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "De acordo com o Anexo 12 – Limite de Tolerância para Poeiras Minerais da NR-15 – Atividades e Operações Insalubres, o limite de tolerância para fibras respiráveis de asbesto crisotila é de",
       "alternatives": {
         "A": "0,5 f/cm³",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3bd44d04abda08b5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3bd44d04abda08b5",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um cemitério municipal, a equipe de segurança do trabalho avaliou as condições de insalubridade dos trabalhadores responsáveis por atividades de exumação e preparo de corpos. Durante a vistoria, verificou-se que esses empregados mantêm contato direto com material biológico em decomposição e com o solo úmido que contém resíduos orgânicos. À luz da NR-15 – Atividades e Operações Insalubres, especialmente seu Anexo nº 14 – Agentes Biológicos, as condições descritas caracterizam atividade insalubre em grau",
       "alternatives": {
         "A": "mínimo, por envolver apenas exposição eventual a agentes de baixa virulência.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2cb71ba8eeff58e7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2cb71ba8eeff58e7",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma auditoria ergonômica em uma indústria farmacêutica, verificou-se que os supervisores das linhas de produção apresentavam dificuldades de comunicação com suas equipes, o que resultava em dúvidas sobre funções e responsabilidades. Para adequar-se às disposições da NR-17 – Ergonomia, a organização passou a orientar os superiores hierárquicos diretos dos trabalhadores a buscar, no exercício de suas atividades, facilitar a compreensão das atribuições e responsabilidades de cada função, manter aberto o diálogo para o esclarecimento de dúvidas sobre as atividades desempenhadas e favorecer o trabalho em equipe, além de",
       "alternatives": {
         "A": "fortalecer o senso de hierarquia, garantindo disciplina e respeito entre os membros da equipe.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b8fcfa4a547c5566"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b8fcfa4a547c5566",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma auditoria interna de segurança, verificou-se que os trabalhadores de uma indústria metalúrgica desconheciam as orientações básicas para atuação na prevenção e combate a incêndio. Diante dessa constatação, tornou-se necessário avaliar o cumprimento das obrigações previstas na NR-23 – Proteção Contra Incêndios, que determina que todos os trabalhadores recebam informações sobre a utilização dos equipamentos de combate ao incêndio, os procedimentos de resposta a emergências e de evacuação, incluindo os",
       "alternatives": {
         "A": "hidrantes instalados na área operacional.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7e6e6edcb5b33a25"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7e6e6edcb5b33a25",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma refinaria, o engenheiro de segurança do trabalho identificou a necessidade de compreender, de forma estruturada, os fatores que poderiam contribuir para uma possível explosão em um reator. Para isso, passou a analisar diferentes técnicas de avaliação de riscos, comparando seus princípios e finalidades, até escolher, para examinar esse cenário, a Análise por Árvore de Falhas (AAF). Esse tipo de análise consiste em",
       "alternatives": {
         "A": "identificar, por raciocínio indutivo, as consequências decorrentes de uma falha inicial no processo produtivo.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e55d545ea5200880"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e55d545ea5200880",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma inspeção em uma fábrica de explosivos, o Auditor- Fiscal do Trabalho observou um galpão onde os trabalhadores realizavam o encartuchamento de explosivos, depositando-os em invólucros. No local havia oito trabalhadores simultaneamente, e o recinto não era isolado das demais dependências da fábrica. De acordo com a NR 19 – Explosivos, essa situação representa descumprimento das exigências normativas porque",
       "alternatives": {
         "A": "as atividades em que explosivos sejam depositados em invólucros, tal como encartuchamento, devem ser efetuadas em locais isolados, não podendo ter em seu interior mais de quatro trabalhadores ao mesmo tempo.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fa351f4f7632566d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fa351f4f7632566d",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma frente de trabalho rural, o engenheiro de segurança do trabalho avaliava as condições de habitação oferecidas aos empregados, observando se atendiam às exigências da NR 21 – Trabalho a Céu Aberto. Conforme estabelece a NR-21, as casas de moradia devem ser construídas em locais arejados, livres de vegetação e afastadas dos depósitos de feno ou estercos, currais, estábulos, pocilgas e quaisquer viveiros de criação, com uma distância de no mínimo",
       "alternatives": {
         "A": "90 metros.",
         "B": "80 metros.",
         "C": "70 metros.",
         "D": "60 metros.",
-        "E": "50 metros. Redação"
+        "E": "50 metros."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f90f5c7a4cd11771"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f90f5c7a4cd11771",
+      "base_text": null
     }
   ],
   "year": 2024,

@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5153b99c0d6fc3de"
+      "question_hash": "5153b99c0d6fc3de",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c2a8e3e2762c75d7"
+      "question_hash": "c2a8e3e2762c75d7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b8e74277e6013996"
+      "question_hash": "b8e74277e6013996",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4a88e4565e0dac27"
+      "question_hash": "4a88e4565e0dac27",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "42db823f5a4c5bd6"
+      "question_hash": "42db823f5a4c5bd6",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3fcca755e63e20b3"
+      "question_hash": "3fcca755e63e20b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2335c33acf2d13cc"
+      "question_hash": "2335c33acf2d13cc",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c8eece5fca20d75"
+      "question_hash": "6c8eece5fca20d75",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ddec930e6526c004"
+      "question_hash": "ddec930e6526c004",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "bae01721d792a47f"
+      "question_hash": "bae01721d792a47f",
+      "base_text": null
     },
     {
       "question_number": 11,
@@ -213,15 +223,16 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "461a9da45475a916"
+      "question_hash": "461a9da45475a916",
+      "base_text": null
     },
     {
       "question_number": 12,
       "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Silvana iniciou um treinamento com o objetivo de participar de uma prova de corrida. Ela registrou, em um plano cartesiano, a distância percorrida (em quilômetros) e o respectivo tempo gasto (em minutos), em cada um dos quatro primeiros dias de treinamento. Cada ponto no gráfico corresponde aos registros de um dia de treino. Sabe-se que, ao longo dos quatro dias, a razão distância/tempo foi estritamente crescente. Colocando-se esses pontos em ordem cronológica, obtém-se",
       "alternatives": {
-        "A": "C – A – D –",
-        "B": "(B) B – A – C – D.",
+        "A": "C – A – D – B.",
+        "B": "B – A – C – D.",
         "C": "C – D – A – B.",
         "D": "B – C – A – D.",
         "E": "A – B – C – D."
@@ -232,7 +243,8 @@
       "image_path": "data/processed/images/trt24_cargo-geral_q12.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "98920166f99c2912"
+      "question_hash": "86878c518721d114",
+      "base_text": null
     },
     {
       "question_number": 13,
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d29c5da7d0f8ce72"
+      "question_hash": "d29c5da7d0f8ce72",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "91d2ec25f0e7fbba"
+      "question_hash": "91d2ec25f0e7fbba",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,11 +303,12 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8481e6ef5a7cf44a"
+      "question_hash": "8481e6ef5a7cf44a",
+      "base_text": null
     },
     {
       "question_number": 16,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "João, servidor ocupante de cargo de provimento efetivo no Tribunal Regional do Trabalho da Região X, em razão de patologia estritamente relacionada ao exercício funcional, teve deferida a aposentadoria por incapacidade permanente para o trabalho. Em momento posterior, constatou-se a acentuada regressão da referida patologia, o que acarretou o restabelecimento da capacidade laborativa do servidor, ainda que em intensidade um pouco inferior à originária. Por tal razão, a Administração Pública decidiu que João deveria retornar ao serviço ativo. Sobre a hipótese, à luz da Lei nº 8.112/1990, assinale a afirmativa correta.",
       "alternatives": {
         "A": "João deve ocupar algum cargo da mesma carreira do cargo originário.",
@@ -308,11 +323,12 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "326588bfce5058e4"
+      "question_hash": "326588bfce5058e4",
+      "base_text": null
     },
     {
       "question_number": 17,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Maria, servidora pública federal, recebia auxílio-moradia em razão da inexistência de imóvel funcional disponível na localidade em que estava lotada, além de preencher os demais requisitos exigidos na sistemática vigente. Sobre a hipótese, considerando os balizamentos estabelecidos pela Lei nº 8.112/1990, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O auxílio tem a natureza jurídica de adicional.",
@@ -327,11 +343,12 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7093a3af74bfefd9"
+      "question_hash": "7093a3af74bfefd9",
+      "base_text": null
     },
     {
       "question_number": 18,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito Administrativo",
       "statement": "A informação de que Pedro, servidor público federal de escalão hierárquico superior, teria praticado uma infração disciplinar, chegou ao conhecimento da autoridade competente. Além de ser informado por seus assessores imediatos sobre a necessidade de instaurar o respectivo processo administrativo disciplinar, também lhe foi sugerida a possibilidade de afastamento preventivo, em razão do risco de que ele influísse na apuração do ilícito administrativo. Em relação ao sugerido afastamento de Pedro, considerando os balizamentos estabelecidos pela Lei nº 8.112/1990, assinale a afirmativa correta.",
       "alternatives": {
         "A": "É vedado, considerando a presunção de inocência.",
@@ -346,11 +363,12 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "54e130cc175a7789"
+      "question_hash": "54e130cc175a7789",
+      "base_text": null
     },
     {
       "question_number": 19,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Ao apreciar recurso interposto contra o juízo monocrático de primeira instância, o relator, no âmbito da Turma competente do Tribunal Regional do Trabalho da 24ª Região (TRT-24), a partir de requerimento do Ministério Público, entendeu que se tratava de hipótese de assunção de competência. Nessa situação, à luz do Regimento Interno do TRT-24, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A análise do recurso deve ser suspensa até que o Tribunal Pleno aprecie a matéria de direito.",
@@ -365,11 +383,12 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "3291eb6a510b249b"
+      "question_hash": "3291eb6a510b249b",
+      "base_text": null
     },
     {
       "question_number": 20,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Em determinado processo judicial que se encontra em tramitação no âmbito de uma Vara do Trabalho localizada no Estado de Mato Grosso do Sul, a reclamante entendeu que o Juízo praticou ato que configurava erro de procedimento, o que, ao seu ver, deveria ser regularizado pelo Tribunal Regional do Trabalho da 24ª Região (TRT-24) Sobre a situação descrita, à luz do Regimento Interno do TRT-24, é cabível, no prazo de 8 (oito) dias, preenchidos os demais requisitos exigidos,",
       "alternatives": {
         "A": "a reclamação.",
@@ -384,11 +403,12 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "94d89483b8e839c7"
+      "question_hash": "94d89483b8e839c7",
+      "base_text": null
     },
     {
       "question_number": 21,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A Administração Pública, como organização formal moderna, apresenta características básicas como divisão do trabalho, hierarquia funcional, formalização de regras, impessoalidade e busca pela eficiência na prestação dos serviços públicos. Assinale a opção que apresenta, corretamente, uma característica das organizações formais modernas no âmbito da Administração Pública.",
       "alternatives": {
         "A": "Os clientes internos não influenciam os processos organizacionais, pois seu papel está restrito ao consumo dos produtos finais da organização.",
@@ -403,11 +423,12 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ac08132b8485b1d6"
+      "question_hash": "ac08132b8485b1d6",
+      "base_text": null
     },
     {
       "question_number": 22,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A gestão de resultados nos serviços públicos busca eficiência, transparência e atendimento às demandas sociais por meio de monitoramento e avaliação contínuos. Assinale a opção que apresenta, corretamente, itens da agenda para a estruturação da gestão de resultados na produção de serviços públicos.",
       "alternatives": {
         "A": "Foco nos resultados e políticas públicas formuladas a partir de processo de organização governamental.",
@@ -422,11 +443,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2be0e10961caca03"
+      "question_hash": "2be0e10961caca03",
+      "base_text": null
     },
     {
       "question_number": 23,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A gestão de desempenho compreende planejamento, organização, supervisão e controle para entregar excelentes resultados. Assinale a opção que apresenta, corretamente, os processos da gestão de desempenho e respectivas funções típicas.",
       "alternatives": {
         "A": "Planejamento: fixação de objetivos e definição de planos. Organização: implementação e infraestrutura de trabalho. Supervisão: comunicação e orientação para equipe. Controle: indicadores de desempenho e criação de valor.",
@@ -441,11 +463,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f78fb393f0ccaf96"
+      "question_hash": "f78fb393f0ccaf96",
+      "base_text": null
     },
     {
       "question_number": 24,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A Gestão por Projetos organiza esforços temporários para atingir objetivos definidos, com uso de metodologias e ferramentas que garantem planejamento, execução, controle e encerramento alinhados às metas organizacionais. Assinale a opção que apresenta, corretamente, o documento que sintetiza as condições e os parâmetros-chave para o projeto e estabelece a estrutura para o desenvolvimento de um plano-base para a sua realização.",
       "alternatives": {
         "A": "Síntese de plano-base.",
@@ -460,11 +483,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7ceeef96d31014e2"
+      "question_hash": "7ceeef96d31014e2",
+      "base_text": null
     },
     {
       "question_number": 25,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A Gestão de Riscos busca identificar, analisar e mitigar ameaças potenciais, garantindo a resiliência e a sustentabilidade da organização. Assinale a opção que apresenta, corretamente, o risco de conformidade.",
       "alternatives": {
         "A": "Trata-se do risco de perdas financeiras geradas por falhas tecnológicas, como interrupções em sistemas e ataques cibernéticos.",
@@ -479,11 +503,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d09abe00da310f9e"
+      "question_hash": "d09abe00da310f9e",
+      "base_text": null
     },
     {
       "question_number": 26,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito Constitucional",
       "statement": "Um legitimado à deflagração do controle concentrado de constitucionalidade perante o Supremo Tribunal Federal ajuizou Ação Direta de Inconstitucionalidade (ADI), tendo por objeto a Medida Provisória n.° X (MPX), que veio a ser convertida na Lei n.° Y (LY) enquanto o processo objetivo ainda estava em tramitação, isto sem que fossem promovidas alterações substanciais no seu conteúdo. Em relação à ADI, à luz da sistemática vigente, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Ela perdeu o seu objeto, devendo ser extinta.",
@@ -498,11 +523,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "082091b426b22a7e"
+      "question_hash": "082091b426b22a7e",
+      "base_text": null
     },
     {
       "question_number": 27,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A posse dar-se-á pela assinatura do respectivo termo, no qual deverão constar as atribuições, os deveres, as responsabilidades e os direitos inerentes ao cargo ocupado, que não poderão ser alterados unilateralmente, por qualquer das partes, ressalvados os atos de ofício previstos em lei. Sobre a posse, considerando as disposições da Lei n.° 8.112/1990, analise as afirmativas a seguir. I. A posse ocorrerá no prazo de trinta dias contados da publicação do ato de provimento. II. A posse poderá se dar mediante procuração específica. III. No ato da posse, o servidor apresentará declaração de bens e valores que constituem seu patrimônio e declaração quanto ao exercício ou não de outro cargo, emprego ou função pública. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -517,11 +543,12 @@
       "image_path": "data/processed/images/trt24_cargo-geral_q27.png",
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "0bd13653d2d21965"
+      "question_hash": "0bd13653d2d21965",
+      "base_text": null
     },
     {
       "question_number": 28,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito e Processo do Trabalho",
       "statement": "Contrato intermitente é aquele no qual a prestação de serviços, com subordinação, não é contínua, ocorrendo com alternância de períodos de prestação de serviços e de inatividade, determinado em horas, dias ou meses. Das categorias profissionais listadas a seguir, assinale aquela que a CLT excluiu do contrato intermitente.",
       "alternatives": {
         "A": "Metalúrgicos.",
@@ -536,11 +563,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "cbcd591435d16ea9"
+      "question_hash": "cbcd591435d16ea9",
+      "base_text": null
     },
     {
       "question_number": 29,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "O contrato de trabalho está sujeito a causas suspensivas e interruptivas. Das opções listadas a seguir, assinale aquela que, de acordo com a norma de regência, exibe uma causa de interrupção e uma de suspensão do contrato de trabalho, nessa ordem.",
       "alternatives": {
         "A": "Férias e aposentadoria por incapacidade permanente.",
@@ -555,11 +583,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "cffa876c9954fc99"
+      "question_hash": "cffa876c9954fc99",
+      "base_text": null
     },
     {
       "question_number": 30,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Dos direitos listados a seguir, assinale aquele que foi extinto pela Lei n.° 13.467/2017, conhecida como Reforma Trabalhista.",
       "alternatives": {
         "A": "Horas de sobreaviso.",
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "17d5764e4463f3e8"
+      "question_hash": "17d5764e4463f3e8",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito Administrativo",
       "statement": "A Administração Pública, guiada por princípios constitucionais, busca uma gestão ética, transparente e eficaz, voltada ao interesse da sociedade. Assinale a opção que apresenta corretamente o princípio que é requisito de eficácia dos atos administrativos.",
       "alternatives": {
         "A": "Eficiência.",
@@ -593,11 +623,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "720246277f9a801c"
+      "question_hash": "720246277f9a801c",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito Administrativo",
       "statement": "A Administração Pública estrutura-se por meio de organizações formais que definem a distribuição de funções, competências e níveis de autoridade, assegurando a gestão organizacional do poder público de forma racional e eficiente. Assinale a opção que apresenta corretamente a pessoa jurídica de direito privado que, embora controlada pelo Estado, não atende a todos os requisitos legais para ser considerada empresa pública ou sociedade de economia mista, atuando em regra na prestação de serviços públicos de natureza comercial ou industrial.",
       "alternatives": {
         "A": "Autarquia especial.",
@@ -612,11 +643,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f3fe1b2be1cf37a8"
+      "question_hash": "f3fe1b2be1cf37a8",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A gestão por competências na Administração Pública contribui para o desenvolvimento organizacional ao alinhar as habilidades dos servidores às estratégias institucionais, promovendo maior eficiência, desempenho e qualidade na entrega de serviços à sociedade. Assinale a opção que apresenta corretamente a relação entre conhecimento, habilidade e competência no contexto da gestão por competências.",
       "alternatives": {
         "A": "Competência refere-se apenas à acumulação de conhecimento técnico e acadêmico.",
@@ -631,11 +663,12 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2f35d2c287713417"
+      "question_hash": "2f35d2c287713417",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Administração Geral e Pública",
       "statement": "O planejamento estratégico no setor público orienta a gestão por resultados, promovendo ações alinhadas a metas e indicadores que garantem maior eficiência, transparência e foco nas demandas da sociedade. Assinale a opção que apresenta corretamente uma característica do planejamento estratégico no setor público.",
       "alternatives": {
         "A": "O planejamento estratégico é voltado principalmente para a resolução imediata de problemas operacionais, com foco no curto prazo.",
@@ -650,11 +683,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "5d0e434d94fb309f"
+      "question_hash": "5d0e434d94fb309f",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito Administrativo",
       "statement": "O Regime Jurídico dos Servidores Públicos Federais, estabelecido pela Lei n.° 8.112/1990, disciplina os direitos e deveres, os princípios éticos, a responsabilidade e as penalidades aplicáveis aos servidores. Assinale a opção que apresenta corretamente uma das hipóteses em que o servidor público federal, regido pela Lei n.° 8.112/1990, perderá parcela de sua remuneração.",
       "alternatives": {
         "A": "Quando faltar ao serviço por motivo justificado, devidamente comprovado.",
@@ -669,11 +703,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7f27e827effe71d3"
+      "question_hash": "7f27e827effe71d3",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A gestão de pessoas no setor público envolve processos integrados de recrutamento, seleção, capacitação, desenvolvimento, avaliação de desempenho e gestão de carreiras, com foco na valorização dos servidores e na melhoria da qualidade dos serviços prestados à sociedade. Assinale a opção que apresenta corretamente uma das bases fundamentais da gestão do desempenho no setor público.",
       "alternatives": {
         "A": "Concentra-se exclusivamente na avaliação de resultados, sem considerar o planejamento ou o apoio ao servidor.",
@@ -688,11 +723,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9c74c480c457f8f5"
+      "question_hash": "9c74c480c457f8f5",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A Qualidade de Vida no Trabalho (QVT) no setor público visa promover um ambiente organizacional saudável, equilibrado e motivador, que valorize o servidor, melhore o desempenho institucional e fortaleça o compromisso com o serviço à sociedade. Assinale a opção que apresenta corretamente um fator-chave da QVT no setor público, relacionado à satisfação de clientes internos e externos.",
       "alternatives": {
         "A": "Compensação: associada à inovação, variedade e ritmo de trabalho.",
@@ -707,11 +743,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b2e5b46b6e81d13e"
+      "question_hash": "b2e5b46b6e81d13e",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A Gestão de Materiais e Patrimônio na Administração Pública visa assegurar o controle, a economicidade e a eficiência no uso, na aquisição, no armazenamento e na distribuição de bens e de recursos públicos. Sobre a administração de estoques, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A administração dos estoques exige integração entre a área de materiais e a área financeira, pois envolve tanto o fluxo físico quanto a boa aplicação dos recursos.",
@@ -726,11 +763,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "5886161198ca00ef"
+      "question_hash": "5886161198ca00ef",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "O controle e o inventário de bens patrimoniais na Administração Pública buscam garantir a adequada gestão, a rastreabilidade e a conservação dos ativos públicos, promovendo transparência, responsabilidade e eficiência no uso dos recursos. Sobre o inventário físico de materiais, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O inventário físico é um procedimento interno facultativo, sem implicações fiscais ou contábeis.",
@@ -745,11 +783,12 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "74f1c62a15abac17"
+      "question_hash": "74f1c62a15abac17",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A classificação sistemática de materiais no âmbito da Gestão de Materiais e Patrimônio garante a organização, otimiza o controle e facilita a tomada de decisões estratégicas para o uso adequado de recursos. Assinale a opção que apresenta corretamente os materiais que estão sendo processados ao longo das diversas seções que compõem o processo produtivo.",
       "alternatives": {
         "A": "Matérias-primas.",
@@ -764,11 +803,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "06128e729472f6b7"
+      "question_hash": "06128e729472f6b7",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "A elaboração e a execução do Plano Plurianual (PPA) é um instrumento essencial do ciclo orçamentário, pois orienta o planejamento, a alocação de recursos e a prestação de contas das políticas públicas. Assinale a opção que apresenta corretamente as características do PPA.",
       "alternatives": {
         "A": "O PPA permite que cada novo governo defina metas e programas independentes, não exigindo continuidade dos planos e projetos iniciados no mandato anterior.",
@@ -783,11 +823,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d59b4f4f8a4843a8"
+      "question_hash": "d59b4f4f8a4843a8",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A gestão eficiente das receitas públicas é essencial para garantir recursos que impulsionam investimentos estratégicos e a implementação de políticas sociais. Assinale a opção que apresenta corretamente as origens das receitas públicas.",
       "alternatives": {
         "A": "Derivam unicamente do patrimônio estatal e do patrimônio do particular.",
@@ -802,11 +843,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7142aaf7eaadf5ba"
+      "question_hash": "7142aaf7eaadf5ba",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito Administrativo",
       "statement": "A Lei n.° 14.133/2021, nova Lei de Licitações e Contratos Administrativos, apresenta um conjunto de inovações e aprimoramentos destinados a modernizar, tornar mais transparente e eficiente o processo de contratação pública no Brasil. Assinale a opção que apresenta corretamente uma hipótese de inexigibilidade de licitação.",
       "alternatives": {
         "A": "Quando o preço for muito baixo, dispensando a licitação.",
@@ -821,11 +863,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "bfe9c2aa4ec462b4"
+      "question_hash": "bfe9c2aa4ec462b4",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito Administrativo",
       "statement": "A Lei n.° 14.133/2021, além de modernizar as licitações e contratos administrativos, reforça as atribuições do gestor e do fiscal de contratos, promovendo uma gestão mais eficiente e transparente por meio do acompanhamento rigoroso e da garantia do cumprimento dos termos contratuais. Assinale a opção que apresenta corretamente disposições sobre o acompanhamento e a fiscalização da execução contratual.",
       "alternatives": {
         "A": "A fiscalização contratual pode ser feita apenas por servidores ocupantes de cargos efetivos, sendo vedada a participação de terceiros no processo.",
@@ -840,11 +883,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "34274eeabffb0079"
+      "question_hash": "34274eeabffb0079",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A gestão por projetos utiliza metodologias, ferramentas e recursos para planejar, executar, monitorar e encerrar projetos de forma eficiente, alinhados às metas organizacionais. Assinale a opção que apresenta corretamente a finalidade do termo de abertura do projeto.",
       "alternatives": {
         "A": "Definir as métricas de desempenho detalhadas e os cronogramas finais de entrega do projeto.",
@@ -859,11 +903,12 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "710b0eb11315d623"
+      "question_hash": "710b0eb11315d623",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "O escopo do projeto define claramente o que precisa ser feito, abrangendo todo o trabalho necessário para produzir as entregas previstas, atender aos requisitos ou critérios de aceitação e satisfazer o cliente, assegurando o alcance dos objetivos estabelecidos para o projeto. Assinale a opção que apresenta corretamente o que são consideradas exigências do cliente em um projeto.",
       "alternatives": {
         "A": "As preferências estéticas do cliente, como cor e formato dos produtos.",
@@ -878,11 +923,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "53767091e3ae73ad"
+      "question_hash": "53767091e3ae73ad",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "A Lei de Acesso à Informação (LAI), Lei n.° 12.527/2011, reforça o compromisso da Administração Pública com a transparência e a ética, promovendo o acesso do cidadão às informações governamentais como instrumento fundamental para o controle social e o fortalecimento da democracia. Assinale a opção que apresenta corretamente uma disposição das informações pessoais da LAI.",
       "alternatives": {
         "A": "Informações pessoais podem ser divulgadas livremente após 10 anos, desde que não envolvam agentes públicos.",
@@ -897,11 +943,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "911415f7d94fc7de"
+      "question_hash": "911415f7d94fc7de",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Programas de integridade e mecanismos de prevenção à corrupção são fundamentais para promover a ética, a transparência e a accountability na Administração Pública, fortalecendo a confiança da sociedade nas instituições e garantindo a correta aplicação dos recursos públicos. Assinale a opção que apresenta corretamente o conceito de accountability.",
       "alternatives": {
         "A": "Diz respeito à obrigação de pessoas ou entidades que recebem recursos públicos de prestar contas e assumir responsabilidades fiscais, gerenciais e programáticas.",
@@ -916,11 +963,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "8497ae78d75fef1c"
+      "question_hash": "8497ae78d75fef1c",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "De acordo com a NBC TSP Estrutura Conceitual - Estrutura Conceitual para Elaboração e Divulgação de Informação Contábil de Propósito Geral pelas Entidades do Setor Público, o desempenho da maioria das entidades do setor público pode ser apenas parcialmente avaliado por meio da análise da situação patrimonial, do desempenho e dos fluxos de caixa. Isso é consequência do seguinte fato:",
       "alternatives": {
         "A": "a prestação de contas (accountability) não é necessária para ela.",
@@ -935,11 +983,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4765650145a4b784"
+      "question_hash": "4765650145a4b784",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Contabilidade Geral",
       "statement": "A Secretaria de Habitação do estado Beta apresenta, em seu balanço patrimonial, habitações que são utilizadas para fornecer moradia para famílias de baixa renda por aluguéis com preço abaixo do mercado. O valor contábil destas habitações é de R$ 600.000,00. A entidade possui, também, um imóvel, cujo valor contábil é de R$ 100.000,00, que é alugado a seus empregados, que trabalham no local, por um valor de aluguel semelhante ao de mercado. Assinale a opção que indica a classificação dos ativos no balanço patrimonial da Secretaria de Habitação.",
       "alternatives": {
         "A": "Imobilizado: R$ 700.000,00.",
@@ -954,11 +1003,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "09da4bc3849233f8"
+      "question_hash": "09da4bc3849233f8",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Em 2024, um Estado brasileiro recebeu do Governo Federal um empréstimo de longo prazo no valor total de R$ 500.000,00. Assinale a opção que indica a classificação da saída e do recebimento de caixa pelo Governo Federal e Estadual, respectivamente, na Demonstração dos Fluxos de Caixa.",
       "alternatives": {
         "A": "Atividade de investimento e operacional.",
@@ -973,11 +1023,12 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d05f6c6b6a539e74"
+      "question_hash": "d05f6c6b6a539e74",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "A previsão é a etapa da receita orçamentária que implica em planejar e estimar a arrecadação das receitas orçamentárias que constarão na proposta orçamentária. Em relação a ela, analise o que se afirma a seguir. I. Alterações na legislação. II. Variação do índice de preços. III. Crescimento econômico. De acordo com a Lei de Responsabilidade Fiscal (Lei Complementar n.° 101/2000), as previsões de receita considerarão os efeitos do que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -992,11 +1043,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "259a6140a205065c"
+      "question_hash": "259a6140a205065c",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Uma entidade do setor público incorreu em despesas com a aquisição de passagens aéreas e pagamento de taxas de embarque para funcionários que mudaram o seu domicílio por conta de demandas internas da administração da entidade. Ao verificar o grupo de natureza da despesa orçamentária, é correto classificar esses gastos como",
       "alternatives": {
         "A": "investimentos.",
@@ -1011,11 +1063,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "497728f534b5eb22"
+      "question_hash": "497728f534b5eb22",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Direito Administrativo",
       "statement": "Uma entidade do setor público realizou um processo de licitação com o objetivo de contratar um serviço com as melhores condições. Para a realização da despesa orçamentária, assinale a opção que indica a etapa em que esse processo ocorreu.",
       "alternatives": {
         "A": "Empenho.",
@@ -1030,11 +1083,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c495cdacf15c78b9"
+      "question_hash": "c495cdacf15c78b9",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Com relação aos princípios gerais para a condução de auditoria no setor público, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Os auditores devem cumprir exigências éticas relevantes e ser independentes. Os relatórios produzidos devem ser conservadores, de modo a enfatizar os riscos e pontos negativos apresentados. ( ) Os auditores devem manter comportamento profissional apropriado, aplicando ceticismo profissional e julgamento profissional e exercendo o devido zelo ao longo de toda a auditoria. Assim, devem evitar qualquer conduta que possa desacreditar seu trabalho. ( ) Os auditores devem possuir ou ter acesso às habilidades necessárias. Deste modo, cada integrante da equipe de auditoria deve possuir, integralmente, o conhecimento, as habilidades e a competência necessários para concluir com êxito a auditoria. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -1049,11 +1103,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "141ceeb928b38bcf"
+      "question_hash": "141ceeb928b38bcf",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Na fase de Planejamento de uma auditoria operacional, o auditor deve estabelecer critérios apropriados, que correspondam aos objetivos e questões de auditoria. Em relação a eles, analise o que se afirma a seguir. I. O critério representa a expectativa razoável e fundamentada do que “deveria ser”, as melhores práticas e benchmarks com os quais o desempenho pode ser comparado. II. Os critérios de auditoria precisam fornecer uma base apropriada e razoável para a avaliação dos objetivos da auditoria e devem ser relevantes, compreensíveis, completos, confiáveis e objetivos no contexto do objeto, dos objetivos e/ou das questões de auditoria. III. Os critérios de auditoria são estabelecidos pela equipe de auditoria e devem ser discutidos com a entidade auditada posteriormente, na fase de execução. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1068,11 +1123,12 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "8109be2799e3fe8d"
+      "question_hash": "8109be2799e3fe8d",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Um problema importante em inferência estatística decorre da necessidade de se obter uma amostra de uma determinada população para se estudar determinado fenômeno. Nesse caso, um problema crucial é se obter uma mostra que seja, em algum sentido, representativa da população em estudo, o que nos leva a pensar em como nossa amostra pode ser obtida. Um método importante, nesse sentido, é a amostragem aleatória simples, na qual",
       "alternatives": {
         "A": "a população apresenta uma subdivisão em pequenos grupos, e é possível e conveniente sortear um número suficiente desses grupos, cujos elementos constituirão a amostra.",
@@ -1087,11 +1143,12 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "0e887e3bae82270f"
+      "question_hash": "0e887e3bae82270f",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Uma amostra de idades de 13 funcionários de uma empresa foi obtida e apresentou os seguintes dados: 35 50 48 59 32 26 28 30 62 57 21 31 38 A mediana dessas idades é igual a",
       "alternatives": {
         "A": "28.",
@@ -1106,11 +1163,12 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "595d13340ffc659c"
+      "question_hash": "595d13340ffc659c",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Os documentos oficiais da Administração Pública devem observar, entre outros, os princípios da clareza, concisão, impessoalidade e objetividade na sua redação. Assinale a opção em que há uma inadequação em relação a um ou mais desses princípios.",
       "alternatives": {
         "A": "A sociedade se divide em duas classes: os que têm mais refeições que apetite e os que têm mais apetite que refeições.",
@@ -1125,11 +1183,12 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "48da3d23666430f4"
+      "question_hash": "48da3d23666430f4",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Conhecimentos Específicos",
+      "discipline": "Noções de Direito",
       "statement": "Segundo o Manual de Redação da Presidência da República, a objetividade é uma das marcas de um texto de redação oficial. Para que essa objetividade seja atingida, é aconselhável, entre outras coisas,",
       "alternatives": {
         "A": "eliminar marcas de caráter informativo.",
@@ -1144,7 +1203,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "cb763c133b166c39"
+      "question_hash": "cb763c133b166c39",
+      "base_text": null
     }
   ],
   "year": 2024,

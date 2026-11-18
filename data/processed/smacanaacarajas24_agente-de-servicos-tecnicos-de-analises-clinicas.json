@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "bb78fadbb5451b03"
+      "question_hash": "bb78fadbb5451b03",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9353be38353f4b2d"
+      "question_hash": "9353be38353f4b2d",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9fd4c6715e8cb203"
+      "question_hash": "9fd4c6715e8cb203",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "accd12a6341eafc6"
+      "question_hash": "accd12a6341eafc6",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5525c913e5173a30"
+      "question_hash": "5525c913e5173a30",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "24a711524acf4ae6"
+      "question_hash": "24a711524acf4ae6",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8dc26c971aec31f6"
+      "question_hash": "8dc26c971aec31f6",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3512e2bebbd68607"
+      "question_hash": "3512e2bebbd68607",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "828c84b221f3c05c"
+      "question_hash": "828c84b221f3c05c",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "02999901fffaa172"
+      "question_hash": "02999901fffaa172",
+      "base_text": null
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "607a0de43047e664"
+      "question_hash": "607a0de43047e664",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,7 +243,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cb2f887d5fbb17c7"
+      "question_hash": "cb2f887d5fbb17c7",
+      "base_text": null
     },
     {
       "question_number": 13,
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "93729e76a340260b"
+      "question_hash": "93729e76a340260b",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,15 +283,16 @@
       "image_path": "data/processed/images/smacanaacarajas24_agente-de-servicos-tecnicos-de-analises-clinicas_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e796bb01023dba3d"
+      "question_hash": "e796bb01023dba3d",
+      "base_text": null
     },
     {
       "question_number": 15,
       "discipline": "Língua Portuguesa",
       "statement": "Três objetos são capazes de manter as suas temperaturas inalteradas, a não ser que sejam colocados em contato entre si. Nesse caso, os objetos em contato transferem calor entre si até que todos fiquem com a mesma temperatura. Os corpos são:  A, inicialmente com temperatura de 70 C;  B, inicialmente com temperatura de 66 C;  C, inicialmente com temperatura de 56 C. O corpo A é posto em contato com o corpo B e, depois de alcançado o equilíbrio entre esses dois corpos, o corpo B é posto em contato com o corpo C, até que se atinja o equilíbrio entre eles. Não há qualquer outro contato entre os corpos. Após o segundo equilíbrio, a temperatura do corpo A é",
       "alternatives": {
-        "A": "igual à temperatura do corpo",
-        "B": "(B) 6 C menor do que a temperatura do corpo B.",
+        "A": "igual à temperatura do corpo B.",
+        "B": "6 C menor do que a temperatura do corpo B.",
         "C": "6 C maior do que a temperatura do corpo B.",
         "D": "4 C menor do que a temperatura do corpo B.",
         "E": "4 C maior do que a temperatura do corpo B."
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cd92ad6d6745db4e"
+      "question_hash": "a6aa01526056851e",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1c63df3f7f6d9f7e"
+      "question_hash": "1c63df3f7f6d9f7e",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2b3410eb0f61784d"
+      "question_hash": "2b3410eb0f61784d",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b1dc0dac3da0a4cd"
+      "question_hash": "b1dc0dac3da0a4cd",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "79f56d77e6085d7c"
+      "question_hash": "79f56d77e6085d7c",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,12 +403,13 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9c9f00fab75739b6"
+      "question_hash": "9c9f00fab75739b6",
+      "base_text": null
     },
     {
       "question_number": 21,
       "discipline": "Informática",
-      "statement": "Sobre servidores proxies, analise as afirmativas a seguir I. É um software que impede que os usuários conheçam detalhes do endereçamento dos recursos da rede acessada; ele interpreta uma solicitação e, caso possa ser atendida, a remete para um servidor interno cujo endereço é desconhecido para o remetente. II. É um elemento que se encontra com frequência em roteadores Wi-Fi de redes locais, mas também em servidores de correios eletrônico e de bancos de dados. III. Pode-se ter uma máquina na rede periférica tão somente com a função de proxy; neste caso, por extensão, a máquina é também denominada proxy (processador ou computador ou servidor proxy). Como normalmente a máquina proxy é um roteador, ela é, por si só, um firewall.",
+      "statement": "Sobre servidores proxies, analise as afirmativas a seguir I. É um software que impede que os usuários conheçam detalhes do endereçamento dos recursos da rede acessada; ele interpreta uma solicitação e, caso possa ser atendida, a remete para um servidor interno cujo endereço é desconhecido para o remetente. II. É um elemento que se encontra com frequência em roteadores Wi-Fi de redes locais, mas também em servidores de correios eletrônico e de bancos de dados. III. Pode-se ter uma máquina na rede periférica tão somente com a função de proxy; neste caso, por extensão, a máquina é também denominada proxy (processador ou computador ou servidor proxy). Como normalmente a máquina proxy é um roteador, ela é, por si só, um firewall. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "II, apenas.",
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "dd35e9cf30f839ce"
+      "question_hash": "dd35e9cf30f839ce",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,12 +443,13 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7bf38f9f858d94db"
+      "question_hash": "7bf38f9f858d94db",
+      "base_text": null
     },
     {
       "question_number": 23,
       "discipline": "Informática",
-      "statement": "Mauro necessita proteger sua conta no WhatsApp. Considerando como referencial a opção configurações avançadas do menu privacidade, disponível no menu configurações da ferramenta, analise as afirmativas a seguir. I. A opção bloquear mensagens de contas desconhecidas protege a conta e melhora o desempenho do seu dispositivo. II. A opção descobrir o endereço IP nas ligações facilita a descoberta da localização dos invasores, onde as ligações recebidas pelo dispositivo serão monitoradas usando diferentes servidores do WhatsApp. III. A opção ativar pré-visualização de links maliciosos evita que sites maliciosos descubram seu endereço IP e o WhatsApp não exibirá mensagem de alerta dos links compartilhados em uma conversa.",
+      "statement": "Mauro necessita proteger sua conta no WhatsApp. Considerando como referencial a opção configurações avançadas do menu privacidade, disponível no menu configurações da ferramenta, analise as afirmativas a seguir. I. A opção bloquear mensagens de contas desconhecidas protege a conta e melhora o desempenho do seu dispositivo. II. A opção descobrir o endereço IP nas ligações facilita a descoberta da localização dos invasores, onde as ligações recebidas pelo dispositivo serão monitoradas usando diferentes servidores do WhatsApp. III. A opção ativar pré-visualização de links maliciosos evita que sites maliciosos descubram seu endereço IP e o WhatsApp não exibirá mensagem de alerta dos links compartilhados em uma conversa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "II, apenas.",
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8570a83eba64df26"
+      "question_hash": "8570a83eba64df26",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,12 +483,13 @@
       "image_path": "data/processed/images/smacanaacarajas24_agente-de-servicos-tecnicos-de-analises-clinicas_q24.png",
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "66718df2057e479c"
+      "question_hash": "66718df2057e479c",
+      "base_text": null
     },
     {
       "question_number": 25,
       "discipline": "Informática",
-      "statement": "Existem diversos tipos de barramento de E/S em um computador. Um barramento é um conjunto de linhas de comunicação pelas quais se estabelecem as interligações entre dispositivos de computação e seu desempenho pode ser medido de diversas formas. Com relação ao desempenho dos barramentos, analise as afirmativas a seguir. I. É medido pela sua largura de banda (quantidade de bits que podem ser transmitidos simultaneamente), geralmente potências de 2: 8 bits, 16 bits, 32 bits, 64 bits. II. Pode ser expresso pela velocidade da transmissão que permite, medida em bps (bits por segundo) e seus múltiplos: 10 bps, 160 Kbps, 100 Mbps, 1 Gbps. III. Pode ser expresso pelo comprimento das linhas de comunicação (em quantidade de nanômetros), geralmente potências de 10: 100 nm, 1.000 nm, 10.000 nm.",
+      "statement": "Existem diversos tipos de barramento de E/S em um computador. Um barramento é um conjunto de linhas de comunicação pelas quais se estabelecem as interligações entre dispositivos de computação e seu desempenho pode ser medido de diversas formas. Com relação ao desempenho dos barramentos, analise as afirmativas a seguir. I. É medido pela sua largura de banda (quantidade de bits que podem ser transmitidos simultaneamente), geralmente potências de 2: 8 bits, 16 bits, 32 bits, 64 bits. II. Pode ser expresso pela velocidade da transmissão que permite, medida em bps (bits por segundo) e seus múltiplos: 10 bps, 160 Kbps, 100 Mbps, 1 Gbps. III. Pode ser expresso pelo comprimento das linhas de comunicação (em quantidade de nanômetros), geralmente potências de 10: 100 nm, 1.000 nm, 10.000 nm. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "I e II, apenas.",
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ea66ac2d5605a60a"
+      "question_hash": "ea66ac2d5605a60a",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": "data/processed/images/smacanaacarajas24_agente-de-servicos-tecnicos-de-analises-clinicas_q26.png",
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9530aeb15b4475f3"
+      "question_hash": "9530aeb15b4475f3",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "74e381f856330a72"
+      "question_hash": "74e381f856330a72",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "08667d867728a69f"
+      "question_hash": "08667d867728a69f",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,12 +583,13 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "685e580a58b51691"
+      "question_hash": "685e580a58b51691",
+      "base_text": null
     },
     {
       "question_number": 30,
       "discipline": "Informática",
-      "statement": "Paulo está elaborando uma planilha muito grande no Calc 7.0. Sobre o recurso dividir uma janela, analise as afirmativas a seguir I. Existem três métodos de dividir uma tela: horizontalmente, verticalmente ou diagonalmente. II. Método Um: 1) clique no cabeçalho da linha abaixo das linhas onde deseja dividir a tela horizontalmente ou clique no cabeçalho da coluna à direita das colunas em que deseja dividir a tela verticalmente. 2) Vá em “Exibir” na barra de menus e selecione “Dividir janela”. Uma linha espessa aparece entre as linhas ou colunas, indicando onde a divisão foi colocada. III. Método Dois: para uma divisão diagonal, clique na linha preta grossa inclinada na parte superior da barra de rolagem vertical e arraste a linha de divisão abaixo da linha em que deseja posicionar a divisão.",
+      "statement": "Paulo está elaborando uma planilha muito grande no Calc 7.0. Sobre o recurso dividir uma janela, analise as afirmativas a seguir I. Existem três métodos de dividir uma tela: horizontalmente, verticalmente ou diagonalmente. II. Método Um: 1) clique no cabeçalho da linha abaixo das linhas onde deseja dividir a tela horizontalmente ou clique no cabeçalho da coluna à direita das colunas em que deseja dividir a tela verticalmente. 2) Vá em “Exibir” na barra de menus e selecione “Dividir janela”. Uma linha espessa aparece entre as linhas ou colunas, indicando onde a divisão foi colocada. III. Método Dois: para uma divisão diagonal, clique na linha preta grossa inclinada na parte superior da barra de rolagem vertical e arraste a linha de divisão abaixo da linha em que deseja posicionar a divisão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "II, apenas.",
@@ -574,7 +603,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "122243efd723ffbd"
+      "question_hash": "122243efd723ffbd",
+      "base_text": null
     },
     {
       "question_number": 31,
@@ -593,7 +623,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "44723070dd361ab5"
+      "question_hash": "44723070dd361ab5",
+      "base_text": null
     },
     {
       "question_number": 32,
@@ -612,7 +643,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7405c2d66953ef7c"
+      "question_hash": "7405c2d66953ef7c",
+      "base_text": null
     },
     {
       "question_number": 33,
@@ -631,7 +663,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1a48a50f79f8f6a7"
+      "question_hash": "1a48a50f79f8f6a7",
+      "base_text": null
     },
     {
       "question_number": 34,
@@ -650,7 +683,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7e6df735d0d7a049"
+      "question_hash": "7e6df735d0d7a049",
+      "base_text": null
     },
     {
       "question_number": 35,
@@ -669,12 +703,13 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6de0185338f2ca7e"
+      "question_hash": "6de0185338f2ca7e",
+      "base_text": null
     },
     {
       "question_number": 36,
       "discipline": "Informática",
-      "statement": "Em relação às técnicas de punção venosa, analise as afirmativas a seguir. I. O uso de agulhas de calibre menor do que o recomendado pode levar à hemólise, comprometendo os resultados dos exames laboratoriais. II. A punção é comumente realizada em veias da fossa cubital utilizando uma agulha com o bisel voltado para cima. III. A técnica de antissepsia deve ser realizada com gaze umedecida em álcool etílico a 70%, em movimento circular do centro para a periferia.",
+      "statement": "Em relação às técnicas de punção venosa, analise as afirmativas a seguir. I. O uso de agulhas de calibre menor do que o recomendado pode levar à hemólise, comprometendo os resultados dos exames laboratoriais. II. A punção é comumente realizada em veias da fossa cubital utilizando uma agulha com o bisel voltado para cima. III. A técnica de antissepsia deve ser realizada com gaze umedecida em álcool etílico a 70%, em movimento circular do centro para a periferia. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
         "B": "I e II, somente.",
@@ -688,7 +723,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ba3329cfeaafd9d3"
+      "question_hash": "ba3329cfeaafd9d3",
+      "base_text": null
     },
     {
       "question_number": 37,
@@ -707,12 +743,13 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "073246bdf4b0e3aa"
+      "question_hash": "073246bdf4b0e3aa",
+      "base_text": null
     },
     {
       "question_number": 38,
       "discipline": "Informática",
-      "statement": "Quanto ao uso de aditivos, anticoagulantes e a sequência recomendada de coleta durante a punção venosa, analise as afirmativas a seguir. I. Para avaliação da função de coagulação plasmática, por meio de testes como tempo de protrombina (TAP), tempo de tromboplastina (PTT) e dosagem de fibrinogênio sérico, realiza-se a coleta em tubos contendo citrato de sódio. II. A coleta com tubo contendo ativador de coágulo para obtenção de soro deve ser realizada antes da coleta com tubo contendo EDTA. III. A coleta com tubo contendo heparina deve ser realizada antes da coleta com tubo contendo citrato de sódio.",
+      "statement": "Quanto ao uso de aditivos, anticoagulantes e a sequência recomendada de coleta durante a punção venosa, analise as afirmativas a seguir. I. Para avaliação da função de coagulação plasmática, por meio de testes como tempo de protrombina (TAP), tempo de tromboplastina (PTT) e dosagem de fibrinogênio sérico, realiza-se a coleta em tubos contendo citrato de sódio. II. A coleta com tubo contendo ativador de coágulo para obtenção de soro deve ser realizada antes da coleta com tubo contendo EDTA. III. A coleta com tubo contendo heparina deve ser realizada antes da coleta com tubo contendo citrato de sódio. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
         "B": "I e II, somente.",
@@ -726,7 +763,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "843ba7045fe4b2f4"
+      "question_hash": "843ba7045fe4b2f4",
+      "base_text": null
     },
     {
       "question_number": 39,
@@ -745,7 +783,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c256b5b67539994e"
+      "question_hash": "c256b5b67539994e",
+      "base_text": null
     },
     {
       "question_number": 40,
@@ -764,7 +803,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "57d3cab0571a9738"
+      "question_hash": "57d3cab0571a9738",
+      "base_text": null
     },
     {
       "question_number": 41,
@@ -783,12 +823,13 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85f7a62f7b90258e"
+      "question_hash": "85f7a62f7b90258e",
+      "base_text": null
     },
     {
       "question_number": 42,
       "discipline": "Informática",
-      "statement": "O Teste de Coombs ou Teste da Antiglobulina Direto (TAD) é uma técnica laboratorial de grande importância para a Hematologia e a Medicina Transfusional. Sobre o teste de Coombs direto, analise as afirmativas a seguir. I. No teste de Coombs direto, a suspensão de hemácias do paciente é colocada para reagir com soro de Coombs (anti imunoglobulina humana). Em caso positivo ocorre a aglutinação das hemácias. II. No teste de Coombs direto em gel-teste, as hemácias aglutinadas pelo soro de Coombs sedimentam no fundo da coluna após a centrifugação. III. O teste de Coombs direto pode ser empregado para confirmar a Doença Hemolítica do Recém-nascido, em que o soro do recém-nascido é colocado para reagir com hemácias fenotipadas que, em caso positivo, são aglutinadas pelo soro de Coombs.",
+      "statement": "O Teste de Coombs ou Teste da Antiglobulina Direto (TAD) é uma técnica laboratorial de grande importância para a Hematologia e a Medicina Transfusional. Sobre o teste de Coombs direto, analise as afirmativas a seguir. I. No teste de Coombs direto, a suspensão de hemácias do paciente é colocada para reagir com soro de Coombs (anti imunoglobulina humana). Em caso positivo ocorre a aglutinação das hemácias. II. No teste de Coombs direto em gel-teste, as hemácias aglutinadas pelo soro de Coombs sedimentam no fundo da coluna após a centrifugação. III. O teste de Coombs direto pode ser empregado para confirmar a Doença Hemolítica do Recém-nascido, em que o soro do recém-nascido é colocado para reagir com hemácias fenotipadas que, em caso positivo, são aglutinadas pelo soro de Coombs. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
         "B": "I e II, somente.",
@@ -802,12 +843,13 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "07c6437223786a0b"
+      "question_hash": "07c6437223786a0b",
+      "base_text": null
     },
     {
       "question_number": 43,
       "discipline": "Informática",
-      "statement": "As Transaminases Alanina Aminotransferase (ALT), também chamada de Transaminase Glutâmico-Pirúvica (TGP), e a Aspartato Aminotransferase (AST), também chamada de Transaminase Glutâmico-Oxalacética (TGO), são enzimas importantes na avaliação bioquímica de um paciente. Sobre essas enzimas, analise as afirmativas a seguir. I. As transaminases AST e ALT são comumente avaliadas em soro ou plasma colhido em EDTA ou Heparina. II. AST e ALT estão igualmente distribuídas no fígado, rins, músculo esquelético e coração, sendo bons marcadores de danos nesses órgãos. III. A cinética colorimétrica de tempo fixo (método de Reitman e Frankel) pode ser utilizado para dosagem das transaminases AST e ALT. Neste método, a 2,4-dinitrofenil-hidrazina presente no meio reacional forma hidrazona, que, em meio alcalino, apresenta coloração que pode ser medida fotometricamente.",
+      "statement": "As Transaminases Alanina Aminotransferase (ALT), também chamada de Transaminase Glutâmico-Pirúvica (TGP), e a Aspartato Aminotransferase (AST), também chamada de Transaminase Glutâmico-Oxalacética (TGO), são enzimas importantes na avaliação bioquímica de um paciente. Sobre essas enzimas, analise as afirmativas a seguir. I. As transaminases AST e ALT são comumente avaliadas em soro ou plasma colhido em EDTA ou Heparina. II. AST e ALT estão igualmente distribuídas no fígado, rins, músculo esquelético e coração, sendo bons marcadores de danos nesses órgãos. III. A cinética colorimétrica de tempo fixo (método de Reitman e Frankel) pode ser utilizado para dosagem das transaminases AST e ALT. Neste método, a 2,4-dinitrofenil-hidrazina presente no meio reacional forma hidrazona, que, em meio alcalino, apresenta coloração que pode ser medida fotometricamente. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
         "B": "I e II, somente.",
@@ -821,12 +863,13 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "526a82c04de93711"
+      "question_hash": "526a82c04de93711",
+      "base_text": null
     },
     {
       "question_number": 44,
       "discipline": "Informática",
-      "statement": "Quanto ao exame empregado para determinar o índice de depuração renal de creatinina (Clearance de creatinina), analise as afirmativas a seguir. I. Para determinar o índice de depuração renal de creatinina (Clearance de creatinina) é necessário dosar a creatinina no soro e na urina. II. A coleta de urina em 24 horas deve ser realizada com o descarte do primeiro jato de cada micção. III. Fatores como idade, sexo e alta ingestão de carne, devem ser considerados ao analisar os resultados deste exame.",
+      "statement": "Quanto ao exame empregado para determinar o índice de depuração renal de creatinina (Clearance de creatinina), analise as afirmativas a seguir. I. Para determinar o índice de depuração renal de creatinina (Clearance de creatinina) é necessário dosar a creatinina no soro e na urina. II. A coleta de urina em 24 horas deve ser realizada com o descarte do primeiro jato de cada micção. III. Fatores como idade, sexo e alta ingestão de carne, devem ser considerados ao analisar os resultados deste exame. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
         "B": "I e II, somente.",
@@ -840,7 +883,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7480244d86217f2d"
+      "question_hash": "7480244d86217f2d",
+      "base_text": null
     },
     {
       "question_number": 45,
@@ -859,12 +903,13 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b95c2e24407ef27f"
+      "question_hash": "b95c2e24407ef27f",
+      "base_text": null
     },
     {
       "question_number": 46,
       "discipline": "Informática",
-      "statement": "Sobre o Teste da Catalase, técnica usada em laboratórios clínicos para identificar bactérias, analise as afirmativas a seguir. I. O teste se baseia na reação entre a enzima catalase, presente em algumas bactérias, e o peroxido de hidrogênio. Na presença desta enzima o peroxido de hidrogênio é degradado liberando gás oxigênio e água. II. Para esta reação, colônias isoladas em placas contendo maio de cultura são transferidas para uma lâmina. Sobre a amostra é adicionado uma gota de peróxido de hidrogênio e observa- se a formação ou não de bolhas. III. Streptococcus são identificados pela reação positiva, enquanto Staphylococcus são negativos.",
+      "statement": "Sobre o Teste da Catalase, técnica usada em laboratórios clínicos para identificar bactérias, analise as afirmativas a seguir. I. O teste se baseia na reação entre a enzima catalase, presente em algumas bactérias, e o peroxido de hidrogênio. Na presença desta enzima o peroxido de hidrogênio é degradado liberando gás oxigênio e água. II. Para esta reação, colônias isoladas em placas contendo maio de cultura são transferidas para uma lâmina. Sobre a amostra é adicionado uma gota de peróxido de hidrogênio e observa- se a formação ou não de bolhas. III. Streptococcus são identificados pela reação positiva, enquanto Staphylococcus são negativos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
         "B": "I e II, somente.",
@@ -878,7 +923,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a36eb3c2bd4767a4"
+      "question_hash": "a36eb3c2bd4767a4",
+      "base_text": null
     },
     {
       "question_number": 47,
@@ -897,12 +943,13 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "51c0c0392d2b5cb7"
+      "question_hash": "51c0c0392d2b5cb7",
+      "base_text": null
     },
     {
       "question_number": 48,
       "discipline": "Informática",
-      "statement": "O diagnóstico preciso das parasitoses intestinais depende da seleção adequada do método parasitológico, considerando o tipo de parasita suspeito, a quantidade da amostra fecal e os recursos disponíveis no laboratório. Sobre os principais métodos empregados no diagnóstico parasitológico, seus princípios e aplicações, analise as afirmativas a seguir. I. O método de observação direto a fresco consiste em adicionar com auxílio de uma espátula fragmentos de fezes em lâmina contendo uma gota de solução salina, homogeneizar, cobrir com lamínula e observar. II. O método qualitativo por sedimentação espontânea de Hoffmann, Pons e Janes se baseia na capacidade de ovos e larvas de helmintos e cistos de protozoários sedimentarem em solução salina. Nessa técnica, o filtrado de fezes é deixado em um cálice cônico por cerca de 10 minutos para completa sedimentação de ovos, larvas e cistos. III. Para facilitar a observação por meio da extração de larvas de nematódeos das fezes, utilizam-se métodos, como o de Rugai e colaboradores, que se baseiam no termo-hidrotropismo positivo dessas larvas.",
+      "statement": "O diagnóstico preciso das parasitoses intestinais depende da seleção adequada do método parasitológico, considerando o tipo de parasita suspeito, a quantidade da amostra fecal e os recursos disponíveis no laboratório. Sobre os principais métodos empregados no diagnóstico parasitológico, seus princípios e aplicações, analise as afirmativas a seguir. I. O método de observação direto a fresco consiste em adicionar com auxílio de uma espátula fragmentos de fezes em lâmina contendo uma gota de solução salina, homogeneizar, cobrir com lamínula e observar. II. O método qualitativo por sedimentação espontânea de Hoffmann, Pons e Janes se baseia na capacidade de ovos e larvas de helmintos e cistos de protozoários sedimentarem em solução salina. Nessa técnica, o filtrado de fezes é deixado em um cálice cônico por cerca de 10 minutos para completa sedimentação de ovos, larvas e cistos. III. Para facilitar a observação por meio da extração de larvas de nematódeos das fezes, utilizam-se métodos, como o de Rugai e colaboradores, que se baseiam no termo-hidrotropismo positivo dessas larvas. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
         "B": "I e II, somente.",
@@ -916,12 +963,13 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "118e85f9495a2d5e"
+      "question_hash": "118e85f9495a2d5e",
+      "base_text": null
     },
     {
       "question_number": 49,
       "discipline": "Informática",
-      "statement": "A cultura de fezes (coprocultura) é realizada para identificação de microrganismos enteropatogênicos causadores de infecções gastrointestinais. A identificação do patógeno causador da gastroenterite pode elucidar melhor a fonte de contaminação e direcionar o tratamento da diarreia. Sobre os procedimentos de coleta e transporte de amostras para coprocultura, analise as afirmativas a seguir. I. A coleta da amostra deve ser realizada com material esterilizado, antes do início de tratamento com antibióticos. II. O material colhido com swab retal ou fecal deve ser processado imediatamente ou imerso em meio de transporte. III. O meio de transporte Clary-Blair tem a função de manter a viabilidade das bactérias, evitando sua multiplicação.",
+      "statement": "A cultura de fezes (coprocultura) é realizada para identificação de microrganismos enteropatogênicos causadores de infecções gastrointestinais. A identificação do patógeno causador da gastroenterite pode elucidar melhor a fonte de contaminação e direcionar o tratamento da diarreia. Sobre os procedimentos de coleta e transporte de amostras para coprocultura, analise as afirmativas a seguir. I. A coleta da amostra deve ser realizada com material esterilizado, antes do início de tratamento com antibióticos. II. O material colhido com swab retal ou fecal deve ser processado imediatamente ou imerso em meio de transporte. III. O meio de transporte Clary-Blair tem a função de manter a viabilidade das bactérias, evitando sua multiplicação. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, somente.",
         "B": "I e II, somente.",
@@ -935,7 +983,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4261388582c652b5"
+      "question_hash": "4261388582c652b5",
+      "base_text": null
     },
     {
       "question_number": 50,
@@ -954,7 +1003,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cdfa8846fcfba72a"
+      "question_hash": "cdfa8846fcfba72a",
+      "base_text": null
     }
   ],
   "year": 2024,

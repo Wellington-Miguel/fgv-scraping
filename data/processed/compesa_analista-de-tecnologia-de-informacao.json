@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para Companhia Pernambucana de Saneamento - COMPESA",
   "cargo_title": "Analista de Tecnologia de Informação",
   "exam_type": "Tipo 1",
-  "total_questions": 68,
+  "total_questions": 70,
   "questions": [
     {
       "question_number": 1,
@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3d8862330458a6b3"
+      "question_hash": "3d8862330458a6b3",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "a66ad2246ee1a3e4"
+      "question_hash": "a66ad2246ee1a3e4",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fc0154eb1d8d0746"
+      "question_hash": "fc0154eb1d8d0746",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "c750bb5d70eaad11"
+      "question_hash": "c750bb5d70eaad11",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "4ee0f3ac64682232"
+      "question_hash": "4ee0f3ac64682232",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f7fbae9fc9e2cb2c"
+      "question_hash": "f7fbae9fc9e2cb2c",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cf1a3e28e0582aa9"
+      "question_hash": "cf1a3e28e0582aa9",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "174f6c991e466fe0"
+      "question_hash": "174f6c991e466fe0",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8b6523ed1e4265c0"
+      "question_hash": "8b6523ed1e4265c0",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2affecf82f577a22"
+      "question_hash": "2affecf82f577a22",
+      "base_text": null
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": "data/processed/images/compesa_analista-de-tecnologia-de-informacao_q11.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b95d162b8c6f0567"
+      "question_hash": "b95d162b8c6f0567",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,7 +243,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "9b8a8406c8404ca0"
+      "question_hash": "9b8a8406c8404ca0",
+      "base_text": null
     },
     {
       "question_number": 13,
@@ -251,7 +263,8 @@
       "image_path": "data/processed/images/compesa_analista-de-tecnologia-de-informacao_q13.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "292c0db47d9037a3"
+      "question_hash": "292c0db47d9037a3",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -266,11 +279,12 @@
       },
       "answer": "B",
       "annulled": false,
-      "has_image": false,
-      "image_path": null,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa_analista-de-tecnologia-de-informacao_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "38ef0bef1c861de1"
+      "question_hash": "38ef0bef1c861de1",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ff49bd2b3af4d567"
+      "question_hash": "ff49bd2b3af4d567",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": "data/processed/images/compesa_analista-de-tecnologia-de-informacao_q16.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fda8eb4a160e30fe"
+      "question_hash": "fda8eb4a160e30fe",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": "data/processed/images/compesa_analista-de-tecnologia-de-informacao_q17.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "b644ff595ac8ea9b"
+      "question_hash": "b644ff595ac8ea9b",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": "data/processed/images/compesa_analista-de-tecnologia-de-informacao_q18.png",
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "24356dd160a66e2d"
+      "question_hash": "24356dd160a66e2d",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,28 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "f1dfe7b51a295d0a"
+      "question_hash": "f1dfe7b51a295d0a",
+      "base_text": null
+    },
+    {
+      "question_number": 20,
+      "discipline": "Informática",
+      "statement": "No Word 2010 BR, por default, um documento é configurado no modo , mas pode ser mudado para . Para isso, escolhe-se um desses modos em uma pequena janela que se abre quando se clica em um ícone, a partir da guia na barra de menus da Faixa de Opções. O ícone é:",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa_analista-de-tecnologia-de-informacao_q20.png",
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cfc09b1252beab31",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -384,7 +423,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "447ea43e7ab440bc"
+      "question_hash": "447ea43e7ab440bc",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -403,7 +443,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "8d296cfec40887ae"
+      "question_hash": "8d296cfec40887ae",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -422,7 +463,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b4826640507caf23"
+      "question_hash": "b4826640507caf23",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -441,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "24315884ec731393"
+      "question_hash": "24315884ec731393",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -460,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "3fd508d21e716912"
+      "question_hash": "3fd508d21e716912",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -479,7 +523,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Específicos",
-      "question_hash": "575ddb7d9c9c5d0a"
+      "question_hash": "575ddb7d9c9c5d0a",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -498,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c149775587d93a9e"
+      "question_hash": "c149775587d93a9e",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -517,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6dc5db591d9d8b1b"
+      "question_hash": "6dc5db591d9d8b1b",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -536,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "6a6f08f931119ce7"
+      "question_hash": "6a6f08f931119ce7",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -555,7 +603,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ef3700f36bc82dc5"
+      "question_hash": "ef3700f36bc82dc5",
+      "base_text": null
     },
     {
       "question_number": 31,
@@ -574,7 +623,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "900367c2c4c630f0"
+      "question_hash": "900367c2c4c630f0",
+      "base_text": null
     },
     {
       "question_number": 32,
@@ -593,7 +643,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2737bdbfe57baf40"
+      "question_hash": "2737bdbfe57baf40",
+      "base_text": null
     },
     {
       "question_number": 33,
@@ -612,7 +663,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2cc611fb307063e8"
+      "question_hash": "2cc611fb307063e8",
+      "base_text": null
     },
     {
       "question_number": 34,
@@ -631,7 +683,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "11439356e30aa47d"
+      "question_hash": "11439356e30aa47d",
+      "base_text": null
     },
     {
       "question_number": 35,
@@ -650,7 +703,28 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "acb5b90e85b2392d"
+      "question_hash": "acb5b90e85b2392d",
+      "base_text": null
+    },
+    {
+      "question_number": 36,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "Assinale a opção que identifica, corretamente, o diagrama de casos de uso referente à compra de um notebook por um cliente de um site de comércio eletrônico.",
+      "alternatives": {
+        "A": "[Imagem na questão]",
+        "B": "[Imagem na questão]",
+        "C": "[Imagem na questão]",
+        "D": "[Imagem na questão]",
+        "E": "[Imagem na questão]"
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa_analista-de-tecnologia-de-informacao_q36.png",
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cc5ab627cc053ae3",
+      "base_text": null
     },
     {
       "question_number": 37,
@@ -669,7 +743,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "1df3b53c90f6b747"
+      "question_hash": "1df3b53c90f6b747",
+      "base_text": null
     },
     {
       "question_number": 38,
@@ -688,7 +763,8 @@
       "image_path": null,
       "page_number": 8,
       "module": "Conhecimentos Específicos",
-      "question_hash": "bc336dfade5f2968"
+      "question_hash": "bc336dfade5f2968",
+      "base_text": null
     },
     {
       "question_number": 39,
@@ -707,7 +783,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c2250ed45fd4e698"
+      "question_hash": "c2250ed45fd4e698",
+      "base_text": null
     },
     {
       "question_number": 40,
@@ -726,7 +803,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "253ad7d599910582"
+      "question_hash": "253ad7d599910582",
+      "base_text": null
     },
     {
       "question_number": 41,
@@ -745,7 +823,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "fee418c83918a755"
+      "question_hash": "fee418c83918a755",
+      "base_text": null
     },
     {
       "question_number": 42,
@@ -764,7 +843,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "636719693dc921d9"
+      "question_hash": "636719693dc921d9",
+      "base_text": null
     },
     {
       "question_number": 43,
@@ -783,7 +863,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "598372602d67ee82"
+      "question_hash": "598372602d67ee82",
+      "base_text": null
     },
     {
       "question_number": 44,
@@ -802,7 +883,8 @@
       "image_path": null,
       "page_number": 9,
       "module": "Conhecimentos Específicos",
-      "question_hash": "90350599c087f9da"
+      "question_hash": "90350599c087f9da",
+      "base_text": null
     },
     {
       "question_number": 45,
@@ -821,15 +903,16 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9f2fc68bcb364b19"
+      "question_hash": "9f2fc68bcb364b19",
+      "base_text": null
     },
     {
       "question_number": 46,
       "discipline": "Engenharia e Arquitetura",
       "statement": "Contraste as duas implementações em Java do método “eh_inteiro”: boolean eh_inteiro (String tipo) // Implementação A { return tipo.equals (\"inteiro\"); } boolean eh_inteiro (String tipo) // Implementação B { return \"inteiro\".equals (tipo); } Assinale a resposta correta:",
       "alternatives": {
-        "A": "Do ponto de vista da segurança da programação, é sempre indiferente optar pelas implementações A ou",
-        "B": "(B) A implementação B é mais segura que a A.",
+        "A": "Do ponto de vista da segurança da programação, é sempre indiferente optar pelas implementações A ou B.",
+        "B": "A implementação B é mais segura que a A.",
         "C": "A implementação A é mais segura que a B.",
         "D": "A implementação B apresenta um erro sintático.",
         "E": "A implementação A apresenta um erro sintático."
@@ -840,7 +923,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9a4cbc0790c57817"
+      "question_hash": "9a4cbc0790c57817",
+      "base_text": null
     },
     {
       "question_number": 47,
@@ -859,7 +943,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c936788792dca6d6"
+      "question_hash": "c936788792dca6d6",
+      "base_text": null
     },
     {
       "question_number": 48,
@@ -878,7 +963,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7d3f4a0b39c21a67"
+      "question_hash": "7d3f4a0b39c21a67",
+      "base_text": null
     },
     {
       "question_number": 49,
@@ -897,7 +983,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f6e7cfee2aa6237d"
+      "question_hash": "f6e7cfee2aa6237d",
+      "base_text": null
     },
     {
       "question_number": 50,
@@ -907,8 +994,8 @@
         "A": "delete from r from s where r.a not in s.a",
         "B": "delete from r where not exists(select * from s where r.a=s.a)",
         "C": "delete from r where not exists(select * from s where r.a=s.a)",
-        "D": "delete from r where exists(select * from s where r.a <> s.a) (E)",
-        "E": null
+        "D": "delete from r where exists(select * from s where r.a <> s.a)",
+        "E": "[Imagem na questão]"
       },
       "answer": "ANULADA",
       "annulled": true,
@@ -916,7 +1003,8 @@
       "image_path": null,
       "page_number": 10,
       "module": "Conhecimentos Específicos",
-      "question_hash": "a523bebd2b98f7a7"
+      "question_hash": "a523bebd2b98f7a7",
+      "base_text": null
     },
     {
       "question_number": 51,
@@ -935,7 +1023,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "3d82c5c44a0b12fb"
+      "question_hash": "3d82c5c44a0b12fb",
+      "base_text": null
     },
     {
       "question_number": 52,
@@ -954,7 +1043,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "d4e9835e29cd0f1d"
+      "question_hash": "d4e9835e29cd0f1d",
+      "base_text": null
     },
     {
       "question_number": 53,
@@ -973,7 +1063,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "647fb34c9c593b53"
+      "question_hash": "647fb34c9c593b53",
+      "base_text": null
     },
     {
       "question_number": 54,
@@ -992,7 +1083,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "b713addaf8f5490f"
+      "question_hash": "b713addaf8f5490f",
+      "base_text": null
     },
     {
       "question_number": 55,
@@ -1011,7 +1103,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "ca46a7b64aa78c8d"
+      "question_hash": "ca46a7b64aa78c8d",
+      "base_text": null
     },
     {
       "question_number": 56,
@@ -1030,7 +1123,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "485ad27cee089389"
+      "question_hash": "485ad27cee089389",
+      "base_text": null
     },
     {
       "question_number": 57,
@@ -1049,7 +1143,8 @@
       "image_path": null,
       "page_number": 11,
       "module": "Conhecimentos Específicos",
-      "question_hash": "88aedb17f353f888"
+      "question_hash": "88aedb17f353f888",
+      "base_text": null
     },
     {
       "question_number": 58,
@@ -1068,7 +1163,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4a0c7692db777483"
+      "question_hash": "4a0c7692db777483",
+      "base_text": null
     },
     {
       "question_number": 59,
@@ -1087,7 +1183,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "5627bf6ca42727c7"
+      "question_hash": "5627bf6ca42727c7",
+      "base_text": null
     },
     {
       "question_number": 60,
@@ -1106,7 +1203,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "c0d16cd21d3f336e"
+      "question_hash": "c0d16cd21d3f336e",
+      "base_text": null
     },
     {
       "question_number": 61,
@@ -1125,7 +1223,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "7597e0188828e169"
+      "question_hash": "7597e0188828e169",
+      "base_text": null
     },
     {
       "question_number": 62,
@@ -1144,7 +1243,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "048e5f27f310db44"
+      "question_hash": "048e5f27f310db44",
+      "base_text": null
     },
     {
       "question_number": 63,
@@ -1163,7 +1263,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "9b79fd766199f32a"
+      "question_hash": "9b79fd766199f32a",
+      "base_text": null
     },
     {
       "question_number": 64,
@@ -1182,7 +1283,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "2a459e0661c33033"
+      "question_hash": "2a459e0661c33033",
+      "base_text": null
     },
     {
       "question_number": 65,
@@ -1201,7 +1303,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "63e360665d955f32"
+      "question_hash": "63e360665d955f32",
+      "base_text": null
     },
     {
       "question_number": 66,
@@ -1220,7 +1323,8 @@
       "image_path": null,
       "page_number": 12,
       "module": "Conhecimentos Específicos",
-      "question_hash": "f9aa148aff8d510a"
+      "question_hash": "f9aa148aff8d510a",
+      "base_text": null
     },
     {
       "question_number": 67,
@@ -1239,7 +1343,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "13bf3c610277484c"
+      "question_hash": "13bf3c610277484c",
+      "base_text": null
     },
     {
       "question_number": 68,
@@ -1258,7 +1363,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "02650347ec2052d3"
+      "question_hash": "02650347ec2052d3",
+      "base_text": null
     },
     {
       "question_number": 69,
@@ -1277,7 +1383,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "38444b67e835ba2c"
+      "question_hash": "38444b67e835ba2c",
+      "base_text": null
     },
     {
       "question_number": 70,
@@ -1296,7 +1403,8 @@
       "image_path": null,
       "page_number": 13,
       "module": "Conhecimentos Específicos",
-      "question_hash": "4b93718c9399100e"
+      "question_hash": "4b93718c9399100e",
+      "base_text": null
     }
   ],
   "year": 2024,

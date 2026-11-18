@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-de-controle-da-qualidade_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um ciclo de vida tradicional de projetos, o nível de esforço e o tempo são distribuídos ao longo das fases de iniciação, planejamento, execução, monitoramento e encerramento. Sobre o assunto, é correto afirmar que",
       "alternatives": {
         "A": "o esforço é maior na fase de iniciação, diminui no planejamento e se mantém baixo durante a execução.",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9f5f0860ba169aa1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9f5f0860ba169aa1",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em relação aos conceitos da gestão de riscos, analise as definições a seguir: I. Situação em potencial que ainda não ocorreu capaz de causar algum tipo de impacto na consecução dos objetivos da Instituição, caso venha a ocorrer. Podem gerar impacto negativo, positivo ou ambos. II. Risco a que uma organização está exposta sem considerar quaisquer ações gerenciais que possam reduzir a probabilidade de sua ocorrência ou seu impacto. III. Consequência resultante da ocorrência do evento sobre os objetivos Assinale a opção que relaciona as definições acima aos seus respectivos conceitos.",
       "alternatives": {
         "A": "(I) Impacto - (II) Evento - (III) Risco Inerente.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "afeccfdf995f66cd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "afeccfdf995f66cd",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre Análise e Melhoria de Processos, analise as afirmativas a seguir: I. Análise e melhoria de processos podem ser compreendidas como um conjunto de atividades que têm por objetivo identificar e analisar os processos de uma organização e propor modificações que gerem um melhor desempenho; II. Gerenciamento de Processos de Negócios, BPM (Business Process Management), é uma disciplina gerencial que integra estratégias e objetivos de uma organização com expectativas e necessidades de clientes, por meio do foco em processos; III. A gestão por processos adota uma visão funcional das atividades organizacionais, convertendo a estrutura dos processos em uma perspectiva vertical, de modo a gerar valor ao cliente; IV. Os processos de negócio definem como as organizações executam o trabalho para entregar valor para os clientes. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "95223ff67f7c76cf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "95223ff67f7c76cf",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No contexto de melhoria contínua de processos organizacionais, os indicadores de qualidade (KPIs) desempenham papel importante na tomada de decisão e no monitoramento do desempenho. Considerando as boas práticas de gestão por indicadores e o uso de KPIs na melhoria contínua, é correto afirmar que",
       "alternatives": {
         "A": "A definição de KPIs deve priorizar indicadores amplos e genéricos.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "595566bb632ae66e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "595566bb632ae66e",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considerando, na gestão de riscos, o conceito de maturidade organizacional, classificação de riscos baseada em probabilidade e impacto e o tratamento dos riscos, analise o cenário a seguir: “Uma organização com maturidade intermediária em gestão de riscos identifica um risco classificado com probabilidade 4 (alta) e Impacto 3 (médio) em sua matriz de riscos.” Sobre o nível de risco e a estratégia mais adequada para tratá-lo, assinale a alternativa correta.",
       "alternatives": {
         "A": "O risco é considerado baixo e a melhor abordagem é aceitar passivamente o risco, sem necessidade de plano de resposta específico.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a887221601e5a66f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a887221601e5a66f",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O Método de Análise e Melhoria de Processos alinhado ao ciclo PDCA garante uma abordagem estruturada para diagnóstico, implementação e padronização de soluções. Considerando a integração entre essas metodologias, assinale a alternativa correta:",
       "alternatives": {
         "A": "A fase Do envolve apenas a execução das ações propostas, sendo desnecessário treinamento das equipes.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "eae6c0a0275e58c7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eae6c0a0275e58c7",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre as Ferramentas da Qualidade, analise os itens a seguir: I. A Folha de Verificação é uma ferramenta usada para registrar e coletar dados de forma estruturada. II. O Diagrama de Pareto auxilia na priorização de problemas, permitindo identificar as causas que têm maior impacto com base no princípio 80/20. III. O Diagrama de Ishikawa é utilizado para estabelecer a relação entre o efeito e as causas raízes de um problema. IV. O Diagrama de Dispersão é utilizado para verificação do comportamento de um processo em relação à especificação. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III, apenas.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0860c9eddbc8da7f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0860c9eddbc8da7f",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No contexto da Metodologia de Análise e Solução de Problemas (MASP), as ferramentas 5W2H e o Fluxograma podem ser aplicadas de forma complementar. Considerando o uso integrado dessas ferramentas na MASP, assinale a opção correta.",
       "alternatives": {
         "A": "O fluxograma é aplicado para identificação dos resultados, enquanto o 5W2H é utilizado para definição do problema.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "058647534cb636aa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "058647534cb636aa",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No planejamento estratégico, diferentes conceitos se correlacionam no direcionamento organizacional. Relacione a Coluna A com a Coluna B: Coluna A 1. Meta 2. Fatores Críticos de Sucesso 3. Estratégia 4. Objetivo Organizacional 5. Diagnóstico Estratégico Coluna B ( ) Conjunto de ações para atingir os resultados desejados. ( ) Condições essenciais que a organização deve atender para consecução de seus objetivos. ( ) Estudo das variáveis que compõem os ambientes externo e interno da organização. ( ) Resultados específicos, quantificados e com prazo definido. ( ) Resultados amplos que a organização deseja alcançar no longo prazo. Assinale a opção que apresenta a sequência correta.",
       "alternatives": {
         "A": "1 – 2 – 3 – 4 – 5.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "2b9ba7d0dadbaef6"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2b9ba7d0dadbaef6",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No contexto do planejamento estratégico, a Matriz SWOT é utilizada para identificar elementos que influenciam as decisões organizacionais. Analise as situações a seguir e classifique-as corretamente de acordo com os componentes da Matriz SWOT. 1. Nova legislação poderá aumentar a carga tributária no próximo ano. 2. Surgimento de tecnologias emergentes que podem aumentar a eficiência operacional. 3. A empresa possui forte reconhecimento no mercado e alta fidelização dos clientes. 4. Capacidade de inovação acima da média em relação aos concorrentes. 5. Baixa integração entre departamentos, gerando perda de produtividade Assinale a opção que apresenta a sequência correta, na ordem apresentada.",
       "alternatives": {
         "A": "Oportunidade – Ameaça – Força – Fraqueza – Força.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b8ca28ca63a1ceee"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b8ca28ca63a1ceee",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O modelo de Serviço de Qualidade Total propõe um programa de Administração de Serviços voltado à excelência organizacional. Analise os itens a seguir e assinale (V) para verdadeiro e (F) para falso. ( ) O conhecimento do cliente externo é suficiente para ajuste dos serviços às expectativas dos públicos envolvidos. ( ) O planejamento estratégico deve priorizar metas financeiras. ( ) A melhoria contínua busca a análise sistemática dos processos. ( ) A capacitação contínua das equipes é fundamental para a cultura da qualidade. ( ) O monitoramento atua apenas como instrumento corretivo. A sequência correta, de cima para baixo, é",
       "alternatives": {
         "A": "V – F – V – F – F.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "35b8a30e23c6da18"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "35b8a30e23c6da18",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A gestão da qualidade busca assegurar que produtos e serviços atendam às expectativas dos clientes. Para isso, a garantia dos oito requisitos da qualidade é essencial. Sobre os requisitos de qualidade, assinale a opção correta.",
       "alternatives": {
         "A": "Desempenho, conformidade, durabilidade, estética, confiabilidade, atendimento, segurança e produtividade.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "61cd48f93b02396e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "61cd48f93b02396e",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "No contexto do gerenciamento de projetos, relacione corretamente as fases do ciclo de vida de um projeto com suas respectivas atividades. Coluna A 1. Iniciação 2. Planejamento 3. Execução 4. Monitoramento e Controle 5. Encerramento Coluna B ( ) O plano de gerenciamento de riscos é elaborado com controles preventivos e planos de contingência. ( ) O gerente de projeto revisa relatórios de desempenho e implementa ações corretivas. ( ) São realizadas reuniões de alinhamento com a equipe para coordenação de tarefas. ( ) São documentadas as lições aprendidas e formalmente os resultados são entregues ao cliente. ( ) Ocorre aprovação formal do documento e designação do gerente. Assinale a opção que apresenta a sequência correta.",
       "alternatives": {
         "A": "2 – 4 – 3 – 5 – 1.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "66f130fd4ac821c1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "66f130fd4ac821c1",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em relação à Análise e Melhoria de Processos, analise os itens a seguir e assinale V para verdadeiro e F para falso. ( ) A cadeia de valor é a representação gráfica que foca nas atividades que agregam valor ao produto final, cobrindo todas as etapas desde a concepção até a entrega. ( ) O mapeamento do processo é aplicado, principalmente na análise estratégica para otimizar processos específicos. ( ) O mapeamento de processos é dividido em duas categorias principais: atividades primárias e atividades de suporte. A sequência correta, de cima para baixo, é",
       "alternatives": {
         "A": "V – V – F.",
@@ -839,15 +882,16 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "0d0c68fce73dd637"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0d0c68fce73dd637",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
-      "statement": "A correta identificação dos tipos de riscos permite à organização adotar estratégias adequadas de mitigação. Relacione os tipos de riscos (Coluna",
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "A correta identificação dos tipos de riscos permite à organização adotar estratégias adequadas de mitigação. Relacione os tipos de riscos (Coluna A) com suas características (Coluna B): Coluna A 1. Financeiros 2. Conformidade 3. Estratégicos 4. Operacionais 5. Integridade Coluna B ( ) Comunicação interna ineficiente. ( ) Escolha inadequada de mercados ou produtos. ( ) Desvalorização cambial afetando contratos internacionais. ( ) Manipulação de informações contábeis ou relatórios. ( ) Falha no cumprimento de normas ambientais ou trabalhistas. Assinale a opção que apresenta a sequência correta.",
       "alternatives": {
-        "A": "com suas características (Coluna B): Coluna A 1. Financeiros 2. Conformidade 3. Estratégicos 4. Operacionais 5. Integridade Coluna B ( ) Comunicação interna ineficiente. ( ) Escolha inadequada de mercados ou produtos. ( ) Desvalorização cambial afetando contratos internacionais. ( ) Manipulação de informações contábeis ou relatórios. ( ) Falha no cumprimento de normas ambientais ou trabalhistas. Assinale a opção que apresenta a sequência correta. (A) 3 – 1 – 5 – 4 – 2.",
+        "A": "3 – 1 – 5 – 4 – 2.",
         "B": "4 – 3 – 1 – 5 – 2.",
         "C": "3 – 4 – 1 – 5 – 2.",
         "D": "4 – 3 – 1 – 2 – 5.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "da6f52dca9498182"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6136e3dfa0f10450",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Estrutura Analítica do Projeto (EAP) é essencial para o planejamento, programação e controle do projeto. Em relação à EAP, assinale a opção correta.",
       "alternatives": {
         "A": "A EAP deve ser estruturada após a definição de riscos e orçamento.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6fc898976e6ba3a5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6fc898976e6ba3a5",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O Balanced Scorecard (BSC) é uma ferramenta amplamente utilizada nas organizações para traduzir a estratégia em objetivos e indicadores distribuídos nas perspectivas: Financeira, Clientes, Processos Internos e Aprendizado e Crescimento. Considerando os itens a seguir, identifique a perspectiva do BSC à qual cada um se relaciona, na ordem apresentada. 1 - Aumentar a retenção de clientes. 2 - Índice de certificações da força de trabalho. 3 - Número de novos produtos lançados por ano. 4 - Reduzir o retrabalho nas operações. 5 - Elevar a rentabilidade da organização. Assinale a opção que apresenta a sequência correta.",
       "alternatives": {
         "A": "Clientes - Processos Internos - Processos Internos - Aprendizado e Crescimento – Financeira.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c8bb876ce8a043af"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c8bb876ce8a043af",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A ABNT NBR ISO 9001:2015 estabelece princípios fundamentais para a gestão da qualidade, direcionando a organização para satisfazer as necessidades do cliente e melhorar continuamente seus processos. Considerando esses princípios, analise os itens a seguir: I. O princípio do foco no cliente exige que a organização identifique as necessidades e expectativas de clientes e partes interessadas, buscando elevar continuamente sua satisfação. II. A abordagem de processos orienta a organização a tratar cada processo como uma atividade isolada, sem considerar interações entre os processos. III. O princípio da melhoria contínua reforça que o aperfeiçoamento dos processos deve ser permanente, mesmo quando não há ocorrência de não conformidades. IV. O princípio da liderança requer que a alta direção estabeleça propósito, direção e um ambiente organizacional que favoreça o engajamento das pessoas no Sistema de Gestão da Qualidade. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, III e IV, apenas.",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b5aab5fa996c58c1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b5aab5fa996c58c1",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considerando a abordagem de processos conforme a ABNT NBR ISO 9001:2015, assinale a opção que representa uma falha no pensamento sistêmico previsto pela Norma.",
       "alternatives": {
         "A": "A equipe de processos utiliza o ciclo PDCA para melhoria contínua.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9983e57ededa1ba2"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9983e57ededa1ba2",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Para que uma ação de melhoria implementada seja efetivamente avaliada quanto à sua eficácia, no contexto da ABNT NBR ISO 9001:2015, a melhor abordagem é",
       "alternatives": {
         "A": "registrar a ação implementada e considerar cumprido quando o responsável confirmar o seu funcionamento.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1ffe2bf729556663"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1ffe2bf729556663",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um cliente informa que a variabilidade do produto entregue pela sua empresa aumentou nos últimos três meses. Entretanto, os indicadores internos continuam dentro da meta estabelecida. Com base nesse cenário, assinale a opção que apresenta a melhor decisão, segundo os princípios da ABNT NBR ISO 9001:2015.",
       "alternatives": {
         "A": "Informar ao cliente que os indicadores estão dentro dos limites e manter o processo da forma que está.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3a57f860ec4b5a0f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3a57f860ec4b5a0f",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Uma empresa fabricante de insumos químicos essenciais para o processo de moderadores nucleares recebeu recentemente três solicitações distintas: I. A empresa se inscreveu para obter certificação ISO 9001 e um organismo independente agendou uma auditoria para verificar conformidade com a norma. II. Um cliente, preocupado com a estabilidade do fornecedor, solicitou uma auditoria para verificar o atendimento aos requisitos contratuais e técnicos aplicáveis aos insumos fornecidos. III. A direção da própria empresa solicitou uma verificação completa do cumprimento dos procedimentos internos de produção, pois houve aumento do índice de retrabalho. Considerando as diretrizes da ABNT NBR ISO 19011:2018, a classificação correta dos três tipos de auditoria acima, respectivamente, são",
       "alternatives": {
         "A": "2ª parte — 1ª parte — 3ª parte.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8b0418c3079d7003"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8b0418c3079d7003",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Num programa de auditoria, a organização decide usar amostragem para verificar a conformidade de registros operacionais de um processo com alto volume de transações. Conforme as orientações da ABNT NBR ISO 19011:2018, o princípio que deve orientar a seleção da amostra é",
       "alternatives": {
         "A": "escolher apenas os registros que favoreçam a conformidade para reduzir achados negativos.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "643c2d060a3768de"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "643c2d060a3768de",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em uma auditoria de conformidade orientada pela ABNT NBR ISO 19011:2018, um auditor encontra diversas evidências que, apesar de indicarem conformidade documental, sugerem fragilidades operacionais que podem impactar futuramente o atendimento aos requisitos. Nesse sentido, assinale a opção que apresenta a postura do auditor que é coerente com a abordagem da Norma.",
       "alternatives": {
         "A": "Considerar o risco e registrar uma oportunidade de melhoria ou observação sustentada por evidências, respeitando os limites da auditoria de conformidade.",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9970e7800316c297"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9970e7800316c297",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma auditoria interna, um auditor tem acesso a informações estratégicas relacionadas ao desenvolvimento de um novo produto altamente sigiloso. Após a auditoria, outro departamento da empresa solicita ao auditor detalhes técnicos do produto para auxiliar em melhorias futuras. Nesse contexto, segundo a ABNT NBR ISO 19011:2018, a conduta correta do auditor é",
       "alternatives": {
         "A": "delegar a decisão ao auditado, permitindo que ele defina se as informações podem ser divulgadas.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6ed038159e258b01"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6ed038159e258b01",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considerando a Norma CNEN-NN 1.16 de Garantia da Qualidade para a segurança de usinas nucleoelétricas e outras instalações, analise as seguintes afirmações: I. Componentes importantes à segurança devem permanecer identificados durante todas as fases: recebimento, armazenamento, fabricação, instalação e operação. II. A inspeção de recebimento pode ser eliminada se o fornecedor possuir certificação internacional reconhecida. III. Chefias operacionais podem aprovar suas próprias auditorias internas desde que possuam formação em engenharia. IV. A aceitação de um item não conforme pode ocorrer, desde que haja justificativa técnica documentada e aprovação por autoridade competente dentro do Programa de Garantia da Qualidade. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fc3c3f365bf3dba0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fc3c3f365bf3dba0",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considerando a CNEN-NE-1.04, sobre licenciamento de instalações nucleares, analise as seguintes afirmações: I. A etapa de Aprovação do Local autoriza o início imediato da construção de uma instalação, desde que haja acompanhamento da Comissão Nacional de Energia Nuclear (CNEN). II. Qualquer alteração no projeto após o Relatório Final de Análise de Segurança (RFAS) deve ser submetida para avaliação da Comissão Nacional de Energia Nuclear (CNEN). III. O Relatório Final de Análise de Segurança (RFAS) constitui um documento obrigatório para a Autorização para Operação Inicial (AOI). IV. A emissão da Licença de Construção só ocorre após aceitação formal do Relatório Preliminar de Análise de Segurança (RPAS). Está correto o que se afirma em",
       "alternatives": {
         "A": "II, III e IV, apenas.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "013530f1b7535c26"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "013530f1b7535c26",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O Relatório Preliminar de Análise de Segurança (RPAS) é um documento central para o licenciamento de instalações nucleares. De acordo com a CNEN-NE-1.04, assinale a opção que caracteriza corretamente o papel do RPAS.",
       "alternatives": {
         "A": "Serve para demonstrar o desempenho final dos sistemas de segurança testados durante o comissionamento.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e1710dd2011507b4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e1710dd2011507b4",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "De acordo com o processo geral para concessão de licenças e autorizações estabelecido na CNEN-NE-1.04, assinale a opção que descreve corretamente a sequência lógica e obrigatória das etapas do licenciamento de uma instalação nuclear.",
       "alternatives": {
         "A": "Licença de Construção - Aprovação do Local - Autorização para utilização de material nuclear - Autorização para Operação Inicial (AOI) - Autorização para Operação Permanente (AOP).",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 12,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1195e580707c075f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1195e580707c075f",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "De acordo com a CNEN-NN 1.17, a certificação de pessoal em ensaios não-destrutivos (END) de itens importantes à segurança de instalações nucleares, tem como principal objetivo",
       "alternatives": {
         "A": "autorizar que qualquer profissional com experiência industrial realize ensaios não-destrutivos (END) em instalações nucleares sem supervisão.",
         "B": "assegurar que pessoas responsáveis por realizar e avaliar ensaios não-destrutivos (END) possuam competência comprovada por meio de treinamento, experiência e exames.",
         "C": "permitir o uso de procedimentos simplificados de ensaios não- destrutivos (END) em função da experiência do operador.",
         "D": "viabilizar a redução do número de etapas de inspeção em componentes nucleares.",
-        "E": "garantir que os operadores conheçam apenas os requisitos de segurança radiológica para uso de fontes em ensaios não- destrutivos (END). Redação"
+        "E": "garantir que os operadores conheçam apenas os requisitos de segurança radiológica para uso de fontes em ensaios não- destrutivos (END)."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 13,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "cc453b25d3faa461"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cc453b25d3faa461",
+      "base_text": null
     }
   ],
   "year": 2024,

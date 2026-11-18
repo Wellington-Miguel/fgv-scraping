@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Raciocínio Lógico-Matemático",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-nuclear_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Numa amostra de material radioativo, o número de átomos que se desintegram por intervalo de tempo é proporcional ao número de átomos 𝑁 presentes na amostra, ou seja, 𝑑𝑁 𝑑𝑡= −𝜆𝑁 onde 𝜆 é a constante de decaimento. Se o número de átomos presentes no instante inicial é 𝑁0, então a lei exponencial do decaimento radioativo é",
       "alternatives": {
         "A": "𝑁(𝑡) = 𝜆𝑒−𝑁0𝑡",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fef2c6fb963bc4d5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fef2c6fb963bc4d5",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Os nêutrons são geralmente classificados de acordo com suas energias. Os nêutrons que têm energias entre 1 MeV e 10 MeV são classificados como",
       "alternatives": {
         "A": "nêutrons lentos.",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "19a79402ccf10a7b"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "19a79402ccf10a7b",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Para se garantir que uma taxa de fissão requerida permaneça sob controle em um reator nuclear, deve-se colocar, no caminho dos nêutrons de fissão, certos materiais com os quais os nêutrons se chocam elasticamente. Tais materiais são chamados de",
       "alternatives": {
         "A": "materiais de blindagem.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "58bbc349bb351a26"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "58bbc349bb351a26",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A descontaminação radiológica se resume na remoção ou redução do material radioativo contaminante em estruturas, superfícies, objetos, animais ou vegetais. Considerando os princípios que, em geral, regem essa descontaminação, analise os itens a seguir. I. A radioatividade pode ser destruída; II. A superfície contaminada dita o método de descontaminação a ser usado; III. O método de descontaminação deve seguir do mais difícil para o mais fácil; IV. A efetividade da descontaminação deve ser verificada pela monitoração constante. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e IV, apenas.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b89feec88569d762"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b89feec88569d762",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A razão de desintegração, ou atividade em Curie (Ci), de uma amostra de material radioativo produzido em reatores nucleares é da ordem de",
       "alternatives": {
         "A": "10−12 Ci.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5e48fff1063ae7dc"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5e48fff1063ae7dc",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A detecção de nêutrons tem grande importância na operação dos reatores nucleares de potência. Entre os sistemas de detecção apropriados para determinar a atividade da fonte de nêutrons no reator estão",
       "alternatives": {
         "A": "detectores de partículas carregadas.",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5d2dd310ff4bdea5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5d2dd310ff4bdea5",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um reator nuclear deve ser projetado com a finalidade de fornecer nêutrons e raios gama para o estudo das reações nucleares, da difusão de nêutrons em vários materiais de reatores e da blindagem contra radiações. Para essa finalidade, será então construído um",
       "alternatives": {
         "A": "reator protótipo.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "40a95abac0405733"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "40a95abac0405733",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um feixe de nêutrons incide sobre uma placa de grafite que possui aproximadamente 0,08 × 1024 á𝑡𝑜𝑚𝑜𝑠/𝑐𝑚3. Uma vez que a seção de choque de dispersão no grafite, para nêutrons rápidos, é 5,0 𝑏𝑎𝑟𝑛𝑠, o livre percurso médio para a dispersão dos nêutrons no material é cerca de",
       "alternatives": {
         "A": "0,4 𝑐𝑚.",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6192fe52d8e91d2a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6192fe52d8e91d2a",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A necessidade do moderador em reatores nucleares reside no fato de que nêutrons oriundos da fissão têm energia relativamente alta, mas a maior chance de esses nêutrons causarem nova fissão ocorre quando sua energia é reduzida ao nível térmico. Os moderadores mais comumente usados são",
       "alternatives": {
         "A": "𝐻2𝑂, 𝐶𝐻2, 𝐵𝑒𝑂 e 𝐶𝑂2.",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9ee1ee7d3c59c4c7"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9ee1ee7d3c59c4c7",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A exposição do corpo humano às radiações ionizantes ocasiona efeitos biológicos que podem se revelar posteriormente por meio de sintomas clínicos. O perigo criado pela entrada de material radioativo no corpo humano depende de certos fatores. Com respeito a esse perigo, analise os itens a seguir. I. O perigo depende da energia da radiação emitida; II. O perigo depende da meia-vida efetiva do radionuclídeo; III. O perigo depende da seção de choque de absorção da radiação. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4e7762aef2ee1e59"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4e7762aef2ee1e59",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Nêutrons e raios gama provenientes de reações com partículas carregadas podem ser usados como projetis, para promover outras reações nucleares. Considerando as reações nucleares de captura radioativa, analise os itens a seguir. I. 𝛾 0 0 + 𝐵𝑒 4 9 →𝐵𝑒 4 8 + 𝑛 0 1 é uma reação de captura radioativa; II. 𝑛 0 1 + 𝐶 6 12 → 𝐶 6 13 + 𝛾 0 0 é uma reação de captura radioativa; e III. 𝑛 0 1 + 𝑈 92 235 → 𝐵𝑎 66 141 + 𝐾𝑟 36 91 + 3 𝑛 0 1 é uma reação de captura radioativa. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f2fc5f6e292a184e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f2fc5f6e292a184e",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um feixe de raios gama penetra grandes espessuras de matéria. A redução da intensidade do feixe de raios gama incidentes, depois de atravessar uma distância dentro do meio material, é dada por 𝐼 𝐼0 = 𝑒−𝜇𝑥 onde 𝐼0 é a intensidade incidente e 𝜇 é o coeficiente linear de absorção. Considerando que para o chumbo 𝜇= 0,693 𝑐𝑚−1, e sabendo que 𝑙𝑜𝑔𝑒2 = 0,693, a espessura de uma placa de chumbo necessária para reduzir a intensidade do feixe de raios gama a uma fração de 1 32 ⁄ é cerca de",
       "alternatives": {
         "A": "1,0 𝑐𝑚.",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "67fa3f4b05b196cd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "67fa3f4b05b196cd",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Num certo reator nuclear, sabe-se que são necessários 4,0 × 1010 𝑓𝑖𝑠𝑠õ𝑒𝑠/𝑠𝑒𝑔 para produzir uma densidade de potência de 1,0 𝑊/𝑐𝑚3. Considerando que o fluxo de nêutrons térmicos é 8,0 × 1012 𝑐𝑚−2𝑠𝑒𝑔−1, e a seção de choque macroscópica de fissão é 0,06 𝑐𝑚−1, a potência produzida por um reator nuclear com volume de 100 𝑐𝑚3 é",
       "alternatives": {
         "A": "12 𝑊.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "98990aa7c59596b4"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "98990aa7c59596b4",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um nêutron experimenta grande variedade de possíveis fatos no decorrer de sua história. Em reatores nucleares de tamanho infinito, a quantidade de nêutrons, desde a formação até a eventual absorção, pode ser obtida pela fórmula dos quatro fatores: 𝑘∞= 𝜀𝑝𝑓𝜂 Nessa relação, a fração de nêutrons térmicos produzidos a partir de nêutrons de fissão corresponde a",
       "alternatives": {
         "A": "𝑘∞− fator de multiplicação infinito.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "1f52adceb5e161c1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1f52adceb5e161c1",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A taxa de acumulação da população de nêutrons é descrita pela equação 𝑑𝑛 𝑑𝑡= 𝑘𝑒−1 𝑙̅ 𝑛+ 𝑆 onde 𝑘𝑒 é o fator de multiplicação efetivo, 𝑙̅ é a duração de vida médio dos nêutrons, e 𝑆 é o termo de fonte. Em um reator nuclear em estado crítico, a solução dessa equação é",
       "alternatives": {
         "A": "𝑛= 𝑛0.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9f8ddd0b9f9c4ee5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9f8ddd0b9f9c4ee5",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O processo mais comum de se retirar calor do combustível de um reator nuclear é por meio da passagem de um fluido sobre a superfície do metal aquecido pelo combustível. Com respeito às condições que o fluido deve satisfazer para ser um bom refrigerador, analise os itens a seguir. I. Seção de choque de absorção relativamente alta para nêutrons térmicos; II. Ponto de ebulição elevado; III. Taxa de ativação radioativa alta. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "e1525f8dcef54ce9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e1525f8dcef54ce9",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O balanço de nêutrons em um sistema reator considera os processos de escape, absorção e produção de nêutrons. A equação derivada desse balanço é a chamada equação de difusão de nêutrons. Nela, a taxa da densidade de nêutrons 𝑛 depende das taxas desses processos por unidade de volume do sistema, ou seja, 𝐷∇2𝜙−Σ𝑎𝜙+ 𝑆= 𝜕𝑛 𝜕𝑡 onde 𝜙 é o fluxo de nêutrons, 𝐷 é o coeficiente de difusão, Σ𝑎 é a seção de choque macroscópica de absorção, e 𝑆 é o termo de fonte. Considerando um sistema em regime estacionário e de tamanho infinito, a equação de difusão torna-se",
       "alternatives": {
         "A": "𝐷∇2𝜙−Σ𝑎𝜙+ 𝑆= 0.",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5cdebaf9cf612242"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5cdebaf9cf612242",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "𝑈 é a seção de choque macroscópica de absorção em fissão, Σ𝑎𝑈 é a seção de choque macroscópica de absorção no combustível, e Σ𝑎𝑀 é a seção de choque macroscópica de absorção no moderador. O fator utilização térmica para o cálculo da criticalidade do reator é dado por Considere um reator homogêneo no qual: Σ𝑓 Σ𝑎𝑀",
       "alternatives": {
         "A": "𝑓= 𝑈 . Σ𝑎 𝑈 Σ𝑓",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c9de6fe0af5f4759"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c9de6fe0af5f4759",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A probabilidade de não vazamento de nêutrons (𝑃) pode ser expressa em termos de algumas propriedades físicas, tais como: buckling (𝐵2), comprimento de difusão (𝐿), e idade de Fermi (𝜏). Considerando a equação de difusão de nêutrons para um grupo de energia, a probabilidade de não vazamento de nêutrons é 1",
       "alternatives": {
         "A": "𝑃= 1+𝐿2𝐵2. 1 (1+𝜏𝐵2)(1+𝐿2𝐵2).",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "5bb7941c13abeaca"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5bb7941c13abeaca",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A solução da equação de difusão de nêutrons de um reator nuclear esférico, sem refletor, em regime estacionário, na coordenada radial, é dada por 𝜙(𝑟) = 𝐶 𝑠𝑒𝑛(𝐵𝑟) 𝑟 Para o raio do reator 𝑅, o fluxo é 𝜙(𝑅) = 0. Sabendo que 𝐶≠0, e que o buckling crítico 𝐵2 = 9,0 𝑐𝑚−2, o raio crítico desse reator é cerca de",
       "alternatives": {
         "A": "0,35 𝑐𝑚 .",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "82f96cda5f98edb3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "82f96cda5f98edb3",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um elemento combustível do tipo placa infinita tem uma espessura 2𝐿, condutividade térmica 𝑘, e gera uma taxa de calor 𝑄 por unidade de volume. Em regime estacionário, a distribuição de temperatura ao longo da direção da espessura 𝑥 é 𝑇= −𝑄𝑥2 2𝑘+ (𝑇𝑠−𝑇0 𝐿 + 𝑄𝐿 2𝑘)𝑥+ 𝑡0 onde 𝑇0 é a temperatura no centro da placa (𝑥= 0) e 𝑇𝑠 é a temperatura na superfície da placa (𝑥= 𝐿). Uma vez que o fluxo de calor no centro da placa é nulo, deduz-se que a diferença entre as duas temperaturas é 𝑄",
       "alternatives": {
         "A": "𝑇0 −𝑇𝑠= 2𝑘𝐿. 𝑄𝐿2",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3b8e62d715a4e3ac"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3b8e62d715a4e3ac",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um reator opera a 4000 𝑘𝑊. Para remover o calor gerado no reator, água a 25 ℃ escoa através dos elementos combustíveis a uma vazão de 20 𝑘𝑔/𝑠 Uma vez que o calor específico da água é 4000 𝐽𝑘𝑔∙℃ ⁄ , a temperatura da água na saída do reator é",
       "alternatives": {
         "A": "50 ℃.",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7803ad376770dcac"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7803ad376770dcac",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sistema de resfriamento de um reator nuclear pode apresentar problemas específicos relacionados ao seu projeto. Existem importantes aspectos físicos do projeto a serem considerados, mas muitos deles representam problemas em materiais, equipamentos e estruturas. Um importante aspecto que representa estritamente um problema de transferência de calor é",
       "alternatives": {
         "A": "purificação.",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "36b7c2d9d91a2013"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "36b7c2d9d91a2013",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Exigências de energia de bombeamento são determinadas pela queda de pressão no escoamento de fluido em sistemas de refrigeração. A queda de pressão em um tubo depende de vários parâmetros, tais como: viscosidade 𝜇, velocidade 𝑣, comprimento do tubo 𝐿 , diâmetro do tubo 𝐷, massa específica 𝜌, e fator de atrito 𝑓. Nesse contexto, a queda de pressão em um escoamento turbulento é dada por 32𝜇𝑣𝐿",
       "alternatives": {
         "A": "∆𝑝= 𝐷2 . 𝜌𝑣2 𝜇 𝐿",
@@ -1029,12 +1082,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "545d73629f3bd336"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "545d73629f3bd336",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "As propriedades dos fluidos e suas características de escoamento desempenham importante papel na determinação de coeficientes de transferência de calor. Por exemplo, um escoamento de fluido em um tubo pode ser caracterizado pelo seguinte número adimensional: 𝐷𝑣𝜌𝑐𝑝 𝑁= 𝜇 onde 𝐷 é o diâmetro do tubo, 𝑣 é a velocidade do escoamento, 𝜌 é a massa específica do fluido, 𝑐𝑝 é o calor específico do fluido, e 𝜇 é a viscosidade do fluido. O número 𝑁 significa",
       "alternatives": {
         "A": "Número de Peclet.",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7ccf19a5aaadbcde"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ccf19a5aaadbcde",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A nova etapa que foi inserida no item 1.2.1 da Norma CNEN-NE- 1.04, dada pela Resolução CNEN 324/24 referente às atividades relacionadas com a localização, construção e operação de instalações nucleares é classificada como",
       "alternatives": {
         "A": "Autorização para Utilização de Materiais Nucleares.",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "8f9b299a045d911e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8f9b299a045d911e",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Norma CNEN NN 3.01 (Requisitos Básicos de Radioproteção) estabelece as grandezas de proteção radiológica para fins de controle e limitação de exposições. Sobre a Dose Equivalente HT e a Dose Efetiva E, analise os itens a seguir: I. A Dose Equivalente HT é definida como a dose absorvida média em um tecido ou órgão DT,R, ponderada pelo Fator de Ponderação da Radiação WR. II. A Dose Efetiva E é o somatório das Doses Equivalentes HT em todos os tecidos e órgãos, cada uma ponderada pelo Fator de Ponderação do Tecido WT correspondente. III. A unidade de medida para ambas as grandezas, Dose Equivalente HT e Dose Efetiva E, é o gray (Gy). Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "b2395efe9ed5391a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b2395efe9ed5391a",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A Norma CNEN-NN-1.16/2000 estabelece os requisitos de Garantia da Qualidade para a Segurança de Usinas Nucleoelétricas e Outras Instalações no Brasil. Sobre os princípios e o campo de aplicação desta Norma, analise os itens a seguir: I - O campo de aplicação da CNEN-NN-1.16/2000 cobre todas as fases de vida de uma instalação nuclear, desde o gerenciamento inicial e escolha do local até o projeto, construção, operação e descomissionamento. II – Um requisito fundamental da Norma é que o Programa de Garantia da Qualidade (PGQ) deve ser focado primariamente na satisfação do cliente e na otimização de custos, sendo os aspectos de segurança tratados por Normas complementares específicas da CNEN. III - No que diz respeito ao controle de itens e serviços comprados (aquisição), a Norma exige que a capacidade dos fornecedores externos de fornecer itens ou serviços importantes à segurança seja formalmente avaliada durante o processo de seleção. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "65a63dddad939cf1"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "65a63dddad939cf1",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A primeira barreira contra o escapamento de material radioativo em um reator de água leve pressurizada (PWR) é",
       "alternatives": {
         "A": "a solução borada do circuito primário.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "63457ef84ccde4d0"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "63457ef84ccde4d0",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre os requisitos aplicáveis ao Indivíduo Ocupacionalmente Exposto (IOE), conforme estabelecido na Norma CNEN NN 3.01, analise os itens a seguir: I - O limite primário de dose efetiva para IOEs é de 50 mSv em um único ano, com a condição de que a média dos últimos 5 anos consecutivos não exceda 20 mSv por ano. II - O IOE que declarar gravidez deve ser remanejado para condições onde a dose equivalente na superfície do abdômen não exceda 2 mSv durante todo o período restante da gestação. III- O limite de dose equivalente para o cristalino é de 20 mSv por ano para o IOE, enquanto o limite para a pele e extremidades é de 500 mSv por ano. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
         "B": "II, apenas.",
         "C": "I e III, apenas.",
         "D": "II e III, apenas.",
-        "E": "I, II e III Redação"
+        "E": "I, II e III"
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "3efa26e330aa5fb3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3efa26e330aa5fb3",
+      "base_text": null
     }
   ],
   "year": 2024,

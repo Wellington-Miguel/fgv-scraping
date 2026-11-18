@@ -23,7 +23,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7edd5554d3ba2c3f"
+      "question_hash": "7edd5554d3ba2c3f",
+      "base_text": null
     },
     {
       "question_number": 2,
@@ -42,7 +43,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "ada52849723c45c7"
+      "question_hash": "ada52849723c45c7",
+      "base_text": null
     },
     {
       "question_number": 3,
@@ -61,7 +63,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "2a86e1d561e6f70d"
+      "question_hash": "2a86e1d561e6f70d",
+      "base_text": null
     },
     {
       "question_number": 4,
@@ -80,7 +83,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6854ce08e9650506"
+      "question_hash": "6854ce08e9650506",
+      "base_text": null
     },
     {
       "question_number": 5,
@@ -99,7 +103,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "7975610aa6dca172"
+      "question_hash": "7975610aa6dca172",
+      "base_text": null
     },
     {
       "question_number": 6,
@@ -118,7 +123,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "05b1f7b3b88652b3"
+      "question_hash": "05b1f7b3b88652b3",
+      "base_text": null
     },
     {
       "question_number": 7,
@@ -137,7 +143,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "17bb148a1a09ac5f"
+      "question_hash": "17bb148a1a09ac5f",
+      "base_text": null
     },
     {
       "question_number": 8,
@@ -156,7 +163,8 @@
       "image_path": null,
       "page_number": 3,
       "module": "Conhecimentos Básicos",
-      "question_hash": "928d88c306ceb77a"
+      "question_hash": "928d88c306ceb77a",
+      "base_text": null
     },
     {
       "question_number": 9,
@@ -175,7 +183,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "30f1e7b8f2b055b7"
+      "question_hash": "30f1e7b8f2b055b7",
+      "base_text": null
     },
     {
       "question_number": 10,
@@ -194,7 +203,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e03b1d50bf002ec0"
+      "question_hash": "e03b1d50bf002ec0",
+      "base_text": "Observe a frase “Ela não via que ele não vira” e julgue as sentenças. I. O segundo verbo, no passado, marca uma anterioridade em relação ao primeiro, também no passado. II. Há uma concomitância temporal entre os dois verbos, já que ambos estão no passado. III. Trata-se do verbo ver conjugado no pretérito imperfeito e pretérito mais-que-perfeito, respectivamente. IV. O passado contínuo, inscrito pelo primeiro verbo, intensifica a oposição do trecho, em contraste ao segundo verbo, no futuro. Está correto o que se afirma em"
     },
     {
       "question_number": 11,
@@ -213,7 +223,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "195263a5d00e551e"
+      "question_hash": "195263a5d00e551e",
+      "base_text": null
     },
     {
       "question_number": 12,
@@ -232,15 +243,16 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1050f04441c6f33d"
+      "question_hash": "1050f04441c6f33d",
+      "base_text": null
     },
     {
       "question_number": 13,
       "discipline": "Língua Portuguesa",
-      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna",
+      "statement": "Duas urnas, A e B, estão dispostas lado a lado. No interior de cada uma das urnas há 6 bolas idênticas, exceto por suas cores. Na urna A, há 4 bolas azuis e 2 bolas verdes e, na urna B, há 2 bolas azuis e 4 bolas verdes. Uma bola será retirada ao acaso da urna A. Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna B. As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2",
       "alternatives": {
-        "A": "Se a bola for verde, então ela será colocada sobre uma mesa, uma bola será retirada ao acaso da urna B e também será colocada sobre a mesa. Se a bola retirada da urna A for azul, então ela será inserida na urna B, a urna será sacudida e duas bolas serão retiradas ao acaso da urna",
-        "B": "As duas bolas retiradas da urna B serão colocadas sobre a mesa. Qual é a probabilidade de que, ao final, duas bolas azuis estejam sobre a mesa? 2 (A) 21 1 (B) 7 2",
+        "A": "21 1",
+        "B": "7 2",
         "C": "3 1",
         "D": "3 1",
         "E": "2"
@@ -251,7 +263,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "36be4110c8774d20"
+      "question_hash": "daae257794427478",
+      "base_text": null
     },
     {
       "question_number": 14,
@@ -270,7 +283,8 @@
       "image_path": "data/processed/images/amazul_engenheiro-controle-e-automacao_q14.png",
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "990b840b29fd8c1b"
+      "question_hash": "990b840b29fd8c1b",
+      "base_text": null
     },
     {
       "question_number": 15,
@@ -289,7 +303,8 @@
       "image_path": null,
       "page_number": 4,
       "module": "Conhecimentos Básicos",
-      "question_hash": "1894783b7b5f2f73"
+      "question_hash": "1894783b7b5f2f73",
+      "base_text": null
     },
     {
       "question_number": 16,
@@ -308,7 +323,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "e8ac3b23f52b52c9"
+      "question_hash": "e8ac3b23f52b52c9",
+      "base_text": null
     },
     {
       "question_number": 17,
@@ -327,7 +343,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8d24527692cf73f9"
+      "question_hash": "8d24527692cf73f9",
+      "base_text": null
     },
     {
       "question_number": 18,
@@ -346,7 +363,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "eb88655159b295d9"
+      "question_hash": "eb88655159b295d9",
+      "base_text": null
     },
     {
       "question_number": 19,
@@ -365,7 +383,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "cc2dd3a9e8be9f97"
+      "question_hash": "cc2dd3a9e8be9f97",
+      "base_text": null
     },
     {
       "question_number": 20,
@@ -384,7 +403,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "41d6d19fb5ae8291"
+      "question_hash": "41d6d19fb5ae8291",
+      "base_text": null
     },
     {
       "question_number": 21,
@@ -403,7 +423,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "8bec5474cab18e4e"
+      "question_hash": "8bec5474cab18e4e",
+      "base_text": null
     },
     {
       "question_number": 22,
@@ -422,7 +443,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "edbbce5b52e277a5"
+      "question_hash": "edbbce5b52e277a5",
+      "base_text": null
     },
     {
       "question_number": 23,
@@ -441,7 +463,8 @@
       "image_path": null,
       "page_number": 5,
       "module": "Conhecimentos Básicos",
-      "question_hash": "85359f4728eeef97"
+      "question_hash": "85359f4728eeef97",
+      "base_text": null
     },
     {
       "question_number": 24,
@@ -460,7 +483,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "3e7c8b879a81a969"
+      "question_hash": "3e7c8b879a81a969",
+      "base_text": null
     },
     {
       "question_number": 25,
@@ -479,7 +503,8 @@
       "image_path": null,
       "page_number": 6,
       "module": "Conhecimentos Básicos",
-      "question_hash": "fd8af864d5eb00cb"
+      "question_hash": "fd8af864d5eb00cb",
+      "base_text": null
     },
     {
       "question_number": 26,
@@ -498,7 +523,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6c766fd8de132d18"
+      "question_hash": "6c766fd8de132d18",
+      "base_text": null
     },
     {
       "question_number": 27,
@@ -517,7 +543,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "5dcb273dedf66b71"
+      "question_hash": "5dcb273dedf66b71",
+      "base_text": null
     },
     {
       "question_number": 28,
@@ -536,7 +563,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "6cfd9ee7ff8c634c"
+      "question_hash": "6cfd9ee7ff8c634c",
+      "base_text": null
     },
     {
       "question_number": 29,
@@ -555,7 +583,8 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "d5dd4ad8f749423d"
+      "question_hash": "d5dd4ad8f749423d",
+      "base_text": null
     },
     {
       "question_number": 30,
@@ -574,11 +603,12 @@
       "image_path": null,
       "page_number": 7,
       "module": "Conhecimentos Básicos",
-      "question_hash": "81f5c664c98652a0"
+      "question_hash": "81f5c664c98652a0",
+      "base_text": null
     },
     {
       "question_number": 31,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A respeito da pirâmide de automação, conforme definida pela norma ISA 95, analise os itens a seguir: I. A pirâmide de automação possui 5 níveis, sendo o mais baixo o nível de processo e o mais alto o nível de gerenciamento corporativo. II. Uma Interface Homem Máquina (IHM) é um dispositivo do nível de gerenciamento de planta. III. Um Controlador Lógico Programável (CLP) é um dispositivo do nível de controle de processo. É correto o que se apresenta em",
       "alternatives": {
         "A": "I apenas",
@@ -592,12 +622,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "530fdbded28a3a5f"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "530fdbded28a3a5f",
+      "base_text": null
     },
     {
       "question_number": 32,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante uma rotina de verificação, um técnico verificou que um dado sensor PT-100 estava calibrado, uma vez que apresentava uma resistência de 138,5 ohms quando submetido a uma temperatura de referência de 100°C. Após reconectar o sensor no processo, ele verificou que sua resistência caiu para aproximadamente 119,3 ohms, a temperatura medida pelo PT-100 nesse instante é de, aproximadamente,",
       "alternatives": {
         "A": "0°C",
@@ -611,12 +642,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ab38b31e9585e124"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ab38b31e9585e124",
+      "base_text": null
     },
     {
       "question_number": 33,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um dado projeto eletrônico de um detector de Radiofrequência (RF) operando na faixa de 10 GHz, o projetista verificou a necessidade de utilizar um diodo. O diodo mais indicado para tal aplicação é",
       "alternatives": {
         "A": "Diodo LED.",
@@ -630,12 +662,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "a564db9f7df13d70"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a564db9f7df13d70",
+      "base_text": null
     },
     {
       "question_number": 34,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere um circuito amplificador não inversor utilizando um amplificador ideal alimentado com uma fonte simétrica de 12V. Utiliza-se um resistor R1 = 2k ohms ligando a porta inversora à terra, e um resistor R2 = 20k ohms fazendo uma retroalimentação com a porta inversora. Supondo um sinal de entrada 𝑉𝑖= 0,5 𝑠𝑒𝑛(120𝑡), a tensão pico a pico da forma da saída 𝑉𝑜 do amplificador é",
       "alternatives": {
         "A": "5V.",
@@ -649,12 +682,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 7,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f395056965cb4022"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f395056965cb4022",
+      "base_text": null
     },
     {
       "question_number": 35,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere um amplificador operacional ideal, com alimentação VCC+ = 12V e VCC- = 0V. Sua entrada não inversora é alimentada com uma fonte 𝑉𝑟𝑒𝑓= 5𝑉 e aplica-se um sinal de entrada 𝑉𝑖= 10 𝑠𝑒𝑛(10𝑡) na entrada inversora. O duty-cyle do sinal de saída 𝑉𝑜 é",
       "alternatives": {
         "A": "25%.",
@@ -668,12 +702,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d2c69a781e9a35ce"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d2c69a781e9a35ce",
+      "base_text": null
     },
     {
       "question_number": 36,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em Instrumentação industrial, é muito comum a utilização de transmissores, que são responsáveis por converter sinais de elementos sensores em sinais padronizados a serem transmitidos para outros elementos da malha de instrumentação. Analise os itens a seguir a respeito de transmissores pneumáticos: I. Não podem ser utilizados em áreas classificadas. II. Possuem como sinal típico de saída 3 a 15psi. III. Construtivamente podem ser do tipo equilíbrio de forças ou balanço de movimento. É correto o que se apresenta em",
       "alternatives": {
         "A": "I",
@@ -687,12 +722,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "00e82527f167e2b8"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "00e82527f167e2b8",
+      "base_text": null
     },
     {
       "question_number": 37,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Em um dado projeto de circuito eletrônico, verificou-se a necessidade de implementar uma função lógica XOR “ou exclusivo” entre duas entradas A e B. Porém, para implementação dessa função apenas portas lógicas do tipo “AND” e portas inversoras estavam disponíveis. O número mínimo de portas “AND” e portas inversoras utilizadas para a implementação da função lógica “ou exclusivo” XOR é",
       "alternatives": {
         "A": "2 portas AND e 2 portas inversoras.",
@@ -706,12 +742,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f0b71e65e0fa3e3e"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f0b71e65e0fa3e3e",
+      "base_text": null
     },
     {
       "question_number": 38,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Durante um projeto eletrônico um projetista encontrou a seguinte expressão Boleana 𝑆= 𝐵𝐶+ 𝐵(𝐴𝐴̅ + 𝐴𝐷)̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅. Após aplicar alguns passos, o projetista conseguiu simplficar a expressão boleana. A opção que melhor representa a expressão Boleana simplificada é",
       "alternatives": {
         "A": "𝑆= 𝐴𝐵𝐶+ 𝐴𝐵̅̅̅̅𝐷",
@@ -725,12 +762,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ae5e664e2f0c891d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ae5e664e2f0c891d",
+      "base_text": null
     },
     {
       "question_number": 39,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Flip Flops são circuitos eletrônicos básicos para o funcionamento de circuitos sequenciais. Os flip flops mais comuns podem ser do tipo D, JK, S-R. Considere um flip-flop do tipo JK, e que em um dado momento a saída do mesmo é Q =1. No primeiro ciclo de clock subsequente as entradas são J=1 e K=1. No segundo ciclo de clock subsequente as entradas são J=0 e K=1. As saídas Q do referido flip flop imediatamente após cada ciclo de clock são, respectivamente,",
       "alternatives": {
         "A": "Q=0 e Q= 0",
@@ -744,12 +782,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "753bde0e6bdee4cf"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "753bde0e6bdee4cf",
+      "base_text": null
     },
     {
       "question_number": 40,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Analise os itens a seguir sobre microprocessadores e características de suas arquiteturas. I. Instruções da arquitetura RISC são executadas em um único ciclo de processamento. II. O Hardware de microprocessadores na arquitetura CISC são mais complexos do que na RISC. III. A família de microprocessadores Intel X86 é um exemplo de microprocessador da família CISC. É correto o que se afirma em",
       "alternatives": {
         "A": "I apenas",
@@ -763,12 +802,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "464e2bc647769242"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "464e2bc647769242",
+      "base_text": null
     },
     {
       "question_number": 41,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere um circuito RC paralelo, em que uma fonte de alimentação de 50V em série com uma chave SW1, alimenta um resistor R de 10 ohms e um capacitor C de 100mF em paralelo. Após um longo período com a chave SW1 fechada, a chave é aberta. O módulo da corrente que passa pelo resistor R no instante imediatamente após a abertura da chave e 6s após a abertura, respectivamente, são, aproximadamente",
       "alternatives": {
         "A": "0 A e 0 A.",
@@ -782,12 +822,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 8,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "37a69e3ed613a84d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "37a69e3ed613a84d",
+      "base_text": null
     },
     {
       "question_number": 42,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Simulações Hardware In The Loop (HIL) são bastante utilizadas atualmente para permitir um ciclo mais rápido de desenvolvimento de produtos. Analise os itens a seguir a respeito de Simulações Hardware in The Loop: I. Necessitam de um Simulador de Tempo Real com capacidade de processamento compatível para que possam simular a planta em tempo real. II. Não necessitam de uma modelagem matemática representativa da planta a ser simulada para que as simulações sejam efetivas. III. São amplamente utilizados na indústria aeroespacial, automobilística e em eletrônica de potência. É correto o que se afirma em",
       "alternatives": {
         "A": "I apenas",
@@ -801,12 +842,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f5d46c9a0c35e841"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f5d46c9a0c35e841",
+      "base_text": null
     },
     {
       "question_number": 43,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere uma ponte de Wheatstone com 3 resistores iguais de 10 ohms, e um resistor variável RX alimentada com uma tensão de 10V. A tensão de Thevenin e a Resistência equivalente de Thevenin no ponto de conexão do resistor variável RX são, respectivamente,",
       "alternatives": {
         "A": "0V e 5 ohms.",
@@ -820,12 +862,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "9d409d0c190dc0dd"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9d409d0c190dc0dd",
+      "base_text": null
     },
     {
       "question_number": 44,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere um sistema de controle digital cuja função de transferência do sistema em malha aberta é dada pela seguinte expressão: 𝐺(𝑧) = 𝑧−0,5 𝑧−0,9 O erro em regime permanente desse sistema a uma entrada degrau é, aproximadamente",
       "alternatives": {
         "A": "0,00.",
@@ -839,12 +882,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "7fb9e50871cede9c"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7fb9e50871cede9c",
+      "base_text": null
     },
     {
       "question_number": 45,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere um circuito com dois transistores bipolares de junção T1 e T2, ambos do tipo NPN ligados em configuração Darlington. Seus coletores são alimentados com uma tensão de 10V. O transistor T1 possui um hfe de 50, enquanto o transistor T2 possui um hfe de 100. Na base de T1 aplica-se uma corrente de 0,5µA. O emissor de T2 é ligado à terra através de um resistor de 175 ohms. A tensão no emissor de T2 é, aproximadamente",
       "alternatives": {
         "A": "0V.",
@@ -858,12 +902,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "f5428eeb524656ce"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f5428eeb524656ce",
+      "base_text": null
     },
     {
       "question_number": 46,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere a expansão em frações parciais da função de transferência G(s) = (s+5)/(s2 + 7s + 12) em termos de primeira ordem da forma A1/(s+p1) + A2/(s+p2) em que -p1 e -p2 são os polos de G(s) e A1 e A2 são os respectivos coeficientes dos termos da expansão. O valor do coeficiente correspondente ao polo de maior valor absoluto é",
       "alternatives": {
         "A": "3.",
@@ -877,12 +922,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "ddca228bca5958aa"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ddca228bca5958aa",
+      "base_text": null
     },
     {
       "question_number": 47,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere a planta G(s) = 1/(s3 + 6s2 + 5s) em série com um ganho proporcional kp positivo numa malha de realimentação negativa unitária. O valor do ganho kp para o qual a resposta livre do correspondente sistema em malha fechada apresente um comportamento oscilatório de amplitude constante é",
       "alternatives": {
         "A": "30",
@@ -896,12 +942,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c8b8428e79358b3a"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c8b8428e79358b3a",
+      "base_text": null
     },
     {
       "question_number": 48,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere o traçado do lugar das raízes para o sistema com função de transferência G(s) = 1/(s3 + 6s2 + 25s) em série com um ganho real positivo numa malha de realimentação unitária negativa. O ponto de encontro das assíntotas do lugar das raízes encontra- se em",
       "alternatives": {
         "A": "-1",
@@ -915,12 +962,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c31d87975b01ea0d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c31d87975b01ea0d",
+      "base_text": null
     },
     {
       "question_number": 49,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Seja um compensador de avanço de fase com função de transferência D(s) = (s + z)/(s + p), em que z e p são reais positivos e, correspondem, respectivamente, às frequências de quebra do zero e do polo do compensador na sua resposta em frequência, avaliada em radianos por segundo. O valor máximo da fase da resposta em frequência deste compensador encontra-se na frequência correspondente ao(à)",
       "alternatives": {
         "A": "máximo entre z e p.",
@@ -934,12 +982,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 9,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d17c03e332e137c5"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d17c03e332e137c5",
+      "base_text": null
     },
     {
       "question_number": 50,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere um controlador proporcional integral com função de transferência D(s) = kp + ki/s em série com uma planta com função de transferência G(s) = (s+2)/(s2 + 3s + 4) numa malha de realimentação unitária negativa. O valor do ganho integral ki para que o erro em estado estacionário para uma entrada rampa unitária aplicada ao sistema em malha fechada correspondente seja de 0,1 unidades, é",
       "alternatives": {
         "A": "2.",
@@ -953,12 +1002,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "606fffd840fcb481"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "606fffd840fcb481",
+      "base_text": null
     },
     {
       "question_number": 51,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sistema com equação de estados: 𝑥̇2] = [ 0 [𝑥̇1 1 −1 1] [𝑥1 𝑥2] + [0 1] 𝑢 É sujeito a uma lei de controle por realimentação completa de estados 𝑢= −𝐾𝑥, em que 𝑥= [𝑥1 𝑥2] é a matriz de estados e 𝐾= [𝑘1 𝑘2] é a matriz de ganhos da lei de controle. Os valores dos ganhos 𝑘1 e 𝑘2 para que o sistema em malha fechada tenha polos duplos em −2 são, respectivamente",
       "alternatives": {
         "A": "2 e 3.",
@@ -972,12 +1022,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "bb4293f3de1ea412"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bb4293f3de1ea412",
+      "base_text": null
     },
     {
       "question_number": 52,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere o seguinte sistema SISO representado na forma de espaço de estados: 𝑥̇2] = [ −7 [𝑥̇1 1 −12 0] [𝑥1 𝑥2] + [1 3] 𝑢 𝑦= [1 0] [𝑥1 𝑥2] A representação deste mesmo sistema em função de transferência é 𝑠+1",
       "alternatives": {
         "A": "𝑠2+7𝑠+12 𝑠+2",
@@ -991,12 +1042,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "6055a5c61eead993"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6055a5c61eead993",
+      "base_text": null
     },
     {
       "question_number": 53,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sensor de força utiliza-se de um potenciômetro linear atrelado a uma mola. Deseja-se que a faixa de leitura deste sensor seja de 0 a F newtons, correspondendo a um deslocamento máximo do conjunto de D centímetros, e que a sensibilidade seja S volts por newtons. O potenciômetro movimenta-se linearmente solidário à deformação da mola e sua resistência varia linearmente com seu deslocamento e sua máxima excursão é de X centímetros, sendo X > D. A constante de mola, em newtons por centímetros, e a tensão de alimentação do potenciômetro, em volts, devem ser, respectivamente,",
       "alternatives": {
         "A": "FD/X e SX/(DF).",
@@ -1010,12 +1062,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "edf66fc77a1d737d"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "edf66fc77a1d737d",
+      "base_text": null
     },
     {
       "question_number": 54,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Seja uma rede de Petri com os seguintes elementos: • Conjunto de lugares: P = {p1,p2,p3,p4} • Conjunto de transições: T = {a,b,c,d} • Pré condições das transições: • Pós condições das transições: Considere que a rede está com uma marcação inicial p1 = 2, p2 = 0, p3 = 0 e p4 = 0, e disparam-se as transições a, b, c e d, em sequência e nesta ordem. A marcação final da rede será",
       "alternatives": {
         "A": "p1 = 1, p2 = 1, p3 = 0 e p4 = 0",
@@ -1029,12 +1082,13 @@
       "has_image": true,
       "image_path": "data/processed/images/amazul_engenheiro-controle-e-automacao_q54.png",
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "fcc112cbf07452c3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fcc112cbf07452c3",
+      "base_text": null
     },
     {
       "question_number": 55,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um motor CC de imã permanente gera uma força contra eletromotriz a uma razão de 0,5 V/100 rpm e possui uma resistência de armadura igual a 15Ω. O motor incialmente parado é alimentado com 12V. A corrente de armadura quando a velocidade é 1500 rpm é, em ampères:",
       "alternatives": {
         "A": "0,15",
@@ -1048,12 +1102,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "d108f4927f7cd8c9"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d108f4927f7cd8c9",
+      "base_text": null
     },
     {
       "question_number": 56,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere um cilindro hidráulico usado para deslocar linearmente uma peça num sistema de manufatura por uma distância de 240 mm em 16 s. Se uma força de 50 kN é necessária para mover a peça e um pistão com área de seção transversal de 200 cm2 é usado, a pressão de trabalho do cilindro em MPa e a taxa de vazão do fluido através do cilindro em m3/s são, respectivamente",
       "alternatives": {
         "A": "2,5 e 3,0 x 10-4",
@@ -1067,12 +1122,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 10,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "4e5a078997149c15"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4e5a078997149c15",
+      "base_text": null
     },
     {
       "question_number": 57,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Numa condição-transição de um dado GRAFCET encontra-se a expressão “3s/a/7s” em que a é uma variável booleana. Se a variável a for verdadeira por 12s seguidos e falsa, caso contrário, a duração total na qual a expressão “3s/a/7s” será verdadeira, em segundos, será",
       "alternatives": {
         "A": "2",
@@ -1086,12 +1142,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "098bce8505dcfdc3"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "098bce8505dcfdc3",
+      "base_text": null
     },
     {
       "question_number": 58,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Seja o problema do regulador quadrático ótimo para um sistema linear descrito pela equação de estados: 𝑥̇ = 𝐴𝑥+ 𝐵𝑢 em que 𝑥 é o vetor de estados, 𝑢 é o vetor de entradas e 𝐴 e 𝐵 são as matrizes do modelo em espaço de estados. Neste problema de controle ótimo, minimiza-se o funcional ∞ 𝐽= ∫(𝑥𝑇𝑄𝑥+ 𝑢𝑇𝑅𝑢)𝑑𝑡 0 em que 𝑄 e 𝑅 são matrizes de ponderação, a fim de obter a matriz de ganhos 𝐾 da lei de controle por realimentação completa de estados 𝑢= −𝐾𝑥. A solução passa pela obtenção de uma matriz 𝑆, solução de uma equação de Riccati, extraída da formulação do problema. Analise os itens a seguir relacionados à solução do problema de controle do regulador ótimo quadrático: I. O ganho 𝐾 é igual a 𝑅−1𝐵𝑇𝑆. II. As matrizes 𝑄, 𝑅 e 𝑆 devem ser positivas semidefinidas. III. O sistema em malha fechada é estável se o par (𝐴, 𝐵) for controlável. Está correto o que se afirma em",
       "alternatives": {
         "A": "I apenas.",
@@ -1105,12 +1162,13 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "31ace4a1e15d0819"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "31ace4a1e15d0819",
+      "base_text": null
     },
     {
       "question_number": 59,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A respeito dos principais tipos de sensores empregados como dispositivos de chaveamento em atuadores elétricos, analise as afirmações a seguir: I. Sensores indutivos detectam materiais metálicos, pois operam pela alteração do campo eletromagnético gerado pelo próprio sensor. II. Sensores capacitivos podem detectar líquidos, pós e materiais orgânicos, devido à variação da constante dielétrica do meio. III. Chaves magnéticas do tipo reed switch realizam a comutação sem contato mecânico direto entre partes móveis. É correto o que se apresenta em:",
       "alternatives": {
         "A": "II apenas.",
@@ -1124,27 +1182,29 @@
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "df119699ab0d19af"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "df119699ab0d19af",
+      "base_text": null
     },
     {
       "question_number": 60,
-      "discipline": "Língua Inglesa",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Classifique as seguintes afirmações acerca de condicionamento de sinais como verdadeiro (V) ou falso (F): I. Buffers baseados em amplificadores operacionais são utilizados antes de conversores analógico-digitais (ADC) para impedir que a impedância de entrada do conversor provoque carregamento do sinal e distorça a leitura. II. Filtros anti-aliasing devem possuir frequência de corte inferior à frequência de Nyquist, a fim de limitar componentes espectrais indesejados. III. Para sinais de baixa amplitude, realizar a digitalização diretamente no ADC, sem amplificação prévia, reduz o erro de quantização. É correto o que se apresenta em:",
       "alternatives": {
         "A": "I apenas.",
         "B": "III apenas.",
         "C": "I e II apenas.",
         "D": "II e III apenas.",
-        "E": "I e III, apenas. Redação"
+        "E": "I e III, apenas."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
       "page_number": 11,
-      "module": "Conhecimentos Básicos",
-      "question_hash": "c62a511d6e0e48ac"
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c62a511d6e0e48ac",
+      "base_text": null
     }
   ],
   "year": 2024,
