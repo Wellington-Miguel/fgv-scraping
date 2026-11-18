@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ebb4432fa100c792"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9e3eeb5f6229df60"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dea91a3b63c1f627"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4bab133faeebffc0"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b30e0965f58d3e17"
     },
     {
       "question_number": 6,
@@ -106,24 +116,28 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d1ebb38a64658835"
     },
     {
       "question_number": 7,
       "discipline": "Língua Portuguesa",
-      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação.",
+      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação. (A) As colônias não deixam de ser colônias pelo fato de serem independentes. (B) É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político. (C) As leis ruins são a pior espécie de tirania. (D) Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente.",
       "alternatives": {
-        "A": "As colônias não deixam de ser colônias pelo fato de serem independentes.",
-        "B": "É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político.",
-        "C": "As leis ruins são a pior espécie de tirania.",
-        "D": "Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente. (A) Como todos os soldados, João também tinha cabelo curto. / adjetivo. (B) Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução. (C) O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva. (D) José era considerado um cabeça-de-vento. / substantivo composto.",
+        "A": "Como todos os soldados, João também tinha cabelo curto. / adjetivo.",
+        "B": "Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução.",
+        "C": "O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva.",
+        "D": "José era considerado um cabeça-de-vento. / substantivo composto.",
         "E": null
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f4a029e9aeceb7c5"
     },
     {
       "question_number": 9,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b89cbd7c05f1ef4e"
     },
     {
       "question_number": 10,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "31fa9a680b927f6e"
     },
     {
       "question_number": 11,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1eb17f6270216508"
     },
     {
       "question_number": 12,
@@ -191,11 +211,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d2db9a5c4a701567"
     },
     {
       "question_number": 13,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Considere a frase: Se você é cuiabano, então é mato-grossense. É logicamente equivalente à frase acima, a seguinte proposição:",
       "alternatives": {
         "A": "Se você é mato-grossense, então é cuiabano.",
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "abc0940f54cb5ce1"
     },
     {
       "question_number": 14,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma reunião de uma unidade hospitalar, estavam presentes 8 servidores, sendo 6 médicos e 2 enfermeiros. Todos sentaram- se ao redor de uma mesa redonda. A quantidade de maneiras distintas que essa mesa pode ser organizada de forma que entre os dois enfermeiros tenha sempre três médicos é",
       "alternatives": {
         "A": "120.",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6320000688f882e7"
     },
     {
       "question_number": 15,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Na malha quadriculada a seguir, formada por quadrados de lados medindo 1cm, estão representados os triângulos ABC e ACD. A área do triângulo ABC, em cm2, é igual a",
       "alternatives": {
         "A": "4,25.",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_analista-de-sistemas-administrador-de-banco-de-dados-infraestrutura-o-m_q15.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b065edde5f380649"
     },
     {
       "question_number": 16,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Sobre números inteiros, racionais e reais, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Há mais números racionais que números inteiros. ( ) A soma de dois números irracionais resulta sempre em um número irracional. ( ) A dízima periódica 6,999... é igual ao número inteiro 7. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7aebf60d705e569a"
     },
     {
       "question_number": 17,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Os atendimentos realizados por 6 médicos de uma unidade hospitalar em determinado dia foram registrados. Porém, no fim da semana, percebeu-se que a informação dos atendimentos realizados por um desses médicos foi perdida, conforme a lista apresentada a seguir. 10, 9, 15, 9, X, 12 Sabe-se que, nesse dia, nenhum médico fez menos que 6 e mais que 15 atendimentos e que a média de atendimentos é um número inteiro. Assim, a mediana da lista é",
       "alternatives": {
         "A": "10.",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5c287eb155f82f2f"
     },
     {
       "question_number": 18,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A Federação Mato-grossense de Futebol (FMF) realiza anualmente a competição “Copa FMF” na modalidade masculina. Na edição de 2023, a fase final foi disputada por Cuiabá, Mixto, Nova Mutum e Operário VG em um formato quadrangular, no qual todos se enfrentam apenas uma vez. Em relação aos gols ocorridos nesta fase, sabe-se que:  Mixto fez o triplo de gols que tomou;  Cuiabá e Nova Mutum tomaram 6 gols cada;  Operário VG fez 1 gol e tomou 2 gols;  Cuiabá fez um gol a mais que Nova Mutum;  foram feitos 17 gols no total. Dessa forma, a quantidade de gols feitos pela equipe Nova Mutum foi igual a",
       "alternatives": {
         "A": "5.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "982835a4a82526be"
     },
     {
       "question_number": 19,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A serviço de uma unidade do Sistema Único de Saúde há três veículos: um automóvel, um ônibus e uma van. Um deles tem a cor azul, outro tem a cor amarela e outro tem a cor verde. Das afirmativas a seguir, apenas uma é verdadeira: I. O automóvel é verde. II. O ônibus não é amarelo. III. A van não é verde. Assim, é correto afirmar que",
       "alternatives": {
         "A": "o automóvel é amarelo.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7ef77a3c00d6af17"
     },
     {
       "question_number": 20,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma fábrica de desfibriladores, foi verificado que eram necessários 8 dias para produzir determinada quantidade de aparelhos, usando a mão de obra de 6 trabalhadores por 4 horas em cada dia. Para reduzir o tempo de produção para 2 dias, será necessário:",
       "alternatives": {
         "A": "duplicar o número de trabalhadores.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6a622160497005ef"
     },
     {
       "question_number": 21,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise o gráfico a seguir. Risco de desmatamento por estado em 2023 (km2) Fonte: https://g1.globo.com/mt/mato-grosso/noticia/2023/01/18/mt-e-o-3o- estado-com-maior-risco-de-desmatamento-em-2023-aponta-imazon.ghtml. Adapt. De acordo com o gráfico, o Estado de Mato Grosso é o terceiro estado brasileiro com maior risco de desmatamento na Amazônia. Analise as afirmativas a seguir sobre os fatores que concorrem para esse fenômeno. I. A prática agrícola é um dos fatores que contribui para a aceleração dos processos erosivos do solo e do desmatamento. Isso ocorre devido ao emprego, de técnicas agrícolas extensivas, com a retirada de vegetação para a instalação de grandes lavouras monocultoras. II. A prática do garimpo ilegal gera diversos impactos ambientais, como o desmatamento, por meio da retirada de vegetação nativa, seja para estabelecer acessos às áreas ricas em minerais, seja para criar espaços destinados à própria atividade de mineração. III. A demarcação de terras indígenas no Estado contribui para o desmatamento, uma vez que o processo envolve a utilização de madeira para a construção de residências tradicionais e a exploração dos recursos naturais para fins de subsistência. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -344,11 +382,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_analista-de-sistemas-administrador-de-banco-de-dados-infraestrutura-o-m_q21.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0748898a6a4b5b20"
     },
     {
       "question_number": 22,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Sobre os biomas mato-grossenses e suas respectivas localizações conforme a organização espacial do estado, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O bioma Amazônico é caracterizado pela vegetação densa da floresta tropical; está presente no norte do Estado e um dos seus espaços é a microrregião de Sinop. ( ) O bioma Cerrado é caracterizado pela vegetação composta de arvores baixas e com plantas com raízes profundas; está presente na mesorregião do Centro-Sul Mato-grossense. ( ) O bioma Pantanal é caracterizado por suas extensas áreas alagadas e pela planície aluvial; está presente na mesorregião Centro-sul do estado, englobando os municípios de Cáceres e Poconé. As afirmativas são, na ordem apresentada, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -361,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "efa56fc2afb1d6a2"
     },
     {
       "question_number": 23,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise os trechos a seguir. I. Código Civil dos Estados Unidos do Brasil, de 1916 Art. 6º. São incapazes, relativamente a certos atos (Art. 147, inciso I), ou à maneira de os exercer: IV - os silvícolas. Parágrafo único. Os silvícolas ficarão sujeitos ao regime tutelar, estabelecido em leis e regulamentos especiais, e que cessará à medida de sua adaptação. II. Lei nº 6.001 de 1973 Art. 2º. Cumpre à União, aos Estados e aos Municípios, bem como aos órgãos das respectivas administrações indiretas, nos limites de sua competência, para a proteção das comunidades indígenas e a preservação dos seus direitos: II - prestar assistência aos índios e às comunidades indígenas ainda não integrados à comunhão nacional; VI - respeitar, no processo de integração do índio à comunhão nacional, a coesão das comunidades indígenas, os seus valores culturais, tradições, usos e costumes; VIII - utilizar a cooperação, o espírito de iniciativa e as qualidades pessoais do índio, tendo em vista a melhoria de suas condições de vida e a sua integração no processo de desenvolvimento. (Adaptado.) III. Constituição Federal de 1988 Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. Sobre a questão indígena no Brasil, de acordo com os trechos, assinale a afirmativa que interpreta corretamente os princípios que orientaram os marcos normativos mencionados.",
       "alternatives": {
         "A": "Em I, a integração das comunidades indígenas à sociedade brasileira é preconizada por meio de um regime tutelar, que os considerava como indivíduos não plenamente desenvolvidos; em II, a autonomia dos indígenas é garantida por meio do direito à escolha de manter seu isolamento.",
@@ -378,11 +420,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_analista-de-sistemas-administrador-de-banco-de-dados-infraestrutura-o-m_q23.png",
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c4b2f91325de1a63"
     },
     {
       "question_number": 24,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O Estado do Mato Grosso destaca-se tanto nacional quanto internacionalmente por sua significativa produção agrícola. A respeito do escoamento dos excedentes destinados à exportação, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O transporte ferroviário é a principal opção, da qual depende o Estado para o envio de sua produção para os portos da Região Sul.",
@@ -395,11 +439,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "748fffa7fe6789d3"
     },
     {
       "question_number": 25,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A Capitania de Mato Grosso é uma das mais importantes de todo o Brasil, tanto pela sua extensão e pelas sabidas, mas ainda intactas riquezas, que guardam os seus vastíssimos sertões, como por ser fronteira ao vasto, populoso e rico Peru. Adaptado de: Reflexões sobre o estado atual da capitania de Mato Grosso, combinando com os domínios espanhóis que lhe são confinantes, em: Serra, Ricardo, Reflexões sobre a Capitania de Mato Grosso, Cuiabá: IHGMT, 2002, p. 12. A respeito do contexto da criação da Capitania de Mato Grosso e da delimitação de suas fronteiras, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A fronteira sul com a cidade de Assunção, que estava sob domínio espanhol, desempenhava um papel crucial na proteção do interior do território brasileiro.",
@@ -412,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9ea9610d55a1ebee"
     },
     {
       "question_number": 26,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A respeito da guerra entre a Tríplice Aliança e o Paraguai, assinale a afirmativa que descreve corretamente o envolvimento de Mato Grosso no conflito.",
       "alternatives": {
         "A": "Os antecedentes do conflito são marcados pela assinatura do Tratado da Tríplice Aliança, o qual legitimava a guerra contra o Paraguai e designava Mato Grosso como capital da bacia platina, devido à sua extensa ocupação populacional.",
@@ -429,11 +477,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "89d41895e0f54eab"
     },
     {
       "question_number": 27,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise a imagem a seguir. Fonte:https://g1.globo.com/ac/acre/noticia/2019/08/06/revolucao-acreana- charges-e-cronicas-tratavam-acre-como-um-estorvo-pra-nacao.ghtml A charge ilustra o Barão do Rio Branco carregando uma bomba com a inscrição “Acre”, enquanto outro personagem, posicionado atrás, acende o pavio. A legenda diz: “ – Cuidado, barão! Com esta bomba nem S. Pedro com seus tiros o salvará.” Sobre as medidas estabelecidas pelo Tratado de Petrópolis, assinado entre o Brasil e a Bolívia, que resultou na incorporação do Acre ao território brasileiro, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Proibiu a navegação boliviana nos confluentes brasileiros, encerrando a saída da Bolívia ao Oceano Atlântico.",
@@ -446,11 +496,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_analista-de-sistemas-administrador-de-banco-de-dados-infraestrutura-o-m_q27.png",
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "01653532b31a7a6b"
     },
     {
       "question_number": 28,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Deve-se promover a integração da península do Centro-Oeste brasileiro, equipando-a de meios que lhe permitam desempenhar seu duplo papel de sólida plataforma para um transbordamento sobre a Hileia ou para ações visando a contrapor-se ao avanço para o norte de um imperialismo platino. Fonte: SILVA, Golbery do Couto e. Conjuntura política nacional: o poder executivo & geopolítica do Brasil. Brasília: Ed. UnB, 1981. (Coleção Temas Brasileiro, n. 7). Citado por Cavalcanti, Marcelo; Barreira, Celene. Ações da Sudeco no desenvolvimento do Centro-Oeste, B.goiano.geogr.Goiânia, v. 31, n. 2, 2011, p. 180. As afirmativas a seguir descrevem corretamente os objetivos da Superintendência de Desenvolvimento do Centro-Oeste (SUDECO) durante a ditadura militar brasileira, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Estimular o processo de industrialização na região, visando criar polos industriais capazes de competir com os centros empresariais do Sudeste.",
@@ -463,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7edf2cd3ff5b6836"
     },
     {
       "question_number": 29,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A pirâmide de Maslow foi uma das primeiras teorias desenvolvidas para entender o sentido da motivação. De acordo com essa teoria, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os seres humanos são estimulados por uma sequência de necessidades, devendo ocorrer a satisfação das necessidades mais básicas antes de se aspirarem as outras.",
@@ -480,11 +534,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "387ad0ac390cdd03"
     },
     {
       "question_number": 30,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O momento em que o aprovado em um concurso público é investido em cargo público, mediante a aceitação expressa das responsabilidades inerentes à função, é conhecido como posse. No entanto, é apenas no exercício que o servidor desempenha efetivamente suas atribuições. Com relação ao disposto na Lei Complementar nº 04/1990, que dispõe sobre os servidores do Estado de Mato Grosso, é correto afirmar que, o servidor deve entrar em exercício",
       "alternatives": {
         "A": "imediatamente após a posse.",
@@ -497,11 +553,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ce42207a9e90ba86"
     },
     {
       "question_number": 31,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Como regra geral, a contratação de pessoa na Administração Pública deve ocorrer por prazo indeterminado. No entanto, algumas situações de excepcionalidade permitem que sejam realizadas contratações em caráter temporário. Com base nisso, analise as afirmativas a seguir. I. Combater surtos epidêmicos. II. Realizar o recenseamento. III. Permitir a execução de serviço, nas áreas de pesquisa científica, por profissional de notória especialização. Em conformidade com a Lei Complementar nº 04/1990, assinale a opção que indica a(s) situação(ões) que permite(m) contratação temporária.",
       "alternatives": {
         "A": "I, apenas.",
@@ -514,11 +572,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "80fe82ba0559c5f7"
     },
     {
       "question_number": 32,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Em uma situação hipotética, determinado servidor do Estado do Mato Grosso, pertencente à Secretaria de Saúde, cometeu falta punível com cassação de aposentadoria. Nesse caso, com base na Lei Complementar nº 04/1990, a autoridade que deve aplicar a respectiva penalidade ao servidor é o",
       "alternatives": {
         "A": "Governador do Estado.",
@@ -531,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "854ae327f48bfcd6"
     },
     {
       "question_number": 33,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Max Weber diferencia a ética da convicção da ética da responsabilidade. A esse respeito, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A ética da responsabilidade é a que tem como preocupação central as consequências das ações realizadas. ( ) A ética da convicção é a mais apropriada para a função pública, pois independe de variações individuais. ( ) A ética da responsabilidade baseia-se nas predisposições éticas dos agentes e espera deles um elevado senso moral. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -548,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1dd50151500ceec1"
     },
     {
       "question_number": 34,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O instituto da cidadania estabelece direitos e deveres para os indivíduos pertencentes à determinada sociedade. Esses direitos podem ser divididos em civis, políticos e sociais. Assinale a opção que exemplifica corretamente os direitos sociais.",
       "alternatives": {
         "A": "Direito à vida e à liberdade.",
@@ -565,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1ab19d9bffee75f6"
     },
     {
       "question_number": 35,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Um funcionário do governo fica responsável pela distribuição de recursos limitados em uma pequena cidade e se depara com um dilema moral. Uma enchente atingiu a região e ele precisa decidir como alocar os recursos de emergência. Há dois grupos que precisam urgentemente de ajuda: um é um orfanato com várias crianças, e o outro, um hospital que atende a toda a comunidade. Ambos estão em situações críticas e os recursos não são suficientes para atender às necessidades de ambos. Na situação acima, é correto afirmar que o funcionário aderiu a uma ética utilitarista se ele optou por",
       "alternatives": {
         "A": "agir conforme o dever e o princípio moral de direcionar a ajuda para o grupo mais desfavorecido.",
@@ -582,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d3883954e33d40fa"
     },
     {
       "question_number": 36,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com relação ao Estatuto dos Servidores Públicos do Estado do Mato Grosso (Lei Complementar nº 04/1990), associe cada forma de provimento de cargo público à sua descrição. 1. Reversão 2. Recondução 3. Readaptação 4. Reintegração ( ) O servidor aposentado por invalidez retorna à atividade ao serem declarados insubsistentes os motivos da aposentadoria. ( ) O servidor passa a assumir responsabilidades e atribuições compatíveis com uma limitação física ou mental sofrida. ( ) O servidor retorna a um cargo anteriormente ocupado, por exemplo, devido à inabilitação em estágio probatório. ( ) O servidor retorna ao cargo anteriormente ocupado devido a uma invalidação de uma anterior demissão. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "1 – 3 – 2 – 4.",
@@ -599,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1e7f4f5081846dbb"
     },
     {
       "question_number": 37,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta, corretamente, um objetivo do Sistema Único de Saúde – SUS.",
       "alternatives": {
         "A": "Integração em nível executivo das ações de saúde, meio ambiente e saneamento básico.",
@@ -616,11 +686,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1a72f83af53a3ae8"
     },
     {
       "question_number": 38,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta o princípio que foi acrescentado ao Sistema Único de Saúde, em 2023.",
       "alternatives": {
         "A": "Organizar atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral.",
@@ -633,11 +705,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6ebb9948a5b4b101"
     },
     {
       "question_number": 39,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei no 8.080/90 acerca do acompanhamento à mulher nos serviços de saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deverá ser feita por escrito, após o esclarecimento dos seus direitos, com no mínimo 24 (vinte e quatro) horas de antecedência, assinada por ela e arquivada em seu prontuário. ( ) Em casos de urgência e emergência, os profissionais de saúde ficam autorizados a agir na proteção e defesa da saúde e da vida da paciente, ainda que na ausência do acompanhante requerido. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -650,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5d5399d20305c4c6"
     },
     {
       "question_number": 40,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base na organização dos níveis de assistência à saúde, assinale a opção que apresenta a um serviço da atenção terciária.",
       "alternatives": {
         "A": "Unidade de Transplante Renal.",
@@ -667,11 +743,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "84c7aad78f815085"
     },
     {
       "question_number": 41,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Os Programas de Qualidade de Vida e Saúde para os Trabalhadores da Saúde e o Colegiado Gestor fazem parte do seguinte elemento da Politica Nacional de Humanização.",
       "alternatives": {
         "A": "Valores.",
@@ -684,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f5a15ef64fef2fcd"
     },
     {
       "question_number": 42,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em serviços de saúde com mais de vinte trabalhadores é obrigatória a instituição de Comissão Interna de Prevenção de Acidentes - CIPA. ( ) O serviço de saúde deve garantir que o prontuário contenha registros relativos à identificação e todos os procedimentos prestados ao paciente. ( ) O serviço de saúde deve garantir que os trabalhadores sejam avaliados, no mínimo, uma vez ao ano em relação à saúde ocupacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -701,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "bbb38c8da571336c"
     },
     {
       "question_number": 43,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O usuário tem direito a acompanhante, pessoa de sua livre escolha, nas consultas e exames.",
@@ -718,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "672400afe63ba37d"
     },
     {
       "question_number": 44,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com as disposições normativas acerca da segurança do paciente, os eventos adversos que evoluírem para óbito devem ser notificados em até",
       "alternatives": {
         "A": "12 horas, a partir do ocorrido.",
@@ -735,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "78dab6a33f2a3eb8"
     },
     {
       "question_number": 45,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei nº 8.142/90, analise as afirmativas a seguir. I. O Conselho de Saúde é um órgão colegiado responsável por avaliar a situação de saúde e propor diretrizes para formulação da política de saúde. II. Um dos requisitos para que Estados e Municípios recebam os recursos destinados à cobertura das ações e serviços de saúde é a elaboração do Plano de Saúde. III. Os Municípios poderão estabelecer consórcio para execução de ações e serviços de saúde. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -752,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c49286c12283dd5b"
     },
     {
       "question_number": 46,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Conforme disposições sobre a organização do SUS, o conjunto de ações e serviços de saúde, articulados em níveis de complexidade crescente com a finalidade de garantir a integralidade da assistência à saúde, corresponde ao(à)",
       "alternatives": {
         "A": "Mapa de Saúde.",
@@ -769,11 +857,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "afdcb570b4f0fcbc"
     },
     {
       "question_number": 47,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Durante uma entrevista para uma posição de desenvolvimento de software, o entrevistador deseja avaliar seu conhecimento sobre alguns princípios básicos e sua habilidade em reconhecer linguagens de programação que incorporam esses conceitos. Assinale a opção que indica a linguagem que tem, como características, o encapsulamento, a herança, o polimorfismo e a abstração.",
       "alternatives": {
         "A": "Python, JavaScript e JQuery.",
@@ -786,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "762f4c7b00a4927e"
     },
     {
       "question_number": 48,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Gerir riscos constitui uma etapa vital no contexto da segurança da informação, implicando na identificação, avaliação e mitigação dos potenciais riscos que possam impactar a confidencialidade, integridade e disponibilidade dos dados e sistemas organizacionais. Com relação à gerência de risco, assinale (V) para a afirmativa verdadeira e (F) para falsa. ( ) Processos, atividades do negócio e informações são ativos primários de uma organização. ( ) As ameaças podem ter origem humana ou ambiental ( ) Salvaguardas referem-se a medidas de proteção prescritas com o intuito de cumprir os requisitos de segurança, tais como confidencialidade, integridade e disponibilidade, previamente estabelecidos para um sistema de informação. ( ) Reduzir riscos de segurança é um processo iterativo que envolve identificar os riscos, implementar controles para mitigá-los e reavaliar constantemente diante das mudanças. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – F – F.",
@@ -803,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "04ee4f47d74549a5"
     },
     {
       "question_number": 49,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Observe a figura a seguir, que representa a estrutura básica do SOA e assinale (V) para a afirmativa verdadeira e (F) para falsa ( ) Consumidor de Serviço são as aplicações que consultam o Provedor de serviços para invocar os serviços do Registro de Serviços. ( ) O Provedor de Serviço implementa e disponibiliza serviços, publicando suas descrições para que possam ser descobertas e consumidas pelas aplicações. ( ) O Registro de Serviços armazena e disponibiliza as descrições dos serviços publicados. ( ) Na SOA, a separação de assuntos envolve dividir problemas grandes em partes menores, facilitando a decomposição da solução em diferentes componentes específicos. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – V – V.",
@@ -820,11 +914,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_analista-de-sistemas-administrador-de-banco-de-dados-infraestrutura-o-m_q49.png",
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2f052f5b1ceb180c"
     },
     {
       "question_number": 50,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os ativos de informação desempenham um papel vital nas empresas, uma vez que armazenam dados sensíveis e informações estratégicas essenciais. Em relação a esses ativos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "No cenário cada vez mais digitalizado em que vivemos, as informações se transformaram em ativos de grande valor, no entanto, devido a grande quantidade de dados gerados diariamente, a análise desses dados torna-se impossível.",
@@ -837,11 +933,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0e788688a92b8bae"
     },
     {
       "question_number": 51,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma empresa de tecnologia que está revisando sua política de segurança para garantir a proteção eficaz de todos os sistemas operacionais usados em sua infraestrutura de TI. Existem várias medidas de proteção que podem ser adotadas para resguardar os sistemas operacionais contra ataques de malware, exploração de vulnerabilidades, negação de serviço, e outras ameaças similares. São consideradas medidas de proteção os itens: I. Patches de segurança, II. Capacitação dos funcionários no tema, III. Antivírus, IV. Controle de acesso Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III, apenas.",
@@ -854,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3a4cdc388f616ba9"
     },
     {
       "question_number": 52,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Dada a importância crucial dos planos de contingência para sustentar a resiliência operacional de uma organização, torna-se imperativo uma análise detalhada desse assunto. Nesse sentido, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O plano de contingência e/ou continuidade dispensa passar por revisões e testes regulares para garantir sua eficácia em situações de necessidade.",
@@ -871,11 +971,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d2f4bfd03e365eec"
     },
     {
       "question_number": 53,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em um cenário de rápido crescimento tecnológico e demandas cada vez mais complexas, os frameworks de arquitetura surgem como resposta à necessidade de padronização e organização no desenvolvimento de sistemas distribuídos, visando facilitar a escalabilidade, a interoperabilidade e a manutenção em ambientes heterogêneos e dinâmicos. Assinale a opção que indica características de um framework de arquitetura.",
       "alternatives": {
         "A": "Os frameworks de arquitetura são estruturas conceituais ou um conjunto de estruturas, para desenvolvimento, implementação e manutenção de uma arquitetura.",
@@ -888,11 +990,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c2a2f5c62d8e5a58"
     },
     {
       "question_number": 54,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "HTML5 e CSS3 desempenham um papel fundamental no desenvolvimento web contemporâneo, fornecendo uma extensa variedade de recursos que permitem a criação de páginas web atrativas visualmente, adaptáveis a diferentes dispositivos e enriquecidas semanticamente. Com relação as linguagens de marcação, assinale (V) para a afirmativa verdadeira e (F) para falsa. ( ) O CSS3 suporta elementos multimídia integrados, como áudio e vídeo, sem a necessidade de plugins externos. ( ) HTML5 e CSS3 são fundamentais para criar websites responsivos, que se adaptam automaticamente a diferentes dispositivos e tamanhos de tela, proporcionando uma melhor experiência de usuário em smartphones, tablets e desktops. ( ) O HTML5 e o CSS3 são as linguagens de marcação e de estilo mais recentes para desenvolvimento web ( ) O HTML 5 oferece flexibilidade e controle mais precisos sobre o posicionamento e o design dos elementos em uma página web. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – F – V.",
@@ -905,11 +1009,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "43b1390db23e6401"
     },
     {
       "question_number": 55,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A excelência no desenvolvimento de software começa com testes meticulosos, assim como a precisão é crucial em uma obra de arte. Diversas técnicas de teste de software existem, cada uma com propósito e abordagem específicos. Assinale a opção que indica o tipo de teste que assegura que as funcionalidades previamente implementadas não serão afetadas pelas alterações feitas no código.",
       "alternatives": {
         "A": "Teste Unitário.",
@@ -922,11 +1028,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e7d8fe6b447b4d37"
     },
     {
       "question_number": 56,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Na era digital, onde a informação é um dos ativos mais valiosos, a implementação de uma política de segurança da informação é crucial para proteger os dados sensíveis e garantir a confiança de clientes e parceiros. Quando se trata de desenvolver uma política de segurança da informação, é recomendável ter em mente alguns conceitos: I. Toda informação deve ser mantida na sua condição original, tal como fornecida pelo seu proprietário, com o objetivo de protegê-la contra quaisquer alterações indevidas, sejam elas intencionais ou acidentais. II. É fundamental registrar tanto o acesso quanto o uso da informação, permitindo a identificação dos usuários que acessaram e as ações realizadas com os dados. III. Toda informação deve ser protegida conforme o seu nível de sigilo, com o objetivo de restringir o acesso e o uso apenas às pessoas autorizadas a recebê-la. As afirmações acima referem-se aos seguintes conceitos, respectivamente.",
       "alternatives": {
         "A": "Integridade– Disponibilidade – Legalidade.",
@@ -939,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3b1f800f08bec911"
     },
     {
       "question_number": 57,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Assim como idiomas moldam a maneira como pensamos e nos comunicamos, as linguagens de programação são as ferramentas que permitem dar vida às nossas ideias no mundo digital, transformando lógica e criatividade em código executável. Sobre linguagens de programação, analise os itens a seguir. I – JavaScript é uma linguagem de programação de alto nível, compilada e multi-paradigma. II – A linguagem Java é conhecida pela sua portabilidade, o que significa que os programas escritos em Java podem ser executados em diferentes tipos de dispositivos sem necessidade de modificação. III - A linguagem C# é semelhante em muitos aspectos ao Java e ao C++, o que facilita a transição para desenvolvedores familiarizados com essas linguagens. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -956,11 +1066,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "10c11de341577c86"
     },
     {
       "question_number": 58,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Representational State Transfer, mais conhecido como REST, é um estilo de arquitetura de software baseado em comunicação via rede. Ele foi apresentado pela primeira vez por Roy Fielding em sua tese de doutorado em 2000 e é amplamente utilizado na construção de APIs web. Sobre esse estilo de arquitetura, assinale a afirmativa correta.",
       "alternatives": {
         "A": "É uma linguagem de marcação que define regras para codificar documentos de forma legível tanto para humanos quanto para máquinas.",
@@ -973,11 +1085,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "85ef61d52ad56f32"
     },
     {
       "question_number": 59,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Existem várias técnicas de teste de software, cada uma com seus próprios objetivos e métodos específicos. Relacione os testes de software listados a seguir, às suas respectivas definições. 1. Teste Funcional 2. Teste de Conformidade 3. Teste de Caixa Preta 4. Teste de Desempenho ( ) Avalia como o sistema se comporta em termos de velocidade, escalabilidade e estabilidade sob diferentes condições de carga. ( ) Testa o software sem conhecimento interno da lógica ou estrutura do código, focando nos requisitos e funcionalidades visíveis. ( ) Verifica se as funções do software estão operando conforme esperado. Isso pode incluir testes de casos de uso, fluxos de trabalho e requisitos funcionais. ( ) Verifica se o software atende a padrões, regulamentos e requisitos legais. Assinale a opção que indica a relação correta, na ordem apresentada.",
       "alternatives": {
         "A": "2 – 4 – 3 – 1.",
@@ -990,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2f4d9c8f1af9451f"
     },
     {
       "question_number": 60,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Teoricamente, um programa escrito em C é compatível com um compilador C++. Com relação a compatibilidade com um compilador C++, analise os itens a seguir. I. Na realidade essa compatibilidade não é de 100% pois o C++ possui mais palavras reservadas e um código C que utilize uma destas palavras não é um programa C++ correto. II. Em C++ uma estrutura só é válida no escopo em que foi declarada enquanto no código escrito em C o escopo de declaração é sempre global. III. O uso de bibliotecas C em programas C++ é sempre possível pois o C++ permitir sobrecarga de nomes de funções e os compiladores empregam a mesma regra para geração dos nomes durante a compilação da função. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -1007,11 +1123,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "55a7033e7a73784d"
     },
     {
       "question_number": 61,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os códigos reproduzidos abaixo (CÓDIGO-01 e CÓDIGO-02) foram desenvolvidos na linguagem C#. Ambos resultam na mesma saída (OUTPUT). CÓDIGO-01 Console.WriteLine (\"***Sounds animals.***\"); Tiger tiger = new(); tiger.Sound(); Dog dog = new(); dog.Sound(); Console.ReadKey(); class Tiger { public void Sound() {Console.WriteLine(\"Tigers roar.\"); } } class Dog { public void Sound() { Console.WriteLine(\"Dogs bark.\"); } } CÓDIGO-02 Console.WriteLine (\"***Sounds animals.***\"); IAnimal animal = new Tiger(); animal.Sound(); animal = new Dog(); animal.Sound(); interface IAnimal { void Sound(); } class Tiger : IAnimal { public void Sound() { Console.WriteLine(\"Tigers roar.\"); } } class Dog : IAnimal { public void Sound() { Console.WriteLine(\"Dogs bark.\"); } } OUTPUT ***Sounds animals.*** Tigers roar. Dogs bark. Assinale a opção que indica o pilar da programação orientada a objetos que diferencia o segundo código (CÓDIGO-02) do primeiro.",
       "alternatives": {
         "A": "Encapsulamento.",
@@ -1024,11 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1365debf57092354"
     },
     {
       "question_number": 62,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A técnica de Análise de Pontos de Função (Function Point Analysis, FPA), da International Function Point Users Group (IFPUG), é um método tradicional empregado para medir sistemas pela quantificação da funcionalidade solicitada e fornecida. Considerando a técnica FPA, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A técnica FPA busca medir como o software foi construído.",
@@ -1041,11 +1161,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "76c2abe68f5b1d87"
     },
     {
       "question_number": 63,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "No desenvolvimento de software por metodologias ágeis têm sido empregadas métricas ágeis para acompanhamento de projetos Scrum. Elas têm sido aplicadas para avaliar se os requisitos de qualidade e as necessidades dos clientes foram atendidos. Quanto ao emprego de métricas ágeis baseadas em Scrum, assinale a afirmativa correta.",
       "alternatives": {
         "A": "As métricas ágeis são baseadas na análise de funcionalidades.",
@@ -1058,11 +1180,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5995daa3e72df0b7"
     },
     {
       "question_number": 64,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Relacione as técnicas de elicitação e especificação de requisitos às suas respectivas definições: 1. Entrevistas 2. Etnografia 3. Histórias e Cenários 4. Casos de Uso ( ) Identifica os atores envolvidos, as funcionalidades principais, bem como a interação entre atores e funcionalidades do sistema ( ) Identifica características sobre o sistema (ou processo) atual e sobre o sistema que será desenvolvido a partir de questionamento aos stakeholders ( ) Descreve situação de uso do sistema, com informações como: ator(es); pré-condição; fluxo normal; fluxos alternativos; e pós-condição. ( ) Técnica de observação onde o analista (engenheiro de requisitos) se insere na organização do cliente, observa o trabalho no dia a dia e anota as tarefas dos funcionários Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "2, 4, 1 e 3.",
@@ -1075,11 +1199,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d3d68527d97c6246"
     },
     {
       "question_number": 65,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A engenharia de software tem empregado prototipação para gerar modelos representativos simulados para validação dos requisitos dos usuários. Com relação à prototipação, analise os itens a seguir. I. É o processo de criação de um protótipo, que dependendo das necessidades do projeto, podem empregar, entre outros: protótipos de papel, wireframes, mockups ou protótipos interativos. II. No processo de engenharia de requisitos, as fases de elicitação e validação dos requisitos do sistema podem ser auxiliadas por um protótipo. III. Um protótipo desenvolvido no processo de projeto do sistema pode auxiliar na exploração de soluções de software e no desenvolvimento de uma interface com o usuário para o sistema. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -1092,11 +1218,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8e6d963abc19317d"
     },
     {
       "question_number": 66,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com relação à segurança no desenvolvimento de programação e revisão de código, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O ciclo de vida de desenvolvimento de software (SDLC) pode ser aperfeiçoado pelo uso do framework de desenvolvimento de software seguro (Secure Software Development Framework, SSDF), do NIST Cybersecurity, podendo ser usado por organizações de qualquer setor ou comunidade, independentemente do tamanho ou da sofisticação da segurança cibernética, bem como podendo ser usado para qualquer tipo de desenvolvimento de software, independentemente da tecnologia, plataforma, linguagem de programação ou ambiente operacional. ( ) O uso do Secure Coding Practices Checklist , do Developer Guide e do Offensive Web Testing Framework (OWTF), da Open Web Application Security Project (OWASP), proporciona melhores práticas de programação segura e revisão de código. ( ) O uso do Web Security Testing Guide (WSTG) em conjunto com o Web Application Penetration Checklist , ambos da OWASP, proporcionam a identificação dos mais adequados controles de segurança que devem ser executados, de acordo com as informações do OWASP TOP 10 e WSTG. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e F.",
@@ -1109,11 +1237,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b6dad192c2bbfbe2"
     },
     {
       "question_number": 67,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O projeto Application Security Verification Standard (ASVS), da Open Web Application Security Project (OWASP), fornece um padrão de segurança de aplicativo aberto para aplicativos da web e serviços da web de todos os tipos. Ele serve para verificar a efetividade dos controles de segurança. Assinale a opção que indica o requisito de ciclo de vida de desenvolvimento de software seguro.",
       "alternatives": {
         "A": "Verificar se todas as chaves e senhas são substituíveis e fazem parte de um processo bem definido para criptografar novamente os dados confidenciais.",
@@ -1126,11 +1256,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ee2e039e7a67c847"
     },
     {
       "question_number": 68,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A norma ABNT NBR ISO/IEC 27002:2013 estabelece um código de prática para controles de segurança. Ela fornece diretrizes para prática de gestão de segurança da informação para as organizações, incluindo a seleção, implementação e o gerenciamento dos controles levando em consideração os ambientes de risco da segurança da informação da organização. Relacione os termos de segurança da informação a seguir, às suas respectivas definições. 1. Segurança da informação 2. Incidente de segurança de informação 3. Evento de segurança de informação 4. Risco ( ) Preservação da confidencialidade, da integridade e da disponibilidade da informação; adicionalmente, outras propriedades, tais como autenticidade, responsabilidade, não repúdio e confiabilidade, podem também estar envolvidas. ( ) Ocorrência que indica uma possível violação da política de segurança da informação ou falha de controles, ou uma situação previamente desconhecida, que possa ser relevante para a segurança da informação e que pode ser identificada em um sistema, serviço ou rede. ( ) Ocorrência(s) indesejada(s) ou inesperada(s) que tem grande probabilidade de comprometer as operações do negócio e ameaçar a segurança da informação. ( ) Combinação da probabilidade de um evento e de suas consequências. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "4, 2, 3 e 1",
@@ -1143,11 +1275,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "91d1429361a0d5f1"
     },
     {
       "question_number": 69,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A ABNT NBR ISO/IEC 27005:2011 fornece diretrizes para o processo de Gestão de Riscos de Segurança da Informação de uma organização, atendendo particularmente aos requisitos de um Sistema de Gestão de Segurança da Informação (SGSI) Com relação à Gestão de Risco, em conformidade com a norma ABNT NBR ISO/IEC 27005:2011, analise os itens a seguir. I. O risco é o efeito da incerteza nos objetivos, sendo muitas vezes caracterizado pela referência aos eventos potenciais e às consequências, ou uma combinação destes. II. O risco residual (ou \"risco retido\") se refere ao risco remanescente após o tratamento de eventos sucessivos. III. O nível de risco se relaciona a magnitude de um risco, expressa em termos da combinação das consequências e de suas probabilidades (likelihood) Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1160,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "30213926bcf98138"
     },
     {
       "question_number": 70,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A sequência de Fibonacci tem aplicação, dentre outras, em algoritmos de busca, classificação e criptografia. Trata-se de uma lista infinita de números, em que cada um de seus valores é o resultado da soma dos dois anteriores. Matematicamente, esta relação de recorrência é representada por: f(0) = 0 f(1) = 1 f(n) = f(n-1) + f(n+2), para qualquer natural n > 1 Considere que foram elaboradas duas implementações algorítmicas definidas em linguagem Python (CODIGO-01 e CODIGO-02). CODIGO-01 def f(n: int): if n == 1: return 1 if n == 2: return 1 else: return f(n-1) + f(n-2) CODIGO-02 def f(n: int): ultimo = 1 penultimo = 1 if n == 1: return penultimo elif n == 2: return ultimo else: atual = 0 for i in range(2, n): atual = ultimo + penultimo penultimo = ultimo ultimo = atual return atual Quanto às implementações, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Somente o primeiro algoritmo emprega função recursiva.",
@@ -1177,11 +1313,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "34de2f2a1be08fd9"
     },
     {
       "question_number": 71,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Relacione os algoritmos populares listados a seguir, às suas respectivas definições. 1. Algoritmos de classificação 2. Algoritmos de clustering 3. Algoritmos de gradient boosting 4. Algoritmos de regressão linear ( ) Usam cálculos preditivos para atribuir dados a categorias predefinidas. ( ) mostram ou preveem a relação entre duas variáveis ou dois fatores ajustando uma linha reta contínua aos dados. ( ) Produzem um modelo de previsão que agrupa modelos de previsão fracos por meio de um processo de ensembling que aprimora o desempenho geral do modelo ( ) Dividem os dados em vários grupos determinando o nível de similaridade entre os pontos de dados. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "2, 3, 4 e 1.",
@@ -1194,11 +1332,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "de8e7b11b26e8212"
     },
     {
       "question_number": 72,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com relação à Engenharia de Requisitos, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A Engenharia de Requisitos inclui três atividades fundamentais: elicitação (e análise); especificação; e, validação. ( ) Na etapa de classificação e organização, no processo de elicitação e análise de requisitos, o conjunto não estruturado de requisitos é agrupado pelos requisitos relacionados e organizado em grupos coerentes. ( ) Na prática, a Engenharia de Requisitos é um processo iterativo, no qual as atividades são intercaladas As afirmativas são, respectivamente:",
       "alternatives": {
         "A": "V, F e F.",
@@ -1211,11 +1351,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d1382084a8d53896"
     },
     {
       "question_number": 73,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um analista necessita fazer a conversão de um número inteiro não negativo na base decimal para a base binária. A representação em binário do número 197 é",
       "alternatives": {
         "A": "101011.",
@@ -1228,11 +1370,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "844d37d5e4be61ab"
     },
     {
       "question_number": 74,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os elementos de suporte descritos na norma IEC27001:2013 da Organização Internacional de Normalização (ISO) são:",
       "alternatives": {
         "A": "awaraness, competence, communication, documented information e resources.",
@@ -1245,11 +1389,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d0cf06515d60a6a4"
     },
     {
       "question_number": 75,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Computadores utilizam diversos tipos de dispositivos de memória. Considerando que um sistema de memória semicondutora está sujeito a erros, as falhas nesses sistemas podem ser do tipo",
       "alternatives": {
         "A": "locais e remotas.",
@@ -1262,11 +1408,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "caaa20b127531bfa"
     },
     {
       "question_number": 76,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os computadores podem converter dados entre a base 2 (binária) e a base 16 (hexadecimal). Os dígitos binários são agrupados em conjuntos de quatro bits, chamados de nibble. Relacione os nibbles às respectivas definições nem hexadecimal. 1. 1000 2. 1010 3. 1101 4. 0011 ( ) A; ( ) 3; ( ) D. ( ) 8. Assinale a opção que apresenta a relação correta.",
       "alternatives": {
         "A": "1-3-4-2.",
@@ -1279,11 +1427,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e9fa3896a4574dc2"
     },
     {
       "question_number": 77,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um administrador de sistemas necessita instalar o sistema operacional CentOS (versão 7) em uma máquina que atuará como servidor de banco de dados da Secretaria de Saúde. O utilitário de instalação a ser executado pelo administrador chama-se",
       "alternatives": {
         "A": "rattlesnake.",
@@ -1296,11 +1446,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b901740866626dfa"
     },
     {
       "question_number": 78,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um analista de infraestrutura necessita instalar o MS SQLServer 2014 em um Core Server com Windows Server na Secretaria de Saúde do Estado do Mato Grosso. Assinale a opção que indica a lista de pré-requisitos indicados pelo Microsoft para que a instalação seja bem-sucedida.",
       "alternatives": {
         "A": "Windows Server 2008 R2 SP1 e Windows Installer 3.0.",
@@ -1313,11 +1465,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "04e9fd2a70295b8e"
     },
     {
       "question_number": 79,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Existem diversas formas normais que podem ser utilizadas na normalização de esquemas relacionais. A forma normal Boyce- Codd (FNBC) foi proposta para ser uma simplificação, mas descobriu-se que ela é mais rigorosa que a forma normal que ela pretendia simplificar. A forma normal que a FNBC pretendia simplificar é a",
       "alternatives": {
         "A": "1FN.",
@@ -1330,11 +1484,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3ed10cc74744ac4c"
     },
     {
       "question_number": 80,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os servidores MYSQL versão 8.3 possuem diversos tipos de arquivos de log. Os arquivos de log usados nos serviços de replicação de dados são",
       "alternatives": {
         "A": "binary e relay logs.",
@@ -1347,7 +1503,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ac5ed154d8dddfb7"
     }
-  ]
+  ],
+  "year": 2023,
+  "uf": "MT",
+  "level": "Superior",
+  "question_type": "multiple_choice_4"
 }

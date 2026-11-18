@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para Companhia Pernambucana de Saneamento - COMPESA 2016",
   "cargo_title": "Engenheiro de Telecomunicações",
   "exam_type": "Tipo 1",
-  "total_questions": 49,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b12394d2f12415a1"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "68fcf6848e965f0a"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "05125c267a7de0e1"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "22d15bfd57068333"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "be58101c5fc67c7f"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0de5bb0eb71bc2df"
     },
     {
       "question_number": 7,
@@ -123,7 +135,9 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8348ace9748d4f8f"
     },
     {
       "question_number": 8,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c27d4290f09ace26"
     },
     {
       "question_number": 9,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4375c7197faee152"
     },
     {
       "question_number": 10,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b32883019733a3ff"
     },
     {
       "question_number": 11,
@@ -191,7 +211,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "fa6557d86f33595e"
     },
     {
       "question_number": 12,
@@ -208,11 +230,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b2635f017a8aa3c0"
+    },
+    {
+      "question_number": 13,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "O referendo realizado em 23 de julho de 2016 no Reino Unido mostrou a vitória dos partidários da saída da União Europeia (UE), os \"Leave\", por 51,9 % a 48,1%. A respeito dos fatores que pesaram a favor da decisão da maioria dos cidadãos britânicos, analise as afirmativas a seguir. I. A possibilidade de investir parte dos recursos destinados anualmente à UE na saúde pública do Reino Unido. II. A possibilidade de exercer um maior controle sobre as fronteiras e a soberania nacionais para conter as migrações para o Reino Unido. III. A possibilidade de reintroduzir o protecionismo alfandegário e alavancar a instalação de indústrias no Reino Unido. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q13.png",
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2fc23b1da907db67"
     },
     {
       "question_number": 14,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "“Os Jogos Olímpicos são vistos como uma grande mistura de espetáculo com competição. Mas, existe outra face dos Jogos que passa muitas vezes despercebida ao olhar dos espectadores: o valor econômico dos Jogos Olímpicos. Quando os interesses do Governo e da iniciativa privada são bem articulados, o custo dos Jogos transforma-se em rentáveis lucros políticos, econômicos e sociais.” (Milan. F. J. Os impactos socioeconômicos nos Jogos Olímpicos. Buenos Aires, ano 20, 2016.) A respeito dos impactos esperados com a realização de grandes eventos esportivos, como as Olimpíadas Rio-2016, assinale V para a afirmativa verdadeira e F para a falsa. ( ) O efeito multiplicador sobre a economia local e regional, ao estimular investimentos na mobilidade urbana e na renovação de espaços degradados. ( ) A ampliação do mercado de trabalho, ainda que temporária, graças ao aumento da empregabilidade na construção civil, na rede hoteleira e na indústria do turismo. ( ) O incentivo ao turismo para a cidade sede e outras localidades do Brasil, em contexto de valorização do dólar em relação à moeda nacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e F.",
@@ -225,11 +268,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q14.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a46b1e23f1004e21"
     },
     {
       "question_number": 15,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Em 2014, o líder de um grupo terrorista que atua no Oriente Médio, proclamou, de forma unilateral, a criação de um califado em uma faixa de território entre o nordeste da Síria e o Iraque ocidental. Esse grupo está relacionado aos atentados ocorridos na França e na Bélgica em 2015 e 2016 e é conhecido como",
       "alternatives": {
         "A": "Jihad Islâmico.",
@@ -242,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "e11539c56cf49a91"
     },
     {
       "question_number": 16,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Em fevereiro de 2016, a empresa Apple e a Agência Federal de Investigação (FBI) travaram uma batalha judicial amplamente divulgada pela mídia. Após várias semanas, o FBI conseguiu desbloquear o celular de um dos terroristas responsáveis pelo ataque que matou 14 pessoas na cidade de San Bernardino (EUA). Esse caso levantou uma ampla discussão sobre",
       "alternatives": {
         "A": "a liberdade de expressão, pois os usuários de redes sociais têm direito de se manifestar livremente em grupos restritos, sem que o Estado quebre judicialmente o sigilo de suas informações.",
@@ -259,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c427b852fed4acc5"
     },
     {
       "question_number": 17,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "“O mosquito aedes aegypti é originário do Egito, na África, e vem se espalhando pelas regiões tropicais e subtropicais do planeta desde o século XVI. No Brasil, segundo pesquisadores, o vetor chegou ainda no período colonial, foi erradicado no início do século XX e reintroduzido em meados dos anos 1980, por meio de espécies que vieram principalmente de Cingapura”. (Adaptado de http://www.ebc.com.br/noticias/saude/ 2015/12/conheca-trajetoria-do-aedes-aegypti-no-brasil) O aedes aegypti é o vetor transmissor das doenças listadas a seguir, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Zika.",
@@ -276,11 +325,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q17.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8e8e36e82477ef8a"
     },
     {
       "question_number": 18,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A charge a seguir refere-se à desaceleração do ritmo de crescimento da economia chinesa, observada a partir de 2012. Assinale a opção que apresenta um dos fatores responsáveis por essa desaceleração.",
       "alternatives": {
         "A": "A queda dos investimentos em serviços, o que desestimulou o consumo interno.",
@@ -293,11 +344,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q18.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ea732007519de2f4"
     },
     {
       "question_number": 19,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A feira de Caruaru Faz gosto a gente ver De tudo que há no mundo Nela tem prá vender Na feira de Caruaru. A Feira de Caruaru, cantada por Luiz Gonzaga no baião de abertura, foi inscrita no Livro de Registro dos Lugares, em 2006, tornando-se parte do patrimônio imaterial brasileiro. Espaço de socialização, de permanente construção de identidades e de exposição da criatividade popular, a Feira é considerada um lugar de referência viva da história e da cultura do Agreste pernambucano, e, de modo mais geral, da cultura nordestina. Assinale a opção que apresenta exemplos corretos dos saberes, modos de fazer, produtos e expressões artísticas tradicionais deste “lugar de memória”.",
       "alternatives": {
         "A": "As figuras e os conjuntos esculpidos em barro, inspirados na tradição de Mestre Vitalino.",
@@ -310,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "edc2b2a55dc91897"
     },
     {
       "question_number": 20,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "O nome Pernambuco é de origem indígena, podendo significar em tupi “buraco no mar”, “furo no mar” ou “entrada no mar”. As afirmações a seguir descrevem corretamente as características geográficas e sociais do litoral pernambucano, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "O clima é predominantemente tropical úmido, com chuvas de monções durante quase todo o ano e uma estação seca breve e concentrada no outono.",
@@ -327,11 +382,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3c46808b0776f9c6"
     },
     {
       "question_number": 21,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "MESORREGIÕES DO ESTADO DE PERNAMBUCO “Mesorregião” é uma área geográfica que apresenta similaridades naturais, econômicas e sociais que contribuíram para criar uma identidade regional ao longo do tempo. Com base no mapa acima, identifique as cinco mesorregiões do Estado de Pernambuco. ( ) Metropolitana do Recife ( ) São Francisco ( ) Sertão ( ) Zona da Mata ( ) Agreste Assinale a opção que indica a sequência correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 2 – 4 – 3 – 5.",
@@ -344,11 +401,32 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q21.png",
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5e7889eda9618965"
+    },
+    {
+      "question_number": 22,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "MAIS DE 40 MIL PEIXES SÃO SOLTOS NO RIO SÃO FRANCISCO EM AÇÃO EDUCATIVA “Alunos de Petrolina (PE) participaram de peixamento educativo inserindo no rio São Francisco cerca de 40 mil alevinos de espécies nativas. Essa ação educativa foi realizada pela Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (CODEVASF). A campanha acontece pelo quarto ano consecutivo, sempre em 3 de junho, o Dia Nacional de Defesa ao Velho Chico.” (Adaptado de g1.globo.com/pe/petrolina-regiao) Com base no trecho citado, analise as afirmativas a seguir sobre o impacto das ações de responsabilidade socioambiental. I. As espécies introduzidas para repovoar o rio têm importância ecológica e econômica, pois fazem parte da cadeia alimentar natural, além de servir como fonte de renda para os pescadores da região. II. O peixamento é uma oportunidade de educar as crianças e de conscientizar os pais sobre a importância de preservar o rio São Francisco. III. O objetivo da ação é chamar a atenção da sociedade para os problemas de poluição, degradação e assoreamento do maior rio que nasce e deságua em território nacional. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "II e III, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q22.png",
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4452fdee95271c95"
     },
     {
       "question_number": 23,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "As hipóteses a seguir indicam os casos em que é possível a interrupção dos serviços de saneamento, nos termos da Lei nº 11.445/2007, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Necessidade de efetuar melhorias de qualquer natureza nos sistemas.",
@@ -361,11 +439,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6c006c147ae7a3f5"
     },
     {
       "question_number": 24,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "O controle social dos serviços públicos de saneamento básico poderá incluir a participação de órgãos colegiados de caráter consultivo. Nesse sentido, assinale a opção que indica a entidade que não possui representação assegurada pela Lei nº 11.445/2007.",
       "alternatives": {
         "A": "Titulares dos serviços.",
@@ -378,11 +458,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1ace260d5823f5ce"
+    },
+    {
+      "question_number": 25,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "Acerca da prestação regionalizada de serviços públicos de saneamento básico, analise as afirmativas a seguir. I. A prestação regionalizada é caracterizada quando há um único prestador dos serviços para vários municípios, contíguos ou não. II. A prestação regionalizada poderá ser realizada por fundação de direito público estadual. III. Poderá ser estipulada diferença na remuneração do serviço regionalizado, de acordo com a capacidade econômico- financeira do município. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4f83934af5b74c09"
     },
     {
       "question_number": 26,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A respeito dos aspectos econômicos dos serviços públicos de saneamento básico, assinale o serviço que não pode ser remunerado por preço público.",
       "alternatives": {
         "A": "Manejo de águas pluviais urbanas.",
@@ -395,11 +496,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "be6e30a0df1b1b60"
     },
     {
       "question_number": 27,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Quanto aos despejos industriais que, por sua natureza, não podem ser lançados in natura na rede de esgoto, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O tratamento será posterior, implantado e operado às expensas da COMPESA, por meio de estações regionalizadas de tratamento.",
@@ -412,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8de3d1f3c0fa43ad"
     },
     {
       "question_number": 28,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Nos termos do Regulamento Geral do Fornecimento de Água e da Coleta de Esgotos, realizadas pela Companhia Pernambucana de Saneamento – COMPESA (Decreto Estadual nº 18.251/1994), os imóveis serão classificados e cadastrados em categorias, discriminando as economias, de acordo com a natureza de suas ocupações. Nesse sentido, assinale a opção que não corresponde a uma dessas categorias.",
       "alternatives": {
         "A": "Concessionário de serviço público.",
@@ -429,11 +534,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7c9b33df4fc1b345"
+    },
+    {
+      "question_number": 29,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "Com relação às tarifas pelo fornecimento de água e a coleta de esgotos, analise as afirmativa a seguir. I. As tarifas de esgotos serão fixadas entre 40% e 100% das tarifas de água, em função da origem e natureza dos investimentos necessários à implantação, operação e manutenção dos serviços. II. A diferença entre a primeira e a última faixa de consumo não pode ultrapassar 50 % (cinquenta por cento). III. A estrutura tarifária representa a distribuição de tarifas por faixa de consumo e volume esgotado. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a99fab503942f251"
     },
     {
       "question_number": 30,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A respeito do licenciamento ambiental de unidades de tratamento de esgotos sanitários, conforme as disposições da Lei nº 11.445/2007, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Em regra, o licenciamento ambiental não será necessário, salvo se a unidade de tratamento estiver a uma distância mínima de 15 (quinze) metros de rios.",
@@ -446,11 +572,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3a797f8bb9815bd2"
     },
     {
       "question_number": 31,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Analise a figura a seguir. O processo de modulação digital apresentado na figura é denominado",
       "alternatives": {
         "A": "ASK.",
@@ -463,11 +591,51 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q31.png",
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9750469c10c8d499"
+    },
+    {
+      "question_number": 32,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A respeito dos sistemas de transmissão PDH e SDH, analise as afirmativas a seguir. I. O padrão PDH de transmissão de sinais foi concebido para uma arquitetura de multiplexação assíncrona. II. O padrão SDH de transmissão possui cada canal operando com um relógio sincronizado com os relógios dos outros canais. III. O sinal PDH transporta os diferentes tipos de sinais PDH, desde que o sinal seja óptico. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6cec243936b64bbd"
+    },
+    {
+      "question_number": 33,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A respeito dos diversos tipos de topologias de rede, analise as afirmativas a seguir. I. Na topologia em estrela, todos os equipamentos da rede (estações de trabalho e servidores) estão ligados diretamente por um cabo a um dispositivo central (concentrador) do tipo ponto a ponto. II. Na topologia em anel, todos os equipamentos da rede (estações de trabalho e servidores) estão conectados fisicamente a um único cabo, em formato de anel, no qual e necessária a junção de início e fim. III. Na topologia em barramento ou barra, todos os equipamentos da rede (estações de trabalho e servidores) estão interligados por um cabo central denominado barramento único. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c96106d65fcd6f20"
     },
     {
       "question_number": 34,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A figura a seguir apresenta os trechos horizontais compreendidos entre o Gabinete de Telecomunicações e as saídas de informações. As distâncias máximas, em metros, estabelecidas pela Electric Industries Association - EIA, utilizando cabos de fibra óptica, UTP e STP, são, respectivamente, iguais a",
       "alternatives": {
         "A": "90, 90 e 90.",
@@ -480,11 +648,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q34.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f1dde8a4842fe848"
     },
     {
       "question_number": 35,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A figura a seguir apresenta um sinal digital a ser transmitido, uma onda portadora e as ondas A, B e C. As ondas A, B e C correspondem à onda portadora modulada, respectivamente, em",
       "alternatives": {
         "A": "frequência, amplitude e fase.",
@@ -497,11 +667,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q35.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "83d9ca397d657abd"
     },
     {
       "question_number": 36,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Relacione os elementos de interconexão de redes de computadores às respectivas características. 1. roteador 2. hub 3. gateway ( ) Opera em todas as camadas da arquitetura TCP/IP. ( ) Atua como sendo um ponto de colisão dos sinais de diferentes estações. ( ) Direciona os pacotes com base em seus endereços lógicos. Assinale a opção que apresenta a relação correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -514,11 +686,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "33b840eae3a34154"
+    },
+    {
+      "question_number": 37,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "O sistema operacional Windows pode ser instalado em PCs de 32 ou 64 bits, de acordo com o hardware disponível. A respeito desse sistema operacional, analise as afirmativas a seguir. I. O sistema operacional Windows de 32 bits não pode ser executado em processadores de 64 bits. II. Os hardwares com drivers de 32 bits não podem funcionar em PC sistema operacional Windows na versão de 64 bits. III. Os sistemas operacionais Windows de 32 e 64 bits possuem aparência da interface com o usuário distinta. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6a09e06d7203e09d"
     },
     {
       "question_number": 38,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Uma rede de computadores possui quatro máquinas conectadas a um dispositivo de rede. Sabe-se que duas máquinas estabelecem uma comunicação entre si e as outras duas ficam impossibilitadas de estabelecer uma comunicação. O dispositivo de rede é",
       "alternatives": {
         "A": "gateway.",
@@ -531,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dcb42edc89b592cf"
     },
     {
       "question_number": 39,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "O sistema de Nomes de Domínio – DNS permite transformar nomes digitados em um navegador WEB em um endereço de rede. O nome do host e o nível do domínio para o domínio “system.master.com” são, respectivamente,",
       "alternatives": {
         "A": "system e segundo nível.",
@@ -548,11 +743,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6cad56cc9947d125"
+    },
+    {
+      "question_number": 40,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A respeito dos serviços da camada de Aplicação do TCP-IP, considere as afirmativas a seguir. I. O Protocolo de Transferência de Arquivos – FTP permite que os arquivos sejam enviados e recebidos. II. O Protocolo de Transferência de Correio Simples – SMTP aceita serviços básicos de entrega de mensagem entre servidores. III. O Protocolo de Transferência de Hipertexto – HTTP oferece suporte ao transporte de arquivos contendo texto, gráficos e vídeos. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "e4910e6241d7cbeb"
+    },
+    {
+      "question_number": 41,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A respeito do protocolo simples de gerenciamento de rede – SNMP analise as afirmativas a seguir. I. É um protocolo da camada de Enlace. II. É utilizado para trocar informações de gerenciamento entre os dispositivos da rede. III. Consiste em Nó gerenciado SNMP, Agente SNMP e Estação de gerenciamento de rede SNMP. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7bbc355f50f75668"
     },
     {
       "question_number": 42,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "As memórias de computadores são circuitos que armazenam dados e programas. A memória que permite o armazenamento de uma grande quantidade de dados e instruções, por um período de tempo mais longo, é",
       "alternatives": {
         "A": "cachê.",
@@ -565,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "fbe12c9bff16b60e"
     },
     {
       "question_number": 43,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A respeito dos sistemas de comunicações via satélite, assinale a afirmativa correta.",
       "alternatives": {
         "A": "As bandas C e Ku são muito utilizadas nas faixas de frequência disponíveis para a transmissão via satélite.",
@@ -582,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cd64a6f8b9011f92"
     },
     {
       "question_number": 44,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A respeito dos sistemas de radiocomunicação VHF e UHF, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O sistema UHF opera na faixa de frequência de 200 a 3000 MHz.",
@@ -599,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "e366075c50d6dbed"
     },
     {
       "question_number": 45,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A tabela a seguir mostra a distribuição do tráfego telefônico externo na Hora de Maior Movimento (HMM) de uma empresa formada pelos setores A, B e C. A intensidade do tráfego telefônico dessa empresa na HMM, em Erlangs, é:",
       "alternatives": {
         "A": "2.",
@@ -616,11 +857,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q45.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5c7f2a25e22095b0"
     },
     {
       "question_number": 46,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A qualidade em um sistema celular está associada também à redução do valor da relação portadora/ruído (RPR) na entrada do receptor. A técnica mitigadora que permite a manutenção do desempenho do sistema dentro do padrão adequado é",
       "alternatives": {
         "A": "a alteração da modulação.",
@@ -633,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a4ca9ce07e5d3070"
     },
     {
       "question_number": 47,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A figura a seguir apresenta uma estrutura (TST) Temporal - Espacial – Temporal utilizada na comutação telefônica. Esta estrutura tem por objetivo o aumento da capacidade de comutação das matrizes temporais. Uma estrutura TST pode ser representada por um equivalente espacial, por meio de blocos, chamados de matrizes básicas, conforme a figura. Para uma matriz de três estágios, a condição de não bloqueio implica em se ter, no Estágio 2, um número de matrizes básicas igual a",
       "alternatives": {
         "A": "n.",
@@ -650,11 +895,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q47.png",
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "77905d4c3279104e"
     },
     {
       "question_number": 48,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Relacione as tecnologias do setor de telecomunicações às respectivas características. 1. LTE 2. GPRS 3. CDMA ( ) Tecnologia utilizada na telefonia celular e para o rastreamento via satélite. ( ) Padrão de redes celulares que possibilita maior abrangência de comunicações de voz. ( ) Tecnologia que aumenta as taxas de transferência de dados nas redes GSM. Assinale a opção que apresenta a relação correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 2 – 3",
@@ -667,11 +914,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "86b0a129192f3848"
     },
     {
       "question_number": 49,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Na arquitetura de rede do LTE, o atendimento das necessidades do assinante, por meio da configuração de parte do equipamento móvel e de cada SIM card em circulação, é garantida pelo domínio",
       "alternatives": {
         "A": "Terrestrial Radio Access Network.",
@@ -684,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "79ce6c7afcd57da4"
     },
     {
       "question_number": 50,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "A memória permanente utilizada apenas para operações de leitura localizada na placa mãe de um PC, que mantém os dados armazenados mesmo sem corrente elétrica, mas que permite que seja apagada com raios ultravioleta de alta potência, é",
       "alternatives": {
         "A": "EEPROM.",
@@ -701,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "662c5040259510c2"
     },
     {
       "question_number": 51,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Relacione os tipos de arquiteturas de processadores às respectivas características. 1. RISC 2. CISC ( ) número de instruções limitado. ( ) Reduzir os custos de desenvolvimento de software; ( ) uso intenso de pipelines. ( ) Reduzir drasticamente o software do sistema. Assinale a opção que apresenta a relação correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 2 – 1 – 2.",
@@ -718,11 +971,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "e8f324d3c3b0cd7c"
     },
     {
       "question_number": 52,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "As memórias são compostas por células, em que cada uma pode armazenar parte de uma informação. Cada célula possui um endereço pelo qual os programas a referencia. Para uma memória de 9 células com 12 bits cada uma, assinale a opção que indica o número mínimo de bits necessário para acessá-la.",
       "alternatives": {
         "A": "2.",
@@ -735,11 +990,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "89870f76d7daa01c"
     },
     {
       "question_number": 53,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Considere o sistema S: x(t)  y(t), em que y(t) = S[x(t)] = 2x(t).cos(t + 1) – 3sen[x(t – 2)]. É correto afirmar que y(t) é",
       "alternatives": {
         "A": "invariante no tempo e com memória.",
@@ -752,11 +1009,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "47994d699006f46d"
     },
     {
       "question_number": 54,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Considere que em uma transmissão digital seja utilizado o formato de sinalização com retorno ao zero (RZ) unipolar, em que os bits 0 e 1 tenham o mesmo tempo de duração e que as transições entre os níveis alto e baixo sejam feitas somente no centro de cada bit ou na transição entre bits. 0 1 0 0 1 1 1 1 B B A B A B B B A B B B A B A B Em uma transmissão de um dado digital 01101011, conforme a figura acima, a relação do tempo total em que o sinal fica em nível alto sobre o tempo total em que o sinal fica em nível baixo, é",
       "alternatives": {
         "A": "5/3.",
@@ -769,11 +1028,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cb87a737625e3992"
     },
     {
       "question_number": 55,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Um sinal de amplitude V e frequência de 5 KHz será transmitido por meio de uma modulação em frequência. A onda portadora tem frequência igual a 1 MHz. Sabendo que o índice de modulação é 3, o limite inferior da frequência do sinal modulado é",
       "alternatives": {
         "A": "1015 KHz.",
@@ -786,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4f2ba762bf88e4f1"
     },
     {
       "question_number": 56,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Um sistema de telecomunicações recebeu uma palavra válida correspondente a 011010. Em caso de erro, o sistema utiliza a distância de Hamming para estabelecer a palavra transmitida que corresponde à palavra recebida. Considerando que as opções fazem parte do conjunto de palavras válidas, a que contém a palavra em que o sistema identificará como sendo a transmitida, é",
       "alternatives": {
         "A": "100111.",
@@ -803,11 +1066,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7db2d3f0d5651d3a"
+    },
+    {
+      "question_number": 57,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A respeito do Session Initiation Protocol (SIP), analise as afirmativas a seguir. I. É um módulo que permite a utilização da tecnologia VoIP interoperar com aplicações da Internet já existentes. II. Permite efetuar chamadas somente entre computadores e entre telefones IP. III. É encarregada somente pelo transporte de dados. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4b419e092441bdaa"
+    },
+    {
+      "question_number": 58,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A respeito da recomendação H.323, analise as afirmativas a seguir. I. Especifica obrigatoriamente protocolos de vídeo e dados. II. Dá suporte à conferência ponto a ponto e multiponto. III. Permite integrar sistemas de diferentes fabricantes. Está correto o que se afirma em:",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2db47f652a3f4e92"
     },
     {
       "question_number": 59,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "O sistema de circuito fechado de TV – CFTV é constituído basicamente por um equipamento para captação das imagens - câmaras, um monitor e um cabo para tráfego do sinal de vídeo. Relacione os parâmetros das câmaras de um sistema CFTV às respectivas características. 1. Sensibilidade 2. Resolução 3. Compensação de luminosidade ( ) Capacidade de distinguir detalhes. ( ) Parâmetro medido em LUX. ( ) Manutenção da imagem sem escurecimento. Assinale a opção que apresenta a relação correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -820,11 +1123,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7aebd778e9320c78"
     },
     {
       "question_number": 60,
-      "discipline": "Conhecimentos Gerais",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Analise a figura a seguir. Em uma edificação comercial, os cabeamentos dos trechos A, B e C para a transmissão de voz, utilizando cabo de fibra óptica monomodo, têm, respectivamente, os comprimentos máximos, em metros, de",
       "alternatives": {
         "A": "3000, 500 e 2500.",
@@ -837,7 +1142,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_engenheiro-de-telecomunicacoes_q60.png",
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7bc2be96bdf27525"
     }
-  ]
+  ],
+  "year": 2016,
+  "uf": "PE",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

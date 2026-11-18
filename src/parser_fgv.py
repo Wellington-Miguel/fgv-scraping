@@ -995,15 +995,23 @@ class FGVParser:
 
     @staticmethod
     def _detect_repeated_header_footer_lines(doc: fitz.Document) -> set[str]:
+        """
+        Detecta linhas repetidas de cabeçalho e rodapé inspecionando EXCLUSIVAMENTE
+        as faixas superior (y0 < 12% da altura) e inferior (y1 > 88% da altura) da página,
+        jamais removendo alternativas recorrentes como '(A) I, apenas.' do corpo da prova.
+        """
         counts: Dict[str, int] = {}
         for page in doc:
+            h = page.rect.height
             seen_on_page: set[str] = set()
             for b in page.get_text("blocks"):
                 if b[6] != 0:
                     continue
+                if not (b[1] < h * 0.12 or b[3] > h * 0.88):
+                    continue
                 for line in b[4].splitlines():
                     norm = line.replace("\xa0", " ").strip().lower()
-                    if len(norm) > 4:
+                    if len(norm) > 4 and not re.match(r"^(?:\([a-e]\)|[a-e][\)\.\-])", norm):
                         seen_on_page.add(norm)
             for norm in seen_on_page:
                 counts[norm] = counts.get(norm, 0) + 1
@@ -1174,13 +1182,15 @@ class FGVParser:
 
     @staticmethod
     def _is_next_section_intro_block(text: str) -> bool:
-        """Detecta blocos introdutórios de textos-base ("Texto I", "Texto 2", "Leia o texto a seguir para responder às questões...")."""
+        """Detecta blocos introdutórios de textos-base ou início de Prova Discursiva no fim do caderno."""
         norm = _norm(text)
         if re.match(r"^texto\s+(?:[i1-9v]+|um|dois|tres)\b", norm):
             return True
         if re.search(r"responder\s+as\s+questoes\s+(?:de\s+)?\d+\s+a\s+\d+", norm):
             return True
         if re.match(r"^aten[cç][aã]o:\s*para\s+responder", norm):
+            return True
+        if re.match(r"^(?:fgv\s+)?(?:prova\s+discursiva|quest[aã]o\s+discursiva|discursiva\s+\d+|reda[cç][aã]o\b)", norm):
             return True
         return False
 
@@ -1253,17 +1263,52 @@ class FGVParser:
             search_idx += 1
 
         # Verifica se existe alternativa E após D
+        e_idx: Optional[int] = None
         found_e = None
-        for m in matches[search_idx:]:
+        for idx_offset, m in enumerate(matches[search_idx:]):
             m_letter = (m.group(1) or m.group(2)).upper()
             if m_letter == "E":
                 found_e = m
+                e_idx = search_idx + idx_offset + 1
                 break
         if found_e is not None:
             selected_matches.append(found_e)
             active_letters = ["A", "B", "C", "D", "E"]
         else:
             active_letters = ["A", "B", "C", "D"]
+
+        # Caso especial FGV: Questão de correlação de colunas onde o enunciado lista itens (A)..(D)
+        # seguidos pelo comando ("A correlação correta é:" / "As afirmativas são:") e pelas opções reais (A)..(E)
+        next_search_start = e_idx if e_idx is not None else search_idx
+        if len(matches) - search_idx >= 4:
+            # Tenta buscar uma segunda sequência completa A, B, C, D a partir de `search_idx` (logo após o primeiro D)
+            second_seq = []
+            s2_idx = search_idx
+            for letter in required_letters:
+                f2 = None
+                for m in matches[s2_idx:]:
+                    if (m.group(1) or m.group(2)).upper() == letter:
+                        f2 = m
+                        break
+                    s2_idx += 1
+                if f2:
+                    second_seq.append(f2)
+                    s2_idx += 1
+                else:
+                    break
+            if len(second_seq) == 4:
+                bridge_text = _norm(combined_text[selected_matches[3].end() : second_seq[0].start()])
+                if len(bridge_text) < 280 and any(
+                    kw in bridge_text
+                    for kw in ("correlacao", "associacao", "respectivamente", "ordem", "sequencia", "assinale", "correto", "afirmativas")
+                ):
+                    f2_e = None
+                    for m in matches[s2_idx:]:
+                        if (m.group(1) or m.group(2)).upper() == "E":
+                            f2_e = m
+                            break
+                    selected_matches = second_seq + ([f2_e] if f2_e else [])
+                    active_letters = ["A", "B", "C", "D", "E"] if f2_e else ["A", "B", "C", "D"]
 
         statement = combined_text[: selected_matches[0].start()].strip()
         alternatives: Dict[str, Optional[str]] = {"A": None, "B": None, "C": None, "D": None, "E": None}

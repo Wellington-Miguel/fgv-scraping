@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para Companhia Pernambucana de Saneamento - COMPESA",
   "cargo_title": "Administrador",
   "exam_type": "Tipo 1",
-  "total_questions": 57,
+  "total_questions": 69,
   "questions": [
     {
       "question_number": 1,
@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3d8862330458a6b3"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a66ad2246ee1a3e4"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "fc0154eb1d8d0746"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c750bb5d70eaad11"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4ee0f3ac64682232"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f7fbae9fc9e2cb2c"
     },
     {
       "question_number": 7,
@@ -123,7 +135,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cf1a3e28e0582aa9"
     },
     {
       "question_number": 8,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "174f6c991e466fe0"
     },
     {
       "question_number": 9,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8b6523ed1e4265c0"
     },
     {
       "question_number": 10,
@@ -174,11 +192,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2affecf82f577a22"
     },
     {
       "question_number": 11,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "As figuras a seguir ilustram dispositivos que são integrados à configuração dos microcomputadores versão desktop e notebooks. Assinale a opção que indica os dispositivos que operam exclusivamente na saída de dados.",
       "alternatives": {
         "A": "1 e 2, somente.",
@@ -191,11 +211,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa_administrador_q11.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b95d162b8c6f0567"
     },
     {
       "question_number": 12,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "Em um teclado de um microcomputador, com sistema operacional Windows 7 BR, o usuário ao pressionar a tecla tem por finalidade",
       "alternatives": {
         "A": "mostrar a janela do Explorer.",
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9b8a8406c8404ca0"
     },
     {
       "question_number": 13,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "A figura a seguir mostra um dispositivo de armazenamento de dados. Na comparação com os discos rígidos, é um dispositivo fabricado com uma memória de armazenamento do tipo Flash RAM, não possui partes mecânicas, apresenta maior resistência a impactos e menor consumo de energia na comparação com aos atuais discos rígidos. Por outro lado, é mais caro e não possui grande capacidade de armazenamento. Esse dispositivo é conhecido pela seguinte sigla:",
       "alternatives": {
         "A": "SCSI",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa_administrador_q13.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "292c0db47d9037a3"
     },
     {
       "question_number": 14,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "Um Analista, funcionário da COMPESA‐PE, digitou o texto a seguir no Word 2010 BR, configurado anteriormente com alinhamento justificado. Para finalizar o trabalho, esse funcionário executou um atalho de teclado que alterou o alinhamento para “alinhado à esquerda”, selecionou a citação “Companhia Pernambucana de Saneamento” e acionou dois ícones para aplicar estilos negrito e itálico, conforme mostrado no texto. O atalho de teclado e os ícones acionados para aplicar estilos negrito e itálico foram, respectivamente,",
       "alternatives": {
         "A": "Ctrl + Q, e",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa_administrador_q14.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "38ef0bef1c861de1"
     },
     {
       "question_number": 15,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "No MS Office Outlook 2010 BR, o acionamento da tecla de função F9 tem o seguinte objetivo:",
       "alternatives": {
         "A": "configurar conta de e‐mail.",
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ff49bd2b3af4d567"
     },
     {
       "question_number": 16,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "A figura a seguir mostra diversos arquivos gravados na pasta COMPESA‐PE no disco C:, na janela do Explorer, no Windows XP. Nela, todos os arquivos armazenados na pasta estão selecionados. Para selecionar todos os arquivos gravados nessa pasta, foi executado o seguinte atalho de teclado:",
       "alternatives": {
         "A": "Ctrl + T",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa_administrador_q16.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "fda8eb4a160e30fe"
     },
     {
       "question_number": 17,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "A planilha a seguir foi criada no Excel 2010 BR. Na planilha foram realizados os procedimentos listados a seguir: • foi inserida uma expressão em E11, que multiplica o valor exibido em C11 pelo valor base em E7, utilizando o conceito de referência absoluta. • Em seguida, a célula E11 foi selecionada, e seu conteúdo foi copiado para as células E12, E13 e E14. • Para finalizar, foi acionado o botão em E15, o que resultou na inserção, nessa célula, de uma expressão que somou os valores exibidos em E11, E12, E13 e E14. As expressões inseridas nas células E13 e E15 foram, respectivamente,",
       "alternatives": {
         "A": "=E11*&E&7 e =SOMA(E11;E14)",
@@ -293,11 +325,13 @@
       "annulled": true,
       "has_image": true,
       "image_path": "data/processed/images/compesa_administrador_q17.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b644ff595ac8ea9b"
     },
     {
       "question_number": 18,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "A figura a seguir ilustra uma janela que é exibida na tela, quando se aciona uma da guias da barra de menus, na Faixa de Opções do Powerpoint 2010 BR. A janela mostra tipos de um recurso disponível no software conhecido como",
       "alternatives": {
         "A": "animações.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa_administrador_q18.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "24356dd160a66e2d"
     },
     {
       "question_number": 19,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "A sigla que tem por significado uma rede de comunicação que permite o uso de imagens e textos na Internet, e o termo que corresponde à atividade de se transmitir arquivos de um determinado computador para um site de hospedagem na Internet, são conhecidos, respectivamente, por",
       "alternatives": {
         "A": "WWW e upload.",
@@ -327,11 +363,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f1dfe7b51a295d0a"
+    },
+    {
+      "question_number": 21,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "Segundo a Lei nº 11.445/2007 (Marco Regulatório do Setor de Saneamento), os serviços públicos de saneamento básico serão prestados com base nos seguintes princípios fundamentais: I. o abastecimento de água, o esgotamento sanitário, a limpeza urbana e o manejo dos resíduos sólidos devem ser realizados de forma adequada à saúde pública e à proteção do meio ambiente. II. os serviços de esgotamento sanitário e de limpeza urbana devem adotar medidas de fomento ao consumo de água. III. os serviços públicos de saneamento básico devem adotar métodos, técnicas e processos que considerem as peculiaridades locais e regionais. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se somente as afirmativas II e III estiverem corretas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "447ea43e7ab440bc"
     },
     {
       "question_number": 22,
-      "discipline": "Noções de Informática",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Segundo a Lei nº 11.445/2007, as opções a seguir apresentam corretamente definições de elementos do Setor de Saneamento, à exceção de uma. Assinale‐a.",
       "alternatives": {
         "A": "Controle social: mecanismos e procedimentos que garantem à sociedade informações e participação na formulação de políticas, de planejamento e de avaliação dos serviços públicos de saneamento básico.",
@@ -344,11 +401,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8d296cfec40887ae"
+    },
+    {
+      "question_number": 23,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "Sobre a Política Federal de Saneamento Básico, analise as afirmativas a seguir. I. Contribui para a redução das desigualdades regionais, a geração de emprego e de renda e a inclusão social. II. Proporciona condições adequadas de salubridade ambiental aos povos indígenas e outras populações tradicionais, com soluções compatíveis com suas características socioculturais. III. Assegura a aplicação dos recursos financeiros administrados pelo poder público, segundo critérios de promoção da salubridade ambiental, de minimização da relação custo‐ benefício e de menor retorno social. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se somente as afirmativas II e III estiverem corretas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b4826640507caf23"
     },
     {
       "question_number": 24,
-      "discipline": "Noções de Informática",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O Plano Nacional de Saneamento Básico – PNSB, elaborado pela União, conterá",
       "alternatives": {
         "A": "as diretrizes para o planejamento das ações de saneamento básico em áreas de especial interesse turístico.",
@@ -361,11 +439,89 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "24315884ec731393"
+    },
+    {
+      "question_number": 25,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "A alocação de recursos públicos federais e os financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da União serão feitos em conformidade com as diretrizes e objetivos estabelecidos na Lei nº 11.445/2007. A esse respeito, analise as afirmativas a seguir. I. Na aplicação de recursos não onerosos da União, será dada prioridade às ações e empreendimentos que visem ao atendimento de usuários ou Municípios que não tenham capacidade de pagamento compatível com a auto‐ sustentação econômico‐financeira dos serviços. II. A União poderá instituir e orientar programas de incentivo à execução de projetos de interesse social na área de saneamento básico, com participação de investidores privados, em condições compatíveis com a natureza essencial dos serviços públicos de saneamento básico. III. É vedada a aplicação de recursos orçamentários da União na administração, operação e manutenção de serviços públicos de saneamento básico não administrados por órgão ou entidade federal. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se todas as afirmativas estiverem corretas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3fd508d21e716912"
+    },
+    {
+      "question_number": 26,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "Sobre a prestação regionalizada de serviços públicos de saneamento básico, analise as afirmativas a seguir. I. Um único prestador do serviço pode atender a vários Municípios, desde que contíguos. II. A fiscalização e a regulação dos serviços deve ser uniforme, inclusive sua remuneração. III. A prestação de serviços regionalizados exige a compatibilidade de planejamento. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se somente as afirmativas II e III estiverem corretas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "575ddb7d9c9c5d0a"
+    },
+    {
+      "question_number": 27,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "Sobre a sustentabilidade econômico‐financeira dos serviços públicos de saneamento básico, analise as afirmativas a seguir. I. Serão conseguidos mediante remuneração pela cobrança dos serviços de limpeza urbana e de manejo de resíduos sólidos urbanos, na forma de taxas ou tarifas e outros preços públicos, em conformidade com o regime de prestação do serviço ou de suas atividades. II. Serão conseguidos mediante remuneração pela cobrança dos serviços de abastecimento de água e de esgotamento sanitário, exclusivamente na forma de tarifas, que deverão ser estabelecidas para cada um dos serviços separadamente. III. Serão conseguidos mediante remuneração pela cobrança dos serviços de manejo de águas pluviais urbanas, na forma de tributos, à exceção de taxas, em conformidade com o regime de prestação do serviço ou de suas atividades. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se somente as afirmativas II e III estiverem corretas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c149775587d93a9e"
+    },
+    {
+      "question_number": 28,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "O exercício da função de regulação do Setor de Saneamento atenderá aos princípios da independência decisória, transparência, tecnicidade, celeridade e objetividade das decisões. Sobre os objetivos da regulação, analise as afirmativas a seguir. I. Deve estabelecer padrões e normas para a adequada prestação dos serviços e para a satisfação dos usuários. II. Deve prevenir e reprimir o abuso do poder econômico, ressalvada a competência dos órgãos integrantes do sistema nacional de defesa da concorrência. III. Deve definir tarifas que assegurem o equilíbrio econômico e financeiro dos contratos, independentemente da modicidade tarifária. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se somente as afirmativas II e III estiverem corretas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6dc5db591d9d8b1b"
     },
     {
       "question_number": 29,
-      "discipline": "Noções de Informática",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Sobre os contratos que tenham por objeto a prestação de serviços públicos de saneamento básico, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os contratos poderão conter cláusulas que limitem as atividades de regulação e de fiscalização ou o acesso às informações sobre os serviços contratados.",
@@ -378,11 +534,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6a6f08f931119ce7"
+    },
+    {
+      "question_number": 30,
+      "discipline": "Engenharia e Arquitetura",
+      "statement": "O serviço público de limpeza urbana e de manejo de resíduos sólidos urbanos é composto pelas seguintes atividades: I. coleta, transbordo e transporte de lixo doméstico e do lixo originário da varrição e limpeza de logradouros e vias públicas. II. varrição, capina e poda de árvores em vias e logradouros privados e outros eventuais serviços pertinentes à limpeza pública urbana. III. triagem para fins de reúso ou reciclagem, tratamento, inclusive por compostagem, e disposição final de lixo doméstico e do lixo originário da varrição e limpeza de logradouros e vias públicas. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se somente as afirmativas II e III estiverem corretas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ef3700f36bc82dc5"
     },
     {
       "question_number": 31,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A administração procura alcançar os objetivos organizacionais e o administrador deve utilizar todos os recursos no sentido de obter eficiência e eficácia. Com relação ao conceito de eficácia, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Fazer corretamente as coisas.",
@@ -395,11 +572,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "36155afdc5a033fe"
     },
     {
       "question_number": 32,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A primeira tentativa de formalização de uma teoria administrativa foi feita por Taylor, com a publicação de “Os Princípios da Administração Científica”. Com relação a esses princípios, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Princípio de planejamento – substituição de métodos científicos por procedimentos empíricos, conforme o raciocínio de cada trabalhador. ( ) Princípio de preparo dos trabalhadores – os operários não precisam demonstrar aptidões porque é possível treiná‐los, mas o material de trabalho deve ser previamente preparado. ( ) Princípio de controle – controlar o desenvolvimento do trabalho para se certificar de que está sendo realizado de acordo com a metodologia estabelecida e dentro da meta. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, F e V.",
@@ -412,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7fe43a579081c063"
     },
     {
       "question_number": 33,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A Teoria Clássica da Administração, idealizada por Henri Fayol, caracteriza‐se pela ênfase na estrutura organizacional. Fayol desenvolveu 14 princípios gerais de Administração, que podem ser aplicados a qualquer tipo de organização. Sobre esses princípios, analise o fragmento a seguir. “A linha de autoridade vai do topo da organização até o nível mais baixo. As comunicações devem seguir essa cadeia.” Esse princípio é chamado de",
       "alternatives": {
         "A": "divisão do trabalho.",
@@ -429,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "06850c5b2ffa4f5f"
     },
     {
       "question_number": 34,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os comportamentalistas enfatizaram a importância do indivíduo para a organização. Dessa forma, procuraram investigar variáveis específicas ligadas ao comportamento dos indivíduos, como decisão, motivação e conflito. Relacione os autores às suas contribuições para essa teoria organizacional: 1. Chester Barnard 2. Abraham Maslow 3. Frederick Herzberg 4. Douglas McGregor 5. David McClelland ( ) Estudos sobre a motivação humana no trabalho. ( ) Estudo dos executivos no desempenho organizacional e introdução da reflexão ética no comportamento das organizações. ( ) Seus conceitos de necessidade de realização e de poder ainda são úteis na operação organizacional. ( ) A distinção entre fatores higiênicos e motivacionais contribuiu para um melhor entendimento do comportamento humano no trabalho. ( ) Seus conceitos referentes à Teoria X, Teoria Y e Profecia auto‐ realizável são marcos referenciais na Teoria Geral da Administração. Assinale a opção que indica a sequência correta, de cima para baixo.",
       "alternatives": {
         "A": "2 – 1 – 5 – 3 – 4",
@@ -446,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7fe465a990c58128"
     },
     {
       "question_number": 35,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Segundo a teoria burocrática, idealizada por Max Weber, as empresas seguem normas e regulamentos escritos e preestabelecidos para seu funcionamento. Assinale a opção que apresenta somente princípios da teoria burocrática.",
       "alternatives": {
         "A": "Impessoalidade, Hierarquia, Autoridade e Separação de Domínios Público e Privado.",
@@ -463,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f55707a4567d9079"
     },
     {
       "question_number": 36,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Leia o fragmento a seguir. “Homeostase é a propriedade de um sistema aberto de regular seu ambiente _____ de forma a manter uma condição _____, mediante múltiplos ajustes de equilíbrio _____”. Assinale a opção que completa corretamente as lacunas do fragmento acima.",
       "alternatives": {
         "A": "interno – estável – sistêmico",
@@ -480,11 +667,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cad84df3181809b4"
+    },
+    {
+      "question_number": 37,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Para Katz, existem três tipos de habilidades importantes para o desempenho administrativo bem sucedido: habilidades técnicas, humanas e conceituais. Com relação a essas habilidades, analise as afirmativas a seguir. I. As habilidades conceituais envolvem o uso de conhecimento especializado e a facilidade na execução de técnicas relacionadas ao trabalho e aos procedimentos de realização. II. As habilidades humanas estão relacionadas ao trabalho e referem‐se à facilidade de relacionamento interpessoal e grupal. III. As habilidades técnicas envolvem a visão da organização ou da unidade organizacional como um todo. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa II estiver correta",
+        "C": "se somente a afirmativa III estiver correta",
+        "D": "se somente as afirmativas I e II estiverem corretas",
+        "E": "se todas as afirmativas estiverem corretas."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "20fc588caa2a528c"
     },
     {
       "question_number": 38,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O processo administrativo consiste em uma sequência de ações que se sucedem para chegar a um determinado ponto; uma maneira sistemática de fazer as coisas. Com relação à função administrativa planejamento, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Usa a influência para motivar as pessoas.",
@@ -497,11 +705,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9ac6e79120e8a056"
     },
     {
       "question_number": 39,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A respeito da qualidade, analise o fragmento a seguir. “As organizações mais bem‐sucedidas não se contentam em atender simplesmente às _____ dos clientes, mas querem _____ e, com isso, _____ os clientes.” Assinale a opção que completa corretamente as lacunas do fragmento.",
       "alternatives": {
         "A": "estratégias, necessidades, encantar",
@@ -514,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3641d7b88ad38cd5"
     },
     {
       "question_number": 40,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A administração de recursos, em grande parte, baseada em técnicas que integram os elementos de tecnologia de manufatura, otimizam a utilização de pessoas, materiais e instalações ou equipamentos. Dentre as principais técnicas de administração de materiais, temos o controle estatístico de processos (CEP). Com relação ao controle estatístico de processos (CEP), assinale V para a afirmativa verdadeira e F para a falsa. ( ) Seleciona fornecedores e garante a qualidade, eliminando testes de recebimento, garantindo feedback e a correção de defeitos na fábrica do fornecedor. ( ) Utiliza‐se a probabilidade para, por meio de uma amostra, extrair conclusões genéricas sobre os processos. ( ) É uma estratégia na qual distribuidores e fornecedores trabalham, em conjunto, para proporcionar maior valor ao consumidor e minimizar custos. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, F e F.",
@@ -531,11 +743,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5e3c966f386af8b2"
     },
     {
       "question_number": 41,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os estoques constituem parcela considerável dos ativos das empresas. Eles recebem um tratamento contábil minucioso e são classificados, principalmente para efeitos contábeis, em cinco grandes categorias. A esse respeito, todos os itens que já foram despachados de uma unidade e ainda não chegaram a seu destino final, caracterizam o",
       "alternatives": {
         "A": "estoque em consignação",
@@ -548,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2f24b00af65491a2"
     },
     {
       "question_number": 42,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A função de compras, atualmente, é vista como parte do processo de logística das empresas e, por isso, compete à área de compras o cuidado com os níveis de estoque da empresa. Com relação a essa preocupação com os níveis de estoque, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Altos níveis de estoque significam poucos problemas com a produção. ( ) Baixos níveis de estoque acarretam um custo exagerado para sua manutenção. ( ) Baixos níveis de estoque podem fazer com que a empresa trabalhe num limiar arriscado. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, F e V.",
@@ -565,11 +781,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "14cb4ec9e2f46950"
+    },
+    {
+      "question_number": 43,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Nas últimas décadas, as indústrias aumentaram os investimentos em logística, estruturas próprias ou terceirizadas para armazenagem e movimentação de materiais. Em relação às razões para o uso desse espaço de armazenagem, analise as afirmativas a seguir. I. Redução dos custos de transporte e de produção II. Coordenação da oferta e da demanda III. Auxílio no processo de produção Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa II estiver correta",
+        "C": "se somente a afirmativa III estiver correta",
+        "D": "se somente as afirmativas I e II estiverem corretas",
+        "E": "se todas as afirmativas estiverem corretas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5c446dc0a28a0965"
     },
     {
       "question_number": 44,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O gerenciamento da cadeia de suprimentos (Supply Chain Management) administra o sistema de logística integrada da empresa e as tecnologias avançadas, para planejar e controlar fatores com o objetivo de produzir e distribuir produtos e serviços para satisfazer o cliente. Com relação aos objetivos do gerente da Supply Chain, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Satisfazer o cliente no médio prazo e no longo prazo, criando um diferencial em relação à concorrência. ( ) Minimizar os custos financeiros, pelo uso de menos capital de giro. ( ) Maximizar o desperdício, evitando atividades que não agregam valor. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, V e V.",
@@ -582,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1c31376a774a1fd5"
     },
     {
       "question_number": 45,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A respeito dos bens patrimoniais, analise o fragmento a seguir. “Os bens _____ possuem um forma identificável; os bens materiais possuem uma substância _____, são palpáveis, e os bens _____ possuem substância ou massa.” Assinale a opção que completa corretamente as lacunas do fragmento acima.",
       "alternatives": {
         "A": "tangíveis – durável – corpóreos",
@@ -599,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "054615a66e55d90d"
     },
     {
       "question_number": 46,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A elaboração do planejamento estratégico envolve a definição da visão, missão, valores e a análise SWOT. Assinale a opção que indica a definição de SWOT.",
       "alternatives": {
         "A": "Habilidades, fraquezas, planejamento e oportunidades.",
@@ -616,11 +857,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "234ec4093b85c277"
+    },
+    {
+      "question_number": 47,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "A administração estratégica é um processo contínuo e interativo que visa a manter a organização como um conjunto integrado ao seu ambiente. Com relação aos benefícios que a administração estratégica pode trazer à organização, analise as afirmativas a seguir. I. Aponta os problemas que podem surgir antes que eles ocorram. II. Oferece uma visão subjetiva dos problemas da organização. III. Identifica qualquer necessidade de redefinição na natureza do negócio. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa II estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se todas as afirmativas estiverem corretas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0a6edfba0c5c3816"
     },
     {
       "question_number": 48,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O administrador utiliza o planejamento tático para delinear o que as várias partes da organização devem fazer para ter sucesso. Os planos táticos envolvem",
       "alternatives": {
         "A": "a produção, a organização, o marketing e a capacitação.",
@@ -633,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ce637db65be5fa3d"
     },
     {
       "question_number": 49,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "As constantes mudanças e transformações no ambiente de operações produzem uma forte pressão, no sentido de ações ágeis e de reações rápidas, para aproveitar as novas oportunidades que surgem e escapar das dificuldades. A esse respeito, analise o fragmento a seguir. “A _____ organizacional representa a mobilização de todos no âmbito _____ da organização, visando a atingir objetivos situados no _____.” Assinale a opção que completa corretamente as lacunas do fragmento acima.",
       "alternatives": {
         "A": "estratégia – funcional – longo prazo.",
@@ -650,11 +914,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6da26a1d665b0d6f"
     },
     {
       "question_number": 50,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O planejamento operacional focaliza o curto prazo, abrangendo cada uma das tarefas ou operações individualmente, e está voltado para a otimização e a maximização de resultados. A esse respeito, assinale a opção que indica o plano operacional que está relacionado ao comportamento das pessoas.",
       "alternatives": {
         "A": "Programas.",
@@ -667,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e4109351fba7f79f"
     },
     {
       "question_number": 51,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O Balanced Scorecard pode ser utilizado pelas empresas para verificar se dispõem de controles estratégicos e financeiros para avaliar seu desempenho. Essa técnica é mais aproveitada quando se está lidando com estratégias em nível de negócios. Assinale a opção que apresenta perspectivas que se integram para formar a estrutura do Balanced Scorecard.",
       "alternatives": {
         "A": "Financeira, geográfica, mercadológica e institucional.",
@@ -684,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "649376dc3049a6ca"
     },
     {
       "question_number": 52,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma cadeia de valor representa o conjunto de atividades desempenhadas por uma organização, desde as relações com os fornecedores e ciclos de produção e de venda, até a fase da distribuição final. A esse respeito, segundo a cadeia generalista de Porter, assinale a opção que apresenta somente atividades de apoio ou suporte.",
       "alternatives": {
         "A": "Aquisição e operações.",
@@ -701,11 +971,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fbef5a3cc08ac963"
+    },
+    {
+      "question_number": 53,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "As alianças estratégicas são parcerias em que duas ou mais empresas realizam um projeto específico ou cooperam em determinada área de negócio. Com relação às vantagens e às desvantagens das alianças, analise as afirmativas a seguir. I. Em virtude de a empresa permanecer separada e independente, há um elevado custo burocrático e de coordenação. II. A empresa pode se beneficiar com a aliança estratégica, porque não precisa arcar sozinha com todos os custos e riscos dos novos negócios. III. Um parceiro pode receber mais do que oferece, ou seja, pode usar a tecnologia, recentemente adquirida, para competir com o parceiro mais avançado. Assinale:",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas II e III estiverem corretas.",
+        "D": "se somente as afirmativas I e II estiverem corretas.",
+        "E": "se todas as afirmativas estiverem corretas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1914a8863af869f7"
     },
     {
       "question_number": 54,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A liderança pode ser definida como o processo social de dirigir e influenciar o comportamento dos membros da organização, levando‐os à realização de determinados objetivos. Assinale a opção que indica os três elementos que podem ser destacados nessa definição de liderança.",
       "alternatives": {
         "A": "Objetivos, pessoas e poder.",
@@ -718,11 +1009,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a79241073fbc4fcd"
     },
     {
       "question_number": 55,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A cultura organizacional representa as normas informais e não escritas que orientam o comportamento dos membros de uma organização no dia a dia e suas ações para o alcance dos objetivos organizacionais. A esse respeito, analise o fragmento a seguir. “Toda cultura tem três diferentes níveis de apresentação: _____, _____ compartilhados e _____ básicas.” Assinale a opção que completa corretamente o fragmento acima.",
       "alternatives": {
         "A": "estrutura – objetivos – pressuposições.",
@@ -735,11 +1028,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cc302c0d687a3376"
     },
     {
       "question_number": 56,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O processo de escolher e implementar estruturas capazes de organizar e articular os recursos e servir à missão e aos objetivos principais, denomina‐se",
       "alternatives": {
         "A": "estratégia organizacional.",
@@ -752,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "94bd438dbaadf4b1"
     },
     {
       "question_number": 57,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Estrutura organizacional é o modo como as atividades de uma organização são coordenadas para possibilitar o alcance dos objetivos. Com relação às funções básicas da estrutura organizacional, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Possibilitar aos membros organizacionais a execução de uma variedade de atividades, de acordo com os critérios de divisão de trabalho, sem definir a especialização. ( ) Proporcionar aos membros organizacionais a coordenação das atividades por meio de mecanismos integradores, como supervisão hierárquica. ( ) Definir as fronteiras da organização e suas interfaces com o ambiente e outras organizações com as quais interage. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e V.",
@@ -769,11 +1066,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a4c4e3f2c773f48b"
+    },
+    {
+      "question_number": 58,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "A centralização e a descentralização referem‐se ao nível hierárquico no qual são tomadas as decisões. Com relação às desvantagens da centralização, analise as afirmativas a seguir. I. Distancia as decisões dos fatos locais e das circunstâncias. II. Reduz os riscos de erro por parte dos subordinados, em virtude da falta de informação. III. Desestimula a criatividade e a inovação. Assinale.",
+      "alternatives": {
+        "A": "se somente a afirmativa I estiver correta.",
+        "B": "se somente a afirmativa III estiver correta.",
+        "C": "se somente as afirmativas I e II estiverem corretas.",
+        "D": "se somente as afirmativas I e III estiverem corretas.",
+        "E": "se todas as afirmativas estiverem corretas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "45bc46c10db4ee88"
     },
     {
       "question_number": 59,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Na estrutura por processos, a organização se estrutura em unidades ao longo da sequência de execução de seus principais processos. A organização se amolda ao processo organizacional que deve completar. Assinale a opção que apresenta as vantagens da estrutura baseada em processos.",
       "alternatives": {
         "A": "Isolamento das unidades, cadeia de valor e fragmentação.",
@@ -786,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "187da964d858b3d9"
     },
     {
       "question_number": 60,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A administração direta é aquela composta por órgãos ligados diretamente ao poder central, federal, estadual ou municipal. A administração indireta é aquela composta por entidades com personalidade jurídica própria, que foram criadas para realizar atividades de Governo de forma descentralizada. Assinale a opção que apresenta somente exemplos de órgãos da administração indireta.",
       "alternatives": {
         "A": "Empresas públicas e autarquias",
@@ -803,11 +1123,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cb1f02f13dce2069"
     },
     {
       "question_number": 61,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A aplicação do conceito de qualidade total exige investimento em pessoal, para implementar novos conceitos, e tempo, para o treinamento. A esse respeito, analise o fragmento a seguir. “A qualidade total é uma _____ de gestão que pressupõe o envolvimento de todos os _____ de uma organização em uma constante busca por _____ e contínuo aperfeiçoamento.” Assinale a opção que completa corretamente as lacunas do fragmento acima.",
       "alternatives": {
         "A": "filosofia – participantes – satisfação",
@@ -820,11 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d5ce836299706693"
     },
     {
       "question_number": 62,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A aplicação dos conceitos de Qualidade Total (QT) envolve investimentos em pessoas e em tempo, por meio uso de muitas técnicas. Assinale a opção que indica as principais técnicas de QT.",
       "alternatives": {
         "A": "Treinamento, terceirização e downsizing.",
@@ -837,11 +1161,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1885e851d2417a8e"
     },
     {
       "question_number": 63,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Assinale a opção que indica os seis elementos fundamentais do processo de comunicação.",
       "alternatives": {
         "A": "Destinatário, transmissor, meio, receptor, destino e ruído.",
@@ -854,11 +1180,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "84c924fbe7e8da98"
     },
     {
       "question_number": 64,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A Administração Pública é entendida como o conjunto de estruturas estatais voltadas para o atendimento de necessidades da coletividade e de funções relacionadas à gestão da máquina estatal, além da área do conhecimento científico‐social. A esse respeito, analise o fragmento a seguir. “A Administração Pública também designa o conjunto de _____ desempenhadas para organizar a administração do Estado em todas as suas _____.” Assinale a opção que completa corretamente as lacunas do fragmento acima.",
       "alternatives": {
         "A": "funções – atividades",
@@ -871,11 +1199,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8a8d09bb6c12668e"
     },
     {
       "question_number": 65,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A entidade dotada de personalidade jurídica de direito público, sem fins lucrativos, criada em virtude de autorização legislativa, com autonomia administrativa, patrimônio próprio gerido pelos respectivos órgãos de direção, funcionamento custeado por recursos da União e de outras fontes, é denominada",
       "alternatives": {
         "A": "autarquia.",
@@ -888,11 +1218,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "58e45d93f071bb8e"
     },
     {
       "question_number": 66,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Direito Administrativo é o conjunto harmônico de princípios jurídicos que regem os órgãos, os agentes e as atividades públicas que tendem a realizar os fins desejados pelo Estado. Assinale a opção que indica as quatro fontes do Direito Administrativo.",
       "alternatives": {
         "A": "Doutrinas, lei, regras e normas.",
@@ -905,11 +1237,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f93fc2ffb99c268f"
     },
     {
       "question_number": 67,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A Constituição Federal, em seu artigo 37, estabelece cinco princípios básicos para a Administração Pública Direta e Indireta. A esse respeito, o princípio que exige que a atividade administrativa seja exercida com presteza, perfeição, rendimento e economicidade para a Administração é denominado",
       "alternatives": {
         "A": "Princípio da Legalidade",
@@ -922,11 +1256,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a304b707ba9d08e1"
     },
     {
       "question_number": 68,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Leia o parágrafo a seguir. Parágrafo único. Consideram‐se bens e serviços comuns, para os fins e efeitos deste artigo, aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado. Para aquisição de bens e serviços comuns, deverá ser adotada a licitação na modalidade de pregão, que será regida pela",
       "alternatives": {
         "A": "Lei nº 8.137/1990 e suas alterações.",
@@ -939,11 +1275,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8029619fc3b94ba8"
     },
     {
       "question_number": 69,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A curva ABC é um método de classificação de informações, para que se separem os itens de maior importância ou impacto, que são, normalmente, menos numerosos. No ambiente empresarial, o princípio de Pareto é também conhecido como a regra",
       "alternatives": {
         "A": "20/70.",
@@ -956,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "69be52205b6f1278"
     },
     {
       "question_number": 70,
-      "discipline": "Noções de Informática",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Tomar decisões é identificar e selecionar um curso de ação para lidar com um problema específico ou extrair vantagens em uma oportunidade. No ambiente de decisão, as condições de incerteza, risco ou certeza são chamadas de:",
       "alternatives": {
         "A": "definição da situação.",
@@ -973,7 +1313,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dce77368fae0c87b"
     }
-  ]
+  ],
+  "year": 2024,
+  "uf": "PE",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

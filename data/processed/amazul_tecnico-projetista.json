@@ -4,24 +4,1075 @@
   "concurso_title": "Concurso Público para a Amazônia Azul Tecnologias de Defesa S.A. - AMAZUL",
   "cargo_title": "Técnico Projetista",
   "exam_type": "Tipo 1",
-  "total_questions": 1,
+  "total_questions": 56,
   "questions": [
     {
       "question_number": 1,
-      "discipline": "Raciocínio Lógico",
-      "statement": "(D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "discipline": "Língua Portuguesa",
+      "statement": "Sobre o texto, é correto afirmar que",
       "alternatives": {
-        "A": "120",
-        "B": "119",
-        "C": "96",
-        "D": "86",
-        "E": "24 16 (NMCB02_06) Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes? (A) 0,9% (B) 1,8% (C) 9,0% (D) 18% (E) 50% 17 (NMCB02_07) Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então (A) cada um dos dados da distribuição é maior que 7. (B) nenhum dos dados da distribuição é maior que 7. (C) algum dos dados da distribuição é maior que 7. (D) algum dos dados da distribuição é menor que 7. (E) todos os dados da distribuição são iguais a 7. 18 (NMCB02_08) O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de (A) 15%. (B) 30%. (C) 36%. (D) 64%. (E) 70%. 19 (NMCB02_09) No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A? (A) 0 (B) 1 (C) 2 (D) 3 (E) 4 20 (NMCB02_10) Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é (A) 2. (B) 5. (C) 7. (D) 10. (E) 17."
+        "A": "há uma perspectiva infeliz da insônia, observada sobretudo pela perturbação que assola o processo de escrita.",
+        "B": "a solidão e o nada adquirem aspectos tanto positivos quanto negativos a partir do ponto que se observa em relação aos períodos de vigília.",
+        "C": "embora relatada de maneira positiva, a conclusão a que chega o narrador é a de que a insônia amplia a angústia do isolamento.",
+        "D": "a insônia contribui para a motivação literária, considerando a ausência de sons e interrupções do desenvolvimento criativo.",
+        "E": "o ponto de vista negativo da insônia se ampara na dependência de medicamentos estimuladores de sono."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7eb816aaae956ce7"
+    },
+    {
+      "question_number": 2,
+      "discipline": "Língua Portuguesa",
+      "statement": "A presença dos sinais de interrogação no primeiro parágrafo indica",
+      "alternatives": {
+        "A": "um questionamento direto ao leitor.",
+        "B": "uma ironia sobre o tema.",
+        "C": "o ritmo e a entoação do texto.",
+        "D": "uma proposição reflexiva.",
+        "E": "uma reação de surpresa."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cd0ee1c803627a90"
+    },
+    {
+      "question_number": 3,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que se observa uma linguagem em sentido figurado.",
+      "alternatives": {
+        "A": "Ler? Jamais. Escrever? Jamais.",
+        "B": "Quase nenhum ruído.",
+        "C": "Então fico sentada na sala, sentindo.",
+        "D": "Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar.",
+        "E": "Até que, como o sol subindo, a casa vai acordando."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d7edabdfe2e524cf"
+    },
+    {
+      "question_number": 4,
+      "discipline": "Língua Portuguesa",
+      "statement": "No trecho: “Sente-se uma coisa que só tem um nome: solidão”, a palavra em destaque apresenta referência",
+      "alternatives": {
+        "A": "catafórica.",
+        "B": "anafórica.",
+        "C": "dêitica.",
+        "D": "intertextual.",
+        "E": "reiterativa."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0c2316ef27be8e18"
+    },
+    {
+      "question_number": 5,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o elemento destacado funciona como complemento do verbo.",
+      "alternatives": {
+        "A": "Então fico sentada na sala.",
+        "B": "E sinto-me feliz por nada.",
+        "C": "E o telefone à mão.",
+        "D": "E nem posso pedir que me telefonem no meio da noite.",
+        "E": "O mar é meu."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ee2eb5bfe74280f4"
+    },
+    {
+      "question_number": 6,
+      "discipline": "Língua Portuguesa",
+      "statement": "Observe a frase: “Então fico sentada na sala, sentindo” e julgue as sentenças a seguir: I. Não há sujeito expresso na oração. II. Não há sujeito porque ficar é um verbo de estado; portanto, impessoal. III. O sujeito se faz saber pela desinência do verbo. IV. Observa-se um caso de sujeito simples, com um só núcleo. Estão corretas",
+      "alternatives": {
+        "A": "I e III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II e IV, apenas.",
+        "D": "I, II e III, apenas.",
+        "E": "III e IV, apenas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "88a2ce6929c1eac1"
+    },
+    {
+      "question_number": 7,
+      "discipline": "Língua Portuguesa",
+      "statement": "O texto explora o uso de orações coordenadas assindéticas, que imprimem um ritmo acelerado à narrativa. Assinale a opção em que não se observa este uso.",
+      "alternatives": {
+        "A": "Passa-se um tempo, olha-se o relógio, quem sabe são cinco horas. Nem quatro chegaram. Quem estará acordado agora?",
+        "B": "E nem posso pedir que me telefonem no meio da noite, pois posso estar dormindo e não perdoar.",
+        "C": "Quase nenhum ruído. Só o das ondas do mar batendo na praia.",
+        "D": "O mar é meu, o sol é meu, a terra é minha.",
+        "E": "Ler? Jamais. Escrever? Jamais."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "988e91b929fa37bf"
+    },
+    {
+      "question_number": 8,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção correta sobre a característica que classifica o texto como uma crônica.",
+      "alternatives": {
+        "A": "Privilegia-se o conteúdo narrado por meio de linguagem objetiva.",
+        "B": "Há ênfase na descrição do cenário e no detalhamento da narração.",
+        "C": "Destaca-se um ponto de vista, utilizando-se de argumentos comprováveis para defendê-lo.",
+        "D": "Nota-se uma apresentação de um tema social, a partir do apagamento de uma perspectiva individual sobre o assunto.",
+        "E": "Adota-se a subjetividade a fim de explorar um tema relacionado à condição humana."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9c6e78cb09679c2d"
+    },
+    {
+      "question_number": 9,
+      "discipline": "Língua Portuguesa",
+      "statement": "Assinale a opção em que o valor do elemento destacado está incorretamente explicado.",
+      "alternatives": {
+        "A": "Tomo café com gosto - modo.",
+        "B": "E nem posso pedir que me telefonem no meio da noite – tempo.",
+        "C": "E o telefone à mão – lugar.",
+        "D": "E o telefone mudo, sem aquele toque súbito que sobressalta – explicação.",
+        "E": "Tomar uma pílula para dormir – fim."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b5d9c3fd840b3af3"
+    },
+    {
+      "question_number": 10,
+      "discipline": "Língua Portuguesa",
+      "statement": "Os verbos no texto encontram-se majoritariamente no presente do indicativo, apontando para ações descritas com certo grau de verdade e concretude. No entanto, há usos que indicam outros sentidos, como",
+      "alternatives": {
+        "A": "o futuro do pretérito reforçando uma possibilidade, em “ninguém me perdoaria o vício”.",
+        "B": "o gerúndio indicando dúvida, em “então fico sentada na sala, sentindo”.",
+        "C": "o infinitivo ressaltando a ação acabada, em “de repente despertar no meio da noite e ter essa coisa rara: solidão”.",
+        "D": "o pretérito perfeito marcando um passado contínuo, em “nem quatro chegaram”.",
+        "E": "o futuro do presente assinalando simultaneidade, em “quem estará acordado agora?”."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "66f0f4605b1c0673"
+    },
+    {
+      "question_number": 11,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "Um número natural N deixa resto 1 na divisão por 2 se, e somente se, deixa resto",
+      "alternatives": {
+        "A": "0 ou 2, na divisão por 4.",
+        "B": "1 ou 3, na divisão por 4.",
+        "C": "2 ou 5, na divisão por 6.",
+        "D": "1 ou 3 na divisão por 6.",
+        "E": "2 ou 5, na divisão por 7."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "16d4d8ff6000eebe"
+    },
+    {
+      "question_number": 12,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "Em março de 2025, o tempo médio de atendimento em um posto de serviços era de 2h 45min. Em abril, o tempo médio de atendimento foi reduzido em 30%. O tempo médio de atendimento em abril foi de",
+      "alternatives": {
+        "A": "1h 55min 30s.",
+        "B": "1h 50min 30s.",
+        "C": "49min 30s.",
+        "D": "2h 15min.",
+        "E": "1h 15min."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7308108354810499"
+    },
+    {
+      "question_number": 13,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "Considere as seguintes premissas: • Se apenas um entre João e Maria mora no bairro do Butantã, então o elefante é azul. • Se João não mora do bairro do Butantã, então a galinha é verde. • Se Maria mora no bairro do Butantã, então o cavalo é amarelo. • O elefante não é azul. Logo,",
+      "alternatives": {
+        "A": "nem Maria, nem João, moram no bairro do Butantã.",
+        "B": "ou a galinha é amarela, ou o cavalo é verde.",
+        "C": "Maria e João moram no bairro do Butantã.",
+        "D": "os três animais não possuem a mesma cor.",
+        "E": "a galinha é verde ou o cavalo é amarelo."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "54366c1697eddf44"
+    },
+    {
+      "question_number": 15,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "1 (D) 4 9 (E) 20 15 (NMCB02_05) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é",
+      "alternatives": {
+        "A": "120",
+        "B": "119",
+        "C": "96",
+        "D": "86",
+        "E": "24"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "141db2af0721da2c"
+    },
+    {
+      "question_number": 16,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "Uma urna contém bolas idênticas, exceto pelas suas cores: algumas bolas são vermelhas e as restantes são azuis. Sabe-se que a probabilidade de uma bola retirada ao acaso da urna ser azul é igual a 10%. Uma bola foi retirada ao acaso da urna e devolvida. Em seguida, repetiu-se o procedimento. Qual é a probabilidade de as cores das bolas retiradas serem diferentes?",
+      "alternatives": {
+        "A": "0,9%",
+        "B": "1,8%",
+        "C": "9,0%",
+        "D": "18%",
+        "E": "50%"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f7fec86c9645c8b6"
+    },
+    {
+      "question_number": 17,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "Sabe-se que se cada um dos dados numéricos de uma distribuição é menor ou igual a M, então a média aritmética dos dados da distribuição é menor, ou igual, a M. Ou seja, se a média aritmética dos dados numéricos de uma distribuição é maior que 7, então",
+      "alternatives": {
+        "A": "cada um dos dados da distribuição é maior que 7.",
+        "B": "nenhum dos dados da distribuição é maior que 7.",
+        "C": "algum dos dados da distribuição é maior que 7.",
+        "D": "algum dos dados da distribuição é menor que 7.",
+        "E": "todos os dados da distribuição são iguais a 7."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7ea8961bea695910"
+    },
+    {
+      "question_number": 18,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "O gráfico apresenta a produção mensal de grãos de um país no ano de 2024. Naquele ano ocorreu um período de queda na produção, que durou 7 meses contados a partir do mês cuja produção foi máxima. Relativamente à produção mensal máxima alcançada em 2024, a queda da produção verificada ao final do período citado é mais próxima de",
+      "alternatives": {
+        "A": "15%.",
+        "B": "30%.",
+        "C": "36%.",
+        "D": "64%.",
+        "E": "70%."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q18.png",
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "315e44e10c053711"
+    },
+    {
+      "question_number": 19,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "No plano cartesiano xy, considere os seguintes pontos: A(9,3), B(12,7), C(4,4), D(14,5) e E(11,-1). Entre os pontos B, C, D e E, quantos são os que distam menos que 5 do ponto A?",
+      "alternatives": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "137e5a5f8a923732"
+    },
+    {
+      "question_number": 20,
+      "discipline": "Raciocínio Lógico-Matemático",
+      "statement": "Dois conjuntos A e B são tais que: A possui, no mínimo, 15 elementos e, no máximo, 27 elementos. B possui, no mínimo, 8 elementos e, no máximo, 10 elementos. Considere o conjunto 𝐴−𝐵= {𝑥/𝑥∈𝐴 𝑒 𝑥∉𝐵}. A quantidade mínima de elementos que o conjunto A – B pode ter é",
+      "alternatives": {
+        "A": "2.",
+        "B": "5.",
+        "C": "7.",
+        "D": "10.",
+        "E": "17."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a34d40fd3c4327df"
+    },
+    {
+      "question_number": 21,
+      "discipline": "Informática",
+      "statement": "Em um setor administrativo, uma impressora de rede, configurada para obter endereço IP automaticamente, deixa de funcionar repentinamente. Todos os computadores do setor continuam acessando a Internet normalmente, porém nenhum deles consegue enviar documentos para impressão – inclusive quando a tentativa é feita utilizando diretamente o endereço IP previamente configurado da impressora. Ao verificar o equipamento, constata-se que a impressora está ligada, conectada fisicamente à rede e sem falhas aparentes de hardware. Não há servidor de impressão intermediário, e a comunicação ocorre diretamente entre os computadores e a impressora na rede local. Nessa situação, o serviço de rede cuja indisponibilidade ou falha na concessão explica de forma direta a interrupção do funcionamento da impressora é o",
+      "alternatives": {
+        "A": "DHCP – Dynamic Host Configuration Protocol.",
+        "B": "DNS – Domain Name System.",
+        "C": "FTP – File Transfer Protocol.",
+        "D": "HTTP – Hypertext Transfer Protocol.",
+        "E": "NAT – Network Address Translation."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8a391bb399076c7d"
+    },
+    {
+      "question_number": 22,
+      "discipline": "Informática",
+      "statement": "Durante a navegação na Internet, por meio de navegadores, são utilizados identificadores textuais padronizados para localizar e acessar recursos disponibilizados em servidores, como páginas HTML, imagens e serviços Web. Esse identificador, que define onde o recurso está localizado e como pode ser acessado no contexto da Web, é denominado(a)",
+      "alternatives": {
+        "A": "mecanismo de busca empregado para localizar o recurso.",
+        "B": "navegador utilizado pelo usuário.",
+        "C": "protocolo de comunicação utilizado.",
+        "D": "serviço de hospedagem do recurso.",
+        "E": "URL (Uniform Resource Locator) associada ao recurso."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "87531a9702cd2e28"
+    },
+    {
+      "question_number": 23,
+      "discipline": "Informática",
+      "statement": "Durante a organização de arquivos em um computador com o sistema operacional Windows versão 11 BR, um usuário seleciona um arquivo, pressiona a combinação de teclas SHIFT+DELETE e confirma a ação solicitada pelo sistema. Em seguida, ele não encontra mais o arquivo no diretório onde estava e tenta entender o que ocorreu. Nessa situação, a ação executada pelo sistema foi",
+      "alternatives": {
+        "A": "bloquear o arquivo para edição.",
+        "B": "criar automaticamente uma cópia do arquivo.",
+        "C": "excluir o arquivo permanentemente.",
+        "D": "mover o arquivo para a lixeira do Windows.",
+        "E": "transportar o arquivo para a pasta temporária c:\\windows\\temp."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d1c25b240b053547"
+    },
+    {
+      "question_number": 24,
+      "discipline": "Informática",
+      "statement": "Durante uma rotina corporativa, um colaborador percebeu que um determinado aplicativo, anteriormente funcional, passou a não conseguir mais estabelecer conexão com servidores específicos externos, embora outros aplicativos ainda consigam acessar normalmente a Internet. Após checagens iniciais, constatou-se que não havia falhas físicas no dispositivo, que a conexão com a rede seguia ativa e que as configurações do aplicativo estavam corretas. Ao registrar um chamado, foi informado pela equipe de suporte que a interrupção ocorreu devido à aplicação de uma nova política de segurança da informação, voltada ao controle de acessos externos por software específico. Considerando o contexto apresentado e somente as alternativas a seguir apresentadas, indique qual mecanismo adotado pela equipe de suporte mantém compatibilidade com o contexto descrito:",
+      "alternatives": {
+        "A": "Adoção de criptografia para garantir a confidencialidade das conexões com a Internet.",
+        "B": "Ativação de filtro antispam para proteger o sistema contra mensagens suspeitas recebidas por e-mail.",
+        "C": "Atualização do antivírus para bloquear automaticamente softwares com acesso externo.",
+        "D": "Implementação de regras de firewall para restringir comunicações por endereço, porta ou aplicação.",
+        "E": "Realização de backup dos dados para prevenir perdas decorrentes de falhas no acesso à rede."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "da18c9424c560ea3"
+    },
+    {
+      "question_number": 25,
+      "discipline": "Informática",
+      "statement": "Um usuário de um software de edição de planilhas eletrônicas precisa inserir, em uma determinada planilha, um valor exatamente no ponto onde se cruzam a sua terceira linha e sua segunda coluna. Nesse tipo de aplicativo, essa posição corresponde a uma",
+      "alternatives": {
+        "A": "anotação.",
+        "B": "célula.",
+        "C": "intervalo.",
+        "D": "link.",
+        "E": "pasta de trabalho."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "51bcb7b380313ac4"
+    },
+    {
+      "question_number": 26,
+      "discipline": "Língua Inglesa",
+      "statement": "Based on the text, analyze the assertions below: I. Environmental crimes and disputes over land ownership have only recently become a problem. II. The three activities mentioned in the first paragraph are natural events. III. Startups and global teams are joining efforts to make protection technology more available. Choose the correct answer:",
+      "alternatives": {
+        "A": "Only I is correct.",
+        "B": "Only II is correct.",
+        "C": "Only III is correct.",
+        "D": "Only I and III are correct.",
+        "E": "All three assertions are correct."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b2d253092167d417"
+    },
+    {
+      "question_number": 27,
+      "discipline": "Língua Inglesa",
+      "statement": "In “When suspicious activity is detected” (2nd paragraph), the verb is in the same voice as in:",
+      "alternatives": {
+        "A": "Machines can help humans in forest protection.",
+        "B": "Modern drones were used to monitor deforestation.",
+        "C": "The agencies are trying to protect the environment.",
+        "D": "Technology is providing data to help assess damage.",
+        "E": "Space agencies have launched satellites to track fires."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7beb748446e033d2"
+    },
+    {
+      "question_number": 28,
+      "discipline": "Língua Inglesa",
+      "statement": "The genitive case in “Brazil’s AI systems monitor changes” (2nd paragraph) also occurs in:",
+      "alternatives": {
+        "A": "The team’s finished their project ahead of schedule.",
+        "B": "The surveillance project’s moving along nicely.",
+        "C": "The community’s been helping the authorities.",
+        "D": "The group’s been working on this for months.",
+        "E": "The partners’ collaboration is seen essential."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0244500b08982763"
+    },
+    {
+      "question_number": 29,
+      "discipline": "Língua Inglesa",
+      "statement": "In “before they happen” (3rd paragraph), the pronoun is replacing:",
+      "alternatives": {
+        "A": "crimes.",
+        "B": "patrols.",
+        "C": "rangers.",
+        "D": "chances.",
+        "E": "patterns."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "27a17ca475e10a26"
+    },
+    {
+      "question_number": 30,
+      "discipline": "Língua Inglesa",
+      "statement": "“Like” in “like seasonal plant shifts” (4th paragraph) indicates a(n):",
+      "alternatives": {
+        "A": "preference.",
+        "B": "estimate.",
+        "C": "approval.",
+        "D": "addition.",
+        "E": "example."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "33f0b3e2b8898c4e"
+    },
+    {
+      "question_number": 31,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Um projetista foi solicitado para elaborar o desenho técnico de um eixo em escala 10:1. Para atender ao requisito, o projetista deve elaborar o desenho",
+      "alternatives": {
+        "A": "e as cotas dez vezes menores que a peça original.",
+        "B": "e as cotas dez vezes maiores que a peça original.",
+        "C": "dez vezes menor que a peça original e as cotas representando as dimensões reais da peça.",
+        "D": "dez vezes maior que a peça original e as cotas representando as dimensões reais da peça.",
+        "E": "nas dimensões originais da peça e as cotas multiplicadas por dez."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "40f7b8b537b3d41b"
+    },
+    {
+      "question_number": 32,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O conhecimento pleno das ferramentas de modelagem em softwares 3D é fundamental para elaboração de projetos mecânicos. Considere o esboço a seguir: A ferramenta que deve ser utilizada para gerar o sólido 3D do eixo é",
+      "alternatives": {
+        "A": "a extrusão.",
+        "B": "o corte por revolução.",
+        "C": "o ressalto / base revolucionado.",
+        "D": "o ressalto / base varrido.",
+        "E": "a inclinação."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q32.png",
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "15a58c481d6a656f"
+    },
+    {
+      "question_number": 33,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Peças que trabalham com guias de deslizamento com encaixe em “rabo de andorinha” requerem tolerâncias geométricas específicas para garantir seu pleno funcionamento. Considere o desenho a seguir. Quanto às tolerâncias geométricas indicadas, analise as afirmativas a seguir: I. planicidade de 0,02 mm e paralelismo de 0,05 mm em todo o contorno da peça. II. paralelismo de 0,05 mm em relação a",
+      "alternatives": {
+        "A": "III. planicidade de 0,05 mm em relação a A. IV. planicidade de 0,02 mm na região do rabo de andorinha. V. paralelismo de 0,02 mm na região do rabo de andorinha. Está correto o que se afirma em (A) III apenas.",
+        "B": "I apenas.",
+        "C": "II e IV apenas.",
+        "D": "II e III apenas.",
+        "E": "III e V apenas."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q33.png",
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a9c68a9b3758a4c5"
+    },
+    {
+      "question_number": 34,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "As tolerâncias dimensionais são utilizadas para definir os desvios permitidos na fabricação de uma peça em relação à dimensão nominal. A esses desvios, dá-se o nome de afastamentos. Avalie o desenho a seguir. Os afastamentos superior e inferior para dimensão de 30 mm são:",
+      "alternatives": {
+        "A": "afastamento superior = 0,03 mm e afastamento inferior = 0,05 mm.",
+        "B": "afastamento superior = 0,05 mm e afastamento inferior = 0,03 mm.",
+        "C": "afastamento superior = - 0,02 mm e afastamento inferior = 0,01 mm.",
+        "D": "afastamento superior = 0,01 mm e afastamento inferior = 0,02 mm.",
+        "E": "afastamento superior = 0,02 mm e afastamento inferior = - 0,10 mm."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q34.png",
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "065f9abc761ec935"
+    },
+    {
+      "question_number": 35,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Ao desmontar uma bomba centrífuga, o setor de manutenção identificou a necessidade de substituição dos parafusos de fixação da tampa do rotor. O técnico de manutenção informou ao setor de projeto que o parafuso possui rosca com perfil triangular e diâmetro externo da rosca igual a 19,05 mm. Com base nas dimensões obtidas o parafuso é",
+      "alternatives": {
+        "A": "métrico, com diâmetro original de 19 mm.",
+        "B": "métrico, com diâmetro original de 19,5 mm.",
+        "C": "em polegadas, com dimensão de 19 mm.",
+        "D": "em polegadas, com dimensão de ¾”.",
+        "E": "métrico com diâmetro de 20 mm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d4c0e22bc5d41377"
+    },
+    {
+      "question_number": 36,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "A velocidade de uma esteira transportadora de resíduos plásticos precisa ser modificada para atender a demanda do moedor. Para reaproveitar polias já disponíveis na fábrica, duas polias de maiores dimensões foram encontradas. No entanto, é necessário conhecer a velocidade real da esteira para adequação da linha de produção. Considere as informações a seguir, bem como o desenho esquemático: A velocidade do motor é de 1600 rpm com diâmetro da polia A de 75 mm. • A polia B possui diâmetro de 150 mm. • A polia C possui diâmetro de 40 mm. • A polia D possui diâmetro de 130 mm. Com base nas informações descritas, a velocidade final da esteira (Polia D) é igual a",
+      "alternatives": {
+        "A": "800 rpm.",
+        "B": "3200 rpm.",
+        "C": "492 rpm.",
+        "D": "246 rpm.",
+        "E": "123 rpm."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q36.png",
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "40eee0855f79ca6d"
+    },
+    {
+      "question_number": 37,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Em um projeto de bombas hidráulicas em softwares 3D (SolidWorks), o projetista utiliza a mesma carcaça, variando apenas o modelo dos eixos de transmissão de potência. Para tal, a melhor alternativa para otimizar o projeto é elaborar, em um único arquivo, a montagem de todos os produtos similares. Nesse contexto, a ferramenta de modelagem em software 3D que permite criar e reunir em um único arquivo de montagem todos os modelos de bombas hidráulicas necessárias chama-se",
+      "alternatives": {
+        "A": "espelhamento.",
+        "B": "padrão linear.",
+        "C": "configuração de montagem.",
+        "D": "editar componente de montagem.",
+        "E": "inserir componente."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9cb5e2f9e5038937"
+    },
+    {
+      "question_number": 38,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O correto dimensionamento de bombas centrífugas é fundamental para prolongar a vida útil da bomba, especialmente no que diz respeito ao rotor. Com base nas características de funcionamento de uma bomba centrífuga, é correto afirmar que a cavitação",
+      "alternatives": {
+        "A": "ocorre durante a sucção do fluido, quando a pressão é reduzida a valores inferiores à pressão de vapor, provocando a formação de bolhas de vapor que implodem e causam erosão localizada nas superfícies do rotor.",
+        "B": "é o desgaste progressivo do eixo e dos mancais do rotor devido ao aumento de temperatura e atrito durante longos períodos de operação.",
+        "C": "é o processo de erosão das pás do rotor causado pela presença de partículas sólidas abrasivas no fluido bombeado.",
+        "D": "é o fenômeno de vibração e ruído decorrente do aumento das folgas nos mancais e acoplamentos da bomba.",
+        "E": "é um fenômeno inexistente em bombas centrífugas, ocorrendo apenas em bombas de deslocamento positivo e sistemas de baixa pressão."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "857d829711d0d155"
+    },
+    {
+      "question_number": 39,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "As hachuras são utilizadas no desenho técnico em vistas em corte e podem representar o material da peça. Avalie o desenho a seguir: Os materiais correspondentes de cada peça, respectivamente, são",
+      "alternatives": {
+        "A": "ferro fundido e alumínio.",
+        "B": "ferro fundido e aço.",
+        "C": "alumínio e ferro fundido.",
+        "D": "alumínio e aço.",
+        "E": "polímero e aço"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q39.png",
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "973fdcaee2844924"
+    },
+    {
+      "question_number": 40,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O setor de manutenção identificou a necessidade de substituição da tubulação em campo. O ambiente possui ventos fortes e apresenta dificuldade de manutenção da limpeza superficial. O técnico responsável solicitou ao projetista qual a melhor técnica que deveria ser utilizada para a soldagem da nova tubulação. Nesse contexto, selecione o método de soldagem que atende à descrição do problema.",
+      "alternatives": {
+        "A": "o processo de soldagem SMAW, pois utiliza de proteção gasosa, estabilizando o arco elétrico e evitando a presença de impurezas presentes no ambiente.",
+        "B": "o processo de soldagem MIG/MAG, pois a alta velocidade de soldagem aliada aos gases de proteção, auxiliam na qualidade do cordão de solda.",
+        "C": "o processo MIG/MAG, pois permite a soldagem contínua por mais tempo e apresenta facilidade de transporte do equipamento para operações de campo.",
+        "D": "o processo SMAW, pois utiliza de eletrodos consumíveis com revestimentos que protegem o arco elétrico, não querer o uso de gases de proteção externos, sendo adequado para trabalho em campo.",
+        "E": "o processo MIG/MAG, pois não necessita de gases de proteção, sendo um processo mais limpo para trabalhos em campo."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5189757c3c74f9ef"
+    },
+    {
+      "question_number": 41,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O projeto de componentes de eixos e furos requer a correta especificação dos ajustes para que a montagem ocorra da forma desejada, podendo ser por interferência ou com folga. Considere um eixo com diâmetro nominal de 26 mm e uma bucha com diâmetro nominal de 26 mm. Sabendo que os ajustes solicitados são h7 (0 / - 0,021 mm) e H7 (+ 0,021 / 0 mm). As dimensões máximas e mínimas permitidas para o eixo e furo são:",
+      "alternatives": {
+        "A": "eixo: máxima: 26,000 mm e mínima: 25,979 mm / furo: máxima: 26,000 mm e mínima: 25,979 mm.",
+        "B": "furo: máxima: 26,000 mm e mínima: 25,979 mm / eixo: máxima: 26,021 mm e mínima: 26,000 mm.",
+        "C": "eixo: máxima: 26,000 mm e mínima: 25,979 mm / furo: máxima: 26,021 mm e mínima: 26,000 mm.",
+        "D": "furo: máxima: 25,079 mm e mínima: 26,000 mm / eixo: máxima: 26,000 mm e mínima: 26,021 mm.",
+        "E": "eixo: máxima: 26,000 mm e mínima: 25,790 mm / furo: máxima: 26,210 mm e mínima: 26,000 mm."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "93e5b012f2dc121e"
+    },
+    {
+      "question_number": 42,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O projetista iniciou a elaboração de um esboço de uma peça de alta complexidade. Para otimizar tempo, decidiu avaliar com cautela a estratégia que adotaria para modelar a peça em um software 3D. Após avaliação, percebeu que a peça era simétrica e, portanto, decidiu desenhar apenas a metade da geometria. Para obter de forma rápida a outra metade da peça, o recurso que o projetista deve utilizar é",
+      "alternatives": {
+        "A": "o trim.",
+        "B": "o espelhamento.",
+        "C": "o offset da superfície.",
+        "D": "estender.",
+        "E": "a dimensão inteligente."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "18287061b5114a62"
+    },
+    {
+      "question_number": 43,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Um projetista foi requisitado a elaborar o desenho de um eixo usinado e especificar de forma adequada os parâmetros de rugosidade necessários. Para tal, consultou a norma para relembrar a definição dos parâmetros de rugosidade e selecionar os adequados para a situação. Com relação aos parâmetros de rugosidade, avalie as afirmativas a seguir: I. Ra é a média aritmética dos valores absolutos de desvio em relação a linha média. II. Rz representa média da distância entre os picos mais altos e os vales mais profundos. III. Rp é a distância a partir da linha média do pico mais alto contido no comprimento de medição. IV. Rt representa média da distância entre os picos mais altos e os vales mais profundos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I apenas.",
+        "B": "II apenas.",
+        "C": "II e III apenas.",
+        "D": "I, II e III apenas.",
+        "E": "I, III e IV apenas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "96e8d09dcb37935f"
+    },
+    {
+      "question_number": 44,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Um projetista mecânico foi encarregado de avaliar a conformidade de um componente mecânico com o projeto enviado pelo setor de desenvolvimento. Quando iniciou a análise, teve dificuldades para encontrar no desenho as furações que visualizou na peça em virtude dos inúmeros tipos de linhas presentes no desenho e solicitou ajuda aos colegas de projeto. Com base na descrição acima, a representação em desenhos técnicos de elementos não visíveis é realizada pela utilização de linha",
+      "alternatives": {
+        "A": "contínua larga.",
+        "B": "traço e ponto.",
+        "C": "contínua estreita.",
+        "D": "em zigue e zague.",
+        "E": "tracejada."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0b9fc2a3deb9c35b"
+    },
+    {
+      "question_number": 45,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Uma planta industrial necessita realizar a seleção de uma bomba para transporte de um fluido limpo. Para tal, é necessário que a vazão seja praticamente constante, embora variações de pressão possam ocorrer ao longo da linha. De acordo com os tipos de bombas e suas características e considerando a necessidade de vazão estável e variação de pressão ao longo da linha, é adequado para a situação usar-se bombas",
+      "alternatives": {
+        "A": "de pistão.",
+        "B": "de engrenagem.",
+        "C": "axiais.",
+        "D": "peristálticas",
+        "E": "centrífugas mistas."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "822bb3deeb458c1d"
+    },
+    {
+      "question_number": 46,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O encaixe entre duas peças, como o rolamento, engrenagem ou uma polia em um eixo, pode ser feita por três tipos de ajusta: folga, interferência ou incerto. É incorreto afirmar que",
+      "alternatives": {
+        "A": "para que haja folga, o afastamento superior do eixo deve ser menor que o afastamento inferior do furo.",
+        "B": "a folga máxima é sempre a diferença entre a dimensão máxima do furo e a dimensão mínima do eixo, e é calculada subtraindo- se o afastamento superior do furo do afastamento superior do eixo.",
+        "C": "para que haja interferência, o afastamento superior do furo deve ser menor que o afastamento inferior do eixo.",
+        "D": "a interferência mínima pode ser obtida pela diferença entre o afastamento inferior do eixo e o afastamento superior do furo.",
+        "E": "a folga máxima pode ser calculada subtraindo-se o afastamento inferior do eixo do afastamento superior do furo."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2a78c3b9431fa444"
+    },
+    {
+      "question_number": 47,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Em virtude das limitações e imperfeições inerentes a máquinas e instrumentos de medição, a produção industrial é incapaz de garantir a exatidão absoluta das peças. As dimensões nominais são as medidas ideais do desenho, mas as dimensões reais sempre se afastam dessa cota, exigindo um controle dimensional por meio de um sistema de ajustes e tolerância. Considere um acoplamento, cujo diâmetro nominal de um é de 70 mm. O furo tem o afastamento superior igual a 30 µm e o afastamento inferior igual a zero. O eixo tem o afastamento superior igual a -10 µm e o afastamento inferior igual a -29 µm. Com base nestas informações, é incorreto afirmar que",
+      "alternatives": {
+        "A": "O acoplamento possui um sistema furo-base.",
+        "B": "A folga é o tipo de ajuste do acoplamento.",
+        "C": "A folga máxima é de 10 µm.",
+        "D": "O furo possui uma tolerância de 30 µm e o eixo, de 19 µm.",
+        "E": "O diâmetro máximo do eixo é 69,99 mm."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "169f7b81b2ff0e15"
+    },
+    {
+      "question_number": 50,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Um projetista cria um flange circular no SolidWorks com oito furos igualmente espaçados ao redor do eixo central. Ele gera apenas um furo com o recurso Corte Extrudado e utiliza o comando Padrão Circular (Circular Pattern) para replicar a geometria. Posteriormente, decide alterar o diâmetro do flange, mantendo o número de furos e o espaçamento angular. Após essa modificação, o comportamento correto do modelo é",
+      "alternatives": {
+        "A": "os furos permanecem igualmente espaçados, mantendo a distância radial proporcional ao novo diâmetro.",
+        "B": "os furos se deslocam para fora da peça, pois o padrão circular não se ajusta automaticamente ao raio alterado.",
+        "C": "o padrão se suprime automaticamente, exigindo recriação manual dos furos.",
+        "D": "apenas o primeiro furo acompanha a alteração do diâmetro, permanecendo os demais fixos.",
+        "E": "os furos se sobrepõem no centro, pois o eixo de referência é redefinido pela extrusão."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d6321086a7f34b96"
+    },
+    {
+      "question_number": 51,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "A norma ABNT NBR 8404:1984 estabelece os símbolos gráficos e as indicações utilizadas em desenhos técnicos. Essa simbologia é uma linguagem universal entre o projetista e o fabricante. Com base nessa norma, relacione os símbolos apresentados e suas descrições. Assinale a opção que traz a associação correta entre as duas colunas.",
+      "alternatives": {
+        "A": "I - B ; II - C; III - D; IV – A.",
+        "B": "I - A ; II - B; III - D; IV –",
+        "C": "(C) I - A ; II - D; III - B; IV – C.",
+        "D": "I - D ; II - A; III - B; IV – C.",
+        "E": "I - C ; II - D; III - A; IV – B."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q51.png",
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d765d4593cea1ad2"
+    },
+    {
+      "question_number": 52,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O diagrama a seguir apresenta um modelo sistemático para o processo de design e desenvolvimento de produtos, partindo das necessidades de mercado até a especificação final. Fonte: Adaptado de ASHBY, M. Seleção de Materiais no Projeto Mecânico. 2. ed. Rio de Janeiro: GEN LTC, 2018. Considerando o modelo de processo de design ilustrado, avalie as assertivas a seguir e a relação proposta entre elas. I. Neste modelo, a otimização de custo e a seleção final de materiais são atividades exclusivas da fase de \"Detalhe\", indicando que as decisões tomadas nas fases de \"Conceito\" e \"Desenvolvimento de esboços\" têm baixo impacto sobre os custos finais do produto. PORQUE II. O processo é estruturado de forma estritamente linear e sequencial, onde a Especificação do produto representa uma saída terminal, e a seta \"Iterar\" indica apenas um retorno ao início da fase de Conceito para o desenvolvimento de um produto inteiramente novo. A respeito dessas assertivas, assinale a opção correta.",
+      "alternatives": {
+        "A": "As assertivas I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+        "B": "As assertivas I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+        "C": "A assertiva I é uma proposição verdadeira, e a II é uma proposição falsa.",
+        "D": "A assertiva I é uma proposição falsa, e a II é uma proposição verdadeira",
+        "E": "As assertivas I e II são proposições falsas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q52.png",
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dd22a84ae429d3c9"
+    },
+    {
+      "question_number": 53,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "A norma ABNT NBR 8190 - Simbologia de Instrumentação, define padrões para símbolos gráficos e identificação funcional de instrumentos e sistemas de instrumentação usados em medições e controle industrial. Com base nessa norma, relacione os símbolos apresentados e suas descrições.",
+      "alternatives": {
+        "A": "I - C; II- A , III - B, IV – D.",
+        "B": "I - B; II- C , III - A, IV – D.",
+        "C": "I - C; II- B , III - A, IV –",
+        "D": "(D) I - A; II- C , III - B, IV – D.",
+        "E": "I - C; II- B , III - D, IV – A."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q53.png",
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5d66aa744ac9bb39"
+    },
+    {
+      "question_number": 54,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O Office 365 reúne vários aplicativos utilizados em diferentes tarefas, como Word, PowerPoint, OneNote, Outlook e também o Excel. A versão mais recente do Excel é o Microsoft 365, que recebe atualizações constantes, e as versões com licença vitalícia mais recentes são o Office 2024 e o Office 2021. Considere a planilha a seguir: A célula C1 contém a seguinte fórmula: =$A$1+B1. Marque a opção que apresenta o valor correto que aparecerá na célula C3 após copiar o conteúdo da célula C1 para ela.",
+      "alternatives": {
+        "A": "32",
+        "B": "22",
+        "C": "13",
+        "D": "37",
+        "E": "42"
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/amazul_tecnico-projetista_q54.png",
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e777c02380fe1a61"
+    },
+    {
+      "question_number": 55,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Um projetista mecânico está preparando uma apresentação em PowerPoint para apresentar as especificações técnicas de um equipamento. Durante a montagem dos slides, ele precisa inserir hiperlinks que direcionem o público para páginas da web contendo normas técnicas, além de organizar a apresentação de forma que os links funcionem corretamente durante o modo Apresentação de Slides. Analise as afirmações a seguir, e assinale V para verdadeira (V) ou falsa (F). ( ) Para inserir um hiperlink em um texto, o projetista pode selecioná-lo, clicar com o botão direito do mouse e escolher a opção “Hiperlink”, acessível também pela guia Inserir. ( ) Hiperlinks adicionados a elementos do slide só funcionam se o arquivo estiver no modo Referências, pois é esse modo que ativa a navegação por links durante a apresentação. ( ) Durante o modo Apresentação de Slides, clicar em um texto ou objeto que contenha um hiperlink abre automaticamente o endereço associado, permitindo ao projetista acessar páginas externas durante a apresentação. Assinale a opção que indica a sequência correta de preenchimento, de cima para baixo.",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "F – F –V.",
+        "C": "V – F – V.",
+        "D": "F – V – V",
+        "E": "V – V – F."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b0cc1722ae0a2822"
+    },
+    {
+      "question_number": 56,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Amanda, uma técnica mecânica, está elaborando um relatório técnico no Microsoft Word sobre análise Preditiva de Falhas em componentes hidráulicos. O documento possui dezenas de páginas, múltiplos capítulos e subseções com especificações técnicas detalhadas. Analise as afirmações a seguir, que descrevem os procedimentos de formatação que Amanda deve realizar: I. Amanda formatou o primeiro subtítulo (3.1 Análise de Vibração) com fonte Arial 12, negrito, e um espaçamento de parágrafo de 6 pt Depois. Para aplicar essa exata formatação em todos os outros subtítulos (3.2, 3.3, 4.1, etc.), a ferramenta Pincel de Formatação é a mais eficiente, pois permite copiar e aplicar, simultaneamente, tanto as formatações de fonte (Arial, 12, negrito) quanto as de parágrafo (espaçamento 6 pt Depois). II. Para que todos os capítulos principais (ex: 1. INTRODUÇÃO, 2. METODOLOGIA), que usam o estilo Título 1, comecem obrigatoriamente no topo de uma nova página, a ação correta é modificar a formatação de parágrafo do próprio estilo Título 1 e, na aba Quebras de Linha e de Página, marcar a opção Quebra de página antes. III. Ao ajustar o alinhamento do texto para Justificado, aplicar espaçamento entre linhas de 1,5, alterar o estilo para itálico, mudar a cor da fonte para azul e definir tamanho 11, Amanda está usando a função de formatação de parágrafo. É correto o que se afirma em",
+      "alternatives": {
+        "A": "I, II e III.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "II, apenas."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2871da4cf3d7a1e6"
+    },
+    {
+      "question_number": 57,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Um usuário está explorando as funcionalidades do sistema operacional Microsoft Windows 11 (em português) para otimizar seu fluxo de trabalho e gerenciar o computador. Analise as afirmações a seguir sobre os recursos e a organização do Windows 11, e assinale (V) para verdadeira e (F) para falsa. ( ) A opção \"Ver o nome deste computador\" está localizada no Painel de Controle, dentro da categoria \"Sistema e Segurança\", na subcategoria \"Sistema\". ( ) O \"Gerenciador de Tarefas\" é a ferramenta correta para visualizar os processos em execução e permite forçar o encerramento de programas que travaram (que não estão respondendo). ( ) O recurso \"Histórico da Área de Transferência\" (acessado por Win+V) serve para recuperar arquivos que já foram excluídos permanentemente da Lixeira. ( ) O \"Painel de Controle\" é a ferramenta principal do Windows 11 para gerenciar arquivos armazenados em serviços de nuvem, como o OneDrive ou o Google Drive. Assinale a opção que apresenta a sequência correta de preenchimento dos parênteses, de cima para baixo.",
+      "alternatives": {
+        "A": "V – F – V – F.",
+        "B": "F – V – F – V.",
+        "C": "V – V – F – F.",
+        "D": "F – F – V – V.",
+        "E": "V – V – V – F."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4081fa28082c18e6"
+    },
+    {
+      "question_number": 58,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "No contexto do projeto assistido por computador (CAD), a modelagem tridimensional de objetos é frequentemente realizada utilizando diferentes tipos de abordagens. Duas das formas de modelagem tridimensional mais comuns são a modelagem de superfícies e a modelagem de sólidos Considerando as diferentes abordagens de modelagem 3D, avalie as afirmações a seguir e a relação proposta entre elas. I. Um técnico projetista precisa compreender as propriedades físicas e geométricas de um componente, como massa, volume, área de superfície e momento de inércia. Por essa razão, deve utilizar a modelagem de superfícies, que permite representar e calcular essas características com precisão. PORQUE II. A modelagem de sólidos é ideal para o design estético de formas complexas, como a carroceria de um carro, mas não define o volume nem a massa do objeto, pois é composta apenas por faces sem espessura. A respeito dessas afirmações, assinale a opção correta.",
+      "alternatives": {
+        "A": "As afirmações I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+        "B": "As afirmações I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+        "C": "A afirmação I é uma proposição verdadeira, e a II é uma proposição falsa.",
+        "D": "A afirmação I é uma proposição falsa, e a II é uma proposição verdadeira.",
+        "E": "As afirmações I e II são proposições falsas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bef0b17ac68e06b1"
+    },
+    {
+      "question_number": 60,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "O Microsoft Visio é um software voltado para a criação de diagramas profissionais em diversos contextos organizacionais. Assinale a opção que descreve corretamente uma funcionalidade típica do Visio.",
+      "alternatives": {
+        "A": "Modelagem paramétrica de peças tridimensionais, com detalhamento de tolerâncias geométricas e geração automática de vistas ortogonais",
+        "B": "Desenvolvimento de simulações estruturais por meio de análise por elementos finitos, incluindo cálculo de tensões, deformações e fatores de segurança.",
+        "C": "Renderização foto-realista de conjuntos mecânicos complexos, com aplicação de texturas, materiais e iluminação avançada para apresentação comercial do produto.",
+        "D": "Criação de códigos de programação CNC, com geração automatizada de trajetórias de usinagem e pós- processamento para máquinas de controle numérico computadorizado.",
+        "E": "Elaboração de fluxogramas de processos industriais, layouts 2D de células de manufatura, diagramas e mapas de fluxo de valor, integrando documentação visual ao planejamento técnico. Realização"
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ff288cdca834f98d"
     }
-  ]
+  ],
+  "year": 2024,
+  "uf": "BR",
+  "level": "Médio",
+  "question_type": "multiple_choice_5"
 }

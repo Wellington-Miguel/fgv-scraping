@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cbadb29cbc0f76af"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "61ed61c5c9e15a35"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c3bfeedf3197f437"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a5f7b6f9974a90a7"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dfe6bf60efccbfe0"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b0da3fbcd2595d71"
     },
     {
       "question_number": 7,
@@ -123,7 +135,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "79c6e4ff57e5dd17"
     },
     {
       "question_number": 8,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "e49949cb466c4b01"
     },
     {
       "question_number": 9,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "943a873c899c98da"
     },
     {
       "question_number": 10,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1e8d3631ad7ae03d"
     },
     {
       "question_number": 11,
@@ -191,7 +211,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dec8e3766eff770f"
     },
     {
       "question_number": 12,
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "de6f00da1a88ec84"
     },
     {
       "question_number": 13,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "Observe o ícone a seguir. O botão Mostrar/Ocultar, usualmente exibido na guia “Página inicial” no MS Word 2010 e identificado por meio desse ícone, permite que sejam mostrados(as) ou ocultados(as)",
       "alternatives": {
         "A": "as alterações efetuadas no texto.",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q13.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8d26df60e774a229"
     },
     {
       "question_number": 14,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "Assinale a opção que indica o componente do LibreOffice que é funcionalmente equivalente ao MS Excel do MS Office.",
       "alternatives": {
         "A": "Calc.",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1ed8bdca9c9f3e4c"
     },
     {
       "question_number": 15,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "Analise o trecho de uma planilha MS Excel 2010 mostrado a seguir. Sabe-se que uma fórmula foi digitada na célula “C1” e, em seguida, copiada, com Ctrl-C e Ctrl-V, para as células C2 e C3. Assinale a opção que apresenta a fórmula originalmente digitada em “C1” que, nessas condições, produziria os valores exibidos.",
       "alternatives": {
         "A": "=SE(A1>B1;A1-B1;A2)",
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q15.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8b8da1b166516beb"
     },
     {
       "question_number": 16,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "João criou uma planilha no MS Excel com os valores mostrados a seguir. Na mesma planilha, João habilitou a filtragem de células, por meio do ícone nas colunas “A”, “B” e “C”, e estabeleceu critérios de filtro para essas colunas. Na coluna “A”, João selecionou apenas os valores 20 e 30. Na coluna “B”, selecionou “(Selecionar tudo)” e, na coluna “C”, selecionou apenas o valor C. Assinale a opção que indica o número de linhas da planilha que ficaram ocultas após essas operações.",
       "alternatives": {
         "A": "Zero.",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q16.png",
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "bf778a7c833d792f"
     },
     {
       "question_number": 17,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "No LibreOffice Writer, o “Pincel de formatação” permite replicar as opções de formatação de um trecho para outro. Nesse contexto, considere as opções de formatação a seguir. I. Cor da fonte. II. Cor de realce. III. Fonte sublinhada. IV. Fonte em negrito. Assinale a opção que indica as opções de formatação que são replicadas quando o “Pincel de formatação” é acionado.",
       "alternatives": {
         "A": "I e II, somente.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b29228ab41ddbb4c"
     },
     {
       "question_number": 18,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "Maria tem recebido e-mails não solicitados, de origem desconhecida. Como esse tipo de e-mail é cada vez mais comum, alguns dos principais gerenciadores de e-mail oferecem mecanismos para minimizar os inconvenientes causados por essas mensagens. Assinale a opção que indica o termo pelo qual esse tipo de e-mail é referido.",
       "alternatives": {
         "A": "Antivírus.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6378404d61fec8f9"
     },
     {
       "question_number": 19,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "Sistemas operacionais, a exemplo do Windows, possuem funções e características que os distinguem de outros tipos de software. As opções a seguir apresentam funções típicas de um sistema operacional, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Gerenciar as permissões de acesso aos arquivos.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "63e8d8cad3656933"
     },
     {
       "question_number": 20,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "No Windows 7, a caixa de busca usualmente localizada no canto inferior esquerdo da tela, próximo ao botão “Iniciar”, pode ser utilizada para pesquisar",
       "alternatives": {
         "A": "Caixas de e-mails.",
@@ -344,11 +382,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ec30f28bd047a002"
     },
     {
       "question_number": 21,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "Analise as seguintes afirmativas no contexto do MS PowerPoint 2010. I. Arquivos com a extensão “.ppt” são abertos pelo PP diretamente no modo de edição. II. Arquivos com a extensão “.pps” são abertos pelo PP diretamente no modo de apresentação. III. Um arquivo recebe a extensão “.pps” quando passa a ser protegido por uma senha. IV. Um arquivo com a extensão “.ptt” recebe a extensão “.pps” quando é compactado. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -361,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9571477f3bdea871"
     },
     {
       "question_number": 22,
-      "discipline": "Noções de Informática",
+      "discipline": "Informática",
       "statement": "No contexto do MS Excel 2010, assinale a opção que apresenta uma fórmula que emprega incorretamente a função SOMA.",
       "alternatives": {
         "A": "=SOMA(A$100:$C200)",
@@ -378,11 +420,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dc869c519c4981bf"
     },
     {
       "question_number": 23,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A respeito do Plano Nacional de Saneamento Básico – PNSB assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "O PNSB conterá as diretrizes para o planejamento das ações de saneamento básico em áreas de especial interesse turístico.",
@@ -395,11 +439,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "980dc71747617108"
     },
     {
       "question_number": 24,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Com relação às competências atribuídas à Companhia Pernambucana de Saneamento – COMPESA, quanto ao abastecimento de água e coleta de esgotos, analise as afirmativas a seguir. I. A COMPESA é competente para a aplicação de penalidades administrativas por infração às normas legais de saneamento. II. A COMPESA é competente para a aplicação de sanções penais por infração às normas legais de saneamento. III. A COMPESA é competente para iniciar proposta legislativa relativa à disciplina jurídica de seus servidores. Está correto o que se afirma em:",
       "alternatives": {
         "A": "I, apenas.",
@@ -412,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0ff87f303e929493"
     },
     {
       "question_number": 25,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A respeito do fornecimento de água e coleta de esgoto pela Companhia Pernambucana de Saneamento – COMPESA, assinale a afirmativa correta.",
       "alternatives": {
         "A": "As redes distribuidoras de água e coletoras de esgotos serão assentadas em logradouros privados, devendo os proprietários ser previamente indenizados.",
@@ -429,11 +477,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "429291710bfdb988"
     },
     {
       "question_number": 26,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "As opções a seguir apresentam hipóteses em que é possível a interrupção do fornecimento de água, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Solicitação do cliente.",
@@ -446,11 +496,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a58cd4a6ee5162d2"
     },
     {
       "question_number": 27,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A respeito da política de pagamento pelo fornecimento de água e coleta de esgotos a cargo da COMPESA, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A água é um bem público, de propriedade de todos, sendo sua utilização gratuita, não podendo haver cobrança de tarifa pelo fornecimento de água.",
@@ -463,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3cf9ddc224dc3d25"
     },
     {
       "question_number": 28,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Aos usuários de serviços públicos de saneamento básico, na forma das normas legais, regulamentares e contratuais, são garantidos os direitos relacionados a seguir, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "Fornecimento gratuito quando a utilização de água for de até 10m3 (dez metros cúbicos).",
@@ -480,11 +534,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "23c7a9c3a9268182"
     },
     {
       "question_number": 29,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Nos termos da Lei nº 11.445/2007, as opções a seguir apresentam entidades que podem realizar a prestação regionalizada de serviços públicos de saneamento básico, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Sociedade de economia mista estadual.",
@@ -497,11 +553,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "01f96560cf8b8d2e"
     },
     {
       "question_number": 30,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Conforme previsão da Lei nº 11.445/2007, a respeito dos serviços públicos de saneamento básico, poderão ser levados em consideração, na estrutura de remuneração e cobrança, os seguintes fatores:",
       "alternatives": {
         "A": "escolaridade e renda do usuário.",
@@ -514,11 +572,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4a48bd229472dbc2"
     },
     {
       "question_number": 31,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir mostra o circuito de polarização de transistor de junção bipolar com a sua respectiva reta de carga. Sabendo que a tensão base-emissor do transistor é igual a 0,6 V, os valores dos resistores RB e RC para a polarização no ponto Q são, respectivamente,",
       "alternatives": {
         "A": "480 k e 3 k",
@@ -531,11 +591,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q31.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "83057d92097a79e6"
     },
     {
       "question_number": 32,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir mostra um circuito regulador de tensão, onde o amplificador operacional é ideal. O valor da tensão Vo na saída do circuito é",
       "alternatives": {
         "A": "8 V",
@@ -548,11 +610,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q32.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0ceb358215877a84"
     },
     {
       "question_number": 33,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir apresenta um circuito de uma célula de memória. X Y W A respeito dessa célula de memória, analise as afirmativas a seguir. I. Trata-se de uma célula de memória estática. II. A célula possibilita o acesso ao bit armazenado e ao seu complementar. III. Essa célula é ineficiente para o armazenamento do nível lógico “0”. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -565,11 +629,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q33.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "30e88a9a63420dd0"
     },
     {
       "question_number": 35,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir apresenta um circuito eletrônico utilizando diodos retificadores. A tensão da fonte é igual a VCC e as entradas A e B podem assumir VCC ou zero. Sabendo-se que a saída é V0 , esse circuito corresponde à seguinte porta lógica:",
       "alternatives": {
         "A": "OR",
@@ -582,11 +648,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q35.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b4bf71712c61dbaf"
     },
     {
       "question_number": 36,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir apresenta um circuito lógico digital. Considerando as entradas A, B e C, a saída em S é:",
       "alternatives": {
         "A": "̅ ̅",
@@ -599,11 +667,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q36.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e37ff86165a81201"
     },
     {
       "question_number": 37,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir apresenta um circuito passa faixa. Os elementos A, B, C e D são, respectivamente,",
       "alternatives": {
         "A": "capacitor, resistor, capacitor e resistor.",
@@ -616,11 +686,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q37.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fb5959a2cfe6dcc8"
     },
     {
       "question_number": 38,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Analise o diagrama LADDER apresentado a seguir. A respeito da figura acima, analise as afirmativas a seguir. I. A saída Y2 somente estará acionada se as entradas X1 e X2 estiverem acionadas. II. Se a entrada X1 não estiver acionada, a saída Y1 também não estará acionada. III. A saída Y2 não estará acionada se a entrada X3 estiver acionada. Está correto o que se afirma em:",
       "alternatives": {
         "A": "I, apenas.",
@@ -633,11 +705,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q38.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "150cc9bc503c0e10"
     },
     {
       "question_number": 39,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir apresenta um circuito ceifador série com fonte. Na entrada desse circuito é aplicado um sinal senoidal Vi de amplitude igual a 10 V. A amplitude do sinal de saída Vo é de",
       "alternatives": {
         "A": "4 V",
@@ -650,11 +724,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q39.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "98faebe6a64f08e8"
     },
     {
       "question_number": 40,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir apresenta um circuito grampeador. Na entrada desse circuito é aplicado um sinal de onda quadrada Vi de amplitude igual a V. A amplitude do sinal de saída Vo é de",
       "alternatives": {
         "A": "2 V",
@@ -667,11 +743,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q40.png",
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8ea771e8f72f3755"
     },
     {
       "question_number": 41,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um circuito série é composto por um diodo, um resistor de 400  e uma fonte CC. A fonte possui tensão igual a 4 V e polariza o diodo diretamente. A corrente de saturação e a tensão de corte são respectivamente iguais a",
       "alternatives": {
         "A": "10 mA e 1 V.",
@@ -684,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ac128f40ced901ca"
     },
     {
       "question_number": 42,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "O tipo de diodo em que a corrente é conduzida por portadores majoritários (elétrons), fazendo com que a comutação seja muito mais rápida do que em diodos pn, é o",
       "alternatives": {
         "A": "Optoacoplador.",
@@ -701,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "08ff6dd0bf4b31ca"
     },
     {
       "question_number": 43,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir apresenta um amplificador operacional básico. As tensões de entrada de VA e VB são iguais a respectivamente 4 e 4,03 mV. Sabendo-se que o ganho desse amplificador é igual a 50.000, a saída será de",
       "alternatives": {
         "A": "401,5 V.",
@@ -718,11 +800,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q43.png",
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2101daf297af816c"
     },
     {
       "question_number": 46,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Um sinal de relógio de 100 MHz cadencia um circuito digital síncrono. O maior atraso permitido para um circuito combinacional a esse sincronismo é de",
       "alternatives": {
         "A": "1 ns.",
@@ -735,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "91e26279e6a07f00"
     },
     {
       "question_number": 47,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere o circuito a seguir. Para as entradas A e B, respectivamente iguais a um e zero, a saída S será:",
       "alternatives": {
         "A": "indeterminada.",
@@ -752,11 +838,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q47.png",
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7919ec5eb253c4ed"
     },
     {
       "question_number": 48,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "Considere os números 0111 e 0101 em código Gray. O resultado do somatório desses números em número binário e em código Gray são, respectivamente, iguais a",
       "alternatives": {
         "A": "1011 e 1011.",
@@ -769,11 +857,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2d2a8385fa3ff41a"
     },
     {
       "question_number": 49,
-      "discipline": "Legislação Específica sobre Saneamento",
+      "discipline": "Engenharia e Arquitetura",
       "statement": "A figura a seguir apresenta um regulador de tensão com o diodo zener. A tensão de entrada VIN varia de 20 a 25 V, a corrente elétrica no resistor RL de 5 a 20 mA e as correntes máximas e mínimas no zener são iguais a 40 e 4 mA. Sabendo-se que a tensão VO é igual a 7 V, assinale a opção que indica o valor que R pode assumir.",
       "alternatives": {
         "A": "30 .",
@@ -786,7 +876,13 @@
       "annulled": true,
       "has_image": true,
       "image_path": "data/processed/images/compesa2016_tecnico-operacional-habilitacao-em-eletronica_q49.png",
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ea4509ff916a6e68"
     }
-  ]
+  ],
+  "year": 2016,
+  "uf": "PE",
+  "level": "Fundamental",
+  "question_type": "multiple_choice_5"
 }

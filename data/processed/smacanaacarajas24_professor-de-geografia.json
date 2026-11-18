@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Prefeitura Municipal de Canaã dos Carajás/PA",
   "cargo_title": "Professor de Geografia",
   "exam_type": "Tipo 1",
-  "total_questions": 47,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/smacanaacarajas24_professor-de-geografia_q1.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c753908ee81a150d"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d0fdc1c1163b7fb2"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "51bfd9393e3c678a"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ab6a541bca79a6fa"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "505cde34a81318f9"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4cb485cf02bdc24a"
     },
     {
       "question_number": 7,
@@ -123,7 +135,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9c243256e69ee9cf"
     },
     {
       "question_number": 8,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c291d4260cb2fd8b"
     },
     {
       "question_number": 9,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7b1c7fcfc5302245"
     },
     {
       "question_number": 10,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "890a47efe3d62090"
     },
     {
       "question_number": 11,
@@ -191,7 +211,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dfd4f66854084747"
     },
     {
       "question_number": 12,
@@ -208,7 +230,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4736f34632b8697e"
     },
     {
       "question_number": 13,
@@ -225,7 +249,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7ce333cd57058d30"
     },
     {
       "question_number": 14,
@@ -242,7 +268,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f0cf3d026193ff87"
     },
     {
       "question_number": 15,
@@ -259,7 +287,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1f908d64f3f93bd2"
     },
     {
       "question_number": 16,
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0fd338c281172389"
     },
     {
       "question_number": 17,
-      "discipline": "Práticas Educativas",
+      "discipline": "Informática",
       "statement": "Durante uma aula de Ciências, o professor Lucas decidiu explorar o tema das mudanças climáticas utilizando diferentes linguagens midiáticas. Ele apresentou um documentário que mostrava o impacto das mudanças climáticas em diversas regiões, seguido de gráficos interativos com dados atualizados sobre a emissão de CO₂ e um fórum virtual para que os alunos compartilhassem e debatessem suas reflexões sobre o assunto. Após essas atividades, Lucas propôs que cada aluno produzisse um podcast com a análise do papel da sociedade na preservação ambiental, incentivando-os a relacionar o tema ao seu cotidiano. Com base na pedagogia de Paulo Freire, assinale a opção que indica o objetivo principal da abordagem adotada pelo professor Lucas.",
       "alternatives": {
         "A": "Reforçar a memorização dos dados apresentados nos gráficos e no documentário.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1d6f982550599bff"
     },
     {
       "question_number": 18,
-      "discipline": "Práticas Educativas",
+      "discipline": "Informática",
       "statement": "Em uma escola de Ensino Médio, a professora Ana iniciou a implementação do uso de tablets para que os alunos desenvolvessem projetos interdisciplinares. Ela incentivou os estudantes a utilizarem aplicativos de criação multimídia e ferramentas de colaboração on-line para desenvolver suas próprias apresentações sobre temas de interesse, como sustentabilidade e inovação. Para garantir uma melhor compreensão, Ana promoveu a discussão sobre a importância da ética e da responsabilidade no uso da tecnologia, motivando os alunos a refletirem sobre como aplicá-las de maneira consciente em suas vidas pessoais e acadêmicas. Segundo os princípios de apropriação tecnológica propostos por José Manuel Moran, assinale a opção que apresenta o que a prática da professora Ana busca promover.",
       "alternatives": {
         "A": "A substituição completa dos métodos de ensino tradicionais por métodos digitais.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4ccef25901357a13"
     },
     {
       "question_number": 19,
-      "discipline": "Práticas Educativas",
+      "discipline": "Informática",
       "statement": "Na Escola Horizonte, a professora Marta decidiu integrar as tecnologias digitais em seu plano de aula para trabalhar temas de cidadania e participação social com seus alunos. Ela planejou que, ao longo do semestre, os estudantes usariam redes sociais e blogs para divulgar e discutir ações comunitárias, como campanhas de arrecadação de alimentos e atividades ambientais na escola. Marta explicou, também, a importância do uso responsável e ético dessas plataformas e avaliou o impacto social das tecnologias digitais. Sobre o caso apresentado, de acordo com a LDB, assinale a opção que indica o objetivo principal dessa prática na compreensão do uso das tecnologias e da cultura digital no cotidiano escolar.",
       "alternatives": {
         "A": "Facilitar o acesso a conteúdos digitais sem a necessidade de reflexão crítica.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "16e1a324cec5abba"
     },
     {
       "question_number": 20,
-      "discipline": "Práticas Educativas",
+      "discipline": "Informática",
       "statement": "Na Escola Educação, o professor Eduardo decidiu implementar um projeto em que os alunos, em grupos, iriam pesquisar problemas sociais em sua comunidade. Usando ferramentas tecnológicas, como plataformas de videoconferência e aplicativos de colaboração on-line, os alunos desenvolveriam um plano de ação para abordar esses problemas. Durante o processo, o professor facilitou os debates e orientou os grupos, incentivando que cada estudante participasse ativamente, expressasse suas opiniões e refletisse sobre as diferentes perspectivas apresentadas pelos colegas. De acordo com a legislação educacional atual, assinale a opção que indica o principal benefício dessa prática pedagógica.",
       "alternatives": {
         "A": "Reduz as interações presenciais entre professor e alunos.",
@@ -344,11 +382,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f198c53c3631c5b7"
     },
     {
       "question_number": 21,
-      "discipline": "Práticas Educativas",
+      "discipline": "Informática",
       "statement": "A professora Carla, inspirada nos estudos de Seymour Papert sobre o uso da tecnologia na educação, implementou um projeto de programação para que os alunos criassem jogos que abordassem temas de cidadania e sustentabilidade. Ela orientou os alunos a explorarem conceitos de lógica e criatividade, permitindo que trabalhassem de forma colaborativa para resolver problemas e desenvolver suas ideias. Durante o projeto, Carla incentivou os alunos a refletir sobre como as Tecnologias da Informação e Comunicação (TIC) podem ser usadas para influenciar positivamente a sociedade e como aprender de maneira independente. Segundo a perspectiva de Papert sobre o papel das TIC na educação, assinale a opção que apresenta o principal objetivo desse projeto.",
       "alternatives": {
         "A": "Levar os alunos a dominar o uso de ferramentas tecnológicas específicas.",
@@ -361,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a3de52f661399506"
     },
     {
       "question_number": 22,
-      "discipline": "Práticas Educativas",
+      "discipline": "Informática",
       "statement": "O professor João, inspirado nas ideias de Paulo Freire sobre letramento crítico, desenvolveu uma atividade em que os alunos analisaram e discutiram notícias veiculadas em redes sociais. Ele pediu que, em grupos, os estudantes se identificassem como fontes de informações, avaliassem a atualização dos conteúdos e refletissem sobre a forma como as notícias impactam sua visão sobre temas sociais. Além disso, João incentivou os alunos a criar postagens próprias, aplicando conceitos de comunicação responsável e consciência digital. De acordo com a visão de Freire sobre o letramento e a adaptação ao seu contexto digital, assinale a opção que apresenta o objetivo central dessa atividade.",
       "alternatives": {
         "A": "Focar, exclusivamente, na leitura de textos tradicionais para aprimorar a interpretação.",
@@ -378,11 +420,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ab1dc8350293547c"
+    },
+    {
+      "question_number": 23,
+      "discipline": "Pedagogia e Legislação Educacional",
+      "statement": "Considerando os princípios constitucionais da educação, analise os itens a seguir. I. Um aluno defende enfaticamente determinado ponto de vista e o professor contesta, apresentando-lhe uma visão oposta. II. Uma pessoa não consegue manter o filho em um estabelecimento privado de ensino e, então, o matricula em uma escola pública. III. Um grupo de alunos que vive em uma parte mais afastada da cidade demora o triplo de tempo dos colegas para chegar à escola. Algum princípio foi descumprido no que se descreve em",
+      "alternatives": {
+        "A": "III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a37e3a7f7a7bdcf4"
     },
     {
       "question_number": 24,
-      "discipline": "Legislação Educacional",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Sobre a organização dos níveis e modalidades de educação oferecidas pelo Estado, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A educação de jovens e adultos está fora do regime da educação escolar regular.",
@@ -395,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "12f01419cdfb7e93"
     },
     {
       "question_number": 25,
-      "discipline": "Legislação Educacional",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Assinale a opção que não corresponde às determinações constitucionais básicas para a educação e seu exercício.",
       "alternatives": {
         "A": "O Estado compartilha o dever de educar.",
@@ -412,11 +477,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "091a8d3c8aae3e00"
     },
     {
       "question_number": 26,
-      "discipline": "Legislação Educacional",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "A organização da educação nacional se dá em regime de colaboração entre os distintos entes federativos. Assinale a opção que indica, corretamente, uma incumbência dos municípios.",
       "alternatives": {
         "A": "Assumir o transporte escolar dos alunos e dos professores da rede estadual.",
@@ -429,11 +496,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c9b8da7447baab61"
     },
     {
       "question_number": 27,
-      "discipline": "Legislação Educacional",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Leia o fragmento a seguir. Define, ponto a ponto, as competências essenciais e obrigatórias que compõem o currículo da educação básica no Brasil, com o objetivo de garantir educação de qualidade, equitativa e uniforme em todo o país. Assinale a opção que indica o documento normativo que corresponde à descrição acima.",
       "alternatives": {
         "A": "Plano Nacional de Educação (PNE).",
@@ -446,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f447584427290e77"
     },
     {
       "question_number": 28,
-      "discipline": "Legislação Educacional",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "A Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996) distingue, no âmbito escolar, as responsabilidades do estabelecimento e aquelas que cabem ao docente. Assinale a opção que indica, corretamente, uma incumbência dos estabelecimentos de ensino.",
       "alternatives": {
         "A": "Estabelecer estratégias e zelar pelo processo de aprendizagem dos alunos.",
@@ -463,11 +534,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0bb692ca2cb912e5"
+    },
+    {
+      "question_number": 29,
+      "discipline": "Pedagogia e Legislação Educacional",
+      "statement": "Com relação ao direito à educação da pessoa com deficiência (PcD), analise as afirmativas a seguir. I. Oferecer a educação bilíngue, em Língua Portuguesa como primeira língua e Libras como segunda língua. II. Aprimorar os sistemas educacionais mediante a criação de espaços e de currículos diferenciados para o aluno. III. Adotar medidas que favoreçam o desenvolvimento do aluno, levando em conta seus interesses e talentos. É dever do poder público o que se afirma em",
+      "alternatives": {
+        "A": "III, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1c3f40b8ead8218b"
     },
     {
       "question_number": 30,
-      "discipline": "Legislação Educacional",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "De acordo com o Estatuto da Criança e do Adolescente (Lei nº 8.069/1990), o direito à educação inclui uma série de outros direitos assegurados ao aluno. Assinale a opção que indica, corretamente, um desses direitos.",
       "alternatives": {
         "A": "O direito de definir os conteúdos curriculares básicos da sua própria formação.",
@@ -480,11 +572,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f24bcd76e193e3b6"
     },
     {
       "question_number": 31,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Sobre o uso das ferramentas de Inteligência Artificial (IA) na educação, leia o trecho a seguir. De acordo com a diretora da Faculdade de Educação da Universidade de São Paulo, o uso das ferramentas de IA [inteligência artificial] nas aulas pode automatizar o ensino e desconsiderar os processos críticos e criativos envolvidos na aprendizagem, tanto do professor quanto do estudante. (...) Ela, contudo, reforça que todas as novas tecnologias podem ser úteis, desde que sejam usadas conscientemente e aliadas ao trabalho dos professores. (...) A docente destaca ainda que as diferenças socioeconômicas da população brasileira impedem que todos os estudantes tenham acesso igualitário às ferramentas digitais. SILVA, Júlio. “Uso de IA nas escolas automatiza aprendizagem e impede a liberdade criativa dos alunos.” Jornal da USP, 22 set. 2023. Acesso em: 22 out. 2024 (adaptado). Assinale a opção que melhor reflete o que é afirmado sobre o tema no trecho acima.",
       "alternatives": {
         "A": "O emprego da IA pode ajudar os professores a considerarem mais os processos criativos dos alunos.",
@@ -497,11 +591,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8a028d4b9a611afb"
+    },
+    {
+      "question_number": 32,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "Com relação à visão socioconstrutivista na educação, que foi desenvolvida por Lev Vigtotsky, analise as afirmativas a seguir. I. A linguagem é a principal ferramenta para a aquisição de conhecimentos por parte do indivíduo e molda o pensamento. II. O aprendizado é o processo de apropriação ativa do patrimônio de conhecimentos coletivos por cada indivíduo. III. O processo de construção dos conhecimentos se segue espontaneamente do avanço dos estágios de desenvolvimento biológico. A respeito do socioconstrutivismo, está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0672cf6681c24b4b"
     },
     {
       "question_number": 33,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Acerca do papel da escola nas sociedades modernas e democráticas, leia o trecho a seguir. A escola tem igualmente a função de coordenar, na vida mental de cada indivíduo, as diversas influências dos vários meios sociais em que ele vive. Um código prevalece na família; outro, nas ruas; um terceiro, nas oficinas ou nas lojas; um quarto, nos meios religiosos. Quando uma pessoa passa de um desses ambientes para outro, fica sujeita a impulsos contraditórios e acha-se em risco de desdobrar-se em personalidades com diversos padrões de julgar e sentir, conforme as várias ocasiões. Este risco impõe à escola uma função fortalecedora e integradora. DEWEY, John. Democracia e educação. São Paulo: Companhia Editora Nacional, 1979. Segundo o trecho acima, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A escola deve desenvolver no indivíduo um senso crítico bem definido para transitar pelas situações.",
@@ -514,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "bf2399d0aac1e90c"
     },
     {
       "question_number": 34,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "David Ausubel propôs a ideia de aprendizagem significativa para explicar de que modo os indivíduos adquirem novos conhecimentos. Segundo o autor, o aprendizado é significativo quando",
       "alternatives": {
         "A": "diz respeito às realidades socioculturais de origem do indivíduo sem contrariá-las.",
@@ -531,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "479c9c297b7fb219"
     },
     {
       "question_number": 35,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Leia o trecho a seguir. Ser letrado digital implica saber se comunicar em diferentes situações, com propósitos variados para fins pessoais ou profissionais. Uma situação seria a troca eletrônica de mensagens, via e-mail, SMS, WhatsApp. A busca de informações na internet também implica saber encontrar textos e compreendê-los, o que pressupõe selecionar as informações pertinentes e avaliar sua credibilidade. Centro de Alfabetização, Leitura e Escrita. “Letramento digital”. Disponível em: https://www.ceale.fae.ufmg.br/glossarioceale/ Assinale a opção que apresenta corretamente o conceito de letramento digital.",
       "alternatives": {
         "A": "Capacitação para as práticas sociais mediadas por tecnologias informatizadas.",
@@ -548,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8ae06be0e5b982c2"
     },
     {
       "question_number": 36,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "O sociólogo Pierre Bourdieu coloca em foco o modo como as instituições de ensino produzem em seus alunos o que ele chamou de habitus. Assinale a opção que descreve corretamente esse conceito.",
       "alternatives": {
         "A": "Internalização de valores e visões de mundo compatíveis com o ideário social da instituição.",
@@ -565,11 +686,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6459b4dc93213d23"
+    },
+    {
+      "question_number": 37,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A educação brasileira, desde a redemocratização, firmou como diretriz a construção de uma educação para a cidadania. Sobre esse tema, analise as afirmativas a seguir. I. O desenvolvimento de competências capazes de qualificar o indivíduo para a atuação profissional. II. A formação voltada para a capacidade de criação artística e usufruto das diversas manifestações culturais. III. O aprendizado sobre o sistema político, as formas de participação social e o debate de ideias. Faz parte de uma educação para a cidadania o que é indicado em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1720b893ba38137c"
     },
     {
       "question_number": 38,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Leia o trecho a seguir. Os atos de reconhecer e ser reconhecido são eminentemente humanos, por isso possuem um caráter político-pedagógico, constituindo nossa condição humana de criação e reconstrução de saberes em que o outro é parte imprescindível. Ao inserirmos a compaixão, a empatia e a dignidade humana como princípios da arte de educar, nos damos conta de que a exclusão dos outros significa a redução da capacidade de apreender de nós mesmos. HABOWSKI,",
       "alternatives": {
         "A": "C.; CONTE, E.; PUGENS, N. de",
@@ -582,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ef3138a039dbe759"
     },
     {
       "question_number": 39,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Considerando o conceito de didática a partir do pensamento de Paulo Freire, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A didática deve pensar maneiras de transmitir os conteúdos escolares de maneira eficaz, de modo a transformar os alunos em sujeitos. ( ) A didática deve buscar a neutralidade ideológica em seus métodos para garantir que os alunos não terão suas crenças modificadas. ( ) A didática precisa estar centrada na relação de diálogo entre professor e aluno, pensando criticamente os conteúdos tratados. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -599,11 +743,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9127a4a552379365"
     },
     {
       "question_number": 40,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Leia o trecho a seguir. O projeto pedagógico-curricular deve ser compreendido como instrumento e processo de organização da escola. Considera o que já está instituído, mas tem também uma característica de instituinte. LIBÂNEO, José Carlos. Organização e gestão da escola. São Paulo: Heccus Editora, 2015 (adaptado). O trecho acima distingue duas dimensões no projeto pedagógico. Assinale a opção que indica um exemplo da função instituinte.",
       "alternatives": {
         "A": "Aplicação da avaliação anual de desempenho e do rendimento dos alunos.",
@@ -616,11 +762,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0b41890f66fa19a6"
+    },
+    {
+      "question_number": 41,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "O Plano Nacional de Resíduos Sólidos (Planares), instituído por meio do Decreto nº 11.043/2022, é um importante instrumento da Política Nacional de Resíduos Sólidos, pois apresenta um caminho para se alcançar os objetivos e materializar a Política Nacional de Resíduos Sólidos. Disponível em: https://www.gov.br/mma/pt-br/assuntos/qualidade-ambiental-e- meio-ambiente-urbano/. Acesso: 20 out. 2024. Com relação às diretrizes e metas para materialização dos objetivos dessa política, analise as afirmativas a seguir. I. Alinhamento com as principais tendências internacionais e macroeconômicas. II. Intensificação dos processos de recuperação de resíduos para 50% do lixo gerado no país, em 20 anos. III. Adaptação e modernização de todos os lixões e aterros controlados. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3ac4f943c9e551e4"
+    },
+    {
+      "question_number": 42,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "Leia o trecho a seguir. Ao longo do tempo geológico a Terra tem passado por sucessivas mudanças climáticas, mas desde o término da última glaciação, entre 10 e 15 mil anos passados, a temperatura do planeta apresentou certa estabilidade. TAVARES,",
+      "alternatives": {
+        "A": "C. Mudanças Climáticas. VITTE, A. C.; GUERRA, A. J. T. (orgs.). Reflexões sobre a Geografia Física no Brasil. RJ: Bertrand Brasil, 2024. Sobre esse tema, avalie as afirmativas a seguir. I. Durante o século XX, as temperaturas cresceram em torno de 0,6°C, sem apresentar elevação uniforme em todas as zonas e regiões do planeta. II. No século XX, o aquecimento do hemisfério norte ocorreu em duas etapas, por conta da maior influência da maritimidade. III. No hemisfério sul, sob a influência da continentalidade, os valores térmicos subiram continuamente. Está correto o que se afirma em (A) I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "A",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "fd235fdf5a859281"
     },
     {
       "question_number": 43,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Entre as grandes questões e debates registrados na segunda metade do século XX, certamente pode-se constar a que envolve a relação (ou contradição) entre desenvolvimento econômico e meio ambiente. Disponível em: https://revista.fct.unesp.br/index.php/cpg/article/download/3538/4453/0 Acesso: 12 out. 2024 Sobre as consequências dessas preocupações, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A estruturação de órgãos e o estabelecimento de legislações para controle da poluição ambiental. ( ) A preocupação com a racionalização do uso da energia e o aumento dos investimentos em fontes renováveis. ( ) A adoção, por parte do meio empresarial, de práticas sustentáveis como greenwashing ou maquiagem verde. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -633,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1a8a677c80e09934"
     },
     {
       "question_number": 44,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Leia o texto a seguir. Elevado à categoria de município com a denominação de Canaã dos Carajás, pela Lei Estadual nº 5860, de 05/10/1994, desmembrado de Paraupebas. Sede no atual distrito de Canaã dos Carajás (ex-localidade). Constituído do distrito sede, instalado em 01/01/1997. Disponível em: https://biblioteca.ibge.gov.br/biblioteca- catalogo.html?id=34376&view=detalhes Acesso: 12 out 2024. O processo de formação descrito é, atualmente, denominado",
       "alternatives": {
         "A": "conurbação.",
@@ -650,11 +838,70 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c7f9e6523f2177f6"
+    },
+    {
+      "question_number": 45,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A questão dos refugiados tem tido grande relevância nos últimos anos no cenário internacional pela expressiva dimensão de seus fluxos, pelo desrespeito à dignidade humana e pela crescente violência na sua contenção, apesar da sua condição de extrema vulnerabilidade. Disponível em: https://www.scielo.br/j/rbepop/a/Xf7yQhXqhY3YyRp9fZZgzwm/?lang=pt Acesso: 26 out. 2024. Sobre o fluxo populacional em questão, analise as afirmativas a seguir. I. A condição de refugiado está condicionada somente aos fatores de expulsão relacionados aos conflitos armados e perseguições políticas. II. Um aspecto de grande importância é a necessidade de criação de instrumentos jurídicos, nacionais e internacionais, que concedam direitos eficazes para os solicitantes de refúgio. III. Um desafio é a crescente presença de posicionamentos xenófobos nos discursos políticos de autoridades, pautados na segurança e nos impactos causados às questões identitárias. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f1eb31d600648fd7"
+    },
+    {
+      "question_number": 46,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "As pesquisas no Ensino de Geografia, ainda que assumindo fundamentações teórico-metodológicas diferentes, têm apresentado nas últimas duas décadas um movimento de convergência em defesa de um ensino-aprendizagem em que se valoriza processos específicos de raciocínio ou de pensamento amparados na própria Geografia. Disponível em: https://www.scielo.br/j/ea/a/kRrXfwBFZLLDtKqNRmgRHpH/Acesso: 27 out 2024. Sobre a perspectiva de ensino abordada, analise as afirmativas a seguir. I. Considera o protagonismo assumido pelas dinâmicas espaciais no atual estágio de globalização. II. Destaca a observação de princípios geográficos fundamentais como localização e distribuição. III. Compreende as práticas espaciais reveladas pelo conhecimento geográfico como estruturante na formação de um cidadão crítico e reflexivo. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "III, apenas.",
+        "C": "I e II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "13a85affd81e2cb8"
+    },
+    {
+      "question_number": 47,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A agricultura familiar fundamentada no uso de área de exploração agrícola reduzida, exige uma grande conscientização do agricultor na escolha do modelo de exploração adotado, para garantir a sua sustentabilidade ao longo dos anos. Disponível em: esearchgate.net/profile/Maria-Teresa-Abdo- 2/publication/261706306_Sistemas_Agroflorestais_e_Agricultura_Familiar/ Acesso em: 28 out. 2024. Como justificativa para o sistema de produção apresentado, analise as afirmativas a seguir. I. A atividade agropecuária nessas áreas será extensiva, buscando o máximo de rendimento econômico possível por área. II. A reposição de nutrientes será adequada e satisfatória, com a implantação de práticas de conservação do solo e diversificação de culturas. III. O Sistema Agroflorestal será adotado como uma opção interessante e extremamente viável na escolha de modelos pelo pequeno produtor. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f34e0a3ef905969a"
     },
     {
       "question_number": 48,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Disponível em: https://www.gov.br/suframa/pt-br/zfm/industria Acesso: 29 out. 2024. Sobre os objetivos da entidade autônoma representada na imagem, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Desenvolver a industrialização na região, tendo em vista a dificuldade de obtenção de produtos, por conta das grandes distâncias e dificuldades no transporte. ( ) Construir um modelo de desenvolvimento regional sustentável, assegurando viabilidade econômica e melhoria da qualidade de vida das populações locais. ( ) Gerar empregos diretos para região, mas também em outros Estados do Brasil, pela venda dos bens finais ou comercialização de insumos para a produção. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -667,11 +914,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/smacanaacarajas24_professor-de-geografia_q48.png",
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4e8126d0013538e4"
     },
     {
       "question_number": 49,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "As expressões Amazônia, Pan-Amazônia, Amazônia Sul- Americana, Região Amazônica ou Grande Amazônia compreendem diferentes enfoques e representações espaciais. Disponível em: https://www.scielo.br/j/cint/a/vX4btzBPBXb56hm5GdHmKmk/?lang=pt# Acesso em: 7 nov. 2024. Quanto à utilização dessas diferentes denominações, analise as afirmativas a seguir. ( ) Referem-se, de maneira mais geral, à maior selva tropical úmida do planeta, bem como à bacia hidrográfica do rio Amazonas. ( ) Baseiam-se na conveniência político-administrativa para a aplicação de políticas econômicas e ambientais em territórios determinados. ( ) Apoiam-se em aspectos exclusivamente mercadológicos, em detrimento das questões sociais referentes aos povos tradicionais da região. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -684,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3de0b3753919f147"
     },
     {
       "question_number": 50,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Considerando a escala temporal da vida humana, o solo não é um recurso renovável, visto a necessidade de centenas de anos para a formação de poucos centímetros de solo. Disponível em: http://seer.ufsj.edu.br/territorium_terram/article/view/5244. Acesso em: 7 nov. 2024. Quanto aos processos de degradação desse recurso, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Compactação, quando ocorre a diminuição dos espaços vazios entre as partículas do solo, tornando-o mais rígido e resistente. ( ) Salinização, quando há o acúmulo de sais minerais, como cloretos e sulfatos. ( ) Infiltração, quando a água penetra passando através dos espaços vazios entre as partículas do solo. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -701,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "79cf0a0215c0b0fc"
     },
     {
       "question_number": 51,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Leia o fragmento a seguir. CASINHA DE PALHA Eu moro numa casinha de palha Que fica detrás da muralha daquela serra acolá. Eu moro numa casinha de palha Que fica detrás da muralha daquela serra acolá. De longe ela nos parece arruinada Mas de perto ela é juncada de baunilha e manacá. Disponível em: https://www.letras.mus.br/beto-guedes/44531/ Acesso: 10 out. 2024. Assinale a opção que indica o conceito geográfico abordado nos versos da canção.",
       "alternatives": {
         "A": "Mapa.",
@@ -718,11 +971,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7a6134860e86dcc9"
     },
     {
       "question_number": 52,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Analise a charge a seguir. Considerando que o argumento crítico apresentado na charge tenha sido formulado durante uma aula de geografia, analise as afirmativas a seguir. ( ) A negligência em relação às culturas não europeias gerou a necessidade de políticas afirmativas para seu reconhecimento no currículo escolar. ( ) A garantia do direito de demarcação das reservas eliminou qualquer tipo de pressões contrárias por parte da sociedade. ( ) O intenso genocídio sofrido pela população nativa, por parte dos colonizadores, diminuiu substancialmente o número indivíduos. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -735,11 +990,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/smacanaacarajas24_professor-de-geografia_q52.png",
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c8c66c830fa24e57"
     },
     {
       "question_number": 53,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Analise a imagem: MOREIRA, João Carlos. Geografia geral e do Brasil: espaço geográfico e globalização. Ensino Médio. São Paulo: Scipione, 2016, p. 53. As linhas de representação dos dados tridimensionais no plano são denominadas",
       "alternatives": {
         "A": "isoietas.",
@@ -752,11 +1009,32 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/smacanaacarajas24_professor-de-geografia_q53.png",
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f469bd4aa3ca8454"
+    },
+    {
+      "question_number": 54,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "A proposta do “giro decolonial”, aponta para a possibilidade de construção de um novo olhar sobre o mundo, partindo de um quadro referencial distinto do mundo colonial e revela saberes que, embora silenciados pelas estruturas colonizadoras, existiam entre os povos nativos do continente americano antes da instauração do domínio europeu. Disponível em: https://cienciahoje.org.br/artigo/qual-o-objetivo-dos-movimentos- de-decolonizacao-e-descolonizacao/ Acesso: 11 out. 2024. Sobre o tema abordado no texto, analise as afirmativas a seguir. I. A independência política de territórios coloniais não foi garantia para o desmantelamento dos dispositivos de dominação e exploração moldados pelos processos de colonização. II. O colonialismo interno nos leva a pensar a subalternização dos sujeitos coloniais e de suas formas de performar o mundo e produzir conhecimento. III. Os processos de colonização e decolonização se desenvolvem concomitantemente, na medida que ocorre a conquista de territórios e domínio sobre povos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "II, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 12,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "48027dd28e8c5f14"
     },
     {
       "question_number": 55,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Leia o fragmento a seguir. Será Ratzel, na Alemanha, em 1882 (Antropogeografia), o responsável por organizar sistematicamente a Geografia Geral e da Circulação ao estudar os transportes (meios e vias) e a circulação regional (movimento de mercadorias, de pessoas e de informações no espaço). SPOSITO, Eliseu Savério. Glossário de Geografia Humana e Econômica. São Paulo: Unesp, 2017. Sobre a forma como o F. Ratzel interpretava o fenômeno da mobilidade no território, avalie as afirmativas a seguir. ( ) Analisava a influência dos meios e das vias de transportes sobre grupos humanos em suas relações com o meio, numa relação de causa e efeito. ( ) Considerava os transportes como locomoção por meios e vias e a circulação como movimento de mercadorias, pessoas, e informações no espaço. ( ) Comparava a evolução geral da circulação a uma rede fluvial, na qual um pequeno vaso poderia interferir na artéria principal, comprometendo a vida de determinadas populações. As afirmativas são respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -769,11 +1047,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "e8a8e33a334aaa91"
+    },
+    {
+      "question_number": 56,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "Área de influência da UHE de Belo Monte A área total da bacia hidrográfica do rio Xingu é de, aproximadamente, 500.000 km², estendendo-se, no sentido sul- norte, do estado de Mato Grosso, no paralelo 15° S, até o paralelo 3° S, no Pará, tendo sua desembocadura no rio Amazonas. Está situado entre as bacias hidrográficas do rio Tapajós, a oeste, e rios Araguaia e Tocantins, a leste. FREIRE. Luciana Martins. Belo Monte: fatos e impactos envolvidos na implantação da usina hidrelétrica na região Amazônica Paraense. Disponível em: https://www.scielo.br/j/sn/a/fTTwBFM48MhVKNckWNDkB8C/?lang=pt Acesso: 11 out. 2024. Sobre os diferentes impactos ambientais causados pela construção da Usina Hidrelétrica de Belo Monte, analise as afirmativas a seguir. I. Na Volta Grande do Xingu houve redução da vazão, pois nesse trecho o curso do rio apresenta baixa profundidade com a presença de afloramentos rochosos acima do nível fluvial. II. A biodiversidade local foi afetada por problemas não previstos nos estudos de impacto ambiental, como a mortandade de peixes causada pelo turbilhonamento das águas durante o processo de enchimento do reservatório. III. A elevação do nível das águas promoveu a fertilização da planície de inundação do rio, o que possibilitou uma maior ocupação desses territórios pelas comunidades tradicionais. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6b42ac616b929750"
+    },
+    {
+      "question_number": 57,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "As projeções possuem propriedades cartográficas que minimizam suas deformações geradas pela planificação da superfície quanto aos ângulos, às áreas e as distâncias, entretanto, nunca todas ao mesmo tempo. MOREIRA, João Carlos. Geografia geral e do Brasil: espaço geográfico e globalização. Ensino Médio. São Paulo: Scipione, 2016, p. 62. Sobre as metodologias de produção dos mapas, analise as afirmativas a seguir. I. A projeção de Peters é cilíndrica e equivalente. II. A projeção de Dyer é cilíndrica, invertida e conforme. III. A projeção de Mercator é cilíndrica e conforme. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4456fad49ecf8630"
     },
     {
       "question_number": 58,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Leia o fragmento a seguir. Bioma é um conjunto de vida vegetal e animal, constituído pelo agrupamento de tipos de vegetação que são próximos e que podem ser identificados em nível regional, com condições de geologia e clima semelhantes e que, historicamente, sofreram os mesmos processos de formação da paisagem, resultando em uma diversidade de flora e fauna própria. Disponível em: https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18307- biomas-brasileiros.html. Acesso: 21 out. 2024 De acordo com o tema abordado no fragmento, correlacione os biomas listados a seguir às suas características. 1. Pampa 2. Caatinga 3. Amazônia 4. Cerrado ( ) Maior reserva de diversidade biológica do planeta, apresentando três estratos densos de vegetação, embora seus solos sejam pobres. ( ) Savana mais rica do mundo, em biodiversidade, tendo vegetação complexa e solos ácidos. ( ) Vegetação predominantemente rasteira, em área de clima chuvoso, sem período seco, mas com temperaturas negativas no inverno. ( ) Presença de plantas xerófilas, em área de grande variedade de paisagens, com relativa riqueza biológica e existência de espécies endêmicas. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "3 – 4 – 1 – 2.",
@@ -786,11 +1104,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "30476b90adc421c7"
+    },
+    {
+      "question_number": 59,
+      "discipline": "Conhecimentos Básicos / Gerais",
+      "statement": "Leia o texto a seguir. Entre os diversos assuntos que foram tratados na 16ª cúpula dos líderes do BRICS em 2024, destacam-se as negociações para reduzir a dependência do dólar no comércio entre esses países, além de medidas para fortalecer instituições financeiras alternativas ao Fundo Monetário Internacional (FMI) e ao Banco Mundial, controlados principalmente por potências ocidentais. Disponível em: https://www.folhape.com.br/economia/cupula-do-brics-na-russia- mira-alternativa-ao-dolar-e-ao-fmi/366275/ Acesso: 15 out. 2024. Sobre a organização em questão, analise as afirmativas a seguir. I. Aceitou o ingresso de cinco novos membros em 2024: Egito, Irã, Emirados Árabes Unidos, Arábia Saudita e Etiópia. II. Propôs sua transformação em bloco econômico, com a livre circulação de trabalhadores e a criação de uma moeda única. III. Reforçou o papel dos seus Estados-membros no sistema monetário e financeiro internacional. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "75b2e04911fa0767"
     },
     {
       "question_number": 60,
-      "discipline": "Módulo II – Conhecimentos Específicos",
+      "discipline": "Conhecimentos Básicos / Gerais",
       "statement": "Leia o trecho da canção do sambista F. Magdaleno sobre o bairro em que nasceu, Grajaú, no Rio de Janeiro. GRAJA Graja, teu cheiro, flor de jardim, Casas, canteiros à meia de luz, Moleque travesso rola a bola. No passar das horas, o teu sino me conduz. Lua no céu da madrugada Inspira o cantador, ilumina seu amor Graja, sou teu e faz parte de mim Calma, reserva instante sem fim Desce a ladeira da memória Sopro do passado Num presente enraizado. https://grandetijuca.com.br/noticia/2436/sambista-e-morador-do-grajau-faz- musica-em-homenagem-ao-bairro.html. Acesso: 9 set. 2024. (Adaptado) Assinale a opção que indica o conceito geográfico expresso no trecho da canção.",
       "alternatives": {
         "A": "Lugar.",
@@ -803,7 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c028fdd94b0345bf"
     }
-  ]
+  ],
+  "year": 2024,
+  "uf": "PA",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

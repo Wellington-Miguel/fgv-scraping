@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Prefeitura Municipal de Paulínia 2016",
   "cargo_title": "Professor III - Educação Física",
   "exam_type": "Tipo 1",
-  "total_questions": 48,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "357f590aeda9133c"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1af88bd881643127"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7fb3c4ff3ec70514"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f9b97eba9f795cc7"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "42a52c6c5843a708"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "34aab0cdccdf52ef"
     },
     {
       "question_number": 7,
@@ -123,7 +135,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a74623ea808cabc3"
     },
     {
       "question_number": 8,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3cb3bee0135a00af"
     },
     {
       "question_number": 9,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2fd225037b1dfa14"
     },
     {
       "question_number": 10,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0a4cd98bf1c157d1"
     },
     {
       "question_number": 11,
@@ -191,7 +211,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ca27f23aee6e77c8"
     },
     {
       "question_number": 12,
@@ -202,17 +224,38 @@
         "B": "“Nada está perdido enquanto o coração espera alguma coisa.” / proporção",
         "C": "“Quando dois corações se querem entender, ainda que falem hebraico, descobrem-se logo um ao outro.” / concessão",
         "D": "“Aprofunde mais os corações alheios, se quiser encontrar a verdade.” / causa",
-        "E": "“Conquanto a credulidade seja eterna, é preciso fazer com ela o que se faz com a moda: variar o feitio.” / tempo"
+        "E": "“Conquanto a credulidade seja eterna, é preciso fazer com ela"
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "802e030935ddbad9"
+    },
+    {
+      "question_number": 13,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "De acordo com a Lei Orgânica do Município de Paulínia, é vedado ao Município I. estabelecer cultos religiosos ou subvencioná-los, ainda que a título de colaboração de interesse público. II. recusar fé aos documentos públicos. III. criar distinções entre brasileiros ou preferência entre si. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7b86adb3cbd0ca3c"
     },
     {
       "question_number": 14,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "De acordo com a Lei Orgânica do Município de Paulínia, o vereador não perderá o mandato em caso de",
       "alternatives": {
         "A": "suspensão dos direitos políticos.",
@@ -225,11 +268,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "44a8bdd4bad7142f"
     },
     {
       "question_number": 15,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Leia o fragmento a seguir. O processo legislativo compreende, entre outras medidas, a elaboração de _____ à Lei Orgânica do município, de _____ ordinárias e _____ provisórias. Assinale a opção que completa corretamente as lacunas do fragmento acima.",
       "alternatives": {
         "A": "decretos – medidas – resoluções.",
@@ -242,11 +287,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6eae47e2d62ec559"
+    },
+    {
+      "question_number": 16,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "Segundo a Lei Orgânica do Município de Paulínia, serão expressamente objeto de lei ordinária, I. o Código de Obras; II. a Lei de Uso e Ocupação do Solo; III. o Estatuto dos Servidores Públicos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3db65c4a54fb50e1"
     },
     {
       "question_number": 17,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Segundo a Lei Orgânica do Município, são de iniciativa privativa do Prefeito as leis que disponham sobre: I. a criação de cargos, funções ou empregos públicos na administração direta. II. o regime jurídico servidores públicos do Município provimento de cargos, estabilidade e aposentadoria. III. os subsídios dos membros dos Poderes Legislativo e Executivo municipais. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -259,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "febdc2d8a0b71248"
     },
     {
       "question_number": 18,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Segundo o Estatuto dos Funcionários Públicos do município de Paulínia, no curso do estágio probatório do servidor público municipal, devem ser avaliados os fatores a seguir, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "Assiduidade",
@@ -276,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "996822f54ac1c1fb"
     },
     {
       "question_number": 19,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "De acordo com o Estatuto dos Funcionários Públicos do Município de Paulínia, assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "O funcionário habilitado em concurso público adquirirá estabilidade a partir da posse no cargo de provimento efetivo.",
@@ -293,28 +363,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d9f312a9810f4e3b"
     },
     {
       "question_number": 20,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Assinale a opção que indica uma razão pela qual o funcionário poderá ser exonerado de ofício.",
       "alternatives": {
         "A": "Quando satisfeitas as condições do estágio probatório.",
         "B": "Quando, tendo tomado posse, o funcionário entrar em exercício antes de findar o prazo estabelecido.",
         "C": "Quando se tratar de provimento em comissão.",
         "D": "Quando da publicação da aposentadoria compulsória.",
-        "E": "Quando tomar posse em outro cargo acumulável. Conhecimentos Pedagógicos"
+        "E": "Quando tomar posse em outro cargo acumulável."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3162e13f43695bf0"
     },
     {
       "question_number": 21,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Relacione a esfera governamental às respectivas atribuições. 1. União 2. Estados 3. Municípios ( ) Elabora e executa políticas educacionais em consonância com os planos nacionais de educação, integrando e coordenando as suas ações às dos Municípios. ( ) Oferece a Educação Infantil em creches e pré-escolas e, com prioridade, o Ensino Fundamental. ( ) Realiza o processo nacional de avaliação do rendimento escolar, objetivando a definição de prioridades e a melhoria da qualidade do ensino. Assinale a opção que indica a relação correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 2 – 3",
@@ -327,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "08a3ebd1e7770058"
     },
     {
       "question_number": 22,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "As opções a seguir apresentam tipos de materiais didáticos e pedagógicos que apoiam o Pacto Nacional pela Alfabetização na Idade Certa, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Jogos e softwares de apoio.",
@@ -344,11 +420,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "69c0eb6d48a01b8e"
+    },
+    {
+      "question_number": 23,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "Com relação aos princípios do processo de alfabetização, analise as afirmativas a seguir. I. O Sistema de Escrita Alfabética é complexo e exige um ensino sistemático e problematizador. II. A ludicidade é condição básica nos processos de ensino e de aprendizagem. III. As práticas para o desenvolvimento da leitura e da produção de textos ocorre somente nos primeiros anos do Ensino Fundamental. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d4c891ff9ac92f64"
     },
     {
       "question_number": 24,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Com relação aos objetivos e às metas para a educação das pessoas com necessidades educacionais especiais, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Devem ser disponibilizados recursos didáticos especializados de apoio à aprendizagem nas áreas visual e auditiva. ( ) Devem ser promovidas ações de educação especial sem relação com o mercado de trabalho. ( ) Devem ser assegurados padrões mínimos de infraestrutura das escolas para atendimento de alunos com necessidades educacionais especiais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, V e F.",
@@ -361,11 +458,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7528c13b3fa2e222"
+    },
+    {
+      "question_number": 25,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "Com relação ao processo avaliativo dos alunos, segundo os Parâmetros Nacionais Curriculares, analise as afirmativas a seguir. I. A avaliação do conhecimento é um momento pontual e estático. II. A avaliação da aprendizagem deve abranger o desempenho do aluno, a atuação do professor e a metodologia utilizada. III. O professor é o responsável exclusivo do processo de avaliação. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3ef058d27004d69e"
+    },
+    {
+      "question_number": 26,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "Sobre os objetivos da educação, segundo o Currículo da Rede Municipal de Ensino de Paulínia, analise as afirmativas a seguir. I. O aluno é o sujeito da sua aprendizagem, desenvolvendo habilidades cognitivas e capacidades reflexivas. II. O ensino e a aprendizagem devem estar baseados em valores éticos e morais. III. O educando deve valorizar a diversidade e sentir-se como essencial na construção de uma sociedade mais justa e democrática. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7c6ff227ec346c12"
     },
     {
       "question_number": 27,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Leia o fragmento a seguir. “O aluno chega à escola levando uma cultura que não é melhor nem pior do que a do professor, e, na sala de aula, os dois lados aprenderão juntos, a partir de uma relação afetiva e democrática.” Assinale a opção que indica o autor do fragmento acima.",
       "alternatives": {
         "A": "Anísio Teixeira",
@@ -378,11 +515,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "803fb8cf250dd46b"
+    },
+    {
+      "question_number": 28,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "A Meta 10 do Plano Municipal de Educação de Paulínia propõe as seguintes ações: I. resgatar e criar espaços de atendimento extraclasse por meio das adaptações físicas necessárias; II. construir novas unidades e contratar pessoal para atender à demanda; III. estabelecer relações estreitas com os governos estadual e federal e com a iniciativa privada para a obtenção de recursos extras para a etapa. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7625e9d94f188bbf"
     },
     {
       "question_number": 29,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Sobre os fundamentos para a organização do currículo por competências, assinale V para a afirmativa verdadeira e F para a falsa. ( ) As disciplinas passam a servir como instrumentos para o desenvolvimento dessas competências. ( ) Os conteúdos a serem ensinados estão subordinados à competência a ser desenvolvida. ( ) Os conteúdos têm um fim em si mesmos e devem ser trabalhados apenas em um período letivo. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e F.",
@@ -395,11 +553,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "571bf29d80a07404"
     },
     {
       "question_number": 30,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "As opções a seguir apresentam os desafios da educação segundo o Plano Municipal de Educação de Paulínia, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Oferecer a todas as pessoas oportunidades de educação ao longo da vida.",
@@ -412,11 +572,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8a58de220eefb335"
     },
     {
       "question_number": 31,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "“No Brasil, as primeiras iniciativas de sistematização do conhecimento sobre lazer não surgem das necessidades comunitárias ou associativas, mas de uma instituição (Serviço Social do Comércio – SESC) que tinha como finalidade contribuir com o bem-estar e a paz social.” (Silva e Silva. Lazer e Educação Física: Textos Didáticos para a Formação de Profissionais do Lazer, 2012) Segundo as autoras, o problema dessa abordagem é",
       "alternatives": {
         "A": "a compreensão do lazer como mera ocupação.",
@@ -429,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "15ef46b4a2190c67"
     },
     {
       "question_number": 32,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Em uma turma de ensino fundamental, o professor desenvolve um trabalho teórico-prático de comparações do futebol profissional frente ao futebol escolar, o futebol no clube e as possíveis adaptações que podem ser feitas para tornar o jogo mais cooperativo e menos competitivo. Este é um exemplo de abordagem de um dos três elementos recomendados pelos PCNs para o processo ensino-aprendizagem nos ciclos finais do ensino fundamental. O elemento abordado é",
       "alternatives": {
         "A": "autonomia.",
@@ -446,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "34f719d6aa9b1930"
     },
     {
       "question_number": 33,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Para Magill (2000), a opção pela prática do todo ou em partes de uma habilidade motora durante o aprendizado deveria se basear na complexidade e organização da própria habilidade, sendo que a complexidade se refere ao número de componentes da habilidade e a organização é a dependência entre os componentes. Assim, habilidades mais complexas e menos organizadas favoreceriam o uso da prática por partes. Por outro lado, habilidades menos complexas e mais organizadas levariam ao uso da prática do todo. Com base nesse conceito do autor, aponte a alternativa que apresenta habilidades para a prática do todo e por partes, respectivamente:",
       "alternatives": {
         "A": "saque do tênis e tacada no golfe.",
@@ -463,11 +629,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "99f90f9b759d4b78"
+    },
+    {
+      "question_number": 34,
+      "discipline": "Pedagogia e Legislação Educacional",
+      "statement": "Os PCNs estabelecem critérios de avaliação de Educação Física para cada ciclo do Ensino Fundamental, que têm por objetivo auxiliar o professor a avaliar seus alunos dentro desse processo, abarcando suas múltiplas dimensões. Sobre esse assunto, analise as afirmativas a seguir. I. Enfrentar desafios colocados em situações de jogos e competições, respeitando as regras e adotando uma postura cooperativa. II. Participar das atividades respeitando as regras e a organização. III. Valorizar e apreciar diversas manifestações da cultura corporal, identificando suas possibilidades de lazer e aprendizagem. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2721a5b3da3cbb7e"
     },
     {
       "question_number": 35,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Considerando a avaliação de um aluno durante as aulas de handebol, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A utilização de recursos como vídeo na avaliação deve ser evitada, por fornecer menos detalhes.",
@@ -480,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b4d6d6c1a830bd62"
     },
     {
       "question_number": 36,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Em relação ao fundamento do passe nos desportos coletivos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Todas as partes do corpo podem ser utilizadas para o passe, embora o pé seja a mais comum.",
@@ -497,11 +686,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cd0a5c0298f14e25"
+    },
+    {
+      "question_number": 37,
+      "discipline": "Pedagogia e Legislação Educacional",
+      "statement": "A Educação Física desempenha um importante papel no desenvolvimento infantil durante o Ensino Fundamental. Sobre esse tópico, analise as afirmativas a seguir. I. O foco do professor, durante a educação infantil, deve ser o aprendizado de gestos e movimentos, propiciando um uso produtivo desse aprendizado nos anos seguintes. II. O lúdico é parte imprescindível do processo de desenvolvimento da criança, pois é a sua linguagem durante a Educação Infantil. III. Além da aplicação durante as aulas, o conteúdo da Educação Física ainda pode ser aplicado durante o lazer do indivíduo, uma vez que ele aprende a pensar, sentir e realizar o gesto motor. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e III, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "88e3826e9190fa72"
     },
     {
       "question_number": 38,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Com base na Educação Física higienista, assinale V para a afirmativa verdadeira e F para a falsa. I. Essa concepção era dominante na Educação Física brasileira mesmo antes do militarismo. II. Tem como principais autores Ling, Amoros e Spiess. III. A ginástica era seu principal conteúdo, cuja imagem era valorizada na escola. As afirmativas são respectivamente:",
       "alternatives": {
         "A": "V, V e F.",
@@ -514,11 +724,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cc912961c08357d7"
+    },
+    {
+      "question_number": 39,
+      "discipline": "Pedagogia e Legislação Educacional",
+      "statement": "Em relação à abordagem crítica na Educação Física escolar, analise as afirmativas a seguir. I. A seleção dos conteúdos leva em conta sua relevância social, sua contemporaneidade e sua adequação às características sociais e cognitivas dos alunos. II. Tem o mérito de considerar o conhecimento prévio do aluno, resgatando sua cultura de jogos e brincadeiras. III. Deve-se evitar o ensino por etapas e deve-se adotar a simultaneidade na elaboração dos conteúdos sem a verificação dos pré-requisitos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4ba8af12bbaf4922"
     },
     {
       "question_number": 40,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Durante uma aula de basquete, o professor divide a quadra em quatro espaços, dois deles contendo as tabelas e dois sem tabelas. Ele propôs diferentes formas de jogar, utilizando as tabelas em espaços reduzidos ou mesmo criando novas formas de se marcar os pontos sem a tabela. A turma, dividida em grupos, deve experimentar todos os espaços. Nesse exemplo, vemos representado o trabalho de um importante elemento preconizado pelos PCNs. Assinale-o.",
       "alternatives": {
         "A": "Inclusão",
@@ -531,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4d4a40039e994f80"
     },
     {
       "question_number": 41,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Durante uma partida de basquete, um jogador em quadra lesiona o joelho, cai e a partida é interrompida. Nessa situação, assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "É permitido ao técnico da equipe entrar em quadra para avaliar a condição do atleta.",
@@ -548,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "193a516c0d460022"
     },
     {
       "question_number": 42,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Das situações a seguir, assinale aquela que representa um processo de avaliação do ponto de vista da abordagem crítico- superadora.",
       "alternatives": {
         "A": "Os alunos estabelecem, em conjunto com o professor, os pontos a serem avaliados e participam da avaliação ativamente.",
@@ -565,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c682fe8b23cfee74"
     },
     {
       "question_number": 43,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "As provas na ginástica rítmica desportiva infantil (11-12 anos) são",
       "alternatives": {
         "A": "maça, bola, fita e arco.",
@@ -582,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "22d0ad6f08577c00"
     },
     {
       "question_number": 44,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Para Piaget, o ser humano atravessa quatro estágios (ou fases) de desenvolvimento cognitivo. As opções a seguir apresentam esses estágios, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Sensório-motor.",
@@ -599,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c785aa19fb78e3d5"
     },
     {
       "question_number": 45,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Considerando o conteúdo do jogo dentro da Educação Física, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Dada a complexidade das regras envolvidas em um jogo, esse conteúdo deve ser restrito a crianças mais velhas. Às mais novas, devem ser trabalhadas apenas brincadeiras. ( ) Huizinga (2014) estabelece que o jogo tem tempo definido. Isso significa que é preciso determinar uma duração para a atividade, como num jogo de futebol, por exemplo. ( ) As regras estabelecidas para o jogo, pelos jogadores, não podem mais ser mudadas durante o jogo As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e F.",
@@ -616,11 +857,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a8a757ce9b36fca4"
     },
     {
       "question_number": 46,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "A abordagem crítico-superadora surge na década de 1980 e tem forte influência do pensamento marxista, passando a questionar o caráter alienante da Educação Física da época. Essa corrente encontra fundamento",
       "alternatives": {
         "A": "no imperativo categórico.",
@@ -633,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "be15b98ba8856f47"
     },
     {
       "question_number": 47,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Sobre a posição de goleiro no handebol, assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "O goleiro pode sair da área de gol sem a bola e participar do jogo como outro jogador qualquer.",
@@ -650,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "888d41c0a2816ba8"
     },
     {
       "question_number": 48,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Capacidade do indivíduo de situar-se, orientar-se e movimentar- se no ambiente, tendo sempre como referência ele próprio. Esse conceito se refere",
       "alternatives": {
         "A": "à organização temporal.",
@@ -667,11 +914,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d7503e9e2021e349"
     },
     {
       "question_number": 49,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Relacione as abordagens pedagógicas da Educação Física às respectivas características. 1. Desenvolvimentista 2. Psicomotora 3. Construtivista ( ) A fundamentação para a Educação Física escolar é elaborada sobre os processos de crescimento e aprendizagem. ( ) O envolvimento da Educação Física é com o desenvolvimento da criança, com o ato de aprender, com os processos cognitivos, afetivos e psicomotores. ( ) A intenção é desenvolver o conhecimento a partir da interação do sujeito com o mundo, e, para cada criança, a construção desse conhecimento exige uma ação sobre o mundo. Assinale a opção que indica a relação correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 2 – 3.",
@@ -684,11 +933,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9d47e6fdc01afd46"
+    },
+    {
+      "question_number": 50,
+      "discipline": "Pedagogia e Legislação Educacional",
+      "statement": "A respeito dos três estágios de desenvolvimento motor apresentados em Magill (2000), analise as afirmativas a seguir. I. No estágio autônomo, o indivíduo realiza os movimentos sem refletir a respeito deles, demonstrando pouca capacidade de adaptação às variáveis do meio. II. No estágio associativo, o indivíduo comete menos erros, e estes são menos grosseiros que no estágio anterior. III. O estágio cognitivo é caracterizado por baixo desenvolvimento, onde muita atenção é dispensada à execução da habilidade. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I e III, apenas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cd275046c192e9e1"
     },
     {
       "question_number": 51,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "A respeito das regras oficiais da natação, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Apenas na prova de nado de costas é que a saída dos atletas é de dentro d'água.",
@@ -701,11 +971,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d0035a12f9faa6bf"
     },
     {
       "question_number": 52,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "De acordo com os PCNs, a atividade física é polissêmica, e o que define o caráter lúdico ou utilitarista de uma atividade é",
       "alternatives": {
         "A": "o número das massas musculares envolvidas, bem como seu tamanho.",
@@ -718,11 +990,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f1f35ab14b8d5a5e"
     },
     {
       "question_number": 53,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Nos conteúdos de aprendizagem a seguir, assinale C para conteúdo conceitual, P para procedimental e A para atitudinal. ( ) Valorização da cultura popular e nacional. ( ) Identificação das capacidades físicas básicas. ( ) Desenvolvimento da capacidade de adaptar espaços e materiais na criação dos jogos. ( ) Percepção dos limites corporais na vivência dos movimentos rítmicos. ( ) Percepção do ritmo pessoal. Assinale a opção que indica a relação correta, de cima para baixo.",
       "alternatives": {
         "A": "A – C – C – P – P",
@@ -735,11 +1009,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2fbbd8c94feaedb2"
+    },
+    {
+      "question_number": 54,
+      "discipline": "Pedagogia e Legislação Educacional",
+      "statement": "A respeito da avaliação em Educação Física, analise as afirmativas a seguir. I. A avaliação formativa oferece dados iniciais para um projeto de desenvolvimento dos conteúdos, considerando os conhecimentos prévios dos alunos. II. A avaliação diagnóstica ocorre junto ao processo de ensino e aprendizagem, fornecendo dados importantes para o ajuste das ações educativas. III. A avaliação somativa é aplicada ao final do processo de aquisição do conteúdo, expressando o nível atingido dentro dos objetivos propostos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6b8aee3cf8afbc27"
     },
     {
       "question_number": 55,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "“A Educação Física, integrada à proposta pedagógica da escola, é componente curricular da educação básica, ajustando-se às faixas etárias e às condições da população escolar, sendo facultativa nos cursos noturnos.” (Art. 26, Parágrafo 3o da LDB) Esse artigo foi posteriormente alterado pela Lei nº 10.793/03. A alteração se refere",
       "alternatives": {
         "A": "à exclusão da Educação Física da proposta pedagógica da escola, sendo tratada como componente auxiliar.",
@@ -752,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "45ac6bb2ceb6cd3a"
     },
     {
       "question_number": 56,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "“Em relação ao âmbito escolar, a partir do Decreto nº 69.450, de 1971, a Educação Física passou a ser considerada como ‘a atividade que, por seus meios, processos e técnicas, desenvolve e aprimora forças físicas, morais, cívicas, psíquicas e sociais do educando’. O decreto deu ênfase à aptidão física, tanto na organização das atividades como no seu controle e avaliação, e a iniciação esportiva, a partir da quinta série, se tornou um dos eixos fundamentais de ensino; buscava-se a descoberta de novos talentos que pudessem participar de competições internacionais, representando a pátria.” (PCNs – Ensino Fundamental, 1998) Nesse período, o modelo que norteava as diretrizes políticas para a Educação Física era o modelo",
       "alternatives": {
         "A": "piramidal.",
@@ -769,11 +1066,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5fb71750e746c3de"
+    },
+    {
+      "question_number": 57,
+      "discipline": "Pedagogia e Legislação Educacional",
+      "statement": "A respeito das regras do vôlei, analise as afirmativas a seguir. I. Vencerá um set a equipe que primeiro alcançar a marca de 25 pontos, com uma diferença mínima de 2 pontos. II. Vencerá a partida a equipe que vencer três sets. III. Se um jogador da equipe que possui o saque não ocupa a sua posição correta no momento do saque, é cometida uma falta de posição e a equipe é penalizada com a perda do saque, sem alteração no placar. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I e III, apenas."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ff20e9abc8b1411d"
     },
     {
       "question_number": 58,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Considerando a definição de Huizinga (2014), as opções a seguir apresentam características inerentes a todo jogo, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Regras padronizadas e pré-estabelecidas.",
@@ -786,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7249f372878c8668"
     },
     {
       "question_number": 59,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "“Os conteúdos curriculares da Educação Básica observarão, ainda, as seguintes diretrizes: promoção do desporto educacional e apoio às práticas desportivas não-formais.” (Art. 27, Inciso IV da LDB) Nesse artigo, podemos inferir que a intenção do legislador foi:",
       "alternatives": {
         "A": "estimular a utilização das instalações esportivas após o horário das aulas.",
@@ -803,11 +1123,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4ee41955346d8463"
     },
     {
       "question_number": 60,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Pedagogia e Legislação Educacional",
       "statement": "Em uma turma de 5º ano, um professor pede que os alunos falem sobre a experiência de cada um nos diferentes campos da atividade física, quem já praticou algum esporte com bola, quem já lutou, quem já nadou, etc.; se o fez de forma recreativa ou competitiva; se ainda pratica ou não; dentre outros questionamentos. Nessa atividade diagnóstica, o professor poderá avaliar a(s) seguinte(s) dimensão(ões) da Educação Física:",
       "alternatives": {
         "A": "conceitual e cognitiva.",
@@ -820,7 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7b5719d74194ece7"
     }
-  ]
+  ],
+  "year": 2016,
+  "uf": "SP",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

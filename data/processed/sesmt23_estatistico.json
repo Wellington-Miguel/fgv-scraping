@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ebb4432fa100c792"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9e3eeb5f6229df60"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dea91a3b63c1f627"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4bab133faeebffc0"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b30e0965f58d3e17"
     },
     {
       "question_number": 6,
@@ -106,24 +116,28 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d1ebb38a64658835"
     },
     {
       "question_number": 7,
       "discipline": "Língua Portuguesa",
-      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação.",
+      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação. (A) As colônias não deixam de ser colônias pelo fato de serem independentes. (B) É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político. (C) As leis ruins são a pior espécie de tirania. (D) Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente.",
       "alternatives": {
-        "A": "As colônias não deixam de ser colônias pelo fato de serem independentes.",
-        "B": "É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político.",
-        "C": "As leis ruins são a pior espécie de tirania.",
-        "D": "Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente. (A) Como todos os soldados, João também tinha cabelo curto. / adjetivo. (B) Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução. (C) O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva. (D) José era considerado um cabeça-de-vento. / substantivo composto.",
+        "A": "Como todos os soldados, João também tinha cabelo curto. / adjetivo.",
+        "B": "Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução.",
+        "C": "O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva.",
+        "D": "José era considerado um cabeça-de-vento. / substantivo composto.",
         "E": null
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f4a029e9aeceb7c5"
     },
     {
       "question_number": 9,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b89cbd7c05f1ef4e"
     },
     {
       "question_number": 10,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "31fa9a680b927f6e"
     },
     {
       "question_number": 11,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1eb17f6270216508"
     },
     {
       "question_number": 12,
@@ -191,11 +211,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d2db9a5c4a701567"
     },
     {
       "question_number": 13,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Considere a frase: Se você é cuiabano, então é mato-grossense. É logicamente equivalente à frase acima, a seguinte proposição:",
       "alternatives": {
         "A": "Se você é mato-grossense, então é cuiabano.",
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "abc0940f54cb5ce1"
     },
     {
       "question_number": 14,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma reunião de uma unidade hospitalar, estavam presentes 8 servidores, sendo 6 médicos e 2 enfermeiros. Todos sentaram- se ao redor de uma mesa redonda. A quantidade de maneiras distintas que essa mesa pode ser organizada de forma que entre os dois enfermeiros tenha sempre três médicos é",
       "alternatives": {
         "A": "120.",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6320000688f882e7"
     },
     {
       "question_number": 15,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Na malha quadriculada a seguir, formada por quadrados de lados medindo 1cm, estão representados os triângulos ABC e ACD. A área do triângulo ABC, em cm2, é igual a",
       "alternatives": {
         "A": "4,25.",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_estatistico_q15.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b065edde5f380649"
     },
     {
       "question_number": 16,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Sobre números inteiros, racionais e reais, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Há mais números racionais que números inteiros. ( ) A soma de dois números irracionais resulta sempre em um número irracional. ( ) A dízima periódica 6,999... é igual ao número inteiro 7. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7aebf60d705e569a"
     },
     {
       "question_number": 17,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Os atendimentos realizados por 6 médicos de uma unidade hospitalar em determinado dia foram registrados. Porém, no fim da semana, percebeu-se que a informação dos atendimentos realizados por um desses médicos foi perdida, conforme a lista apresentada a seguir. 10, 9, 15, 9, X, 12 Sabe-se que, nesse dia, nenhum médico fez menos que 6 e mais que 15 atendimentos e que a média de atendimentos é um número inteiro. Assim, a mediana da lista é",
       "alternatives": {
         "A": "10.",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5c287eb155f82f2f"
     },
     {
       "question_number": 18,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A Federação Mato-grossense de Futebol (FMF) realiza anualmente a competição “Copa FMF” na modalidade masculina. Na edição de 2023, a fase final foi disputada por Cuiabá, Mixto, Nova Mutum e Operário VG em um formato quadrangular, no qual todos se enfrentam apenas uma vez. Em relação aos gols ocorridos nesta fase, sabe-se que:  Mixto fez o triplo de gols que tomou;  Cuiabá e Nova Mutum tomaram 6 gols cada;  Operário VG fez 1 gol e tomou 2 gols;  Cuiabá fez um gol a mais que Nova Mutum;  foram feitos 17 gols no total. Dessa forma, a quantidade de gols feitos pela equipe Nova Mutum foi igual a",
       "alternatives": {
         "A": "5.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "982835a4a82526be"
     },
     {
       "question_number": 19,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A serviço de uma unidade do Sistema Único de Saúde há três veículos: um automóvel, um ônibus e uma van. Um deles tem a cor azul, outro tem a cor amarela e outro tem a cor verde. Das afirmativas a seguir, apenas uma é verdadeira: I. O automóvel é verde. II. O ônibus não é amarelo. III. A van não é verde. Assim, é correto afirmar que",
       "alternatives": {
         "A": "o automóvel é amarelo.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7ef77a3c00d6af17"
     },
     {
       "question_number": 20,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma fábrica de desfibriladores, foi verificado que eram necessários 8 dias para produzir determinada quantidade de aparelhos, usando a mão de obra de 6 trabalhadores por 4 horas em cada dia. Para reduzir o tempo de produção para 2 dias, será necessário:",
       "alternatives": {
         "A": "duplicar o número de trabalhadores.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6a622160497005ef"
     },
     {
       "question_number": 21,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise o gráfico a seguir. Risco de desmatamento por estado em 2023 (km2) Fonte: https://g1.globo.com/mt/mato-grosso/noticia/2023/01/18/mt-e-o-3o- estado-com-maior-risco-de-desmatamento-em-2023-aponta-imazon.ghtml. Adapt. De acordo com o gráfico, o Estado de Mato Grosso é o terceiro estado brasileiro com maior risco de desmatamento na Amazônia. Analise as afirmativas a seguir sobre os fatores que concorrem para esse fenômeno. I. A prática agrícola é um dos fatores que contribui para a aceleração dos processos erosivos do solo e do desmatamento. Isso ocorre devido ao emprego, de técnicas agrícolas extensivas, com a retirada de vegetação para a instalação de grandes lavouras monocultoras. II. A prática do garimpo ilegal gera diversos impactos ambientais, como o desmatamento, por meio da retirada de vegetação nativa, seja para estabelecer acessos às áreas ricas em minerais, seja para criar espaços destinados à própria atividade de mineração. III. A demarcação de terras indígenas no Estado contribui para o desmatamento, uma vez que o processo envolve a utilização de madeira para a construção de residências tradicionais e a exploração dos recursos naturais para fins de subsistência. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -344,11 +382,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_estatistico_q21.png",
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0748898a6a4b5b20"
     },
     {
       "question_number": 22,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Sobre os biomas mato-grossenses e suas respectivas localizações conforme a organização espacial do estado, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O bioma Amazônico é caracterizado pela vegetação densa da floresta tropical; está presente no norte do Estado e um dos seus espaços é a microrregião de Sinop. ( ) O bioma Cerrado é caracterizado pela vegetação composta de arvores baixas e com plantas com raízes profundas; está presente na mesorregião do Centro-Sul Mato-grossense. ( ) O bioma Pantanal é caracterizado por suas extensas áreas alagadas e pela planície aluvial; está presente na mesorregião Centro-sul do estado, englobando os municípios de Cáceres e Poconé. As afirmativas são, na ordem apresentada, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -361,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "efa56fc2afb1d6a2"
     },
     {
       "question_number": 23,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise os trechos a seguir. I. Código Civil dos Estados Unidos do Brasil, de 1916 Art. 6º. São incapazes, relativamente a certos atos (Art. 147, inciso I), ou à maneira de os exercer: IV - os silvícolas. Parágrafo único. Os silvícolas ficarão sujeitos ao regime tutelar, estabelecido em leis e regulamentos especiais, e que cessará à medida de sua adaptação. II. Lei nº 6.001 de 1973 Art. 2º. Cumpre à União, aos Estados e aos Municípios, bem como aos órgãos das respectivas administrações indiretas, nos limites de sua competência, para a proteção das comunidades indígenas e a preservação dos seus direitos: II - prestar assistência aos índios e às comunidades indígenas ainda não integrados à comunhão nacional; VI - respeitar, no processo de integração do índio à comunhão nacional, a coesão das comunidades indígenas, os seus valores culturais, tradições, usos e costumes; VIII - utilizar a cooperação, o espírito de iniciativa e as qualidades pessoais do índio, tendo em vista a melhoria de suas condições de vida e a sua integração no processo de desenvolvimento. (Adaptado.) III. Constituição Federal de 1988 Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. Sobre a questão indígena no Brasil, de acordo com os trechos, assinale a afirmativa que interpreta corretamente os princípios que orientaram os marcos normativos mencionados.",
       "alternatives": {
         "A": "Em I, a integração das comunidades indígenas à sociedade brasileira é preconizada por meio de um regime tutelar, que os considerava como indivíduos não plenamente desenvolvidos; em II, a autonomia dos indígenas é garantida por meio do direito à escolha de manter seu isolamento.",
@@ -378,11 +420,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_estatistico_q23.png",
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c4b2f91325de1a63"
     },
     {
       "question_number": 24,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O Estado do Mato Grosso destaca-se tanto nacional quanto internacionalmente por sua significativa produção agrícola. A respeito do escoamento dos excedentes destinados à exportação, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O transporte ferroviário é a principal opção, da qual depende o Estado para o envio de sua produção para os portos da Região Sul.",
@@ -395,11 +439,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "748fffa7fe6789d3"
     },
     {
       "question_number": 25,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A Capitania de Mato Grosso é uma das mais importantes de todo o Brasil, tanto pela sua extensão e pelas sabidas, mas ainda intactas riquezas, que guardam os seus vastíssimos sertões, como por ser fronteira ao vasto, populoso e rico Peru. Adaptado de: Reflexões sobre o estado atual da capitania de Mato Grosso, combinando com os domínios espanhóis que lhe são confinantes, em: Serra, Ricardo, Reflexões sobre a Capitania de Mato Grosso, Cuiabá: IHGMT, 2002, p. 12. A respeito do contexto da criação da Capitania de Mato Grosso e da delimitação de suas fronteiras, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A fronteira sul com a cidade de Assunção, que estava sob domínio espanhol, desempenhava um papel crucial na proteção do interior do território brasileiro.",
@@ -412,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9ea9610d55a1ebee"
     },
     {
       "question_number": 26,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A respeito da guerra entre a Tríplice Aliança e o Paraguai, assinale a afirmativa que descreve corretamente o envolvimento de Mato Grosso no conflito.",
       "alternatives": {
         "A": "Os antecedentes do conflito são marcados pela assinatura do Tratado da Tríplice Aliança, o qual legitimava a guerra contra o Paraguai e designava Mato Grosso como capital da bacia platina, devido à sua extensa ocupação populacional.",
@@ -429,11 +477,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "89d41895e0f54eab"
     },
     {
       "question_number": 27,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise a imagem a seguir. Fonte:https://g1.globo.com/ac/acre/noticia/2019/08/06/revolucao-acreana- charges-e-cronicas-tratavam-acre-como-um-estorvo-pra-nacao.ghtml A charge ilustra o Barão do Rio Branco carregando uma bomba com a inscrição “Acre”, enquanto outro personagem, posicionado atrás, acende o pavio. A legenda diz: “ – Cuidado, barão! Com esta bomba nem S. Pedro com seus tiros o salvará.” Sobre as medidas estabelecidas pelo Tratado de Petrópolis, assinado entre o Brasil e a Bolívia, que resultou na incorporação do Acre ao território brasileiro, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Proibiu a navegação boliviana nos confluentes brasileiros, encerrando a saída da Bolívia ao Oceano Atlântico.",
@@ -446,11 +496,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_estatistico_q27.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "01653532b31a7a6b"
     },
     {
       "question_number": 28,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Deve-se promover a integração da península do Centro-Oeste brasileiro, equipando-a de meios que lhe permitam desempenhar seu duplo papel de sólida plataforma para um transbordamento sobre a Hileia ou para ações visando a contrapor-se ao avanço para o norte de um imperialismo platino. Fonte: SILVA, Golbery do Couto e. Conjuntura política nacional: o poder executivo & geopolítica do Brasil. Brasília: Ed. UnB, 1981. (Coleção Temas Brasileiro, n. 7). Citado por Cavalcanti, Marcelo; Barreira, Celene. Ações da Sudeco no desenvolvimento do Centro-Oeste, B.goiano.geogr.Goiânia, v. 31, n. 2, 2011, p. 180. As afirmativas a seguir descrevem corretamente os objetivos da Superintendência de Desenvolvimento do Centro-Oeste (SUDECO) durante a ditadura militar brasileira, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Estimular o processo de industrialização na região, visando criar polos industriais capazes de competir com os centros empresariais do Sudeste.",
@@ -463,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7edf2cd3ff5b6836"
     },
     {
       "question_number": 29,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A pirâmide de Maslow foi uma das primeiras teorias desenvolvidas para entender o sentido da motivação. De acordo com essa teoria, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os seres humanos são estimulados por uma sequência de necessidades, devendo ocorrer a satisfação das necessidades mais básicas antes de se aspirarem as outras.",
@@ -480,11 +534,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "387ad0ac390cdd03"
     },
     {
       "question_number": 30,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O momento em que o aprovado em um concurso público é investido em cargo público, mediante a aceitação expressa das responsabilidades inerentes à função, é conhecido como posse. No entanto, é apenas no exercício que o servidor desempenha efetivamente suas atribuições. Com relação ao disposto na Lei Complementar nº 04/1990, que dispõe sobre os servidores do Estado de Mato Grosso, é correto afirmar que, o servidor deve entrar em exercício",
       "alternatives": {
         "A": "imediatamente após a posse.",
@@ -497,11 +553,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ce42207a9e90ba86"
     },
     {
       "question_number": 31,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Como regra geral, a contratação de pessoa na Administração Pública deve ocorrer por prazo indeterminado. No entanto, algumas situações de excepcionalidade permitem que sejam realizadas contratações em caráter temporário. Com base nisso, analise as afirmativas a seguir. I. Combater surtos epidêmicos. II. Realizar o recenseamento. III. Permitir a execução de serviço, nas áreas de pesquisa científica, por profissional de notória especialização. Em conformidade com a Lei Complementar nº 04/1990, assinale a opção que indica a(s) situação(ões) que permite(m) contratação temporária.",
       "alternatives": {
         "A": "I, apenas.",
@@ -514,11 +572,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "80fe82ba0559c5f7"
     },
     {
       "question_number": 32,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Em uma situação hipotética, determinado servidor do Estado do Mato Grosso, pertencente à Secretaria de Saúde, cometeu falta punível com cassação de aposentadoria. Nesse caso, com base na Lei Complementar nº 04/1990, a autoridade que deve aplicar a respectiva penalidade ao servidor é o",
       "alternatives": {
         "A": "Governador do Estado.",
@@ -531,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "854ae327f48bfcd6"
     },
     {
       "question_number": 33,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Max Weber diferencia a ética da convicção da ética da responsabilidade. A esse respeito, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A ética da responsabilidade é a que tem como preocupação central as consequências das ações realizadas. ( ) A ética da convicção é a mais apropriada para a função pública, pois independe de variações individuais. ( ) A ética da responsabilidade baseia-se nas predisposições éticas dos agentes e espera deles um elevado senso moral. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -548,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1dd50151500ceec1"
     },
     {
       "question_number": 34,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O instituto da cidadania estabelece direitos e deveres para os indivíduos pertencentes à determinada sociedade. Esses direitos podem ser divididos em civis, políticos e sociais. Assinale a opção que exemplifica corretamente os direitos sociais.",
       "alternatives": {
         "A": "Direito à vida e à liberdade.",
@@ -565,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1ab19d9bffee75f6"
     },
     {
       "question_number": 35,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Um funcionário do governo fica responsável pela distribuição de recursos limitados em uma pequena cidade e se depara com um dilema moral. Uma enchente atingiu a região e ele precisa decidir como alocar os recursos de emergência. Há dois grupos que precisam urgentemente de ajuda: um é um orfanato com várias crianças, e o outro, um hospital que atende a toda a comunidade. Ambos estão em situações críticas e os recursos não são suficientes para atender às necessidades de ambos. Na situação acima, é correto afirmar que o funcionário aderiu a uma ética utilitarista se ele optou por",
       "alternatives": {
         "A": "agir conforme o dever e o princípio moral de direcionar a ajuda para o grupo mais desfavorecido.",
@@ -582,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d3883954e33d40fa"
     },
     {
       "question_number": 36,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com relação ao Estatuto dos Servidores Públicos do Estado do Mato Grosso (Lei Complementar nº 04/1990), associe cada forma de provimento de cargo público à sua descrição. 1. Reversão 2. Recondução 3. Readaptação 4. Reintegração ( ) O servidor aposentado por invalidez retorna à atividade ao serem declarados insubsistentes os motivos da aposentadoria. ( ) O servidor passa a assumir responsabilidades e atribuições compatíveis com uma limitação física ou mental sofrida. ( ) O servidor retorna a um cargo anteriormente ocupado, por exemplo, devido à inabilitação em estágio probatório. ( ) O servidor retorna ao cargo anteriormente ocupado devido a uma invalidação de uma anterior demissão. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "1 – 3 – 2 – 4.",
@@ -599,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1e7f4f5081846dbb"
     },
     {
       "question_number": 37,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta, corretamente, um objetivo do Sistema Único de Saúde – SUS.",
       "alternatives": {
         "A": "Integração em nível executivo das ações de saúde, meio ambiente e saneamento básico.",
@@ -616,11 +686,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1a72f83af53a3ae8"
     },
     {
       "question_number": 38,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta o princípio que foi acrescentado ao Sistema Único de Saúde, em 2023.",
       "alternatives": {
         "A": "Organizar atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral.",
@@ -633,11 +705,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6ebb9948a5b4b101"
     },
     {
       "question_number": 39,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei no 8.080/90 acerca do acompanhamento à mulher nos serviços de saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deverá ser feita por escrito, após o esclarecimento dos seus direitos, com no mínimo 24 (vinte e quatro) horas de antecedência, assinada por ela e arquivada em seu prontuário. ( ) Em casos de urgência e emergência, os profissionais de saúde ficam autorizados a agir na proteção e defesa da saúde e da vida da paciente, ainda que na ausência do acompanhante requerido. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -650,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5d5399d20305c4c6"
     },
     {
       "question_number": 40,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base na organização dos níveis de assistência à saúde, assinale a opção que apresenta a um serviço da atenção terciária.",
       "alternatives": {
         "A": "Unidade de Transplante Renal.",
@@ -667,11 +743,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "84c7aad78f815085"
     },
     {
       "question_number": 41,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Os Programas de Qualidade de Vida e Saúde para os Trabalhadores da Saúde e o Colegiado Gestor fazem parte do seguinte elemento da Politica Nacional de Humanização.",
       "alternatives": {
         "A": "Valores.",
@@ -684,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f5a15ef64fef2fcd"
     },
     {
       "question_number": 42,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em serviços de saúde com mais de vinte trabalhadores é obrigatória a instituição de Comissão Interna de Prevenção de Acidentes - CIPA. ( ) O serviço de saúde deve garantir que o prontuário contenha registros relativos à identificação e todos os procedimentos prestados ao paciente. ( ) O serviço de saúde deve garantir que os trabalhadores sejam avaliados, no mínimo, uma vez ao ano em relação à saúde ocupacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -701,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "bbb38c8da571336c"
     },
     {
       "question_number": 43,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O usuário tem direito a acompanhante, pessoa de sua livre escolha, nas consultas e exames.",
@@ -718,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "672400afe63ba37d"
     },
     {
       "question_number": 44,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com as disposições normativas acerca da segurança do paciente, os eventos adversos que evoluírem para óbito devem ser notificados em até",
       "alternatives": {
         "A": "12 horas, a partir do ocorrido.",
@@ -735,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "78dab6a33f2a3eb8"
     },
     {
       "question_number": 45,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei nº 8.142/90, analise as afirmativas a seguir. I. O Conselho de Saúde é um órgão colegiado responsável por avaliar a situação de saúde e propor diretrizes para formulação da política de saúde. II. Um dos requisitos para que Estados e Municípios recebam os recursos destinados à cobertura das ações e serviços de saúde é a elaboração do Plano de Saúde. III. Os Municípios poderão estabelecer consórcio para execução de ações e serviços de saúde. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -752,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c49286c12283dd5b"
     },
     {
       "question_number": 46,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Conforme disposições sobre a organização do SUS, o conjunto de ações e serviços de saúde, articulados em níveis de complexidade crescente com a finalidade de garantir a integralidade da assistência à saúde, corresponde ao(à)",
       "alternatives": {
         "A": "Mapa de Saúde.",
@@ -769,11 +857,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "afdcb570b4f0fcbc"
     },
     {
       "question_number": 47,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A e B são eventos independentes tais que P[ A ] = 0,5 e P[ B ] = 0,4. Assim, P [ A  B ] é igual a",
       "alternatives": {
         "A": "0,6.",
@@ -786,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f30cc1846e67099c"
     },
     {
       "question_number": 48,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma urna contém 10 bolas idênticas numeradas de 1 a 10. Se duas bolas forem retiradas ao acaso, sem reposição, a probabilidade de que ambas sejam números pares é igual a",
       "alternatives": {
         "A": "2/9.",
@@ -803,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ac376c94fff0e4d6"
     },
     {
       "question_number": 49,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "10 pessoas estão reunidas numa sala; 6 são homens e 4 são mulheres. Se 4 pessoas diferentes forem sorteadas para compor um grupo de trabalho, a probabilidade de que duas sejam homens e duas sejam mulheres é igual a",
       "alternatives": {
         "A": "1/3",
@@ -820,11 +914,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6400cb000a75f5de"
     },
     {
       "question_number": 50,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "S é um conjunto que contém 6 elementos. Um de seus subconjuntos será aleatoriamente sorteado. A probabilidade de que esse subconjunto tenha apenas 1 elemento é igual a",
       "alternatives": {
         "A": "3/32",
@@ -837,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "14c36592b2cd3b7e"
     },
     {
       "question_number": 51,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Estima-se que, numa população, 10% das pessoas adultas sofram de algum problema associado ao estresse. Se cinco pessoas dessa população forem sorteadas (com reposição), a probabilidade de que mais de uma apresente algum problema associado ao estresse é estimada em, aproximadamente,",
       "alternatives": {
         "A": "0,08",
@@ -854,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "be8a33640fd46d7a"
     },
     {
       "question_number": 52,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma variável aleatória discreta X tem a seguinte função de probabilidade: x -2 -1 1 2 p(x) 0,3 0,2 0,4 0,1 O módulo da diferença entre os valores da média e da variância de X é igual a",
       "alternatives": {
         "A": "1,84.",
@@ -871,11 +971,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c4d8fead973fd448"
     },
     {
       "question_number": 53,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma variável aleatória contínua X tem função de densidade de probabilidade dada por kx, 0 < x < 2 f(x) = 0, nos demais casos Nesse caso, se k é uma constante, o valor esperado de X é igual a",
       "alternatives": {
         "A": "0",
@@ -888,11 +990,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a5c0031cd47bc8b0"
     },
     {
       "question_number": 54,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Se uma variável aleatória contínua X tem função de densidade de probabilidade dada por e-x, x ≥ 0 f(x) = 0, x < 0 com > 0, então a variância de X é igual a",
       "alternatives": {
         "A": "",
@@ -905,11 +1009,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "22fee42f1c22dbb7"
     },
     {
       "question_number": 55,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Se X1, X2,..., Xn é uma amostra aleatória simples de tamanho n de uma distribuição Poisson com parâmetro  então a variável ∑ 𝑋𝑖 𝑛 𝑖=1 tem distribuição",
       "alternatives": {
         "A": "Poisson com parâmetro n.",
@@ -922,11 +1028,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9cb8dca5be4912a3"
     },
     {
       "question_number": 56,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma amostra aleatória simples de tamanho 25 de uma variável aleatória populacional suposta normalmente distribuída com média  desconhecida e variância suposta igual a 100 revelou uma média amostral igual a 20,8. Lembre-se que se Z tem distribuição normal padrão, então P[ - 1,96 < Z < 1,96 ] = 0,95. Assim, um intervalo de 95% de confiança para  será dado, aproximadamente, por",
       "alternatives": {
         "A": "(16,9; 24,7)",
@@ -939,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "661563042331712a"
     },
     {
       "question_number": 57,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "As médias de X e de Y valem, respectivamente,",
       "alternatives": {
         "A": "1,5 e 0.",
@@ -956,11 +1066,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "40c21865c4c3c4bb"
     },
     {
       "question_number": 58,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A soma dos valores das variâncias de X e de Y é igual a",
       "alternatives": {
         "A": "2,01.",
@@ -973,11 +1085,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9711cda2f6e8eccf"
     },
     {
       "question_number": 59,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A covariância entre X e Y é igual a",
       "alternatives": {
         "A": "0",
@@ -990,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cbae80215fab53ca"
     },
     {
       "question_number": 60,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "X1, X2 e X3 são variáveis aleatórias independentes, com distribuição Poisson de parâmetros 2, 4 e 6, respectivamente. Nesse caso, a variável Y = X1 + X2 + X3 tem distribuição",
       "alternatives": {
         "A": "Poisson com parâmetro  = 4.",
@@ -1007,11 +1123,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7fc50d55b464c56c"
     },
     {
       "question_number": 61,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma amostra aleatória simples X1, X2, ..., Xn de tamanho n será obtida de uma variável aleatória populacional normalmente distribuída com média  e variância 2. Se 𝑋̅ e s2 = ∑ (𝑋𝑖− 𝑋̅)2 𝑛 𝑖=1 /(𝑛−1) são a média amostral e a variância amostral de e de 2, respectivamente, então os estimadores de máxima verossimilhança de  e de 2 são, respectivamente,",
       "alternatives": {
         "A": "n𝑋̅ e (n – 1)s2/n.",
@@ -1024,11 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dd94f5ddbb57a894"
     },
     {
       "question_number": 62,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma amostra aleatória simples X1, X2, X3, X4, de tamanho 4, será obtida de uma variável populacional com média . Considere os seguintes possíveis estimadores de : T1 = (X1 + X2 + X3 + X4) / 4 T2 = (X1 + 2X2 + 3X3 + 4X4) / 10 T3 = X4 T4 = (X1 - X2 + 3X3 - X4) / 4 São estimadores não tendenciosos de :",
       "alternatives": {
         "A": "T1 e T3 , apenas.",
@@ -1041,11 +1161,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "57d0267e80ae6445"
     },
     {
       "question_number": 63,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Avalie se as seguintes famílias de densidades pertencem à família exponencial: I. Distribuição Normal II. Distribuição Poisson III. Distribuição Bernoulli IV. Distribuição Geométrica Pertencem de fato à família exponencial",
       "alternatives": {
         "A": "I, III e IV, apenas.",
@@ -1058,11 +1180,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f5458168731b5a72"
     },
     {
       "question_number": 64,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para testar H0: p = 0,1 versus H1: p = 0,5, em que p é a probabilidade de “sucesso” de uma distribuição Bernoulli(p), será obtida uma amostra aleatória simples de tamanho n = 5 e será usado o critério que rejeita H0 se o número de “sucessos” na amostra for maior ou igual a 1. Assim, a probabilidade de erro tipo I com esse critério é aproximadamente igual a",
       "alternatives": {
         "A": "0,22.",
@@ -1075,11 +1199,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c11f4d6639c2f3e2"
     },
     {
       "question_number": 65,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para testar H0:  ≤ 36 versus H1:  > 36, em que  é a média de uma distribuição normal com variância conhecida e igual a 144, uma amostra aleatória simples de tamanho n = 100 será obtida. Lembre-se que se Z tem distribuição N(0, 1), então P[ Z > 1,64]  0,05. Assim, ao nível de significância de 5%, o critério usual baseado no valor observado 𝑥̅ da média amostral rejeitará H0 se 𝑥̅ for maior ou igual a",
       "alternatives": {
         "A": "37,124",
@@ -1092,11 +1218,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e51d8fdf8576931a"
     },
     {
       "question_number": 66,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma amostra aleatória simples X1, X2, ..., Xn de tamanho n de distribuição com parâmetro será obtida. Avalie se um estimador T* de  é um estimador não tendencioso de variância uniformemente mínima de  se as seguintes condições forem atendidas: I. E[ T*] =  II. Var[ T*] ≤ Var[ T ] se T é qualquer outro estimador de . III. E[ (T* - ≤ 1. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1109,11 +1237,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8072fd6edeb94287"
     },
     {
       "question_number": 67,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para estimar um parâmetro p (uma proporção de “sucessos”) de uma distribuição Bernoulli, uma amostra aleatória simples de tamanho 625 foi obtida e mostrou um número de “sucessos” igual a 344. Lembre que se Z ~N (0, 1), então P[ - 1,96 < Z < 1,96 ] = 0,95; assim, um intervalo de 95% de confiança estimado para p, no pior caso, será dado aproximadamente por",
       "alternatives": {
         "A": "(0,53; 0,57).",
@@ -1126,11 +1256,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c67ade45735944d0"
     },
     {
       "question_number": 68,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Se X e Y são variáveis aleatórias independentes, ambas com distribuição exponencial com parâmetro , então a variável X + Y tem distribuição",
       "alternatives": {
         "A": "exponencial com parâmetro 2.",
@@ -1143,11 +1275,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f0980b50290e2359"
     },
     {
       "question_number": 69,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para testar H0:  ≤ 20 versus H1:  > 20, em que  é a média de uma distribuição normal com variância conhecida e igual a 125, uma amostra aleatória simples de tamanho 100 será obtida e o critério de decisão rejeitará H0 se o valor da média amostral for maior do que 23. Se P[ Z > z ] indica a probabilidade de que uma variável com distribuição normal padrão seja maior do que z, então, o tamanho  deste critério de teste será dado por",
       "alternatives": {
         "A": "P[ Z > 2 ]  0,023.",
@@ -1160,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c84ba031226237de"
     },
     {
       "question_number": 70,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A regressão logística é uma técnica recomendada para situações em que a variável dependente é de natureza dicotômica ou binária, podendo as variáveis independentes ser categóricas ou não. As características da regressão logística incluem as a seguir listadas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Facilidade para lidar com variáveis independentes categóricas.",
@@ -1177,11 +1313,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3d59563619e3fef8"
     },
     {
       "question_number": 71,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em relação ao modelo Box & Jenkins, avalie se as afirmações a seguir. I. O processo temporal pelo método de Box & Jenkins é representado por um conjunto de processos estocásticos denominados modelos ARIMA (autoregressive integrated moving average) no qual, em cada instante de tempo t, existe um conjunto de valores, aos quais estão associadas possibilidades de ocorrência, que a série pode assumir. II. O problema é descobrir qual processo gera a série em estudo, ou seja, qual modelo representa melhor a série. III. A metodologia Box & Jenkins é aplicada aos processos estocásticos não estacionários. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1194,11 +1332,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2d35bc778c408f9a"
     },
     {
       "question_number": 72,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere o modelo de Regressão Linear Simples (RLS) para o conjunto de dados populacionais Yi =   Xi  ei e sua equivalente representação na amostra Yi =  ̂ ̂Xi  𝑒̂i , i = 1, ..., n. Os estimadores de mínimos quadrados ordinários para os parâmetros  e  serão dadas por: ∑ 𝑋𝑖𝑌𝑖−𝑛𝑋̅𝑌̅ 𝑛 𝑖=1 ∑ 𝑋𝑖",
       "alternatives": {
         "A": " ̂= 𝑌̅- ̂𝑋̅ e ̂ = 2+𝑛𝑋̅2 2 𝑛 𝑖=1 𝑌𝑖 ∑ 𝑋𝑖𝑌𝑖−𝑛𝑋̅𝑌̅ 𝑛 𝑖=1 ∑ 𝑋𝑖",
@@ -1211,11 +1351,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2923c56b0b706bd4"
     },
     {
       "question_number": 73,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Numa regressão linear simples, avalie se os principais problemas detectados por intermédio da análise dos resíduos incluem: I. Não-linearidade da relação entre X e Y. II. Não normalidade dos erros. III. Heterocedasticidade. IV. Correlação entre os erros. V. Presença de outliers. Estão corretos:",
       "alternatives": {
         "A": "I, II, III, IV e V.",
@@ -1228,11 +1370,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5576a0f676dac4de"
     },
     {
       "question_number": 74,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Suponha que X1, ..., Xn seja uma amostra aleatória simples de uma distribuição exponencial com parâmetro  desconhecido, e que será usada uma distribuição a priori de  com distribuição gama com parâmetros  > 0 e  > 0. A distribuição a posteriori de  dado Xi = xi (i = 1, ..., n) terá então distribuição gama com parâmetros respectivos",
       "alternatives": {
         "A": "(n) e- ∑ 𝑥𝑖 𝑛 𝑖=1 )",
@@ -1245,11 +1389,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "11eb47dc987a377b"
     },
     {
       "question_number": 75,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para testar a independência entre duas variáveis dicotômicas 1 e 2, uma tabela de contingência 2 x 2 foi obtida a partir de uma amostra aleatória de 100 observações e mostrou os seguintes resultados: Fator 2 presente ausente presente 30 20 Fator 1 ausente 20 30 A estatística de teste usual qui-quadrado (com 1 grau de liberdade) para esses dados é igual a",
       "alternatives": {
         "A": "1.",
@@ -1262,11 +1408,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "877a6a347bf6b126"
     },
     {
       "question_number": 76,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Na estimação de modelos de média móvel autoregressivos (ARMA) em uma série temporal, avalie se é necessário que o processo seja: I. Estocástico. II. Estacionário. III. Ergótico. Está correto o que se apresenta em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1279,11 +1427,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a00ed9bc0605691f"
     },
     {
       "question_number": 77,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Suponha uma amostra aleatória simples X1, ... X10 de uma densidade uniforme no intervalo [0, ]. Se Y10 = máx [Xi] é a décima estatística de ordem, então a probabilidade P[Y10 < /2] é igual a",
       "alternatives": {
         "A": "1/20",
@@ -1296,11 +1446,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a0970dde9330df58"
     },
     {
       "question_number": 78,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Suponha que serão comparadas as probabilidades de duas distribuições multinomiais X e Y com o mesmo número k de categorias. Sejam p11, p12, ... p1k as probabilidades associadas para a variável multinomial X e sejam p21, p22, ..., p2k, as da variável Y. Deseja-se testar H0: p1j = p2j, j = 1, ..., k, com base numa amostra aleatória simples de tamanho n1 da variável X e em uma amostra aleatória simples de tamanho n2 da variável Y. Suponha ainda que são obtidas N1j observações nas classes j = 1,..., k, da variável X e N2j observações nas classes j, j = 1, .. k, da variável Y. Se as amostras são independentes, então, sob H0, a variável (𝑁𝑖𝑗−𝑛𝑖𝑝𝑗)2 𝑛𝑖𝑝𝑗 𝑘 𝑗=1 Q = ∑ ∑ 2 𝑖=1 tem distribuição assintótica qui-quadrado com",
       "alternatives": {
         "A": "2(k-1) graus de liberdade.",
@@ -1313,11 +1465,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fa6d6c5f3c12903d"
     },
     {
       "question_number": 79,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Pretende-se estimar a proporção populacional de pessoas p que têm um certo atributo. Planeja-se obter uma amostra aleatória simples que assegure que a probabilidade de a proporção amostral de pessoas com o tal atributo na amostra não difira do valor de p por mais de 3% com 95% de confiança. Lembrando que o valor de percentil 97,5% da distribuição normal padrão é 1,96, o tamanho da amostra deve ser, no mínimo, aproximadamente igual a",
       "alternatives": {
         "A": "987.",
@@ -1330,11 +1484,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b88b93d5d2b3b9ba"
     },
     {
       "question_number": 80,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Quando usamos o método de amostragem estratificada devemos especificar quantos elementos da amostra serão retirados em cada estrato. Há três tipos usualmente empregados com este fim: a uniforme, a proporcional e a ótima. Em relação à amostragem estratificada, avalie as afirmativas a seguir: I. Na amostragem estratificada uniforme, sorteia-se um mesmo número de elementos em cada estrato; esse método é particularmente indicado quando não se pode supor que os estratos têm aproximadamente o mesmo tamanho. II. Na amostragem estratificada proporcional, o número de elementos sorteados em cada estrato é proporcional ao número de elementos existentes no estrato. III. A amostragem estratificada ótima sorteia, em cada estrato, um número de elementos proporcional ao número de elementos do estrato e também à variação da variável de interesse no estrato, medida pelo seu desvio-padrão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -1347,7 +1503,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bd273b802aab8aaa"
     }
-  ]
+  ],
+  "year": 2023,
+  "uf": "MT",
+  "level": "Superior",
+  "question_type": "multiple_choice_4"
 }

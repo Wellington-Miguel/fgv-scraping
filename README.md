@@ -1,14 +1,26 @@
-# FGV Conhecimento — Crawler & Parser de Provas Objetivas (Alta Veracidade)
+# FGV Conhecimento — Crawler, Parser e Consolidador de Provas Objetivas (Alta Veracidade)
 
-Pipeline completo para coleta automatizada, auditoria de veracidade e parsing estruturado de provas objetivas (**Tipo 1 / Branca**, 4 ou 5 alternativas e **Certo/Errado**) e gabaritos oficiais do portal [FGV Conhecimento](https://conhecimento.fgv.br/concursos), com suporte a fallback assistido e classificação taxonômica via **Ollama (`llama3.1:8b`)**.
+Pipeline completo para coleta automatizada, auditoria de veracidade, parsing estruturado e consolidação/higienização de provas objetivas (**Tipo 1 / Branca**, 4 ou 5 alternativas e **Certo/Errado**) e gabaritos oficiais do portal [FGV Conhecimento](https://conhecimento.fgv.br/concursos), com suporte a fallback assistido e classificação taxonômica via **Ollama (`llama3.1:8b`)**.
 
-## Resultados Atuais da Base (`./data/processed`)
+## Estado Consolidado da Base (`./data/processed`)
 
-- **1.499 provas objetivas processadas** (em **231 concursos** únicos — incluindo **187 provas de 4 alternativas** e **1 prova de Certo/Errado**)
-- **101.079 questões objetivas extraídas e validadas** (Pydantic)
-- **101.079 questões gabaritadas (100,00% de cobertura oficial)** — `0` provas sem gabarito e `0` provas com gabarito parcial
-- **101.079 questões classificadas por disciplina (100,00% de cobertura)** via extração direta dos cadernos + classificação em lote via `llama3.1:8b`
-- **5.313 imagens/gráficos recortados** em 200 DPI (`./data/processed/images/`, com 5.270 vinculados às questões)
+A base está **100% consolidada, higienizada e pronta para ingestão** no banco de dados da aplicação:
+
+- **1.499 provas objetivas processadas** (em **231 concursos** únicos):
+  - **1.311 provas** de múltipla escolha com 5 alternativas (`A`–`E` — `multiple_choice_5`)
+  - **187 provas** de múltipla escolha com 4 alternativas (`A`–`D` — `multiple_choice_4`)
+  - **1 prova** oficial no formato Certo/Errado (`C`/`E` — `certo_errado`: `mre_tipo-a.json`)
+  - *(As demais 55 pastas em `./data/raw` são cadernos exclusivamente discursivos, peças práticas ou editais sem questões objetivas).*
+- **101.602 questões objetivas extraídas e validadas** (**99,75%** de retenção sobre o total teórico de 101.861 questões):
+  - **58.157 questões únicas deduplicadas** via `question_hash` (SHA-1 determinístico)
+  - **43.445 aparições compartilhadas** (questões de módulos básicos comuns aplicadas a múltiplos cargos de um mesmo concurso)
+- **101.602 questões gabaritadas (100,00% de cobertura oficial)** — `0` questões sem resposta, `0` provas com gabarito parcial e `0` questões de 4 alternativas com gabarito `"E"` inválido
+- **101.602 questões classificadas em 57 disciplinas canônicas (100,00%)** e separadas por módulo (`"Conhecimentos Básicos"`: 53.138 | `"Conhecimentos Específicos"`: 48.464)
+- **1.736 questões anuladas** oficialmente identificadas (`annulled: true`, `answer: "ANULADA"`)
+- **5.318 questões com imagens/gráficos recortados** em 200 DPI (`./data/processed/images/`)
+- **100% dos arquivos enriquecidos com metadados para filtros da aplicação**: `year` (2012–2026), `uf` (27 UFs + `BR`), `level` (`Superior`, `Médio`, `Fundamental`), `question_type`, `cargo_title` higienizado, `module`, `discipline` e `question_hash`
+
+Consulte o relatório completo em [doc/panorama_extracao.md](doc/panorama_extracao.md).
 
 ## Estrutura do Projeto
 
@@ -17,10 +29,11 @@ Pipeline completo para coleta automatizada, auditoria de veracidade e parsing es
 ├── requirements.txt
 ├── README.md
 ├── doc/
-│   └── panorama_extracao.md  # Relatório técnico e auditoria Antes vs. Depois dos 6 Gaps
+│   └── panorama_extracao.md  # Relatório completo do banco consolidado, taxonomia e esquema JSON
 └── src/
     ├── crawler_fgv.py        # Coleta resiliente (Playwright) + pareamento Cargo/Tipo 1 + fallback Wayback
     ├── parser_fgv.py         # Parser 2 colunas (PyMuPDF), 4 padrões de gabarito, disciplinas e recorte visual
+    ├── consolidate_fgv.py    # Consolidação final: taxonomia canônica (57 disciplinas), títulos, hashes e metadados
     ├── ollama_helper.py      # Integração local Ollama (llama3.1:8b) com Guarda Estrita de Veracidade
     └── main.py               # CLI unificada (argparse)
 ```
@@ -43,6 +56,11 @@ Pipeline completo para coleta automatizada, auditoria de veracidade e parsing es
 - **Executar apenas o parser nos arquivos já baixados em `./data/raw`**:
   ```bash
   python -m src.main --only-parse
+  ```
+
+- **Executar o pipeline de consolidação, higienização taxonômica e enriquecimento de metadados (`./data/processed`)**:
+  ```bash
+  python -m src.consolidate_fgv
   ```
 
 - **Executar o parser com fallback assistido pelo Ollama (`llama3.1:8b` + Veracity Guard)**:

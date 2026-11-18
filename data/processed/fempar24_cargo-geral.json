@@ -2,7 +2,7 @@
   "concurso_slug": "fempar24",
   "cargo_slug": "cargo-geral",
   "concurso_title": "Processo Seletivo para a Faculdade Evangélica Mackenzie do Paraná - FEMPAR 2024",
-  "cargo_title": "FACULDADE EVANGÉLICA - MACKENZIE DO PARANÁ",
+  "cargo_title": "Vestibular de Medicina",
   "exam_type": "Tipo 1",
   "total_questions": 80,
   "questions": [
@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "901e0c47c5d37d9f"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5673c552a0cbc5e0"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9301ceeb6f68dfae"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "12560e9685682035"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q5.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8254218120e51bec"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f468b43f79e31373"
     },
     {
       "question_number": 7,
@@ -123,7 +135,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a32ff4a8c212b439"
     },
     {
       "question_number": 8,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "71cf9f6a1db4a631"
     },
     {
       "question_number": 9,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "105dd3c1f3b07029"
     },
     {
       "question_number": 10,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a5e19b5ef8ee6354"
     },
     {
       "question_number": 11,
@@ -191,7 +211,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2762db7c4fc18916"
     },
     {
       "question_number": 12,
@@ -208,7 +230,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "68037f29bb2a0751"
     },
     {
       "question_number": 13,
@@ -225,7 +249,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f7ab4d7380de2aaf"
     },
     {
       "question_number": 14,
@@ -242,7 +268,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5a7c61a56973e007"
     },
     {
       "question_number": 15,
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9684cc453063898a"
     },
     {
       "question_number": 16,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "Based on the information provided by Text I, mark the statements below as true (T) or false (F). ( ) The medicinal potentials of all Amazonian plants are well known. ( ) The structure of plants can be used as patterns for producing drugs. ( ) Amazonian plants have been proven to be useless as contraceptives. The statements are, respectively,",
       "alternatives": {
         "A": "F – T – F.",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "72da50d7a33df8ce"
     },
     {
       "question_number": 17,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "In relation to preserving the rainforest, this text",
       "alternatives": {
         "A": "avoids it.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "503a7cb0c347c753"
     },
     {
       "question_number": 18,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "The expression medicine cabinet in the caption means a place where",
       "alternatives": {
         "A": "drugs are stored.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "00ae48e2974b541b"
     },
     {
       "question_number": 19,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "In the last paragraph, the modal might in “the rainforest might have” expresses",
       "alternatives": {
         "A": "negation.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a35b961893ffd9f8"
     },
     {
       "question_number": 20,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "The question in the last sentence reveals",
       "alternatives": {
         "A": "falsehood.",
@@ -344,11 +382,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d690c1dc2f3b6af4"
     },
     {
       "question_number": 21,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "According to the biography, Avicenna",
       "alternatives": {
         "A": "is ranked among best contemporary philosophers.",
@@ -361,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "e87aed9f315060a7"
     },
     {
       "question_number": 22,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "The pronoun in preceded him (2nd paragraph) refers to",
       "alternatives": {
         "A": "Al-Kindī.",
@@ -378,11 +420,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6da9a51e07acfbe4"
     },
     {
       "question_number": 23,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "Avicenna’s saying implies that",
       "alternatives": {
         "A": "most diseases cannot be cured.",
@@ -395,11 +439,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d8ac74655733b5b3"
     },
     {
       "question_number": 24,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "Text III aims at",
       "alternatives": {
         "A": "engaging in a tricky campaign.",
@@ -412,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a78e1b1b04ea8adb"
     },
     {
       "question_number": 25,
-      "discipline": "Adapted from https://www.adventure-life.com/amazon/articles/medicinal-",
+      "discipline": "Língua Portuguesa",
       "statement": "Unless in “Unless they are nurtured” introduces a(n)",
       "alternatives": {
         "A": "addition.",
@@ -429,11 +477,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b03659f1d9c38f6d"
     },
     {
       "question_number": 26,
-      "discipline": "Língua Estrangeira (Espanhol)",
+      "discipline": "Língua Espanhola",
       "statement": "Na atualidade, a expressão democracia é utilizada para se referir a uma forma de governo em que a soberania pertence ao povo. De fato, nos sistemas democráticos, o poder de tomar decisões e executá-las deve ser uma expressão da vontade popular e deve obedecer às normas de uma constituição compartilhada por todos os cidadãos. Mas, ao longo da história, prevaleceram diversos conceitos e práticas de democracia. A respeito da história da democracia no Ocidente, assinale a opção que descreve corretamente uma experiência histórica que contribuiu para sua formação.",
       "alternatives": {
         "A": "A democracia antiga ateniense baseava-se na participação direta de todos os cidadãos, homens e mulheres adultas, com exceção de estrangeiros e escravos, e suas assembleias mais importantes eram a bulé e a eclesia.",
@@ -446,11 +496,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "97e149f60c9067ff"
     },
     {
       "question_number": 27,
-      "discipline": "Língua Estrangeira (Espanhol)",
+      "discipline": "Língua Espanhola",
       "statement": "Arqueologia da mentalidade Partindo da análise de 4,5 milênios de textos literários da cultura egípcia, greco-romana, judaico-cristã, asiática, hindu, persa e medieval, pesquisadores brasileiros e argentinos encontraram semelhanças na estrutura não semântica entre textos datados da Idade do Bronze e relatos orais de crianças, adultos analfabetos e participantes com diagnóstico de psicose. Ao avaliar os textos selecionados, os pesquisadores procuraram fazer um resgate histórico do funcionamento da mentalidade humana, identificando que registros da Idade do Bronze (2.500 a 1.000 a.C.) são estruturalmente similares a relatos orais de crianças alfabetizadas e indivíduos adultos com diagnóstico de psicose da atualidade. Essa similaridade envolve uma estrutura de repetição do discurso, característica da linguagem oral que é modificada com a educação formal. Durante a Era Axial (800 a 200 a.C.), período da história antiga caracterizado por uma expansão do conhecimento em múltiplas áreas na Afro-Eurásia, a formação cognitiva do pensamento humano se tornou mais articulada, algo que é evidenciado pela literatura do período, que passou a contar com histórias mais complexas. Adaptado de https://revistapesquisa.fapesp.br/arqueologia-da-mentalidade/ Sobre a relação entre escrita e evolução da função do pensamento, analise as afirmativas a seguir. I. Pesquisas em arqueologia da mentalidade utilizam textos antigos como se fossem fósseis do pensamento humano, com base em estudos de neurociência, medicina, história e computação. II. A mente de crianças e de indivíduos com diagnóstico de psicose funciona de modo análogo à dos primeiros hominídeos, com base em oralidade e, por isso, incapaz de armazenar memória social. III. A pesquisa parte da hipótese de que diferentes tipos de registro (escrito ou oral) levam a diferentes sistemas de discurso, o que, por sua vez, tem influência sobre a cognição. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -463,11 +515,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q27.png",
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "fbc323e21504771f"
     },
     {
       "question_number": 28,
-      "discipline": "Língua Estrangeira (Espanhol)",
+      "discipline": "Língua Espanhola",
       "statement": "Em 1815, as tropas napoleônicas foram definitivamente derrotadas na Europa. Esse fato criou condições políticas para o retorno da família real à metrópole. No entanto, D. João não tomou qualquer iniciativa nesse sentido. Ao contrário, tratou de reforçar a presença da Corte na América, elevando a colônia a Reino Unido a Portugal e Algarves. Tal medida não somente colocou a até então colônia em um outro patamar de importância político-administrativa, como reforçou a posição dos grupos que defendiam junto ao príncipe a transferência definitiva da sede do Império para o Rio de Janeiro. História em curso: o Brasil e suas relações com o mundo ocidental. São Paulo: Editora do Brasil; Rio de Janeiro: FGV, 2004 A respeito do governo joanino e da independência brasileira, analise as afirmativas a seguir. I. O maior desafio enfrentado por D. João em sua estada na América foi a rebelião de Pernambuco (1817), um movimento de reação à política joanina que se espalhou pelas capitanias vizinhas, reativas ao aumento de impostos para a manutenção da Corte no Rio de Janeiro. II. Em 1820, uma série de revoltas contra o absolutismo monárquico eclodiram em Portugal, sendo vitoriosas na cidade do Porto, onde exigiu-se a extinção da monarquia dos Bragança e a elaboração de uma Constituição republicana. III. A reação de D. João à revolução do Porto foi permanecer em terras americanas e assegurar a continuação de sua dinastia e de seu governo para o herdeiro, o príncipe D. Pedro, que assumiria o processo formal de independência a partir do Rio de Janeiro. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -480,11 +534,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q28.png",
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a11745506f449382"
     },
     {
       "question_number": 29,
-      "discipline": "Língua Estrangeira (Espanhol)",
+      "discipline": "Língua Espanhola",
       "statement": "A respeito dos processos de abolição da escravatura nos Estados Unidos e no Brasil, no século XIX, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Diferentemente do caso brasileiro, o fim da escravidão nos Estados Unidos esteve ligado a uma cisão entre as elites: as do Norte associadas ao desenvolvimento de uma sociedade liberal e capitalista e as do Sul tendo na escravidão o sustentáculo de sua riqueza. ( ) No Brasil, depois de 1865, o ritmo do movimento inicial em direção à emancipação gradual foi acelerado por acontecimentos externos, incluindo a emancipação nos Estados Unidos e no Caribe espanhol e a Guerra do Paraguai. ( ) As sociedades pós-escravistas brasileira e norte-americana não elaboraram um projeto nítido de inserção política, econômica e social do negro, o que perpetuou culturalmente e economicamente a exclusão que antes se assentava por meio da escravidão. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
@@ -497,11 +553,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q29.png",
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "09f75c52800cd01a"
     },
     {
       "question_number": 30,
-      "discipline": "Língua Estrangeira (Espanhol)",
+      "discipline": "Língua Espanhola",
       "statement": "O coronelismo foi um sistema político, uma complexa rede de relações que vai desde o coronel até o presidente da República, envolvendo compromissos recíprocos. CARVALHO, José Murilo de. Pontos e bordados: escritos de história política. Belo Horizonte: Ed. UFMG, 1998, p. 131. A respeito do coronelismo da Primeira República brasileira (1889-1930), assinale a afirmativa que identifica corretamente as características e o funcionamento desse sistema político.",
       "alternatives": {
         "A": "O governo federal garantia ao coronel o poder sobre seus dependentes e também sobre seus rivais, na forma de favores como melhorias para seu município e controle de cargos públicos locais.",
@@ -514,11 +572,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "16ed6235763858a5"
     },
     {
       "question_number": 31,
-      "discipline": "Língua Estrangeira (Espanhol)",
+      "discipline": "Língua Espanhola",
       "statement": "O colonizado está sempre alerta, decifrando dificilmente os múltiplos signos do mundo colonial; nunca sabe se passou ou não o limite. Diante do mundo determinado pelo colonialista, o colonizado presume-se sempre culpado. Mas, no mais fundo de si mesmo, o colonizado não reconhece nenhuma instância. Está dominado, mas não domesticado. Está inferiorizado, mas não convencido da sua inferioridade. Espera pacientemente que o colono descuide a sua vigilância para atacá-lo. Nos seus músculos, o colonizado está sempre em atitude de expectativa, está sempre pronto a abandonar o seu papel de presa e a assumir o de caçador. O colonizado é um perseguido que sonha permanentemente transformar-se em perseguidor. FANON, Frantz. Os Condenados da Terra. Juiz de Fora: Editora UFJF, 2005, p. 70. Com base no texto, assinale a opção que indica corretamente o aspecto que marcou o processo de descolonização africano.",
       "alternatives": {
         "A": "A resistência latente frente as práticas colonizadoras.",
@@ -531,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c15fa21d6657d836"
     },
     {
       "question_number": 32,
-      "discipline": "Língua Estrangeira (Espanhol)",
+      "discipline": "Língua Espanhola",
       "statement": "Finalizada a Segunda Guerra Mundial, o mundo começou a transitar para uma nova etapa. Em 1946, Winston Churchill caracterizou esse novo período da história humana ao afirmar que “de Stettin, no Báltico, até Trieste, no Adriático, uma cortina de ferro desceu sobre o continente”. A respeito do cenário pós Segunda Guerra, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O isolamento dos países que foram aliados da Alemanha na Segunda Guerra.",
@@ -548,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "97d4ad6071a1376d"
     },
     {
       "question_number": 33,
-      "discipline": "Língua Estrangeira (Espanhol)",
+      "discipline": "Língua Espanhola",
       "statement": "Primavera Árabe é a denominação dada aos protestos que aconteceram nos países árabes do norte da África e no Oriente Médio, a partir de 2010. Entre os desdobramentos da Primavera Árabe, é correto destacar",
       "alternatives": {
         "A": "o descontentamento popular com a perda de direitos fundamentais, os altos níveis de desemprego, a corrupção e a pobreza.",
@@ -565,7 +629,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "12fa7cd70c573104"
     },
     {
       "question_number": 34,
@@ -582,7 +648,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4fed1f478fc78281"
     },
     {
       "question_number": 35,
@@ -599,7 +667,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "56c73b831d1bd0a6"
     },
     {
       "question_number": 36,
@@ -616,7 +686,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q36.png",
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4af616006504cd7f"
     },
     {
       "question_number": 37,
@@ -633,7 +705,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "62097756406053de"
     },
     {
       "question_number": 38,
@@ -650,7 +724,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3b49171f7e997c02"
     },
     {
       "question_number": 39,
@@ -667,7 +743,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q39.png",
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ec5558e66c87b7ad"
     },
     {
       "question_number": 40,
@@ -684,7 +762,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "87c0bd9e3c739b0d"
     },
     {
       "question_number": 41,
@@ -701,7 +781,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a7f856d9b4ce498c"
     },
     {
       "question_number": 42,
@@ -718,7 +800,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q42.png",
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5f9bc891bed96679"
     },
     {
       "question_number": 43,
@@ -735,7 +819,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "374cecc43cb55d05"
     },
     {
       "question_number": 44,
@@ -752,7 +838,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q44.png",
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "088592cb55c748fd"
     },
     {
       "question_number": 45,
@@ -769,7 +857,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bf737c125312016f"
     },
     {
       "question_number": 46,
@@ -786,7 +876,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6caba818239b99ea"
     },
     {
       "question_number": 47,
@@ -803,7 +895,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q47.png",
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3a450bf87032e13f"
     },
     {
       "question_number": 48,
@@ -820,7 +914,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ad416264e31180b9"
     },
     {
       "question_number": 49,
@@ -837,7 +933,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ddcd0704225b6f60"
     },
     {
       "question_number": 50,
@@ -854,7 +952,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q50.png",
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fd8d2d0222c9131b"
     },
     {
       "question_number": 51,
@@ -871,7 +971,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3021a9f532d15e80"
     },
     {
       "question_number": 52,
@@ -888,7 +990,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3b4a80ae68ed7801"
     },
     {
       "question_number": 53,
@@ -905,7 +1009,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d69cbb9605b29914"
     },
     {
       "question_number": 54,
@@ -922,7 +1028,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c84544aa44a225cd"
     },
     {
       "question_number": 55,
@@ -939,7 +1047,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4f48bd38ea3a76c0"
     },
     {
       "question_number": 56,
@@ -956,7 +1066,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q56.png",
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ec5182fc076a31fe"
     },
     {
       "question_number": 57,
@@ -973,7 +1085,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "611fcf0e3b488780"
     },
     {
       "question_number": 58,
@@ -990,7 +1104,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d616050a43c708b2"
     },
     {
       "question_number": 59,
@@ -1007,7 +1123,9 @@
       "annulled": true,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q59.png",
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dbd8961ddda9081c"
     },
     {
       "question_number": 60,
@@ -1024,7 +1142,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q60.png",
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6bf6b6fbddbd7d5f"
     },
     {
       "question_number": 61,
@@ -1041,7 +1161,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "205a92d514fd474e"
     },
     {
       "question_number": 62,
@@ -1058,7 +1180,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q62.png",
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6aec6d8f1bce4fe5"
     },
     {
       "question_number": 63,
@@ -1075,7 +1199,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c99481d43d49039c"
     },
     {
       "question_number": 64,
@@ -1092,7 +1218,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q64.png",
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f5cd7daa82e0f477"
     },
     {
       "question_number": 65,
@@ -1109,7 +1237,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7fb94141342d8a70"
     },
     {
       "question_number": 66,
@@ -1126,7 +1256,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q66.png",
-      "page_number": 19
+      "page_number": 19,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6f6ff9c262de329a"
     },
     {
       "question_number": 67,
@@ -1143,7 +1275,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q67.png",
-      "page_number": 19
+      "page_number": 19,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3facebc9a130f507"
     },
     {
       "question_number": 68,
@@ -1160,7 +1294,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q68.png",
-      "page_number": 19
+      "page_number": 19,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3db374a4a7f48f48"
     },
     {
       "question_number": 69,
@@ -1177,7 +1313,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q69.png",
-      "page_number": 19
+      "page_number": 19,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d429c50a9539f9ae"
     },
     {
       "question_number": 70,
@@ -1194,7 +1332,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "253e9b6f215084cc"
     },
     {
       "question_number": 71,
@@ -1211,7 +1351,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "145bcdf828782e95"
     },
     {
       "question_number": 72,
@@ -1228,7 +1370,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ad853fcf188ec42"
     },
     {
       "question_number": 73,
@@ -1245,7 +1389,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5785d20ddad5b99c"
     },
     {
       "question_number": 74,
@@ -1262,7 +1408,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c81136da3a95b0c1"
     },
     {
       "question_number": 75,
@@ -1279,7 +1427,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7030cade0fdae151"
     },
     {
       "question_number": 76,
@@ -1296,7 +1446,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2e95db63bc59602f"
     },
     {
       "question_number": 77,
@@ -1313,7 +1465,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 21
+      "page_number": 21,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6e6d3d14dcde8336"
     },
     {
       "question_number": 78,
@@ -1330,7 +1484,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q78.png",
-      "page_number": 21
+      "page_number": 21,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "57912eeacdf6d8bb"
     },
     {
       "question_number": 79,
@@ -1347,7 +1503,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q79.png",
-      "page_number": 21
+      "page_number": 21,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "49bcba689c497179"
     },
     {
       "question_number": 80,
@@ -1364,7 +1522,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/fempar24_cargo-geral_q80.png",
-      "page_number": 21
+      "page_number": 21,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a52420cf6dd13fa1"
     }
-  ]
+  ],
+  "year": 2024,
+  "uf": "PR",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

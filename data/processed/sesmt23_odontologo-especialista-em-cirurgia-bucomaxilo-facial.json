@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ebb4432fa100c792"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9e3eeb5f6229df60"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dea91a3b63c1f627"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4bab133faeebffc0"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b30e0965f58d3e17"
     },
     {
       "question_number": 6,
@@ -106,24 +116,28 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d1ebb38a64658835"
     },
     {
       "question_number": 7,
       "discipline": "Língua Portuguesa",
-      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação.",
+      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação. (A) As colônias não deixam de ser colônias pelo fato de serem independentes. (B) É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político. (C) As leis ruins são a pior espécie de tirania. (D) Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente.",
       "alternatives": {
-        "A": "As colônias não deixam de ser colônias pelo fato de serem independentes.",
-        "B": "É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político.",
-        "C": "As leis ruins são a pior espécie de tirania.",
-        "D": "Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente. (A) Como todos os soldados, João também tinha cabelo curto. / adjetivo. (B) Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução. (C) O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva. (D) José era considerado um cabeça-de-vento. / substantivo composto.",
+        "A": "Como todos os soldados, João também tinha cabelo curto. / adjetivo.",
+        "B": "Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução.",
+        "C": "O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva.",
+        "D": "José era considerado um cabeça-de-vento. / substantivo composto.",
         "E": null
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f4a029e9aeceb7c5"
     },
     {
       "question_number": 9,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b89cbd7c05f1ef4e"
     },
     {
       "question_number": 10,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "31fa9a680b927f6e"
     },
     {
       "question_number": 11,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1eb17f6270216508"
     },
     {
       "question_number": 12,
@@ -191,11 +211,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d2db9a5c4a701567"
     },
     {
       "question_number": 13,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Considere a frase: Se você é cuiabano, então é mato-grossense. É logicamente equivalente à frase acima, a seguinte proposição:",
       "alternatives": {
         "A": "Se você é mato-grossense, então é cuiabano.",
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "abc0940f54cb5ce1"
     },
     {
       "question_number": 14,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma reunião de uma unidade hospitalar, estavam presentes 8 servidores, sendo 6 médicos e 2 enfermeiros. Todos sentaram- se ao redor de uma mesa redonda. A quantidade de maneiras distintas que essa mesa pode ser organizada de forma que entre os dois enfermeiros tenha sempre três médicos é",
       "alternatives": {
         "A": "120.",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6320000688f882e7"
     },
     {
       "question_number": 15,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Na malha quadriculada a seguir, formada por quadrados de lados medindo 1cm, estão representados os triângulos ABC e ACD. A área do triângulo ABC, em cm2, é igual a",
       "alternatives": {
         "A": "4,25.",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_odontologo-especialista-em-cirurgia-bucomaxilo-facial_q15.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b065edde5f380649"
     },
     {
       "question_number": 16,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Sobre números inteiros, racionais e reais, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Há mais números racionais que números inteiros. ( ) A soma de dois números irracionais resulta sempre em um número irracional. ( ) A dízima periódica 6,999... é igual ao número inteiro 7. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7aebf60d705e569a"
     },
     {
       "question_number": 17,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Os atendimentos realizados por 6 médicos de uma unidade hospitalar em determinado dia foram registrados. Porém, no fim da semana, percebeu-se que a informação dos atendimentos realizados por um desses médicos foi perdida, conforme a lista apresentada a seguir. 10, 9, 15, 9, X, 12 Sabe-se que, nesse dia, nenhum médico fez menos que 6 e mais que 15 atendimentos e que a média de atendimentos é um número inteiro. Assim, a mediana da lista é",
       "alternatives": {
         "A": "10.",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5c287eb155f82f2f"
     },
     {
       "question_number": 18,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A Federação Mato-grossense de Futebol (FMF) realiza anualmente a competição “Copa FMF” na modalidade masculina. Na edição de 2023, a fase final foi disputada por Cuiabá, Mixto, Nova Mutum e Operário VG em um formato quadrangular, no qual todos se enfrentam apenas uma vez. Em relação aos gols ocorridos nesta fase, sabe-se que:  Mixto fez o triplo de gols que tomou;  Cuiabá e Nova Mutum tomaram 6 gols cada;  Operário VG fez 1 gol e tomou 2 gols;  Cuiabá fez um gol a mais que Nova Mutum;  foram feitos 17 gols no total. Dessa forma, a quantidade de gols feitos pela equipe Nova Mutum foi igual a",
       "alternatives": {
         "A": "5.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "982835a4a82526be"
     },
     {
       "question_number": 19,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A serviço de uma unidade do Sistema Único de Saúde há três veículos: um automóvel, um ônibus e uma van. Um deles tem a cor azul, outro tem a cor amarela e outro tem a cor verde. Das afirmativas a seguir, apenas uma é verdadeira: I. O automóvel é verde. II. O ônibus não é amarelo. III. A van não é verde. Assim, é correto afirmar que",
       "alternatives": {
         "A": "o automóvel é amarelo.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7ef77a3c00d6af17"
     },
     {
       "question_number": 20,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma fábrica de desfibriladores, foi verificado que eram necessários 8 dias para produzir determinada quantidade de aparelhos, usando a mão de obra de 6 trabalhadores por 4 horas em cada dia. Para reduzir o tempo de produção para 2 dias, será necessário:",
       "alternatives": {
         "A": "duplicar o número de trabalhadores.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6a622160497005ef"
     },
     {
       "question_number": 21,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise o gráfico a seguir. Risco de desmatamento por estado em 2023 (km2) Fonte: https://g1.globo.com/mt/mato-grosso/noticia/2023/01/18/mt-e-o-3o- estado-com-maior-risco-de-desmatamento-em-2023-aponta-imazon.ghtml. Adapt. De acordo com o gráfico, o Estado de Mato Grosso é o terceiro estado brasileiro com maior risco de desmatamento na Amazônia. Analise as afirmativas a seguir sobre os fatores que concorrem para esse fenômeno. I. A prática agrícola é um dos fatores que contribui para a aceleração dos processos erosivos do solo e do desmatamento. Isso ocorre devido ao emprego, de técnicas agrícolas extensivas, com a retirada de vegetação para a instalação de grandes lavouras monocultoras. II. A prática do garimpo ilegal gera diversos impactos ambientais, como o desmatamento, por meio da retirada de vegetação nativa, seja para estabelecer acessos às áreas ricas em minerais, seja para criar espaços destinados à própria atividade de mineração. III. A demarcação de terras indígenas no Estado contribui para o desmatamento, uma vez que o processo envolve a utilização de madeira para a construção de residências tradicionais e a exploração dos recursos naturais para fins de subsistência. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -344,11 +382,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_odontologo-especialista-em-cirurgia-bucomaxilo-facial_q21.png",
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0748898a6a4b5b20"
     },
     {
       "question_number": 22,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Sobre os biomas mato-grossenses e suas respectivas localizações conforme a organização espacial do estado, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O bioma Amazônico é caracterizado pela vegetação densa da floresta tropical; está presente no norte do Estado e um dos seus espaços é a microrregião de Sinop. ( ) O bioma Cerrado é caracterizado pela vegetação composta de arvores baixas e com plantas com raízes profundas; está presente na mesorregião do Centro-Sul Mato-grossense. ( ) O bioma Pantanal é caracterizado por suas extensas áreas alagadas e pela planície aluvial; está presente na mesorregião Centro-sul do estado, englobando os municípios de Cáceres e Poconé. As afirmativas são, na ordem apresentada, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -361,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "efa56fc2afb1d6a2"
     },
     {
       "question_number": 23,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise os trechos a seguir. I. Código Civil dos Estados Unidos do Brasil, de 1916 Art. 6º. São incapazes, relativamente a certos atos (Art. 147, inciso I), ou à maneira de os exercer: IV - os silvícolas. Parágrafo único. Os silvícolas ficarão sujeitos ao regime tutelar, estabelecido em leis e regulamentos especiais, e que cessará à medida de sua adaptação. II. Lei nº 6.001 de 1973 Art. 2º. Cumpre à União, aos Estados e aos Municípios, bem como aos órgãos das respectivas administrações indiretas, nos limites de sua competência, para a proteção das comunidades indígenas e a preservação dos seus direitos: II - prestar assistência aos índios e às comunidades indígenas ainda não integrados à comunhão nacional; VI - respeitar, no processo de integração do índio à comunhão nacional, a coesão das comunidades indígenas, os seus valores culturais, tradições, usos e costumes; VIII - utilizar a cooperação, o espírito de iniciativa e as qualidades pessoais do índio, tendo em vista a melhoria de suas condições de vida e a sua integração no processo de desenvolvimento. (Adaptado.) III. Constituição Federal de 1988 Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. Sobre a questão indígena no Brasil, de acordo com os trechos, assinale a afirmativa que interpreta corretamente os princípios que orientaram os marcos normativos mencionados.",
       "alternatives": {
         "A": "Em I, a integração das comunidades indígenas à sociedade brasileira é preconizada por meio de um regime tutelar, que os considerava como indivíduos não plenamente desenvolvidos; em II, a autonomia dos indígenas é garantida por meio do direito à escolha de manter seu isolamento.",
@@ -378,11 +420,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_odontologo-especialista-em-cirurgia-bucomaxilo-facial_q23.png",
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c4b2f91325de1a63"
     },
     {
       "question_number": 24,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O Estado do Mato Grosso destaca-se tanto nacional quanto internacionalmente por sua significativa produção agrícola. A respeito do escoamento dos excedentes destinados à exportação, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O transporte ferroviário é a principal opção, da qual depende o Estado para o envio de sua produção para os portos da Região Sul.",
@@ -395,11 +439,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "748fffa7fe6789d3"
     },
     {
       "question_number": 25,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A Capitania de Mato Grosso é uma das mais importantes de todo o Brasil, tanto pela sua extensão e pelas sabidas, mas ainda intactas riquezas, que guardam os seus vastíssimos sertões, como por ser fronteira ao vasto, populoso e rico Peru. Adaptado de: Reflexões sobre o estado atual da capitania de Mato Grosso, combinando com os domínios espanhóis que lhe são confinantes, em: Serra, Ricardo, Reflexões sobre a Capitania de Mato Grosso, Cuiabá: IHGMT, 2002, p. 12. A respeito do contexto da criação da Capitania de Mato Grosso e da delimitação de suas fronteiras, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A fronteira sul com a cidade de Assunção, que estava sob domínio espanhol, desempenhava um papel crucial na proteção do interior do território brasileiro.",
@@ -412,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9ea9610d55a1ebee"
     },
     {
       "question_number": 26,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A respeito da guerra entre a Tríplice Aliança e o Paraguai, assinale a afirmativa que descreve corretamente o envolvimento de Mato Grosso no conflito.",
       "alternatives": {
         "A": "Os antecedentes do conflito são marcados pela assinatura do Tratado da Tríplice Aliança, o qual legitimava a guerra contra o Paraguai e designava Mato Grosso como capital da bacia platina, devido à sua extensa ocupação populacional.",
@@ -429,11 +477,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "89d41895e0f54eab"
     },
     {
       "question_number": 27,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise a imagem a seguir. Fonte:https://g1.globo.com/ac/acre/noticia/2019/08/06/revolucao-acreana- charges-e-cronicas-tratavam-acre-como-um-estorvo-pra-nacao.ghtml A charge ilustra o Barão do Rio Branco carregando uma bomba com a inscrição “Acre”, enquanto outro personagem, posicionado atrás, acende o pavio. A legenda diz: “ – Cuidado, barão! Com esta bomba nem S. Pedro com seus tiros o salvará.” Sobre as medidas estabelecidas pelo Tratado de Petrópolis, assinado entre o Brasil e a Bolívia, que resultou na incorporação do Acre ao território brasileiro, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Proibiu a navegação boliviana nos confluentes brasileiros, encerrando a saída da Bolívia ao Oceano Atlântico.",
@@ -446,11 +496,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_odontologo-especialista-em-cirurgia-bucomaxilo-facial_q27.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "01653532b31a7a6b"
     },
     {
       "question_number": 28,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Deve-se promover a integração da península do Centro-Oeste brasileiro, equipando-a de meios que lhe permitam desempenhar seu duplo papel de sólida plataforma para um transbordamento sobre a Hileia ou para ações visando a contrapor-se ao avanço para o norte de um imperialismo platino. Fonte: SILVA, Golbery do Couto e. Conjuntura política nacional: o poder executivo & geopolítica do Brasil. Brasília: Ed. UnB, 1981. (Coleção Temas Brasileiro, n. 7). Citado por Cavalcanti, Marcelo; Barreira, Celene. Ações da Sudeco no desenvolvimento do Centro-Oeste, B.goiano.geogr.Goiânia, v. 31, n. 2, 2011, p. 180. As afirmativas a seguir descrevem corretamente os objetivos da Superintendência de Desenvolvimento do Centro-Oeste (SUDECO) durante a ditadura militar brasileira, à exceção de uma. Assinale- a.",
       "alternatives": {
         "A": "Estimular o processo de industrialização na região, visando criar polos industriais capazes de competir com os centros empresariais do Sudeste.",
@@ -463,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7edf2cd3ff5b6836"
     },
     {
       "question_number": 29,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A pirâmide de Maslow foi uma das primeiras teorias desenvolvidas para entender o sentido da motivação. De acordo com essa teoria, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os seres humanos são estimulados por uma sequência de necessidades, devendo ocorrer a satisfação das necessidades mais básicas antes de se aspirarem as outras.",
@@ -480,11 +534,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "387ad0ac390cdd03"
     },
     {
       "question_number": 30,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O momento em que o aprovado em um concurso público é investido em cargo público, mediante a aceitação expressa das responsabilidades inerentes à função, é conhecido como posse. No entanto, é apenas no exercício que o servidor desempenha efetivamente suas atribuições. Com relação ao disposto na Lei Complementar nº 04/1990, que dispõe sobre os servidores do Estado de Mato Grosso, é correto afirmar que, o servidor deve entrar em exercício",
       "alternatives": {
         "A": "imediatamente após a posse.",
@@ -497,11 +553,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ce42207a9e90ba86"
     },
     {
       "question_number": 31,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Como regra geral, a contratação de pessoa na Administração Pública deve ocorrer por prazo indeterminado. No entanto, algumas situações de excepcionalidade permitem que sejam realizadas contratações em caráter temporário. Com base nisso, analise as afirmativas a seguir. I. Combater surtos epidêmicos. II. Realizar o recenseamento. III. Permitir a execução de serviço, nas áreas de pesquisa científica, por profissional de notória especialização. Em conformidade com a Lei Complementar nº 04/1990, assinale a opção que indica a(s) situação(ões) que permite(m) contratação temporária.",
       "alternatives": {
         "A": "I, apenas.",
@@ -514,11 +572,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "80fe82ba0559c5f7"
     },
     {
       "question_number": 32,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Em uma situação hipotética, determinado servidor do Estado do Mato Grosso, pertencente à Secretaria de Saúde, cometeu falta punível com cassação de aposentadoria. Nesse caso, com base na Lei Complementar nº 04/1990, a autoridade que deve aplicar a respectiva penalidade ao servidor é o",
       "alternatives": {
         "A": "Governador do Estado.",
@@ -531,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "854ae327f48bfcd6"
     },
     {
       "question_number": 33,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Max Weber diferencia a ética da convicção da ética da responsabilidade. A esse respeito, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A ética da responsabilidade é a que tem como preocupação central as consequências das ações realizadas. ( ) A ética da convicção é a mais apropriada para a função pública, pois independe de variações individuais. ( ) A ética da responsabilidade baseia-se nas predisposições éticas dos agentes e espera deles um elevado senso moral. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -548,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1dd50151500ceec1"
     },
     {
       "question_number": 34,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O instituto da cidadania estabelece direitos e deveres para os indivíduos pertencentes à determinada sociedade. Esses direitos podem ser divididos em civis, políticos e sociais. Assinale a opção que exemplifica corretamente os direitos sociais.",
       "alternatives": {
         "A": "Direito à vida e à liberdade.",
@@ -565,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1ab19d9bffee75f6"
     },
     {
       "question_number": 35,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Um funcionário do governo fica responsável pela distribuição de recursos limitados em uma pequena cidade e se depara com um dilema moral. Uma enchente atingiu a região e ele precisa decidir como alocar os recursos de emergência. Há dois grupos que precisam urgentemente de ajuda: um é um orfanato com várias crianças, e o outro, um hospital que atende a toda a comunidade. Ambos estão em situações críticas e os recursos não são suficientes para atender às necessidades de ambos. Na situação acima, é correto afirmar que o funcionário aderiu a uma ética utilitarista se ele optou por",
       "alternatives": {
         "A": "agir conforme o dever e o princípio moral de direcionar a ajuda para o grupo mais desfavorecido.",
@@ -582,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d3883954e33d40fa"
     },
     {
       "question_number": 36,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com relação ao Estatuto dos Servidores Públicos do Estado do Mato Grosso (Lei Complementar nº 04/1990), associe cada forma de provimento de cargo público à sua descrição. 1. Reversão 2. Recondução 3. Readaptação 4. Reintegração ( ) O servidor aposentado por invalidez retorna à atividade ao serem declarados insubsistentes os motivos da aposentadoria. ( ) O servidor passa a assumir responsabilidades e atribuições compatíveis com uma limitação física ou mental sofrida. ( ) O servidor retorna a um cargo anteriormente ocupado, por exemplo, devido à inabilitação em estágio probatório. ( ) O servidor retorna ao cargo anteriormente ocupado devido a uma invalidação de uma anterior demissão. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "1 – 3 – 2 – 4.",
@@ -599,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1e7f4f5081846dbb"
     },
     {
       "question_number": 37,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta, corretamente, um objetivo do Sistema Único de Saúde – SUS.",
       "alternatives": {
         "A": "Integração em nível executivo das ações de saúde, meio ambiente e saneamento básico.",
@@ -616,11 +686,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1a72f83af53a3ae8"
     },
     {
       "question_number": 38,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta o princípio que foi acrescentado ao Sistema Único de Saúde, em 2023.",
       "alternatives": {
         "A": "Organizar atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral.",
@@ -633,11 +705,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6ebb9948a5b4b101"
     },
     {
       "question_number": 39,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei no 8.080/90 acerca do acompanhamento à mulher nos serviços de saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deverá ser feita por escrito, após o esclarecimento dos seus direitos, com no mínimo 24 (vinte e quatro) horas de antecedência, assinada por ela e arquivada em seu prontuário. ( ) Em casos de urgência e emergência, os profissionais de saúde ficam autorizados a agir na proteção e defesa da saúde e da vida da paciente, ainda que na ausência do acompanhante requerido. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -650,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5d5399d20305c4c6"
     },
     {
       "question_number": 40,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base na organização dos níveis de assistência à saúde, assinale a opção que apresenta a um serviço da atenção terciária.",
       "alternatives": {
         "A": "Unidade de Transplante Renal.",
@@ -667,11 +743,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "84c7aad78f815085"
     },
     {
       "question_number": 41,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Os Programas de Qualidade de Vida e Saúde para os Trabalhadores da Saúde e o Colegiado Gestor fazem parte do seguinte elemento da Politica Nacional de Humanização.",
       "alternatives": {
         "A": "Valores.",
@@ -684,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f5a15ef64fef2fcd"
     },
     {
       "question_number": 42,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em serviços de saúde com mais de vinte trabalhadores é obrigatória a instituição de Comissão Interna de Prevenção de Acidentes - CIPA. ( ) O serviço de saúde deve garantir que o prontuário contenha registros relativos à identificação e todos os procedimentos prestados ao paciente. ( ) O serviço de saúde deve garantir que os trabalhadores sejam avaliados, no mínimo, uma vez ao ano em relação à saúde ocupacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -701,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "bbb38c8da571336c"
     },
     {
       "question_number": 43,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O usuário tem direito a acompanhante, pessoa de sua livre escolha, nas consultas e exames.",
@@ -718,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "672400afe63ba37d"
     },
     {
       "question_number": 44,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com as disposições normativas acerca da segurança do paciente, os eventos adversos que evoluírem para óbito devem ser notificados em até",
       "alternatives": {
         "A": "12 horas, a partir do ocorrido.",
@@ -735,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "78dab6a33f2a3eb8"
     },
     {
       "question_number": 45,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei nº 8.142/90, analise as afirmativas a seguir. I. O Conselho de Saúde é um órgão colegiado responsável por avaliar a situação de saúde e propor diretrizes para formulação da política de saúde. II. Um dos requisitos para que Estados e Municípios recebam os recursos destinados à cobertura das ações e serviços de saúde é a elaboração do Plano de Saúde. III. Os Municípios poderão estabelecer consórcio para execução de ações e serviços de saúde. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -752,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c49286c12283dd5b"
     },
     {
       "question_number": 46,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Conforme disposições sobre a organização do SUS, o conjunto de ações e serviços de saúde, articulados em níveis de complexidade crescente com a finalidade de garantir a integralidade da assistência à saúde, corresponde ao(à)",
       "alternatives": {
         "A": "Mapa de Saúde.",
@@ -769,11 +857,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "afdcb570b4f0fcbc"
     },
     {
       "question_number": 47,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O câncer de boca segue com uma alta taxa de mortalidade na maioria dos estudos, inclusive afetando pessoas mais jovens, apesar dos recentes avanços de controle da doença. Sobre o tema, assinale a alfirmativa correta.",
       "alternatives": {
         "A": "Os carcinomas de células escamosas representam a segunda neoplasia maligna mais comum encontrada na cavidade oral.",
@@ -786,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8282a54ea285f5bd"
     },
     {
       "question_number": 48,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Existem algumas lesões em cavidade oral que sabemos, através do exame físico, se tratarem de lesões com potencial de transformação maligna. O diagnóstico precoce destas lesões pré- cancerigenas é essencial para o prognóstico do paciente. A respeito destas lesões, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A leucoplasia é definida como uma mancha ou placa branca que não pode ser atribuída a qualquer outra afecção, podendo ser facilmente raspada facilmente.",
@@ -803,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8bb34aad623b1eaf"
     },
     {
       "question_number": 49,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O conhecimento acerca das doenças respiratórias é de grande importância na cirurgia bucomaxilofacial, em virtude do potencial de obstrução das vias respiratórias superiores em muitos procedimentos realizados na cavidade oral, como as cirurgias dos terceiros molares, por exemplo. Sobre as doenças pulmonares obstrutivas crônicas (DPOC), assinale a afirmativa correta.",
       "alternatives": {
         "A": "A asma é definida como hipo-reatividade brônquica e broncodilatação reversível decorrente da contração da musculatura lisa que evolui para hipoxemia.",
@@ -820,11 +914,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d66ad0a64540f9da"
     },
     {
       "question_number": 50,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O espectro das doenças neurológicas é amplo e algumas podem representar um desafio importante para o atendimento odontológico, não somente para o manejo do atendimento, mas também pelo potencial de ocorrência de uma emergência médica durante o mesmo. A respeito do atendimento clínico desses pacientes, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Pacientes com história de crise convulsiva devem ter sua medicação suspensa, sempre que possível, nos procedimentos com anestesia local.",
@@ -837,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6e93109f604c0c22"
     },
     {
       "question_number": 51,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um dente é considerado impactado quando não erupciona totalmente dentro do prazo de seu desenvolvimento e não se pode esperar, por mais tempo, que o faça. Hupp et al. descrevem a frequência destas impacções dentárias, onde encontramos, de acordo com estudos de prevalência, o seguinte resultado:",
       "alternatives": {
         "A": "os terceiros molares superiores e inferiores são os dentes mais frequentes a se tornarem impactados.",
@@ -854,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "81b65838980c22ca"
     },
     {
       "question_number": 52,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A cirurgia de remoção de terceiros molares impactados está associada a uma incidência moderada de complicações pós- operatórias, indo de resultados esperados e previsíveis a complicações mais graves e permanentes. Sobre o tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O edema pós-cirúrgico é uma sequela esperada na cirurgia de terceiro molar, alcançando seu grau máximo no 8º dia pós- cirúrgico.",
@@ -871,11 +971,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a9a54ec086b2b581"
     },
     {
       "question_number": 53,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A pericoronarite aguda, quando grave, pode necessitar de antibioticoterapia. A maioria dos pacientes procuram tratamento quando a dor e o edema intraoral começam. As bactérias responsáveis pela pericoronarite são todas anaeróbias, incluindo os cocos Gram-positivos e os bastonetes Gram-negativos, que são, respectivamente,",
       "alternatives": {
         "A": "Staphylococcus aureus e Prevotella.",
@@ -888,11 +990,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fe43dc93a92b6f38"
     },
     {
       "question_number": 54,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O edema pode não ser um sinal proeminente da infecção do espaço mastigador, especialmente no compartimento massetérico. Nesta área, o processo infeccioso ocorre sob a volumosa massa muscular que confunde ou evita a observação de edemas acentuados. Este processo contrasta distintamente com as infecções de outro espaço, no qual o edema é um sinal cardeal da infecção. Trata-se do espaço",
       "alternatives": {
         "A": "retrofaríngeo.",
@@ -905,11 +1009,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2c63ca9953358daa"
     },
     {
       "question_number": 55,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Quatro tipos de osteomielites dos maxilares são encontrados clinicamente. Em relação à osteomielite crônica primária, um achado clínico frequente é",
       "alternatives": {
         "A": "febre alta intermitente.",
@@ -922,11 +1028,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5f94bd38019852e8"
     },
     {
       "question_number": 56,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Quando se trata de pacientes com infecção, a alergia aos antibióticos deve ser cuidadosamente verificada por meio de uma fonte confiável e registrada. As reações de hipersensibilidade ocorrem com todos os antibióticos, tendo as penicilinas e cefalosporinas as maiores incidências de reações. Em pacientes com infecção sob tratamento com antibioticoterapia, o sinal clínico mais comum em reações de hipersensibilidade do tipo IV é",
       "alternatives": {
         "A": "persistente baixo grau de febre.",
@@ -939,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8d2e1c13204c57b1"
     },
     {
       "question_number": 57,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os sistemas de escore do trauma descrevem a gravidade da lesão e sua correlação com a probabilidade de sobrevivência. Um paciente que foi vítima de politrauma apresenta: abertura dos olhos ao estímulo da voz, conversação desorientada e retirada do estímulo doloroso. Com base na Escala de Coma de Glasgow (ECG), assinale a alternativa que corresponde à pontuação do paciente em questão.",
       "alternatives": {
         "A": "7.",
@@ -956,11 +1066,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bd389a28a8944553"
     },
     {
       "question_number": 58,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Após a chegada de um paciente politraumatizado na emergência, é preciso determinar o grau de dificuldade de uma via aérea antes de optar pelo melhor método de intubação. Por meio de um exame intraoral, é possível realizar essa avaliação. A classificação de Mallampati serve como um indicador para dificuldade de intubação por estimar o espaço para intubação oral, além de determinar a abertura de boca e o tamanho da língua. Segundo a classificação de Mallampati, o paciente, do qual se visualiza apenas o palato mole e a base da úvula, está na",
       "alternatives": {
         "A": "Classe I.",
@@ -973,11 +1085,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d538d1f3e042501f"
     },
     {
       "question_number": 59,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em relação às fraturas dos condilos mandibulares, são indicações absolutas para redução e fixação aberta,",
       "alternatives": {
         "A": "as fraturas condilares bilaterais e a fratura condilar com uma base instável.",
@@ -990,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "33a5410cd3d03a2c"
     },
     {
       "question_number": 60,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Diplopia binocular presente inicialmente após fratura zigomática costuma resultar de edema ou de um hematoma de um ou mais músculos extraoculares e seus nervos e edema ou hematoma intraorbital. Nesses casos, a resolução da diplopia segue após o tratamento da fratura e, em geral, ocorre espontaneamente dentro de",
       "alternatives": {
         "A": "3 a 4 dias.",
@@ -1007,11 +1123,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "112605d00d3d512b"
     },
     {
       "question_number": 61,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A hemorragia do terço médio da face normalmente se manifesta como epistaxe. O controle da epistaxe requer uma compreensão do fornecimento vascular para a região. O sangramento da parede superolateral nasal emana",
       "alternatives": {
         "A": "das artérias etmoidais anterior e posterior.",
@@ -1024,11 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1e52ae79d522e1a3"
     },
     {
       "question_number": 62,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "É recomendável que o processo de anamnese seja concluído com a classificação do paciente de acordo com seu estado físico ou categorias de risco médico. Para tal, a American Society of Anesthesiologists (Sociedade Americana de Anestesiologistas) propôs um sistema de classificação dos pacientes com base no estado físico. Em relação à classificação ASA, consideram-se pacientes ASA III,",
       "alternatives": {
         "A": "os que estão nos primeiros dois trimestres de gestação.",
@@ -1041,11 +1161,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ff9e4dcbfc91cbdc"
     },
     {
       "question_number": 63,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Há décadas, a sedação via inalatória utilizando óxido nitroso vem sendo utilizada em vários países durante a prática odontológica. Em relação a essa técnica, assinale a afirmativa correta.",
       "alternatives": {
         "A": "É realizada a administração constante ao paciente de, no mínimo, 40% de oxigênio durante o atendimento.",
@@ -1058,11 +1180,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2e269e6a42d8ed57"
     },
     {
       "question_number": 64,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Após uma parada cardiorrespiratória, devem-se empregar as manobras de suporte básico de vida. Nessa fase é essencial combinar assistência ventilatória e compressão torácica, fazendo circular sangue oxigenado. Durante a ressuscitação cardiopulmonar (RCP), quando há a presença de dois socorristas, deve-se obedecer a relação de",
       "alternatives": {
         "A": "30 compressões torácicas seguidas de 1 manobra de ventilação.",
@@ -1075,11 +1199,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fbc4fe673eaa956f"
     },
     {
       "question_number": 65,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O choque anafilático (ou anafilaxia generalizada) é uma reação sistêmica aguda geralmente explosiva, mediada por lgE, que ocorre quando indivíduos previamente sensibilizados entram novamente em contato com o antígeno. Na presença de manifestações respiratórias e cardiovasculares durante o atendimento, deve-se administrar, via intramuscular,",
       "alternatives": {
         "A": "0,3ml de uma solução de epinefrina 1:1.000, podendo-se repetir a cada 2 a 5 minutos, até que chegue o socorro médico.",
@@ -1092,11 +1218,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d1b437b7b81a553f"
     },
     {
       "question_number": 66,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Segundo a última recomendação da AHA (American Heart Association) para profilaxia da endocardite bacteriana em pacientes alérgicos a penicilinas, um paciente portador de prótese de válvula mitral que será submetido a exodontias múltiplas deve receber antibioticoterapia profilática. Assinale a alternativa que apresenta a droga, a dose e quanto tempo antes do procedimento deve ser feita essa profilaxia.",
       "alternatives": {
         "A": "Clindamicina, 600mg – 1 dia antes do procedimento cirúrgico.",
@@ -1109,11 +1237,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "292e3523732d239d"
     },
     {
       "question_number": 67,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Assinale o antibiótico que apresenta, como reações adversas, gosto metálico, dor estomacal, náuseas e vômitos e que, quando administrado em largas doses e por tempo prolongado, pode provocar neuropatia periférica.",
       "alternatives": {
         "A": "Eritromicina.",
@@ -1126,11 +1256,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3578eb48906d5b9d"
     },
     {
       "question_number": 68,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os corticosteroides são indicados para prevenir a hiperalgesia e controlar o edema inflamatório, decorrentes de intervenções odontológicas eletivas, como a exodontia de dentes inclusos. Assinale a opção que indica o corticosteroide mais indicado na literatura e a justificativa.",
       "alternatives": {
         "A": "Hidrocortisona, devido a seu longo tempo de ação e menos efeitos adversos.",
@@ -1143,11 +1275,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "339376a3f8113681"
     },
     {
       "question_number": 69,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Assinale a alternativa que apresenta a medicação muito usada para analgesia em cirurgia oral que quando administrada em pacientes que fazem uso de varfarina pode provocar um aumento do efeito anticoagulante desta última, predispondo o paciente a hemorragias no trans ou no pós operatório.",
       "alternatives": {
         "A": "Dipirona.",
@@ -1160,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4d6109796be4252e"
     },
     {
       "question_number": 70,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Na clínica diária são atendidos muitos pacientes idosos e com comorbidades associadas. Em pacientes cardiopatas, a digoxina, também conhecida como digitálico, é utilizada no controle de doença cardíaca, como arritmia e doença cardíaca congestiva. Assinale a alternativa que apresenta o antibiótico com o qual essa medicação pode apresentar interação medicamentosa.",
       "alternatives": {
         "A": "Tetraciclinas.",
@@ -1177,11 +1313,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "651d876b6339a22f"
     },
     {
       "question_number": 71,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A sedação oral pode ser muito útil no atendimento de pacientes ansiosos em consultório odontológico. Existem vários tipos de medicamentos para este fim, sendo o mais comum os benzodiazepícos. Assinale a alternativa que apresenta o mais indicado para administração em pacientes idosos.",
       "alternatives": {
         "A": "Midazolam.",
@@ -1194,11 +1332,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "594cff1881877b26"
     },
     {
       "question_number": 72,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O planejamento de uma cirurgia ortognática deve ser realizado de forma minuciosa, e, muitas vezes, complexa. A relação de Witts avalia o complexo maxila-mandíbula relativo ao plano oclusal. O valor normal é de 0. Assinale o valor que indica classe III esquelética.",
       "alternatives": {
         "A": "Menor do que –1 mm.",
@@ -1211,11 +1351,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e6b45012b0061930"
     },
     {
       "question_number": 73,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A disjunção ortodontico-cirúrgica é feita após a cimentação do Hyrax, ou de qualquer disjuntor de apoio exclusivamente dentário. Ela está indicada nas atresias maxilares isoladas, nas unilaterais, e nas que excedam",
       "alternatives": {
         "A": "5 mm.",
@@ -1228,11 +1370,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "56a950bc8f1f6bf6"
     },
     {
       "question_number": 74,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A osteotomia vertical do ramo foi descrita em 1954 para ser realizada por acesso extrabucal. A partir de 1968, a técnica começou a ser executada pela via intrabucal e, a partir daí, ganhou popularidade entre os cirurgiões. Esta osteotomia tem indicação para os recuos mandibulares, permitindo movimentos de até",
       "alternatives": {
         "A": "7 mm.",
@@ -1245,11 +1389,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "503b4e7c1497a59c"
     },
     {
       "question_number": 75,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A análise de Bolton é indispensável para os pacientes ortocirúrgicos. É relativamente comum encontrarmos uma relação inadequada, principalmente, entre as baterias labiais superior e inferior. A relação entre os dentes anteriores inferiores e os superiores é de",
       "alternatives": {
         "A": "1: 1,1",
@@ -1262,11 +1408,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8c2d6c3883432178"
     },
     {
       "question_number": 76,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O plano oclusal é uma referência importante na elaboração do plano de tratamento das cirurgias combinadas da maxila e da mandíbula, principalmente quando há deformidade vertical associada. O valor da inclinação do plano oclusal em relação ao plano SN é de",
       "alternatives": {
         "A": "10o.",
@@ -1279,11 +1427,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "87225def7fe740d6"
     },
     {
       "question_number": 77,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Leia o fragmento abaixo. O deslocamento do disco da ATM tem sido categorizado de acordo com o amplamente aceito sistema de estágios de Wilkes, usando critérios como gravidade do deslocamento e cronicidade. De acordo com essa classificação, um caso de deslocamento não redutor do disco, agudo ou subagudo, enquadra-se no estágio __________ e ao exame físico, segundo o DC/TMD, o paciente apresenta _____________ no movimento de abertura bucal. Assinale a opção que apresenta os termos que completam adequadamente o texto lido.",
       "alternatives": {
         "A": "I – deflexão",
@@ -1296,11 +1446,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bd1f51a34d1c9ccc"
     },
     {
       "question_number": 78,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A classificação da DTM é dividida em categorias não articulares e articulares. Pode-se considerar uma artropatia inflamatória a",
       "alternatives": {
         "A": "Espondilite anquilosante.",
@@ -1313,11 +1465,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "47bb57bf9b49da7e"
     },
     {
       "question_number": 79,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Durante um procedimento de artroscopia da ATM, após a lavagem e lise do espaço superior, o cirurgião pode optar por infiltrar inúmeras substâncias como AIE, AINES, ácido hialurônico, opioides, IPRF ou substâncias esclerosantes. No entanto isso demanda, extremo cuidado, para não haver extravasamento para outras estruturas anatômicas importantes como a fossa craniana causando até mesmo o óbito do paciente. Assinale a alternativa que apresenta o exame que é obrigatório antes de uma artroscopia da ATM e o que deve ser procurado como variações anatômicas que podem aumentar o risco de acidentes com extravasamento.",
       "alternatives": {
         "A": "Tomografia computadorizada – fissuras que comunicam a ATM com o ouvido externo.",
@@ -1330,11 +1484,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3d4ac0f6dfbc26e7"
     },
     {
       "question_number": 80,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os ligamentos associados à ATM são compostos de colágeno e agem, predominantemente, como limitadores ao movimento do côndilo e do disco. Eles podem ser funcionais porque atuam como componentes anatômicos principais das articulações, ou acessórios porque, embora estejam unidos a estruturas ósseas a alguma distância das articulações, servem, em algum grau, como restritores passivos ao movimento mandibular. Assinale a alternativa que indica um ligamento acessório.",
       "alternatives": {
         "A": "Colateral.",
@@ -1347,7 +1503,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "96195b788967fdf4"
     }
-  ]
+  ],
+  "year": 2023,
+  "uf": "MT",
+  "level": "Superior",
+  "question_type": "multiple_choice_4"
 }

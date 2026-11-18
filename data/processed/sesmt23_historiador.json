@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ebb4432fa100c792"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9e3eeb5f6229df60"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dea91a3b63c1f627"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4bab133faeebffc0"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b30e0965f58d3e17"
     },
     {
       "question_number": 6,
@@ -106,24 +116,28 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d1ebb38a64658835"
     },
     {
       "question_number": 7,
       "discipline": "Língua Portuguesa",
-      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação.",
+      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação. (A) As colônias não deixam de ser colônias pelo fato de serem independentes. (B) É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político. (C) As leis ruins são a pior espécie de tirania. (D) Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente.",
       "alternatives": {
-        "A": "As colônias não deixam de ser colônias pelo fato de serem independentes.",
-        "B": "É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político.",
-        "C": "As leis ruins são a pior espécie de tirania.",
-        "D": "Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente. (A) Como todos os soldados, João também tinha cabelo curto. / adjetivo. (B) Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução. (C) O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva. (D) José era considerado um cabeça-de-vento. / substantivo composto.",
+        "A": "Como todos os soldados, João também tinha cabelo curto. / adjetivo.",
+        "B": "Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução.",
+        "C": "O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva.",
+        "D": "José era considerado um cabeça-de-vento. / substantivo composto.",
         "E": null
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f4a029e9aeceb7c5"
     },
     {
       "question_number": 9,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b89cbd7c05f1ef4e"
     },
     {
       "question_number": 10,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "31fa9a680b927f6e"
     },
     {
       "question_number": 11,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1eb17f6270216508"
     },
     {
       "question_number": 12,
@@ -191,11 +211,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d2db9a5c4a701567"
     },
     {
       "question_number": 13,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Considere a frase: Se você é cuiabano, então é mato-grossense. É logicamente equivalente à frase acima, a seguinte proposição:",
       "alternatives": {
         "A": "Se você é mato-grossense, então é cuiabano.",
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "abc0940f54cb5ce1"
     },
     {
       "question_number": 14,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma reunião de uma unidade hospitalar, estavam presentes 8 servidores, sendo 6 médicos e 2 enfermeiros. Todos sentaram- se ao redor de uma mesa redonda. A quantidade de maneiras distintas que essa mesa pode ser organizada de forma que entre os dois enfermeiros tenha sempre três médicos é",
       "alternatives": {
         "A": "120.",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6320000688f882e7"
     },
     {
       "question_number": 15,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Na malha quadriculada a seguir, formada por quadrados de lados medindo 1cm, estão representados os triângulos ABC e ACD. A área do triângulo ABC, em cm2, é igual a",
       "alternatives": {
         "A": "4,25.",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q15.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b065edde5f380649"
     },
     {
       "question_number": 16,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Sobre números inteiros, racionais e reais, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Há mais números racionais que números inteiros. ( ) A soma de dois números irracionais resulta sempre em um número irracional. ( ) A dízima periódica 6,999... é igual ao número inteiro 7. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7aebf60d705e569a"
     },
     {
       "question_number": 17,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Os atendimentos realizados por 6 médicos de uma unidade hospitalar em determinado dia foram registrados. Porém, no fim da semana, percebeu-se que a informação dos atendimentos realizados por um desses médicos foi perdida, conforme a lista apresentada a seguir. 10, 9, 15, 9, X, 12 Sabe-se que, nesse dia, nenhum médico fez menos que 6 e mais que 15 atendimentos e que a média de atendimentos é um número inteiro. Assim, a mediana da lista é",
       "alternatives": {
         "A": "10.",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5c287eb155f82f2f"
     },
     {
       "question_number": 18,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A Federação Mato-grossense de Futebol (FMF) realiza anualmente a competição “Copa FMF” na modalidade masculina. Na edição de 2023, a fase final foi disputada por Cuiabá, Mixto, Nova Mutum e Operário VG em um formato quadrangular, no qual todos se enfrentam apenas uma vez. Em relação aos gols ocorridos nesta fase, sabe-se que:  Mixto fez o triplo de gols que tomou;  Cuiabá e Nova Mutum tomaram 6 gols cada;  Operário VG fez 1 gol e tomou 2 gols;  Cuiabá fez um gol a mais que Nova Mutum;  foram feitos 17 gols no total. Dessa forma, a quantidade de gols feitos pela equipe Nova Mutum foi igual a",
       "alternatives": {
         "A": "5.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "982835a4a82526be"
     },
     {
       "question_number": 19,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A serviço de uma unidade do Sistema Único de Saúde há três veículos: um automóvel, um ônibus e uma van. Um deles tem a cor azul, outro tem a cor amarela e outro tem a cor verde. Das afirmativas a seguir, apenas uma é verdadeira: I. O automóvel é verde. II. O ônibus não é amarelo. III. A van não é verde. Assim, é correto afirmar que",
       "alternatives": {
         "A": "o automóvel é amarelo.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7ef77a3c00d6af17"
     },
     {
       "question_number": 20,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma fábrica de desfibriladores, foi verificado que eram necessários 8 dias para produzir determinada quantidade de aparelhos, usando a mão de obra de 6 trabalhadores por 4 horas em cada dia. Para reduzir o tempo de produção para 2 dias, será necessário:",
       "alternatives": {
         "A": "duplicar o número de trabalhadores.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6a622160497005ef"
     },
     {
       "question_number": 21,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise o gráfico a seguir. Risco de desmatamento por estado em 2023 (km2) Fonte: https://g1.globo.com/mt/mato-grosso/noticia/2023/01/18/mt-e-o-3o- estado-com-maior-risco-de-desmatamento-em-2023-aponta-imazon.ghtml. Adapt. De acordo com o gráfico, o Estado de Mato Grosso é o terceiro estado brasileiro com maior risco de desmatamento na Amazônia. Analise as afirmativas a seguir sobre os fatores que concorrem para esse fenômeno. I. A prática agrícola é um dos fatores que contribui para a aceleração dos processos erosivos do solo e do desmatamento. Isso ocorre devido ao emprego, de técnicas agrícolas extensivas, com a retirada de vegetação para a instalação de grandes lavouras monocultoras. II. A prática do garimpo ilegal gera diversos impactos ambientais, como o desmatamento, por meio da retirada de vegetação nativa, seja para estabelecer acessos às áreas ricas em minerais, seja para criar espaços destinados à própria atividade de mineração. III. A demarcação de terras indígenas no Estado contribui para o desmatamento, uma vez que o processo envolve a utilização de madeira para a construção de residências tradicionais e a exploração dos recursos naturais para fins de subsistência. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -344,11 +382,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q21.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0748898a6a4b5b20"
     },
     {
       "question_number": 22,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Sobre os biomas mato-grossenses e suas respectivas localizações conforme a organização espacial do estado, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O bioma Amazônico é caracterizado pela vegetação densa da floresta tropical; está presente no norte do Estado e um dos seus espaços é a microrregião de Sinop. ( ) O bioma Cerrado é caracterizado pela vegetação composta de arvores baixas e com plantas com raízes profundas; está presente na mesorregião do Centro-Sul Mato-grossense. ( ) O bioma Pantanal é caracterizado por suas extensas áreas alagadas e pela planície aluvial; está presente na mesorregião Centro-sul do estado, englobando os municípios de Cáceres e Poconé. As afirmativas são, na ordem apresentada, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -361,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "efa56fc2afb1d6a2"
     },
     {
       "question_number": 23,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise os trechos a seguir. I. Código Civil dos Estados Unidos do Brasil, de 1916 Art. 6º. São incapazes, relativamente a certos atos (Art. 147, inciso I), ou à maneira de os exercer: IV - os silvícolas. Parágrafo único. Os silvícolas ficarão sujeitos ao regime tutelar, estabelecido em leis e regulamentos especiais, e que cessará à medida de sua adaptação. II. Lei nº 6.001 de 1973 Art. 2º. Cumpre à União, aos Estados e aos Municípios, bem como aos órgãos das respectivas administrações indiretas, nos limites de sua competência, para a proteção das comunidades indígenas e a preservação dos seus direitos: II - prestar assistência aos índios e às comunidades indígenas ainda não integrados à comunhão nacional; VI - respeitar, no processo de integração do índio à comunhão nacional, a coesão das comunidades indígenas, os seus valores culturais, tradições, usos e costumes; VIII - utilizar a cooperação, o espírito de iniciativa e as qualidades pessoais do índio, tendo em vista a melhoria de suas condições de vida e a sua integração no processo de desenvolvimento. (Adaptado.) III. Constituição Federal de 1988 Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. Sobre a questão indígena no Brasil, de acordo com os trechos, assinale a afirmativa que interpreta corretamente os princípios que orientaram os marcos normativos mencionados.",
       "alternatives": {
         "A": "Em I, a integração das comunidades indígenas à sociedade brasileira é preconizada por meio de um regime tutelar, que os considerava como indivíduos não plenamente desenvolvidos; em II, a autonomia dos indígenas é garantida por meio do direito à escolha de manter seu isolamento.",
@@ -378,11 +420,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q23.png",
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c4b2f91325de1a63"
     },
     {
       "question_number": 24,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O Estado do Mato Grosso destaca-se tanto nacional quanto internacionalmente por sua significativa produção agrícola. A respeito do escoamento dos excedentes destinados à exportação, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O transporte ferroviário é a principal opção, da qual depende o Estado para o envio de sua produção para os portos da Região Sul.",
@@ -395,11 +439,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "748fffa7fe6789d3"
     },
     {
       "question_number": 25,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A Capitania de Mato Grosso é uma das mais importantes de todo o Brasil, tanto pela sua extensão e pelas sabidas, mas ainda intactas riquezas, que guardam os seus vastíssimos sertões, como por ser fronteira ao vasto, populoso e rico Peru. Adaptado de: Reflexões sobre o estado atual da capitania de Mato Grosso, combinando com os domínios espanhóis que lhe são confinantes, em: Serra, Ricardo, Reflexões sobre a Capitania de Mato Grosso, Cuiabá: IHGMT, 2002, p. 12. A respeito do contexto da criação da Capitania de Mato Grosso e da delimitação de suas fronteiras, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A fronteira sul com a cidade de Assunção, que estava sob domínio espanhol, desempenhava um papel crucial na proteção do interior do território brasileiro.",
@@ -412,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9ea9610d55a1ebee"
     },
     {
       "question_number": 26,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A respeito da guerra entre a Tríplice Aliança e o Paraguai, assinale a afirmativa que descreve corretamente o envolvimento de Mato Grosso no conflito.",
       "alternatives": {
         "A": "Os antecedentes do conflito são marcados pela assinatura do Tratado da Tríplice Aliança, o qual legitimava a guerra contra o Paraguai e designava Mato Grosso como capital da bacia platina, devido à sua extensa ocupação populacional.",
@@ -429,11 +477,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "89d41895e0f54eab"
     },
     {
       "question_number": 27,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise a imagem a seguir. Fonte:https://g1.globo.com/ac/acre/noticia/2019/08/06/revolucao-acreana- charges-e-cronicas-tratavam-acre-como-um-estorvo-pra-nacao.ghtml A charge ilustra o Barão do Rio Branco carregando uma bomba com a inscrição “Acre”, enquanto outro personagem, posicionado atrás, acende o pavio. A legenda diz: “ – Cuidado, barão! Com esta bomba nem S. Pedro com seus tiros o salvará.” Sobre as medidas estabelecidas pelo Tratado de Petrópolis, assinado entre o Brasil e a Bolívia, que resultou na incorporação do Acre ao território brasileiro, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Proibiu a navegação boliviana nos confluentes brasileiros, encerrando a saída da Bolívia ao Oceano Atlântico.",
@@ -446,11 +496,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q27.png",
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "01653532b31a7a6b"
     },
     {
       "question_number": 28,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Deve-se promover a integração da península do Centro-Oeste brasileiro, equipando-a de meios que lhe permitam desempenhar seu duplo papel de sólida plataforma para um transbordamento sobre a Hileia ou para ações visando a contrapor-se ao avanço para o norte de um imperialismo platino. Fonte: SILVA, Golbery do Couto e. Conjuntura política nacional: o poder executivo & geopolítica do Brasil. Brasília: Ed. UnB, 1981. (Coleção Temas Brasileiro, n. 7). Citado por Cavalcanti, Marcelo; Barreira, Celene. Ações da Sudeco no desenvolvimento do Centro-Oeste, B.goiano.geogr.Goiânia, v. 31, n. 2, 2011, p. 180. As afirmativas a seguir descrevem corretamente os objetivos da Superintendência de Desenvolvimento do Centro-Oeste (SUDECO) durante a ditadura militar brasileira, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Estimular o processo de industrialização na região, visando criar polos industriais capazes de competir com os centros empresariais do Sudeste.",
@@ -463,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7edf2cd3ff5b6836"
     },
     {
       "question_number": 29,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A pirâmide de Maslow foi uma das primeiras teorias desenvolvidas para entender o sentido da motivação. De acordo com essa teoria, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os seres humanos são estimulados por uma sequência de necessidades, devendo ocorrer a satisfação das necessidades mais básicas antes de se aspirarem as outras.",
@@ -480,11 +534,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "387ad0ac390cdd03"
     },
     {
       "question_number": 30,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O momento em que o aprovado em um concurso público é investido em cargo público, mediante a aceitação expressa das responsabilidades inerentes à função, é conhecido como posse. No entanto, é apenas no exercício que o servidor desempenha efetivamente suas atribuições. Com relação ao disposto na Lei Complementar nº 04/1990, que dispõe sobre os servidores do Estado de Mato Grosso, é correto afirmar que, o servidor deve entrar em exercício",
       "alternatives": {
         "A": "imediatamente após a posse.",
@@ -497,11 +553,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ce42207a9e90ba86"
     },
     {
       "question_number": 31,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Como regra geral, a contratação de pessoa na Administração Pública deve ocorrer por prazo indeterminado. No entanto, algumas situações de excepcionalidade permitem que sejam realizadas contratações em caráter temporário. Com base nisso, analise as afirmativas a seguir. I. Combater surtos epidêmicos. II. Realizar o recenseamento. III. Permitir a execução de serviço, nas áreas de pesquisa científica, por profissional de notória especialização. Em conformidade com a Lei Complementar nº 04/1990, assinale a opção que indica a(s) situação(ões) que permite(m) contratação temporária.",
       "alternatives": {
         "A": "I, apenas.",
@@ -514,11 +572,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "80fe82ba0559c5f7"
     },
     {
       "question_number": 32,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Em uma situação hipotética, determinado servidor do Estado do Mato Grosso, pertencente à Secretaria de Saúde, cometeu falta punível com cassação de aposentadoria. Nesse caso, com base na Lei Complementar nº 04/1990, a autoridade que deve aplicar a respectiva penalidade ao servidor é o",
       "alternatives": {
         "A": "Governador do Estado.",
@@ -531,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "854ae327f48bfcd6"
     },
     {
       "question_number": 33,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Max Weber diferencia a ética da convicção da ética da responsabilidade. A esse respeito, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A ética da responsabilidade é a que tem como preocupação central as consequências das ações realizadas. ( ) A ética da convicção é a mais apropriada para a função pública, pois independe de variações individuais. ( ) A ética da responsabilidade baseia-se nas predisposições éticas dos agentes e espera deles um elevado senso moral. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -548,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1dd50151500ceec1"
     },
     {
       "question_number": 34,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O instituto da cidadania estabelece direitos e deveres para os indivíduos pertencentes à determinada sociedade. Esses direitos podem ser divididos em civis, políticos e sociais. Assinale a opção que exemplifica corretamente os direitos sociais.",
       "alternatives": {
         "A": "Direito à vida e à liberdade.",
@@ -565,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1ab19d9bffee75f6"
     },
     {
       "question_number": 35,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Um funcionário do governo fica responsável pela distribuição de recursos limitados em uma pequena cidade e se depara com um dilema moral. Uma enchente atingiu a região e ele precisa decidir como alocar os recursos de emergência. Há dois grupos que precisam urgentemente de ajuda: um é um orfanato com várias crianças, e o outro, um hospital que atende a toda a comunidade. Ambos estão em situações críticas e os recursos não são suficientes para atender às necessidades de ambos. Na situação acima, é correto afirmar que o funcionário aderiu a uma ética utilitarista se ele optou por",
       "alternatives": {
         "A": "agir conforme o dever e o princípio moral de direcionar a ajuda para o grupo mais desfavorecido.",
@@ -582,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d3883954e33d40fa"
     },
     {
       "question_number": 36,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com relação ao Estatuto dos Servidores Públicos do Estado do Mato Grosso (Lei Complementar nº 04/1990), associe cada forma de provimento de cargo público à sua descrição. 1. Reversão 2. Recondução 3. Readaptação 4. Reintegração ( ) O servidor aposentado por invalidez retorna à atividade ao serem declarados insubsistentes os motivos da aposentadoria. ( ) O servidor passa a assumir responsabilidades e atribuições compatíveis com uma limitação física ou mental sofrida. ( ) O servidor retorna a um cargo anteriormente ocupado, por exemplo, devido à inabilitação em estágio probatório. ( ) O servidor retorna ao cargo anteriormente ocupado devido a uma invalidação de uma anterior demissão. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "1 – 3 – 2 – 4.",
@@ -599,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1e7f4f5081846dbb"
     },
     {
       "question_number": 37,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta, corretamente, um objetivo do Sistema Único de Saúde – SUS.",
       "alternatives": {
         "A": "Integração em nível executivo das ações de saúde, meio ambiente e saneamento básico.",
@@ -616,11 +686,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1a72f83af53a3ae8"
     },
     {
       "question_number": 38,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta o princípio que foi acrescentado ao Sistema Único de Saúde, em 2023.",
       "alternatives": {
         "A": "Organizar atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral.",
@@ -633,11 +705,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6ebb9948a5b4b101"
     },
     {
       "question_number": 39,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei no 8.080/90 acerca do acompanhamento à mulher nos serviços de saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deverá ser feita por escrito, após o esclarecimento dos seus direitos, com no mínimo 24 (vinte e quatro) horas de antecedência, assinada por ela e arquivada em seu prontuário. ( ) Em casos de urgência e emergência, os profissionais de saúde ficam autorizados a agir na proteção e defesa da saúde e da vida da paciente, ainda que na ausência do acompanhante requerido. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -650,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5d5399d20305c4c6"
     },
     {
       "question_number": 40,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base na organização dos níveis de assistência à saúde, assinale a opção que apresenta a um serviço da atenção terciária.",
       "alternatives": {
         "A": "Unidade de Transplante Renal.",
@@ -667,11 +743,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "84c7aad78f815085"
     },
     {
       "question_number": 41,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Os Programas de Qualidade de Vida e Saúde para os Trabalhadores da Saúde e o Colegiado Gestor fazem parte do seguinte elemento da Politica Nacional de Humanização.",
       "alternatives": {
         "A": "Valores.",
@@ -684,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f5a15ef64fef2fcd"
     },
     {
       "question_number": 42,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em serviços de saúde com mais de vinte trabalhadores é obrigatória a instituição de Comissão Interna de Prevenção de Acidentes - CIPA. ( ) O serviço de saúde deve garantir que o prontuário contenha registros relativos à identificação e todos os procedimentos prestados ao paciente. ( ) O serviço de saúde deve garantir que os trabalhadores sejam avaliados, no mínimo, uma vez ao ano em relação à saúde ocupacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -701,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "bbb38c8da571336c"
     },
     {
       "question_number": 43,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O usuário tem direito a acompanhante, pessoa de sua livre escolha, nas consultas e exames.",
@@ -718,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "672400afe63ba37d"
     },
     {
       "question_number": 44,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com as disposições normativas acerca da segurança do paciente, os eventos adversos que evoluírem para óbito devem ser notificados em até",
       "alternatives": {
         "A": "12 horas, a partir do ocorrido.",
@@ -735,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "78dab6a33f2a3eb8"
     },
     {
       "question_number": 45,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei nº 8.142/90, analise as afirmativas a seguir. I. O Conselho de Saúde é um órgão colegiado responsável por avaliar a situação de saúde e propor diretrizes para formulação da política de saúde. II. Um dos requisitos para que Estados e Municípios recebam os recursos destinados à cobertura das ações e serviços de saúde é a elaboração do Plano de Saúde. III. Os Municípios poderão estabelecer consórcio para execução de ações e serviços de saúde. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -752,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c49286c12283dd5b"
     },
     {
       "question_number": 46,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Conforme disposições sobre a organização do SUS, o conjunto de ações e serviços de saúde, articulados em níveis de complexidade crescente com a finalidade de garantir a integralidade da assistência à saúde, corresponde ao(à)",
       "alternatives": {
         "A": "Mapa de Saúde.",
@@ -769,11 +857,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "afdcb570b4f0fcbc"
     },
     {
       "question_number": 47,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O passado é algo que nunca poderemos possuir. Porque quando percebemos o que aconteceu, os fatos já estão inacessíveis para nós: não podemos revivê-los, recuperá-los, ou retornar no tempo como um experimento de laboratório ou simulação de computador. Salvo com a invenção de uma máquina do tempo, nunca retornaremos para ter certeza. Contudo, a experiência direta de eventos não é necessariamente o melhor caminho para entendê-los, porque nosso campo de visão não vai mais além de nossos sentidos imediatos. Falta-nos a capacidade, quando imaginamos como sobreviver à escassez de víveres, ou fugir de um bando de criminosos, ou lutar dentro de uma armadura, para assumir nosso papel de historiador. O mero ato de representação, todavia, nos faz sentir superiores porque nós mesmos estamos encarregados desta ação: somos nós que tornamos a complexidade compreensível, primeiro para nós mesmos, depois para os outros. Adaptado de: GADDIS, John Lewis. Paisagens da História, como os historiadores mapeiam o passado, Rio de Janeiro: Campus, 2003, pp. 19- 22. Com base na leitura do trecho, assinale a afirmativa que descreve corretamente a perspectiva do autor sobre a relação entre historiadores e eventos passados.",
       "alternatives": {
         "A": "Os participantes dos eventos históricos são os únicos capazes de relatar verdadeiramente a história, pois os sentidos e a experiência desempenham um papel fundamental na descoberta da verdade histórica.",
@@ -786,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7aa72ded66aeb109"
     },
     {
       "question_number": 48,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A respeito da relação entre História e outras ciências, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A aproximação entre História e Arqueologia resultou na ampliação e diversificação dos documentos históricos, incorporando objetos materiais e estabelecendo uma hierarquia entre as fontes.",
@@ -803,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e40439e4dc9f0227"
     },
     {
       "question_number": 49,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Que é o tempo histórico? Essa é uma das perguntas mais difíceis de se responder no campo da historiografia. A questão nos leva necessariamente a adentrar o terreno da teoria da história, sob uma perspectiva ainda mais profunda do que a habitual. Para tentar responder a essa questão, recorrente no campo dos estudos da história, precisaremos lançar mão de uma abordagem teórica, pois os testemunhos da tradição e do passado têm-se mostrado insuficientes. As análises semânticas não têm por objetivo primeiro um estudo de caráter linguístico-histórico. Em vez disso, elas pretendem investigar a constituição linguística das experiencias temporais, ali onde elas se manifestaram. Assim, as análises ampliam-se cada vez mais, seja com o intuito de esclarecer o contexto histórico-social, seja para acompanhar o traçado da orientação linguístico- pragmática ou linguístico política dos autores os oradores, ou ainda com o intuito de fazer deduções, a partir da semântica dos conceitos, sobre a dimensão histórica e antropológica inerente a toda conceptualização e a todo ato de linguagem. Adaptado de: KOSELLECK, Reinhart. Futuro Passado, Contribuição à semântica dos tempos históricos, Rio de Janeiro: Contraponto, Editora PUC RIO, 2006, p. 13 Com base no trecho, analise as afirmativas a seguir sobre o tempo histórico. I. O tempo histórico é composto por sobreposição de domínios temporais, os quais podem ser revelados pelos historiadores a partir da análise semântica dos documentos históricos. II. No tempo histórico, as projeções futuras contidas na linguagem dos documentos não devem ser consideradas pelos historiadores, que não devem fazer prognósticos mensuráveis. III. O tempo histórico é percebido como linear, seguindo as determinações temporais compreendidas de maneira física ou astronômica, que transcende o simbolismo observado nas fontes históricas. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -820,11 +914,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f54c3c6d417d4b3c"
     },
     {
       "question_number": 50,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A micro história coloca no seu centro perguntas sobre o funcionamento da racionalidade humana que governa os comportamentos – nesse sentido, colide com a literatura – e tem a pretensão de contribuir para criação e a crítica das ciências humanas em geral, no lugar de utilizá-las passivamente. Digamos, em resumo, que não elimina nada do geral nem do específico. A contraposição entre global e local e entre o coletivo e o individual não tem sentido porque a micro história, apesar de utilizar um lugar ou uma vicissitude individual ou um evento particular, os usa como reduzindo a escala de observação e concentrando a atenção através de um microscópio, identifica aspectos importantes invisíveis a um olhar e uma leitura de grandes dimensões. A micro história nasceu como crítica das generalizações simplificadoras e imóveis do estrutural funcionalismo e inclusive como crítica política dos automatismos sociais das leituras e das conceptualizações sociológicas do tipo “a classe operária é de esquerda.” Adaptado de: LEVI, Giovanni. Microhistoria e História Global, Historia crítica, n. 69, 2018, pp 21-35. Com base na interpretação de Giovani Levi, é correto afirmar que a Micro História",
       "alternatives": {
         "A": "em seu método, busca o auxílio de outras ciências, como a literatura, compreendendo o relato histórico como uma narrativa fictícia.",
@@ -837,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "512e517c17fe601d"
     },
     {
       "question_number": 51,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Metodologia desenvolvida desde fins dos anos 1950 e amplamente utilizada e consolidada ao redor do mundo, a história oral chega ao século XXI catalisada pelas discussões da história pública, assim como pelas novas tecnologias, que colocam em questão novas formas de gravação, interação, preservação e difusão das narrativas orais e audiovisuais. Fonte: DE ALMEIDA, Juniele Rabêlo; Fonseca, Vivian. História Oral: Dimensões Públicas no tempo presente, Estudos histírcos, 34 (74), 2021, p. 446. Assinale a afirmativa que descreve corretamente as possibilidades do uso da metodologia da História Oral, como as entrevistas, para a investigação histórica.",
       "alternatives": {
         "A": "O avanço da tecnologia de gravação das entrevistas tem permitido aos historiadores compreenderem objetivamente o passado histórico, tornando-o inquestionável.",
@@ -854,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "39077e0359c168d6"
     },
     {
       "question_number": 52,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Observe a imagem a seguir. A fotografia retrata as ruínas da zona arqueológica “Templo Mayor”, localizado no centro histórico da cidade do México, com a Catedral Metropolitana da Cidade do México em segundo plano e edifícios contemporâneos da cidade ao fundo. A respeito da imagem, assinale a afirmativa que a interpreta corretamente.",
       "alternatives": {
         "A": "A presença de ruínas arqueológicas das épocas pré-colonial e colonial afirma o caráter estável e harmônico da paisagem urbana.",
@@ -871,11 +971,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q52.png",
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f4c75d88ccec2c9d"
     },
     {
       "question_number": 53,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Embora saibamos muito sobre os arranjos humanos configurado em terra ao redor das ostras, sabemos muito menos historicamente sobre o que aconteceu debaixo d’água, apesar do fato de que essas interações alteraram completamente ecossistemas marinhos, e que foram moldadas pelo mar e as estruturas físicas dos recifes. Invertendo nossa perspectiva para o mar ou para o fundo do oceano, como os recifes e as ostras experimentaram o colonialismo, a escravidão ou as mudanças na governança imperial? Mundos oceânicos animados restringiram e influenciaram o comportamento social entre os atores históricos com os quais estamos mais familiarizados, tornando a pesca de pérolas um local ideal para submergir estudos do Oceano Índico e avançar na leitura multiespécies do capital local e global. Adaptado de: FERNANDO, Tamara. Seeing like the sea: a multispecies history of the Ceylon Pearl Fishery 1800-1925, Past and Present, n. 254, 2022, p. 129 Com base no trecho, é correto afirmar que a História Ambiental compreende",
       "alternatives": {
         "A": "a relação histórica entre natureza e sociedade como um processo de influência mútuo ao longo do tempo, desafiando as interpretações dualistas entre esses dois conceitos.",
@@ -888,11 +990,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fd4651e60ae98c39"
     },
     {
       "question_number": 54,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A Política de Patrimônio Cultural Material do Instituto do Patrimônio Histórico e Artístico (IPHAN) define diretrizes para a proteção do patrimônio cultural material brasileiro. Para isso, estabelece critérios para a seleção dos objetos a serem preservados. As afirmativas a seguir apresentam corretamente esses critérios, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Os bens culturais devem representar um evidente intercâmbio de ideias e valores dos grupos formadores da sociedade brasileira.",
@@ -905,11 +1009,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9632cc77f780232e"
     },
     {
       "question_number": 55,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Observe a imagem a seguir. Fonte: https://museuhistorianaturalmt.com.br Ela retrata a Casa Dom Aquino, uma construção de tipo colonial, construída em 1842 e atualmente é a sede do Museu de História Natural de Mato Grosso. A respeito do uso dessa residência como espaço museológico, é correto afirmar que",
       "alternatives": {
         "A": "Evidencia a imutabilidade do aspecto simbólico dos espaços de memória, que permanecem intactos ao longo do tempo, conservando seus significados enquanto interagem com a sociedade.",
@@ -922,11 +1028,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q55.png",
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "44f777ecb73efdce"
     },
     {
       "question_number": 56,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A respeito do conceito de memória histórica, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Os grupos humanos, ao realizar o exercício da memória coletiva, reconstroem um passado histórico com base em um método crítico científico, que permite distinguir o que realmente ocorreu do que é inventado. ( ) A memória histórica, como a História, requer referências tangíveis e materiais para sua construção, tendo uma das suas maiores expressões os arquivos históricos. ( ) A História e a Memória compartilham o objetivo de se aproximar do passado, mas possuem limites conceituais distintos. Enquanto a História evita os anacronismos e se baseia em documentos, a memória não está sujeita ao mesmo rigor. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -939,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "366aaf48a9cde818"
     },
     {
       "question_number": 57,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Sobre o gênero biografia na disciplina História, analise as afirmativas a seguir. I. O fato é que, a relação entre biografia e história acabou por inserir-se em um conjunto mais vasto de contraposições que opõe indivíduo a sociedade; individual a coletivo; social a particular; estrutura a contexto. Nessa rede de dualidades, oscilamos entre ver o personagem como apenas a reiteração de impasses sociais e ligados a seu grupo, ou, em buscar nele um caso único, particular e afeito a uma memória de si. É claro que não se trata de “opção” e muito menos de imaginar que os modelos são necessariamente excludentes. Adaptado de: SCHWARCZ, Lilia. Biografia como gênero e problema. História Social, n. 24, 2013. II. A importância da biografia é permitir uma descrição das normas e de seu funcionamento efetivo, sendo este considerado não mais o resultado exclusivo de um desacordo entre regras e práticas, mas também de incoerências estruturais e inevitáveis entre as próprias normas. Parece-me que assim evitamos abordar a realidade histórica a partir de um esquema único de ações e reações, mostrando, ao contrário, que a repartição desigual do poder, por maior e mais coercitiva que seja, sempre deixa alguma margem de manobra para os dominados; estes podem então impor aos dominantes mudanças nada desprezíveis. Adaptado de: LEVI, Giovanni. Usos da biografia. In: Ferreira, M. e Amado, J. Usos e abusos da história oral. Rio de Janeiro: Editora FGV. 2006, p. 180. III. Os acontecimentos biográficos se definem como colocações e deslocamentos no espaço social, isto é, mais precisamente nos diferentes estados sucessivos da estrutura da distribuição das diferentes espécies de capital que estão em jogo no campo considerado. O sentido dos movimentos que conduzem de uma posição a outra evidentemente se define na relação objetiva entre o sentido e o valor, no momento considerado, dessas posições num espaço orientado. O que equivale dizer que não podemos compreender uma trajetória sem que tenhamos previamente construído os estados sucessivos do campo no qual ela se desenrolou. Adaptado de: BOURDIEU, Pierre. A ilusão da biografia. In: Ferreira, M. e Amado, J. Usos e abusos da história oral. Rio de Janeiro: Editora FGV. 2006.p. 190 Assinale a afirmativa que interpreta corretamente as afirmativas.",
       "alternatives": {
         "A": "Em I e II, a biografia de sujeitos históricos, sejam eles políticos ou pessoas comuns, é construída através da omissão e seleção de acontecimentos menos relevantes, enquanto em III todos os eventos biográficos são considerados importantes.",
@@ -956,11 +1066,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5fe6a0afb0557432"
     },
     {
       "question_number": 58,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em dezembro de 2005, o jongo, um estilo musical, foi registrado pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) como patrimônio imaterial brasileiro. É correto afirmar que esse reconhecimento ocorreu por ser um",
       "alternatives": {
         "A": "bem cultural transmitido de geração em geração e reproduzido pelas comunidades, gerando um sentimento de identidade.",
@@ -973,11 +1085,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7f183d2cfb3cdae8"
     },
     {
       "question_number": 59,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O artigo “Uma leitura do Brasil Colonial”, publicado no já longínquo ano de 2000 e, no ano seguinte, o livro O Antigo Regime nos Trópicos tiveram por base em grande medida as propostas impactantes, para os historiadores brasileiros, de António Manuel Hespanha. Esse foi o caso, por exemplo, do uso do conceito seminal de sociedade corporativa e polissinodal para entender a monarquia portuguesa da época moderna. Adaptado de: FRAGOSO, João; BICALHO, Maria Fernanda. Uma releitura do “Brasil colonial” a partir da obra de António Manuel Hespanha, Revista do Instituto de Estudos Brasileiros, n. 83, p. 42. Com base no texto, assinale a afirmativa que descreve corretamente a inovação do conceito utilizado por António Manuel Hespanha para compreender a relação entre a monarquia portuguesa e seu território luso americano.",
       "alternatives": {
         "A": "O conceito critica a análise que caracterizava a monarquia portuguesa pela sua pluralidade de modelos jurídicos e políticos, passando a descrevê-la como um poder centralizador, burocrático e organizado.",
@@ -990,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e343e6d9e220cae5"
     },
     {
       "question_number": 60,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Quando surgiu, a História Serial chegou a ser vista por diversos autores como uma revolução nas relações do historiador com as suas fontes, e alguns chegaram mesmo a pensar que este tipo de historiografia substituiria de todo o antigo fazer histórico tradicional. Temos aqui um novo campo histórico que é definido em relação à abordagem ou ao modo de fazer a História que a perpassa, uma vez que a História Serial se refere a um tipo de fontes e a um modo específico de tratamento destas mesmas fontes. Adaptado de: BARROS, José D´Assunção. A história serial e história quantitativa no movimento dos Annales, Hist. R., Goiânia, v. 17, n. 1, p. 203-222, jan./jun. 2012, p. 206. A respeito da metodologia empregada pela História Serial, é correto afirmar que esta",
       "alternatives": {
         "A": "considera os documentos históricos em perspectiva singular, reconhecendo o valor e a utilidade de cada um individualmente.",
@@ -1007,11 +1123,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q60.png",
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "69334adfcccaa269"
     },
     {
       "question_number": 61,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Sobre os princípios diretores estabelecidos pela Convenção sobre a Proteção e Promoção da Diversidade das Expressões Culturais (2005), analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Assegura o acesso equitativo a todos, reconhecendo o direito de todos os cidadãos de usufruir dos bens culturais provenientes de todo o mundo. ( ) Reconhece a soberania da Organização das Nações Unidas para adotar medidas de proteção e promoção da diversidade cultural nos territórios signatários. ( ) Compreende a proteção, promoção e manutenção da diversidade cultural como condição essencial para o desenvolvimento sustentável. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -1024,11 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "679b3db943c148a2"
     },
     {
       "question_number": 62,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A respeito da História Global, é correto afirmar que",
       "alternatives": {
         "A": "critica uma visão ampla que pretende abarcar múltiplos aspectos do objeto de estudo.",
@@ -1041,11 +1161,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c9d514b2e6f4146c"
     },
     {
       "question_number": 63,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em 2022, o vereador Carlo Caiado, então presidente da Câmara Municipal do Rio de Janeiro, promulgou a Lei nº 7 .658/2022 que permite a modificação da nomenclatura de logradouros que rendam homenagens a nomes de pessoas ligadas diretamente à escravidão ou a torturadores. Antes mesmo dessa medida, em 2021, uma rua no município de Niterói, no estado do Rio de Janeiro, teve seu nome alterado. A antiga Rua Coronel Moreira César, nome de um oficial do Exército brasileiro responsável por assassinatos, passou a se chamar Rua Ator Paulo Gustavo, como homenagem ao humorista. Fonte: https://www.jb.com.br/fotos-e-videos/2021/05/1030282-niteroi-muda- nome-da-principal-rua-do-bairro-de-icarai-para-ator-paulo-gustavo.html As afirmativas a seguir descrevem corretamente essas iniciativas, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Tais iniciativas adotam posição crítica que rejeita certas leituras do passado, como aquelas que valorizam personagens histórico conectados à violência.",
@@ -1058,11 +1180,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q63.png",
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a559ccbf3592f473"
     },
     {
       "question_number": 64,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Leia os trechos a seguir. I. A desagregação do regime escravocrata e senhorial se operou, no Brasil, sem que se cercasse a destituição dos antigos agentes de trabalho escravo de assistência e garantias que os protegessem na transição para o sistema de trabalho livre. Os senhores foram eximidos da responsabilidade pela manutenção e segurança dos libertos, sem que o Estado, a Igreja ou outra qualquer instituição assumissem encargos especiais, que tivessem por objeto prepará-los para o novo regime de organização da vida e do trabalho. O liberto se viu convertido, sumária e abruptamente, em senhor de si mesmo, tornando-se responsável por sua pessoa e por seus dependentes, embora não dispusesse de meios materiais e morais para realizar essa proeza nos quadros de uma economia competitiva. Fonte: FERNANDES, Florestan. A integração do negro na sociedade de classes, Volume 1. São Paulo: Editora Globo, 2008, p. 29. II. Todo brasileiro, mesmo o alvo, de cabelo louro, traz na alma, quando não na alma e no corpo – há muita gente de jenipapo ou mancha mongólica pelo Brasil – a sombra, ou pelo menos a pinta do indígena ou do negro. A influência direta ou vaga e remota, do africano. Na música, no andar, na fala, no canto de ninar menino pequeno, em tudo que é expressão sincera de vida, trazemos quase todos a marca da influência negra. Da escrava que nos embalou. Que nos deu de mamar. Que nos deu de comer, ela própria amolengando na mão o bolão de comida. Da negra velha que nos contou as primeiras histórias de bicho e de mal-assombrado. Da mulata que nos tirou o primeiro bicho-de-pé de uma coceira tão boa. Da que nos iniciou no amor físico e nos transmitiu, ao ranger da cama-de-vento, a primeira sensação completa de homem. Adaptado de: FREYRE, Gilberto. Casa-grande & senzala: formação da família brasileira sob o regime da economia patriarcal, São Paulo: Global, 2003, p. 367. Avalie as afirmativas que interpretam os trechos e assinale (V) para a verdadeira e (F) para a falsa. ( ) I interpreta a incorporação da população afrodescendente na sociedade brasileira através da análise do mercado de trabalho, responsabilizando os próprios libertos pela falta de melhoria em suas condições. ( ) II interpreta a integração dos afrodescendentes à sociedade brasileira como um processo marcado pela violência, concentrando-se principalmente nos abusos cometidos contra as mulheres escravizadas. ( ) I compreende a sociedade pós-abolição como perpetuadora dos mecanismos de manutenção da desigualdade. II observa as interações sociais entre os grupos formadores do Brasil de forma positiva e atribui centralidade aos afrodescendentes em sua análise. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -1075,11 +1199,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q64.png",
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0b9670e9413f3a17"
     },
     {
       "question_number": 65,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Pode parecer que, por definição, o passado está finalizado, mas o passado está sempre mudando porque os historiadores e os objetivos da história também mudam. Quando buscamos coisas novas no passado, descobrimos fontes insuspeitas e chegamos a conclusões imprevistas. Esta diversidade não é um sintoma da fragilidade ou da frivolidade da história, nem das parcialidades e dos preconceitos inerentes aos historiadores. Não é possível ver sem tomar um ponto de vista. Pelo contrário, a evolução constante do objetivo da história é um sintoma da sua vitalidade. Cada nova época procura compreender o seu lugar no tempo e, sem a história, não teria lugar nenhum. Adaptado de: Lynn Hunt. La escritura de la historia en la era global. Valencia: Publicaciones de la Universitat de València, 2022, p. 19 A respeito das mudanças inerentes na disciplina História, assinale a afirmativa que apresenta corretamente aspectos que caracterizam essas mudanças.",
       "alternatives": {
         "A": "As mudanças na disciplina História estão marcadas, principalmente, pelo descobrimento de novos documentos históricos.",
@@ -1092,11 +1218,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q65.png",
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "12a7c3406410cb28"
     },
     {
       "question_number": 66,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os lugares de memória pertencem a dois domínios, que os tornam interessantes, mas também complexos: simples e ambíguos, naturais e artificiais, imediatamente oferecidos à mais sensível experiência e, ao mesmo tempo, sobressaindo da mais abstrata elaboração. São lugares, com efeito nos três sentidos da palavra, material, simbólico e funcional, simultaneamente, somente em graus diversos. Os três aspectos coexistem sempre. Trata-se de um lugar de memória tão abstrato quanto a noção de geração? É material por seu conteúdo demográfico; funcional por hipótese, pois garante, ao mesmo tempo, a cristalização da lembrança e sua transmissão; mas simbólica por definição visto que caracteriza por um acontecimento ou uma experiência vivida por um pequeno número, uma maioria que deles não participou. Adaptado de: NORA, Pierre. Entre Memória e História. A problemática dos lugares, Prof. História, São Paulo (10) dez, 1993, pp. 21- 22. Com base no trecho, é correto afirmar que, segundo Pierre Nora, o conceito de Lugar de Memória",
       "alternatives": {
         "A": "abrange apenas espaços geográficos, principalmente aqueles que têm uma relação direta com a história coletiva de um grupo social específico.",
@@ -1109,11 +1237,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c00e43528f894d3b"
     },
     {
       "question_number": 67,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Assinale a afirmativa que descreve corretamente o processo de ocupação portuguesa na região mato-grossense durante o período colonial.",
       "alternatives": {
         "A": "O processo de ocupação portuguesa na região foi incialmente conduzido pelos bandeirantes paulistas, que, ao pretender capturar indígenas, acabaram por descobrir ouro e estabelecer vilas para sua exploração.",
@@ -1126,11 +1256,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "833e1cb43f4373bf"
     },
     {
       "question_number": 68,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Essas ideias já não se sustentam, conforme vários estudos histórico-antropológicos que, nas últimas décadas, vem demonstrando a capacidade dos povos indígenas em rearticular culturas, tradições e identidades, mesmo submetidos às mais violentas condições. Fonte: CELESTINO, Maria Regina. Populações indígenas e Estados nacionais latino- americanos: novas abordagens historiográficas, In: Azevedo, Cecília; Raminelli, Ronald. História das Américas: novas perspectivas, Rio de Janeiro: Ed. FGV, 2011. As afirmativas a seguir descrevem corretamente as “ideias” historiográficas que não são mais sustentadas pelas renovações sofridas pela história dos indígenas no Brasil mencionadas no trecho, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "As ideias que consideravam os povos indígenas como vítimas passivas da violência estrutural inerente aos sistemas coloniais, que os subjugavam, escravizavam e usurpavam suas terras.",
@@ -1143,11 +1275,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ca8eb568a7d8e193"
     },
     {
       "question_number": 69,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A valorização do patrimônio cultural no contexto de redemocratização do país, nos anos 1980, época do surgimento desse projeto, esteve profundamente articulada com as disputas de memória na sociedade brasileira. Com o ressurgimento dos movimentos sociais, novos agentes, para além da burocracia e dos intelectuais, demandavam participação no campo das políticas patrimoniais, e o patrimônio passou a ter papel testemunhal das temporalidades que compõem as múltiplas experiências vividas individual e coletivamente na sociedade brasileira. Fonte: GERVÁSIO, Flávia; Filho, Hilario Figueiredo; Brandão, Joseane. História Oral e Patrimônio cultural: Projeto Memória Oral do IPHAN entre práticas e desafios, Estudos Históricos, Vol. 34, 74, p. 578. Com base na leitura, assinale a afirmativa que menciona corretamente os movimentos sociais e suas demandas contemporâneas em relação ao patrimônio cultural.",
       "alternatives": {
         "A": "As demandas do movimento feminista estão relacionadas à proteção e promoção de bens culturais que as representem em seus papéis no âmbito doméstico, como forma de reafirmar suas responsabilidades no cuidado da nova geração de cidadãos.",
@@ -1160,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bc338d4d395dc993"
     },
     {
       "question_number": 70,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Observe a imagem a seguir. Fonte: https://bndigital.bn.gov.br/artigos/centenario-semana-de-arte-moderna- uma-jovem-centenaria/ Assinale a alternativa que descreve corretamente aspectos da Semana de Arte Moderna de 1922 relacionados com a construção da identidade brasileira.",
       "alternatives": {
         "A": "O movimento procurou valorizar o tradicional e nacional, rejeitando a inclusão de elementos estrangeiros, embora tenha sofrido influência cultural europeia.",
@@ -1177,11 +1313,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q70.png",
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9ce15e67177d434c"
     },
     {
       "question_number": 71,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Após o incêndio que afetou o Museu Nacional no Rio de Janeiro em 2018, resultando na perda de parte significativa de seu acervo histórico e científico, a instituição lançou a campanha “Museu Nacional Vive”. Essa iniciativa solicitava que os cidadãos que haviam visitado o museu enviassem fotografias de suas visitas anteriores ao incêndio, poemas, ilustrações ou cartas relacionadas com a instituição. A respeito dessa iniciativa, assinale a afirmativa que descreve corretamente seu valor relacionado à narrativa e representação do passado.",
       "alternatives": {
         "A": "As fotografias enviadas possuem valor documental por retratarem a realidade do museu no período anterior ao incêndio, fornecendo uma visão realista objetiva da instituição.",
@@ -1194,11 +1332,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "570ec34dd391ee31"
     },
     {
       "question_number": 72,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Penso que a perspectiva de redes é uma forma de olhar para as relações interpessoais, e esse conceito deve ser entendido como um esforço para construir diversas redes sociais. Assumi que as pessoas com as características semelhantes podem ocupar a mesma posição na estrutura da rede, mas a sua contribuição pode variar. Isso não se deve apenas as características comuns dos sujeitos, mas as oportunidades ou desvantagens de sua posição na rede, pois é dentro dela que o comportamento dos atores sociais está enraizado. Fonte: Bloch, Agata. Livres e Escravizados. As vozes dos subalternos na História do Império Colonial Português na perspectiva de redes, Varsóvia: Museu da História do Movimento Popular Polonês, 2022, p. 13. A respeito da perspectiva de rede, assinale a afirmativa que apresenta corretamente como eles representam uma renovação teórico-metodológica para a História.",
       "alternatives": {
         "A": "A perspectiva das redes em pesquisas históricas permite compreender como um personagem constrói sua identidade com base nas relações que estabelece e como estas podem influenciar para a obtenção de benefícios.",
@@ -1211,11 +1351,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e8c3b2f1f48b56b1"
     },
     {
       "question_number": 73,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Leia a entrevista a seguir com o historiador Stuart. B. Schwartz feita pela historiadora Graça Almeida Borges. GAB: Uma das suas preocupações no livro Segredos Internos, foi a demografia da escravatura, apesar de não se ter fechado numa perspectiva quantitativa. Teve a preocupação de abordar a escravatura a partir de outros pontos de vista. Parece-me que um dos ângulos de análise mais em falta hoje em dia no estudo da escravatura e do tráfico de escravos é a sua dimensão mais humana. Como lhe parece que poderá ser concretizada essa abordagem? SBS: Esse é um dos problemas com que o historiador se confronta permanentemente. É que os documentos não estão escritos para os nossos fins, eram escritos para outros fins. Os registos paroquiais, por exemplo, são muito interessantes para os historiadores que fazem história social, mas os padres que produziam esses registos tinham interesses completamente diferentes. Então, temos que os ler com muito cuidado e um pouco de criatividade. No meu livro sobre os engenhos na Bahia, os registos paroquiais eram importantíssimos. Fiz um estudo também sobre alforria e sobre compadrio, por exemplo, com material muito interessante. O baptismo de um novo membro da Igreja é um ato católico essencial, mas olhando para este ato com uma determinada lente, vemos que os registos de baptismo, documentos produzidos para os fins da Igreja na época colonial, produzem muita informação social, demográfica e étnica. Acho que a leitura dos documentos depende da habilidade do historiador, da sua imaginação, mais do que do próprio conteúdo do documento. O documento não diz nada por si mesmo, é a pergunta que levamos ao documento que produz a informação que procuramos no documento, é a pergunta do historiador que faz o documento falar. A grande chave do sucesso do historiador é a sua imaginação e criatividade. Fonte: Borges, Graça Almeida. O historiador como língua do passado. Entrevista a Stuart B. Schwartz, Ler História, n. 70, 2017, pp. 199-215. Com base na entrevista, assinale a afirmativa que descreve corretamente as possibilidades do uso de fontes para revelar as dimensões humanas do tema da escravidão no Brasil.",
       "alternatives": {
         "A": "O uso de fontes normativas, como leis, possibilita a compreensão do historiador sobre a trajetória individual de pessoas escravizadas.",
@@ -1228,11 +1370,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_historiador_q73.png",
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8e70e27f20e9b36c"
     },
     {
       "question_number": 74,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Analise as afirmativas que descrevem o conceito de educação patrimonial. I. Processo educativo que pode ser formal ou não formal, construído de forma coletiva e dialógica com a intenção de preservar o patrimônio cultural. II. Processo educativo que conta com a participação efetiva da comunidade no processo de preservação do patrimônio cultural. III. Processo educativo que utiliza instrumentos específicos para o cumprimento de seus objetivos, como o Inventário Participativo, e outros que se apresentem adequados ao objeto. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1245,11 +1389,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e209e505526f1e01"
     },
     {
       "question_number": 75,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Pode-se pensar, desta forma, que a década de 1960 constitui como que um ponto de inflexão cujos desdobramentos frutificam de forma plena nos anos 1970, e daí prosseguem. São várias as razões que podem ser citadas para justificar esta transformação ampla e significativa, muitas delas, não por acaso, já arroladas em artigos que discutem especificamente a renovação ocorrida no campo disciplinar da história no plano internacional, com suas repercussões no Brasil. A revitalização dos estudos de história política, ou o que tem sido chamado de o \"retorno\" da história política, guarda relações profundas com as mudanças de orientações teóricas que atingiram as ciências sociais de forma geral. Inúmeros autores situam o fenômeno como uma crise dos paradigmas estruturalistas então vigentes: o marxista, o funcionalista e também o de uma vertente da escola dos Annales. Adaptado de: GOMES, Angela de Castro. Política: História, Ciência, Cultura etc., Estudos históricos, n.17, 1996, pp.62-63. Com base na leitura do trecho, assinale a afirmativa que descreve corretamente o foco dado por essa transformação da historiografia, durante os anos 1960 e 1970.",
       "alternatives": {
         "A": "Enfoque em acontecimentos de grandes vultos, como guerras e conquistas territoriais por potências imperiais.",
@@ -1262,11 +1408,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f716346d6152f5a6"
     },
     {
       "question_number": 76,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para resumir, o vocabulário dos documentos não é, a seu modo, nada mais que um testemunho: precioso, sem dúvida, entre todos; mas, como todos os testemunhos, imperfeitos; portanto, sujeito à crítica. Cada termo importante, cada figura de estilo característica, torna-se um verdadeiro instrumento de conhecimento, bastando ser confrontado uma única vez com seu ambiente; recolocado no uso da época, do meio ou do autor. Fonte: BLOCH, Marc. Apologia da História ou ofício de historiador, Rio de Janeiro: Jorge Zahar Ed., 2001, p. 142. Com base na leitura do trecho e a respeito do uso de documentos históricos pelos historiadores, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Segundo o autor, o historiador deve adotar uma postura de imparcialidade, concentrando-se no conteúdo das fontes e restringindo seu desejo interpretativo. ( ) Desde a perspectiva de Bloch, o historiador se beneficia de sua proximidade com o passado devido à continuidade e imutabilidade dos vocabulários durante o tempo. ( ) Para o autor, o historiador deve questionar os documentos, incluindo os vocabulários utilizados, não os aceitando como verdade absoluta. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -1279,11 +1427,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a67fd5265948f01f"
     },
     {
       "question_number": 77,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Vovô é uma verdadeira autoridade aqui em casa. O que ele fala, esta falado, ninguém discute porque tem sempre razão. Tem uma maneira de falar, até papai cede! E, olhe que nosso pai é um líder. Muita coisa do que vovô diz, vem do que a vovó pensa. Já notei isso: uns pensam outros dizem: uns mandam outros obedecem. É como um rodízio que a gente faz num jogo de bola: às vezes é um grupo que manda e o outro recebe as ordens, outras vezes, é a vez do outro grupo mandar. Penso que minha vez de mandar vai ser quando eu for pai e chefe de alguma coisa. No país, diz tio Pedro, há várias autoridades com seus poderes. - E ninguém manda no Presidente da República? Pensei que tio Pedro fosse ficar atrapalhado, mas ele riu e disse: - No Brasil, havendo democracia, o presidente também obedece às leis e faz com que elas sejam cumpridas, o presidente também pode fazer leis, principalmente quando o Congresso está em recesso – isto é, não funciona. Adaptado de: GARCIA, E. C. Educação moral e cívica na escola de primeiro grau. São Paulo: LISA, 1972. Citado por NUNES, Nataly & REZENDE, Maria José. O ensino da Educação Moral e Cívica durante a ditadura militar. Durante a ditadura militar, foi implementado o ensino da educação moral e cívica nas escolas brasileiras. As afirmativas a seguir relacionam corretamente o uso do trecho reproduzido como material didático e as intenções do regime militar, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "O texto utiliza símbolos nacionais como meio de reafirmar os valores do regime vigente e para promover a formação de futuros cidadãos críticos e emancipados.",
@@ -1296,11 +1446,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "084c5c9f51965c1d"
     },
     {
       "question_number": 78,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Leia a resposta dada pelo historiador Enzo Traverso em uma entrevista. Falando do problema da periodização, se adoptarmos este paradigma político, podemos percorrer a história do mundo contemporâneo através de um determinado esquema interpretativo que inclui certas etapas, mas se adoptarmos outras abordagens, a história muda. Dou um exemplo banal. Entre 1930 e 1950, a Europa Ocidental viveu dois momentos históricos diferentes. No plano político, entre as duas guerras, surgiu o fascismo, enquanto no segundo pós-guerra se iniciou a construção da Comunidade Europeia. No entanto, do ponto de vista do consumo, não há grande diferença entre 1930 e 1950: o nível de vida dos europeus é semelhante, enquanto entre europeus e americanos a diferença é enorme. Ao mesmo tempo, o sistema político continua a ser o que corresponde à Guerra Fria. Um outro problema surge quando se tenta periodizar. A periodização implica sempre um observatório que a historiografia universaliza muitas vezes de forma acrítica, com base numa singularidade: a do mundo ocidental. Os estudos pós-coloniais ajudam-nos a repensar certas metodologias e a repensar a nossa maneira de fazer as coisas. Adaptado de: MODONESI, Massimo, Historia, memoria y política Entrevista con Enzo Traverso, Andamios 4, n.8, 2008, pp. 246-247. Com base na entrevista, assinale a afirmativa que menciona corretamente a postura de Enzo Traverso sobre a periodização na História.",
       "alternatives": {
         "A": "Na definição da periodização histórica predomina o fator tempo sobre o espaço.",
@@ -1313,11 +1465,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6bc7dee0ba0e9887"
     },
     {
       "question_number": 79,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Esse conceito aborda a construção de identidade e do sentimento de pertencimento de grupos humanos, envolvendo os processos de identificação e diferenciação entre outros grupos. Para alcançar essa conformidade, seus indivíduos se utilizam de marcadores culturais, que podem ser práticas culturais, tradições e interações sociais. Essa descrição se refere ao conceito de",
       "alternatives": {
         "A": "mestiçagem.",
@@ -1330,11 +1484,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1b8edbe5d49eef46"
     },
     {
       "question_number": 80,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A respeito da corrente historiográfica da Nova História, não há consenso sobre seu surgimento, porém é possível afirmar que atualmente ela está consolidada, em parte devido ao grande número de historiadores que a praticam. A respeito dessa corrente, avalia as afirmativas a seguir. I. A Nova História emergiu como uma resposta ao paradigma rankeano e às transformações ocorridas no mundo, como o movimento de descolonização, o feminismo e o ecologismo. II. A Nova História fragmentou e expandiu os campos historiográficos, gerando problemas de definição, fontes e métodos de pesquisa. III. A Nova História se interessa por atitudes humanas que anteriormente não receberam a devida atenção nos estudos históricos, compreendendo-as como construções culturais que se transformam no espaço e tempo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1347,7 +1503,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 19
+      "page_number": 19,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "10ebe5ee06df67b7"
     }
-  ]
+  ],
+  "year": 2023,
+  "uf": "MT",
+  "level": "Superior",
+  "question_type": "multiple_choice_4"
 }

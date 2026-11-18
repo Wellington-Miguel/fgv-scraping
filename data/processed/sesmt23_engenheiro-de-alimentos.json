@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ebb4432fa100c792"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9e3eeb5f6229df60"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "dea91a3b63c1f627"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4bab133faeebffc0"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b30e0965f58d3e17"
     },
     {
       "question_number": 6,
@@ -106,24 +116,28 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d1ebb38a64658835"
     },
     {
       "question_number": 7,
       "discipline": "Língua Portuguesa",
-      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação.",
+      "statement": "Segundo o gramático Celso Cunha, os adjetivos mostram os seguintes valores: uma qualidade, uma característica, um estado ou uma relação. Assinale a opção que apresenta a frase em que o adjetivo sublinhado é classificado como adjetivo de relação. (A) As colônias não deixam de ser colônias pelo fato de serem independentes. (B) É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político. (C) As leis ruins são a pior espécie de tirania. (D) Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente.",
       "alternatives": {
-        "A": "As colônias não deixam de ser colônias pelo fato de serem independentes.",
-        "B": "É necessário mudar muitas vezes de opinião para estar sempre de acordo com o seu partido político.",
-        "C": "As leis ruins são a pior espécie de tirania.",
-        "D": "Juízes implacáveis são aqueles que antes foram réus.8 Nas frases a seguir há várias formas de adjetivos referentes aos substantivos sublinhados. Assinale a opção em que a forma de adjetivação está identificada inadequadamente. (A) Como todos os soldados, João também tinha cabelo curto. / adjetivo. (B) Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução. (C) O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva. (D) José era considerado um cabeça-de-vento. / substantivo composto.",
+        "A": "Como todos os soldados, João também tinha cabelo curto. / adjetivo.",
+        "B": "Apesar de pianista, o artista mostrava mãos grosseiras, rudes. / locução.",
+        "C": "O livro que o professor recomendara, esgotou rapidamente. / oração adjetiva.",
+        "D": "José era considerado um cabeça-de-vento. / substantivo composto.",
         "E": null
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f4a029e9aeceb7c5"
     },
     {
       "question_number": 9,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b89cbd7c05f1ef4e"
     },
     {
       "question_number": 10,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "31fa9a680b927f6e"
     },
     {
       "question_number": 11,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1eb17f6270216508"
     },
     {
       "question_number": 12,
@@ -191,11 +211,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d2db9a5c4a701567"
     },
     {
       "question_number": 13,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Considere a frase: Se você é cuiabano, então é mato-grossense. É logicamente equivalente à frase acima, a seguinte proposição:",
       "alternatives": {
         "A": "Se você é mato-grossense, então é cuiabano.",
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "abc0940f54cb5ce1"
     },
     {
       "question_number": 14,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma reunião de uma unidade hospitalar, estavam presentes 8 servidores, sendo 6 médicos e 2 enfermeiros. Todos sentaram- se ao redor de uma mesa redonda. A quantidade de maneiras distintas que essa mesa pode ser organizada de forma que entre os dois enfermeiros tenha sempre três médicos é",
       "alternatives": {
         "A": "120.",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6320000688f882e7"
     },
     {
       "question_number": 15,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Na malha quadriculada a seguir, formada por quadrados de lados medindo 1cm, estão representados os triângulos ABC e ACD. A área do triângulo ABC, em cm2, é igual a",
       "alternatives": {
         "A": "4,25.",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_engenheiro-de-alimentos_q15.png",
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b065edde5f380649"
     },
     {
       "question_number": 16,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Sobre números inteiros, racionais e reais, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Há mais números racionais que números inteiros. ( ) A soma de dois números irracionais resulta sempre em um número irracional. ( ) A dízima periódica 6,999... é igual ao número inteiro 7. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – F – V.",
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7aebf60d705e569a"
     },
     {
       "question_number": 17,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Os atendimentos realizados por 6 médicos de uma unidade hospitalar em determinado dia foram registrados. Porém, no fim da semana, percebeu-se que a informação dos atendimentos realizados por um desses médicos foi perdida, conforme a lista apresentada a seguir. 10, 9, 15, 9, X, 12 Sabe-se que, nesse dia, nenhum médico fez menos que 6 e mais que 15 atendimentos e que a média de atendimentos é um número inteiro. Assim, a mediana da lista é",
       "alternatives": {
         "A": "10.",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5c287eb155f82f2f"
     },
     {
       "question_number": 18,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A Federação Mato-grossense de Futebol (FMF) realiza anualmente a competição “Copa FMF” na modalidade masculina. Na edição de 2023, a fase final foi disputada por Cuiabá, Mixto, Nova Mutum e Operário VG em um formato quadrangular, no qual todos se enfrentam apenas uma vez. Em relação aos gols ocorridos nesta fase, sabe-se que:  Mixto fez o triplo de gols que tomou;  Cuiabá e Nova Mutum tomaram 6 gols cada;  Operário VG fez 1 gol e tomou 2 gols;  Cuiabá fez um gol a mais que Nova Mutum;  foram feitos 17 gols no total. Dessa forma, a quantidade de gols feitos pela equipe Nova Mutum foi igual a",
       "alternatives": {
         "A": "5.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "982835a4a82526be"
     },
     {
       "question_number": 19,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "A serviço de uma unidade do Sistema Único de Saúde há três veículos: um automóvel, um ônibus e uma van. Um deles tem a cor azul, outro tem a cor amarela e outro tem a cor verde. Das afirmativas a seguir, apenas uma é verdadeira: I. O automóvel é verde. II. O ônibus não é amarelo. III. A van não é verde. Assim, é correto afirmar que",
       "alternatives": {
         "A": "o automóvel é amarelo.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7ef77a3c00d6af17"
     },
     {
       "question_number": 20,
-      "discipline": "Raciocínio Lógico Matemático",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma fábrica de desfibriladores, foi verificado que eram necessários 8 dias para produzir determinada quantidade de aparelhos, usando a mão de obra de 6 trabalhadores por 4 horas em cada dia. Para reduzir o tempo de produção para 2 dias, será necessário:",
       "alternatives": {
         "A": "duplicar o número de trabalhadores.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6a622160497005ef"
     },
     {
       "question_number": 21,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise o gráfico a seguir. Risco de desmatamento por estado em 2023 (km2) Fonte: https://g1.globo.com/mt/mato-grosso/noticia/2023/01/18/mt-e-o-3o- estado-com-maior-risco-de-desmatamento-em-2023-aponta-imazon.ghtml. Adapt. De acordo com o gráfico, o Estado de Mato Grosso é o terceiro estado brasileiro com maior risco de desmatamento na Amazônia. Analise as afirmativas a seguir sobre os fatores que concorrem para esse fenômeno. I. A prática agrícola é um dos fatores que contribui para a aceleração dos processos erosivos do solo e do desmatamento. Isso ocorre devido ao emprego, de técnicas agrícolas extensivas, com a retirada de vegetação para a instalação de grandes lavouras monocultoras. II. A prática do garimpo ilegal gera diversos impactos ambientais, como o desmatamento, por meio da retirada de vegetação nativa, seja para estabelecer acessos às áreas ricas em minerais, seja para criar espaços destinados à própria atividade de mineração. III. A demarcação de terras indígenas no Estado contribui para o desmatamento, uma vez que o processo envolve a utilização de madeira para a construção de residências tradicionais e a exploração dos recursos naturais para fins de subsistência. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -344,11 +382,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_engenheiro-de-alimentos_q21.png",
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0748898a6a4b5b20"
     },
     {
       "question_number": 22,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Sobre os biomas mato-grossenses e suas respectivas localizações conforme a organização espacial do estado, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) O bioma Amazônico é caracterizado pela vegetação densa da floresta tropical; está presente no norte do Estado e um dos seus espaços é a microrregião de Sinop. ( ) O bioma Cerrado é caracterizado pela vegetação composta de arvores baixas e com plantas com raízes profundas; está presente na mesorregião do Centro-Sul Mato-grossense. ( ) O bioma Pantanal é caracterizado por suas extensas áreas alagadas e pela planície aluvial; está presente na mesorregião Centro-sul do estado, englobando os municípios de Cáceres e Poconé. As afirmativas são, na ordem apresentada, respectivamente,",
       "alternatives": {
         "A": "V – V – F.",
@@ -361,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "efa56fc2afb1d6a2"
     },
     {
       "question_number": 23,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise os trechos a seguir. I. Código Civil dos Estados Unidos do Brasil, de 1916 Art. 6º. São incapazes, relativamente a certos atos (Art. 147, inciso I), ou à maneira de os exercer: IV - os silvícolas. Parágrafo único. Os silvícolas ficarão sujeitos ao regime tutelar, estabelecido em leis e regulamentos especiais, e que cessará à medida de sua adaptação. II. Lei nº 6.001 de 1973 Art. 2º. Cumpre à União, aos Estados e aos Municípios, bem como aos órgãos das respectivas administrações indiretas, nos limites de sua competência, para a proteção das comunidades indígenas e a preservação dos seus direitos: II - prestar assistência aos índios e às comunidades indígenas ainda não integrados à comunhão nacional; VI - respeitar, no processo de integração do índio à comunhão nacional, a coesão das comunidades indígenas, os seus valores culturais, tradições, usos e costumes; VIII - utilizar a cooperação, o espírito de iniciativa e as qualidades pessoais do índio, tendo em vista a melhoria de suas condições de vida e a sua integração no processo de desenvolvimento. (Adaptado.) III. Constituição Federal de 1988 Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. Sobre a questão indígena no Brasil, de acordo com os trechos, assinale a afirmativa que interpreta corretamente os princípios que orientaram os marcos normativos mencionados.",
       "alternatives": {
         "A": "Em I, a integração das comunidades indígenas à sociedade brasileira é preconizada por meio de um regime tutelar, que os considerava como indivíduos não plenamente desenvolvidos; em II, a autonomia dos indígenas é garantida por meio do direito à escolha de manter seu isolamento.",
@@ -378,11 +420,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_engenheiro-de-alimentos_q23.png",
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c4b2f91325de1a63"
     },
     {
       "question_number": 24,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O Estado do Mato Grosso destaca-se tanto nacional quanto internacionalmente por sua significativa produção agrícola. A respeito do escoamento dos excedentes destinados à exportação, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O transporte ferroviário é a principal opção, da qual depende o Estado para o envio de sua produção para os portos da Região Sul.",
@@ -395,11 +439,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "748fffa7fe6789d3"
     },
     {
       "question_number": 25,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A Capitania de Mato Grosso é uma das mais importantes de todo o Brasil, tanto pela sua extensão e pelas sabidas, mas ainda intactas riquezas, que guardam os seus vastíssimos sertões, como por ser fronteira ao vasto, populoso e rico Peru. Adaptado de: Reflexões sobre o estado atual da capitania de Mato Grosso, combinando com os domínios espanhóis que lhe são confinantes, em: Serra, Ricardo, Reflexões sobre a Capitania de Mato Grosso, Cuiabá: IHGMT, 2002, p. 12. A respeito do contexto da criação da Capitania de Mato Grosso e da delimitação de suas fronteiras, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A fronteira sul com a cidade de Assunção, que estava sob domínio espanhol, desempenhava um papel crucial na proteção do interior do território brasileiro.",
@@ -412,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9ea9610d55a1ebee"
     },
     {
       "question_number": 26,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A respeito da guerra entre a Tríplice Aliança e o Paraguai, assinale a afirmativa que descreve corretamente o envolvimento de Mato Grosso no conflito.",
       "alternatives": {
         "A": "Os antecedentes do conflito são marcados pela assinatura do Tratado da Tríplice Aliança, o qual legitimava a guerra contra o Paraguai e designava Mato Grosso como capital da bacia platina, devido à sua extensa ocupação populacional.",
@@ -429,11 +477,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "89d41895e0f54eab"
     },
     {
       "question_number": 27,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Analise a imagem a seguir. Fonte:https://g1.globo.com/ac/acre/noticia/2019/08/06/revolucao-acreana- charges-e-cronicas-tratavam-acre-como-um-estorvo-pra-nacao.ghtml A charge ilustra o Barão do Rio Branco carregando uma bomba com a inscrição “Acre”, enquanto outro personagem, posicionado atrás, acende o pavio. A legenda diz: “ – Cuidado, barão! Com esta bomba nem S. Pedro com seus tiros o salvará.” Sobre as medidas estabelecidas pelo Tratado de Petrópolis, assinado entre o Brasil e a Bolívia, que resultou na incorporação do Acre ao território brasileiro, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Proibiu a navegação boliviana nos confluentes brasileiros, encerrando a saída da Bolívia ao Oceano Atlântico.",
@@ -446,11 +496,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/sesmt23_engenheiro-de-alimentos_q27.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "01653532b31a7a6b"
     },
     {
       "question_number": 28,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Deve-se promover a integração da península do Centro-Oeste brasileiro, equipando-a de meios que lhe permitam desempenhar seu duplo papel de sólida plataforma para um transbordamento sobre a Hileia ou para ações visando a contrapor-se ao avanço para o norte de um imperialismo platino. Fonte: SILVA, Golbery do Couto e. Conjuntura política nacional: o poder executivo & geopolítica do Brasil. Brasília: Ed. UnB, 1981. (Coleção Temas Brasileiro, n. 7). Citado por Cavalcanti, Marcelo; Barreira, Celene. Ações da Sudeco no desenvolvimento do Centro-Oeste, B.goiano.geogr.Goiânia, v. 31, n. 2, 2011, p. 180. As afirmativas a seguir descrevem corretamente os objetivos da Superintendência de Desenvolvimento do Centro-Oeste (SUDECO) durante a ditadura militar brasileira, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Estimular o processo de industrialização na região, visando criar polos industriais capazes de competir com os centros empresariais do Sudeste.",
@@ -463,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7edf2cd3ff5b6836"
     },
     {
       "question_number": 29,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "A pirâmide de Maslow foi uma das primeiras teorias desenvolvidas para entender o sentido da motivação. De acordo com essa teoria, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os seres humanos são estimulados por uma sequência de necessidades, devendo ocorrer a satisfação das necessidades mais básicas antes de se aspirarem as outras.",
@@ -480,11 +534,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "387ad0ac390cdd03"
     },
     {
       "question_number": 30,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O momento em que o aprovado em um concurso público é investido em cargo público, mediante a aceitação expressa das responsabilidades inerentes à função, é conhecido como posse. No entanto, é apenas no exercício que o servidor desempenha efetivamente suas atribuições. Com relação ao disposto na Lei Complementar nº 04/1990, que dispõe sobre os servidores do Estado de Mato Grosso, é correto afirmar que, o servidor deve entrar em exercício",
       "alternatives": {
         "A": "imediatamente após a posse.",
@@ -497,11 +553,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ce42207a9e90ba86"
     },
     {
       "question_number": 31,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Como regra geral, a contratação de pessoa na Administração Pública deve ocorrer por prazo indeterminado. No entanto, algumas situações de excepcionalidade permitem que sejam realizadas contratações em caráter temporário. Com base nisso, analise as afirmativas a seguir. I. Combater surtos epidêmicos. II. Realizar o recenseamento. III. Permitir a execução de serviço, nas áreas de pesquisa científica, por profissional de notória especialização. Em conformidade com a Lei Complementar nº 04/1990, assinale a opção que indica a(s) situação(ões) que permite(m) contratação temporária.",
       "alternatives": {
         "A": "I, apenas.",
@@ -514,11 +572,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "80fe82ba0559c5f7"
     },
     {
       "question_number": 32,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Em uma situação hipotética, determinado servidor do Estado do Mato Grosso, pertencente à Secretaria de Saúde, cometeu falta punível com cassação de aposentadoria. Nesse caso, com base na Lei Complementar nº 04/1990, a autoridade que deve aplicar a respectiva penalidade ao servidor é o",
       "alternatives": {
         "A": "Governador do Estado.",
@@ -531,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "854ae327f48bfcd6"
     },
     {
       "question_number": 33,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Max Weber diferencia a ética da convicção da ética da responsabilidade. A esse respeito, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A ética da responsabilidade é a que tem como preocupação central as consequências das ações realizadas. ( ) A ética da convicção é a mais apropriada para a função pública, pois independe de variações individuais. ( ) A ética da responsabilidade baseia-se nas predisposições éticas dos agentes e espera deles um elevado senso moral. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -548,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1dd50151500ceec1"
     },
     {
       "question_number": 34,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "O instituto da cidadania estabelece direitos e deveres para os indivíduos pertencentes à determinada sociedade. Esses direitos podem ser divididos em civis, políticos e sociais. Assinale a opção que exemplifica corretamente os direitos sociais.",
       "alternatives": {
         "A": "Direito à vida e à liberdade.",
@@ -565,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1ab19d9bffee75f6"
     },
     {
       "question_number": 35,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Um funcionário do governo fica responsável pela distribuição de recursos limitados em uma pequena cidade e se depara com um dilema moral. Uma enchente atingiu a região e ele precisa decidir como alocar os recursos de emergência. Há dois grupos que precisam urgentemente de ajuda: um é um orfanato com várias crianças, e o outro, um hospital que atende a toda a comunidade. Ambos estão em situações críticas e os recursos não são suficientes para atender às necessidades de ambos. Na situação acima, é correto afirmar que o funcionário aderiu a uma ética utilitarista se ele optou por",
       "alternatives": {
         "A": "agir conforme o dever e o princípio moral de direcionar a ajuda para o grupo mais desfavorecido.",
@@ -582,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d3883954e33d40fa"
     },
     {
       "question_number": 36,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com relação ao Estatuto dos Servidores Públicos do Estado do Mato Grosso (Lei Complementar nº 04/1990), associe cada forma de provimento de cargo público à sua descrição. 1. Reversão 2. Recondução 3. Readaptação 4. Reintegração ( ) O servidor aposentado por invalidez retorna à atividade ao serem declarados insubsistentes os motivos da aposentadoria. ( ) O servidor passa a assumir responsabilidades e atribuições compatíveis com uma limitação física ou mental sofrida. ( ) O servidor retorna a um cargo anteriormente ocupado, por exemplo, devido à inabilitação em estágio probatório. ( ) O servidor retorna ao cargo anteriormente ocupado devido a uma invalidação de uma anterior demissão. Assinale a opção que indica a relação correta, segundo a ordem apresentada.",
       "alternatives": {
         "A": "1 – 3 – 2 – 4.",
@@ -599,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1e7f4f5081846dbb"
     },
     {
       "question_number": 37,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta, corretamente, um objetivo do Sistema Único de Saúde – SUS.",
       "alternatives": {
         "A": "Integração em nível executivo das ações de saúde, meio ambiente e saneamento básico.",
@@ -616,11 +686,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1a72f83af53a3ae8"
     },
     {
       "question_number": 38,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Assinale a opção que apresenta o princípio que foi acrescentado ao Sistema Único de Saúde, em 2023.",
       "alternatives": {
         "A": "Organizar atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral.",
@@ -633,11 +705,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6ebb9948a5b4b101"
     },
     {
       "question_number": 39,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei no 8.080/90 acerca do acompanhamento à mulher nos serviços de saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em consultas, exames e procedimentos realizados em unidades de saúde públicas ou privadas, toda mulher tem o direito de fazer-se acompanhar por pessoa maior de idade, durante todo o período do atendimento, independentemente de notificação prévia. ( ) Em caso de atendimento com sedação, a eventual renúncia da paciente ao direito de acompanhante deverá ser feita por escrito, após o esclarecimento dos seus direitos, com no mínimo 24 (vinte e quatro) horas de antecedência, assinada por ela e arquivada em seu prontuário. ( ) Em casos de urgência e emergência, os profissionais de saúde ficam autorizados a agir na proteção e defesa da saúde e da vida da paciente, ainda que na ausência do acompanhante requerido. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F – V – F.",
@@ -650,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5d5399d20305c4c6"
     },
     {
       "question_number": 40,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base na organização dos níveis de assistência à saúde, assinale a opção que apresenta a um serviço da atenção terciária.",
       "alternatives": {
         "A": "Unidade de Transplante Renal.",
@@ -667,11 +743,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "84c7aad78f815085"
     },
     {
       "question_number": 41,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Os Programas de Qualidade de Vida e Saúde para os Trabalhadores da Saúde e o Colegiado Gestor fazem parte do seguinte elemento da Politica Nacional de Humanização.",
       "alternatives": {
         "A": "Valores.",
@@ -684,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f5a15ef64fef2fcd"
     },
     {
       "question_number": 42,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nos Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde, analise as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Em serviços de saúde com mais de vinte trabalhadores é obrigatória a instituição de Comissão Interna de Prevenção de Acidentes - CIPA. ( ) O serviço de saúde deve garantir que o prontuário contenha registros relativos à identificação e todos os procedimentos prestados ao paciente. ( ) O serviço de saúde deve garantir que os trabalhadores sejam avaliados, no mínimo, uma vez ao ano em relação à saúde ocupacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – V.",
@@ -701,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "bbb38c8da571336c"
     },
     {
       "question_number": 43,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com a Carta dos Direitos e Deveres da Pessoa Usuária da Saúde, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O usuário tem direito a acompanhante, pessoa de sua livre escolha, nas consultas e exames.",
@@ -718,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "672400afe63ba37d"
     },
     {
       "question_number": 44,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "De acordo com as disposições normativas acerca da segurança do paciente, os eventos adversos que evoluírem para óbito devem ser notificados em até",
       "alternatives": {
         "A": "12 horas, a partir do ocorrido.",
@@ -735,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "78dab6a33f2a3eb8"
     },
     {
       "question_number": 45,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Com base nas disposições da Lei nº 8.142/90, analise as afirmativas a seguir. I. O Conselho de Saúde é um órgão colegiado responsável por avaliar a situação de saúde e propor diretrizes para formulação da política de saúde. II. Um dos requisitos para que Estados e Municípios recebam os recursos destinados à cobertura das ações e serviços de saúde é a elaboração do Plano de Saúde. III. Os Municípios poderão estabelecer consórcio para execução de ações e serviços de saúde. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -752,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c49286c12283dd5b"
     },
     {
       "question_number": 46,
-      "discipline": "de Mato Grosso",
+      "discipline": "História e Geografia de Mato Grosso",
       "statement": "Conforme disposições sobre a organização do SUS, o conjunto de ações e serviços de saúde, articulados em níveis de complexidade crescente com a finalidade de garantir a integralidade da assistência à saúde, corresponde ao(à)",
       "alternatives": {
         "A": "Mapa de Saúde.",
@@ -769,11 +857,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "afdcb570b4f0fcbc"
     },
     {
       "question_number": 47,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "As Doenças Transmitidas por Alimentos (DTA), mais recentemente denominadas Doenças de Transmissão Hídrica e Alimentar (DTHA) pelo Ministério da Saúde, podem ser causadas por uma diversidade de microrganismos. Assinale a alternativa em que estejam elencados, respectivamente, exemplos de vírus, bactéria e protozoário causadores de DTA.",
       "alternatives": {
         "A": "Norovírus, Escherechia coli, Campylobacter jejuni.",
@@ -786,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "87ea445dd9bd3f3b"
     },
     {
       "question_number": 48,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Durante a cadeia de processamento de alimentos, algumas bactérias podem encontrar condições para seu desenvolvimento e produção de toxinas. Tais toxinas serão as responsáveis pelo quadro clínico da doença resultante da ingestão do alimento contaminado. Assinale a opção que indica a bactéria produtora de toxina termoestável que é pré-formada no alimento, e frequentemente envolvida em surtos de doença de origem alimentar.",
       "alternatives": {
         "A": "Salmonella enteritidis.",
@@ -803,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "71857aa295a9c14d"
     },
     {
       "question_number": 49,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em maio de 2023, um surto de DTA na cidade de Curitiba (PR) envolveu cerca de 50 pessoas que participaram de uma confraternização em um condomínio residencial. A investigação epidemiológica constatou que os sintomas aconteceram, em média, 2 horas após o consumo de alimentos e o principal sintoma apresentado pelos doentes foi náusea e vômito. De acordo com os resultados da investigação, a preparação apontada como causa da doença foi bolinho de arroz frito por imersão em óleo quente. Foi informado que os bolinhos foram preparados imediatamente antes do consumo, a partir de sobras de arroz branco, de um churrasco realizado no dia anterior, com adição de sal, pimenta do reino, salsinha fresca e ovo cru. Os bolinhos de arroz foram, então, fritos e servidos no momento do consumo; não havendo exposição e armazenamento dos bolinhos, anteriormente e posteriormente à fritura, à temperatura ambiente. De acordo com as informações fornecidas e considerando as características dos principais agentes microbianos causadores de DTA, assinale a alternativa na qual o micro-organismo citado apresentaria a maior probabilidade de ser o causador do surto.",
       "alternatives": {
         "A": "Streptococcus pyogenes.",
@@ -820,11 +914,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eaaf5f5d2d4a3e85"
     },
     {
       "question_number": 50,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "No que tange à secagem dos grãos com ar aquecido, considere as afirmativas a seguir. I. A pressão parcial de vapor de água na superfície do grão precisa ser maior do que a pressão parcial de vapor de água no ar, para realização da operação. II. Há transferência de massa do grão para o ar de secagem, para realização da operação. III. Há transferência de calor do ar de secagem para o grão, para realização da operação. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -837,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "aef035bb9e3b4619"
     },
     {
       "question_number": 51,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considerando o Padrão Oficial de Classificação para grãos no Brasil, de acordo com a regulamentação para amendoim (Arachis hypogaea, L.), o blancheamento é a denominação para",
       "alternatives": {
         "A": "o processo de tratamento térmico para inativação enzimática nos grãos.",
@@ -854,11 +952,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "02380878c93a8f35"
     },
     {
       "question_number": 52,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "As definições a seguir estão relacionadas aos produtos e processos relacionados ao beneficiamento do arroz (Oryza sativa L.). I. Marinheiro é o nome dado ao grão de arroz que conserva sua casca após o beneficiamento; em meio aos grãos descascados. II. Arroz quebrado ou quirera é a denominação do pedaço de grão de arroz capaz de ficar retido na peneira de furos circulares de 1,60 mm de diâmetro. III. O arroz parabolizado tem como característica a gelatinização do amido no grão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e II.",
@@ -871,11 +971,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "beab48f5d3f3e00d"
     },
     {
       "question_number": 53,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O rótulo de uma substância química sanitizante de superfície, aprovada para uso na indústria de alimentos, contém a seguinte inscrição: “elimina 99,99% dos micróbios”. Em termos de ciclos logarítmicos (ciclos log), tal substância, se utilizada de maneira adequada, poderá reduzir até",
       "alternatives": {
         "A": "5 ciclos log da população microbiana.",
@@ -888,11 +990,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3ff9329894dfda5b"
     },
     {
       "question_number": 54,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A respeito de sanitizantes utilizados na indústria de alimentos, Considere as afirmativas a seguir. I. A frequente utilização de hipoclorito de sódio, em soluções aquosas, deve-se, principalmente, pela estabilidade da concentração de íon hipoclorito e sua forte ação antimicrobiana numa ampla faixa de pH da solução. II. Os compostos sanitizantes à base de iodo possuem como aspecto positivo à sua utilização a característica de serem inodoros. III. Os compostos à base de ácido peracético possuem ação antimicrobiana eficiente contra esporos bacterianos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e II.",
@@ -905,11 +1009,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0bd9cb1672ad42a3"
     },
     {
       "question_number": 55,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O processo de limpeza numa planta processadora de alimentos será dependente de diversos fatores, dentre eles a composição das matérias-primas processadas. Considerando a etapa de limpeza num processo de higienização, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A utilização de água quente (acima de 80oC) é recomendada para remoção de resíduos de proteínas.",
@@ -922,11 +1028,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2119af396e7857ad"
     },
     {
       "question_number": 56,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um pequeno produtor de doce de leite artesanal pastoso e acondicionado em potes plásticos está encontrando problemas para conservação do seu produto devido à deterioração microbiana. Como consultor técnico do referido produtor, você chegou à conclusão de que será necessário o uso de um conservante. Assinale a alternativa que indica o conservante mais adequado a ser utilizado, considerando as características do produto, a manutenção das características sensoriais, o uso permitido em legislação, a segurança e os possíveis deteriorantes do produto.",
       "alternatives": {
         "A": "Metabissulfito de potássio.",
@@ -939,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7b224d4e7653fc52"
     },
     {
       "question_number": 57,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Nos últimos anos, a segurança do dióxido de titânio (INS 171) como aditivo em alimentos vem sendo questionada e em 2021 a “European Food Safety Authority” (EFSA) proibiu seu uso. No Brasil, seu uso é regulamentado e permitido, para alguns grupos de alimentos, pela Anvisa. O dióxido de titânio é um aditivo classificado, de acordo com sua função, como",
       "alternatives": {
         "A": "corante.",
@@ -956,11 +1066,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f7e63f2cbd7a7760"
     },
     {
       "question_number": 58,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Leia o trecho a seguir. “Ingredientes: leite integral e _____ citrato de sódio, trifosfato de sódio, monofosfato monossódico e difosfato dissódico.” Estas informações fazem parte de um rótulo de leite integral UHT. Considerando os aditivos presentes e sua função no produto, a lacuna seria corretamente preenchida pela palavra",
       "alternatives": {
         "A": "conservantes.",
@@ -973,11 +1085,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7940545fb41d882f"
     },
     {
       "question_number": 59,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Você e seus amigos estão em um restaurante. Um deles pede um suco industrializado da marca X em embalagem de 300 mL. Ao ler o rótulo do produto, seu amigo depara-se com a expressão “Livre de BPA”. Seu amigo, então, questiona-o sobre o significado da expressão. Você explica que BPA corresponde a bisfenol-A, uma substância química. Ainda sem entender, ele indaga sobre a origem do BPA. Assinale a opção que apresenta sua explicação.",
       "alternatives": {
         "A": "BPA pode ser formado durante o processamento do suco devido à presença de fenóis nas frutas.",
@@ -990,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f641643c94b80f7f"
     },
     {
       "question_number": 60,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma empresa fabricante de embalagens está desenvolvendo um produto, junto a uma indústria produtora de refeições prontas para consumo, para acondicionamento de sopa. A ideia é que a embalagem possa, além de acondicionar, aquecer a sopa no momento do consumo. Isso seria possível, resumidamente, pela construção de uma embalagem com três compartimentos isolados: um superior contendo a sopa, um intermediário contendo óxido de cálcio e um inferior (base da embalagem) contendo água. Antes do consumo, basta pressionar o fundo da embalagem, uma membrana será rompida e a água entrará em contato com o óxido de cálcio gerando uma reação exotérmica responsável pelo aquecimento da sopa. O protótipo descrito trata de uma embalagem",
       "alternatives": {
         "A": "inteligente.",
@@ -1007,11 +1123,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f104a5f1d585c658"
     },
     {
       "question_number": 61,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Embalagens biodegradáveis para alimentos vêm ganhando cada vez mais espaço no mercado. Diversos biopolímeros são utilizados na fabricação destas embalagens; alguns deles produzidos a partir de bioprocessos que utilizam micro- organismos. Assinale a opção que apresenta um exemplo dos denominados “bioplásticos” produzido a partir da atividade microbiana.",
       "alternatives": {
         "A": "PHB (poli-hidroxibutirato).",
@@ -1024,11 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bb80fa73dde98929"
     },
     {
       "question_number": 62,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "As conservas de palmito, populares no Brasil, são frequentemente comercializadas em frascos de vidro. Considerando os princípios básicos que envolvem a estabilidade e segurança microbiológica de um alimento, no caso do palmito em conserva é correto afirmar que concorrem os seguintes fatores:",
       "alternatives": {
         "A": "tratamento térmico de esterilidade comercial e abaixamento da atividade de água do produto.",
@@ -1041,11 +1161,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2ceb7f4cbae35748"
     },
     {
       "question_number": 63,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A pasteurização do leite tem por objetivo principal a destruição de micro-organismos patogênicos e, consequentemente, conferir segurança ao produto. A escolha do micro-organismo-alvo será baseada na sua resistência térmica. De acordo com esta afirmação, assinale a opção que indica os micro-organismos que podem ser citados com alvo no processo.",
       "alternatives": {
         "A": "Coxiella burnetti e Mycobacterium tuberculosis.",
@@ -1058,11 +1180,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "66973946582ce55d"
     },
     {
       "question_number": 64,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A irradiação de alimentos é um processo permitido no Brasil e possui regulamentação específica. Sobre irradiação de alimentos, considere as afirmações a seguir. I. Fontes radioativas de cobalto 60 são as mais frequentemente utilizadas para emissão de raios gama. II. Radapertização é o nome dado ao processo de irradiação de um alimento com doses acima de 10 kGy. Assinale",
       "alternatives": {
         "A": "se apenas I está correta.",
@@ -1075,11 +1199,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "28f06dbf685a65e3"
     },
     {
       "question_number": 65,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "As Boas Práticas de Fabricação (BPF) para estabelecimentos que produzem alimentos estão regulamentadas em diversas legislações brasileiras nas esferas Municipal, Estadual e Federal. A Agência Nacional de Vigilância Sanitária (Anvisa) regulamenta as BPF para estabelecimentos produtores de alimentos por meio de algumas legislações. Dentre elas, a _____ é um documento de referência porque contém a “a Lista de Verificação das Boas Práticas de Fabricação em Estabelecimentos Produtores/Industrializadores de Alimentos”. Assinale a opção que preenche corretamente a lacuna do texto.",
       "alternatives": {
         "A": "RDC 331 de 2019.",
@@ -1092,11 +1218,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9fbb33eb8217d865"
     },
     {
       "question_number": 66,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O denominado Procedimento Padrão de Higiene Operacional (PPHO) foi regulamentado pela primeira vez pelo Ministério da Agricultura Pecuária e Abastecimento (MAPA), no Brasil, em legislação específica com a publicação da",
       "alternatives": {
         "A": "Instrução Normativa nº 9 de 2009.",
@@ -1109,11 +1237,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bf37083ba7d1b020"
     },
     {
       "question_number": 67,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Você e seus amigos estavam no supermercado fazendo compras para realização de um churrasco. Seu amigo veio até você com um pacote de picanha embalada à vácuo e mostrou-lhe o rótulo do produto apontando para um selo composto por um círculo que continha em seu interior as palavras “Brasil”, “Inspecionado”, a sigla “S.I.F” e um número. Curioso, e sabendo que você trabalha na área de alimentos, ele perguntou o significado do selo. Assinale a opção que apresenta a resposta correta.",
       "alternatives": {
         "A": "O selo significa que o produto é artesanal e inspecionado pelo Serviço de Inspeção Federal da Agência Nacional de Vigilância Sanitária (Anvisa), podendo ser comercializado em todo o território nacional.",
@@ -1126,11 +1256,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7f89edde693f6d23"
     },
     {
       "question_number": 68,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Você recebeu um laudo do laboratório de microbiologia relativo à análise “Contagem Total de Aeróbios Mesófilos” em uma amostra de polpa de maracujá congelada. O resultado apresentado foi de 8,3 x 105 UFC/g de polpa. Considerando que a técnica utilizada foi de plaqueamento em profundidade, a partir de diluições decimais seriadas da amostra e em duplicata para cada diluição, e que as unidades formadoras de colônias foram contadas em placas da mesma diluição, assinale a opção que indica a diluição na qual o analista realizou as contagens das unidades formadoras de colônia e calculou a média.",
       "alternatives": {
         "A": "10-4.",
@@ -1143,11 +1275,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "09609a9acb89f7ad"
     },
     {
       "question_number": 69,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma queijaria vem apresentando problemas de deterioração em seus queijos maturados tipo Parmesão, geralmente após 5 semanas da data de fabricação. Esta deterioração é conhecida como “estufamento tardio”, estando relacionada a queijos maturados de massa cozida ou semi cozida, e alguns gêneros microbianos são a causa do problema. Assinale a opção que indica o gênero microbiano frequentemente envolvido neste tipo de deterioração.",
       "alternatives": {
         "A": "Pseudomonas.",
@@ -1160,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "dc5a4871c1dc2638"
     },
     {
       "question_number": 70,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um fabricante de cerveja artesanal procurou por você relatando um problema em seus produtos: sua cerveja Lager tipo Pilsen vem apresentando sabor forte de manteiga. Você solicitou algumas amostras do lote cujas cervejas apresentaram deterioração e enviou a uma amiga que trabalha em um laboratório de microbiologia. As análises revelaram a presença de bactérias láticas e alguns isolados pertencentes ao gênero Pediococcus. A deterioração causada por este gênero bacteriano em cervejas é bastante conhecida e deve-se à produção do",
       "alternatives": {
         "A": "ácido lático.",
@@ -1177,11 +1313,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1c024d6fbda30870"
     },
     {
       "question_number": 71,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "De acordo com a legislação brasileira para rotulagem de alimentos embalados, publicada em 2022 pela Anvisa, alguns alimentos constam como isentos da obrigatoriedade de apresentação em seu rótulo do prazo de validade. Assinale a alternativa em que todos os alimentos listados são isentos da declaração obrigatória do prazo de validade.",
       "alternatives": {
         "A": "café, azeite de oliva e frutas frescas.",
@@ -1194,11 +1332,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "408de0936ab0f0f5"
     },
     {
       "question_number": 72,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A Anvisa por meio de Resolução para rotulagem de alimentos embalados, publicada em 2022, estabelece uma “lista dos principais alimentos que causam alergias alimentares”. Caso o produto fabricado contenha ou seja derivado dos principais alimentos que causam alergias alimentares (constantes na lista da Resolução) algumas advertências devem constar no rótulo do produto. Assinale a opção que indica os alimentos constantes da “lista dos principais alimentos que causam alergias alimentares” publicada na Resolução da Anvisa.",
       "alternatives": {
         "A": "gergelim, aipo, peixe e trigo.",
@@ -1211,11 +1351,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f0432e9ec77491bd"
     },
     {
       "question_number": 73,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considerando a legislação brasileira, regulamentada pela Anvisa em 2022, para rotulagem de alimentos embalados afirma-se: I. A declaração de todo e qualquer aditivo alimentar deve vir na lista de ingredientes acompanhada de sua função tecnológica, devendo o aditivo ser identificado pelo seu INS ou nome completo no rótulo. II. Mudança na formulação do produto deve, obrigatoriamente, ser informada no rótulo. Assinale:",
       "alternatives": {
         "A": "se apenas I está correta.",
@@ -1228,11 +1370,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a612de9e27bc7ec7"
     },
     {
       "question_number": 74,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma indústria produtora de sucos de frutas deseja instalar um tanque de equalização visando melhorar seu processo de tratamento de efluentes. Assinale a opção que apresenta uma justificativa para esta inclusão.",
       "alternatives": {
         "A": "A variação nas características do efluente.",
@@ -1245,11 +1389,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fe283fc1db58befc"
     },
     {
       "question_number": 75,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Numa indústria de alimentos, no que tange ao tratamento biológico de efluentes, considere as afirmativas: I. A relação entre a DQO e a DBO (DQO/DBO) é um importante parâmetro para definir a biodegradabilidade do efluente. II. Hidrólise, acidogênese, acetogênese e metanogênese são etapas da biodigestão anaeróbia. Assinale:",
       "alternatives": {
         "A": "se apenas I está correta.",
@@ -1262,11 +1408,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4885151459754a25"
     },
     {
       "question_number": 76,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O tratamento de efluentes numa indústria de alimentos pode ser divido em diferentes etapas. Assinale a alternativa em que são apresentadas operações, que caracterizam, respectivamente, o tratamento preliminar, o primário e o secundário.",
       "alternatives": {
         "A": "ultrafiltração, peneiramento e tratamento biológico.",
@@ -1279,11 +1427,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f55abe0169661b2c"
     },
     {
       "question_number": 77,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma empresa importadora de bacalhau seco salgado vem enfrentando problemas com um fornecedor: os produtos estão apresentando pontos avermelhados. Considerando que o problema seja de origem microbiana, um gênero possivelmente envolvido na produção do pigmento avermelhado seria",
       "alternatives": {
         "A": "Bacillus.",
@@ -1296,11 +1446,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d39ea135ca2e1266"
     },
     {
       "question_number": 78,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Para evitar o escurecimento enzimático de frutas e hortaliças, congeladas, é importante que haja inativação de enzimas como polifenoloxidase por exemplo. Para tanto, recomenda-se que previamente ao congelamento os produtos sejam submetidos ao pré-processo denominado",
       "alternatives": {
         "A": "extrusão.",
@@ -1313,11 +1465,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b4460eb886e99b19"
     },
     {
       "question_number": 79,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Assinale a opção que apresenta dois alimentos industrializados, comercialmente estéreis e de baixa acidez.",
       "alternatives": {
         "A": "ervilha em conserva enlatada e atum enlatado.",
@@ -1330,11 +1484,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7b9c95543dd3fa2b"
     },
     {
       "question_number": 80,
-      "discipline": "CONHECIMENTOS ESPECÍFICOS",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O monitoramento de micotoxinas em diversas matérias-primas alimentícias é de fundamental importância para segurança dos alimentos industrializados. Na cadeia de produção de leites e derivados não é diferente. A micotoxina que pode estar presente em leite, tendo, inclusive, limites máximos tolerados (LMT) estabelecidos por legislação brasileira, é denominada",
       "alternatives": {
         "A": "astaxantina C1.",
@@ -1347,7 +1503,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "21c8fcb56dba1444"
     }
-  ]
+  ],
+  "year": 2023,
+  "uf": "MT",
+  "level": "Superior",
+  "question_type": "multiple_choice_4"
 }

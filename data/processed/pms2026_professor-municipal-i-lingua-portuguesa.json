@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "756e73b5d7c52bd2"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q2.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6c8eb4aa6e6bb864"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f02a5d4529b6fa49"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7422aaaeccd3a9cc"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f0c4144b9ecf10b9"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9061fb22b27840a5"
     },
     {
       "question_number": 7,
@@ -123,7 +135,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q7.png",
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "fd45f670a39a63d2"
     },
     {
       "question_number": 8,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "df1d5e32ac27b590"
     },
     {
       "question_number": 9,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "99358a84f3f65079"
     },
     {
       "question_number": 10,
@@ -174,11 +192,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "66ef085f0df090ea"
     },
     {
       "question_number": 11,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Para a impressão das provas do segundo bimestre, a direção de uma escola comprou um lote de pacotes de papel. Inicialmente, a razão entre o número de pacotes destinados ao Ensino Fundamental I e o número de pacotes destinados ao Ensino Fundamental II era de 3 para 5, nessa ordem. Antes de iniciar as impressões, a coordenação reformulou o planejamento e decidiu transferir 18 pacotes do Ensino Fundamental II para o Ensino Fundamental I. Após essa movimentação, as quantidades de pacotes de papel destinadas a cada um dos dois segmentos ficaram exatamente iguais. Nessas condições, o total de pacotes de papel comprados para a impressão das provas desse bimestre foi igual a",
       "alternatives": {
         "A": "72.",
@@ -191,11 +211,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "585d325f94ef662d"
     },
     {
       "question_number": 12,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Para uma atividade cultural integrada, a coordenação de uma escola convidará professores. Cada um dos professores convidados leciona em apenas uma das nove séries do Ensino Fundamental, do 1º ao 9º ano. Para garantir que haverá pelo menos três professores que lecionam em uma mesma série, a quantidade mínima de professores que devem estar presentes é igual a",
       "alternatives": {
         "A": "3.",
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2131d26fd136f0bd"
     },
     {
       "question_number": 13,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Durante uma reunião de planejamento, a direção de uma escola apresentou a seguinte diretriz pedagógica aos docentes: \"Se o estudante participa das atividades de monitoria, então ele melhora seu desempenho nas avaliações regulares.\" Do ponto de vista da lógica proposicional, a negação da diretriz apresentada é:",
       "alternatives": {
         "A": "O estudante participa das atividades de monitoria e não melhora seu desempenho nas avaliações regulares.",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1045662ea1797c72"
     },
     {
       "question_number": 14,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Para organizar os materiais de contação de histórias, a equipe pedagógica de uma creche organizou os brinquedos em uma prateleira seguindo rigorosamente uma sequência lógica, com cinco tipos de objetos, que se repetem de forma constante na seguinte ordem: Urso – Cubo – Carro – Bola – Boneca – Urso – Cubo – Carro – Bola – Boneca – ... Mantendo-se estritamente esse padrão de repetição, o objeto que ocupará a 53ª posição dessa sequência será o(a)",
       "alternatives": {
         "A": "Bola.",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "37f92ed41df25ef6"
     },
     {
       "question_number": 15,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Durante o planejamento anual de uma escola, a direção organizou as atribuições de quatro professoras, Evelyn, Fernanda, Gabriela e Hélia, que lecionam nas disciplinas de Filosofia, Geografia, História e Sociologia, não necessariamente nessa ordem. Cada professora leciona em uma única disciplina e em um turno diferente: Manhã, Tarde, Noite ou Integral. Para montar o quadro de horários, a coordenação registrou as seguintes informações: • A docente de Filosofia leciona no turno da Noite e não é Fernanda nem Hélia; • Gabriela leciona no turno da Tarde; • Hélia não leciona Geografia nem Sociologia; • A docente de Sociologia leciona no turno da Manhã. Com base unicamente nessas informações, é correto afirmar que",
       "alternatives": {
         "A": "Evelyn leciona Geografia no turno da Noite.",
@@ -259,7 +287,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "daf8f04afab906f2"
     },
     {
       "question_number": 16,
@@ -276,7 +306,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "73f4e2031c8423d0"
     },
     {
       "question_number": 17,
@@ -293,7 +325,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "cbabe6b9ee28f56c"
     },
     {
       "question_number": 18,
@@ -310,7 +344,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7b0d68d950cba0ef"
     },
     {
       "question_number": 19,
@@ -327,7 +363,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5ca5bdfa1a64a9a1"
     },
     {
       "question_number": 20,
@@ -344,7 +382,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "fd7a9d85ecb10960"
     },
     {
       "question_number": 21,
@@ -361,7 +401,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "75349a3b79856d76"
     },
     {
       "question_number": 22,
@@ -378,7 +420,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q22.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b4bb103a1aabafd7"
     },
     {
       "question_number": 23,
@@ -395,7 +439,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6e6986ffc5f358d1"
     },
     {
       "question_number": 24,
@@ -412,7 +458,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d9f65bbf3189639e"
     },
     {
       "question_number": 25,
@@ -429,7 +477,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6a85577a4c5255a1"
     },
     {
       "question_number": 26,
@@ -446,7 +496,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q26.png",
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0cdbf9977d03fc17"
     },
     {
       "question_number": 27,
@@ -463,7 +515,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8a1e659b0589b723"
     },
     {
       "question_number": 28,
@@ -480,7 +534,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6252bde9b3c1c39d"
     },
     {
       "question_number": 29,
@@ -497,7 +553,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7a60a107099a93f7"
     },
     {
       "question_number": 30,
@@ -514,7 +572,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a1751346e8c05cd1"
     },
     {
       "question_number": 31,
@@ -531,7 +591,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7962bef9e428a19c"
     },
     {
       "question_number": 32,
@@ -548,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "8a08596aedaccc20"
     },
     {
       "question_number": 33,
-      "discipline": "Legislação Específica",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "O Fundeb é um mecanismo de financiamento da educação básica que articula a atuação da União, dos estados e dos municípios. A complementação da União busca reduzir desigualdades nas condições de financiamento, sem substituir a responsabilidade federal pela Manutenção e Desenvolvimento do Ensino (MDE), prevista no art. 212 da Constituição Federal. Considerando o papel da complementação da União no Fundeb e sua relação com o Pacto Federativo, avalie as afirmativas a seguir e assinale (V) para verdadeira e (F) para falsa. ( ) A complementação da União ao Fundeb é um mecanismo de correção das desigualdades regionais, destinando recursos adicionais às redes de ensino que apresentam menor capacidade de financiamento de sua educação básica, de modo que todos os entes federados possam assegurar um padrão mínimo de qualidade na oferta do ensino público. ( ) A complementação da União ao Fundeb substitui e esgota a responsabilidade da União com a Manutenção e Desenvolvimento do Ensino, de modo que, uma vez realizada a complementação, a União fica desobrigada de aplicar os percentuais mínimos constitucionais previstos no art. 212 da Constituição Federal. ( ) A complementação da União ao Fundeb é distribuída de forma uniforme e igualitária entre todos os estados e municípios, independentemente de sua capacidade de arrecadação, garantindo que cada rede de ensino receba o mesmo valor por aluno em todo o território nacional. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – F.",
@@ -565,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1d863520608a31e9"
     },
     {
       "question_number": 34,
-      "discipline": "Legislação Específica",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "A Resolução CNE/CEB 7/2010 fixou as Diretrizes Curriculares Nacionais para o Ensino Fundamental de 9 (nove) anos. Os artigos 20 a 23 tratam da Gestão Democrática e Participativa como garantia do Direito à Educação. Com base nesse ato normativo e a partir da leitura do Referencial Curricular Municipal para os Anos Finais do Ensino Fundamental de Salvador, assinale a afirmativa correta quanto à Gestão Democrática.",
       "alternatives": {
         "A": "É definida como princípio administrativo-financeiro, com colaborações pontuais na construção do currículo, que se define de forma centralizada pela Secretaria Municipal da Educação.",
@@ -582,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "723e33afa48ff713"
     },
     {
       "question_number": 35,
-      "discipline": "Legislação Específica",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Professores do 7º ano de uma escola municipal identificaram conflitos entre grupos de meninos e meninas e desejam mediar a situação e promover um espaço de escuta acolhedora. A esse respeito, considere o Estatuto da Criança e do Adolescente (ECA – Lei nº 8.069/1990) e o Plano Nacional de Educação em Direitos Humanos (PNEDH) e analise as afirmativas a seguir. I. A unidade escolar deve resolver a questão por meio da reorganização das salas e da redistribuição dos grupos, buscando minimizar conflitos e garantir a segurança de todos, conforme a diretriz da autonomia dos adolescentes, que reconhece a capacidade dos alunos de conviverem de forma respeitosa quando as situações de tensão são reduzidas. II. A escola deve garantir um espaço de escuta acolhedora e de mediação de conflitos, promovendo o diálogo entre meninos e meninas e buscando a construção de uma cultura de paz e de convivência democrática no ambiente escolar, em consonância com o princípio da proteção integral (ECA) e com a educação em direitos humanos (EDH). III. O grupo de professores deve levar a questão às reuniões de pais, garantindo a escuta das famílias para modular as intervenções a serem realizadas, principalmente, nos horários de lazer, pois o ECA e o PNEDH determinam que a mediação de conflitos escolares seja conduzida em parceria com as famílias, cabendo à escola o papel de articular e apoiar esse processo. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -599,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1a3dd4f9d65863dd"
     },
     {
       "question_number": 36,
-      "discipline": "Legislação Específica",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "A Lei nº 15.388, de 14 de abril de 2026, que aprova o Plano Nacional de Educação (PNE), trouxe algumas inovações. O tema Educação Escolar Indígena, Educação do Campo e Educação Escolar Quilombola mereceu destaque, sendo contemplado no Objetivo 9 do Plano. As opções a seguir apresentam, corretamente, estratégias para atingir o objetivo desse tema, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Ampliar a produção de materiais didáticos específicos e a elaboração de instrumentos de acompanhamento que considerem o uso da língua materna pelas comunidades indígenas e a identidade cultural das comunidades do campo, das águas, das florestas, indígenas e quilombolas.",
@@ -616,11 +686,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9f275828e18fc6b7"
     },
     {
       "question_number": 37,
-      "discipline": "Legislação Específica",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "O professor de História do Fundamental II pretende desenvolver práticas pedagógicas sobre a temática étnico-racial, com base nas Diretrizes Curriculares para a Inclusão da História e Cultura Afro- Brasileira e Africana no Sistema Municipal de Ensino de Salvador (SMEC, 2005). Considerando os eixos da ancestralidade, da valorização da identidade, autoestima e religiosidade dos povos negros e da reconstituição da história e cultura afro-brasileira e africana no currículo escolar, analise as afirmativas a seguir sobre práticas pedagógicas para o 6º ano do Ensino Fundamental. I. O professor deve desenvolver uma sequência didática sobre as formas de resistência negra: quilombos, revoltas, irmandades e movimentos abolicionistas, evidenciando o protagonismo das populações negras e suas contribuições históricas, políticas, sociais e culturais para a formação do Brasil. II. O professor deve estruturar o planejamento anual de modo que a temática étnico-racial seja trabalhada de forma sistemática, distribuindo os conteúdos ao longo do ano letivo e elegendo, em cada unidade didática, um eixo temático central a ser aprofundado de modo sequencial, a fim de garantir o domínio progressivo e a consolidação das aprendizagens. III. O professor deve incorporar a história e as memórias da comunidade local: terreiros, associações culturais negras e famílias dos estudantes, como objeto permanente de estudo, valorizando a religiosidade de matriz africana, os saberes ancestrais e as vivências das famílias como patrimônio cultural legítimo do processo pedagógico. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -633,11 +705,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6f12136c6b5a8c68"
     },
     {
       "question_number": 38,
-      "discipline": "Legislação Específica",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "A Secretaria Municipal da Educação de Salvador (SMED) promove a forma contínua de professores no Ambiente Virtual de Aprendizagem (AVA Inteligente Salvador), por meio do Centro de Formação de Professores Emília Ferreiro, com foco no fortalecimento da educação digital na rede. A iniciativa inclui o uso pedagógico da plataforma, que integra alunos, professores e coordenadores, e da Tech4Kids, voltada ao letramento digital e ao pensamento computacional. A rede também reconhece anualmente professores e estudantes pelo uso de tecnologias educacionais, em ações alinhadas ao Referencial Curricular Municipal e à BNCC. Considerando o arcabouço normativo nacional, a mediação docente e as aprendizagens previstas no currículo, é correto afirmar que a formação continuada",
       "alternatives": {
         "A": "se justifica pela necessidade de preparar o professor para a educação digital e midiática, alinhando-se ao reconhecimento anual promovido pela rede, que premia o engajamento de educadores e estudantes no uso tecnológico da plataforma.",
@@ -650,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d14fd229764f8c55"
     },
     {
       "question_number": 39,
-      "discipline": "Legislação Específica",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Em 2026, a Secretaria Municipal de Educação de Salvador (SMED) entregou óculos com tecnologia assistiva OrCam MyEye a estudantes cegos da rede municipal. O dispositivo utiliza inteligência artificial para reconhecer textos e imagens e convertê- los em áudio, ampliando a autonomia e a acessibilidade. Um professor de Língua Portuguesa do 8º ano recebe uma estudante cega usuária do dispositivo. Ao planejar suas aulas, deve considerar seu uso para garantir a participação e a aprendizagem da estudante em condições de igualdade. Com base no caso narrado, e considerando a Lei Brasileira de Inclusão (Lei nº 13.146/2015), a Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva e o Desenho Universal para a Aprendizagem (DUA), é correto afirmar que o uso do referido dispositivo",
       "alternatives": {
         "A": "reduz a necessidade do plano de Atendimento Educacional Especializado (AEE), pois a tecnologia assistiva garante à estudante o acesso ao texto escrito e lhe confere autonomia.",
@@ -667,11 +743,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5b9bb0770d0afbd7"
     },
     {
       "question_number": 40,
-      "discipline": "Legislação Específica",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "A coordenadora pedagógica dos Anos Finais do Ensino Fundamental propõe aos professores uma sequência didática sobre projeto de vida para estudantes do 9º ano. A proposta é que os estudantes, em grupos, reflitam sobre seus interesses e habilidades, conheçam possibilidades de formação para o Ensino Médio e estabeleçam metas pessoais. Alguns professores questionam a proposta, argumentando que deveriam priorizar apenas os conteúdos curriculares obrigatórios, já que o projeto de vida \"não é conteúdo de prova\". Considerando a BNCC e o desenvolvimento do protagonismo juvenil nos Anos Finais do Ensino Fundamental, assinale a conduta mais adequada a ser adotada pelos professores diante da situação.",
       "alternatives": {
         "A": "Acatar a crítica dos colegas e restringir a sequência didática aos conteúdos curriculares obrigatórios, remetendo o projeto de vida para um momento posterior, quando os estudantes estiverem mais próximos da conclusão do Ensino Médio.",
@@ -684,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d4527dd879ab9b5e"
     },
     {
       "question_number": 41,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "O sentido da linguagem está no contexto de interação verbal e não no sistema linguístico. A língua possui, por meio do discurso, uma função social, sendo um processo dinâmico e conflituoso de produção de significados sobre a realidade que se dá em qualquer contexto social. Para Bakhtin (1999), as relações sociais ganham sentido pela palavra e sua existência se concretiza no contexto da enunciação. SANTOS, C. G. O ensino de Língua Estrangeira/Adicional pelo viés discursivo- contrastivo. In.: DURÃO,",
       "alternatives": {
         "A": "B. de A. B.; DURÃO, A. B.; ANDRADE, O. G. de. (Orgs). Linguística Contrastiva: homenagem a Emilio Ridruejo Alonso. Coleção Calepino - vol. 2. Campinas: Pontes, 2019. p. 160. O excerto revela uma das principais dimensões da linguagem: a social. Nesse sentido, é correto pressupor que, no âmbito escolar, as aulas de Língua Portuguesa devem (A) desenvolver a competência comunicativa dos estudantes por meio da análise de textos, priorizando os aspectos linguísticos responsáveis pela estabilidade dos sentidos produzidos na comunicação.",
@@ -701,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "99da66002a8fe553"
     },
     {
       "question_number": 42,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Talvez o ensino da oralidade, entre as frentes de trabalho de Língua Portuguesa, tenha sido o que menos recebeu investimento nos últimos anos. Leitura e escrita contam com muitas pesquisas e avanços nos campos da psicologia cognitiva e da didática. Análise linguística e semiótica já ocuparam desde lugar de destaque, desbancando os demais eixos, até uma situação de banimento quase total do currículo. E chegamos à atualidade com a coexistência de práticas educativas nos mais diferentes espectros. Mas o que é que se ensina, afinal de contas, quando se trata de oralidade? Ensina-se as alunas e os alunos a falar? Elas e eles já não têm domínio suficiente disso? Para que trabalhar sistemática e intencionalmente com oralidade na escola? Qual é a relação entre escrita e oralidade? SALVADOR. Secretaria Municipal da Educação. Referencial Curricular Municipal para os Anos Finais do Ensino Fundamental, p. 57. As indagações apresentadas no trecho do documento conduzem a uma concepção de ensino da oralidade segundo a qual a escola deve",
       "alternatives": {
         "A": "promover práticas de produção e escuta que ampliem repertórios e tornem observáveis as condições de realização dos gêneros orais.",
@@ -718,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "5707b7a0a590e051"
     },
     {
       "question_number": 43,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "O século XIX é uma boa base para refletirmos questões identitárias no Brasil, pois é o período histórico que faz uma ponte entre o antigo e o moderno na formação brasileira, século síntese que marca o projeto de modernização deste país. Podemos partir da história da literatura no Brasil como mote de apreensão da coformação do pensamento social brasileiro, e entender as determinações que impugnou, em vários momentos, a compreensão efetiva da vida nacional. De forma específica, a história da literatura nacional é compreendida, ora pela imitação dos ditames europeus, ora por um nacionalismo incongruente. Consolidação dos estados nações e o nacionalismo, bem como o livre comércio, são pautas na agenda europeia desse período, e são assimiladas, não ao acaso, pela intelectualidade brasileira e expressas na literatura nacional ao longo de sua história. FARIAS, M. Educação no Museu AfroBrasil e identidade. p. 4. Disponível em: https://www.museudalinguaportuguesa.org.br/ Ao considerar a literatura uma forma de apreensão da constituição do pensamento social brasileiro, o texto apresenta a produção literária do século XIX como",
       "alternatives": {
         "A": "registro documental capaz de reproduzir objetivamente as transformações políticas e econômicas experimentadas pelo país.",
@@ -735,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3eb520c47ae9043d"
     },
     {
       "question_number": 44,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "A frase é uma estrutura linguística caracterizada por relações sintáticas e uma significação, enquanto o enunciado é uma frase a que se adicionam informações retiradas da situação em que ela é enunciada. Isso quer dizer que uma frase pode corresponder a vários enunciados. Por exemplo, na frase A linha amarela do metrô está parada, a significação poderia ser O serviço de trens subterrâneos entre o ponto x e o ponto y está fora de funcionamento. Essa frase poderia corresponder a enunciados como Vamo-nos atrasar, Precisamos pegar um táxi, O serviço de manutenção está precário. FIORIN, J. L. Argumentação. São Paulo: Contexto, 2018. p. 32. Os enunciados apresentados ao final do texto não constituem paráfrases da significação da frase tomada como exemplo. Eles evidenciam que",
       "alternatives": {
         "A": "as relações sintáticas da frase comportam lacunas que são preenchidas pelo interlocutor conforme o conhecimento compartilhado.",
@@ -752,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "c9faac10c43b31c8"
     },
     {
       "question_number": 45,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Evidentemente, o conhecimento escolar e o conhecimento acadêmico são conhecimentos diferentes. Não se espera que na escola sejam tratados exatamente os conhecimentos acadêmicos tal qual eles são produzidos nas universidades. Espera-se que na escola se trabalhe com o conhecimento escolar, ou seja, com os conhecimentos que, gestados e transformados na cultura escolar, podem produzir aprendizagens significativas e duradouras para os alunos; que podem ajudá-los a compreender melhor o mundo, desde o seu olhar ainda infantil ou adolescente; que podem enriquecer sua compreensão que ainda não é a compreensão especialista, mas generalista do mundo. SALVADOR. Secretaria Municipal da Educação. Referencial Curricular Municipal para os Anos Finais do Ensino Fundamental, p. 19. A concepção de conhecimento escolar apresentada no trecho implica que, no ensino de Língua Portuguesa, o professor deve",
       "alternatives": {
         "A": "preservar a organização conceitual dos estudos acadêmicos, adequando principalmente a terminologia empregada à faixa etária dos estudantes.",
@@ -769,11 +857,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2ad4e908db144839"
     },
     {
       "question_number": 46,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Ao componente Língua Portuguesa cabe, então, proporcionar aos estudantes experiências que contribuam para a ampliação dos letramentos, de forma a possibilitar a participação significativa e crítica nas diversas práticas sociais permeadas/constituídas pela oralidade, pela escrita e por outras linguagens. As práticas de linguagem contemporâneas não só envolvem novos gêneros e textos cada vez mais multissemióticos e multimidiáticos, como também novas formas de produzir, de configurar, de disponibilizar, de replicar e de interagir. (...) Eis, então, a demanda que se coloca para a escola: contemplar de forma crítica essas novas práticas de linguagem e produções, não só na perspectiva de atender às muitas demandas sociais que convergem para um uso qualificado e ético das tecnologias digitais da informação e comunicação (TDIC) – necessário para o mundo do trabalho, para estudar, para a vida cotidiana etc. –, mas de também fomentar o debate e outras demandas sociais que cercam essas práticas e usos. BRASIL. Ministério da Educação. Base Nacional Comum Curricular. Brasília, DF: Ministério da Educação, 2018, p. 67-69. Considerando as orientações da BNCC relativas à “ampliação dos letramentos”, um professor de Língua Portuguesa dos Anos Finais do Ensino Fundamental deve propor aos estudantes que",
       "alternatives": {
         "A": "produzam podcasts com membros da comunidade e tenham as transcrições posteriormente avaliadas, sobretudo pela adequação vocabular e gramatical à modalidade escrita.",
@@ -786,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2699338343657ca8"
     },
     {
       "question_number": 47,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "As línguas são fascinantes. Não há aspecto delas que não nos maravilhe, seja sua enorme complexidade estrutural e social, seja sua imensa heterogeneidade, seja ainda o fato de que são realidades com história. Mudam constantemente no eixo do tempo, e estas mudanças não se dão nem para melhor, nem para pior; as línguas não melhoram, mas também não decaem – elas simplesmente mudam. Por outro lado, as línguas estão intimamente atadas às dinâmicas histórico-políticas e às construções imaginário-ideológicas das sociedades em que são faladas. Em outros termos, as línguas não existem em si e por si; elas não são entidades autônomas – as línguas são elas e seus falantes; elas e as sociedades que as falam. FARACO, C. A. História sociopolítica da língua portuguesa. São Paulo: Parábola Editorial, 2016. p. 9. A concepção de língua defendida no texto fundamenta uma prática de ensino de Língua Portuguesa que",
       "alternatives": {
         "A": "descreve as estruturas compartilhadas pelos falantes, reservando aos fatores históricos uma função complementar na explicação dos usos.",
@@ -803,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3d1da8c633b4790c"
     },
     {
       "question_number": 48,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Não existe criatura sobre a face da terra que não reflita todo dia sobre a própria língua, embora nem sempre se dê conta disso. Às vezes até “colocamos no ar” pedaços dessa reflexão. Certamente você já se pilhou dizendo ao seu interlocutor: “me deixa dizer isso de outro modo”, “esse assunto, digamos assim, terá outros desdobramentos”, “por assim dizer, tudo o que preciso agora é que você me empreste uma grana”, “agora estou pensando em calar a boca”, etc., etc. https://www.museudalinguaportuguesa.org.br/wp-content/uploads/2017/09/ Os exemplos de fala empregados no texto contribuem para demonstrar que a metalinguagem",
       "alternatives": {
         "A": "decorre do domínio das normas que orientam o emprego formal da língua, pois pressupõe a capacidade de identificar inadequações na própria fala.",
@@ -820,11 +914,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "86aadccbd55f3991"
     },
     {
       "question_number": 49,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Texto 1: MANDA BUSCAR Ravi Lobo / Cronista do Morro Minhas palavras me fazem uma profecia Nessa guerra vencendo as espetaculares Vivendo a vida e burlando as regras Depois da minha morte cê vai gritar Depois da minha vida contada em filme Salvador liberdade, é só encostar Paredão no morrinho, na humilde Nova era, mudança de vida Tipo contenção de pistola nos beco Cantando o futuro, chamando na mente Sonhando com isso, obrigado (música) Salvador tá barril, corda no pescoço No pico do morro, sonhando com a paz Menino do gueto, cheio de informação Mais um Malcolm X, mais um bom rapaz Eles tratam meu povo como lixo Eles tratam meu povo como bicho https://genius.com/Ravi-lobo-manda-buscar-lyrics Texto 2: A demanda cognitiva das atividades de leitura deve aumentar progressivamente. Essa complexidade envolve, entre outros aspectos, considerar a diversidade cultural e abranger diferentes produções e formas de expressão, como a literatura infantil e juvenil, o cânone, o culto, o popular, a cultura de massa, a cultura das mídias e as culturas juvenis, de modo a ampliar o repertório dos estudantes e promover a interação com o diferente. Adaptado de BRASIL. Ministério da Educação. Base Nacional Comum Curricular. Brasília, DF: Ministério da Educação, 2018. p. 75. Considerando as orientações do Texto 2, uma atividade de leitura do Texto 1 que articule a ampliação de repertório à progressão da demanda cognitiva deve levar os estudantes a",
       "alternatives": {
         "A": "localizar as marcas de oralidade, substituí-las por formas da norma-padrão e avaliar a qualidade do rap com base na correção alcançada pela reescrita.",
@@ -837,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ad9519e6d49707a2"
     },
     {
       "question_number": 50,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Voltando ao japonês, a língua campeã das palavras intraduzíveis. Wabi-sabi significa encontrar beleza na imperfeição. Kintsugi, colar uma cerâmica quebrada, valorizando a imperfeição, ou seja, valorizando o wabi-sabi. (Eita povo que curte uma imperfeição. Logo esse país em que tudo é tão perfeitinho – seria o japonês um imperfeccionista?) Bakku-shan, ainda em japonês, é uma pessoa que parece atraente de costas, mas não de frente. DUVIVIER, G. Aos pés da letra. São Paulo: Companhia das Letras, 2026, p. 137. No texto, a criação e o emprego do neologismo “imperfeccionista” contribuem para o sentido crítico do trecho ao",
       "alternatives": {
         "A": "negar, por meio do prefixo, a ideia de perfeccionismo e atribuir aos japoneses indiferença diante dos padrões estéticos.",
@@ -854,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 19
+      "page_number": 19,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "af7d34bba2b38538"
     },
     {
       "question_number": 51,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "'Carinho, consentimento e camisinha': Prefeitura de Salvador lança campanha bem-humorada e incentiva 'conchinha' durante frente fria No Instagram, a gestão municipal orienta também a proteção nas relações íntimas https://oglobo.globo.com/ela/noticia/2025/07/10/carinho-consentimento-e- camisinha-prefeitura-de-salvador-lanca-campanha-bem-humorada-e-incentiva- conchinha-durante-frente-fria.ghtml acesso em 13.7.26 No comunicado, a expressão “Se o clima esquentar” participa da construção do humor porque",
       "alternatives": {
         "A": "substitui uma referência direta às relações íntimas por uma formulação de sentido exclusivamente meteorológico.",
@@ -871,11 +971,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q51.png",
-      "page_number": 19
+      "page_number": 19,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0e161915685631e3"
     },
     {
       "question_number": 52,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "CAÇADORES DE FAKE NEWS: UM LIVRO DIGITAL CRIADO PELOS ESTUDANTES Desenvolvido em uma escola estadual de Pinhal da Serra (RS), o projeto envolveu estudantes na produção colaborativa de um livro digital, com uso da plataforma Book Creator, sobre fake news e desinformação. Ao longo da atividade, os alunos pesquisaram o tema, analisaram informações, verificaram fontes e discutiram o uso responsável das mídias digitais. Como produto final, elaboraram orientações para ajudar outras pessoas a identificar e evitar a desinformação. Adaptado de https://www.gov.br/secom/pt-br/assuntos/educacao- midiatica/mapa/todas-as-fichas/cacadores-de-fake-news A experiência relatada caracteriza uma prática de educação midiática porque os estudantes foram orientados a",
       "alternatives": {
         "A": "organizar informações sobre desinformação em um livro digital, explorando os recursos da plataforma para conferir unidade ao material produzido.",
@@ -888,11 +990,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a1bd88089e3537b6"
     },
     {
       "question_number": 53,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "A ODISSEIA 16 de julho de 2026 No cinema | 2h 53min | Ação, Fantasia Direção: Christopher Nolan | Roteiro Christopher Nolan Elenco: Matt Damon, Tom Holland, Anne Hathaway Título original The Odyssey Sinopse Não recomendado para menores de 14 anos Uma das histórias mais antigas da literatura ocidental ganha uma adaptação cinematográfica pelas mãos do cineasta Christopher Nolan. A Odisseia é um poema épico atribuído a Homero que acompanha as aventuras do herói grego Odisseu (Matt Damon) em sua volta para casa após a Guerra de Tróia. O guerreiro enfrenta criaturas míticas e deuses em sua jornada épica de retorno onde sua esposa Penélope (Anne Hathaway) o aguarda. O rei de Ítaca descreve sua trajetória esbarrando com seres como o Ciclope Polifemo, as sereias e a feiticeira/deusa Circe. https://www.adorocinema.com/filmes/filme-1000013045/ Considerando a organização das informações sobre o filme “A Odisseia”, a ficha técnica e a sinopse apresentam, respectivamente,",
       "alternatives": {
         "A": "dados da produção e síntese do enredo.",
@@ -905,11 +1009,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d9776c95ad5febcb"
     },
     {
       "question_number": 54,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "“Viva o povo brasileiro”, exuberante e complexa metáfora da formação de nossa identidade nacional, é obra monumental que já nasceu clássica, instaurando novo olhar ficcional sobre o passado do Brasil. A violência física e simbólica, os abismos sociais e os privilégios que os acentuam, a constituição de uma elite autoritária são encenados ao longo desta narrativa polifônica e lírica, muitas vezes irônica, que cobre quatrocentos anos de história. Poucas obras atingiram esse mesmo nível de complexidade, e pouquíssimas alcançaram êxito semelhante ao de “Viva o povo brasileiro”. “Viva o povo brasileiro”, obra de João Ubaldo Ribeiro, vencedor do prêmio Jabuti, em 1984, é um dos mais importantes romances surgidos na literatura brasileira no século XX. https://www.revistaprosaversoearte.com/joao-ubaldo-ribeiro-viva-o-povo- brasileiro/ De acordo com o texto, a importância, para a literatura brasileira, da obra Viva o povo brasileiro do escritor baiano João Ubaldo Ribeiro está relacionada à capacidade do romance de",
       "alternatives": {
         "A": "reconstruir cronologicamente os acontecimentos nacionais, preservando a objetividade própria dos registros historiográficos.",
@@ -922,11 +1028,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 20
+      "page_number": 20,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1f2f4e181d20ddbf"
     },
     {
       "question_number": 55,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Leia o trecho da canção “Tempo Rei”, de Gilberto Gil: Não me iludo Tudo permanecerá do jeito Que tem sido Transcorrendo Transformando Tempo e espaço navegando todos os sentidos (...) Pensamento Mesmo o fundamento singular do ser humano De um momento para o outro Poderá não mais fundar nem gregos, nem baianos Mães zelosas Pais corujas Vejam como as águas de repente ficam sujas Não se iludam Não me iludo Tudo agora mesmo pode estar por um segundo Tempo rei, ó, tempo rei, ó, tempo rei Transformai as velhas formas do viver Ensinai-me, ó, Pai, o que eu ainda não sei Mãe Senhora do Perpétuo, socorrei https://www.letras.mus.br/gilberto-gil/46247/ acesso em 14.8.26 A articulação entre as ideias de permanência e transformação, ao longo da canção, sugere que",
       "alternatives": {
         "A": "o tempo preserva as formas de viver, embora modifique a organização do espaço.",
@@ -939,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 21
+      "page_number": 21,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "06ac68d95210fc05"
     },
     {
       "question_number": 56,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "POR QUE O GENTÍLICO DE SALVADOR É SOTEROPOLITANO E NÃO ALGO COMO “SALVADORENSE”? Entenda a origem do gentílico cunhado no século 19 Soteros significa “salvador” em grego. O sufixo “politano” deriva de polis, que é “cidade”. Não se sabe por que optou-se pelo gentílico helênico em vez do intuitivo “salvadorense”. Segundo Deonísio da Silva, autor do livro De Onde Vêm as Palavras, não há outra explicação que não seja “esnobação erudita”. “Soteropolitano” foi cunhado em 1817, pelo padre e geógrafo português Manuel Aires de Casal. A palavra apareceu pela primeira vez no livro Corografia Brasílica. Também é comum que algumas cidades tenham dois gentílicos: um formado naturalmente, pelo uso diário, e outro artificialmente, com palavras derivadas do grego ou do latim. É o caso do “ludovicense”, que designa quem nasceu em São Luís, no Maranhão. O termo deriva do latim Ludovicus, que posteriormente deu origem ao aportuguesado “Luís”. No entanto, o gentílico “são-luisense” também é aceito. Em alguns casos, a forma erudita é a mais usual. Você nunca ouviu falar de nenhum “rio-de-janeirense”. “Fluminense”, o gentílico para quem nasceu no estado do Rio de Janeiro, é latim puro. Flumen significa “rio” em latim – uma referência geograficamente imprecisa para a Baía da Guanabara. Vale lembrar que o termo “salvadorense” é o gentílico de quem nasceu em Salvador das Missões, no Rio Grande do Sul. E “são- luizense”, o de São Luiz Gonzaga, no mesmo estado. https://super.abril.com.br/coluna/oraculo/por-que-o-gentilico-de-salvador-e- soteropolitano-e-nao-algo-como-salvadorense/ Ao comparar gentílicos como “soteropolitano”, “salvadorense”, “ludovicense” e “são-luisense”, o texto evidencia que a formação do léxico da língua portuguesa",
       "alternatives": {
         "A": "resulta de processos históricos diversos, nos quais criações eruditas podem coexistir com formas constituídas segundo padrões produtivos no uso da língua.",
@@ -956,11 +1066,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 21
+      "page_number": 21,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "684b414c0f9919d1"
     },
     {
       "question_number": 57,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "A alfabetização midiática e informacional é a capacidade mais específica de entender a linguagem e as convenções das notícias como um gênero e reconhecer como esses recursos podem ser explorados por alguém mal-intencionado. (...) Por isso, a AMI também precisa prestar atenção para conscientizar as pessoas sobre como elas respondem a conteúdos de notícias, e suas predisposições para darem credibilidade ou não à informação, independente de parecerem notícias ou não. Portanto, a AMI deve, em sua essência, dar aos indivíduos uma visão de sua própria identidade – quem são e quem estão se tornando, e como isso afeta seu engajamento com notícias e outros tipos de comunicação. https://www.unesco.org/pt/articles/jornalismo-fake-news-desinformacao A concepção de alfabetização midiática e informacional (AMI) apresentada no texto compreende que o enfrentamento da desinformação requer",
       "alternatives": {
         "A": "associar o reconhecimento das convenções do gênero notícia à percepção dos fatores identitários que influenciam a credibilidade atribuída às informações.",
@@ -973,11 +1085,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 22
+      "page_number": 22,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "16126e9601e03d54"
     },
     {
       "question_number": 58,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Construir sociedades mais pacíficas, justas e sustentáveis começa pela educação. Ela influencia todos os aspectos da vida cotidiana e nossas perspectivas futuras, ao mesmo tempo em que é impactada pela saúde e pelo meio ambiente. No cenário global de agravamento da mudança climática, retrocessos democráticos, desigualdades persistentes, aumento da discriminação, discurso de ódio, violência e conflitos, a educação pode ser uma ferramenta para enfrentar e prevenir esses problemas. E pode também constituir um investimento a longo prazo com rendimentos crescentes, se for concebido e implementado de forma eficaz. https://www.unesco.org/pt/global-citizenship-peace-education/ Na construção argumentativa do texto, o emprego de “pode” e da oração “se for concebido e implementado de forma eficaz” contribui para apresentar a educação como",
       "alternatives": {
         "A": "possibilidade cujos resultados decorrem principalmente da ampliação dos investimentos destinados ao atendimento das demandas sociais.",
@@ -990,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 22
+      "page_number": 22,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3e073abcd175ff78"
     },
     {
       "question_number": 59,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Leia a tirinha a seguir. https://tirasarmandinho.tumblr.com/ Na fala do menino no último quadrinho, o efeito de humor e de ironia indireta é produzido porque a personagem",
       "alternatives": {
         "A": "procura confortar o pai mencionando uma situação coletiva, mas acaba ressaltando o crescimento do problema que o entristece.",
@@ -1007,11 +1123,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q59.png",
-      "page_number": 22
+      "page_number": 22,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "30430253f97a21df"
     },
     {
       "question_number": 60,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Quando retirei a faca da mala de roupas, embrulhada em um pedaço de tecido antigo e encardido, com nódoas escuras e um nó no meio, tinha pouco mais de sete anos. Minha irmã, Belonísia, que estava comigo, era mais nova um ano. Pouco antes daquele evento, estávamos no terreiro da casa antiga, brincando com bonecas feitas de espigas de milho colhidas na semana anterior. Aproveitávamos as palhas que já amarelavam para vestir feito roupas nos sabugos. Falávamos que as bonecas eram nossas filhas, filhas de Bibiana e Belonísia. Ao percebermos nossa avó se afastar da casa pela lateral do terreiro, nos olhamos em sinal de que o terreno estava livre, para em seguida dizer que era a hora de descobrir o que Donana escondia na mala de couro, em meio às roupas surradas com cheiro de gordura rançosa. Donana notava que crescíamos e, curiosas, invadíamos seu quarto para perguntar sobre as conversas que escutávamos e sobre as coisas de que nada sabíamos, como os objetos no interior de sua mala. A todo instante éramos repreendidas por nosso pai ou nossa mãe. Minha avó, em particular, só precisava nos olhar com firmeza para sentirmos a pele arrepiar e arder, como se tivéssemos nos aproximando de uma fogueira. VIEIRA JUNIOR, Itamar. Torto arado. São Paulo: Todavia, 2019. p. 13 No fragmento inicial do romance Torto arado, a construção literária da memória da infância apoia-se, entre outros recursos, na alternância entre formas verbais do pretérito. Esse recurso contribui para a organização da narrativa ao",
       "alternatives": {
         "A": "apresentar como simultâneas as ações das personagens, eliminando a distinção entre acontecimentos centrais e circunstâncias anteriores.",
@@ -1024,11 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 23
+      "page_number": 23,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "6064d2fb01512613"
     },
     {
       "question_number": 61,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "CONFIRA PÚBLICO E RENDA DE VITÓRIA X PALMEIRAS PELA 21ª RODADA DA SÉRIE A Nesta quarta-feira (29), o Vitória perdeu para o Palmeiras por 4 a 0, pela 21ª rodada do Campeonato Brasileiro da Série",
       "alternatives": {
         "A": "Ao todo, 14.818 torcedores estiveram presentes no Barradão, proporcionando uma renda de R$ 416.546,00. O público rubro-negro foi formado por 12.538 associados do Sou Mais Vitória, 710 ingressos corporativos e 1.412 pagantes na bilheteria, totalizando 14.660 torcedores pagantes. Além disso, 158 crianças (não pagantes) acompanharam a partida, elevando o público presente para 14.818 pessoas. https://www.bahianoticias.com.br/esportes/vitoria/31334-confira-publico-e-renda- de-vitoria-x-palmeiras-pela-21a-rodada-da-serie-a Ao analisar esse texto em uma turma dos Anos Finais do Ensino Fundamental, uma atividade adequada à compreensão do funcionamento do gênero notícia consistiria em orientar os estudantes a (A) relacionar o título aos dados apresentados nos parágrafos, verificando de que maneira as formas verbais e as expressões numéricas situam e desenvolvem o acontecimento anunciado.",
@@ -1041,11 +1161,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 23
+      "page_number": 23,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b47b4fe802fd8e06"
     },
     {
       "question_number": 62,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Quem contraiu dengue tem um risco 16,7 vezes maior de desenvolver um problema neurológico chamado Síndrome de Guillain-Barré (SGB) nas primeiras seis semanas após a infecção, em comparação com o período posterior. A SGB causa formigamento nas mãos e nos pés, fraqueza muscular, dores nas costas, dificuldade para falar e engolir, visão dupla, confusão mental, tremores e, nos casos mais graves, paralisia dos músculos respiratórios. (...) São situações raras, que, no caso da SGB, podem ocorrer em 35 pessoas em cada grupo de 1 milhão. Em 2025, o Brasil registrou 1,6 milhão de casos e 1.793 mortes por dengue, uma redução de 70% em comparação com o ano anterior. Esses resultados emergem de uma análise da Fundação Oswaldo Cruz (Fiocruz) de Salvador, Bahia, e quantificam o risco associado entre a infecção pelo vírus da dengue e a síndrome neurológica. Desde 1998 existem relatos associando dengue à SGB no Brasil, Colômbia, México, Malásia, Sri Lanka e outros países, mas ainda não havia clareza sobre a real dimensão do risco dessa complicação neurológica. https://revistapesquisa.fapesp.br/dengue-pode-causar-sindrome-neurologica- grave/ Um professor pretende elaborar, a partir desse texto, uma questão de leitura que avalie a capacidade dos estudantes dos Anos Finais do Ensino Fundamental de interpretar criticamente informações numéricas em textos de divulgação científica. Para atender a esse objetivo, é correto afirmar que ele deverá solicitar que os estudantes",
       "alternatives": {
         "A": "elaborem recomendações para o tratamento da síndrome com base nos sintomas descritos e nos índices de ocorrência apresentados pela reportagem.",
@@ -1058,11 +1180,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 24
+      "page_number": 24,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "d6d38ed73f08dc6a"
     },
     {
       "question_number": 63,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Observe o cartum a seguir. https://jrmora.com/pt/o-outro-quino/ acesso em 14.8.26 Ao trabalhar esse cartum com estudantes dos Anos Finais do Ensino Fundamental, uma atividade de leitura da linguagem não verbal consistiria em orientá-los a",
       "alternatives": {
         "A": "produzir falas para as personagens a fim de explicitar as informações que o cartum não apresenta por meio da linguagem escrita.",
@@ -1075,11 +1199,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q63.png",
-      "page_number": 24
+      "page_number": 24,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "eea0b3a43eba0b4f"
     },
     {
       "question_number": 64,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Observe: https://www.dicionariopopular.com/meme-da-nazare-confusa/ Ao trabalhar esse meme com estudantes dos Anos Finais do Ensino Fundamental, uma atividade adequada à compreensão das práticas contemporâneas de linguagem consistiria em orientá- los a",
       "alternatives": {
         "A": "pesquisar a origem da cena televisiva e reconstruir o estado emocional da personagem no contexto em que as imagens foram produzidas.",
@@ -1092,11 +1218,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q64.png",
-      "page_number": 25
+      "page_number": 25,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ad9fbd31713f017e"
     },
     {
       "question_number": 65,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "As mulheres já estão na linha de frente dos efeitos da crise climática. Mas não apenas como vítimas. Em muitos territórios, são elas que percebem primeiro os sinais de risco, reorganizam a rotina da casa e da comunidade, mobilizam redes de cuidado, orientam saídas em situações de emergência e sustentam a reconstrução quando o evento passa. Tratá-las apenas como as mais afetadas por enchentes, secas, deslizamentos, ondas de calor e insegurança alimentar é reduzir uma realidade muito mais complexa e desperdiçar experiências que deveriam orientar políticas públicas. https://diplomatique.org.br/mulheres-como-agentes-da-resiliencia-climatica-que- deveriam-estar-no-centro-das-decisoes/ Em uma atividade avaliativa, para verificar a habilidade de compreender como recursos sintáticos e coesivos participam da construção argumentativa, um professor de Língua Portuguesa dos Anos Finais poderia, com base no texto,",
       "alternatives": {
         "A": "solicitar a substituição de “Mas” por “Portanto” e demonstrar que ambas as conjunções introduzem uma conclusão decorrente da informação anterior.",
@@ -1109,11 +1237,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 25
+      "page_number": 25,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "55d4a4f45f4a7977"
     },
     {
       "question_number": 66,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "No fim da tarde de 7 de junho de 1926, um senhor com cabelo e barba longos foi atropelado por um bonde em Barcelona. Ele usava roupas remendadas e estava coberto de sangue. Quem presenciou o acidente pensou se tratar de uma pessoa em situação de rua. O socorro levou horas; e o reconhecimento, um dia inteiro. Três dias depois, o homem morreu no hospital, aos 73 anos. Era Antoni Gaudí, o arquiteto que idealizou uma das obras mais ambiciosas e reconhecidas do mundo. Quando foi atropelado, Gaudí fazia o seu trajeto rotineiro para assistir a uma missa após o trabalho, a oito quarteirões de sua obra-prima inacabada: a Sagrada Família, à qual ele havia dedicado suas últimas quatro décadas. https://super.abril.com.br/historia/enfim-a-mais-alta-a-historia-e-os-simbolismos- da-basilica-da-sagrada-familia/ Em uma aula sobre recursos linguísticos e discursivos, o professor destaca as expressões “um senhor”, “ele”, “uma pessoa em situação de rua” e “o homem”. Ao relacioná-las à revelação “Era Antoni Gaudí”, espera-se que os estudantes reconheçam que essa sequência foi empregada para",
       "alternatives": {
         "A": "criar ambiguidade sobre a quantidade e a identidade das pessoas envolvidas no acidente narrado em Barcelona.",
@@ -1126,11 +1256,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 25
+      "page_number": 25,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2b7b8a6b829f7bf5"
     },
     {
       "question_number": 67,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "A exposição \"Carybé e o povo da Bahia\" tem o mérito de apresentar publicamente, pela primeira vez, 227 desenhos originais em nanquim sobre papel de Carybé, que ilustraram seis, dos dez cadernos da Coleção Recôncavo. Carybé (Hector Julio Páride Bernabó, 1911-1997) veio à Bahia, pela quarta vez, em 1950 para fixar residência e sua atuação foi decisiva para a consolidação da linguagem plástica moderna na arte da Bahia. Os desenhos de Carybé apresentam sínteses formais dos tipos sociais, dos costumes e da paisagem citadina de Salvador (lida como Bahia), onde buscava captar um frescor por meio da criação de imagens singulares. Os originais da Coleção Recôncavo foram reunidos em seis seções, dentre as nove que compõem a mostra, e a esse conjunto acresceram-se pinturas inéditas de vestes processionais (08), de desenhos de torços (12) e xilogravuras do álbum Sete Lendas Africanas da Bahia, de 1979 (07). Adaptado de https://www.guiademuseus.com.br/detalheponto.aspx?fk_ponto=2177 Na abordagem contextualizada da pontuação, o professor de Língua Portuguesa poderia utilizar as ocorrências de parênteses no texto para levar os estudantes a reconhecer que elas",
       "alternatives": {
         "A": "desempenham a mesma função em todos os casos, isolando dados técnicos que não se integram sintaticamente aos períodos.",
@@ -1143,11 +1275,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 26
+      "page_number": 26,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "173df2bd56b4dd4a"
     },
     {
       "question_number": 68,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "O Tribunal de Justiça da Bahia acolheu pedido do Ministério Público do Estado da Bahia e determinou que o Município de Ibitiara adote medidas para garantir o transporte regular da Comunidade Quilombola Tiririca de Cima, localizada na zona rural do município. A decisão, proferida no dia 10 deste mês, acatou pedido de recurso ajuizado pelo MPBA contra decisão de primeira instância, que havia negado o pedido de que o Município garanta transporte a comunidade quilombola. https://www.mpba.mp.br/noticia/82701 Considerando que o trabalho com gêneros discursivos é recomendado pela BNCC e reforçado pelos Referenciais Curriculares da Secretaria Municipal de Educação de Salvador para os Anos Finais do Ensino Fundamental, a abordagem do gênero notícia mais coerente com essas orientações seria",
       "alternatives": {
         "A": "analisar a apresentação inicial do acontecimento, os agentes envolvidos, as referências temporais e espaciais e a influência da fonte institucional no enquadramento dado ao fato.",
@@ -1160,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 26
+      "page_number": 26,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3b40ab44d8e19356"
     },
     {
       "question_number": 69,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Leia o início da crônica Enxaquekcakzxa da escritora Tati Bernardi. Levem a criança, espero pegá-la amanhã. Ela ainda não fez a lição e seu cabelo está cheio de nós. Cada vez que ela entra no quarto com sua energia invejável de 105 coelhos nenês brincando na primavera, eu preciso de três sublinguais contra enjoo. A última crise de enxaqueca me deixou cinco dias imprestável (foi semana passada), mas não é possível que duas seringas de cortisona não me coloquem de pé. A médica do pronto-socorro ainda me deu anti-inflamatório, analgésico, relaxante muscular e mais remédio pra enjoo. Nada aconteceu. Até agora nenhuma melhora. Nada. Menti que estava boa, porque eu precisava voltar pra casa e insistir por três horas para que a menina comesse tudo do prato antes de pegar o sorvete de pistache. Durante uma crise de enxaqueca, não faz nenhum sentido ser mãe, não faz sentido a frase \"todo o frango, depois o pistache\", mas existe algo em nós, mães, que opera a maternidade a despeito do que faz sentido. Então ela comeu tudo, fez a lição e ainda tiramos os nós do seu cabelo. https://www1.folha.uol.com.br/colunas/tatibernardi Ao planejar a abordagem dessa crônica em uma turma dos Anos Finais do Ensino Fundamental, o professor contribuirá de maneira mais efetiva para a formação do leitor literário se propuser aos estudantes que",
       "alternatives": {
         "A": "identifiquem a situação inicial, o conflito e o desfecho do fragmento, a fim de verificar se sua organização corresponde integralmente à estrutura convencional da narrativa.",
@@ -1177,11 +1313,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 27
+      "page_number": 27,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "9863acc37c76c336"
     },
     {
       "question_number": 70,
-      "discipline": "(Língua Portuguesa)",
+      "discipline": "Língua Portuguesa",
       "statement": "Observe, a seguir, a parte inicial do verbete “Salvador” constante na enciclopédia digital “Wikipedia”: https://pt.wikipedia.org/wiki/Salvador Na página em questão, o texto do verbete sobre Salvador é acompanhado por remissões numeradas às referências, e a interface disponibiliza, na barra horizontal superior, os recursos “Discussão”, “Editar” e “Ver histórico”, entre outros. Ao trabalhar esse verbete colaborativo com estudantes dos Anos Finais do Ensino Fundamental, uma atividade voltada ao letramento digital e informacional consistiria em solicitar que eles",
       "alternatives": {
         "A": "selecionem uma afirmação do verbete, consultem as fontes e comparem versões registradas no histórico para avaliar os critérios que sustentam sua permanência na página.",
@@ -1194,7 +1332,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/pms2026_professor-municipal-i-lingua-portuguesa_q70.png",
-      "page_number": 27
+      "page_number": 27,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a318f4bce053e2a9"
     }
-  ]
+  ],
+  "year": 2026,
+  "uf": "BA",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

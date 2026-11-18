@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/cgmcuiaba24_cargo-geral_q1.png",
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "23a1b834d9aa6ce9"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7baba906ba2e282b"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4e4f4655259fde14"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "b87672628dcb53be"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "4157e7f5e810e215"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "25753f95860b8f94"
     },
     {
       "question_number": 7,
@@ -123,11 +135,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "60ca690df263c82b"
     },
     {
       "question_number": 9,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Aluísio, Berenice, Cícero e Durvalina são pessoas que nasceram no dia 12 de janeiro. Quando Berenice nasceu, Cícero tinha 4 anos. Atualmente, a idade de Cícero corresponde à média aritmética das idades de Berenice e Durvalina e a idade de Durvalina corresponde à média aritmética das idades de Cícero e Aluísio. Se a soma das idades desses 4 indivíduos é 136 anos, quando Berenice tinha a metade da idade atual de Durvalina, a pessoa mais velha entre eles estava com",
       "alternatives": {
         "A": "22 anos.",
@@ -140,11 +154,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "57922c902b6aaa9a"
     },
     {
       "question_number": 10,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Uma roleta apresenta todos os números inteiros desde o zero até o 36. Cada número figura em uma célula distinta e cada célula possui cor única. Estão em células pretas os seguintes números: {2, 4, 6, 8, 10, 11, 13, 15, 17, 20, 22, 24, 26, 28, 29, 31, 33, 35}. Estão em células vermelhas os seguintes números: {1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36}. O número zero é o único a figurar em uma célula verde. Sorteando-se, ao acaso, um desses números, a probabilidade de que o número esteja em uma célula vermelha, dado que ele é múltiplo de 5 é",
       "alternatives": {
         "A": "3/7.",
@@ -157,28 +173,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2d735df7308a2076"
     },
     {
       "question_number": 11,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Raciocínio Lógico-Matemático",
       "statement": "Em uma loja, um artigo pode ser adquirido a vista ou a prazo. Hilton decidiu comprar esse artigo mediante 3 pagamentos: - R$ 120,00 no ato da compra; - R$ 62,00 um mês após o ato da compra; - R$ 260,00 dois meses após o ato da compra. Com esses 3 pagamentos, a dívida foi quitada. A loja cobrou de Hilton juros compostos de 4% ao mês. Sabendo- se que os três pagamentos descontados a essa taxa e trazidos a valor presente para a data da compra correspondem, quando somados, ao valor a vista do artigo, pode-se concluir corretamente que esse valor",
       "alternatives": {
         "A": "era maior que R$ 440,00.",
         "B": "era maior que R$ 400,00 e menor que R$ 440,00",
         "C": "era maior que R$ 360,00 e menor que R$ 400,00.",
         "D": "era maior que R$ 320,00 e menor que R$ 360,00.",
-        "E": "era menor que R$ 320,00. Administração Financeira e Orçamentária"
+        "E": "era menor que R$ 320,00."
       },
       "answer": "B",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ebd115e9c6bb8bb6"
     },
     {
       "question_number": 12,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Orçamento tradicional e orçamento moderno são caracterizações “ideais” das situações extremas da evolução do orçamento público. Assinale a afirmação abaixo que apresenta uma diferença entre o orçamento tradicional e o orçamento moderno.",
       "alternatives": {
         "A": "O orçamento tradicional tem como foco principal a transparência, enquanto o orçamento moderno se concentra na fiscalização dos impostos.",
@@ -191,11 +211,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "30e34a30b454d548"
     },
     {
       "question_number": 13,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "O sistema orçamentário, amplamente difundido na América Latina por meio do ILPES/CEPAL, é concebido como uma ferramenta essencial para a formulação de estratégias de desenvolvimento. Essas estratégias resultam da escolha de \"grandes alternativas\", as quais são projetadas para contribuir de maneira mais eficaz ao crescimento e ao progresso socioeconômico do país, integrando o planejamento com as ações orçamentárias de forma coordenada e estratégica. Três elementos principais que compõem a estratégia de desenvolvimento dentro do sistema orçamentário, são:",
       "alternatives": {
         "A": "Planejamento, execução e avaliação.",
@@ -208,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "accf694ad88d48b5"
     },
     {
       "question_number": 14,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "O Manual Técnico de Orçamento (MTO) - Edição 2024 é um guia fundamental que orienta a elaboração, execução e controle do orçamento público, oferecendo diretrizes atualizadas para garantir maior transparência, eficiência e conformidade com as metas fiscais e prioridades governamentais. Assinale a opção que apresenta um exemplo de receita primária do Governo Federal.",
       "alternatives": {
         "A": "Receitas obtidas através de tributos e contribuições sociais.",
@@ -225,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cc173d58dbf0a5e6"
     },
     {
       "question_number": 15,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "O Manual de Contabilidade Aplicada ao Setor Público (MCASP) visa colaborar com o processo de elaboração e execução do orçamento, além de contribuir para resgatar o objeto da contabilidade como ciência, que é o patrimônio. Assinale a opção que descreve as condições necessárias para que uma despesa seja inscrita em Restos a Pagar Não Processados.",
       "alternatives": {
         "A": "A despesa deve ser liquidada antes do término do exercício financeiro.",
@@ -242,11 +268,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "105500f8a6d8258f"
     },
     {
       "question_number": 16,
-      "discipline": "Raciocínio Lógico",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "A Lei de Acesso à Informação (LAI) garante o direito de solicitar informações públicas, e, em caso de indeferimento ou negativa de acesso, o interessado pode interpor recurso no prazo de 10 dias a contar de sua ciência. O procedimento a ser seguido pelo requerente em caso de indeferimento de um pedido de desclassificação de informações em um órgão da administração pública federal, é:",
       "alternatives": {
         "A": "O requerente pode recorrer diretamente à Comissão Mista de Reavaliação de Informações sem passar por outras autoridades.",
@@ -259,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3ff10b54e3197b17"
     },
     {
       "question_number": 17,
-      "discipline": "Administração Pública",
+      "discipline": "Administração Geral e Pública",
       "statement": "Desde a década de 1980, os defensores da nova gestão pública realizaram um ataque contínuo ao paradigma weberiano, promovendo valores empresariais e travando uma batalha ideológica contra a administração pública tradicional. Assinale a opção que apresenta uma consequência ideológica da nova gestão pública.",
       "alternatives": {
         "A": "O fortalecimento do ethos do serviço público.",
@@ -276,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f6e9c342a23fae5c"
     },
     {
       "question_number": 18,
-      "discipline": "Administração Pública",
+      "discipline": "Administração Geral e Pública",
       "statement": "O ato administrativo refere-se a uma categoria específica de atos praticados no exercício da função administrativa. Uma característica própria do ato administrativo",
       "alternatives": {
         "A": "é a de se tratar de uma manifestação implícita da vontade do Estado que não precisa ser exteriorizada.",
@@ -293,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "289c9c9c1cc359f3"
     },
     {
       "question_number": 19,
-      "discipline": "Administração Pública",
+      "discipline": "Administração Geral e Pública",
       "statement": "No direito brasileiro, a Lei nº 8.666/93 define a licitação como o procedimento prévio à celebração de contratos administrativos, visando selecionar a proposta mais vantajosa para a Administração, promover o desenvolvimento nacional e garantir a isonomia entre os licitantes. Com a Lei nº 14.133/21 (Nova Lei de Licitações), esses objetivos foram ampliados, incluindo a seleção da proposta mais vantajosa, assegurar a justa competição, evitar sobrepreço e superfaturamento, além de incentivar a inovação e o desenvolvimento nacional sustentável. Uma diferença básica entre dispensa e inexigibilidade nas licitações públicas é que",
       "alternatives": {
         "A": "a dispensa, não há possibilidade de competição, enquanto na inexigibilidade a competição é obrigatória.",
@@ -310,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cc8b78c14534f6d8"
     },
     {
       "question_number": 20,
-      "discipline": "Administração Pública",
+      "discipline": "Administração Geral e Pública",
       "statement": "A Lei Complementar nº 476/2019 dispõe sobre a organização administrativa e a gestão dos cargos em comissão no âmbito do Poder Executivo do município de Cuiabá-MT. O nível de gerência superior.",
       "alternatives": {
         "A": "é representado pelos Titulares de entidades e Secretários Adjuntos, responsáveis pela implantação e controle de programas, projetos e atividades da Secretaria.",
@@ -327,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1394fd1205eb138a"
     },
     {
       "question_number": 21,
-      "discipline": "Administração Pública",
+      "discipline": "Administração Geral e Pública",
       "statement": "As tipologias de políticas públicas são formas de classificar os conteúdos, os atores, os estilos e as instituições em um processo de política pública. A tipologia que distingue as políticas públicas de acordo com seus conteúdos técnico e político é a de",
       "alternatives": {
         "A": "Lowi.",
@@ -344,7 +382,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0c8b795581bfa721"
     },
     {
       "question_number": 22,
@@ -361,7 +401,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "42983c92214b27f7"
     },
     {
       "question_number": 23,
@@ -378,7 +420,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ed576fc73b10c296"
     },
     {
       "question_number": 24,
@@ -395,7 +439,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6f6181ab685dcb7c"
     },
     {
       "question_number": 25,
@@ -412,7 +458,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8b9900a588a88c66"
     },
     {
       "question_number": 26,
@@ -429,7 +477,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f6ba9a11a0f1a49b"
     },
     {
       "question_number": 27,
@@ -446,7 +496,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "02690fb263571f48"
     },
     {
       "question_number": 28,
@@ -463,7 +515,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0cb3592515e6130b"
     },
     {
       "question_number": 29,
@@ -480,7 +534,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cb0e209117d4eb4f"
     },
     {
       "question_number": 30,
@@ -497,7 +553,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d057d0c38c138a0a"
     },
     {
       "question_number": 31,
@@ -514,7 +572,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a9187a6e9fbf52fe"
     },
     {
       "question_number": 32,
@@ -531,7 +591,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4e45a0fd1c317d74"
     },
     {
       "question_number": 33,
@@ -548,7 +610,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1c4b9cf5fe0e70e7"
     },
     {
       "question_number": 34,
@@ -565,7 +629,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2076ac48fc52b5d0"
     },
     {
       "question_number": 35,
@@ -582,7 +648,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d27c8c0a13bcbf99"
     },
     {
       "question_number": 36,
@@ -599,7 +667,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1443287eab1ee72d"
     },
     {
       "question_number": 37,
@@ -616,7 +686,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d7e9717dfb30cb03"
     },
     {
       "question_number": 38,
@@ -633,7 +705,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bc837e2583cf8e4d"
     },
     {
       "question_number": 39,
@@ -650,7 +724,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f7be10201aee00ab"
     },
     {
       "question_number": 40,
@@ -667,7 +743,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a9bfc74304173a84"
     },
     {
       "question_number": 41,
@@ -684,7 +762,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9a51a322c97344f0"
     },
     {
       "question_number": 42,
@@ -701,7 +781,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "90370e9cf1e25f39"
     },
     {
       "question_number": 43,
@@ -718,7 +800,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2f2c09e653e8577a"
     },
     {
       "question_number": 44,
@@ -735,7 +819,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "508625b20bf882c1"
     },
     {
       "question_number": 45,
@@ -752,7 +838,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6bed785ecc28e663"
     },
     {
       "question_number": 46,
@@ -769,7 +857,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "42ac89341490c223"
     },
     {
       "question_number": 47,
@@ -786,7 +876,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "66c4fab52b7b7df3"
     },
     {
       "question_number": 48,
@@ -803,7 +895,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4ab3836041de7ce4"
     },
     {
       "question_number": 49,
@@ -820,7 +914,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1290132aabf1e8af"
     },
     {
       "question_number": 50,
@@ -837,7 +933,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b1b40cd9712c6ee0"
     },
     {
       "question_number": 51,
@@ -854,7 +952,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "663523d7b7776e7a"
     },
     {
       "question_number": 52,
@@ -871,7 +971,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "611b12c0119994d5"
     },
     {
       "question_number": 53,
@@ -888,7 +990,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "70a0532e18adda41"
     },
     {
       "question_number": 54,
@@ -905,7 +1009,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c7ade3bb579da830"
     },
     {
       "question_number": 55,
@@ -922,7 +1028,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "62de603e13436991"
     },
     {
       "question_number": 56,
@@ -939,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1e58fc9804219da6"
     },
     {
       "question_number": 57,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "O Instituto de Auditores Internos do Brasil (The IIA) estabelece considerações para implementação de medidas que visem ao desenvolvimento profissional contínuo dos autores internos. Analise as afirmativas a seguir sobre essas considerações: I. As equipes de auditoria são responsáveis pelas competências da função de auditoria interna e deveria orçar e planejar oportunidades de treinar e educar-se. II. Os auditores internos que possuem credenciais, como a designação Certified Internal Auditor, devem estar cientes dos requisitos específicos da política do órgão certificador para manter suas credenciais. III. Os auditores internos podem desenvolver novos conhecimentos quando supervisionados adequadamente e designados para trabalhos que envolvam processos ou áreas com as quais tenham experiência limitada. Está correto o que se afirma em:",
       "alternatives": {
         "A": "II e III somente.",
@@ -956,11 +1066,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5833d27cf52b1c21"
     },
     {
       "question_number": 58,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Os instrumentos de fiscalização são utilizados para operacionalizar as atividades de competência do órgão de auditoria interna e diferenciam-se, especialmente, quanto finalidade da ação de controle. Nesse sentido, os instrumentos de fiscalização podem ser utilizados para: I. Conhecer a organização e o funcionamento dos órgãos e entidades da administração direta, indireta e fundacional, assim como dos sistemas, programas, projetos e atividades governamentais; II. Suprir omissões e lacunas de informação, esclarecer dúvidas, apurar a legalidade, a legitimidade e a economicidade de atos e fatos específicos praticados por qualquer responsável, bem como para apurar denúncias ou representações; III. Avaliar, ao longo de um período predeterminado, o desempenho de órgãos e entidades públicas, assim como dos sistemas, programas, projetos e atividades governamentais, quanto aos aspectos de economicidade, eficiência e eficácia dos atos praticados. Os instrumentos de que tratam as definições anteriores são denominados, respectivamente:",
       "alternatives": {
         "A": "Inspeção, Complementação e Auditoria de Regularidade.",
@@ -973,11 +1085,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "587cb3b2764216b9"
     },
     {
       "question_number": 59,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Segundo Baldresca e Carvalho Jr (2019, p. 240-247) as matrizes de achados, de responsabilização e de planejamento são documentos relevantes desenvolvidos em diferentes etapas da auditoria governamental. Sobre os referidos documentos de auditoria, analise as afirmativas a seguir: I. A matriz de achados deve registrar o período de exercício das funções e/ou cargos ocupados pelos agentes a quem se imputa determinada irregularidade que configure achado de auditoria; II. A matriz de planejamento deve apresentar a descrição das evidências dos Achados de Auditoria; III. Na matriz de responsabilização deve ser avaliada a reprovabilidade da conduta do agente, destacando as circunstâncias atenuantes e agravantes. Está correto o que se afirma em:",
       "alternatives": {
         "A": "I somente.",
@@ -990,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1d78cab64de32679"
     },
     {
       "question_number": 60,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Na matriz de achados, a coluna que registra as medidas preventivas, corretivas, processuais ou materiais que a equipe avalia que devam ser adotadas para os fatos identificados é denominada:",
       "alternatives": {
         "A": "Benefício da Proposta.",
@@ -1007,11 +1123,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f6993864ae28d72b"
     },
     {
       "question_number": 61,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Evidências são documentos e informações que provam a situação encontrada e respaldam as conclusões do auditor. O atributo segundo o qual a quantidade e qualidade das evidências obtidas devem persuadir o leitor de que os achados, conclusões, recomendações e determinações da auditoria estão bem fundamentados é denominado:",
       "alternatives": {
         "A": "Suficiência.",
@@ -1024,11 +1142,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8d92568fed17e12c"
     },
     {
       "question_number": 62,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "O risco de que os procedimentos executados pelo auditor para reduzir o risco de auditoria a um nível aceitavelmente baixo não detectem uma distorção existente que possa ser relevante, individualmente ou em conjunto com outras distorções, é denominado risco",
       "alternatives": {
         "A": "de auditoria.",
@@ -1041,11 +1161,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f4c7ee529af49dc9"
     },
     {
       "question_number": 63,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "As irregularidades/impropriedades constatadas ao longo da execução da auditoria devem ser relatadas de forma estruturada, por achado. O atributo (ou aspecto) do achado de auditoria que contém a descrição dos fatos ocorridos em cada um dos objetos analisados é denominado:",
       "alternatives": {
         "A": "Evidências.",
@@ -1058,11 +1180,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "efe48a19c8d8bc72"
     },
     {
       "question_number": 64,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Procedimento de auditoria é um conjunto de exames definidos com a finalidade de obter evidências suficientes, confiáveis, fidedignas, relevantes e úteis, que permitam responder a uma questão de auditoria. Sobre os procedimentos de auditoria, analise as afirmativas a seguir: I. A escolha dos procedimentos a serem utilizados para o alcance dos objetivos de auditoria é feita durante a fase de execução da auditoria; II. A inspeção consiste na verificação de registros, de documentos ou de ativos, que proporcionará ao auditor a formação de opinião quanto à existência física do objeto ou do item examinado; III. A análise documental requer do auditor capacidade de julgamento, de constatação visual e habilidade para perceber eventuais comportamentos e procedimentos destoantes do padrão de execução. Está correto o que se afirma em:",
       "alternatives": {
         "A": "I e III somente.",
@@ -1075,11 +1199,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "84394814e45012e5"
     },
     {
       "question_number": 65,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Ao elaborar o relatório de auditoria, a equipe de auditores comunicou que não foi possível responder a uma questão de auditoria porque, embora tenham empregado diversas técnicas investigativas, as fontes de informação disponíveis não eram suficientes. Nessa circunstância, o relato dos auditores constitui:",
       "alternatives": {
         "A": "Risco de auditoria.",
@@ -1092,11 +1218,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 16
+      "page_number": 16,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bb0930c74c4a02ca"
     },
     {
       "question_number": 66,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Acerca do risco de auditoria, considere as afirmações a seguir: I. Refere-se aos riscos de negócio do auditor, tais como perda decorrente de litígio, publicidade adversa ou outros eventos surgidos em conexão com a auditoria das demonstrações contábeis; II. Inclui o risco de que o auditor possa expressar uma opinião de que as demonstrações contábeis contêm distorção relevante quando esse não é o caso; III. A avaliação dos riscos baseia-se em procedimentos de auditoria para a obtenção de informações necessárias para essa finalidade e evidências obtidas ao longo de toda a auditoria. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II somente.",
@@ -1109,11 +1237,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "72a7dfde08745434"
     },
     {
       "question_number": 67,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Um dos preceitos das Normas Internacionais Para a Prática Profissional de Auditoria Interna exige dos auditores uma atitude mental imparcial que lhes permita executar os trabalhos da auditoria de maneira a confiarem no resultado de seu trabalho e que não seja feito nenhum comprometimento da qualidade. Esse preceito normativo refere-se à (ao):",
       "alternatives": {
         "A": "Independência.",
@@ -1126,28 +1256,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "da753d112e58b3f3"
     },
     {
       "question_number": 68,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Uma das atribuições da auditoria interna consiste em realizar um exame objetivo da evidência com o propósito de fornecer para a organização uma avaliação independente sobre os processos de governança, gerenciamento de riscos e controles. Essa atribuição configura um serviço de:",
       "alternatives": {
         "A": "Significância.",
         "B": "Consultoria.",
         "C": "Compliance.",
         "D": "Avaliação.",
-        "E": "Revisão. Controle Interno, Governança e Gestão de Riscos"
+        "E": "Revisão."
       },
       "answer": "D",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e6e3823e6b7c5976"
     },
     {
       "question_number": 69,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "O gestor de uma Secretaria reuniu a equipe para realização de um grupo focal com a finalidade de colher informações para elaboração de uma matriz SWOT. Para tanto, realizou os seguintes questionamentos: O que vocês julgam que fazemos melhor do que os outros? O que torna nosso negócio único? As perguntas tinham por propósito analisar a seguinte dimensão da análise SWOT:",
       "alternatives": {
         "A": "Forças.",
@@ -1160,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ab14a6a99523676"
     },
     {
       "question_number": 70,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Para o COSO (Internal Control –Integrated Framework), os processos de controle internos devem ser constituídos por cinco componentes interrelacionados. Alguns desses componentes são",
       "alternatives": {
         "A": "transparência e gestão de riscos.",
@@ -1177,11 +1313,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d81a98d41bbb36d0"
     },
     {
       "question_number": 71,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Sobre o conceito de governança, analise as afirmativas a seguir: I. A governança aplica práticas de liderança e de estratégia com a finalidade de direcionar a sua atuação e monitorar o seu funcionamento; II. A governança é responsável por planejar a forma mais adequada de implementar as diretrizes organizacionais, executar os planos e fazer o controle de indicadores e de riscos; III. A governança preocupa-se com a qualidade do processo decisório e sua efetividade. Está correto o que se afirma em:",
       "alternatives": {
         "A": "I, II e III.",
@@ -1194,11 +1332,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "242538af3c08a350"
     },
     {
       "question_number": 72,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "O processo conduzido pela estrutura de governança, administração e outros profissionais da entidade, e desenvolvido para proporcionar segurança razoável com respeito à realização dos objetivos relacionados a operações, divulgação e conformidade, é denominado",
       "alternatives": {
         "A": "Gestão de riscos.",
@@ -1211,11 +1351,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 17
+      "page_number": 17,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b918bfca4f161e3e"
     },
     {
       "question_number": 73,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Para o COSO - Internal Control –Integrated Framework, o componente do controle interno que considera a estrutura organizacional e a delegação de autoridade e responsabilidade; o processo de atrair, desenvolver e reter talentos competentes; o rigor em torno de medidas, incentivos e recompensas por performance, é denominado",
       "alternatives": {
         "A": "Governança.",
@@ -1228,11 +1370,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5f1ab95eaac2052c"
     },
     {
       "question_number": 74,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "O Modelo das Três Linhas, desenvolvido pelo The IIA (The Institute of Internal Auditors) enumera seis princípios que devem ser observados em sua implementação. O princípio que requer estruturas e processos que permitam a avaliação e assessoria por uma função de auditoria interna independente, para oferecer clareza e confiança, além de promover e facilitar a melhoria contínua, por meio de investigação rigorosa e comunicação perspicaz, é denominado",
       "alternatives": {
         "A": "Criação e proteção de valor.",
@@ -1245,11 +1389,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "66afe315a48fa1b7"
     },
     {
       "question_number": 75,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Sobre o Modelo de Três Linhas desenvolvido pelo The IIA, analise as afirmativas a seguir: I. Os papéis de primeira linha estão mais diretamente alinhados com a entrega de produtos e/ou serviços aos clientes da organização, incluindo funções de apoio; II. Os papéis de segunda linha fornecem assistência no gerenciamento de riscos. III. Alguns papéis de segunda linha podem ser atribuídos a especialistas, para fornecer conhecimentos complementares, apoio, monitoramento e questionamento àqueles com papéis de primeira linha. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -1262,11 +1408,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ba5445fc0b4fd3aa"
     },
     {
       "question_number": 76,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "A matriz SIPOC é uma ferramenta utilizada para, dentre outros objetivos, identificar oportunidades de melhorias nos processos. Ela permite avaliar as diferentes etapas do processo. Assinale a opção que indica corretamente uma dessas etapas.",
       "alternatives": {
         "A": "Forças.",
@@ -1279,11 +1427,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9ffa760084f4711b"
     },
     {
       "question_number": 77,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "A análise Bow Tie é uma ferramenta de gestão de riscos que permite analisar",
       "alternatives": {
         "A": "os ambientes interno e externo da organização e identificar as variáveis que os influenciam.",
@@ -1296,11 +1446,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0d027c5746775b75"
     },
     {
       "question_number": 78,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Uma determinada técnica de mapeamento de processos consiste na elaboração de um checklist para responder, dentre outras, a perguntas como: o que será feito? Por que os processos são realizados dessa forma? Onde será feito? Como será feito? Essa técnica é denominada",
       "alternatives": {
         "A": "Técnica de brainstorm.",
@@ -1313,11 +1465,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "362e6193a25a3ba7"
     },
     {
       "question_number": 79,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "A auditoria interna pode realizar serviços de avaliação e de consultoria. Uma ação desenvolvida nos serviços de avaliação é",
       "alternatives": {
         "A": "a implantação do gerenciamento de riscos corporativos e controles internos na organização.",
@@ -1330,11 +1484,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 18
+      "page_number": 18,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "87ec00c7427d8a40"
     },
     {
       "question_number": 80,
-      "discipline": "Auditoria Governamental",
+      "discipline": "Auditoria e Controle",
       "statement": "Sobre as medidas que podem ser adotadas para aumentar a coordenação e a cooperação entre o Tribunal de Contas do Estado de Mato Grosso e as Controladorias do setor público desse Estado, avalie as afirmativas a seguir: I. Evitar a divulgação antecipada dos planos de auditoria do TCE- MT, mas informar as estratégias dos trabalhos em execução para inibir a sobreposição e lacunas de atuação por meio; II. Realizar treinamentos conjuntos para auditores das Controladorias e TCE/MT para uniformização de entendimentos em temas relevantes à Administração Pública, com vistas a dar maior segurança jurídica aos fiscalizados; III. Compartilhamento, com o Tribunal de Contas do Estado, do resultado dos trabalhos de auditoria para eventual responsabilização de pessoas físicas ou jurídicas, após ter sido realizado o devido encaminhamento do relatório de auditoria e os pedidos de providências, ao gestor responsável. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, II e III.",
@@ -1347,7 +1503,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 19
+      "page_number": 19,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7ba906fe7456b321"
     }
-  ]
+  ],
+  "year": 2024,
+  "uf": "MT",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

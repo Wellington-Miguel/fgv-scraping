@@ -2,13 +2,13 @@
   "concurso_slug": "stn",
   "cargo_slug": "cargo-geral",
   "concurso_title": "Concurso Público para a Secretaria do Tesouro Nacional",
-  "cargo_title": "SECRETARIA DO TESOURO NACIONAL - ÁREA ECONÔMICO-FINANCEIRA",
+  "cargo_title": "Auditor Federal de Finanças e Controle - Área Econômico-Financeira",
   "exam_type": "Tipo 1",
-  "total_questions": 65,
+  "total_questions": 70,
   "questions": [
     {
       "question_number": 1,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "O período de 1968 a 1973 no Brasil ficou conhecido como “Milagre Econômico” e foi caracterizado pelas elevadas taxas de crescimento do PIB no período. Assinale a opção que não uma característica desse período.",
       "alternatives": {
         "A": "A taxa média de crescimento real do PIB se situou acima dos 10% a.a., com o setor industrial apresentando o maior crescimento em relação à agricultura e aos serviços.",
@@ -21,11 +21,13 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4ebaf17dce90b0a3"
     },
     {
       "question_number": 2,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "A década de 1970, após o período do “Milagre Econômico”, foi um período de turbulências para a economia brasileira ocasionadas por choques externos. O governo brasileiro reagiu com a instituição do II Plano Nacional de Desenvolvimento (II PND), caracterizado, entre outros aspectos, por",
       "alternatives": {
         "A": "ser uma alternativa à opção de financiamento do crescimento, buscando conter a demanda interna por meio do controle da liquidez e, consequentemente, retraindo a economia e controlando a inflação.",
@@ -38,11 +40,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6f981ac5fa379cc8"
     },
     {
       "question_number": 3,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "A partir de 1985, a política econômica focou o combate à inflação, o que ocasionou a implementação de vários planos para lidar com ela. O primeiro foi o Plano Cruzado, caracterizado por",
       "alternatives": {
         "A": "medidas de congelamento de preços e câmbio, gatilho salarial e criação de nova moeda, visando combater a inflação inercial.",
@@ -55,11 +59,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eb2cedb19d64de04"
+    },
+    {
+      "question_number": 4,
+      "discipline": "Economia e Finanças",
+      "statement": "O último plano de tentativa de estabilização monetária foi o Plano Verão (PV), implementado no início de 1989. Em relação a esse plano, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) A exemplo do Plano Bresser, o PV continha elementos heterodoxos e ortodoxos. ( ) O elemento ortodoxo era uma política fiscal contracionista para conter a demanda, que se contrapôs a uma política monetária neutra, com estabilidade da taxa de juros. ( ) Para os ativos financeiros foi aplicada uma tablita de conversão para os contratos prefixados e para os pós-fixados, expurgando-se da correção monetária desses contratos a aceleração da inflação. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "V – F – V.",
+        "C": "V – V – F.",
+        "D": "F – V – F.",
+        "E": "F – F – F."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "18803b2ec66ab94d"
     },
     {
       "question_number": 5,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "Em relação ao processo de abertura econômica no Brasil, iniciado no governo Sarney, analise as afirmativas a seguir. I. Governo Sarney: aboliram-se diversos regimes especiais de importação, reduziu-se a redundância tarifária (unificando a incidência de impostos sobre importação) e promoveu-se a redução das alíquotas de importação e de seu intervalo. II. Governo Collor: extinguiram-se diversas barreiras comerciais não tarifárias e definiu-se uma redução gradual das tarifas sobre importação. III. Governo Fernando Henrique Cardoso (FHC): apesar de inicialmente cumprir os acordos firmados no âmbito do Mercosul, a partir de 1995 o ritmo de abertura diminuiu, chegando ao ponto de a tarifa média de importação reverter a sua tendência de queda dos anos anteriores, devido às pressões da indústria automobilística, aos choques externos e aos problemas com a Balança de Pagamentos. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -72,11 +97,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c3b32df3bc163092"
     },
     {
       "question_number": 6,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "O Plano Real combateu a elevada inflação por intermédio de três estágios, desenvolvidos na seguinte ordem cronológica:",
       "alternatives": {
         "A": "ajuste fiscal, indexação completa da economia e reforma monetária.",
@@ -89,11 +116,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4f582c710512fbeb"
     },
     {
       "question_number": 7,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "Em relação ao período entre 1998 e início de 1999 (quando ocorreu a maxidesvalorização), não é correto afirmar que",
       "alternatives": {
         "A": "como forma de atender à demanda por proteção cambial, o Banco Central vendeu um grande volume de reservas em dólares.",
@@ -106,16 +135,18 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4b2ba38afa83f517"
     },
     {
       "question_number": 8,
-      "discipline": "Economia Brasileira",
-      "statement": "Em relação aos instrumentos de financiamento do setor público, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F):",
+      "discipline": "Economia e Finanças",
+      "statement": "Em relação aos instrumentos de financiamento do setor público, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F): ( ) O financiamento orçamentário da dívida pública representa a parcela do orçamento que o governo consegue cobrir com recursos provenientes da receita tributária. ( ) Refinanciamento da dívida pública federal se refere à substituição de títulos públicos anteriormente emitidos por títulos públicos novos, com vencimento posterior, ou seja, esse tipo de operação, conhecida como “rolagem da dívida”, não reduz nem amplia o endividamento atual. ( ) Ao contrário do refinanciamento da dívida, as operações de crédito contraídas pelo governo e a emissão de títulos têm impacto no orçamento, elevando a dívida pública. As afirmativas são, respectivamente,",
       "alternatives": {
-        "A": "O financiamento orçamentário da dívida pública representa a parcela do orçamento que o governo consegue cobrir com recursos provenientes da receita tributária.",
-        "B": "Refinanciamento da dívida pública federal se refere à substituição de títulos públicos anteriormente emitidos por títulos públicos novos, com vencimento posterior, ou seja, esse tipo de operação, conhecida como “rolagem da dívida”, não reduz nem amplia o endividamento atual.",
-        "C": "Ao contrário do refinanciamento da dívida, as operações de crédito contraídas pelo governo e a emissão de títulos têm impacto no orçamento, elevando a dívida pública.",
+        "A": "V – V – V.",
+        "B": "V – F – F.",
+        "C": "F – V – V.",
         "D": "F – V – F.",
         "E": "F – F – F."
       },
@@ -123,11 +154,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "675845827d720b63"
     },
     {
       "question_number": 9,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "Em relação à Lei de Responsabilidade Fiscal (LRF) é correto afirmar que",
       "alternatives": {
         "A": "a sua instituição não contribuiu para a melhora das contas públicas federais, tendo registrado déficits primários entre 2000 (início da vigência da lei) e 2002.",
@@ -140,11 +173,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d9565efe4d9df457"
     },
     {
       "question_number": 10,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "Ao longo da década de 2000, o coeficiente de Gini apresentou forte contração, passando de 0,60 em 1999 para pouco acima de 0,54 em 2009. Os fatores a seguir podem ser apontados como responsáveis pela melhoria da distribuição de renda nesse período, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "Fim das elevadas taxas de inflação e seus impactos nocivos sobre a renda, principalmente a dos mais pobres.",
@@ -157,11 +192,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "78ba9928a6f304fc"
     },
     {
       "question_number": 11,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "A Teoria da Curva de Laffer constitui um mecanismo que auxilia a compreensão da relação entre a alíquota (carga) do tributo e o montante arrecadado. Com base nessa teoria, é correto afirmar que",
       "alternatives": {
         "A": "existe uma relação direta e linear entre a alíquota (carga) e o valor arrecadado.",
@@ -174,11 +211,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5d272fb7599ffd54"
     },
     {
       "question_number": 12,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "O controle do endividamento é um desafio da gestão pública no Brasil. Visando à consecução da sustentabilidade fiscal, é correto afirmar que",
       "alternatives": {
         "A": "o gestor público deve buscar a geração de superávit primário, o que pode ser viabilizado por meio de investimentos que gerem retornos superiores ao custeio decorrente deles.",
@@ -191,11 +230,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "566e465032c5804e"
     },
     {
       "question_number": 13,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "A questão da Solvência do Setor Público tem sido tema de intenso debate econômico, principalmente desde o início dos anos 2000. Sobre este tema é incorreto afirmar que",
       "alternatives": {
         "A": "uma das formas de se aferir a sustentabilidade fiscal do setor público envolve a análise da dinâmica do déficit público que, não sendo explosiva, sugere solvência.",
@@ -208,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1de3ff21d0c1a8a3"
     },
     {
       "question_number": 14,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "A Carta Magna de 1988, em seu Art. 170, que trata da Ordem Econômica e Financeira, traz insculpidos os princípios da Livre Iniciativa e da Propriedade Privada. Concomitantemente, o Art. 174 do mesmo título prevê a intervenção do Estado como “agente normativo e regulador da atividade econômica”. A defesa da propriedade privada e do livre mercado se mostra, assim, como um contraponto à intervenção do Estado na Economia, encontrando fundamento em duas Escolas do Pensamento Econômico. A respeito do tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A Escola Clássica se caracteriza pela possibilidade de intervenção estatal na Economia, já que o Estado é o órgão fiscalizador e regulador da atividade econômica.",
@@ -225,28 +268,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "37d4e4aeaee58b82"
     },
     {
       "question_number": 15,
-      "discipline": "Economia Brasileira",
-      "statement": "Com base no exposto, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.",
+      "discipline": "Economia e Finanças",
+      "statement": "O gráfico a seguir apresenta a evolução dos resultados nominal e primário do governo federal no Brasil, sob a ótica das Necessidades de Financiamento do Setor Público (NFSP), com dados mensais desde janeiro de 2020 até dezembro de 2023. Com base no exposto, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A componente de juros da dívida justifica a linha de resultado nominal sempre acima da linha de resultado primário. ( ) O resultado de dezembro de 2023 sugere um impacto no resultado nominal equivalente ao de junho de 2020, início da pandemia. ( ) Não há evidências de superávit primário em 2022. As afirmativas são, respectivamente,",
       "alternatives": {
-        "A": "A componente de juros da dívida justifica a linha de resultado nominal sempre acima da linha de resultado primrio.",
-        "B": "O resultado de dezembro de 2023 sugere um impacto no resultado nominal equivalente ao de junho de 2020, início da pandemia.",
-        "C": "Não há evidências de superávit primrio em 2022.",
-        "D": "F - F - F.",
-        "E": "F - F - V."
+        "A": "V – V – V.",
+        "B": "F – F – F.",
+        "C": "V – V – F.",
+        "D": "V – F – F.",
+        "E": "F – F – V."
       },
       "answer": "ANULADA",
       "annulled": true,
-      "has_image": false,
-      "image_path": null,
-      "page_number": 5
+      "has_image": true,
+      "image_path": "data/processed/images/stn_cargo-geral_q15.png",
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "912dccfb5e28edd6"
     },
     {
       "question_number": 16,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "Quando o Banco Central emite moeda, um dos efeitos colaterais, ceteris paribus, é a pressão sobre os níveis de preços que, por sua vez, ao gerar inflação, deteriora o poder de compra. Em contrapartida, esse fenômeno beneficia",
       "alternatives": {
         "A": "os gestores públicos, pela possibilidade de consecução do equilíbrio das contas públicas por intermédio do fenômeno da senhoriagem e do imposto inflacionário.",
@@ -259,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "361bba511b30d3a1"
     },
     {
       "question_number": 17,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "Visando solucionar os problemas da escassez de pasto para o rebanho bovino de seus moradores, o gestor público de determinada cidade cede um grande terreno público rico em pastagem para uso dos criadores locais mediante apenas um cadastro gratuito. Em pouco tempo o gestor percebe que a quantidade de animais cujos proprietários tinham intenção de usar o terreno era bem superior à capacidade do terreno, de forma que em poucos dias o pasto seria novamente insuficiente. Diante dessa situação, um mecanismo para a promoção de uma melhor alocação seria:",
       "alternatives": {
         "A": "a aplicação de um imposto de Lindahl.",
@@ -276,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2b24db85eba9502d"
     },
     {
       "question_number": 18,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "Discute-se no Brasil as propostas de Reforma Tributária sobre a renda e sobre o consumo. Em relação à proposta de reforma da tributação sobre o consumo, um aspecto que estimulou o conflito entre municípios, estados e o governo federal diz respeito à extinção do ICMS, imposto estadual mais relevante, e do ISS, imposto municipal mais representativo em grande parte das cidades de maior economia. Em contrapartida, propõe-se a implementação do IBS, gerido por estados e municípios, e da CBS, federal. A respeito do tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A reforma do sistema tributário nesses moldes respeita o Pacto Federativo, pois mantém a carga tributária na federação.",
@@ -293,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8221e9031c7204da"
     },
     {
       "question_number": 19,
-      "discipline": "Economia Brasileira",
+      "discipline": "Economia e Finanças",
       "statement": "A literatura econômica consagra a concorrência como o meio adequado para a elevação do resultado alocativo em termos de bem-estar social. Na direção oposta se mostram, no Brasil, os setores de Saneamento e Energia que, com altos custos fixos e com barreiras à entrada, aproximam-se de uma estrutura de mercado denominada:",
       "alternatives": {
         "A": "Oligopólio.",
@@ -310,28 +363,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "828338179e0fbc8d"
     },
     {
       "question_number": 20,
-      "discipline": "Economia Brasileira",
-      "statement": "O gráfico a seguir apresenta o comportamento recente da dívida pública do governo federal e dos governos subnacionais (estados e municípios) no Brasil.",
+      "discipline": "Economia e Finanças",
+      "statement": "O gráfico a seguir apresenta o comportamento recente da dívida pública do governo federal e dos governos subnacionais (estados e municípios) no Brasil. Com base no exposto, avalie se as assertivas a seguir são verdadeiras (V) ou falsas (F): ( ) Verifica-se uma tendência comum para o endividamento do setor público, independente da esfera de governo. ( ) A dívida pública do governo federal segue uma tendência estacionária. ( ) Verifica-se o impacto da pandemia na elevação do endividamento dos estados e municípios. As assertivas são, respectivamente,",
       "alternatives": {
-        "A": "Verifica-se uma tendência comum para o endividamento do setor público, independente da esfera de governo.",
-        "B": "A dívida pública do governo federal segue uma tendência estacionária.",
-        "C": "Verifica-se o impacto da pandemia na elevação do endividamento dos estados e municípios.",
-        "D": "F – F – F.",
-        "E": "F – F – V."
+        "A": "V – V – V.",
+        "B": "F – F – F.",
+        "C": "F – F – V.",
+        "D": "F – V – V.",
+        "E": "F – V – F."
       },
       "answer": "B",
       "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/stn_cargo-geral_q20.png",
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9faeeba9fbb39f10"
+    },
+    {
+      "question_number": 21,
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
+      "statement": "As regras que normatizam a despesa pública evoluíram principalmente no sentido de garantir maior efetividade. Buscando preservar a saúde das finanças públicas, há regras que criam restrições permanentes sobre a receita, sobre a despesa, sobre o resultado orçamentário e sobre a dívida pública. Nessa linha destaca-se a Regra de Ouro. Com base nessa regra, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Veda expressamente a realização de operações que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pelo Poder Legislativo por maioria absoluta. ( ) Em termos de classificação, a Regra de Ouro constitui uma regra de balanço orçamentário, porém com foco na composição do balanço e não em seu resultado primário ou nominal. ( ) O espírito da regra – proibição de que o Estado emita dívida para financiar gastos correntes – é intuitivo e, portanto, trata- se de uma regra de fácil compreensão; por outro lado, a regra peca por sua baixa institucionalidade. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "F – F – F.",
+        "C": "V – F – V.",
+        "D": "F – F – V.",
+        "E": "V – V – F."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c845133a49c97024"
     },
     {
       "question_number": 22,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Determinado ente da Federação alterou sua constituição estadual por meio de uma Emenda, acrescentando o Art. nº 159-A, cuja dicção do seu §2º estabelece o seguinte: § 2º O Estado destinará à Administração Fazendária, anualmente, um percentual do total de sua receita de impostos, a ser estabelecido em Lei Complementar, para a realização de suas atividades, em conformidade com o disposto no inciso IV do Art. 167 da Constituição Federal. Com base no exposto, é correto afirmar que, não existindo ressalvas, a alteração realizada afrontaria o princípio orçamentário da",
       "alternatives": {
         "A": "não afetação.",
@@ -344,11 +420,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "257d9fbcf6120ab0"
     },
     {
       "question_number": 23,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Os dados da tabela a seguir foram extraídos do Balanço Financeiro de 2023 de determinado ente federativo. Fonte: Balanço Geral do Ente Federativo Com base nessas informações, assinale a opção correta em relação aos princípios orçamentários.",
       "alternatives": {
         "A": "Revela-se o Princípio da não afetação a partir da formulação: (RO + RE) - (DO + DE) = (SF - SI).",
@@ -361,11 +439,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/stn_cargo-geral_q23.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "05e2e18ecb31923b"
     },
     {
       "question_number": 24,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Quando se trata de gestão do orçamento público, ou seja, da forma como são utilizados os recursos públicos pelo Estado, a principal preocupação é evitar gastar além do que se arrecada. Com base na questão do déficit brasileiro, avalie as afirmativas a seguir. I. O controle do déficit público exige medidas de correção tanto na parte da receita, como nos gastos públicos. Na parte da receita, fica evidente a necessidade de uma estrutura tributária eficiente. Em relação aos gastos dos entes federativos, os mecanismos de controle passam, necessariamente, pelos orçamentos aprovados pelo Parlamento. II. O princípio do gasto anticíclico consiste em um orçamento com déficit (as despesas superam as receitas), durante as fases de recessão ou crise, e um orçamento com superávit (as receitas superam as despesas), no auge da prosperidade. III. Durante a pandemia o emprego de uma política orçamentária anticíclica evitou os principais inconvenientes da política tradicional de orçamento equilibrado, na qual se elevavam os impostos e diminuíam-se as despesas públicas durante os momentos de recessão. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -378,11 +458,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "43731e60df67e984"
     },
     {
       "question_number": 25,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Avalie se as afirmativas a seguir estão corretas, em sentido estrito, quanto à classificação da receita orçamentária. I. A Receita Pública excluída do cálculo do resultado primário será classificada como financeira, segundo o critério de identificador do resultado primário. II. Receitas Correntes aumentam as disponibilidades financeiras do Estado, em geral com efeito positivo sobre o Patrimônio Líquido. De igual modo, as Receitas de Capital também aumentam as disponibilidades financeiras do Estado e provocam efeito sobre o Patrimônio Líquido. III. São Receitas de Capital as provenientes de recursos financeiros oriundos de constituição de dívidas e da conversão em espécie de bens e direitos, dos recursos recebidos de outras pessoas de direito público ou privado destinados a atender despesas classificáveis em Despesas de Capital e, ainda, o superávit do Orçamento Corrente. Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -395,12 +477,14 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "88f24b0e71859cb8"
     },
     {
       "question_number": 26,
-      "discipline": "Economia Brasileira",
-      "statement": "Com relação aos instrumentos de planejamento e orçamento, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). ( ) O PPA é o instrumento de planejamento de médio prazo do governo federal que estabelece, de forma regionalizada, as diretrizes, os objetivos e as metas da Administração Pública Federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada. ( ) A LDO deve incluir o anexo de metas fiscais, no qual são avaliados os passivos contingentes. ( ) A LOA é doutrinariamente conhecida como o planejamento operacional da Administração Pública, cuja metodologia brasileira utilizada para sua elaboração é denominada de orçamento por desempenho.",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
+      "statement": "Com relação aos instrumentos de planejamento e orçamento, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). ( ) O PPA é o instrumento de planejamento de médio prazo do governo federal que estabelece, de forma regionalizada, as diretrizes, os objetivos e as metas da Administração Pública Federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada. ( ) A LDO deve incluir o anexo de metas fiscais, no qual são avaliados os passivos contingentes. ( ) A LOA é doutrinariamente conhecida como o planejamento operacional da Administração Pública, cuja metodologia brasileira utilizada para sua elaboração é denominada de orçamento por desempenho. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – F – V.",
         "B": "V – F – F.",
@@ -412,11 +496,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "74aa189c02e8d610"
     },
     {
       "question_number": 27,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Com relação aos conceitos de Restos a Pagar e Despesas de Exercícios Anteriores, avalie as afirmativas a seguir. I. Os Restos a Pagar correspondem a todas as despesas regularmente empenhadas, do exercício atual ou anterior, que não foram pagas até 31 de dezembro do exercício financeiro vigente. II. Os empenhos referentes a despesas com diárias, ajuda de custo e suprimento de fundos pendentes de pagamento no exercício podem ser inscritos em Restos a Pagar não processados. III. Os Restos a Pagar que foram cancelados, em situação na qual permanece o direito do credor (prescrição interrompida) em razão de o fornecedor já ter entregue o bem ou serviço, é um tipo de despesa orçamentária que pode ser enquadrada como Despesas de Exercícios Anteriores (DEA). Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -429,11 +515,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1a93c65ff7b37851"
     },
     {
       "question_number": 28,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "A Previsão é uma etapa da receita pública que antecede o lançamento. Sobre tal etapa, a LRF estabelece que: Art. 12. As previsões de receita observarão as normas técnicas e legais, considerarão os efeitos das alterações na legislação, da variação do índice de preços, do crescimento econômico ou de qualquer outro fator relevante e serão acompanhadas de demonstrativo de sua evolução nos últimos três anos, da projeção para os dois seguintes àquele a que se referirem e da metodologia de cálculo e premissas utilizadas. Decorre do referido dispositivo que",
       "alternatives": {
         "A": "há uma técnica estatística uniforme que realiza as projeções para o exercício anual seguinte com o objetivo de evitar distorções em razão do método utilizado.",
@@ -446,11 +534,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "252c51394984e3f8"
     },
     {
       "question_number": 29,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "A empresa DIX Construções realizou em 2022 o pagamento do Imposto Predial e Territorial Urbano (IPTU) de sua sede e seu sócio majoritário fez uma Doação em Espécie ao município. Nessa situação, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Tanto o recurso advindo do IPTU quanto o da doação realizada são classificados como receita pública que passou por todas as etapas até o recolhimento.",
@@ -463,11 +553,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "18b7c4fa0efa895a"
     },
     {
       "question_number": 30,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Em relação à receita tributária dos entes públicos é correto afirmar que",
       "alternatives": {
         "A": "a Constituição Federal de 1988 proíbe a vinculação de receita de impostos a órgão, fundo ou despesa, sendo as exceções de vinculação da receita tributária apenas para taxas e contribuições.",
@@ -480,11 +572,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9dfaabc01bf88d58"
     },
     {
       "question_number": 31,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Quando os recursos próprios são insuficientes para a realização dos investimentos públicos o gestor pode, como alternativa comum, recorrer a fontes de financiamento internas e/ou externas para realizar operações de crédito. Nesse contexto, é correto afirmar que",
       "alternatives": {
         "A": "a LRF e as Resoluções do Senado Federal são exemplos de normativos que regulam o processo para efetivação de tais operações nos governos subnacionais.",
@@ -497,11 +591,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "94887672cfc538ff"
     },
     {
       "question_number": 32,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Visando estabelecer critérios objetivos que avaliam a capacidade de pagamento dos governos subnacionais, a Secretaria do Tesouro Nacional desenvolveu a CAPAG. Sobre esse instrumento, assinale a afirmativa correta.",
       "alternatives": {
         "A": "É uma nota que define se a operação de crédito pleiteada pelo ente público será ou não deferida, com A ou B sendo as notas com resultados positivos.",
@@ -514,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1297f7ede7049efd"
     },
     {
       "question_number": 33,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Determinado imposto cujo lançamento foi realizado e não pago até o prazo de vencimento está sujeito a cobrança que envolve a majoração do valor em virtude de inclusão de multas e até de honorários advocatícios. Sobre esta situação em que o débito tributário é inscrito em Dívida Ativa e sobre as práticas adotadas pelo setor público no Brasil, é correto afirmar que",
       "alternatives": {
         "A": "é dever do governo realizar, no prazo estabelecido em lei, um programa de refinanciamento (REFIS).",
@@ -531,11 +629,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "93f50f9cbf3fbd70"
     },
     {
       "question_number": 34,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "A denominada unificação dos recursos de caixa do Tesouro Nacional é regida pelo Decreto nº 93.872, de 23/12/1986. Sobre o tema, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O Banco do Brasil e a Caixa Econômica Federal são os agentes financeiros do Tesouro para a gestão da denominada Conta Única.",
@@ -548,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b44640628b1bf8eb"
     },
     {
       "question_number": 35,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Sobre os princípios que regem os processos de elaboração, execução e controle do orçamento público é correto afirmar que",
       "alternatives": {
         "A": "o orçamento deve ser universal, de forma a abranger todos os entes públicos em seus três níveis.",
@@ -565,11 +667,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0fb42b0b09b83f93"
     },
     {
       "question_number": 36,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "A Constituição Federal de 1988, em seu Art. 174, explicita que a função estatal de planejamento é determinante para o setor público. Nesse sentido, estipulou que cada ente da Federação deve editar, periodicamente, instrumentos básicos de planejamento e orçamento. Entre esses instrumentos, assinale aquele que objetiva exercer um papel tático e intermediário entre o estratégico e o operacional, no que tange à integração das leis orçamentárias.",
       "alternatives": {
         "A": "PPA",
@@ -582,11 +686,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "2145729d7d63e780"
     },
     {
       "question_number": 37,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "Considerando a LRF e a Constituição Federal de 1988, avalie se as atribuições da Lei de Diretrizes Orçamentárias incluem as listadas a seguir: I. Manter equilíbrio entre receitas e despesas. II. Estabelecer critérios e forma de limitação de empenho. III. Estabelecer as diretrizes de política fiscal. IV. Orientar a elaboração da Lei Orçamentária Anual. Estão corretas as atribuições",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -599,12 +705,14 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "70262b670deec74d"
     },
     {
       "question_number": 38,
-      "discipline": "Economia Brasileira",
-      "statement": "Com relação ao processo de elaboração do orçamento, no tocante às estimativas de receitas orçamentárias, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). ( ) Na ótica das estimativas de receitas orçamentárias, são irrelevantes quaisquer justificativas que apresentem como fundamento a necessidade do gasto. ( ) É motivação para a alteração nas estimativas de receita a existência de alterações nas alíquotas ou valores de taxas, tarifas e/ou serviços públicos. ( ) É irrelevante a acurácia na estimação da receita para o efeito da execução orçamentária. ( ) Em relação ao anexo de metas fiscais, este deve trazer demonstrativo para a estimativa e a compensação das renúncias de receitas e da margem das despesas discricionárias.",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
+      "statement": "Com relação ao processo de elaboração do orçamento, no tocante às estimativas de receitas orçamentárias, avalie se as afirmativas a seguir são falsas (F) ou verdadeiras (V). ( ) Na ótica das estimativas de receitas orçamentárias, são irrelevantes quaisquer justificativas que apresentem como fundamento a necessidade do gasto. ( ) É motivação para a alteração nas estimativas de receita a existência de alterações nas alíquotas ou valores de taxas, tarifas e/ou serviços públicos. ( ) É irrelevante a acurácia na estimação da receita para o efeito da execução orçamentária. ( ) Em relação ao anexo de metas fiscais, este deve trazer demonstrativo para a estimativa e a compensação das renúncias de receitas e da margem das despesas discricionárias. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V – V – F – F.",
         "B": "V – F – V – F.",
@@ -616,11 +724,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c62f1a7ec6c7e316"
     },
     {
       "question_number": 39,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "São considerados gastos tributários vigentes a partir do conceito adotado pela Receita Federal do Brasil os seguintes itens, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "Desoneração da Folha de Pagamentos.",
@@ -633,11 +743,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b515047315363886"
     },
     {
       "question_number": 40,
-      "discipline": "Economia Brasileira",
+      "discipline": "Administração Financeira e Orçamentária (AFO)",
       "statement": "A promoção do desenvolvimento econômico pode envolver o uso de diversos instrumentos de política que impactam sobremaneira o orçamento público. Entre os instrumentos de estímulos destacam-se os incentivos fiscais, que devem ser registrados como gastos tributários. Sobre tais gastos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A isenção do Imposto sobre a Renda da Pessoa Física (IRPF) dentro de determinada faixa, é desoneração tributária e configura gasto tributário.",
@@ -650,11 +762,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "64c88fab73aae268"
     },
     {
       "question_number": 41,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um investidor vende 1.000 opções de venda de um ativo-objeto que vale R$100 por R$1 cada. O preço de exercício das opções é R$98. Ele não desfaz a sua posição até o vencimento. Sabendo-se que o preço da ação no vencimento foi R$92, o resultado líquido para o investidor (despreze a taxa de juros) é",
       "alternatives": {
         "A": "lucro de R$1.000.",
@@ -667,11 +781,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3d12eb8384299107"
     },
     {
       "question_number": 42,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em sua carteira de renda fixa, uma sociedade empresária tem um recebimento de R$1.000.000 indexado ao CDI com vencimento daqui a 1 ano. Ela realiza um swap DI x PRE com um banco para trocar o fluxo de caixa para prefixado (o swap tem principal igual a R$1.000.000 e prazo de 1 ano). As taxas do banco para o swap são 15% ao ano (paga) e 16% ao ano (recebe). O fluxo de caixa líquido da sociedade empresária (considere a dívida e o swap) é de",
       "alternatives": {
         "A": "R$1.160.000.",
@@ -684,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "fc87c67d967d07a3"
     },
     {
       "question_number": 43,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em relação à regulamentação e à supervisão do sistema financeiro nacional brasileiro, assinale a afirmativa correta.",
       "alternatives": {
         "A": "A CVM (Comissão de Valores Mobiliários) é responsável por garantir a estabilidade financeira e o controle inflacionário.",
@@ -701,11 +819,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "eb420b35e9045f04"
     },
     {
       "question_number": 44,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em relação aos títulos do Tesouro Nacional, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Um investimento em LTN protege o investidor contra a inflação porque é um título prefixado.",
@@ -718,11 +838,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3c74e45671e8a776"
     },
     {
       "question_number": 45,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Na plataforma de uma corretora há cinco fundos de investimento disponíveis para aplicação. O investidor estuda os fundos e chega aos seguintes números sobre retorno esperado (R) e desvio- padrão (DP) desses investimentos: R DP Fundo 1 14% 4% Fundo 2 6% 10% Fundo 3 16% 4% Fundo 4 10% 10% Fundo 5 16% 8% Entre esses fundos, com base nesses dados, o investidor deve escolher o",
       "alternatives": {
         "A": "Fundo 1.",
@@ -735,11 +857,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c091e1addb5885fc"
     },
     {
       "question_number": 46,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere as duas estruturas a termo de taxa de juros (ETTJs), uma de taxa nominal (R) e uma de taxa real (r) apresentadas na tabela a seguir. Suponha que há prêmio de risco (não vale a Hipótese das Expectativas). Prazo R (a.a) r (a.a) 1 ano 10,0% 4,5% 2 anos 11,0% 5,1% 3 anos 11,5% 5,4% 4 anos 11,8% 5,5% 5 anos 12,0% 5,5% Nesse caso, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Como a curva da taxa nominal é crescente, a previsão do mercado é que haja aumento da taxa básica de juros.",
@@ -752,11 +876,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7603955dd05ad314"
     },
     {
       "question_number": 47,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um fundo de investimentos possui uma carteira de R$100.000.000. O Valor em Risco (Value at Risk – VaR) dessa carteira, com 95% de confiança, para o período de 1 dia, é R$500.000. Assinale a opção que apresenta uma interpretação correta desse VaR.",
       "alternatives": {
         "A": "O fundo terá 0,5% de chance de perder mais de R$500.000 em um dia.",
@@ -769,11 +895,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "af778bb34ca5d14d"
     },
     {
       "question_number": 48,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O gráfico a seguir apresenta o Valor Presente Líquido (VPL) dos projetos A e B em função da taxa de desconto utilizada, sendo R a taxa de juros de mercado para estes projetos. Em relação ao caso, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Se os projetos são mutuamente excludentes, o Projeto B deve ser escolhido, pois tem maior TIR.",
@@ -786,11 +914,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/stn_cargo-geral_q48.png",
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f7456a393efc9be0"
     },
     {
       "question_number": 49,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Sobre as características do mercado financeiro, analise as afirmativas a seguir. I. As bolsas de valores são mercados físicos ou eletrônicos em que compradores e vendedores se encontram para negociar ativos financeiros. II. O mercado de títulos de renda fixa é totalmente seguro porque garante uma renda fixa no futuro. III. Uma ordem a mercado é uma instrução para comprar ou vender um título a um preço específico ou melhor. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -803,11 +933,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ed115d8b1c80eba1"
     },
     {
       "question_number": 50,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Sobre a diversificação de carteiras, analise as afirmativas a seguir. I. Considere uma carteira formada por apenas dois ativos. Se a correlação entre esses ativos for 0, haverá sempre uma combinação desses ativos em que o risco da carteira é zero. II. Uma carteira possui retorno esperado R e desvio-padrão . Suponha que se acrescente à carteira um ativo que possui retorno esperado R, desvio-padrão  e correlação igual a 0,7 com a carteira. O desvio-padrão da nova carteira (a carteira inicial mais o ativo) é menor que . III. Uma fronteira eficiente é um conjunto de carteiras que possuem risco mínimo para cada nível de retorno esperado. Está correto apenas o que se afirma em",
       "alternatives": {
         "A": "I e II.",
@@ -820,11 +952,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9a7806c1b55f2f82"
     },
     {
       "question_number": 51,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere os seguintes dados de uma economia hipotética: • Impostos Indiretos = 300 • Impostos Diretos = 500 • Receita de aluguéis dos imóveis da União = 50 • Transferências de Renda às Famílias = 100 • Subsídios Financeiros = 200 • Poupança Pública = 200 Com base nessas informações, a Renda Líquida e os Gastos do governo são, respectivamente,",
       "alternatives": {
         "A": "550 e 350.",
@@ -837,11 +971,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "50bc75600f0c0b28"
     },
     {
       "question_number": 52,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere o modelo keynesiano, em que o consumo e a importação dependem da renda disponível e de um componente autônomo. Ademais, o investimento das empresas e tributação dependem da renda bruta total. Adote os seguintes termos: c = propensão marginal a consumir; 𝑡 = alíquota tributária; 𝑖 = propensão marginal a investir e 𝑚 = propensão marginal a importar. Logo, o multiplicador keynesiano será igual a",
       "alternatives": {
         "A": "1 [1 −𝑐(1 −𝑡) −𝑖+ 𝑚] ⁄ .",
@@ -854,11 +990,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 12
+      "page_number": 12,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "70b0d237a8b31579"
     },
     {
       "question_number": 53,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A curva IS do modelo IS-LM não se torna mais horizontal quando",
       "alternatives": {
         "A": "a propensão marginal a poupar diminuir.",
@@ -871,11 +1009,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a49a4ce58a88ae24"
+    },
+    {
+      "question_number": 54,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Em relação à Curva de Phillips (CP), avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) Em sua versão original (1958), a CP mostra um trade-off entre a taxa de inflação salarial e a taxa de crescimento do desemprego. ( ) Em sua versão atual, elaborada por Paul Samuelson e Robert Solow, quanto mais horizontal a CP, mais custosa a política de combate à inflação, pois exige uma maior ampliação da taxa de desemprego. ( ) Inflação de demanda provoca deslocamentos da CP para a direita. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "V – F – V.",
+        "C": "V – V – F.",
+        "D": "F – F – V.",
+        "E": "F – F – F."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e443e8478273d2e3"
     },
     {
       "question_number": 55,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os modelos de crescimento de longo prazo fornecem explicações relevantes para um país que pretende se tornar desenvolvido ao longo do tempo. Esses modelos podem ser divididos entre modelos de crescimento exógenos e endógenos. Entre os modelos de crescimento exógeno, existe o modelo de Solow, de cunho neoclássico, e o modelo de Harrod-Domar (H-D), de cunho keynesiano. Esse último leva em conta três fatores importantes para o crescimento: taxa de investimento, taxa de poupança e relação produto-capital. Partindo desse modelo de H-D, suponha a função poupança igual a S = 0,5y, em que y é a renda e uma relação produto-capital igual a 0,2. Considerando que a oferta agregada é igual à demanda agregada e que há pleno emprego dos fatores de produção, a taxa de crescimento natural do produto será igual a",
       "alternatives": {
         "A": "2,5%.",
@@ -888,11 +1047,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "68f376c096182d55"
     },
     {
       "question_number": 56,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere o modelo de escolha intertemporal de consumo desenvolvido por Irving Fisher. Nese modelo, as famílias se deparam com uma restrição orçamentária intertemporal – por simplicidade, o modelo considera dois períodos (presente e futuro) – e, portanto, devem escolher o nível de consumo e poupança entre os períodos. Assim, um aumento na taxa de juros gera",
       "alternatives": {
         "A": "aumento do consumo no presente e futuro, se a família for tomadora de empréstimo.",
@@ -905,11 +1066,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3c86cfced9aed5a7"
     },
     {
       "question_number": 57,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Assinale a opção que apresenta uma diferença entre a abordagem keynesiana e a abordagem clássica em relação à política fiscal.",
       "alternatives": {
         "A": "A abordagem keynesiana enfatiza a necessidade de intervenção do governo na economia por meio de gastos públicos para estimular a demanda agregada, enquanto a abordagem clássica defende a ideia de que a economia se autorregula e que o governo deve manter um papel mínimo em relação a ela.",
@@ -922,11 +1085,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9c943a6cc0ec0969"
     },
     {
       "question_number": 58,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Os agregados monetários são uma medida importante no sistema monetário, pois estão relacionados à liquidez na economia. Nesse caso, os meios de pagamento (M1) apresentam as seguintes características, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "É igual à soma do papel moeda em poder do público e os depósitos à vista nos bancos comerciais.",
@@ -939,11 +1104,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 13
+      "page_number": 13,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9f5aa15e15f9d713"
     },
     {
       "question_number": 59,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "As seguintes transações podem criar liquidez na economia, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Aumento das operações de redesconto.",
@@ -956,11 +1123,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d116fef5c50fb8ac"
+    },
+    {
+      "question_number": 60,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Em relação ao sistema de metas de inflação adotado no Brasil, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) A meta para a inflação é definida pelo Conselho Monetário Nacional (CMN) e cabe ao Banco Central (BC) adotar as medidas necessárias para alcançá-la. ( ) O índice de preços utilizado como referência para a meta de inflação é o Índice Nacional de Preços ao Consumidor Amplo (IPCA), calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Essa meta se refere à inflação acumulada no ano. ( ) A meta de inflação para o período de 2024 a 2026 é de uma inflação de 3,0%, com intervalo de tolerância de 1,5% a 4,5%. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "V – F – V.",
+        "C": "V – V – F.",
+        "D": "F – V – F.",
+        "E": "F – F – F."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "34e228c7e373844a"
     },
     {
       "question_number": 61,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere uma função de utilidade Cobb-Douglas dada por: u(x,y) = x5y15. Logo, na escolha ótima, o total de gasto no bem y em percentual da renda será igual a",
       "alternatives": {
         "A": "15%.",
@@ -973,11 +1161,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "645df9f9a488c6d7"
     },
     {
       "question_number": 62,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Assinale a opção que indica uma função de produção com retornos constantes a escala.",
       "alternatives": {
         "A": "f(x, y) = xy.",
@@ -990,11 +1180,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7d502f3600d84811"
     },
     {
       "question_number": 63,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere a seguinte função de utilidade esperada: U(w) = w1/2. Considere que o agente jogue uma loteria em que w pode assumir valores iguais a 4 e 64, com 50% de chances cada. O valor da utilidade esperada e do equivalente de certeza (ou equivalente seguro) são iguais, respectivamente, a",
       "alternatives": {
         "A": "5 e 34.",
@@ -1007,11 +1199,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7b5a22196658af33"
     },
     {
       "question_number": 64,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Um problema de um mercado monopolista é a ineficiência, pois ele gera um peso morto e, assim, a quantidade comercializada se situa abaixo do socialmente eficiente. O governo responde ao problema do monopólio das seguintes formas, com exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Instituir leis antitruste que proporcionem ao governo várias formas de promover a competição.",
@@ -1024,11 +1218,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9e9a86d5ecab0e84"
     },
     {
       "question_number": 65,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere a seguinte matriz de ganhos de um jogo: Jogador B Esquerda Direita Alto 1,9 1,9 Jogador A Baixo 0,0 2,1 O primeiro payoff em cada célula da matriz é do jogador A, enquanto o segundo payoff é do jogador B. Suponha que esse jogo seja sequencial, em que o jogador A escolhe primeiro entre Alto e Baixo e, depois, o jogador B escolhe entre Esquerda e Direita, já sabendo a escolha que o jogador A fez. Logo, o(s) equilíbrio(s) de Nash em estratégia pura é (são)",
       "alternatives": {
         "A": "(Alto, Esquerda) e (Baixo, Direita).",
@@ -1041,11 +1237,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 14
+      "page_number": 14,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f5c24c913331581c"
+    },
+    {
+      "question_number": 66,
+      "discipline": "Conhecimentos Específicos",
+      "statement": "Em relação ao tópico de informação assimétrica, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F). ( ) No mercado de seguros de saúde, se as companhias de seguro não conseguem identificar indivíduos com risco elevado, o problema de risco moral faz com que apenas indivíduos de alto risco adquiram seguros, tornando a atividade de venda pouco lucrativa para a companhia. ( ) Devido à presença de informação assimétrica, o problema de seleção adversa faz com que apenas indivíduos com alto risco de inadimplência decidam tomar empréstimos. Assim, os históricos de crédito podem contribuir para tornar esse mercado mais eficiente e reduzir o custo do crédito. ( ) O principal (empregador) contrata o agente (empregado) para trabalhar em sua empresa, mas as atividades do agente não podem ser monitoradas e, portanto, geram-se problemas de ação oculta (risco moral), pois o agente pode imprimir um esforço baixo nas tarefas. As afirmativas são, respectivamente,",
+      "alternatives": {
+        "A": "V – V – V.",
+        "B": "V – V – F.",
+        "C": "V – F – V.",
+        "D": "F – V – V.",
+        "E": "F – V – F."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b46ed874e19c3c82"
     },
     {
       "question_number": 67,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Em relação ao tópico de externalidades, avalie as afirmativas a seguir. I. Quando há externalidades negativas na produção, o custo marginal social é igual à soma do custo marginal privado com o dano marginal da externalidade (Custo adicional do processo de produção que recai sobre terceiros e pelo qual a firma não paga). II. Na presença de externalidades, a quantidade ótima escolhida pela firma não é Pareto-eficiente. III. Quando há externalidades negativas no consumo, o benefício marginal social é igual à soma do benefício marginal privado com o dano marginal da externalidade (Custo adicional de consumo que recai sobre terceiros e pelo qual o consumidor não paga). Está correto o que se afirma em",
       "alternatives": {
         "A": "I, apenas.",
@@ -1058,11 +1275,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d6ee451c6498f808"
     },
     {
       "question_number": 68,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Relacione cada tipo de bem a seguir com sua respectiva característica: 1. Bem privado. 2. Bem comum. 3. Bem de clube. 4. Bem público. ( ) São bens excludentes e rivais. ( ) São bens rivais, mas não excludentes. ( ) São bens excludentes, mas não rivais. ( ) São bens não rivais e não excludentes. A relação correta, na ordem apresentada, é:",
       "alternatives": {
         "A": "1 – 2 – 3 – 4.",
@@ -1075,11 +1294,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e595fc66ff72ccf2"
     },
     {
       "question_number": 69,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Considere um modelo de troca com dois consumidores e dois bens e sem produção. Esse modelo pode ser representado de forma didática por meio da caixa de Edgeworth. Assinale a opção que não representa uma característica ou dedução desse modelo.",
       "alternatives": {
         "A": "A curva de contrato representa o conjunto de alocações ótimas e inclui o ponto de origem dos eixos de cada consumidor.",
@@ -1092,11 +1313,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "bfda24c15caf4685"
     },
     {
       "question_number": 70,
-      "discipline": "Finanças",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Caso as preferências sejam convexas e os conjuntos de produção sejam também convexos, então, toda alocação eficiente é um equilíbrio geral competitivo para alguma realocação das dotações iniciais e das participações dos consumidores nos lucros das empresas. A afirmação acima se refere",
       "alternatives": {
         "A": "ao 1º Teorema do Bem-Estar Social.",
@@ -1109,7 +1332,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 15
+      "page_number": 15,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7d6434f33353898b"
     }
-  ]
+  ],
+  "year": 2024,
+  "uf": "BR",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

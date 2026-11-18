@@ -4,7 +4,7 @@
   "concurso_title": "Concurso Público para a Prefeitura Municipal de Paulínia 2016",
   "cargo_title": "Professor III - Ciências",
   "exam_type": "Tipo 1",
-  "total_questions": 45,
+  "total_questions": 60,
   "questions": [
     {
       "question_number": 1,
@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "357f590aeda9133c"
     },
     {
       "question_number": 2,
@@ -38,7 +40,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "1af88bd881643127"
     },
     {
       "question_number": 3,
@@ -55,7 +59,9 @@
       "annulled": true,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "7fb3c4ff3ec70514"
     },
     {
       "question_number": 4,
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "f9b97eba9f795cc7"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "42a52c6c5843a708"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "34aab0cdccdf52ef"
     },
     {
       "question_number": 7,
@@ -123,7 +135,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "a74623ea808cabc3"
     },
     {
       "question_number": 8,
@@ -140,7 +154,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "3cb3bee0135a00af"
     },
     {
       "question_number": 9,
@@ -157,7 +173,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "2fd225037b1dfa14"
     },
     {
       "question_number": 10,
@@ -174,7 +192,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "0a4cd98bf1c157d1"
     },
     {
       "question_number": 11,
@@ -191,7 +211,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "ca27f23aee6e77c8"
     },
     {
       "question_number": 12,
@@ -202,17 +224,38 @@
         "B": "“Nada está perdido enquanto o coração espera alguma coisa.” / proporção",
         "C": "“Quando dois corações se querem entender, ainda que falem hebraico, descobrem-se logo um ao outro.” / concessão",
         "D": "“Aprofunde mais os corações alheios, se quiser encontrar a verdade.” / causa",
-        "E": "“Conquanto a credulidade seja eterna, é preciso fazer com ela o que se faz com a moda: variar o feitio.” / tempo"
+        "E": "“Conquanto a credulidade seja eterna, é preciso fazer com ela"
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Básicos",
+      "question_hash": "802e030935ddbad9"
+    },
+    {
+      "question_number": 13,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "De acordo com a Lei Orgânica do Município de Paulínia, é vedado ao Município I. estabelecer cultos religiosos ou subvencioná-los, ainda que a título de colaboração de interesse público. II. recusar fé aos documentos públicos. III. criar distinções entre brasileiros ou preferência entre si. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7b86adb3cbd0ca3c"
     },
     {
       "question_number": 14,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "De acordo com a Lei Orgânica do Município de Paulínia, o vereador não perderá o mandato em caso de",
       "alternatives": {
         "A": "suspensão dos direitos políticos.",
@@ -225,11 +268,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "44a8bdd4bad7142f"
     },
     {
       "question_number": 15,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Leia o fragmento a seguir. O processo legislativo compreende, entre outras medidas, a elaboração de _____ à Lei Orgânica do município, de _____ ordinárias e _____ provisórias. Assinale a opção que completa corretamente as lacunas do fragmento acima.",
       "alternatives": {
         "A": "decretos – medidas – resoluções.",
@@ -242,11 +287,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6eae47e2d62ec559"
+    },
+    {
+      "question_number": 16,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "Segundo a Lei Orgânica do Município de Paulínia, serão expressamente objeto de lei ordinária, I. o Código de Obras; II. a Lei de Uso e Ocupação do Solo; III. o Estatuto dos Servidores Públicos. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "ANULADA",
+      "annulled": true,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3db65c4a54fb50e1"
     },
     {
       "question_number": 17,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Segundo a Lei Orgânica do Município, são de iniciativa privativa do Prefeito as leis que disponham sobre: I. a criação de cargos, funções ou empregos públicos na administração direta. II. o regime jurídico servidores públicos do Município provimento de cargos, estabilidade e aposentadoria. III. os subsídios dos membros dos Poderes Legislativo e Executivo municipais. Assinale:",
       "alternatives": {
         "A": "se somente a afirmativa I estiver correta.",
@@ -259,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "febdc2d8a0b71248"
     },
     {
       "question_number": 18,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Segundo o Estatuto dos Funcionários Públicos do município de Paulínia, no curso do estágio probatório do servidor público municipal, devem ser avaliados os fatores a seguir, à exceção de um. Assinale-o.",
       "alternatives": {
         "A": "Assiduidade",
@@ -276,11 +344,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "996822f54ac1c1fb"
     },
     {
       "question_number": 19,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "De acordo com o Estatuto dos Funcionários Públicos do Município de Paulínia, assinale a afirmativa incorreta.",
       "alternatives": {
         "A": "O funcionário habilitado em concurso público adquirirá estabilidade a partir da posse no cargo de provimento efetivo.",
@@ -293,28 +363,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d9f312a9810f4e3b"
     },
     {
       "question_number": 20,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Assinale a opção que indica uma razão pela qual o funcionário poderá ser exonerado de ofício.",
       "alternatives": {
         "A": "Quando satisfeitas as condições do estágio probatório.",
         "B": "Quando, tendo tomado posse, o funcionário entrar em exercício antes de findar o prazo estabelecido.",
         "C": "Quando se tratar de provimento em comissão.",
         "D": "Quando da publicação da aposentadoria compulsória.",
-        "E": "Quando tomar posse em outro cargo acumulável. Conhecimentos Pedagógicos"
+        "E": "Quando tomar posse em outro cargo acumulável."
       },
       "answer": "C",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3162e13f43695bf0"
     },
     {
       "question_number": 21,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Relacione a esfera governamental às respectivas atribuições. 1. União 2. Estados 3. Municípios ( ) Elabora e executa políticas educacionais em consonância com os planos nacionais de educação, integrando e coordenando as suas ações às dos Municípios. ( ) Oferece a Educação Infantil em creches e pré-escolas e, com prioridade, o Ensino Fundamental. ( ) Realiza o processo nacional de avaliação do rendimento escolar, objetivando a definição de prioridades e a melhoria da qualidade do ensino. Assinale a opção que indica a relação correta, de cima para baixo.",
       "alternatives": {
         "A": "1 – 2 – 3",
@@ -327,11 +401,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "08a3ebd1e7770058"
     },
     {
       "question_number": 22,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "As opções a seguir apresentam tipos de materiais didáticos e pedagógicos que apoiam o Pacto Nacional pela Alfabetização na Idade Certa, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Jogos e softwares de apoio.",
@@ -344,11 +420,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "69c0eb6d48a01b8e"
+    },
+    {
+      "question_number": 23,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "Com relação aos princípios do processo de alfabetização, analise as afirmativas a seguir. I. O Sistema de Escrita Alfabética é complexo e exige um ensino sistemático e problematizador. II. A ludicidade é condição básica nos processos de ensino e de aprendizagem. III. As práticas para o desenvolvimento da leitura e da produção de textos ocorre somente nos primeiros anos do Ensino Fundamental. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "d4c891ff9ac92f64"
     },
     {
       "question_number": 24,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Com relação aos objetivos e às metas para a educação das pessoas com necessidades educacionais especiais, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Devem ser disponibilizados recursos didáticos especializados de apoio à aprendizagem nas áreas visual e auditiva. ( ) Devem ser promovidas ações de educação especial sem relação com o mercado de trabalho. ( ) Devem ser assegurados padrões mínimos de infraestrutura das escolas para atendimento de alunos com necessidades educacionais especiais. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "V, V e F.",
@@ -361,11 +458,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7528c13b3fa2e222"
+    },
+    {
+      "question_number": 25,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "Com relação ao processo avaliativo dos alunos, segundo os Parâmetros Nacionais Curriculares, analise as afirmativas a seguir. I. A avaliação do conhecimento é um momento pontual e estático. II. A avaliação da aprendizagem deve abranger o desempenho do aluno, a atuação do professor e a metodologia utilizada. III. O professor é o responsável exclusivo do processo de avaliação. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3ef058d27004d69e"
+    },
+    {
+      "question_number": 26,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "Sobre os objetivos da educação, segundo o Currículo da Rede Municipal de Ensino de Paulínia, analise as afirmativas a seguir. I. O aluno é o sujeito da sua aprendizagem, desenvolvendo habilidades cognitivas e capacidades reflexivas. II. O ensino e a aprendizagem devem estar baseados em valores éticos e morais. III. O educando deve valorizar a diversidade e sentir-se como essencial na construção de uma sociedade mais justa e democrática. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7c6ff227ec346c12"
     },
     {
       "question_number": 27,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Leia o fragmento a seguir. “O aluno chega à escola levando uma cultura que não é melhor nem pior do que a do professor, e, na sala de aula, os dois lados aprenderão juntos, a partir de uma relação afetiva e democrática.” Assinale a opção que indica o autor do fragmento acima.",
       "alternatives": {
         "A": "Anísio Teixeira",
@@ -378,11 +515,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "803fb8cf250dd46b"
+    },
+    {
+      "question_number": 28,
+      "discipline": "Legislação Específica e Institucional",
+      "statement": "A Meta 10 do Plano Municipal de Educação de Paulínia propõe as seguintes ações: I. resgatar e criar espaços de atendimento extraclasse por meio das adaptações físicas necessárias; II. construir novas unidades e contratar pessoal para atender à demanda; III. estabelecer relações estreitas com os governos estadual e federal e com a iniciativa privada para a obtenção de recursos extras para a etapa. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "I e II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7625e9d94f188bbf"
     },
     {
       "question_number": 29,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "Sobre os fundamentos para a organização do currículo por competências, assinale V para a afirmativa verdadeira e F para a falsa. ( ) As disciplinas passam a servir como instrumentos para o desenvolvimento dessas competências. ( ) Os conteúdos a serem ensinados estão subordinados à competência a ser desenvolvida. ( ) Os conteúdos têm um fim em si mesmos e devem ser trabalhados apenas em um período letivo. As afirmativas são, respectivamente,",
       "alternatives": {
         "A": "F, V e F.",
@@ -395,11 +553,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "571bf29d80a07404"
     },
     {
       "question_number": 30,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Legislação Específica e Institucional",
       "statement": "As opções a seguir apresentam os desafios da educação segundo o Plano Municipal de Educação de Paulínia, à exceção de uma. Assinale-a.",
       "alternatives": {
         "A": "Oferecer a todas as pessoas oportunidades de educação ao longo da vida.",
@@ -412,11 +572,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "8a58de220eefb335"
+    },
+    {
+      "question_number": 31,
+      "discipline": "Biologia e Ciências",
+      "statement": "Sobre as consequências do tratamento dado ao lixo e aos esgotos sanitários nos países em desenvolvimento, analise as afirmativas a seguir. I O lançamento do lixo nos chamados “lixões” aumenta a incidência de doenças resultantes de contaminação pela água e por insetos. II. O deficiente tratamento do esgotamento sanitário permite a proliferação de agentes etiológicos dos mais diferentes tipos, o que aumenta a disseminação de doenças. III. As precárias condições sanitárias são responsáveis, entre outros fatores, pelo elevado índice de mortalidade infantil. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "81218767010106f4"
     },
     {
       "question_number": 32,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Assinale a opção que indica, entre os gases que formam a atmosfera, os que mais contribuem para o aumento do efeito estufa.",
       "alternatives": {
         "A": "Gás carbônico, oxido nitroso e metano.",
@@ -429,11 +610,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ecb390cc577a4549"
     },
     {
       "question_number": 33,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "O professor colocou uma chaleira com um pouco de água para aquecer em um fogão e, em pouco tempo, formou-se uma nuvem em frente ao bico da chaleira, como representado na figura a seguir. O professor desligou o fogo, abriu a chaleira e mostrou que ela estava vazia. A seguir perguntou aos seus alunos que explicassem porque a água desapareceu. Assinale a opção que apresenta a resposta correta.",
       "alternatives": {
         "A": "O calor fez as moléculas da água transformarem-se nos gases hidrogênio (H2) e oxigênio (O2), como indicado em 1.",
@@ -446,11 +629,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q33.png",
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "3abc484339b4e040"
     },
     {
       "question_number": 34,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Com o crescimento exponencial da população humana, acompanhado da destruição de florestas e outros ecossistemas naturais, criou-se uma situação de emergência de água, isto é, são muitos os países que não contam com água suficiente para abastecer adequadamente seus habitantes. Considerando que a água é usada na indústria, na agricultura e no consumo humano (residencial), assinale a opção que indica a sequência correta da atividade de maior consumo de água para a de menor consumo.",
       "alternatives": {
         "A": "Indústria, agricultura e residencial.",
@@ -463,11 +648,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7cee1feeb8ff4b18"
     },
     {
       "question_number": 35,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "A figura a seguir resume algumas ocorrências relativas ao ciclo da água na natureza. Com relação ao ciclo acima, é correto afirmar que",
       "alternatives": {
         "A": "em 1, 2 e 3 ocorre evaporação.",
@@ -480,11 +667,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q35.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f933148dc3fe6533"
     },
     {
       "question_number": 36,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Estimulados pelo professor, os alunos resolveram fazer uma pequena horta na escola, mas não sabiam qual tipo de solo seria o ideal. Para resolver o problema, o professor sugeriu analisar três tipos de solo disponíveis na escola. Quantidades iguais de cada tipo de solo, previamente numerados e secados num forno, foram colocadas num funil, como indicado na figura a seguir. Considerando que a mesma quantidade de água foi adicionada sobre cada solo, observe os resultados mostrados na figura. O melhor tipo de solo para fazer a horta é o de número",
       "alternatives": {
         "A": "1, porque não deixa acumular água.",
@@ -497,11 +686,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q36.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "62cd72d577138d69"
     },
     {
       "question_number": 37,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "O solo é o resultado da ação do clima e dos organismos vivos. No solo se encontram folhas e galhos (folhedo) que caem da vegetação. Na figura a seguir é mostrada a quantidade de folhedo que cai no solo em um metro quadrado, durante um ano, em quatro florestas (1, 2, 3 e 4) localizáveis pela latitude. As regiões numeradas por 1, 2, 3 e 4 correspondem, respectivamente, às florestas",
       "alternatives": {
         "A": "árticas alpinas; equatoriais; temperadas quentes; temperadas frias.",
@@ -514,11 +705,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q37.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e92a09c1291420c4"
     },
     {
       "question_number": 38,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Os alunos receberam uma prancha com o desenho de uma cobra, uma minhoca, uma lacraia, um gongolo e um larva de um lepidóptero, como mostrado na figura a seguir: Apesar de os animais representados não estarem em escala, os alunos puderam perceber que",
       "alternatives": {
         "A": "apenas 1 e 2 são artrópodes.",
@@ -531,11 +724,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q38.png",
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c43e4a81713669ff"
     },
     {
       "question_number": 39,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Vírus ebola, HIV, HPV, H1N1, zika vírus, vírus da dengue, vírus da febre amarela, etc. A palavra “vírus” tem sido muito pronunciada, principalmente pelas doenças que causam. Sobre a posição sistemática do vírus, assinale a afirmativa correta.",
       "alternatives": {
         "A": "É considerada como não determinada, uma vez que não se enquadra em nenhum reino.",
@@ -548,11 +743,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "cc2d380658fe9ba6"
     },
     {
       "question_number": 40,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Certos besouros encontrados nas florestas próximas à costa apresentam cor verde, mas seus parentes próximos, encontrados na praia, apresentam cor acinzentada. Os acinzentados não são encontrados na floresta, nem os verdes na praia. Sobe a diferença de cor e a incidência de besouros nos locais citados, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os besouros da floresta ficam verdes porque se alimentam de folhas.",
@@ -565,11 +762,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "4d0dabbed7c43b84"
+    },
+    {
+      "question_number": 41,
+      "discipline": "Biologia e Ciências",
+      "statement": "O mosquito Aedes aegypti tem sido o grande frequentador da mídia, principalmente pelo seu grande sucesso de sobrevivência, o que para nós humanos tem sido um grande problema. O sucesso do Aedes aegypti se deve a diversas adaptações, dentre as quais destacamos a seguir: I. as fêmeas têm uma grande capacidade reprodutiva ao longo de sua existência, produzindo cerca de 700 ovos. II. a postura é feita com vários ovos colocados acima do nível da água, local só atingido quando existe água suficiente capaz de garantir a sobrevivência e desenvolvimento das larvas. III. os machos, até 24 horas depois da eclosão, são surdos, isto é, só desenvolvem o aparato especial capaz de perceber o zumbido produzido pelas fêmeas, quando atingem a maturação sexual. As adaptações especiais que dificultam o combate ao Aedes são citadas em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6f630bdb2b0c21da"
     },
     {
       "question_number": 42,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Flores que se abrem durante a noite são mais perfumadas do que as que se abrem durante o dia. Essa adaptação oferece às plantas cujas flores se abrem à noite",
       "alternatives": {
         "A": "maior proteção às sementes, durante o dia.",
@@ -582,11 +800,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c6d315257bd60fe1"
     },
     {
       "question_number": 43,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Utilizando água de um aquário, foi feito um experimento com duas plantas iguais (P), para demonstrar que as plantas absorvem gás carbônico durante a fotossíntese. Considere que cada tubo recebeu a mesma quantidade de água e que os tubos foram colocados no mesmo local. Após algum tempo, foram adicionados 3 mL de água de cal transparente em cada tubo. Considere que os alunos já sabiam que a água de cal fica esbranquiçada em presença de gás carbônico. Com relação ao experimento, é correto afirmar que",
       "alternatives": {
         "A": "o tubo 1 ficará tão esbranquiçado quanto o 3.",
@@ -599,11 +819,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q43.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "943bd0e246e18934"
     },
     {
       "question_number": 44,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "A figura a seguir representa parte de uma teia ecológica onde os algarismos representam os seres participantes e as setas indicam o sentido do fluxo do alimento e da energia. Considerando que os algarismos 1 e 2 representem produtores, é correto afirmar que, neste esquema, os seres representados por",
       "alternatives": {
         "A": "3, 4 e 5 são essencialmente herbívoros.",
@@ -616,11 +838,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q44.png",
-      "page_number": 8
+      "page_number": 8,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5336ef904f73464e"
     },
     {
       "question_number": 45,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "A figura a seguir mostra, de modo simplificado, alguns elementos de um ecossistema, em que as setas indicam o fluxo de materiais ou de energia, a letra U representa substâncias abióticas e W, X, Y e Z representam populações. Com relação ao ecossistema acima representado, assinale a opção que indica os elementos essenciais à sua manutenção.",
       "alternatives": {
         "A": "T e V, apenas.",
@@ -633,11 +857,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q45.png",
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "999ad712cd734031"
     },
     {
       "question_number": 46,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "As interações entre os seres vivos nas comunidades ecológicas são fundamentais para o funcionamento dos ecossistemas. Podemos representar as interações por meio do símbolo (+) quando uma espécie se beneficia da interação, (–) quando a espécie é prejudicada e (0) quando a interação é neutra. Assinale a opção que contém apenas interações com pelo menos um sinal positivo.",
       "alternatives": {
         "A": "Predação, Mutualismo, Comensalismo.",
@@ -650,11 +876,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "22991af400825d2c"
+    },
+    {
+      "question_number": 47,
+      "discipline": "Biologia e Ciências",
+      "statement": "Entre os lepidópteros, encontramos borboletas, que, geralmente, têm hábitos diurnos e cores vivas, e mariposas, geralmente de hábitos noturnos e cores sombrias. Com relação às borboletas e mariposas, analise as afirmativas a seguir. I. Muitas das borboletas que apresentam frequentemente as chamadas cores de advertência (vermelho, amarelo e preto) são insetos tóxicos para os predadores. Essas cores permitem aos predadores (outros insetos, aves, mamíferos) distinguir quem serve como alimento ou não serve. As borboletas podem voar durante o dia, graças a essa proteção. II. As mariposas, em geral, não são tóxicas e ficam imóveis durante o dia, sobre suportes naturais que mimetizam o padrão de cores da mariposa e, dessa forma, são menos atacadas por predadores. III. Algumas espécies de aves aprendem a evitar a ingestão de borboletas tóxicas observando o comportamento de outra ave quando come uma dessas borboletas. A ave se contorce violentamente e acaba regurgitando o alimento. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "ada994f562b32d90"
+    },
+    {
+      "question_number": 48,
+      "discipline": "Biologia e Ciências",
+      "statement": "A digestão é um processo complexo que se inicia na boca e continua ao longo de praticamente todo o tubo digestório. Com relação às ações digestivas que ocorrem na boca, analise as afirmativas a seguir. I. Os dentes partem moléculas alimentícias, transformando-as em moléculas menores. II. A saliva transforma moléculas de amido em açúcares menores. III. A saliva inicia a digestão de proteínas a ser continuada em outras regiões do tubo digestório. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "B",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "720fed312a4bf75b"
     },
     {
       "question_number": 49,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "A figura a seguir representa um coração humano no qual as veias cavas foram representadas como um único vaso, assim como as veias pulmonares. Considerando as regiões indicadas por algarismos, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O sangue chega ao coração através de 2 e 3.",
@@ -667,11 +933,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q49.png",
-      "page_number": 9
+      "page_number": 9,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a50eaa7dfd7feaf9"
     },
     {
       "question_number": 50,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Observe a figura a seguir, que representa parte do corpo humano. Os movimentos respiratórios da inspiração dependem de diversos eventos. Assinale a opção que indica um desses eventos.",
       "alternatives": {
         "A": "O relaxamento dos músculos da parede do estômago.",
@@ -684,11 +952,13 @@
       "annulled": false,
       "has_image": true,
       "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q50.png",
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7c9043409dc17632"
     },
     {
       "question_number": 51,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "A oferta de contraceptivos facilitou o controle da natalidade e a proteção contra doenças sexualmente transmissíveis (DST). Com relação aos tipos de contraceptivos que dificultam a transmissão de doenças sexualmente transmissíveis, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Os preservativos masculinos que oferecem proteção contra vírus e bactérias.",
@@ -701,11 +971,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5ae69f715705ed56"
     },
     {
       "question_number": 52,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Segundo a ANVISA a vacina contra a gripe serve para três tipos de vírus: H1N1, H3N2 e Influenza B. Como em todo ano, com a chegada do outono, campanhas de vacinação contra a gripe se intensificam e têm reduzido significativamente a incidência da gripe. Sobre a vacina contra a gripe, assinale a afirmativa correta.",
       "alternatives": {
         "A": "Fornece anticorpos contra um dos três tipos de vírus.",
@@ -718,11 +990,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "5436efb09c31a929"
+    },
+    {
+      "question_number": 53,
+      "discipline": "Biologia e Ciências",
+      "statement": "O desenvolvimento é dito sustentável quando as condições de suporte à vida do planeta (qualidade da água e do ar, fertilidade dos solos, níveis baixos de poluição, disponibilidade de energia) não são alteradas de forma irreversível. O desenvolvimento sustentável é incompatível com o crescimento econômico exponencial, pois o nosso planeta tem limites. Com relação ao exposto acima, analise as afirmativas a seguir. I. As populações e os recursos não podem crescer para sempre em um planeta finito. II. Uma acentuada redução nas taxas de crescimento populacional e do desenvolvimento urbano-industrial poderá reduzir em muito a gravidade dos colapsos nos sistemas de suporte a vida. III. Uma vez que a interdependência entre as nações e o meio ambiente é muito grande, as decisões de desenvolvimento deveriam ser acordadas por todas as nações. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "III, apenas.",
+        "C": "I e II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c2f11bd5e78e1f5d"
     },
     {
       "question_number": 54,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Diversos aparelhos usados em nossas casas utilizam transformações de energia. A esse respeito, assinale a afirmativa correta.",
       "alternatives": {
         "A": "O forno de micro ondas transforma a energia elétrica em calor.",
@@ -735,11 +1028,51 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 10
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "9b03838322a16570"
+    },
+    {
+      "question_number": 55,
+      "discipline": "Biologia e Ciências",
+      "statement": "A energia da água pode ser utilizada para movimentar turbinas de uma usina hidrelétrica que transforma essa energia em energia elétrica. Com relação à energia elétrica gerada nesse sistema, analise as afirmativas a seguir. I. Quanto maior o desnível entre a barragem e as turbinas, maior será energia gerada. II. Quanto maior a temperatura da água, maior será a energia cinética capaz de mover a turbina. III. A quantidade de energia elétrica gerada depende da energia cinética da água, ao passar pela turbina. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "I e III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 10,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "1841d78230e82923"
+    },
+    {
+      "question_number": 56,
+      "discipline": "Biologia e Ciências",
+      "statement": "A segunda lei da termodinâmica ou lei da conservação da energia estabelece que a energia pode ser transformada, mas não pode ser criada ou destruída. A esse respeito, analise as afirmativas a seguir. I. A energia radiante emitida pelo Sol pode ser transformada em energia de ligações químicas contida nas moléculas orgânicas produzidas na fotossíntese. II. A energia radiante emitida pelo Sol pode ser transformada em trabalho, através dos painéis de coletores solares. III. A energia radiante emitida pelo Sol pode ser transformada em energia elétrica, através de células fotovoltaicas. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "803fc4bfef29073f"
     },
     {
       "question_number": 57,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Em princípio, a maioria dos recursos naturais é renovável, o que significa que são recursos que se conservam ou são produzidos constantemente. A questão fundamental é a diferença entre a taxa de produção do recurso e sua taxa de consumo, porque, quando a segunda é maior que a primeira, esse recurso natural pode desaparecer. Quando a taxa de produção de um recurso é menor que a taxa do seu consumo, o recurso se torna não renovável. Assinale a opção que indica apenas recursos não renováveis.",
       "alternatives": {
         "A": "Água, energia solar e vento.",
@@ -752,11 +1085,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0204fb471e34f352"
+    },
+    {
+      "question_number": 58,
+      "discipline": "Biologia e Ciências",
+      "statement": "O conteúdo de um frasco contendo gás cloro (C2) foi unido ao de outro contendo gás hidrogênio (H2) e o resultado foi a formação de uma substância de teor ácido (HC), como mostrado na equação química a seguir: C2 + H2  2HC Na equação figuram I. dois átomos diferentes. II. três átomos diferentes. III. três moléculas diferentes. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e III, apenas.",
+        "E": "II e III, apenas."
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "735a31369880d41f"
     },
     {
       "question_number": 59,
-      "discipline": "Língua Portuguesa",
+      "discipline": "Biologia e Ciências",
       "statement": "Com o objetivo de promover mudanças conceituais, foi sugerida a adoção de algumas orientações didáticas, como as apresentadas a seguir. 1. Problematização 2. Observação 3. Experimentação 4. Sistematização do conhecimento As orientações acima levam a melhores resultados se forem adotadas na sequência",
       "alternatives": {
         "A": "1, 2, 3 e 4.",
@@ -769,7 +1123,32 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 11
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7e8793d82fdc5c91"
+    },
+    {
+      "question_number": 60,
+      "discipline": "Biologia e Ciências",
+      "statement": "A tabela a seguir mostra parte da oferta interna de energia da matriz energética brasileira com a participação percentual de cada recurso. A partir dos dados da tabela, analise as afirmativas a seguir. I. A oferta de recursos não renováveis em relação aos renováveis continua compondo a maior parte da oferta de energia. II. Os recursos geradores de gás carbônico correspondem a maior parte da oferta da matriz. III. A oferta de “energia limpa”, isto é, energia não poluente ou pouco poluente, aumentou de 2013 para 2014. Está correto o que se afirma em",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "I e II, apenas.",
+        "E": "II e III, apenas. Realização"
+      },
+      "answer": "D",
+      "annulled": false,
+      "has_image": true,
+      "image_path": "data/processed/images/prefeituradepaulinia2016_professor-iii-ciencias_q60.png",
+      "page_number": 11,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "e474786747888c45"
     }
-  ]
+  ],
+  "year": 2016,
+  "uf": "SP",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }

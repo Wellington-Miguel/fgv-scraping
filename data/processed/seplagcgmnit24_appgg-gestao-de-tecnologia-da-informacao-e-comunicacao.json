@@ -4,11 +4,11 @@
   "concurso_title": "Concurso Público para a Secretaria de Planejamento, Orçamento e Modernização da Gestão e Controladoria Geral do Município de Niterói",
   "cargo_title": "APPGG - Gestão de Tecnologia da Informação e Comunicação",
   "exam_type": "Tipo 1",
-  "total_questions": 18,
+  "total_questions": 20,
   "questions": [
     {
       "question_number": 1,
-      "discipline": "Administração Pública",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Sobre a modelagem de processos de negócio, analise as afirmativas a seguir. I. Modelar um processo significa apenas documentar tarefas e atividades operacionais. II. Modelagem de processos pode servir como base para melhoria contínua e automação de processos. III. Notações como BPMN permitem representar graficamente fluxos de atividades, decisões e eventos. IV. A modelagem de processos de negócio não interfere nos objetivos estratégicos organizacionais. Está correto o que se afirma em",
       "alternatives": {
         "A": "I e II, apenas.",
@@ -21,7 +21,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "300f6367db9d7514"
     },
     {
       "question_number": 2,
@@ -38,11 +40,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "b4897190ece811f6"
     },
     {
       "question_number": 3,
-      "discipline": "Administração Pública",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Na Administração Pública contemporânea, a Tecnologia da Informação (TI) deixou de ser apenas um suporte técnico- operacional para tornar-se um componente essencial da estratégia governamental. Cada vez mais, espera-se que a TI contribua para a transformação digital do Estado, promovendo a eficiência, a transparência e a entrega de serviços públicos centrados no cidadão. Com base nesse contexto, assinale a opção que apresenta o papel estratégico da TI na Administração Pública contemporânea.",
       "alternatives": {
         "A": "Atuar como ferramenta para controle de pessoal, com foco principal na gestão de frequência e folha de pagamento.",
@@ -55,11 +59,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0e6e87b8beb9f767"
     },
     {
       "question_number": 4,
-      "discipline": "Administração Pública",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Uma organização pública está implantando uma estrutura de Governança de TI com foco em alinhamento estratégico, controle de riscos e melhoria da entrega de serviços. Como parte do processo, a área responsável está definindo um conjunto de artefatos e mecanismos formais para garantir a transparência, a conformidade e a geração de valor por meio da TI. Entre os documentos e estruturas a serem adotados, estão: • um conjunto de regras e diretrizes que definem comportamentos esperados, responsabilidades e padrões mínimos de conformidade, aplicáveis a todas as áreas da organização. • um documento que alinha as iniciativas de TI com os objetivos estratégicos institucionais, definindo ações, metas, prazos e responsáveis para execução. • um sistema de acompanhamento baseado em métricas que permite avaliar o desempenho da TI frente aos objetivos esperados, identificando desvios e subsidiando a tomada de decisão gerencial. Assinale a opção que indica, corretamente, os artefatos descritos.",
       "alternatives": {
         "A": "Política de TI; Plano Diretor de TI; Painel de Indicadores de Desempenho.",
@@ -72,7 +78,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 2
+      "page_number": 2,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "f20c0d7e67d5988c"
     },
     {
       "question_number": 5,
@@ -89,7 +97,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "de1384996b57ac90"
     },
     {
       "question_number": 6,
@@ -106,7 +116,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "348aad6131ef13f8"
     },
     {
       "question_number": 7,
@@ -123,28 +135,70 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "6a17a9ff020b7b35"
+    },
+    {
+      "question_number": 8,
+      "discipline": "Conhecimentos Específicos",
+      "module": "Conhecimentos Específicos",
+      "statement": "Considere uma organização que está passando por um projeto de transformação digital e usa a modelagem de processos como ferramenta de análise e redesenho organizacional. Assinale a opção que apresenta a abordagem mais adequada para garantir a eficiência, a integração e o alinhamento estratégico dos processos modelados.",
+      "alternatives": {
+        "A": "Focar na automação de tarefas operacionais, priorizando redução de custos a curto prazo.",
+        "B": "Aplicar modelagem ad hoc, desenvolvidos por cada departamento da organização, para refletir sua autonomia.",
+        "C": "Implementar modelos baseados em casos de uso, direcionando a visão dos processos organizacionais ao nível de sistemas de informação.",
+        "D": "Utilizar BPM (Business Process Management) centrada nas áreas e serviços de TI, já que a modelagem é restrita à lógica de softwares corporativos.",
+        "E": "Adotar uma abordagem BPM (Business Process Management) centrada no ciclo de vida do processo, com foco na melhoria contínua e no alinhamento estratégico."
+      },
+      "answer": "E",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "question_hash": "17e845daab20cd93"
+    },
+    {
+      "question_number": 9,
+      "discipline": "Conhecimentos Específicos",
+      "module": "Conhecimentos Específicos",
+      "statement": "A normalização em banco de dados é fundamental para garantir a integridade dos dados e otimizar o armazenamento, facilitando a manutenção, a consistência e a escalabilidade das informações ao longo do tempo. Analisando as opções a seguir, avalie as tabelas a seguir. Tabela: Cliente ID Nome Telefone 00193 Ana Guimarães (21)99976-3231, (32)98665-7321 I. 00274 Joel Fernandes (14)98778-9233 01653 Leila Cóes 99932-8876 Tabela: Pedido n_pedido Tipo Itens 123 auto-atendimento [Arroz, Feijão, Óleo] II. 176 whatsapp [Farinha, Arroz] 124 presencial [Sabão em barra, Amaciante] Tabela: Produto Código Nome Preço 001 Caneta 3.40 III. 002 Caderno 12.37 003 Borracha 0.83 Assinale a opção que indica a(s) tabela(s) que atende(em) à primeira forma normal.",
+      "alternatives": {
+        "A": "I, apenas.",
+        "B": "II, apenas.",
+        "C": "III, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "answer": "C",
+      "annulled": false,
+      "has_image": false,
+      "image_path": null,
+      "page_number": 3,
+      "question_hash": "d02f564bb6622d2b"
     },
     {
       "question_number": 10,
-      "discipline": "Contabilidade Geral",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Com base na tabela acima, assinale a opção que corresponde ao total de Pontos de Função Não Ajustados do Sistema.",
       "alternatives": {
         "A": "1.",
         "B": "16.",
         "C": "35.",
         "D": "98.",
-        "E": "101. 9 A normalização em banco de dados é fundamental para garantir a integridade dos dados e otimizar o armazenamento, facilitando a manutenção, a consistência e a escalabilidade das informações ao longo do tempo. Analisando as opções a seguir, avalie as tabelas a seguir. Tabela: Cliente ID Nome Telefone 00193 Ana Guimarães (21)99976-3231, (32)98665-7321 I. 00274 Joel Fernandes (14)98778-9233 01653 Leila Cóes 99932-8876 Tabela: Pedido n_pedido Tipo Itens 123 auto-atendimento [Arroz, Feijão, Óleo] II. 176 whatsapp [Farinha, Arroz] 124 presencial [Sabão em barra, Amaciante] Tabela: Produto Código Nome Preço 001 Caneta 3.40 III. 002 Caderno 12.37 003 Borracha 0.83 Assinale a opção que indica a(s) tabela(s) que atende(em) à primeira forma normal. (A) I, apenas. (B) II, apenas. (C) III, apenas. (D) II e III, apenas. (E) I, II e III. 10 Considere uma organização que está passando por um projeto de transformação digital e usa a modelagem de processos como ferramenta de análise e redesenho organizacional. Assinale a opção que apresenta a abordagem mais adequada para garantir a eficiência, a integração e o alinhamento estratégico dos processos modelados. (A) Focar na automação de tarefas operacionais, priorizando redução de custos a curto prazo. (B) Aplicar modelagem ad hoc, desenvolvidos por cada departamento da organização, para refletir sua autonomia. (C) Implementar modelos baseados em casos de uso, direcionando a visão dos processos organizacionais ao nível de sistemas de informação. (D) Utilizar BPM (Business Process Management) centrada nas áreas e serviços de TI, já que a modelagem é restrita à lógica de softwares corporativos. (E) Adotar uma abordagem BPM (Business Process Management) centrada no ciclo de vida do processo, com foco na melhoria contínua e no alinhamento estratégico."
+        "E": "101."
       },
       "answer": "E",
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 3
+      "page_number": 3,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "246c242957760340"
     },
     {
       "question_number": 11,
-      "discipline": "Tecnologia da Informação",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O departamento de TI de uma Secretaria Municipal recebeu o bloco de endereços IPv4 192.168.10.0/24. A equipe de redes precisa dividir este bloco em, no mínimo, 6 sub- redes distintas para segmentar diferentes setores (Financeiro, RH, Gabinete etc.). Para otimizar o uso de endereços, foi decidido usar uma única máscara de sub-rede para todas as novas redes criadas. Após realizar a divisão, assinale a opção que corresponde ao endereço de broadcast da primeira sub-rede utilizável.",
       "alternatives": {
         "A": "192.168.10.31",
@@ -157,7 +211,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 4
+      "page_number": 4,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "83491e0a7a068bae"
     },
     {
       "question_number": 12,
@@ -174,7 +230,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "32ff4efbe43bf79b"
     },
     {
       "question_number": 13,
@@ -191,11 +249,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "0926b97abddc3707"
     },
     {
       "question_number": 14,
-      "discipline": "Legislação Específica",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A equipe de TI de um determinado órgão público está finalizando o Estudo Técnico Preliminar (ETP) para a contratação de serviços em nuvem no modelo Infraestrutura como Serviço (IaaS). Um dos pontos de atenção levantados no documento é a necessidade de delimitar com precisão as responsabilidades de segurança para garantir a conformidade com a Lei Geral de Proteção de Dados (LGPD). A equipe precisa definir de maneira clara no futuro Termo de Referência o que cabe ao provedor de nuvem e o que permanece como atribuição do órgão. Considerando o modelo de responsabilidade compartilhada, assinale a opção que descreve corretamente a divisão de atribuições entre o provedor e o órgão contratante",
       "alternatives": {
         "A": "A responsabilidade do contratante limita-se à gestão dos usuários e à classificação dos dados inseridos, enquanto o provedor é responsável por todas as camadas de segurança, desde a física até a aplicação.",
@@ -208,11 +268,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 5
+      "page_number": 5,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "c475c33abdc3cdfe"
     },
     {
       "question_number": 15,
-      "discipline": "Legislação Específica",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Leia o trecho a seguir. A Prefeitura de uma grande cidade constantemente ameaçada por eventos climáticos extremos como chuvas intensas, inundações e deslizamentos de terra, decidiu implementar uma plataforma de Gêmeo Digital (Digital Twin) para a gestão de resiliência urbana. Trata-se de uma réplica virtual e dinâmica da cidade, sendo alimentado em tempo real por uma vasta rede de sensores da Internet das Coisas (IoT), que inclui pluviômetros automáticos, sensores de nível em rios e lagoas, medidores de umidade do solo e câmeras inteligentes que detectam pontos de alagamento. A adoção de tecnologias de Internet das Coisas (IoT) em projetos públicos dessa natureza traz ganhos significativos em tempo de resposta e prevenção de desastres, mas impõe desafios quanto à conectividade, interoperabilidade, segurança da informação e gestão em larga escala de dispositivos heterogêneos. Assinale a opção que apresenta corretamente um desafio técnico crítico e uma solução compatível com esse tipo de aplicação de IoT no setor público.",
       "alternatives": {
         "A": "A variação climática local impossibilita o uso de sensores remotos; a solução é limitar o Digital Twin a simulações históricas sem dados em tempo real.",
@@ -225,11 +287,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "44acaf62aeed9e20"
     },
     {
       "question_number": 16,
-      "discipline": "Legislação Específica",
+      "discipline": "Conhecimentos Específicos",
       "statement": "O órgão \"XPTO\" está modernizando sua infraestrutura de TI. Parte de seus servidores está sendo migrada para um ambiente de nuvem pública, e a política de trabalho remoto foi adotada permanentemente. O Diretor de Segurança da Informação (CISO) projetou uma arquitetura que garante a segurança dos dados em trânsito e o controle de acesso à rede. Os requisitos eram: 1. funcionários remotos devem acessar a rede interna da empresa de forma segura e criptografada pela internet. 2. o tráfego de rede entre a internet, a rede interna (on-premises) e o ambiente em nuvem deve ser rigorosamente controlado, permitindo apenas comunicações legítimas. 3. o tráfego permitido deve ser continuamente inspecionado em busca de assinaturas de ataques conhecidos ou comportamentos maliciosos, com bloqueio automático de ameaças. 4. o portal web da empresa, acessado por clientes, deve garantir sua autenticidade (provar que o site é quem diz ser) e proteger os dados dos clientes com uma conexão sigilosa (HTTPS). Assinale a opção que descreve corretamente a combinação de tecnologias mais adequada para atender a todos os requisitos de segurança do órgão.",
       "alternatives": {
         "A": "Implementar uma única solução de VPN que também atue como Firewall e IPS, e usar Criptografia Assimétrica para toda a troca de dados dos clientes no portal, pois ela é mais rápida que a simétrica para grandes volumes de dados.",
@@ -242,11 +306,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 6
+      "page_number": 6,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "437a33d2a2602a9f"
     },
     {
       "question_number": 17,
-      "discipline": "Legislação Específica",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Sobre o Sistema de Valor de Serviço (SVS) da ITIL v4, analise as afirmativas a seguir. I. O SVS descreve como todos os componentes e as atividades de uma organização trabalham juntos como um sistema para facilitar a criação de valor, transformando oportunidade e demanda em produtos e serviços. II. A Governança é um componente essencial do SVS, sendo responsável por avaliar, dirigir e monitorar as atividades da organização para garantir que o desempenho e a conformidade estejam alinhados aos objetivos estratégicos. III. Dentro do SVS, as Práticas de Gerenciamento, como “Gerenciamento de Incidentes”, devem ser aplicadas de forma isolada, sem a necessidade de serem influenciadas pela cultura organizacional ou pela Melhoria Contínua. Está correto o que se afirma em",
       "alternatives": {
         "A": "III, apenas.",
@@ -259,11 +325,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "7315e9f7abdccb7d"
     },
     {
       "question_number": 18,
-      "discipline": "Legislação Específica",
+      "discipline": "Conhecimentos Específicos",
       "statement": "Durante a contratação de um serviço de suporte técnico em TI para um órgão público, foi incluído no contrato um Acordo de Nível de Serviço (SLA - Service Level Agreement), especificando metas mensuráveis de desempenho e disponibilidade. A equipe responsável pela fiscalização contratual ressaltou que o correto acompanhamento desses indicadores é essencial tanto para garantir a qualidade da entrega quanto para aplicar penalidades em caso de descumprimento. Assinale a opção que apresenta, corretamente, uma característica ou função típica de um SLA.",
       "alternatives": {
         "A": "O SLA é um documento interno da área de TI que define metas estratégicas de longo prazo, sem vinculação contratual.",
@@ -276,7 +344,9 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a178442192a345eb"
     },
     {
       "question_number": 19,
@@ -293,11 +363,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "18aa12d95a9a8cce"
     },
     {
       "question_number": 20,
-      "discipline": "Legislação Específica",
+      "discipline": "Conhecimentos Específicos",
       "statement": "A Administração de um órgão público, que enfrenta desafios complexos no gerenciamento de tráfego, decide usar o mecanismo da Lei Complementar nº 182/2021 para testar uma solução inovadora proposta por uma startup. Após um processo licitatório na modalidade especial, a Prefeitura celebra um Contrato Público para Solução Inovadora (CPSI) com a empresa selecionada para desenvolver e validar um novo sistema semafórico baseado em inteligência artificial. De acordo com as regras estabelecidas pelo Marco Legal das Startups para o CPSI, assinale a opção que descreve corretamente a condução e os possíveis desdobramentos desse contrato.",
       "alternatives": {
         "A": "O CPSI terá uma vigência máxima de 48 meses, e, ao final, caso a solução seja bem-sucedida, a Administração poderá contratar diretamente o fornecimento do produto por tempo indeterminado.",
@@ -310,7 +382,13 @@
       "annulled": false,
       "has_image": false,
       "image_path": null,
-      "page_number": 7
+      "page_number": 7,
+      "module": "Conhecimentos Específicos",
+      "question_hash": "a899ff98839ab3df"
     }
-  ]
+  ],
+  "year": 2024,
+  "uf": "RJ",
+  "level": "Superior",
+  "question_type": "multiple_choice_5"
 }
