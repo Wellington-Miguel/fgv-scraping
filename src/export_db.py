@@ -19,13 +19,23 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sqlite3
 import time
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 import requests
 from tqdm import tqdm
+
+_CTRL_CHARS_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+
+
+def _clean_pg_str(val: Optional[str]) -> Optional[str]:
+    """Remove null bytes (\\u0000) e caracteres de controle inválidos no PostgreSQL TEXT/JSONB."""
+    if val is None:
+        return None
+    return _CTRL_CHARS_RE.sub("", val)
 
 SUPABASE_SCHEMA_DDL = """-- =============================================================================
 -- 1. SCHEMA RELACIONAL OTIMIZADO PARA SUPABASE (FREE TIER - 500 MB)
@@ -229,15 +239,19 @@ def prepare_relational_payloads(
             if q_hash not in questions_map or (
                 q.get("base_text") and not questions_map[q_hash].get("base_text")
             ):
+                clean_alts = {
+                    k: _clean_pg_str(v) if isinstance(v, str) else v
+                    for k, v in q["alternatives"].items()
+                }
                 questions_map[q_hash] = {
                     "question_hash": q_hash,
                     "banca": banca,
-                    "discipline": q["discipline"],
-                    "module": q.get("module", "Conhecimentos Específicos"),
+                    "discipline": _clean_pg_str(q["discipline"]) or "Conhecimentos Específicos",
+                    "module": _clean_pg_str(q.get("module", "Conhecimentos Específicos")),
                     "question_type": q_type,
-                    "base_text": q.get("base_text"),
-                    "statement": q["statement"],
-                    "alternatives": q["alternatives"],
+                    "base_text": _clean_pg_str(q.get("base_text")),
+                    "statement": _clean_pg_str(q["statement"]) or "",
+                    "alternatives": clean_alts,
                     "answer": q["answer"],
                     "annulled": bool(q.get("annulled")),
                     "has_image": bool(q.get("has_image")),
@@ -477,14 +491,18 @@ def main() -> None:
     parser.add_argument(
         "--supabase-url",
         type=str,
-        default=os.environ.get("SUPABASE_URL"),
-        help="URL do projeto Supabase (ex: https://xyz.supabase.co) ou variável SUPABASE_URL.",
+        default=os.environ.get("SUPABASE_URL", "https://wxbtsbsfwkzggnvfnega.supabase.co"),
+        help="URL do projeto Supabase (padrão: https://wxbtsbsfwkzggnvfnega.supabase.co).",
     )
     parser.add_argument(
         "--supabase-key",
         type=str,
-        default=os.environ.get("SUPABASE_SERVICE_ROLE_KEY") or os.environ.get("SUPABASE_KEY"),
-        help="Chave service_role do Supabase ou variável SUPABASE_SERVICE_ROLE_KEY.",
+        default=(
+            os.environ.get("SUPABASE_SECRET_KEY")
+            or os.environ.get("SUPABASE_SERVICE_ROLE_KEY")
+            or os.environ.get("SUPABASE_KEY")
+        ),
+        help="Secret key (sb_secret_...) ou service_role do Supabase.",
     )
     args = parser.parse_args()
 
