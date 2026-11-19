@@ -1,0 +1,23 @@
+# Bytecode e caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente e segredos locais
+.env
+.env.*
+
+# Bancos SQLite/dumps gerados localmente para teste de deploy
+*.db
+*.sqlite
+*.sqlite3
+data/exports/
+

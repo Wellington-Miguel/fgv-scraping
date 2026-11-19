@@ -35,6 +35,7 @@ Além do catálogo mestre `./data/processed/_index.json`, cada arquivo individua
 
 ```json
 {
+  "banca": "FGV",
   "concurso_slug": "cnu2024",
   "concurso_title": "Concurso Público Nacional Unificado - CNU 2024",
   "cargo_slug": "bloco-1-infraestrutura-exatas-e-engenharias",
@@ -64,6 +65,7 @@ Além do catálogo mestre `./data/processed/_index.json`, cada arquivo individua
       "annulled": false,
       "has_image": false,
       "image_path": null,
+      "image_url": null,
       "page_number": 2
     }
   ]

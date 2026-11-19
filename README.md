@@ -19,24 +19,27 @@ A base está **100% consolidada, higienizada, indexada (`_index.json`) e pronta 
 - **749 questões dependentes de interpretação enriquecidas com `base_text`** (propagação automática do texto-base compartilhado da questão líder do bloco)
 - **1.738 questões anuladas** oficialmente identificadas (`annulled: true`, `answer: "ANULADA"`)
 - **5.511 questões com imagens/gráficos recortados** em 200 DPI (`./data/processed/images/`, incluindo questões com alternativas puramente visuais/Libras/desenho técnico)
-- **Catálogo mestre `./data/processed/_index.json`** e **100% dos arquivos enriquecidos com metadados para filtros da aplicação**: `year` (2012–2026), `uf` (27 UFs + `BR`), `level` (`Superior`, `Médio`, `Fundamental`), `question_type`, `cargo_title` higienizado, `module`, `discipline`, `base_text` e `question_hash`
+- **Catálogo mestre `./data/processed/_index.json`** e **100% dos arquivos enriquecidos com metadados para filtros da aplicação**: `banca` (`"FGV"`), `year` (2012–2026), `uf` (27 UFs + `BR`), `level` (`Superior`, `Médio`, `Fundamental`), `question_type`, `cargo_title` higienizado, `module`, `discipline`, `base_text`, `image_url` (CDN gratuita jsDelivr/GitHub) e `question_hash`
 
-Consulte o relatório completo em [doc/panorama_extracao.md](doc/panorama_extracao.md).
+Consulte o relatório completo em [doc/panorama_extracao.md](doc/panorama_extracao.md) e o guia de arquitetura e hospedagem gratuita em [doc/plano_deploy_gratuito.md](doc/plano_deploy_gratuito.md).
 
 ## Estrutura do Projeto
 
 ```text
 .
+├── .gitignore
 ├── requirements.txt
 ├── README.md
 ├── doc/
-│   └── panorama_extracao.md  # Relatório completo do banco consolidado, taxonomia e esquema JSON
+│   ├── panorama_extracao.md      # Relatório completo do banco consolidado, taxonomia e esquema JSON
+│   └── plano_deploy_gratuito.md  # Arquitetura e passo a passo de deploy $0/mês (Supabase/Turso + jsDelivr + Vercel)
 └── src/
-    ├── crawler_fgv.py        # Coleta resiliente (Playwright) + pareamento Cargo/Tipo 1 + fallback Wayback
-    ├── parser_fgv.py         # Parser 2 colunas (PyMuPDF), 4 padrões de gabarito, disciplinas e recorte visual
-    ├── consolidate_fgv.py    # Consolidação final: taxonomia (61 disciplinas), base_text, _index.json e metadados
-    ├── ollama_helper.py      # Integração local Ollama (llama3.1:8b) com Guarda Estrita de Veracidade
-    └── main.py               # CLI unificada (argparse)
+    ├── crawler_fgv.py            # Coleta resiliente (Playwright) + pareamento Cargo/Tipo 1 + fallback Wayback
+    ├── parser_fgv.py             # Parser 2 colunas (PyMuPDF), 4 padrões de gabarito, disciplinas e recorte visual
+    ├── consolidate_fgv.py        # Consolidação final: taxonomia (61 disciplinas), base_text, _index.json e metadados
+    ├── export_db.py              # Exportador SQL deduplicado (N:N via question_hash) para PostgreSQL/Supabase e SQLite/Turso
+    ├── ollama_helper.py          # Integração local Ollama (llama3.1:8b) com Guarda Estrita de Veracidade
+    └── main.py                   # CLI unificada (argparse)
 ```
 
 ## Instalação
@@ -62,6 +65,11 @@ Consulte o relatório completo em [doc/panorama_extracao.md](doc/panorama_extrac
 - **Executar o pipeline de consolidação, higienização taxonômica, propagação de `base_text` e geração de `_index.json`**:
   ```bash
   python -m src.consolidate_fgv
+  ```
+
+- **Exportar o banco deduplicado para PostgreSQL (Supabase / Neon) e SQLite (Turso / Cloudflare D1)**:
+  ```bash
+  python -m src.export_db
   ```
 
 - **Executar o parser com fallback assistido pelo Ollama (`llama3.1:8b` + Veracity Guard)**:

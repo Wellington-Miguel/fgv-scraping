@@ -1111,6 +1111,15 @@ def run_full_consolidation(
             q["question_hash"] = q_hash
             unique_hashes.setdefault(q_hash, []).append(f"{stem}#Q{q['question_number']}")
 
+            # URL pública via CDN gratuita (jsDelivr -> GitHub) para uso direto no App sem custo de bucket
+            if q.get("has_image") and q.get("image_path"):
+                img_rel = q["image_path"].lstrip("./")
+                q["image_url"] = (
+                    f"https://cdn.jsdelivr.net/gh/Wellington-Miguel/fgv-scraping@main/{img_rel}"
+                )
+            else:
+                q["image_url"] = None
+
             # Garantia extra: se a prova for 4 alternativas (E is None) e answer=='E', ajusta para ANULADA
             if q["alternatives"].get("E") is None and q["alternatives"].get("A") is not None and q.get("answer") == "E":
                 q["answer"] = "ANULADA"
@@ -1119,12 +1128,13 @@ def run_full_consolidation(
         # 4b. Propagar texto-base compartilhado (base_text) nas questões de interpretação
         total_base_texts += propagate_shared_base_texts(qs)
 
-        # 5b. Metadados do exame (year, uf, level, question_type)
+        # 5b. Metadados do exame (banca, year, uf, level, question_type)
         meta_extra = infer_exam_metadata(c_slug, d.get("concurso_title", ""), clean_ct)
         is_ce = all(q["alternatives"].get("A") is None for q in qs)
         is_4alt = (not is_ce) and all(q["alternatives"].get("E") is None for q in qs)
         q_type = "certo_errado" if is_ce else ("multiple_choice_4" if is_4alt else "multiple_choice_5")
 
+        d["banca"] = "FGV"
         d["year"] = meta_extra["year"]
         d["uf"] = meta_extra["uf"]
         d["level"] = meta_extra["level"]
@@ -1140,6 +1150,7 @@ def run_full_consolidation(
         exams_catalog.append(
             {
                 "exam_id": stem,
+                "banca": "FGV",
                 "file": jpath.name,
                 "concurso_slug": c_slug,
                 "concurso_title": d.get("concurso_title", ""),
@@ -1158,6 +1169,8 @@ def run_full_consolidation(
 
     # 6. Salvar catálogo mestre data/processed/_index.json para o App
     index_payload = {
+        "banca": "FGV",
+        "schema_version": "2.1",
         "total_exams": len(exams_catalog),
         "total_questions": total_questions_final,
         "unique_questions": len(unique_hashes),
