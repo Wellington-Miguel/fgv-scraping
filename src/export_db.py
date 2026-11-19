@@ -491,8 +491,8 @@ def main() -> None:
     parser.add_argument(
         "--supabase-url",
         type=str,
-        default=os.environ.get("SUPABASE_URL", "https://wxbtsbsfwkzggnvfnega.supabase.co"),
-        help="URL do projeto Supabase (padrão: https://wxbtsbsfwkzggnvfnega.supabase.co).",
+        default=os.environ.get("SUPABASE_URL"),
+        help="URL do projeto Supabase (ex: https://xyz.supabase.co) ou variável SUPABASE_URL.",
     )
     parser.add_argument(
         "--supabase-key",
